@@ -1,0 +1,18 @@
+[
+  {
+    "icon": "search",
+    "text": "Search my medical notes and the MOC - CARDIOLOGIA for all entries related to Insuficiencia cardiaca"
+  },
+  {
+    "icon": "file-plus",
+    "text": "Create a new clinical case note using the TPL - Casos clinicos template in the 40_Casos clinicos folder"
+  },
+  {
+    "icon": "globe",
+    "text": "Research the latest clinical guidelines for Heart Failure to update my Insuficiencia cardiaca note"
+  },
+  {
+    "icon": "folder-tree",
+    "text": "Organize my entries in 50_Guardias and summarize the key learning points from my recent shifts"
+  }
+]

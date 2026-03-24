@@ -1,0 +1,50 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "99_Plantillas",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "20_Farmacos",
+      "template": "99_Plantillas/TPL - Farmaco.md"
+    },
+    {
+      "folder": "10_Patologias",
+      "template": "99_Plantillas/TPL - Patologia.md"
+    },
+    {
+      "folder": "40_Casos clinicos",
+      "template": "99_Plantillas/TPL - Casos clinicos.md"
+    },
+    {
+      "folder": "50_Guardias",
+      "template": "99_Plantillas/TPL -  Guardia.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}
