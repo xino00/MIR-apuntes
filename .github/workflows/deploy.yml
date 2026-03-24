@@ -55,6 +55,9 @@ jobs:
             --exclude="*.sh" \
             . /tmp/quartz/content/
 
+      - name: Set homepage
+        run: cp /tmp/quartz/content/90_MOCs/000_INICIO.md /tmp/quartz/content/index.md
+
       - name: Build Quartz
         working-directory: /tmp/quartz
         run: npx quartz build
