@@ -122,16 +122,11 @@ jobs:
             --exclude=".github" \
             --exclude=".obsidian" \
             --exclude=".agents" \
-            --exclude="50_Guardias" \
-            --exclude="40_Casos clinicos" \
-            --exclude="99_Plantillas" \
             --exclude="gemini-scribe" \
             --exclude="tmp" \
             --exclude="sync.sh" \
             --exclude="CLAUDE.md" \
             --exclude="*.sh" \
-            --exclude="Libros y referencias/*.pdf" \
-            --exclude="Libros y referencias/*.txt" \
             . /tmp/quartz/content/
 
       - name: Build Quartz
