@@ -21,11 +21,15 @@ jobs:
     steps:
       - name: Checkout vault
         uses: actions/checkout@v4
+        env:
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 22
+        env:
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
       - name: Clone Quartz
         run: git clone --depth 1 https://github.com/jackyzha0/quartz.git /tmp/quartz
@@ -137,6 +141,8 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: /tmp/quartz/public
+        env:
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
   deploy:
     needs: build
