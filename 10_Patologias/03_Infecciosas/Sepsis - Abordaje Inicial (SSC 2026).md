@@ -1,0 +1,165 @@
+# Sepsis y [[Shock]] Séptico
+
+**Fecha de revisión:** 24/03/2026
+**Etiquetas:** #patologia #infecciosas #urgencias #Sepsis3 #SSC2026
+
+---
+
+> [!important] 🚨 Definiciones (Sepsis-3)
+>
+> - **Sepsis:** Disfunción orgánica potencialmente mortal causada por una respuesta desregulada del huésped a la infección. Clínicamente: **Infección Sospechada + ∆SOFA ≥ 2 puntos**.
+> - **Shock Séptico:** Subgrupo de la sepsis con alteraciones circulatorias y metabólicas graves. Clínicamente:
+>   - Necesidad de **vasopresores** para mantener TAM ≥ 65 mmHg.
+>   - **Lactato > 2 mmol/L** (tras reanimación hídrica adecuada).
+
+---
+
+## 🔬 Cribado y Diagnóstico (Actualización 2026)
+
+> [!tip] Novedad Guías SSC 2026
+> El diagnóstico es **clínico**. No se debe confirmar ni descartar la sepsis utilizando un único biomarcador ni prueba de respuesta rápida del huésped. Se enfatiza el inicio del triaje incluso en fase prehospitalaria (ambulancias).
+
+### Herramientas Sistemáticas de Cribado (Ej. NEWS, MEWS, SIRS)
+
+*Las guías 2026 **recomiendan el uso de NEWS, NEWS2, MEWS o SIRS sobre qSOFA** como herramienta aislada de cribado sistemático por su mayor sensibilidad.*
+
+- Se sugiere la implementación de protocolos tipo **"Código Sepsis"** o equipos de respuesta multidisciplinar para agilizar el diagnóstico.
+
+#### Criterios SIRS (Síndrome de Respuesta Inflamatoria Sistémica)
+
+*Positivo si se cumplen **≥ 2 criterios**:*
+
+- **Temperatura:** > 38°C o < 36°C
+- **Frecuencia Cardíaca:** > 90 lpm
+- **Frecuencia Respiratoria:** > 20 rpm o PaCO₂ < 32 mmHg
+- **Leucocitos:** > 12.000/mm³, < 4.000/mm³ o > 10% formas inmaduras (cayados)
+
+#### Escala NEWS2 (National Early Warning Score 2)
+
+*Sistema de puntuación basado en 7 parámetros fisiológicos. Una puntuación total **≥ 5** (o llegar a 3 puntos en un solo parámetro) sugiere un alto riesgo o deterioro clínico, requiriendo respuesta urgente.*
+Parámetros evaluados (puntúan de 0 a 3 según desviación de la normalidad):
+
+1. **Frecuencia Respiratoria**
+2. **Saturación de Oxígeno** (SpO₂ Escala 1 general o Escala 2 para insuficiencia respiratoria hipercápnica celular)
+3. **Uso de Oxígeno Suplementario** (Sí = suma 2 puntos)
+4. **Presión Arterial Sistólica (PAS)**
+5. **Frecuencia Cardíaca**
+6. **Nivel de Consciencia** (Escala ACVPU: Alerta, nueva Confusión, responde a Voz, responde a Dolor, Inconsciente)
+7. **Temperatura**
+
+---
+
+### qSOFA (Quick SOFA)
+
+*Ya no se recomienda como herramienta única de cribado inicial (SSC 2026), pero sigue siendo útil para predecir mal pronóstico clínico si ≥ 2.*
+
+- **F**recuencia Respiratoria ≥ 22 rpm.
+- **A**lteración del estado mental (GCS < 15).
+- **P**resión Arterial Sistólica ≤ 100 mmHg.
+
+### Escala SOFA (Sequential Organ Failure Assessment)
+
+*El diagnóstico de Sepsis requiere un aumento de **≥ 2 puntos** sobre el valor basal (que se asume como 0 si no se conoce previa).*
+
+| Sistema / Puntos | 1 | 2 | 3 | 4 |
+| :--- | :--- | :--- | :--- | :--- |
+| **Respiratorio** (PaO₂/FiO₂) | < 400 | < 300 | < 200 (con soporte) | < 100 (con soporte) |
+| **Coagulación** (Plaquetas) | < 150.000 | < 100.000 | < 50.000 | < 20.000 |
+| **Hígado** (Bilirrubina) | 1.2 – 1.9 | 2.0 – 5.9 | 6.0 – 11.9 | > 12.0 |
+| **Cardiovascular** (TAM) | < 70 mmHg | [[Dopamina]] ≤ 5 o dobutamina | NA/A ≤ 0.1 o [[Dopamina]] > 5 | NA/A > 0.1 o [[Dopamina]] > 15 |
+| **Neurológico** (Glasgow) | 13 - 14 | 10 - 12 | 6 - 9 | < 6 |
+| **Renal** (Creatinina o Diurisis) | 1.2 – 1.9 | 2.0 – 3.4 | 3.5 – 4.9 (o < 500 mL/d) | > 5.0 (o < 200 mL/d) |
+
+*(Dosis de vasopresores en mcg/kg/min. NA: Noradrenalina; A: [[Adrenalina]])*
+
+---
+
+## 💊 Tratamiento: El "Bundle" de Manejo Rápido (SSC 2026)
+
+> [!danger] ⚡ Tiempos de Actuación (Actualización 2026)
+> - **Inmediato (≤ 1h):** Si hay **Shock Séptico** o Alta Sospecha (Definitiva/Probable) de Sepsis.
+> - **Evaluación Rápida (≤ 3h):** Si hay Posible Sepsis sin shock, investigar activamente focos infecciosos y no infecciosos y administrar antimicrobianos si persiste la duda a las 3 horas.
+> - **Diferir Antimicrobianos:** Si hay baja probabilidad de infección.
+
+1. **Lactato:** Medir lactato plasmático (volver a medir si > 2 mmol/L).
+2. **Cultivos:** Obtener 2x hemocultivos **antes** de iniciar antibióticos (no demorar el inicio de antibióticos, sin embargo).
+3. **Antibióticos:** Iniciar antibioterapia empírica dirigida al foco sospechado.
+    - *Nota 2026:* Cobertura empírica para MDR, anaerobios o antifúngicos **SOLO** sugerida en pacientes con factores de riesgo específicos evidenciados.
+4. **Fluidos:** Si hay hipotensión o lactato elevado (ej. ≥ 4), iniciar carga de **30 mL/kg** de cristaloides balanceados.
+5. **Vasopresores:** Si persiste hipotensión. Se sugiere usar vasopresores vía periférica de inicio precoz para recuperar perfusión antes de conseguir vía central.
+    - **1ª línea:** **Noradrenalina**.
+    - **2ª línea:** Vasopresina.
+
+---
+
+## 🔍 Manejo del Foco (Source Control)
+
+> [!tip] Control Temprano (SSC 2026)
+> Para focos anatómicos específicos, realizar control precoz idealmente en las **primeras 6 horas** tras el diagnóstico.
+
+## 💊 Antibioterapia Empírica según Foco (SSC 2026)
+
+> [!important] ⏱️ Regla de Oro
+> Inicio de la terapia lo antes posible. Fuerte recomendación (SSC 2026) para la **desescalada antimicrobiana** tan pronto se tenga despistaje microbiológico y antibiograma.
+
+| Sospecha de Foco            | Pauta Empírica (SSC 2021)          | Dosis y Posología                                                         |
+| :-------------------------- | :--------------------------------- | :------------------------------------------------------------------------ |
+| **Respiratorio (Neumonía)** | [[Ceftriaxona]] + [[Azitromicina]] | **Ceftriaxona:** 2 g IV cada 24h. **Azitromicina:** 500 mg IV cada 24h.   |
+| **Urinario (Urosepsis)**    | Ceftriaxona o [[Gentamicina]]      | **Ceftriaxona:** 2 g IV cada 24h. **Gentamicina:** 5-7 mg/kg IV cada 24h. |
+| **Intra-abdominal**         | Ceftriaxona + [[Metronidazol]]     | **Ceftriaxona:** 2 g IV cada 24h. **Metronidazol:** 500 mg IV cada 8h.    |
+| **Multirresistentes (MDR)** | Piperacilina/Tazobactam            | **Pip/Tazo:** 4.5 g IV cada 6-8h (Perfusión extendida 4h).                |
+| **BLEE / Shock grave**      | Meroperem                          | **[[Meropenem]]:** 1 - 2 g IV cada 8h (Perfusión extendida).              |
+| **SARM (Staph)**            | [[Vancomicina]]                    | **Vancomicina:** Carga 25-30 mg/kg, luego 15-20 mg/kg cada 12h.           |
+|                             |                                    |                                                                           |
+
+---
+
+> [!info] Identificación y Control
+>
+> - Buscar el foco: Pulmonar (Rx/TAC), Urinario (Sonda/Eco), Abdominal (Eco/TAC), Partes blandas.
+> - **Control del foco:** Drenaje de abscesos, desbridamiento de tejido necrótico, retirada de dispositivos infectados (VVC, Sondas).
+
+---
+
+## 🏥 Criterios de Ingreso en UCI y Adecuación Terapéutica
+
+> [!important] Triaje Crítico
+> El ingreso en UCI debe basarse en el beneficio potencial y la reversibilidad de la situación aguda.
+
+### Modelo de Prioridades (SCCM / SEMICYUC)
+
+- **Prioridad 1:** Inestables con necesidad de soporte intensivo no disponible fuera (ej. Shock séptico con vasopresores, Ventilación Mecánica). Sin limitaciones de tratamiento.
+- **Prioridad 2:** Estables con alto riesgo de deterioro (monitorización estrecha). Sin limitaciones.
+- **Prioridad 3:** Inestables con baja probabilidad de supervivencia por enfermedad basal (ej. Neoplasia avanzada). Límites al esfuerzo terapéutico (ej. No intubar, No RCP).
+- **Prioridad 4:** Ingreso no indicado. O bien están "demasiado bien" para beneficiarse, o "demasiado mal" (futilidad, daño irreversible).
+
+### Criterios de Exclusión (No candidatos a UCI)
+
+*Situaciones donde se priorizan los **Cuidados Paliativos y de Confort**:*
+
+1. **Futilidad:** Enfermedades terminales con pronóstico de vida < 6 meses.
+2. **Daño Cerebral:** Estados vegetativos o daño neurológico irreversible.
+3. **Decisión del Paciente:** Voluntades anticipadas o decisión compartida que rechaza maniobras invasivas.
+4. **Reserva Funcional:** Fragilidad extrema o demencia avanzada (GDS 7).
+
+---
+
+## 📑 Guía Completa de Sepsis (SSC 2026)
+
+Para consultar la actualización completa, navega por las notas:
+
+1. [[Sepsis - Abordaje Inicial (SSC 2026)]] (Esta nota)
+2. [[Sepsis - Hemodinámica y Reanimación]]
+3. [[Sepsis - Antiinfecciosos y Soporte Vital]]
+4. [[Sepsis - Cuidados Post-UCI y Objetivos]]
+
+---
+
+### 🔗 Enlaces / Bibliografía
+
+- [[000_INICIO]]
+- [Guía Sepsis 2026 (SSC)](<obsidian://open?vault=MIR&file=Libros%20y%20referencias/SEPSIS%202026.pdf>)
+- [Guía Evans et al. 2021 (SSC)](obsidian://open?vault=MIR&file=Evans_et_al-2021-Intensive_Care_Medicine.pdf)
+- [[MOC - INFECCIOSAS]]
+
+---
