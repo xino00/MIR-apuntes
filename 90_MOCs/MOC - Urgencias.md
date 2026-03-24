@@ -11,28 +11,20 @@ tags: [moc, urgencias]
 
 - [[Algoritmo de PCR Avanzada (Soporte Vital Avanzado)|RCP Avanzada (SVA)]]
 - [[Shock]]
-- [[Sepsis - Abordaje Inicial (SSC 2026)|Sepsis - Abordaje Inicial]]
-- [[Sepsis - Hemodinámica y Reanimación]]
-- [[Sepsis - Antiinfecciosos y Soporte Vital]]
 - [[Insuficiencia Respiratoria Aguda (IRA)]]
 - [[Síndrome de Distrés Respiratorio Agudo (SDRA)]]
 
 ---
 
-## 🫀 Urgencias Cardiovasculares y Respiratorias
+## 🔴 Patología Aguda Cross-Specialty
 
 - [[Dolor Torácico - Abordaje y Triage]]
 - [[Dolor Torácico - Perfiles Clínicos]]
 - [[Disnea Aguda - Evaluación Urgente]]
-- [[Insuficiencia cardiaca aguda]]
-- [[Fibrilación Auricular (FA)]]
-- [[Arritmias]]
-- [[TEP - Tromboembolismo Pulmonar]]
-- [[Taponamiento Cardiaco]]
 
 ---
 
-## 🧪 Trastornos Metabólicos e Iónicos
+## 🧪 Trastornos Iónicos y Ácido-Base
 
 - [[Trastornos Ácido-Base - 1. Lectura Sistemática]]
 - [[Trastornos Ácido-Base - 2. Acidosis Metabólica]]
@@ -43,11 +35,36 @@ tags: [moc, urgencias]
 - [[Hipopotasemia]]
 - [[Hiperpotasemia]]
 - [[Trastornos del Calcio y Magnesio]]
-- [[Fracaso Renal Agudo (FRA)]]
 
 ---
 
-## 🦴 Exploración Física y Procedimientos
+## 🫀 Urgencias por Especialidad
+
+**Cardiología**
+- [[Insuficiencia cardiaca aguda]]
+- [[Fibrilación Auricular (FA)]]
+- [[Arritmias]]
+- [[TEP - Tromboembolismo Pulmonar]]
+- [[Taponamiento Cardiaco]]
+
+**Neumología**
+- [[Asma - Crisis Asmática]]
+- [[EPOC - Exacerbación y Manejo Agudo]]
+
+**Nefrología**
+- [[Fracaso Renal Agudo (FRA)]]
+
+**Infecciosas**
+- [[Sepsis - Abordaje Inicial (SSC 2026)|Sepsis - Abordaje Inicial]]
+- [[Sepsis - Hemodinámica y Reanimación]]
+- [[Sepsis - Antiinfecciosos y Soporte Vital]]
+
+**Neurología**
+- [[Cefaleas - Abordaje Inicial]]
+
+---
+
+## 🦴 Exploración Física
 
 - [[Exploración de Rodilla]]
 - [[Exploración de Tobillo y Antepié]]
