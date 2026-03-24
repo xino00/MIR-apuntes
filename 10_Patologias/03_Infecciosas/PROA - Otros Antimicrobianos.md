@@ -1,5 +1,5 @@
 ---
-aliases: [PROA Aminoglucósidos, Dosis [[Vancomicina]]]
+aliases: [PROA Aminoglucósidos, Dosis Vancomicina]
 tags: [farmacología, infecciosas, antibioticos, toxicos]
 ---
 # PROA - Otros Antimicrobianos (Aminoglucósidos, Glucopéptidos y Miscelánea)
