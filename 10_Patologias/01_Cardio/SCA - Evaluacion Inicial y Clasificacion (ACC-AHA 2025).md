@@ -108,30 +108,6 @@ Variables (1 punto cada una, maximo 7): edad ≥ 65, ≥ 3 factores de riesgo CV
 
 ---
 
-## 🔢 Sistema de Clasificacion ACC/AHA
-
-### Clase de Recomendacion (COR)
-
-| COR | Definicion |
-| :--- | :--- |
-| **1** | Beneficio >>> Riesgo. **SE RECOMIENDA / ESTA INDICADO.** |
-| **2a** | Beneficio >> Riesgo. **ES RAZONABLE.** |
-| **2b** | Beneficio ≥ Riesgo. **PUEDE CONSIDERARSE.** |
-| **3: Sin Beneficio** | No se ha demostrado beneficio. **NO ES UTIL.** |
-| **3: Dano** | Riesgo > Beneficio. **POTENCIALMENTE DANINO.** |
-
-### Nivel de Evidencia (LOE)
-
-| LOE | Definicion |
-| :--- | :--- |
-| **A** | Evidencia de alta calidad de ≥ 1 ECA o meta-analisis de ECAs de alta calidad. |
-| **B-R** | Evidencia moderada de ≥ 1 ECA (Randomizado). |
-| **B-NR** | Evidencia moderada de estudios bien disenados no randomizados, observacionales o de registro. |
-| **C-LD** | Evidencia limitada de estudios observacionales o de registro con limitaciones. |
-| **C-EO** | Consenso de opinion de expertos basado en experiencia clinica. |
-
----
-
 ## 📑 Guia Completa de SCA (ACC/AHA 2025)
 
 1. [[SCA - Evaluacion Inicial y Clasificacion (ACC-AHA 2025)]] (Esta nota)
