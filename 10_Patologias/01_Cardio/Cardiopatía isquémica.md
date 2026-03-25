@@ -33,7 +33,7 @@ Clínicamente se presenta como **Angina Estable** (dolor presivo retroesternal q
 ### A. SCASEST (Sin Elevación del ST)
 Incluye la *Angina Inestable* (Troponinas negativas) y el *Infarto Agudo sin elevación ST - IAMSEST* (Troponinas ultrasensibles dinámicamente elevadas). Presenta descenso del ST o T negativas.
 - **Estratificación y Tiempos de Coronariografía:**
-  - **Urgente (< 2 h):** Inestabilidad hemodinámica/[[[[[[[[[[[[[[[[[[[[[[Shock]]]]]]]]]]]]]]]]]]]]]], dolor recurrente/refractario, insuficiencia cardíaca aguda grave o [[[[[[[[[[[[Arritmias]]]]]]]]]]]] ventriculares letales.
+  - **Urgente (< 2 h):** Inestabilidad hemodinámica/[[Shock]], dolor recurrente/refractario, insuficiencia cardíaca aguda grave o [[Arritmias]] ventriculares letales.
   - **Precoz (< 24 h):** Alto riesgo (Elevación troponinas o GRACE alto >140).
 - **Tratamiento Pre-Cateterismo:**
   1. **Doble Antiagregación:** AAS 300 mg (carga) + Segundo inhibidor P2Y12 (Generalmente **Ticagrelor o Prasugrel**, que deben preferirse a Clopidogrel, a administrar una vez se conoce la anatomía coronaria, o antes si demora en la técnica).

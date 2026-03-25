@@ -16,7 +16,7 @@ Se divide en 5 subtipos según el órgano primariamente afectado y la temporalid
 
 | Tipo       | Denominación                      | Descripción Clínica                                       | Ejemplo Frecuente                                                                           |
 | ---------- | --------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| **Tipo 1** | **SCR Agudo**                     | Fallo cardíaco agudo → FRA (Fallo renal agudo)            | Edema agudo de pulmón o [[[[[[[[[[Shock]]]]]]]]]] cardiogénico que causa FRA.                                   |
+| **Tipo 1** | **SCR Agudo**                     | Fallo cardíaco agudo → FRA (Fallo renal agudo)            | Edema agudo de pulmón o [[Shock]] cardiogénico que causa FRA.                                   |
 | **Tipo 2** | **SCR Crónico**                   | Fallo cardíaco crónico → ERC progresiva                   | IC crónica por [[Cardiopatía isquémica]] que desarrolla nefropatía.                             |
 | **Tipo 3** | **Síndrome Renocardíaco Agudo**   | FRA primaria → Fallo cardíaco agudo                       | Glomerulonefritis postinfecciosa aguda con oliguria que causa IC por sobrecarga de volumen. |
 | **Tipo 4** | **Síndrome Renocardíaco Crónico** | ERC primaria → Fallo cardíaco crónico                     | Paciente en hemodiálisis que desarrolla HVI y disfunción diastólica severa.                 |
@@ -54,7 +54,7 @@ Si no hay respuesta a dosis plenas de furosemida:
 - Añadir **Tiazidas** (ej. Hidroclorotiazida o Clortalidona) para bloquear el TCD.
 - Añadir **Inhibidores de la Anhidrasa Carbónica** (Acetazolamida), apoyado por estudio ADVOR (+ 500 mg i.v.).
 - Añadir **iSGLT2** (Empagliflozina / Dapagliflozina) que actúan en túbulo proximal bajando la precarga y mejorando supervivencia a largo plazo.
-- Cuidar **ARM** (Espironolactona / Eplerenona) en fase aguda por riesgo de [[[[Hiperpotasemia]]]] en fallo renal.
+- Cuidar **ARM** (Espironolactona / Eplerenona) en fase aguda por riesgo de [[Hiperpotasemia]] en fallo renal.
 
 ### 3. Inotrópicos y Vasopresores (Perfil *Cold & Wet*)
 - Si existe hipotensión franca e hipoperfusión (Shock Cardiogénico):

@@ -24,7 +24,7 @@ tags: [urgencias, infecciosas, dermatologia]
 - **[[Erisipela]]**:  
   - *Agentes:* S. pyogenes (Afectación dermo-epidérmica superficial, bordes muy delimitados y sobre-elevados). 
   - *Tratamiento Mantenimiento:* [[Cefadroxilo]] 500mg/8h o Cefalexina 500mg/8h (5 días, hasta 10-14 días si complicaciones).
-  - *Alternativas:* [[[[[[[[[[[[Amoxicilina]]]]]]]]]]]] 500mg/8h. No suele pedir hemocultivo.
+  - *Alternativas:* [[Amoxicilina]] 500mg/8h. No suele pedir hemocultivo.
 
 ## 2. Infecciones Profundas y Celulitis
 

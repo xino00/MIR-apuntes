@@ -26,9 +26,9 @@ Para consultar las indicaciones empíricas de primera línea, alternativas por a
 
 Para consultar las pautas estándar, los ajustes avanzados según el FG (< 30 ml/min), consideraciones en Terapias de Reemplazo Renal, insuficiencia hepática y particularidades sobre perfusiones extendidas o medición de niveles séricos, accede a las guías detalladas por familias:
 
-- 🛡️ **[[PROA - Betalactámicos y Cefalosporinas]]**: [[[[[[[[[[[[Amoxicilina]]]]]]]]]]]], Amoxicilina/Clavulánico, [[Cloxacilina]], Piperacilina/Tazobactam, [[Cefuroxima]], [[Ceftriaxona]], [[Cefepime]], [[Ceftazidima]], [[Ertapenem]], [[Meropenem]].
+- 🛡️ **[[PROA - Betalactámicos y Cefalosporinas]]**: [[Amoxicilina]], Amoxicilina/Clavulánico, [[Cloxacilina]], Piperacilina/Tazobactam, [[Cefuroxima]], [[Ceftriaxona]], [[Cefepime]], [[Ceftazidima]], [[Ertapenem]], [[Meropenem]].
 - 🎯 **[[PROA - Quinolonas y Macrólidos]]**: [[Ciprofloxacino]], [[Levofloxacino]], [[Azitromicina]], [[Claritromicina]], [[Clindamicina]], [[Doxiciclina]].
-- ⚖️ **[[PROA - Otros Antimicrobianos]]**: [[Amikacina]], [[Gentamicina]], [[[[[[[[[[[[Vancomicina]]]]]]]]]]]], [[Fosfomicina]], [[Cotrimoxazol]], [[Metronidazol]].
+- ⚖️ **[[PROA - Otros Antimicrobianos]]**: [[Amikacina]], [[Gentamicina]], [[Vancomicina]], [[Fosfomicina]], [[Cotrimoxazol]], [[Metronidazol]].
 
 > [!important] Ajuste Renal General
 > El Filtrado Glomerular (FG) marca el ritmo de administración. Las **dosis de carga** (ej. Vancomicina o Aminoglucósidos en situaciones críticas) generalmente **NO** se modifican en insuficiencia renal per se, solo se ajustan las posteriores de mantenimiento.
