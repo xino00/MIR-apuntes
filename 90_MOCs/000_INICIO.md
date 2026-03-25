@@ -1,30 +1,30 @@
 # 🏥 Mi Bóveda Clínica
 
 ---
+
+> [!abstract] Aviso y Autoría
+> Estos apuntes han sido elaborados por **Juan Arenas Montiel**, residente de Medicina Familiar y Comunitaria, como material personal de estudio y consulta rápida durante el periodo de residencia MIR.
+>
+> **Disclaimer:** Este contenido tiene carácter exclusivamente formativo y de referencia personal. No sustituye el juicio clínico, las guías de práctica clínica oficiales ni la supervisión de un especialista. Puede contener errores, simplificaciones o información desactualizada. No debe utilizarse como única fuente para la toma de decisiones clínicas.
+
 ### ⚡ Supervivencia Urgencias
 > [!danger] Acceso Directo
 > - [[Algoritmo de PCR Avanzada (Soporte Vital Avanzado)|Algoritmo RCP Avanzada]]
-> - [[Manejo Anafilaxia]]
-> - [[Sepsis - Abordaje Inicial (SSC 2021)|Sepsis]]
+> - [[Sepsis - Abordaje Inicial (SSC 2026)|Sepsis]]
 > - [[Cefaleas - Abordaje Inicial|Cefaleas]]
-> - [[Dosis Rescate Dolor]]
-> - [[Calculadoras y Escalas]]
-
 > - [[Cefaleas - Situaciones Especiales y Neuralgias]]
+> - [[Shock]]
+> - [[Disnea Aguda - Evaluación Urgente]]
+> - [[Dolor Torácico - Abordaje y Triage]]
 
 ### 📚 Rotaciones y Especialidades
 - [[MOC - CARDIOLOGIA|MOC - Cardiología]]
 - [[MOC - NEUMOLOGIA|MOC - Neumología]]
-- [[MOC - Digestivo]]
-- [[MOC - Urgencias]]
-- [[MOC - Centro de Salud]]
 - [[MOC - INFECCIOSAS]]
 - [[MOC - NEUROLOGIA]]
-
-### 💊 Fármacos y Vademécum
-- [[MOC - VADEMECUM|Vademécum General]]
+- [[MOC - Urgencias]]
 
 ### 📝 Mi Residencia
-- [[Mis Casos Clínicos]]
-- [[Registro de Guardias]]
-- [[Perlas y Errores]]
+- [[Perlas y errores]]
+
+---

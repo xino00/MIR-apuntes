@@ -1,7 +1,7 @@
 # 🦠 Enfermedades Infecciosas
 
 > [!danger] ⚡ Urgencias / Algoritmos Vitales
-> - [[Sepsis - Abordaje Inicial (SSC 2021)]]
+> - [[Sepsis - Abordaje Inicial (SSC 2026)|Sepsis - Abordaje Inicial]]
 > - [[Sepsis - Hemodinámica y Reanimación]]
 > - [[Sepsis - Antiinfecciosos y Soporte Vital]]
 > - [[Sepsis - Cuidados Post-UCI y Objetivos]]
@@ -13,20 +13,12 @@
   - 💧 [[PROA - Infecciones del Tracto Urinario (ITU)]]
   - 🩹 [[PROA - Infecciones de Piel y Partes Blandas]]
   - 🚽 [[PROA - Infecciones Gastrointestinales]]
-- [[Endocarditis]] (Referenciado en Cardio)
 
-### 💊 Fármacos Clave (Infecciosas)
-- **Guías de Dosificación (PROA):**
-  - 🛡️ [[PROA - Betalactámicos y Cefalosporinas]]
-  - 🎯 [[PROA - Quinolonas y Macrólidos]]
-  - ⚖️ [[PROA - Otros Antimicrobianos]]
-- [[Amoxicilina]]
-- [[Amoxicilina/Clavulánico]]
-- [[Ceftriaxona]]
-- [[Fosfomicina]]
-- [[Ciprofloxacino]]
-- [[Azitromicina]]
+### 💊 Guías de Dosificación (PROA)
+- [[PROA - Betalactámicos y Cefalosporinas]]
+- [[PROA - Quinolonas y Macrólidos]]
+- [[PROA - Otros Antimicrobianos]]
 
 ---
-### 🔗 Enlaces / Bibliografía
+### 🔗 Enlaces
 - [[000_INICIO]]

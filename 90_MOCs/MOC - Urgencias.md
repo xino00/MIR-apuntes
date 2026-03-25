@@ -44,15 +44,26 @@ tags: [moc, urgencias]
 - [[Insuficiencia cardiaca aguda]]
 - [[Fibrilación Auricular (FA)]]
 - [[Arritmias]]
+- [[Pericarditis Aguda]]
 - [[TEP - Tromboembolismo Pulmonar]]
 - [[Taponamiento Cardiaco]]
+- [[SCA - Evaluacion Inicial y Clasificacion (ACC-AHA 2025)|SCA - Evaluación Inicial y Clasificación]]
 
 **Neumología**
 - [[Asma - Crisis Asmática]]
 - [[EPOC - Exacerbación y Manejo Agudo]]
 
+**Digestivo**
+- [[01_Dolor_Abdominal_Generalidades_y_Causas|Dolor Abdominal - Generalidades y Causas]]
+- [[02_Dolor_Abdominal_Anamnesis_y_Exploracion|Dolor Abdominal - Anamnesis y Exploración]]
+- [[03_Dolor_Abdominal_Pruebas_Complementarias|Dolor Abdominal - Pruebas Complementarias]]
+- [[04_Dolor_Abdominal_Manejo_y_Tratamiento|Dolor Abdominal - Manejo y Tratamiento]]
+
 **Nefrología**
 - [[Fracaso Renal Agudo (FRA)]]
+- [[ITU - Abordaje Inicial y Cistitis]]
+- [[Pielonefritis Aguda]]
+- [[Prostatitis Aguda]]
 
 **Infecciosas**
 - [[Sepsis - Abordaje Inicial (SSC 2026)|Sepsis - Abordaje Inicial]]
@@ -61,6 +72,7 @@ tags: [moc, urgencias]
 
 **Neurología**
 - [[Cefaleas - Abordaje Inicial]]
+- [[Cefaleas - Situaciones Especiales y Neuralgias]]
 
 ---
 

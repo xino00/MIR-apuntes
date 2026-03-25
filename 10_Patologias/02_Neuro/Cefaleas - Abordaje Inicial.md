@@ -15,7 +15,7 @@
 > 6. **P**rogression: Cambio de patrón, frecuencia o intensidad en cefalea previa.
 > 7. **P**recipitada por: Maniobras de Valsalva (tos, estornudo).
 > 8. **P**ostural: Aumenta al bipedestación o decúbito.
-> 9. **P**regnancy (Embarazo): Inicio en embarazo o puerperio.
+> 9. **P**regnancy (Embarazo): Inicio en embarazo o puerperio. --> Trombosis venosa cerebral?
 > 10. **P**apiledema o Acúfeno Pulsátil.
 
 ---
@@ -23,7 +23,7 @@
 ## 📋 Clasificación Simplificada
 - **Primarias:** [[Migraña - Guía Terapéutica Completa]], Cefalea Tensional, [[Cefaleas Trigemino-Autonómicas y Tensional]].
 - **Secundarias:** Infección (Meningitis), Vascular (Ictus, Hemorragia), Metabólica, Post-trauma.
-- **Situaciones Especiales:** [[Cefaleas - Situaciones Especiales y Neuralgias]] (Embarazo, Pediatría, Ancianos).
+- **Situaciones Especiales:** [[Cefaleas - Situaciones Especiales y Neuralgias]] (Embarazo, Pediatría, oAncianos).
 
 ---
 
