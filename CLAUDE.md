@@ -56,9 +56,9 @@ Cron configurado: sync automático cada día a las 22:00.
 
 ## Web pública (Quartz)
 
-URL: **https://xino00.github.io/MIR-apuntes**
+URL: **https://cuaderno-mir.netlify.app**
 
-Cada `git push` lanza automáticamente GitHub Actions → construye Quartz → despliega en GitHub Pages. No requiere ninguna acción manual.
+Cada `git push` lanza automáticamente GitHub Actions → construye Quartz → despliega en Netlify. No requiere ninguna acción manual.
 
 Configuración en `.github/quartz.config.ts` (colores estilo Claude, locale es-ES).
 El workflow está en `.github/workflows/deploy.yml`.
