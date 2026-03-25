@@ -54,7 +54,7 @@
 
 ### Soporte No Invasivo (Novedad 2026)
 
-- **HFNC (Rec. 67-69, NUEVAS):** Para insuficiencia respiratoria hipoxémica aguda por sepsis:
+- **GAFAS NASALES ALTO FLUJO (HFNC) (Rec. 67-69, NUEVAS):** Para insuficiencia respiratoria hipoxémica aguda por sepsis:
   - Se sugiere **HFNC sobre oxigenoterapia convencional** (PaO₂/FiO₂ < 200 o SpO₂/FiO₂ < 235).
   - Se sugiere **HFNC como terapia inicial sobre VMNI** (VNI).
   - Se sugiere **HFNC sobre HFNC alternando con VMNI**.
@@ -105,14 +105,14 @@
 
 ### Terapias Adyuvantes: Lo que NO Funciona (Novedades 2026)
 
-| Terapia | Recomendación SSC 2026 |
-| :--- | :--- |
-| **Vitamina C IV** (Rec. 81) | Se sugiere **en contra** |
-| **Inmunoglobulinas IV** (Rec. 82) | Se sugiere **en contra** |
-| **Purificación Sanguínea** (Rec. 83) | Se sugiere **en contra** (hemoperfusión, hemofiltración, plasmaféresis) |
-| **Vitamina D** (Rec. 85, NUEVA) | Se sugiere **en contra** para tratamiento de sepsis |
-| **XueBiJing IV** (Rec. 86, NUEVA) | Se sugiere **en contra** fuera de jurisdicciones con aprobación regulatoria |
-| **Probióticos** (Rec. 88, NUEVA) | Se sugiere **en contra** |
+| Terapia                              | Recomendación SSC 2026                                                      |
+| :----------------------------------- | :-------------------------------------------------------------------------- |
+| **Vitamina C IV** (Rec. 81)          | Se sugiere **en contra**                                                    |
+| **Inmunoglobulinas IV** (Rec. 82)    | Se sugiere **en contra**                                                    |
+| **Purificación Sanguínea** (Rec. 83) | Se sugiere **en contra** (hemoperfusión, hemofiltración, plasmaféresis)     |
+| **Vitamina D** (Rec. 85, NUEVA)      | Se sugiere **en contra** para tratamiento de sepsis                         |
+| **XueBiJing IV** (Rec. 86, NUEVA)    | Se sugiere **en contra** fuera de jurisdicciones con aprobación regulatoria |
+| **Probióticos** (Rec. 88, NUEVA)     | Se sugiere **en contra**                                                    |
 
 ### Otras Medidas de Soporte
 
