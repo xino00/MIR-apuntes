@@ -56,4 +56,4 @@ En GOLD 2026, las intervenciones no farmacológicas son consideradas **terapias 
 2. **Rehabilitación Pulmonar:** Obligatoria en Grupos B y E.
 3. **Vacunación (Actualización CDC):** Influenza anual, Neumocócica (PCV20 o PCV15+PPSV23), **VRS** (Virus Sincitial Respiratorio para >60 años), Tdap (tosferina), Herpes Zóster, y COVID-19 actualizada.
 
-*Para episodios agudos y hospitalización, consultar: [[EPOC - Exacerbación y Manejo Agudo (Urgencias y Planta)]].*
+*Para episodios agudos y hospitalización, consultar: [[EPOC - Exacerbación y Manejo Agudo]].*
