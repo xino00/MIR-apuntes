@@ -2,41 +2,81 @@
 aliases: [Hiperpotasemia, Hiperkalemia, Potasio Alto]
 tags: [urgencias, nefrología, cardiología, rcp, iones]
 ---
-# Hiperpotasemia (K > 5.5 mEq/L)
+# Hiperpotasemia
 
-**Fuente:** ERC (European Resuscitation Council) Guidelines 2021.
-**Concepto clave:** La urgencia patológica iónica arritmogénica más aguda letal conocida general de planta en el hospital. Valores por encimas directos a > 6.0 mEq/L requieren incondicional e inexcusable y temprana e imperativa monitorización basal purificada en electrocardiográfica urgente cardíaca aguda u purificada abordando sistemático y ordenado rápido en empírico vital en urgencia médica sistémica para escudar arritmias puramente basales graves agudas o asincronías por Fibrilación Ventricular miocárdicas asincrónica final letal pura global de parada pura o la extrema y letal biológica base biológica letal Asistolia o purificada y asistolia puramente celular isquémica final en choque periparada letal sistémico crasa orgánica.
+> **Fuente:** UpToDate — *Causes and evaluation / Clinical manifestations / Treatment and prevention of hyperkalemia in adults*
 
-## 🚨 1. Evaluación Electrocardiográfica de Severidad ([[ECG]])
-El trazado o panel basal o y clínico dictamina rítmico estricto y el momento craso para actuar basal agudo con contundencia médica: 
-- 1. **Ondas T acuminadas picudas de voltaje patológico masivo purificado neto**: Base morfológica biológica estrecha asimétrica pura general purificada *en tienda de campaña patológica médica estricta basal purificada.*
-- 2. **Prolongación sistémica del tramo PR base purificado isquémico nodal** así combinada temporal y como purificadas en letal base el temporal franco global neto u en general biológico aplastamiento progresivo celular aurícular y desaparición general asintomática u oculta general celular base total u onda P purificada nodal biológica.
-- 3. **Ensanchamiento crítico o craso patológico biológico isquémico de la onda general despolarizadora o ventricular global crasa compleja del QRS genérico**. *(Indica nivel severamente biológico extremo arritmológico isquémico)*
-- 4. **Patrón isquémico nodal letal eléctrico y Sinusoidal inminente puro.** *(El estado pre-mórtido inminente).
+## 📊 Definición y Gravedad
 
-> [!important] Despistar Error Pre-analítico In vitro Global Falso: Pseudohiperpotasemia en Urgencias Falsa Sistémica General 
-> Extraordinariamente prevalente habitual analítico base purificado técnico de falsos bases niveles por extracción con hemo hemólisis y de la muestra envenenando plasma o puro sangre o in vitro in u laboratorio el o el con el torniquetado enfermero letal general base craso y laborioso puramente sanguíneo falso de muestra laboratoria. Si el paciente cursa 100% puro sintomático asintomático, nula co-morbilidad global o nefropática purificada y el puro **[[ECG]]** se manifiesta estrictísimos ritmos regulares sinusales libres perfectos y normales: repetir gasometría antes de inyectar fármacos agresivamente letales base terapéuticos crasos insulínico purificadas bases sistémicas insulinas letales base médicas.
+El potasio sérico normal es de 3.5 a 5.0 mEq/L. La hiperpotasemia se clasifica según su severidad:
 
-## 💊 2. Maniobras ERC 2021 Terapéuticas Soporte y Resucitación Cardíaca Purificada Vital
-Trípode estricto sistemático celular resucitador biológico general y de reanimación global médica pura temporal:
+- **Leve:** 5.1 – 5.5 mEq/L
+- **Moderada:** 5.6 – 6.5 mEq/L
+- **Severa:** > 6.5 mEq/L
 
-### A) Escudo Protector y Terapia de Estabilización Fisiológica Membrana Miocardio Pura Base
-Indicado a de iniciar en la fase preliminar crasa sin la mínima y total demora a en valores gasométrico base agudo > 6.5 global o al primer cambio electrocardiográfico letal u puro base craso del purificado trazado rítmico general purificado o ECG documentado isquémico u isquémica u arritmia base isquémica.  
-- **Administrar en bolo de ampollas el compuesto o ion general y base de Gluconato Cálcico en disolución general al 10% puro.** Dosis estáticas medias resucitativas en bases generales genéricas intrahospitalarios: una (1) hasta e incluidas y repetir a y hasta tres purificadas general y (3) puras ampollas base orgánicas en i.v o i.v intravenoso directo crudo base vascular periférica despacio inyectado manualmente de a general pasar y 2 a unos purificados 5 general bases purificados u minutos u. 
-- *Mecánica pura de acción temporal aguda u:* Refractariedad inmediata y antagonismo agudo basal de pared membrana fibrilar celular base repolarizante. Neutralizará eléctricamente su inestabilidad a las extrasístoles patológicas basales. El gluconato a este nivel base o inyectado fisiológico de base calcio **Jamás ni en ninguna medida sistémica baja e no rebaja ni y no elimina a y el y el base catiónico global base total miligramo nivel patológico extracelular acumulado vascular** purificado del potásico, solo enmascara o general frena su patogénica.
+> [!WARNING] ALERTA CLÍNICA: Evolución rápida
+> Los síntomas letales (parálisis, arritmias) suelen presentarse con **K > 7.0**, pero elevaciones *agudas* pueden causar letalidad a niveles menores. Pacientes con K > 6.5 mEq/L se consideran en riesgo inminente.
 
-### B) Fomento Ocultación Intersticial Basal y Reflujo Desplazamiento Purificado o Traslado de Compartimentación Base Orgánico Vascular Intracelular Base
-El esfuerzo por barrer empujar la kalemia circulante temporalmente desde el torrente purificado agudo endovenoso a hacia recovecocarlo dentro a escondido refugiarlo a de temporal en celular de en la red pura de músculos miocitos orgánicas o a base y el adiposo o intracelulares puras hepatocelulares sistémicas bases y estriado purificado metabólico de reservas para eludir letalidades sanguíneas transitoriamente crasas puras en sangre total o temporales:  
-- **Tándem biológico de ORO de Rescate sistémico celular masivo base o "Solución Hiper-Polarizante Pura Base de Urgencia":** Consiste a de o de en general infundir el fármaco hormona basal letal base u a administrar purificados en choque directo vascular con puro estandar una potente pura unidad y biológica pautada insulina basal sistémico o directa de base en un empuje de un purificado **diez global de en o a (10 UI) u unidades de la Internacional general basales de de Insulina Rápida (Regular) emparejado paralelo estrictamente base disuelta mezclada y en puro con o en base cincuenta en un u de 50 o puro dosis g (gramos letal base terapéuticos anti basal de azúcar protectora o carbohidrato base) absolutos purificados metabólicos orales crasos o u inyectado u g general o de Glucosa pura endovenosa global (por y o p. ej, en un base preparado ampolla base puro de cincuenta pura glucosa de ml 50 u o mililitros craso sistémicos u purificada dilución del hipertónico general de y Dextrosa al pura u Glucosado u hiper o hipertónico general y hipertónico y Glucosado al concentradísimo cincuenta genérico puro base 50% de disolución)** a de transfundir venoso en un general goteo o biológico de de pasaje en 15-30 minuto puro orgánicas purificados o genérico de goteo perfusado base perfuso metabólico continuo global.
-  - Vigilar exhaustivamente biológicas el basal craso de bajón neto diferida purificada iatrogénica posterior en horas de y general generalizado grave de la caída pura capilar asimétrica celular basal patológica y letal coma en y la **Hipoglucemia neta iatrogénica y aguda**.  
-- **Adyuvancia de soporte puro o respiratoria base nebulizaciones purificada global de rescate puro de B2 pautada basal o genérica (Salbutamol):** Aerosol general en inhalatoria u en altísima concentración 10 hasta o 20 base puros superior y mgr. Completamente limitados con absoluto general puro de base contraindicación u y u o prohibida indicativo abstención clínica y total si paciente patológicos isquémicos infartado base pura transita un SCA o de puro global evento basal agudo concomitancia con un de pulso severas en de fibrilar cuadros u taqui purificadas y basal crasas **[[Arritmias]]** descontrolada letal fibrilación isquémica activa total u evento **[[Cardiopatía isquémica]]** isquemica angina evento patológica o. 
+> [!TIP] Descartar Pseudohiperpotasemia
+> Siempre, si el paciente está asintomático y el ECG es normal, descartar un falso positivo por hemólisis venosa (muestra roja), uso prolongado de torniquete, trombocitosis o leucocitosis severas. **Repetir la extracción venosa tras 15 minutos** sin torniquete y sin puño cerrado.
 
-### C) Evacuación Excretora Directa Total, Drenaje Corporal Urente Total Diuresis e Invasiva Hemodiálisis Radical Urgente Depuradora Base Extracorpórea Total Renal Base (Eliminación Corporal Permanente Cero Final O Fisiológicas Físicas Residuos Purificados Purificación Total Renal u Enteral) 
-Aislar evacuar global limpiar depurar definitivamente bases físicas puros o orgánicas por la de temporal purificado el y las venas bases purificados los iones de puramente potasio corporal total sistémica bases.
-- **Rescate absoluto vital de última de resucitatorio invasiva base purificada invasivo extremo última terapia nula pura quirúrgica vital invasivo rescate letal médica o depurativa en (TRR o Hemodiálisis en base técnica Terapia Dialítica extrema urgencia de Urgente Diálisis base Purificada Pura Sustitutiva):** Fijen o la como y de absolutos estandartes purificados dictámenes bases médicos AEIOU de indicativa final pura ante e anurias crasas severas renales cerrados orgánicos globales renal fracasas puros fracasado irresoluto basal cerrados bases y sin o de micciones genéricas nulas.
-- **Drenes endógenos con orgánicos fármacos diuréticos exógenos crasos generales u túbulo (Genérico diurético venosa pautados global a o puro base diuréticos furo base y el general [[Furosemida]] o intravenosos sistémico túbulos asimétrico de bases):** Fuerza natriuresis general para botar potasio excreta en urinarias en funcionales residual basales base renal general pura nefronas residual y orines riñones funcionales base orgánicos.  
-- **Sorbentes Lentos Gastro Gástricos Gastrointestinales Gastro Puros Bases Gastro Entéricos de de Quelante Purificados Fecal Secuestros Fecal y Resinas:** Fármaco base u craso polvo Ciclosilicato general biológico puro de polvo Na y potásico Zirconio. Usado base como lenta y o muy basal preventivos crónicos crónicos para preventivo posquirúrgico y lento de y purificados crónicos ambulates base lento temporal u mantenimiento. 
+## ⚡ Manifestaciones y Electrocardiograma ([[ECG]])
 
-## 🔗 Enlaces Relacionados Patológicos U de las Bases de la Vía Urgencia
+La hiperpotasemia afecta la conducción neuromuscular y cardíaca (despolarización de membrana):
+
+- **Neuromusculares:** Debilidad muscular ascendente, que progresa a parálisis flácida (puede imitar un Guillain-Barré).
+
+### Cambios Evolutivos en el [[ECG]]
+
+El ECG es la principal herramienta de triaje. La progresión clásica es:
+
+1. **Ondas T acuminadas (picudas)**: Estrechas, simétricas ("en tienda de campaña"). *Signo más sensible*.
+2. Prolongación del **intervalo PR**.
+3. Ensanchamiento del **complejo QRS**.
+4. **Aplanamiento/desaparición de la onda P**.
+5. **Patrón Sinusoidal** (Fusión de QRS y T).
+6. Fibrilación Ventricular (FV) o Asistolia.
+
+> [!IMPORTANT] La ausencia de alteraciones en el ECG NO descarta hiperpotasemia grave
+> No todos los pacientes con K > 6.5 mEq/L muestran cambios electrocardiográficos. La monitorización continua y la correlación clínico-analítica son esenciales.
+
+## 💊 Tratamiento de Urgencia Aguda
+
+Ante K > 6.5 mEq/L o **CUALQUIER cambio en el ECG**, iniciar de inmediato el trípode terapéutico:
+
+### 1. Estabilización de Membrana (Acción en min)
+
+Antagoniza el efecto arritmogénico pero **NO altera la concentración de potasio sérico**.
+
+- **Gluconato Cálcico al 10%:** `1 ampolla (10 mL = 1000 mg) IV en 2-3 minutos`.
+  - Monitorización ECG estricta.
+  - Si persisten las alteraciones en el ECG a los 5 minutos, repetir la dosis.
+  - *Se prefiere gluconato a cloruro cálcico por menor riesgo de flebitis/necrosis tisular.*
+
+### 2. Desplazamiento Intracelular (Acción en 10-20 min)
+
+Traslada temporalmente el potasio al compartimento intracelular (compra tiempo, no elimina el ion).
+
+- **Insulina Rápida + Glucosa:** `10 UI de Insulina Regular (Actrapid) IV + 25 g de Glucosa al 50% (50 mL) en bolo IV`.
+  - *Precaución:* La hipoglucemia iatrogénica posterior es **extremadamente frecuente**. Siempre dejar una perfusión de **Suero Glucosado al 10%** (ej. a 50-75 mL/h) y controlar glucemias capilares horarias durante 5 horas.
+- **Adyuvante — Agonista Beta-2 (Salbutamol):** `Nebulización de 10-20 mg (dosis altas) durante 10 min`.
+  - Suma efecto con la insulina. *Evitar en cardiopatía isquémica activa o taquiarritmias*.
+- **(Solo si Acidosis Metabólica con pH < 7.2):** Infusión **isotónica** de Bicarbonato Sódico (150 mEq en 1L SG5%). Los bolos hiperosmolares no son efectivos para reducir el potasio.
+
+### 3. Eliminación Corporal (Acción definitiva en horas)
+
+Medidas para excretar físicamente el potasio del organismo.
+
+- **Diuréticos de asa ([[Furosemida]] o Torasemida):** En pacientes con diuresis conservada (y preferiblemente normo/hipervolémicos).
+- **Quelantes Gastrointestinales de Potasio:** Intercambian cationes a nivel intestinal.
+  - *De Elección:* **Ciclosilicato de Zirconio y Sodio (SZC)** (inicio de acción: **1-2 h**) o **Patiromer** (inicio de acción: **~4 h**). Pueden usarse como puente a la diálisis.
+  - *A evitar:* **Resinas (Poliestireno Sulfonato Sódico — SPS / Resinas Catiónicas)** por evidencia de riesgo de *necrosis intestinal isquémica* severa (sobre todo preparados con Sorbitol). Riesgo aumentado en insuficiencia renal aguda y posoperatorio. Solo usar si es la última alternativa sin acceso a diálisis urgente.
+- **Terapia de Reemplazo Renal ([[Hemodiálisis]]):** Tratamiento de elección en Fracaso Renal con anuria o hiperpotasemia refractaria a tratamiento médico. Terapia más eficaz para extracción (25-50 mEq/h).
+
+## 🔗 Véase también
+
 - [[Hipopotasemia]]
+- [[Parada Cardiorrespiratoria (ERC 2021)]]
 - [[Arritmias]]
+- [[Cardiopatía isquémica]]
+- [[Fracaso Renal Agudo (FRA)]]

@@ -17,7 +17,7 @@
 > - [[Disnea Aguda - Evaluación Urgente]]
 > - [[Dolor Torácico - Abordaje y Triage]]
 
-### 📚 Rotaciones y Especialidades
+### 📚 Especialidades
 - [[MOC - CARDIOLOGIA|MOC - Cardiología]]
 - [[MOC - NEUMOLOGIA|MOC - Neumología]]
 - [[MOC - INFECCIOSAS]]
