@@ -27,7 +27,7 @@ Aparece a menudo como temible brote complicatorio de la **Enfermedad de Still** 
   - Triglicéridos por las nubes.
   - **FERRITINA Estratosférica** (> 10.000 ng/mL, altamente marcador de SAM). *Nivel normal <300*.
   - Fibrinógeno consumido (ausente, da CID hemorrágica).
-- **Tratamiento Urgentísimo:** Reanimación UCI + Megadosis de [[[[[[Metilprednisolona]]]]]] Intravenosa + Etopósido Quimioterápico / Anakinra o Ciclosporina para matar de [[Shock]] térmico la actividad del macrófago suicida.
+- **Tratamiento Urgentísimo:** Reanimación UCI + Megadosis de [[Metilprednisolona]] Intravenosa + Etopósido Quimioterápico / Anakinra o Ciclosporina para matar de [[Shock]] térmico la actividad del macrófago suicida.
 
 ## 🩸 3. Síndrome Antifosfolípido Catastrófico (CAPS)
 El paciente sufre en un plazo ínfimo inferior a 1 semana una enorme *"tormenta trombótica inmunológica microangiopática"* originando fracaso multiorgánico en dominó de origen histológico arterial/venoso de pequeño vaso no escleroso en presencia certera de autoinmunoanticuepros Anti-B2-Glicoproteina, Anticardiolipina o Lupicos.

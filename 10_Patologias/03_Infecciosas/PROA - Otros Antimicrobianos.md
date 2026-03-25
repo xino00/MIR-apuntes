@@ -6,7 +6,7 @@ tags: [farmacología, infecciosas, antibioticos, toxicos]
 
 **Fuente:** Guía de Manejo de Antibióticos FJD (2025).
 
-Esta guía detalla fármacos de uso frecuente con estrecho margen terapéutico (requieren monitorización) o características peculiares ([[[[[[[[[[[[[[[[[[[[[[Fosfomicina]]]]]]]]]]]]]]]]]]]]]], [[Cotrimoxazol]], [[Metronidazol]]).
+Esta guía detalla fármacos de uso frecuente con estrecho margen terapéutico (requieren monitorización) o características peculiares ([[Fosfomicina]], [[Cotrimoxazol]], [[Metronidazol]]).
 
 ---
 ## 1. Aminoglucósidos

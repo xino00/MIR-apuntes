@@ -8,7 +8,7 @@ tags: [farmacología, antibiótica, lincosamida, anaerobios, AEMPS]
 **Fuente:** Ficha Técnica CIMA AEMPS.
 
 ## 1. Mecanismo de Acción
-Bacteriostático intrínseco (bactericida frente a ciertas cepas sensibles en alta concentración). Inhibe la síntesis proteica uniéndose fuertemente al sitio 50S del ribosoma bacteriano. Su espectro clínico es célebre por su inmensa cobertura frente a **Streptococcus pyogenes**, **Staphylococcus aureus** spp. (incluyendo meticilin-resistentes comunitarios o SARM) y espléndido contra **Anaerobios** (incluyendo Bacteroides fragilis, Fusobacterium, patógenos orales y pélvicos). Actividad notable como inhibidor de toxinas bacterianas del grupo clostridial/staphilóccico (Síndrome de [[[[[[[[[[[[Shock]]]]]]]]]]]] Tóxico). Carece de actividad frente a cualquier Gram negativo aerobio.
+Bacteriostático intrínseco (bactericida frente a ciertas cepas sensibles en alta concentración). Inhibe la síntesis proteica uniéndose fuertemente al sitio 50S del ribosoma bacteriano. Su espectro clínico es célebre por su inmensa cobertura frente a **Streptococcus pyogenes**, **Staphylococcus aureus** spp. (incluyendo meticilin-resistentes comunitarios o SARM) y espléndido contra **Anaerobios** (incluyendo Bacteroides fragilis, Fusobacterium, patógenos orales y pélvicos). Actividad notable como inhibidor de toxinas bacterianas del grupo clostridial/staphilóccico (Síndrome de [[Shock]] Tóxico). Carece de actividad frente a cualquier Gram negativo aerobio.
 
 ## 2. Indicaciones Clínicas Principales
 Tratamiento ideal en escenarios sistémicos graves donde se presume multiresistencia extra-hospitalaria o participación de toxinas formadoras necrotizantes:

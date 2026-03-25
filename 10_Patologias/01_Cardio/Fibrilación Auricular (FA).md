@@ -33,8 +33,8 @@ De elección en: 1er episodio, jóvenes (≤ 70 años), FEVI reducida, FA sintom
    - **Tiempo < 48h:** Cardioversión precoz (Eléctrica o Farmacológica).
    - **Tiempo > 48h o Incierto:** Requiere anticoagulación oral durante **3 semanas previas** o realizar un **Ecocardiograma Transesofágico (ETE)** urgente para buscar y descartar trombos en orejuela.
 3. **Cardioversión Farmacológica:**
-   - **Sin Cardiopatía Estructural:** [[[[[[[[[[[[[[[[[[Flecainida]]]]]]]]]]]]]]]]]] **200-300 mg v.o. / i.v.** o Vernakalant (Recomendación general/ESC) vs **2 mg/kg i.v. en 10-20 min** o estrategia pill in the pocket de **300 mg v.o.** (Recomendación Manual 12 de Octubre).
-   - **Con Cardiopatía Estructural (FEVI baja, isquemia, HVI grave):** [[[[[[[[[[Amiodarona]]]]]]]]]] **300 mg i.v. en 30-60 min** + perfusión 900 mg/24h. ¡Flecainida CONTRAINDICADA!
+   - **Sin Cardiopatía Estructural:** [[Flecainida]] **200-300 mg v.o. / i.v.** o Vernakalant (Recomendación general/ESC) vs **2 mg/kg i.v. en 10-20 min** o estrategia pill in the pocket de **300 mg v.o.** (Recomendación Manual 12 de Octubre).
+   - **Con Cardiopatía Estructural (FEVI baja, isquemia, HVI grave):** [[Amiodarona]] **300 mg i.v. en 30-60 min** + perfusión 900 mg/24h. ¡Flecainida CONTRAINDICADA!
 4. **Mantenimiento Crónico del Ritmo:** Ablación de venas pulmonares (muy eficaz) o antiarrítmicos (Flecainida, Amiodarona).
 
 ## 🩸 Prevención Tromboembólica (Anticoagulación)

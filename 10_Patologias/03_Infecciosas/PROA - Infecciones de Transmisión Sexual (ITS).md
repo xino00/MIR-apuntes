@@ -15,7 +15,7 @@ tags: [urgencias, infecciosas, ginecologia, urologia]
 - **[[Uretritis]] / [[Cervicitis]] / [[Proctitis]]**:  
   - *Diagnóstico:* Clínico en Urgencias al objetivar exudado mucoide o purulento. El gold standard es el Gram (>5 leucos/campo + diplococos).
   - *Agentes Comunes:* Neisseria gonorrhoeae, Chlamydia trachomatis.
-  - *Tratamiento Empírico:* **[[[[[[[[[[[[Ceftriaxona]]]]]]]]]]]] 500mg IM (Dosis Urgencias)** + **[[Doxiciclina]] 100mg/12h (Oral, 7 días)**.
+  - *Tratamiento Empírico:* **[[Ceftriaxona]] 500mg IM (Dosis Urgencias)** + **[[Doxiciclina]] 100mg/12h (Oral, 7 días)**.
   - *Alternativa (alergia o falta adherencia):* Ceftriaxona + [[Azitromicina]] 1g oral dosis única. Alergia a Betalactámicos: [[Gentamicina]] 240mg IM.
 
 - **[[Enfermedad Inflamatoria Pélvica]] (EIP)**:  

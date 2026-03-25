@@ -20,7 +20,7 @@ Una exacerbación de la EPOC es un empeoramiento agudo de los síntomas respirat
 ## 💊 2. Manejo Farmacológico Agudo (Urgencias y Planta)
 ### A. Oxigenoterapia y Soporte Ventilatorio
 - **Oxígeno suplementario:** Objetivo de saturación es estrictamente **88-92%** para los pacientes retentores de CO2. Cuidado con flujos altos (>3 L/min) que anulan el impulso ventilatorio.
-- **VMNI (BiPAP):** Indicación **IA** de iniciar tempranamente si exite **Acidosis Respiratoria (pH ≤ 7.35 y pCO2 ≥ 45 mmHg)** o disnea clínica grave con uso de musculatura accesoria. Contraindicado si bajo nivel de conciencia, [[[[[[[[[[[[Shock]]]]]]]]]]]] o intolerancia.
+- **VMNI (BiPAP):** Indicación **IA** de iniciar tempranamente si exite **Acidosis Respiratoria (pH ≤ 7.35 y pCO2 ≥ 45 mmHg)** o disnea clínica grave con uso de musculatura accesoria. Contraindicado si bajo nivel de conciencia, [[Shock]] o intolerancia.
 - **Alto Flujo (GNAF):** Una excelente alternativa temprana o coadyuvante.
 
 ### B. Broncodilatadores de Acción Corta (Rescate)

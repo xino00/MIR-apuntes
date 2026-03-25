@@ -15,14 +15,14 @@ tags: [urgencias, infecciosas, urologia]
 
 - **[[Cistitis no complicada]]**:  
   - *Perfil clínico:* Mujer joven, no embarazada, sin anomalías de vía urinaria ni dispositivo. No requiere urocultivo.
-  - *Elección Empírica:* [[[[[[[[[[[[Fosfomicina]]]]]]]]]]]] trometamol 3g (Dosis única).
+  - *Elección Empírica:* [[Fosfomicina]] trometamol 3g (Dosis única).
   - *Alternativa:* Nitrofurantoína 100mg/12h (5 días).
-  - *Contraindicado empírico ambulatorio (por resistencias):* [[[[[[[[[[[[[[[[[[[[[[Ciprofloxacino]]]]]]]]]]]]]]]]]]]]]], [[[[[[[[[[[[Cotrimoxazol]]]]]]]]]]]], [[Amoxicilina/Clavulánico]].
+  - *Contraindicado empírico ambulatorio (por resistencias):* [[Ciprofloxacino]], [[Cotrimoxazol]], [[Amoxicilina/Clavulánico]].
 
 - **[[Cistitis complicada]]**:  
   - *Perfil clínico:* Alteraciones anatómicas, litiasis, varones (hasta descartar prostatitis), inmunodeprimidos, diabetes mal controlada, sondas. **Requiere Urocultivo**.
   - *Elección Empírica:* [[Fosfomicina]] trometamol 3g (Dosis inicial, repetir segunda dosis a las 48h).
-  - *Si mala situación o refractario:* [[[[[[[[[[[[Ceftriaxona]]]]]]]]]]]] 2g IV en urgencias + derivación a [[[[[[[[[[[[[[[[[[[[[[Cefixima]]]]]]]]]]]]]]]]]]]]]] o Ciprofloxacino oral ajustado con el antibiograma.
+  - *Si mala situación o refractario:* [[Ceftriaxona]] 2g IV en urgencias + derivación a [[Cefixima]] o Ciprofloxacino oral ajustado con el antibiograma.
 
 ## 2. Infección del Parénquima / Paraneoplásicas
 

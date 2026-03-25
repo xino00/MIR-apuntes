@@ -8,7 +8,7 @@ tags: [farmacología, antibiótica, aminoglucósido, nefrotoxico, endocarditis, 
 **Fuente:** Ficha Técnica CIMA AEMPS.
 
 ## 1. Mecanismo de Acción
-Bactericida. Inhibidor ribosomal subunidad 30S (interferencia irreversible de lectura ARNm). Como la [[[[[[[[[[[[Amikacina]]]]]]]]]]]], tiene excelente actividad contra enterobacterias aerobias Gram-negativas. Sin embargo, su **rasgo distintivo** es el potente efecto **sinérgico** bactericida que ejerce frente a cocos Gram positivos (Enterococos selectos, *Streptococcus viridans*, *S. aureus*) cuando se asocia a un compuesto de rotura de pared (Betalactámico o [[Vancomicina]]).
+Bactericida. Inhibidor ribosomal subunidad 30S (interferencia irreversible de lectura ARNm). Como la [[Amikacina]], tiene excelente actividad contra enterobacterias aerobias Gram-negativas. Sin embargo, su **rasgo distintivo** es el potente efecto **sinérgico** bactericida que ejerce frente a cocos Gram positivos (Enterococos selectos, *Streptococcus viridans*, *S. aureus*) cuando se asocia a un compuesto de rotura de pared (Betalactámico o [[Vancomicina]]).
 
 ## 2. Indicaciones Clínicas Principales
 Debido a la emergencia de resistencias (hoy por hoy Amikacina la supera en BGN multiresistentes en UCI), **Gentamicina** queda habitualmente reservada a roles sinérgicos, infecciones severas puntuales o perfiles de endocarditis:

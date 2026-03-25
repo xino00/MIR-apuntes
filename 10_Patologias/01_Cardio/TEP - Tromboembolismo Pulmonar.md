@@ -8,7 +8,7 @@
 > - **Inestabilidad Hemodinámica:** PAS < 90 mmHg o caída > 40 mmHg durante > 15 min.
 > - **Disfunción de Ventrículo Derecho (VD):** Dilatación en CTPA o Eco (Relación VD/VI ≥ 1.0).
 > - **Marcadores Cardíacos Elevados:** Troponinas o BNP/NT-proBNP elevados.
-> - **Síncope o [[[[[[[[[[[[[[[[[[[[[[[[[[Shock]]]]]]]]]]]]]]]]]]]]]]]]]].**
+> - **Síncope o [[Shock]].**
 
 ## 📊 Clasificación Clínica (AHA/ACC 2026)
 La nueva clasificación categoriza a los pacientes de A a E para guiar el manejo:
