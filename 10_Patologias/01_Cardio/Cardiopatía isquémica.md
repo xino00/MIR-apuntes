@@ -67,8 +67,23 @@ graph TD
 2. **Shock Cardiogénico / IAM Ventrículo Derecho:** Especialmente en infartos inferiores (afectación de aVR). Jamás dar nitratos, dar fluidos con inotropos si hace falta.
 3. **Arritmias:** Pericarditis Post-IAM precoz vs Dressler tardío (se trata con AAS altas dosis, no ibuprofeno ni colchicina en aguda). TV o FV precisan CVE o desfibrilación inmediata.
 
+---
+
+## 📑 Guía Completa de SCA (ACC/AHA 2025)
+
+*Para el abordaje actualizado según la guía ACC/AHA 2025, navega por las notas:*
+
+1. [[SCA - Evaluacion Inicial y Clasificacion (ACC-AHA 2025)]]
+2. [[SCA - Tratamiento Medico (ACC-AHA 2025)]]
+3. [[SCA - Reperfusion y Revascularizacion (ACC-AHA 2025)]]
+4. [[SCA - Complicaciones y Shock Cardiogenico (ACC-AHA 2025)]]
+5. [[SCA - Manejo Hospitalario y Prevencion Secundaria (ACC-AHA 2025)]]
+
+---
+
 ### 🔗 Enlaces / Bibliografía
 - [[Insuficiencia cardiaca aguda]]
 - [[Arritmias]]
 - [[MOC - CARDIOLOGIA]]
 - *Manual de diagnóstico y terapéutica médica Hospital 12 de Octubre, 9º ed. 2022. Cap. 17.*
+- [Guía ACS 2025 (ACC/AHA)](<obsidian://open?vault=MIR&file=Libros%20y%20referencias/rao-et-al-2025-2025-acc-aha-acep-naemsp-scai-guideline-for-the-management-of-patients-with-acute-coronary-syndromes-a-1.pdf>)

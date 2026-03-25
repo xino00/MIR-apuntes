@@ -1,6 +1,6 @@
 # Sepsis y [[Shock]] Séptico
 
-**Fecha de revisión:** 24/03/2026
+**Fecha de revisión:** 25/03/2026
 **Etiquetas:** #patologia #infecciosas #urgencias #Sepsis3 #SSC2026
 
 ---
@@ -18,6 +18,22 @@
 
 > [!tip] Novedad Guías SSC 2026
 > El diagnóstico es **clínico**. No se debe confirmar ni descartar la sepsis utilizando un único biomarcador ni prueba de respuesta rápida del huésped. Se enfatiza el inicio del triaje incluso en fase prehospitalaria (ambulancias).
+
+### Terminología Estandarizada (SSC 2026)
+
+*Las guías 2026 introducen una clasificación formal de la probabilidad de sepsis para guiar la urgencia del tratamiento:*
+
+| Categoría | Definición |
+| :--- | :--- |
+| **Sepsis Definitiva** | Confirmada por historia, exploración y pruebas. Diagnóstico alternativo muy improbable. |
+| **Sepsis Probable** | Alta sospecha. Diagnóstico más probable según historia, exploración y pruebas. Alternativa menos probable. |
+| **Sepsis Posible** | Sospecha moderada. Diagnóstico posible, pero alternativa también probable según historia, exploración y pruebas. |
+| **Sepsis Improbable** | Baja sospecha. Valoración clínica no consistente con sepsis; diagnóstico alternativo más probable. |
+
+### Cribado Prehospitalario (Novedad 2026)
+
+- **Rec. 3 (NUEVA):** Se **sugiere** usar una herramienta estandarizada de cribado de sepsis en ambulancias frente a no usar ninguna.
+- El cribado prehospitalario combinado con prenotificación hospitalaria puede acortar tiempos hasta el tratamiento.
 
 ### Herramientas Sistemáticas de Cribado (Ej. NEWS, MEWS, SIRS)
 
@@ -74,6 +90,14 @@ Parámetros evaluados (puntúan de 0 a 3 según desviación de la normalidad):
 
 ---
 
+### Biomarcadores y Tests Rápidos (Novedad 2026)
+
+- **Rec. 5 (NUEVA):** La sepsis es un diagnóstico **clínico**. No debe confirmarse ni descartarse con un único biomarcador o test diagnóstico.
+- **Rec. 6 (NUEVA):** Evidencia **insuficiente** para recomendar el uso de diagnósticos rápidos de respuesta del huésped (ej. MDW, IntelliSep, SeptiCyte, TriVerity).
+- La IA y scores basados en datos electrónicos están siendo investigados, pero sin recomendación formal.
+
+---
+
 ## 💊 Tratamiento: El "Bundle" de Manejo Rápido (SSC 2026)
 
 > [!danger] ⚡ Tiempos de Actuación (Actualización 2026)
@@ -81,12 +105,17 @@ Parámetros evaluados (puntúan de 0 a 3 según desviación de la normalidad):
 > - **Evaluación Rápida (≤ 3h):** Si hay Posible Sepsis sin shock, investigar activamente focos infecciosos y no infecciosos y administrar antimicrobianos si persiste la duda a las 3 horas.
 > - **Diferir Antimicrobianos:** Si hay baja probabilidad de infección.
 
+> [!warning] 🚑 Antibióticos Prehospitalarios (Novedad 2026)
+> **Rec. 21 (NUEVA):** En sepsis definitiva/probable con **hipotensión** (shock séptico) y tiempo estimado hasta evaluación hospitalaria **> 60 min**, se sugiere administrar antibióticos en ambulancia/vuelo. Solo tras implementar un protocolo de cribado prehospitalario. Recoger hemocultivos antes si es posible.
+
 1. **Lactato:** Medir lactato plasmático (volver a medir si > 2 mmol/L).
 2. **Cultivos:** Obtener 2x hemocultivos **antes** de iniciar antibióticos (no demorar el inicio de antibióticos, sin embargo).
 3. **Antibióticos:** Iniciar antibioterapia empírica dirigida al foco sospechado.
     - *Nota 2026:* Cobertura empírica para MDR, anaerobios o antifúngicos **SOLO** sugerida en pacientes con factores de riesgo específicos evidenciados.
 4. **Fluidos:** Si hay hipotensión o lactato elevado (ej. ≥ 4), iniciar carga de **30 mL/kg** de cristaloides balanceados.
+    - *Nota 2026 (Rec. 10):* En pacientes con **IMC > 30 kg/m²**, calcular el volumen sobre peso ajustado o peso ideal (no peso real).
 5. **Vasopresores:** Si persiste hipotensión. Se sugiere usar vasopresores vía periférica de inicio precoz para recuperar perfusión antes de conseguir vía central.
+    - *Nota 2026 (Rec. 11, NUEVA):* Se sugiere **bolo inicial de cristaloides IV seguido de vasopresores** si persiste la hipotensión. En shock inestable, considerar administración **concurrente** de fluidos y vasopresores.
     - **1ª línea:** **Noradrenalina**.
     - **2ª línea:** Vasopresina.
 
@@ -112,6 +141,12 @@ Parámetros evaluados (puntúan de 0 a 3 según desviación de la normalidad):
 | **SARM (Staph)**            | [[Vancomicina]]                    | **Vancomicina:** Carga 25-30 mg/kg, luego 15-20 mg/kg cada 12h.           |
 |                             |                                    |                                                                           |
 
+> [!info] Cobertura Empírica Específica (Novedad 2026)
+>
+> - **Cobertura MDR (Rec. 25-26):** Cubrir empíricamente un patógeno MDR específico **solo** si hay factores de riesgo (colonización previa, infección reciente por ese MDR, uso prolongado de ATB de amplio espectro, hospitalización prolongada en unidad con alta prevalencia). Si bajo riesgo, se sugiere **no cubrir** empíricamente.
+> - **Cobertura Anaerobios (Rec. 28-29):** Sin factores de riesgo → régimen empírico **sin** cobertura anaerobia. Con factores de riesgo (foco intra-abdominal, ginecológico/obstétrico profundo, partes blandas necrotizantes, cabeza/cuello, abscesos de SNC) → **con** cobertura anaerobia.
+> - **Cobertura Antifúngica (Rec. 27):** Se sugiere **en contra** de antifúngico empírico de rutina. Valorar caso a caso solo en alto riesgo (inmunosupresión, uso prolongado de ATB, hospitalización prolongada, foco intraabdominal).
+
 ---
 
 > [!info] Identificación y Control
@@ -125,6 +160,7 @@ Parámetros evaluados (puntúan de 0 a 3 según desviación de la normalidad):
 
 > [!important] Triaje Crítico
 > El ingreso en UCI debe basarse en el beneficio potencial y la reversibilidad de la situación aguda.
+> **Rec. 15:** Se sugiere ingreso en UCI **en las primeras 6 horas** si hay indicación.
 
 ### Modelo de Prioridades (SCCM / SEMICYUC)
 
