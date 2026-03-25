@@ -7,9 +7,9 @@ tags: [urgencias, nefrología, endocrinología, iones]
 **Fuente:** Clinical Practice Guideline on Management of Hyponatremia (Spasovski et al., ERC/ESICM/ESE), Manual 12 de Octubre.
 **Concepto clave:** La hiponatremia es casi siempre un trastorno por **exceso de agua libre**, no un déficit de sodio.
 
-## 🚨 Peligro Crítico: Mielinolisis Pontina Central
-Nunca corregir el sodio de forma rápida en hiponatremias crónicas (> 48h). El cerebro se ha adaptado perdiendo osmolitos. Una corrección brusca causa deshidratación neuronal masiva y **Síndrome de Desmielinización Osmótica** (cuadriplejía irreversible, *locked-in syndrome*).
-- **Límite de corrección seguro:** Máximo **8 a 10 mEq/L en las primeras 24 horas**. (Incluso 6 mEq/L si hay alto riesgo: alcoholismo, desnutrición extrema, cirrosis severa).
+> [!warning] Peligro Crítico: Mielinolisis Pontina Central
+> Nunca corregir el sodio de forma rápida en hiponatremias crónicas (> 48h). El cerebro se ha adaptado perdiendo osmolitos. Una corrección brusca causa deshidratación neuronal masiva y **Síndrome de Desmielinización Osmótica** (cuadriplejía irreversible, *locked-in syndrome*).
+> - **Límite de corrección seguro:** Máximo **8 a 10 mEq/L en las primeras 24 horas**. (Incluso 6 mEq/L si hay alto riesgo: alcoholismo, desnutrición extrema, cirrosis severa).
 
 ## 🩺 1. Evaluación y Algoritmo de Consenso Europeo (100% Analítico)
 

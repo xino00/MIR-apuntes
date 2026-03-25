@@ -1,21 +1,14 @@
 # 🧠 Neurología
 
 > [!danger] ⚡ Urgencias / Algoritmos Vitales
-> - [[Cefaleas]] (Signos de alarma y estatus migrañoso)
-> - [[Código Ictus]] (Próximamente)
+> - [[Cefaleas - Abordaje Inicial]] (Signos de alarma y estatus migrañoso)
 
 ### Patologías Frecuentes
 - [[Cefaleas - Abordaje Inicial]]
-- [[Migraña - Guía Terapéutica Completa]]
+- [[Cefaleas - Situaciones Especiales y Neuralgias]]
 - [[Cefaleas Trigemino-Autonómicas y Tensional]]
-- [[Epilepsia]]
-- [[Enfermedad de Parkinson]]
-
-### 💊 Fármacos Clave (Neuro)
-- [[Triptanes]]
-- [[Anticuerpos Anti-CGRP]]
-- [[Levodopa]]
+- [[Migraña - Guía Terapéutica Completa]]
 
 ---
-### 🔗 Enlaces / Bibliografía
+### 🔗 Enlaces
 - [[000_INICIO]]
