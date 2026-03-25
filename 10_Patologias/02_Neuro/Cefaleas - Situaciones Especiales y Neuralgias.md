@@ -31,6 +31,9 @@
   - **AINEs:** Solo en 2º trimestre (evitar en 1º y 3º).
 - **Tratamiento Preventivo:** Propranolol (dosis mínima eficaz) o Magnesium.
 
+> [!note] Apuntes OneNote — Cefalea en Embarazo
+> ![[Cefalea_Embarazos_OneNote.svg]]
+
 ---
 
 ## 👶 Cefalea en Pediatría
