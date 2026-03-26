@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Project Overview
+
+This is an Obsidian medical notes vault using wikilinks (`[[Note Name]]`). When creating or editing notes, always use wikilink syntax for internal links, never standard markdown links. Ensure YAML frontmatter never contains raw wikilinks — use plain text or quoted strings in frontmatter fields.
+
 ## Contexto
 
 Vault de Obsidian de un residente de Medicina de Familia en Madrid. Rotaciones por todos los servicios del hospital + guardias de urgencias de puerta. Uso principal: referencia clínica durante rotaciones, protocolos de guardia y registro de casos clínicos anónimos.
@@ -67,6 +71,14 @@ La homepage se genera copiando `90_MOCs/000_INICIO.md` como `index.md` antes del
 Quartz se clona en `./quartz` (dentro del workspace del runner), no en `/tmp/quartz`, para que `actions/setup-node` pueda resolver el cache de npm con ruta relativa.
 
 Secrets necesarios en GitHub: `CF_API_TOKEN` y `CF_ACCOUNT_ID` (Cloudflare Pages project: `mirapuntes`).
+
+## Note Creation Conventions
+
+When creating medical Obsidian notes, follow this structure: 1) YAML frontmatter with tags, 2) Definición, 3) Etiología, 4) Diagnóstico, 5) Tratamiento, 6) Links to related hub/MOC notes. Always add the new note's wikilink to the relevant hub note.
+
+## Deployment
+
+The vault is deployed via Quartz on Cloudflare Pages at mirapuntes.pages.dev. After making changes, run `npx quartz build` to verify the build succeeds before committing. Never use wikilinks inside YAML frontmatter as this breaks Quartz builds.
 
 ## Plantillas disponibles
 

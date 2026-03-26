@@ -14,11 +14,11 @@ El objetivo principal histórico del asma era el "control". La directriz más no
 
 ### Criterios Objetivos (Patrón Obstructivo Reversible)
 1. **Espirometría + Prueba Broncodilatadora (PBD) Positiva:**
-   - Patrón obstructivo inicial (FEV1/FVC < 0.70).
-   - Reversibilidad tras dar salbutamol: Mejora del **FEV1 ≥ 12% Y ≥ 200 mL**.
+   - Patrón obstructivo inicial: FEV₁/FVC < **LIN** (límite inferior de normalidad, z-score < −1,64). El corte fijo de 0,70 puede sobrediagnosticar en jóvenes e infradiagnosticar en mayores.
+   - Reversibilidad tras dar salbutamol: Mejora del **FEV₁ ≥ 12 % Y ≥ 200 mL**.
 2. **Si la PBD es negativa, o la espirometría normal:**
    - **Prueba de provocación bronquial (Metacolina, ejercicio):** Caída del FEV1 ≥ 20%.
-   - **Óxido Nítrico Exhalado (FENO):** FENO elevado (≥ 50 ppb en adultos) orienta a inflamación T2 eosinofílica compatible con asma, y predice buena respuesta a corticoides inhalados (ICS).
+   - **Óxido Nítrico Exhalado (FENO):** GEMA 5.5 establece dos umbrales en adultos: **≥ 40 ppb** es compatible con diagnóstico de asma (inflamación eosinofílica); **≥ 50 ppb** predice buena respuesta a GCI. Un valor < 25 ppb hace poco probable la inflamación T2.
    - **Variabilidad de Flujo Espiratorio Máximo (PEF):** Variabilidad diurna > 20% en 1-2 semanas.
 
 ## 💊 2. Escalones Terapéuticos (GEMA 5.5)
@@ -31,17 +31,24 @@ El tratamiento debe ser **personalizado y escalonado**. Se prefieren siempre los
 | **2. Leve Persistente** | ICS dosis bajas diarias | SABA a demanda, o seguir ICS/Formoterol (MART) |
 | **3. Moderada** | **ICS/LABA dosis bajas (Terapia de elección)** | SABA a demanda, o ICS/Formoterol (MART) |
 | **4. Grave** | ICS/LABA dosis medias/altas | SABA a demanda, o ICS/Formoterol (MART) |
-| **5. Muy Grave / Refractario** | Añadir **LAMA** (Tiotropio), Fenotipificar para Biológicos (Ag anti-IgE, anti-IL5, anti-IL4/IL13) | SABA a demanda |
-| **6. Asma Grave No Controlada (AGNC)** | Derivar a Unidad Especializada. Valorar Terapias Biológicas avanzadas o corticoides sistémicos (último recurso). | - |
+| **5. Muy Grave / Refractario** | GCI altas + LABA; añadir **LAMA** (Tiotropio) ± [[Azitromicina]] (asma no T2). **Fenotipificar** para iniciar biológico en E6. | SABA a demanda |
+| **6. Asma Grave No Controlada (AGNC)** | Biológicos según fenotipo: **Omalizumab** (anti-IgE), **Mepolizumab/Reslizumab/Benralizumab** (anti-IL-5/IL-5Rα), **Dupilumab** (anti-IL-4Rα), **Tezepelumab** (anti-TSLP). Termoplastia bronquial en no T2. GCO: último recurso. | - |
 
 *(NOTA GEMA 5.5)*: Se han clarificado e independizado explícitamente las tablas pediátricas de asma grave con un árbol de decisión biológica propio y simplificado.
 
 ## 🧬 3. Fenotipificación en el Asma Grave (Escalones 5-6)
 Todo asma que requiera alta dosis de ICS/LABA para mantenerse controlada debe fenotipificarse:
-1. **Asma T2 (Alérgica o Eosinofílica):** Exceso de eosinófilos en sangre (≥ 150-300 μL), FENO elevado (≥ 25 ppb adultos), Ige elevada y alergia demostrada a neumoalérgenos. 
-   - *Biológicos recomendados (GEMA 5.5)*: **Omalizumab** (Anti-IgE), **Mepolizumab / Reslizumab / Benralizumab** (Eje IL-5 o su receptor), **Dupilumab** (Anti IL-4/13). Se introducen menciones experimentales de Depemokimab en rinosinusitis crónica asociada. En GEPA asociado se recomienda Benralizumab.
-   - **Tezepelumab (Anti-TSLP):** Ampliamente avalado sin condicionantes de FENO estricto (actúa *aguas arriba* en la cascada inflamatoria).
+1. **Asma T2 (Alérgica o Eosinofílica):** Inflamación mediada por citocinas Th2 (IL-4, IL-5, IL-13). Biomarcadores: FENO elevado (≥ 25 ppb), eosinofilia, IgE.
+   - Umbrales de eosinófilos **por biológico** (GEMA 5.5 Tabla 7.5):
+     - **Omalizumab** (anti-IgE): IgE 30–1.500 UI/mL + sensibilización a alérgeno perenne; eosinófilos no determinantes.
+     - **Mepolizumab** (anti-IL-5): eos ≥ **300/µL** (o ≥ 150/µL en corticodependientes).
+     - **Reslizumab** (anti-IL-5): eos ≥ **400/µL**.
+     - **Benralizumab** (anti-IL-5Rα): eos ≥ **300/µL**.
+     - **Dupilumab** (anti-IL-4Rα): eos ≥ **150/µL** o FENO ≥ **25 ppb** (o corticodependiente).
+   - **Tezepelumab (Anti-TSLP):** Actúa *aguas arriba* en la cascada inflamatoria; eficaz en T2 **y no T2** (único con esta indicación).
 2. **Asma No T2:** Neutrofílica o paucigranulocítica, peor respuesta a corticoides basales, más ligada al fenotipo obesa y fumadora crónicas. Terapias limitadas, fuerte apoyo de **Macrólidos a largo plazo ([[Azitromicina]])** o LAMA + Termoplastia bronquial.
   
 ## 🩺 4. Seguimiento y Objetivos de Remisión
-Usar cuestionarios estandarizados (ACT, ACQ) en cada visita para evaluar si el paciente está *Controlado*, *Parcialmente Controlado*, o *No Controlado*, y modificar el Escalón en consecuencia tras verificar técnica inhalatoria y adherencia. El fin último actual, insistido por GEMA 5.5, es la **Remisión Clínica Total (12 meses sin síntomas ni corticoides orales)**.
+Usar cuestionarios estandarizados (ACT, ACQ) en cada visita para evaluar si el paciente está *Controlado*, *Parcialmente Controlado*, o *No Controlado*, y modificar el Escalón en consecuencia tras verificar técnica inhalatoria y adherencia. El fin último según GEMA 5.5 / REMAS 2024:
+- **Remisión clínica:** ausencia de síntomas y exacerbaciones + sin GCO + **función pulmonar estable** durante ≥ **12 meses**.
+- **Remisión completa:** criterios anteriores + sin tratamiento controlador durante ≥ **3 años**.
