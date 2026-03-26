@@ -64,6 +64,8 @@ Configuración en `.github/quartz.config.ts` (colores estilo Claude, locale es-E
 El workflow está en `.github/workflows/deploy.yml`.
 La homepage se genera copiando `90_MOCs/000_INICIO.md` como `index.md` antes del build.
 
+Quartz se clona en `./quartz` (dentro del workspace del runner), no en `/tmp/quartz`, para que `actions/setup-node` pueda resolver el cache de npm con ruta relativa.
+
 ## Plantillas disponibles
 
 | Plantilla | Uso |
