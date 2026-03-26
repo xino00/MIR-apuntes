@@ -8,7 +8,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "es-ES",
-    baseUrl: "cuaderno-mir.netlify.app",
+    baseUrl: "mirapuntes.pages.dev",
     ignorePatterns: [".obsidian", "99_Plantillas", "gemini-scribe", "tmp"],
     defaultDateType: "modified",
     theme: {
