@@ -23,6 +23,7 @@ Vault de Obsidian de un residente de Medicina de Familia en Madrid. Rotaciones p
 40_Casos clinicos/      Casos clínicos anónimos (vacío, plantilla disponible)
 50_Guardias/            Registros de guardia por fecha
 60_Pase de planta/      Notas de pase (vacío, plantilla disponible)
+70_Opiniones/           Interconsultas y opiniones de especialistas (plantilla disponible)
 90_MOCs/                Índices de navegación por especialidad
 99_Plantillas/          Plantillas Templater
 Libros y referencias/   PDFs (Manual 12 Octubre, KDIGO 2024, Sepsis 2026, etc.)
@@ -77,3 +78,4 @@ Secrets necesarios en GitHub: `CF_API_TOKEN` y `CF_ACCOUNT_ID` (Cloudflare Pages
 | `TPL - Casos clinicos.md` | Caso clínico anónimo |
 | `TPL - Guardia.md` | Registro de guardia |
 | `TPL - PASE DE PLANTA.md` | Pase de planta |
+| `TPL - Opinion.md` | Interconsulta / Opinión de especialista |
