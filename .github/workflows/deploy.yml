@@ -55,8 +55,9 @@ jobs:
         working-directory: quartz
         run: npx quartz build
 
-      - name: Deploy to Netlify
-        run: npx netlify-cli deploy --dir quartz/public --prod --auth $NETLIFY_AUTH_TOKEN --site $NETLIFY_SITE_ID
-        env:
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CF_API_TOKEN }}
+          accountId: ${{ secrets.CF_ACCOUNT_ID }}
+          command: pages deploy quartz/public --project-name=cuaderno-mir --branch=main
