@@ -1,4 +1,4 @@
-name: Deploy Quartz to Netlify
+name: Deploy Quartz to Cloudflare
 
 on:
   push:
