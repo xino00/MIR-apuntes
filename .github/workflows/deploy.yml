@@ -16,23 +16,23 @@ jobs:
           FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
       - name: Clone Quartz
-        run: git clone --depth 1 https://github.com/jackyzha0/quartz.git /tmp/quartz
+        run: git clone --depth 1 https://github.com/jackyzha0/quartz.git quartz
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
-          cache-dependency-path: /tmp/quartz/package-lock.json
+          cache-dependency-path: quartz/package-lock.json
         env:
           FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
       - name: Install Quartz dependencies
-        working-directory: /tmp/quartz
+        working-directory: quartz
         run: npm ci
 
       - name: Apply Quartz config
-        run: cp $GITHUB_WORKSPACE/.github/quartz.config.ts /tmp/quartz/quartz.config.ts
+        run: cp $GITHUB_WORKSPACE/.github/quartz.config.ts quartz/quartz.config.ts
 
       - name: Copy vault content
         run: |
@@ -46,19 +46,19 @@ jobs:
             --exclude="sync.sh" \
             --exclude="CLAUDE.md" \
             --exclude="*.sh" \
-            . /tmp/quartz/content/
+            . quartz/content/
 
       - name: Set homepage
-        run: cp /tmp/quartz/content/90_MOCs/000_INICIO.md /tmp/quartz/content/index.md
+        run: cp quartz/content/90_MOCs/000_INICIO.md quartz/content/index.md
 
       - name: Build Quartz
-        working-directory: /tmp/quartz
+        working-directory: quartz
         run: npx quartz build
 
       - name: Deploy to Netlify
         uses: nwtgck/actions-netlify@v3
         with:
-          publish-dir: /tmp/quartz/public
+          publish-dir: quartz/public
           production-deploy: true
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
