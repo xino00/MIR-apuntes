@@ -56,15 +56,17 @@ Cron configurado: sync automático cada día a las 22:00.
 
 ## Web pública (Quartz)
 
-URL: **https://cuaderno-mir.netlify.app**
+URL: **https://mirapuntes.pages.dev**
 
-Cada `git push` lanza automáticamente GitHub Actions → construye Quartz → despliega en Netlify. No requiere ninguna acción manual.
+Cada `git push` lanza automáticamente GitHub Actions → construye Quartz → despliega en Cloudflare Pages. No requiere ninguna acción manual.
 
 Configuración en `.github/quartz.config.ts` (colores estilo Claude, locale es-ES).
-El workflow está en `.github/workflows/deploy.yml`.
+El workflow está en `.github/workflows/deploy.yml` (nombre: "Deploy Quartz to Cloudflare").
 La homepage se genera copiando `90_MOCs/000_INICIO.md` como `index.md` antes del build.
 
 Quartz se clona en `./quartz` (dentro del workspace del runner), no en `/tmp/quartz`, para que `actions/setup-node` pueda resolver el cache de npm con ruta relativa.
+
+Secrets necesarios en GitHub: `CF_API_TOKEN` y `CF_ACCOUNT_ID` (Cloudflare Pages project: `mirapuntes`).
 
 ## Plantillas disponibles
 
