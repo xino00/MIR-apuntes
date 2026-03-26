@@ -1,4 +1,4 @@
-# Sepsis y [[Shock]] Séptico
+	# Sepsis y [[Shock]] Séptico
 
 **Fecha de revisión:** 25/03/2026
 **Etiquetas:** #patologia #infecciosas #urgencias #Sepsis3 #SSC2026
@@ -96,6 +96,35 @@ Parámetros evaluados (puntúan de 0 a 3 según desviación de la normalidad):
 - **Rec. 6 (NUEVA):** Evidencia **insuficiente** para recomendar el uso de diagnósticos rápidos de respuesta del huésped (ej. MDW, IntelliSep, SeptiCyte, TriVerity).
 - La IA y scores basados en datos electrónicos están siendo investigados, pero sin recomendación formal.
 
+> [!quote] 📖 Manual 12 de Octubre (2022) — Cinética de Biomarcadores
+>
+> **Ácido láctico:** Mejor indicador de hipoperfusión e hipoxia tisular. Marcador independiente de mortalidad. Valores **> 2 mmol/L** indican mal pronóstico. Útil para guiar la reanimación inicial.
+>
+> **PCR:** Comienza a elevarse a las **8-12 h**, pico a las **36 h**. Rendimiento limitado en el diagnóstico inicial; útil para **monitorizar la respuesta al tratamiento**.
+>
+> **Procalcitonina (PCT):** Comienza a elevarse a las **2-4 h**, pico máximo a las **24 h**. Niveles **> 2 ng/ml** orientan a origen bacteriano. Guía la **suspensión** de la antibioterapia (no el inicio):
+> - Ausencia de "aclaramiento" (descenso **> 70%** a las 48-72 h) → sospechar foco no controlado.
+> - Normalización + respuesta clínica adecuada → puede apoyar la retirada del ATB.
+
+---
+
+## 🩺 Manifestaciones Clínicas por Sistema
+
+> [!quote] 📖 Manual 12 de Octubre (2022) — Tabla 3
+
+| Sistema | Manifestaciones |
+| :--- | :--- |
+| **Cardiovascular / Hemodinámica** | ↓ Resistencias vasculares periféricas, ↑ FC, ↑ Gasto cardíaco. Disfunción sistólica (↓ FE) y diastólica — autolimitadas, desaparecen en los primeros **7-10 días** |
+| **Pulmonar** | FR > 22 rpm *(dato precoz de disfunción)*. SDRA: infiltrados difusos + hipoxemia grave (PaO₂/FiO₂ < 300) en ausencia de ICC |
+| **Neurológica** | Cualquier alteración: GCS < 15, desorientación, agitación, síndrome confusional *(indicadores precoces)*. Encefalopatía sin alteraciones EEG focales (lo más frecuente) |
+| **Termorregulación** | Fiebre frecuente pero no constante. **Hipotermia = mal pronóstico** (frecuente en ancianos, alcohólicos, urémicos e infección por BGN) |
+| **Muscular** | Mialgias en tercio proximal de muslos. Miopatía del enfermo crítico (fase final) |
+| **Endocrinometabólica** | Hiperlactacidemia, acidosis metabólica, hipercatabolismo proteico, hiperlipemia, hipoalbuminemia, hiperglucemia. **Insuficiencia suprarrenal relativa:** hipoglucemia + hipotensión refractaria a vasoactivos. Hipotiroidismo e hipopituitarismo relativos |
+| **Hematológica** | Leucocitosis con neutrofilia / **leucopenia (peor pronóstico)**. Trombocitopenia (muy frecuente). **CID:** plaquetas ≤ 100.000/mm³ + ↑TP + ↑TTPa + ↑dímeros D + ↓fibrinógeno. Fenómenos hemorrágicos y trombóticos |
+| **Renal** | Oliguria, hiperazoemia. Daño renal: necrosis tubular aguda, glomerulonefritis, nefritis intersticial |
+| **Digestiva** | **Ictericia colestásica** (lo más frecuente). Fallo hepático agudo *(raro, mal pronóstico)*. Náuseas, vómitos, diarrea, íleo, hemorragia digestiva |
+| **Mucocutánea** | **Púrpura fulminante:** *N. meningitidis*, BGN, *S. aureus*. **Ectima gangrenosa:** *Pseudomonas aeruginosa*. **Eritrodermia generalizada:** shock tóxico por *S. aureus* o *S. pyogenes* |
+
 ---
 
 ## 💊 Tratamiento: El "Bundle" de Manejo Rápido (SSC 2026)
@@ -161,6 +190,16 @@ Parámetros evaluados (puntúan de 0 a 3 según desviación de la normalidad):
 > [!important] Triaje Crítico
 > El ingreso en UCI debe basarse en el beneficio potencial y la reversibilidad de la situación aguda.
 > **Rec. 15:** Se sugiere ingreso en UCI **en las primeras 6 horas** si hay indicación.
+
+> [!quote] 📖 Manual 12 de Octubre (2022) — Criterios de aviso a UCI (Fig. 1, cap. 65)
+> Avisar a UCI si existe al menos una disfunción orgánica no atribuible a causa crónica:
+> - PaO₂/FiO₂ < 300
+> - TAS < 100 mmHg o TAM < 65 mmHg
+> - GCS < 12
+> - Plaquetas < 100.000/mm³
+> - Bilirrubina > 2 mg/dl
+> - Creatinina > 2 mg/dl **o** diuresis < 0,5 mL/kg/h en 2 h
+> - Lactato > 2 mmol/L
 
 ### Modelo de Prioridades (SCCM / SEMICYUC)
 

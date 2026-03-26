@@ -21,12 +21,20 @@ Esta guía detalla la dosificación extensa, ajustes renales, dosis hepáticas e
 - **Observaciones:** VO: Administrar estómago vacío preferiblemente. Evitar toma conjunta con lácteos, calcio o antiácidos (separar 2-4h).
 
 ### [[Levofloxacino]]
-- **Dosis Estándar (S):** VO 500mg / 24h. IV 500mg / 24h.
-- **Dosis Incrementada (I) P. aeruginosa/NAC/IPPB grave:** VO/IV 500mg / 12h o 750mg / 24h.
-- **Ajuste Renal (S):** FG 20-50: 250mg / 24h. FG < 20: 125mg / 24h.
-- **Ajuste Renal Dosis (I):** Si la dosis recomendada es 500mg/12h o 750mg/24h: FG 20-50 (Dosis inicial 500/750mg -> Mantenimiento 250/500mg cada 24-48h). FG < 20 (Dosis inicial 500/750mg -> Mantenimiento 125/250/500mg cada 24-48h según tabla PROA).
-- **Ajuste Diálisis/TRRC:** HD/DP: Como FG<10 (125mg/24h) o dar dosis post-sesión.
+- **Dosis Estándar (S):** VO/IV 500mg / 24h.
+- **Dosis Incrementada (I) P. aeruginosa/NAC grave/IPPB grave:** VO/IV 500mg / 12h o 750mg / 24h.
+- **Ajuste Renal (S — 500mg/24h):** FG 20-50: 250mg / 24h. FG < 20: 125mg / 24h.
+- **Ajuste Renal Dosis (I — 500mg/12h):** FG 20-50: Dosis inicial 500mg → mantenimiento 250mg/24h. FG < 20: Dosis inicial 500mg → mantenimiento 125mg/24h.
+- **Ajuste Renal Dosis (I — 750mg/24h):** FG 20-50: Dosis inicial 750mg → mantenimiento 500mg/24-48h. FG < 20: Dosis inicial 750mg → mantenimiento 250-500mg/48h.
+- **Ajuste Diálisis/TRRC:** HD/DP: Dosis inicial 500mg → 125mg/24h (post-sesión en HD). TRRC: 250-500mg / 24h.
 - **Ajuste Hepático:** No requiere.
+
+### [[Moxifloxacino]]
+- **Dosis Estándar (S):** VO/IV 400mg / 24h.
+- **Ajuste Renal (S):** No requiere ajuste (excreción biliar/fecal predominante).
+- **Ajuste Diálisis/TRRC:** No requiere ajuste.
+- **Ajuste Hepático:** Contraindicado en Child-Pugh C.
+- **Observaciones:** Sin actividad anti-Pseudomonas. Útil en NAC por neumococo/atípicos y exacerbaciones de EPOC. Riesgo de prolongación del QT (revisar ECG y fármacos concomitantes). Administrar VO en ayunas o con comida ligera; evitar con antiácidos/calcio (separar 4h).
 
 ---
 ## 2. Macrólidos
@@ -58,6 +66,16 @@ Esta guía detalla la dosificación extensa, ajustes renales, dosis hepáticas e
 - **Ajuste Renal (S):** **¡NO requiere ajuste!**. Los parámetros son idénticos aún con FG<10.
 - **Ajuste Diálisis/TRRC:** No requiere dosis complementarias.
 - **Ajuste Hepático:** Monitorizar si hay disfunción moderada/grave.
+
+---
+## 4. Oxazolidinonas
+
+### [[Linezolid]]
+- **Dosis Estándar (S):** VO/IV 600mg / 12h.
+- **Ajuste Renal (S):** **No requiere ajuste.** Acumulación de metabolitos en FG < 30, pero sin necesidad de reducción de dosis establecida.
+- **Ajuste Diálisis/TRRC:** HD/DP: 600mg / 12h (dar después de la sesión si el día coincide). TRRC (alto flujo, ECMO): Considerar 600mg / 8-12h por aumento del volumen de distribución.
+- **Ajuste Hepático:** Child-Pugh A/B: sin cambios. Child-Pugh C: riesgo aumentado de trombocitopenia — monitorizar hemograma semanalmente.
+- **Observaciones:** Excelente biodisponibilidad oral (100%); equivalente IV = VO. Activo frente a SARM, Enterococcus resistente a Vancomicina (ERV) y neumococo multirresistente. **No usar > 28 días** (riesgo de mielotoxicidad, neuropatía óptica y periférica). Evitar con ISRS/IMAO (síndrome serotoninérgico). Inhibe la síntesis de toxinas estafilocócicas (efecto antitoxina útil en shock tóxico).
 
 > [!info] Enlaces
 > Volver al Índice Principal de Síndromes: [[PROA - Guía de Antimicrobianos y Síndromes Infecciosos]]
