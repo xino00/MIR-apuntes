@@ -74,4 +74,3 @@ tags: [urgencias, intensivos, patologia_critica]
 > - **UCI**: Todo paciente en estado de shock precisará ingreso en UCI para monitorización hemodinámica invasiva continua o soporte vasopresor / ventilatorio o terapias de depuración asociadas.
 
 ---
-**Relacionado:** [[1. Técnicas y procedimientos instrumentales]], [[65. Sepsis, bacteriemia y candidemia]], [[23. Soporte respiratorio]], [[53. Patología suprarrenal]]
