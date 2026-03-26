@@ -22,6 +22,7 @@
 - [[MOC - NEUMOLOGIA|MOC - Neumología]]
 - [[MOC - INFECCIOSAS]]
 - [[MOC - NEUROLOGIA]]
+- [[MOC - HEMATOLOGIA|MOC - Hematología]]
 - [[MOC - Urgencias]]
 
 ### 📝 Mi Residencia
