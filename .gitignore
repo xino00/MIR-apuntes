@@ -3,3 +3,6 @@
 .trash/
 .DS_Store
 tmp/
+sync.log
+.claude/
+*.txt
