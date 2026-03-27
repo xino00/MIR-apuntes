@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "es-ES",
     baseUrl: "mirapuntes.pages.dev",
-    ignorePatterns: [".obsidian", "99_Plantillas", "gemini-scribe", "tmp", "README.md", "quartz"],
+    ignorePatterns: [".obsidian", "00_Inbox", "40_Casos clinicos", "99_Plantillas", "gemini-scribe", "tmp", "README.md", "quartz"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
