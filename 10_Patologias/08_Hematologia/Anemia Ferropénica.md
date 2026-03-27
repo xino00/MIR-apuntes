@@ -12,7 +12,7 @@ tags: [Hematología, patologia, urgencias]
 ## 🔴 Signos de Alarma
 
 > [!danger] Red Flags
-> - Ferropenia en varón adulto o mujer posmenopáusica → **sangrado digestivo oculto hasta demostrar lo contrario** → colonoscopia ± gastroscopia.
+> - Ferropenia en varón adulto o mujer posmenopáusica → **sangrado digestivo oculto hasta demostrar lo contrario** → SOH->colonoscopia ± gastroscopia.
 > - Ferropenia refractaria a hierro oral (sin ↑ reticulocitos a los 7-10 días) → malabsorción (celiaquía, H. pylori, gastritis atrófica, bypass gástrico) o hemorragia activa.
 > - Ferropenia + disfagia → Plummer-Vinson (síndrome de Kelly-Paterson): buscar membrana esofágica.
 > - Ferropenia + pica, síndrome de piernas inquietas → clásicos pero inespecíficos.
