@@ -25,6 +25,22 @@
 - [[MOC - HEMATOLOGIA|MOC - Hematología]]
 - [[MOC - Urgencias]]
 
+### 📋 Plantillas de Guardia
+> [!tip] Copiar y Pegar
+> - [[00 - Exploración|Exploración física]]
+> - [[01 - Curas|Curas]]
+> - [[01b - Las Movidas de Curas|Las Movidas de Curas]]
+> - [[02 - Polis|Policlínicas / Polis]]
+> - [[03 - Ayudas Boxes|Ayudas Boxes]]
+> - [[04 - Evolución Paciente Boxes|Evolución Paciente Boxes]]
+> - [[05 - SuperCOT|SuperCOT]]
+> - [[05a - COT Plantillas Alex Rehabi|COT - Alex Rehabi]]
+> - [[05b - COT Plantillas Regi|COT - Regi]]
+> - [[06 - Pediatría Tratamientos|Pediatría Tratamientos]]
+> - [[06a - Pediatría Dosis|Pediatría Dosis]]
+> - [[07 - Plantillas COT|Plantillas COT]]
+> - [[08 - Trauma COT Unión|Trauma COT Unión]]
+
 ### 📝 Mi Residencia
 - [[Perlas y errores]]
 
