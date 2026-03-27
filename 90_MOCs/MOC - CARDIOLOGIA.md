@@ -12,6 +12,7 @@
 - [[Manejo_Diuretico_Deterioro_Renal_ICA|Manejo Diurético y Deterioro Renal en ICA]]
 - [[Síndrome Cardiorrenal]]
 - [[Arritmias]]
+- [[Síncope]]
 - [[Fibrilación Auricular (FA)]]
 - [[Cardiopatía isquémica]]
 - [[Miocardiopatías]]
