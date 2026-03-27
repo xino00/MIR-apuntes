@@ -46,6 +46,7 @@ jobs:
             --exclude="sync.sh" \
             --exclude="CLAUDE.md" \
             --exclude="*.sh" \
+            --exclude="quartz" \
             . quartz/content/
 
       - name: Set homepage
