@@ -45,4 +45,4 @@ El potasio es el principal catión intracelular (concentración intracelular ~14
 ## 🔗 Relacionados
 - [[Hiperpotasemia]]
 - [[Insulina]]
-- [[Furosemidda]]
+- [[Furosemida]]

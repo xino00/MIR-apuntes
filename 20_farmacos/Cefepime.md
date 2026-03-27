@@ -19,7 +19,7 @@ Tratamiento intravenoso hospitalario empírico ante sospecha de infecciones noso
 - [[Sepsis]] grave de etiología desconocida en el entorno crítico.
 - [[Neutropenia Febril]] severa de alto riesgo (como monoterapia antipseudomónica).
 - Infección intraabdominal u operatoria compleja (se debe coadministrar con un fármaco antianaeróbico, típicamente **[[Metronidazol]]**).
-- Infección complicada o [[Pielonefritis aguda]] en el paciente urológico nosocomial.
+- Infección complicada o [[Pielonefritis Aguda]] en el paciente urológico nosocomial.
 
 ## 3. Contraindicaciones y Precauciones
 

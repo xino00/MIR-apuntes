@@ -14,7 +14,7 @@ Bactericida. La piperacilina inhibe la síntesis de la pared celular bacteriana;
 Tratamiento intravenoso empírico de primera línea para infecciones graves intra o extrahospitalarias:
 - [[Neumonía Nosocomial]] y Neumonía Asociada a Ventilación Mecánica (NAVM).
 - Infección intraabdominal complicada (peritonitis, abscesos, colecistitis).
-- Infección complicada del tracto urinario ([[Pielonefritis aguda]]).
+- Infección complicada del tracto urinario ([[Pielonefritis Aguda]]).
 - Infecciones graves de piel y partes blandas (pie diabético).
 - [[Neutropenia Febril]] de alto riesgo o [[Sepsis]] de origen biliar/abdominal.
 

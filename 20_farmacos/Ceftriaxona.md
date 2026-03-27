@@ -17,7 +17,7 @@ Tratamiento intravenoso (IV) o intramuscular (IM) empírico o dirigido:
 
 - [[Meningitis bacteriana]] y [[Sepsis]] grave de origen respiratorio o desconocido.
 - Infección intraabdominal grave, Peritonitis Bacteriana Espontánea (PBE).
-- [[Pielonefritis aguda]] e infecciones urinarias severas (ver [[PROA - Infecciones del Tracto Urinario (ITU)]]).
+- [[Pielonefritis Aguda]] e infecciones urinarias severas (ver [[PROA - Infecciones del Tracto Urinario (ITU)]]).
 - Urgencias de ITS (Gonococia, EPI, Sífilis precoz o tardía) (ver [[PROA - Infecciones de Transmisión Sexual (ITS)]]).
 - Endocarditis y Enfermedad de Lyme.
 

@@ -184,6 +184,6 @@
 
 ---
 ### 🔗 Enlaces Relacionados
-- [[Cardiopatia isquemica]]
+- [[Cardiopatía isquémica]]
 - [[MOC - CARDIOLOGIA]]
 - [Guia ACS 2025 (ACC/AHA)](<obsidian://open?vault=MIR&file=Libros%20y%20referencias/rao-et-al-2025-2025-acc-aha-acep-naemsp-scai-guideline-for-the-management-of-patients-with-acute-coronary-syndromes-a-1.pdf>)
