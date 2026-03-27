@@ -157,7 +157,7 @@
 | IECA/ARA-II razonables en **todos** los pacientes con SCA de alto riesgo | **2a** | A |
 
 - Inicio en las primeras **24 horas** si hemodinamicamente estable (PAS > 100 mmHg).
-- Farmacos habituales: **[[Ramipril]]** 2.5-10 mg/dia, **[[Enalapril]]** 2.5-20 mg cada 12h, **[[Valsartan]]** 40-160 mg cada 12h.
+- Farmacos habituales: **[[Ramipril]]** 2.5-10 mg/dia, **[[Enalapril]]** 2.5-20 mg cada 12h, **[[Valsartán]]** 40-160 mg cada 12h.
 
 ### Antagonistas del Receptor de Mineralocorticoides (ARM)
 
@@ -181,6 +181,6 @@
 
 ---
 ### 🔗 Enlaces Relacionados
-- [[Cardiopatia isquemica]]
+- [[Cardiopatía isquémica]]
 - [[MOC - CARDIOLOGIA]]
 - [Guia ACS 2025 (ACC/AHA)](<obsidian://open?vault=MIR&file=Libros%20y%20referencias/rao-et-al-2025-2025-acc-aha-acep-naemsp-scai-guideline-for-the-management-of-patients-with-acute-coronary-syndromes-a-1.pdf>)

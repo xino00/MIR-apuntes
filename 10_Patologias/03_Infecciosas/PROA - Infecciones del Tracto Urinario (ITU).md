@@ -45,7 +45,7 @@ tags: [urgencias, infecciosas, urologia]
 
 ## 2. Infección del Parénquima
 
-- **[[Pielonefritis aguda]]** (sin criterios de ingreso):
+- **[[Pielonefritis Aguda]]** (sin criterios de ingreso):
   - Extraer **urocultivo siempre** antes de iniciar antibiótico (alta rentabilidad).
   - Considerar Rx abdomen para descartar litiasis (si clínica similar a cólico renal).
   - **Si se decide manejo ambulatorio:** mantener en observación al menos **12h** tras la 1ª dosis (1/3 evolucionan a sepsis).

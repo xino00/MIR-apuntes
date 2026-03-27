@@ -15,7 +15,7 @@ Bactericida. Inhibe la síntesis de la pared celular. Como cefalosporina de 3ª 
 
 Especialmente útil en terapia puente desde el hospital (secuenciación a vía oral tras dosis endovenosas de [[Ceftriaxona]]):
 
-- Infecciones no complicadas del tracto urinario (ITUs) en mujeres embarazadas o varones, y como terapia puente en [[Pielonefritis aguda]]. (Ver guía **[[PROA - Infecciones del Tracto Urinario (ITU)]]**).
+- Infecciones no complicadas del tracto urinario (ITUs) en mujeres embarazadas o varones, y como terapia puente en [[Pielonefritis Aguda]]. (Ver guía **[[PROA - Infecciones del Tracto Urinario (ITU)]]**).
 - Exacerbaciones agudas graves de bronquitis crónica ([[EPOC reagudizado]]).
 - [[Otitis media aguda]].
 - Faringitis estreptocópica (como alternativa a penicilinas si hay alergia leve/retardada demostrada no mediada por IgE).
