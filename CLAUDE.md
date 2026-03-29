@@ -36,14 +36,29 @@ El **MOC - Urgencias** actúa como vista transversal: agrega las urgencias de ca
 
 ## Obsidian Local REST API
 
-El vault tiene el plugin **Local REST API** activo. Mientras Obsidian esté abierto, se puede interactuar con él:
+El vault tiene el plugin **Local REST API** activo. Para usar con scripts:
+
+⚠️ **IMPORTANTE:** El token es una credencial sensible - **NUNCA lo guardes en git** (incluso en repos privados/públicos).
 
 ```bash
-# Leer nota activa
-curl http://localhost:27123/active/ -H "Authorization: Bearer c33f71c026877f5fd8f2a0588a7b94ca8f732eb68654d81a93ebe92064241d95"
+# 1. Generar token en Obsidian:
+#    Settings → Community plugins → Local REST API → Generate new API token
 
-# Abrir una nota
-curl -X POST "http://localhost:27123/open/ruta%2Fnota.md" -H "Authorization: Bearer c33f71c026877f5fd8f2a0588a7b94ca8f732eb68654d81a93ebe92064241d95"
+# 2. Guardar en variable de entorno (en tu máquina, NO en git):
+export OBSIDIAN_API_TOKEN="<tu_token_aqui>"
+
+# 3. Usar en comandos:
+curl http://localhost:27123/active/ \
+  -H "Authorization: Bearer $OBSIDIAN_API_TOKEN"
+
+curl -X POST "http://localhost:27123/open/ruta%2Fnota.md" \
+  -H "Authorization: Bearer $OBSIDIAN_API_TOKEN"
+```
+
+**Para guardar permanentemente:**
+```bash
+echo 'export OBSIDIAN_API_TOKEN="<tu_token>"' >> ~/.bashrc
+source ~/.bashrc
 ```
 
 Puerto HTTP: 27123 · Puerto HTTPS: 27124
