@@ -56,6 +56,19 @@ jobs:
         working-directory: quartz
         run: npx quartz build
 
+      - name: Validate build output
+        run: |
+          if [ ! -d "quartz/public" ]; then
+            echo "❌ Build failed: no output directory created"
+            exit 1
+          fi
+          HTML_COUNT=$(find quartz/public -type f -name '*.html' | wc -l)
+          if [ "$HTML_COUNT" -eq 0 ]; then
+            echo "❌ Build failed: no HTML files generated"
+            exit 1
+          fi
+          echo "✅ Build validated: $HTML_COUNT HTML files generated"
+
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
         with:

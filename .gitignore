@@ -1,8 +1,41 @@
+# Obsidian workspace & cache
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/sync.json
+.obsidian/starred.json
+.obsidian/plugins/obsidian-local-rest-api/data.json
 .trash/
+
+# System files
 .DS_Store
+Thumbs.db
+
+# Temporal files
 tmp/
+temp/
+*.tmp
 sync.log
+
+# Development
 .claude/
+.vscode/
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# Secrets (never commit credentials)
+.env
+.env.local
+.env.*.local
+secrets/
+*.pem
+*.key
+
+# Temporary text files
 *.txt
