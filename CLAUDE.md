@@ -34,6 +34,35 @@ Libros y referencias/   PDFs (Manual 12 Octubre, KDIGO 2024, Sepsis 2026, etc.)
 
 El **MOC - Urgencias** actúa como vista transversal: agrega las urgencias de cada especialidad (que siguen viviendo en `10_Patologias/`) más el contenido propio de `30_Urgencias/`.
 
+## Git LFS (Large File Storage)
+
+Los PDFs en `Libros y referencias/` se versionan con **Git LFS** para mantener el repositorio ligero.
+
+**Requisitos:**
+```bash
+# 1. Instalar Git LFS
+sudo dnf install git-lfs    # Fedora
+sudo apt-get install git-lfs # Ubuntu/Debian
+brew install git-lfs         # macOS
+
+# 2. Inicializar Git LFS (una sola vez)
+git lfs install
+```
+
+**Clonar con Git LFS:**
+```bash
+git clone git@github.com:xino00/MIR-apuntes.git
+cd MIR-apuntes
+git lfs pull    # Descargar PDFs
+```
+
+**Si ya clonaste sin LFS:**
+```bash
+git lfs pull    # Ahora descarga los PDFs correctamente
+```
+
+Los PDFs nuevos en `Libros y referencias/` se rastrean automáticamente con LFS (ver `.gitattributes`).
+
 ## Obsidian Local REST API
 
 El vault tiene el plugin **Local REST API** activo. Para usar con scripts:
