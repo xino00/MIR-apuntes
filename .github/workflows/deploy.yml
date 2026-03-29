@@ -27,6 +27,14 @@ jobs:
         env:
           FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
+      - name: Cache Quartz build
+        uses: actions/cache@v4
+        with:
+          path: quartz/.quartz-cache
+          key: quartz-cache-${{ github.sha }}
+          restore-keys: |
+            quartz-cache-
+
       - name: Install Quartz dependencies
         working-directory: quartz
         run: npm ci
@@ -55,19 +63,38 @@ jobs:
       - name: Build Quartz
         working-directory: quartz
         run: npx quartz build
+        env:
+          NODE_ENV: production
+          NODE_OPTIONS: --max-old-space-size=4096
 
-      - name: Validate build output
+      - name: Validate build output and report metrics
         run: |
           if [ ! -d "quartz/public" ]; then
             echo "❌ Build failed: no output directory created"
             exit 1
           fi
+
           HTML_COUNT=$(find quartz/public -type f -name '*.html' | wc -l)
           if [ "$HTML_COUNT" -eq 0 ]; then
             echo "❌ Build failed: no HTML files generated"
             exit 1
           fi
-          echo "✅ Build validated: $HTML_COUNT HTML files generated"
+
+          # Calcular tamaño total
+          TOTAL_SIZE=$(du -sh quartz/public | cut -f1)
+
+          # Contar assets
+          CSS_COUNT=$(find quartz/public -type f -name '*.css' | wc -l)
+          JS_COUNT=$(find quartz/public -type f -name '*.js' | wc -l)
+          IMAGE_COUNT=$(find quartz/public -type f \( -name '*.png' -o -name '*.jpg' -o -name '*.gif' -o -name '*.svg' \) | wc -l)
+
+          echo "✅ Build validated!"
+          echo "📊 Build metrics:"
+          echo "  • HTML files: $HTML_COUNT"
+          echo "  • CSS files: $CSS_COUNT"
+          echo "  • JavaScript files: $JS_COUNT"
+          echo "  • Images: $IMAGE_COUNT"
+          echo "  • Total size: $TOTAL_SIZE"
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
