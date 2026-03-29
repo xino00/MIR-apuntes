@@ -4,7 +4,7 @@
 
 **⚠️ DO NOT open a public issue for security vulnerabilities.**
 
-If you discover a security issue in this repository, please email the maintainer privately at `arenasjuan10@gmail.com` instead.
+If you discover a security issue in this repository, please email the maintainer privately at `cw8cyhirx@mozmail.com` instead.
 
 ### What to include in your report:
 - Description of the vulnerability
@@ -139,7 +139,7 @@ git log --oneline -20
 
 ## Contact
 
-For security concerns, contact: `arenasjuan10@gmail.com`
+For security concerns, contact: `cw8cyhirx@mozmail.com`
 
 For general questions, open a GitHub issue.
 
