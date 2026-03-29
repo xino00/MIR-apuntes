@@ -6,6 +6,10 @@ on:
       - main
   workflow_dispatch:
 
+# Principle of least privilege: only request what's needed
+permissions:
+  contents: read  # Read repository code only
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
