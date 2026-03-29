@@ -6,6 +6,18 @@
 > - [[Taponamiento Cardiaco]]
 > - [[TEP - Tromboembolismo Pulmonar]]
 
+### 🩺 Hipertensión Arterial (Guía ESC 2024)
+- [[Fisiopatología de la Hipertensión]]
+- [[Daño Orgánico Mediado por Hipertensión]]
+- [[Medición de la Presión Arterial]]
+- [[Clasificación de la Presión Arterial ESC 2024]]
+- [[Diagnóstico de Hipertensión y Causas Secundarias]]
+- [[Evaluación del Riesgo Cardiovascular en la Hipertensión]]
+- [[Tratamiento No Farmacológico de la Hipertensión]]
+- [[Tratamiento Farmacológico de la Hipertensión]]
+- [[Hipertensión en Poblaciones Especiales]]
+- [[Hipertensión Resistente y Crisis Hipertensiva]]
+
 ### 🦠 Patologías Frecuentes
 - [[Insuficiencia cardiaca]]
 - [[Insuficiencia cardiaca aguda]]
