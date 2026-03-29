@@ -145,11 +145,22 @@ Ver `.CLAUDE.md` para más detalles.
 
 ---
 
-## 📄 Licencia & Privacidad
+## 📄 Licencia
 
-- Sin licencia explícita
-- Contenido privado de uso personal y educativo
-- Los PDFs versionados con Git LFS son referencias clínicas públicas
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+Este contenido está bajo licencia **Creative Commons Attribution-ShareAlike 4.0 International**.
+
+### ✅ Puedes:
+- Copiar y compartir este material
+- Adaptarlo y mejorarlo
+- Usar con fines educativos y comerciales
+
+### 🔗 Debes:
+- Atribuir el trabajo original (cita: "MIR · Apuntes")
+- Distribuir cualquier obra derivada bajo la misma licencia
+
+[📖 Leer licencia completa](LICENSE)
 
 ---
 
