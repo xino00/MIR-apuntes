@@ -128,15 +128,6 @@ git log --oneline -20
 
 ---
 
-## Security Incident History
-
-| Date | Issue | Status |
-|------|-------|--------|
-| 2026-03-29 | Obsidian API token exposed in CLAUDE.md | ✅ Resolved |
-| | Token regenerated, docs updated | |
-
----
-
 ## Contact
 
 For security concerns, contact: `cw8cyhirx@mozmail.com`
