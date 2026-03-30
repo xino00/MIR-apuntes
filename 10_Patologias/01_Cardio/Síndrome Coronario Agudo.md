@@ -247,7 +247,7 @@ Síntomas → Diagnóstico → Decisión:
 - [[MOC - CARDIOLOGIA]]
 - [[Arritmias]]
 - [[Insuficiencia cardiaca]]
-- [[Dolor Torácico - Abordaje y Triage]]
+- [[Dolor Torácico - Abordaje y Triaje]]
 - [[Shock]]
 - [[Hipertensión Resistente y Crisis Hipertensiva]]
 - [[Algoritmo de PCR Avanzada (Soporte Vital Avanzado)]]

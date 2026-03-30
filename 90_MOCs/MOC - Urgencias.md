@@ -18,7 +18,7 @@ tags: [moc, urgencias]
 
 ## 🔴 Patología Aguda Cross-Specialty
 
-- [[Dolor Torácico - Abordaje y Triage]]
+- [[Dolor Torácico - Abordaje y Triaje]]
 - [[Dolor Torácico - Perfiles Clínicos]]
 - [[Disnea Aguda - Evaluación Urgente]]
 
