@@ -49,6 +49,7 @@ tags: [moc, urgencias]
 - [[TEP - Tromboembolismo Pulmonar]]
 - [[Taponamiento Cardiaco]]
 - [[SCA - Evaluacion Inicial y Clasificacion (ACC-AHA 2025)|SCA - Evaluación Inicial y Clasificación]]
+- [[Hipertensión Resistente y Crisis Hipertensiva|Crisis Hipertensiva]]
 
 **Neumología**
 - [[Asma - Crisis Asmática]]
@@ -85,6 +86,5 @@ tags: [moc, urgencias]
 
 ---
 
-## 📖 Manual 12 de Octubre
-
-- [[MOC - Manual 12 de Octubre Urgencias]]
+## 📖 Referencias
+- Manual 12 de Octubre 2022 (9ª ed.) — PDF en `Libros y referencias/`

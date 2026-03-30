@@ -15,9 +15,9 @@ Vault de Obsidian de un residente de Medicina de Familia en Madrid. Rotaciones p
 ```
 10_Patologias/          Patología crónica/electiva por especialidad
   01_Cardio/            02_Neuro/  03_Infecciosas/  04_Digestivo/
-  05_Neumologia/        06_Nefrologia/  07_Reumatologia/
+  05_Neumologia/        06_Nefrologia/  07_Reumatologia/  08_Hematologia/
 
-20_farmacos/            128 fichas de fármacos (una por archivo)
+20_farmacos/            ~130 fichas de fármacos (una por archivo)
 
 30_Urgencias/           Hub central de guardia
   Patologia_Aguda/      Shock, SDRA, IRA, Dolor torácico, Disnea

@@ -1,205 +1,258 @@
 ---
-aliases: [HTA Resistente, Hipertensión Refractaria, Crisis Hipertensiva, Emergencia Hipertensiva, Urgencia Hipertensiva]
+aliases: [HTA Resistente, Hipertensión Refractaria, Crisis Hipertensiva, Emergencia Hipertensiva, Urgencia Hipertensiva, HTA Maligna]
 tags: [Cardiología, HTA, urgencias]
 ---
 # Hipertensión Resistente y Crisis Hipertensiva
 
-**Fuente:** Guía ESC 2024 sobre el manejo de la presión arterial elevada y la hipertensión.
-**Concepto clave:** La hipertensión resistente (PA elevada a pesar de ≥3 fármacos en dosis máximas) requiere evaluación exhaustiva para excluir pseudorresistencia y causas secundarias; las crisis hipertensivas (urgencias vs. emergencias) son situaciones agudas que requieren tratamiento inmediato con objetivos de reducción lenta para evitar complicaciones isquémicas.
+**Fuentes:** Guía ESC 2024 sobre PA elevada e hipertensión | Manual H12 de Octubre 2022 (9.ª ed., cap. 14).
+**Concepto clave:** La HTA resistente (PA elevada a pesar de ≥3 fármacos específicos a dosis máximas) requiere excluir pseudorresistencia y causas secundarias. Las crisis hipertensivas (emergencias con DOMH vs. PA mal controlada sin DOMH) son situaciones agudas con objetivos de reducción controlada.
 
-## 🔴 Hipertensión Resistente: Definición y Diagnóstico
+---
 
-### Definición (Tabla 10)
-La hipertensión se define como resistente cuando una estrategia de tratamiento que incluye:
-- **Medicación:** En dosis máximas toleradas de ≥3 fármacos de diferentes clases.
-- **Diuréticos:** Preferiblemente incluyendo diurético tiazídico o similar.
-- **Adherencia confirmada:** Sin terapia intervencionista (denervación renal) ha logrado PA <140/90 mmHg.
+## HTA Resistente
 
-**Alternativa:** Necesidad de ≥4 fármacos antihipertensivos para alcanzar objetivo.
+### Definición (ESC 2024, Tabla 10)
 
-### Prevalencia
-- ~12-15 % de pacientes hipertensos bajo tratamiento.
-- Más frecuente en ancianos, obesidad, ERC, diabetes, apnea.
+PA en consulta **≥140/90 mmHg** a pesar de:
+- **Triple terapia** a dosis máximas toleradas: **diurético tiazídico/similar + bloqueante RAAS (IECA/ARA II) + BCC**.
+- Confirmada con **AMPA/MAPA** (umbrales fuera de consulta: AMPA ≥135/85; MAPA 24h ≥130/80).
+- Si TFGe <30 ml/min → sustituir tiazida por **diurético de asa** a dosis adecuada.
 
-### Pronóstico
-- **Riesgo CV:** 2-3 veces mayor que población general con HTA controlada.
-- **Mortalidad:** Aumentada; requiere intensificación de tratamiento.
+> **H12O coincide** en la definición (3 fármacos incluyendo diurético), sin especificar las clases obligatorias.
 
-## 🚨 Pseudorresistencia (Causas de "HTA Aparentemente Resistente")
+### Prevalencia y Pronóstico
 
-Antes de diagnosticar HTA verdaderamente resistente, EXCLUIR pseudorresistencia:
+| | ESC 2024 | Nota previa |
+|---|---|---|
+| Prevalencia | **10-20 %** de hipertensos tratados | 12-15 % |
+| Riesgo CV | **2-6 veces** mayor (IAM, ictus, ERT, muerte) | 2-3 veces |
 
-### Causas Frecuentes (Tabla 11)
+- Más frecuente en: ancianos, obesidad, ERC, diabetes, SAOS.
+- No es una enfermedad per se, sino un indicador de alto riesgo CV y mayor probabilidad de HTA secundaria.
+- Derivar a **centro especializado** (IIa/B).
 
-#### 1. Mala Adherencia al Medicamento
-- **Frecuencia:** Causa más común (~30-50 % casos).
-- **Cómo evaluar:** Pregunta directa paciente; recuento de comprimidos; niveles plasmáticos de fármaco si disponible.
-- **Corrección:** Educación; simplificación de régimen (píldora única); apoyo psicológico; recordatorios.
+### Pseudorresistencia (excluir antes de diagnosticar)
 
-#### 2. Efecto de Bata Blanca
-- **Definición:** PA elevada en consulta pero normal en AMPA/MAPA.
-- **Frecuencia:** ~20-30 % de aparente HTA refractaria.
-- **Detección:** AMPA/MAPA definitorio.
-- **Implicación:** Mejor pronóstico que HTA verdaderamente resistente; considerar "deintensificación" de medicamentos.
+| Causa | Frecuencia / Detalle | Corrección |
+|---|---|---|
+| **Mala adherencia** | ~30-50 % (causa más frecuente) | Píldora única; niveles plasmáticos; educación |
+| **Efecto bata blanca** | ~20-30 % | AMPA/MAPA confirma; mejor pronóstico |
+| **Técnica incorrecta** | Brazalete pequeño sobreestima | Estandarizar medición |
+| **Inercia clínica** | Dosis subóptimas, combinaciones inadecuadas | Optimizar régimen |
+| **Calcificación braquial** (Osler) | Ancianos; falsa elevación | Maniobra de Osler |
+| **Interferencia farmacológica** | AINE, descongestivos, ACO, corticoides, EPO, cocaína, anfetaminas | Retirar/sustituir |
+| **Sobrecarga de volumen** | Sal excesiva, diurético insuficiente, ICC | Restricción Na⁺; intensificar diurético |
+| **HTA secundaria no diagnosticada** | Aldosteronismo ~12 %, SAOS ~50 %, renovascular, feocromocitoma | Ver [[Diagnóstico de Hipertensión y Causas Secundarias]] |
 
-#### 3. Técnica de Medición Incorrecta
-- **Errores frecuentes:** Brazalete inapropiado (demasiado pequeño sobreestima), posición incorrecta (brazalete no a nivel cardíaco), falta de reposo previo.
-- **Corrección:** Enseñanza de técnica estandarizada; AMPA para validación.
+### Estudio Diagnóstico (HTA verdaderamente resistente)
 
-#### 4. Hipertensión Secundaria Diagnosticada
-- **Causas comunes en "resistencia":** Aldosteronismo primario (~12 %), HTA renovascular, SAOS (~50 %), ERC, feocromocitoma, Cushing.
-- **Evaluación:** Véase nota [[Diagnóstico de Hipertensión y Causas Secundarias]].
+1. **AMPA/MAPA** → confirmar PA fuera de consulta.
+2. **Cribado de secundaria** (Tabla 13 ESC):
 
-#### 5. Interferencia Farmacológica
-- **Medicamentos que aumentan PA:**
-  - AINE (reducen respuesta antihipertensiva).
-  - Descongestivos (pseudoefedrina, fenilefrina).
-  - Anticonceptivos orales (especialmente dosis alta estrógenos).
-  - Esteroides sistémicos (glucocorticoides).
-  - Inhibidores de monoaminooxidasa (IMAO) + aminas simpatomiméticas.
-  - Eritropoyetina (en dialisis).
-  - Cocaína, anfetaminas.
-- **Corrección:** Suspensión si posible; sustitución por alternativa.
+| Causa | Cribado |
+|---|---|
+| Aldosteronismo primario | Ratio aldosterona-renina (revisar K⁺ previo) |
+| HTA renovascular | Eco Doppler renal; AngioTC/RM abdominal |
+| SAOS | Polisomnografía nocturna |
+| ERC | Creatinina, TFGe, cociente albúmina/creatinina, eco renal |
+| Feocromocitoma | Metanefrinas plasmáticas y/o en orina 24h |
+| Cushing | Cortisol libre orina 24h; test dexametasona |
+| Disfunción tiroidea | TSH |
+| Hiperparatiroidismo | PTH, Ca²⁺, fosfato |
+| Coartación aorta | Ecocardiograma; AngioTC aórtica |
 
-#### 6. Sobrecarga de Volumen
-- **Mecanismo:** Retención de sodio/agua → aumento de volemia central → elevación PA.
-- **Causas:** Ingesta excesiva de sal; diurético insuficiente en ERC; ICC congestiva; miembros inferiores edematosos.
-- **Corrección:** Intensificar diurético; restricción de sodio; tratar ICC.
+3. **Evaluación de adherencia** y efectos adversos.
 
-### 🔴 Hipertensión Verdaderamente Resistente
+### Tratamiento Escalonado (ESC 2024, Tabla 30 / Figura 22)
 
-Después de excluir pseudorresistencia, proceder a evaluación sistemática:
+```
+Paso 1 → Espironolactona 25-50 mg/día .................. (IIa/B)
+Paso 2 → Betabloqueante (si no indicado previamente) . (IIa/B)
+Paso 3 → Alfabloqueante / agente central / ahorrador K⁺ (IIa/B)
+       O Denervación renal (centros alto volumen) ..... (IIb/B)
+```
 
-#### Estudio Diagnóstico Recomendado
-1. **Confirmación de PA elevada:** AMPA/MAPA para asegurar PA verdaderamente elevada (no solo consulta).
-2. **Búsqueda de secundaria (Tabla 13):**
-   - **Aldosteronismo:** Ratio aldosterona-renina (RAR) si sospecha, PA <180/110 (si >180 sugerir hipertensión maligna).
-   - **HTA renovascular:** Ecografía Doppler renal (si sospecha), AngioTC, RMN abdominales.
-   - **SAOS:** Polisomnografía nocturna.
-   - **ERC/Disfunción renal:** Creatinina, TFGe, albuminuria.
-   - **Feocromocitoma:** Si palpitaciones, diaforesis, cefaleas recurrentes → metanefrinas plasmáticas.
-   - **Hipercortisolismo:** Si facies de luna, estrías, debilidad → cortisol 24h, test dexametasona.
-   - **Disfunción tiroidea:** TSH.
-3. **Evaluación de adherencia:** Conversación abierta paciente; revisión de recetas; niveles plasmáticos si disponible.
-4. **Evaluación de efectos adversos medicamentos:** ¿Tolerancia? ¿Cambiar fármacos por más tolerables?
+#### Espironolactona (1.ª línea add-on)
+- Dosis: **25-50 mg/día**.
+- **Requisitos seguridad:** TFGe **≥30** ml/min Y K⁺ **<4,5** mmol/L.
+- **Contraindicada** si TFGe <30 (riesgo hiperpotasemia con IECA/ARA II).
+- EA: ginecomastia ~6 %, impotencia, alteraciones menstruales.
+- En ERC (TFGe 25-45): **patiromer** permite mantener espironolactona.
 
-#### Opciones Terapéuticas
-1. **Optimización farmacológica:**
-   - Asegurar dosis máximas toleradas (no solo dosis habituales).
-   - Espironolactona o eplerenona añadida (muy efectiva en HR): Monitorizar K⁺ rigurosamente.
-   - Betabloqueante si no contraindicado (aún de segunda línea).
-   - Diurético ahorradores de potasio si no contraindicado.
-   - Hidralazina + isosorbida (para IC o tolerancia a otros).
+#### Eplerenona (alternativa si intolerancia)
+- Dosis: **50-200 mg/día** (en 2 tomas).
+- Menos potente; no causa ginecomastia.
+- **No autorizada para HTA** en muchos países.
 
-2. **Denervación renal:**
-   - **Indicación:** Pacientes con verdadera HR que no pueden tolerar más medicamentos O prefieren intervención tras procedimiento simulado control.
-   - **Mecanismo:** Ablación de aferentes renales simpáticas → reducción de actividad simpática central.
-   - **Eficacia:** Promedio reducción PA sistólica 10-20 mmHg en ensayos; variable individuación.
-   - **Riesgos:** Disección arterial renal, estenosis renal, insuficiencia renal.
-   - **Procedimiento:** Catéter endovascular; radiofrecuencia, ultrasonidos, crioablación.
-   - **Consideración ESC 2024:** Recomendación IIb (puede considerarse) dado datos limitados de beneficio CV a largo plazo.
+#### Otros fármacos (Paso 3)
+- Alfabloqueantes (doxazosina).
+- Agentes centrales: clonidina, **moxonidina** (H12O), metildopa.
+- Ahorradores de K⁺: amilorida, triamtereno.
+- Otros: hidralazina, minoxidil (limitado por EA), aliskiren.
 
-3. **Monitorización completa:**
-   - AMPA regular.
-   - MAPA si sospecha variabilidad extrema.
-   - Evaluación anual de DOMH (ECG, eco, RM cerebral).
-   - Evaluación anual de comorbilidades (ERC progresión, albuminuria).
+> **H12O** coincide en espironolactona 25-50 mg como 1.ª opción y destaca **moxonidina** como último escalón.
 
-## 🚨 Crisis Hipertensivas
+#### Denervación Renal (IIb/B)
+- Ablación de nervios simpáticos renales por catéter (radiofrecuencia/ultrasonidos).
+- Eficacia modesta: **~6 mmHg PAS oficina / ~4 mmHg MAPA** (corregido por placebo).
+- La mayoría seguirá necesitando fármacos tras el procedimiento.
+- Sin datos de beneficio CV a largo plazo (sin RCT con eventos como endpoint primario).
+- Riesgos: disección/estenosis renal (0,25-0,5 %), complicaciones femorales (1-4 %).
+
+### Monitorización
+- AMPA regular + MAPA si variabilidad extrema.
+- Evaluación anual: DOMH (ECG, ecocardiograma), progresión ERC, albuminuria.
+
+---
+
+## Crisis Hipertensivas
 
 ### Definición y Clasificación
 
-#### Urgencia Hipertensiva
-- **Definición:** PA muy elevada (usualmente >180/110 mmHg) SIN evidencia de daño orgánico agudo.
-- **Presentación:** Paciente generalmente asintomático o síntomas leves (ligero malestar, cefale a leve).
-- **Tratamiento:** ORAL; reducción gradual de PA en 24-48 h; manejo ambulatorio si posible.
+> **Nota terminológica (H12O):** Se recomienda evitar el término "urgencia hipertensiva". Preferir **"emergencia hipertensiva"** (con DOMH) vs. **"PA mal controlada"** (sin DOMH).
 
 #### Emergencia Hipertensiva
-- **Definición:** PA >180/110 mmHg CON signos/síntomas de daño orgánico agudo.
-- **Cuadros incluidos:**
-  - Encefalopa tía hipertensiva (confusión, convulsiones, coma).
-  - Accidente cerebrovascular (ictus, hemorragia).
-  - Edema agudo de pulmón.
-  - Infarto agudo de miocardio.
-  - Síndrome coronario agudo.
-  - Disección aórtica.
-  - Insuficiencia renal aguda.
-  - Eclampsia/preeclampsia severa.
-- **Tratamiento:** INTRAVENOSO; reducción rápida pero CONTROLADA de PA; manejo en UCI.
+- PA **≥180/110 mmHg** (ESC 2024) o **>180/120 mmHg** (H12O) **CON** daño agudo de órgano diana.
+- Órganos diana: **corazón, retina, riñón, cerebro, grandes vasos** (H12O).
+- Cuadros incluidos:
+  - Encefalopatía hipertensiva (confusión, convulsiones, coma).
+  - Ictus isquémico / hemorrágico.
+  - Edema agudo de pulmón hipertensivo.
+  - SCA (IAM, angina inestable).
+  - Síndrome aórtico agudo.
+  - Insuficiencia renal aguda / MAT.
+  - Eclampsia / preeclampsia severa.
+  - **HTA maligna:** necrosis fibrinoide arteriolar; retinopatía grado III (hemorragias en llama, exudados algodonosos) y IV (edema de papila); puede asociar CID, encefalopatía (~15 %), IC aguda, deterioro renal agudo.
+- **Oftalmoscopia recomendada** si PA >180/110 (Clase I, Nivel C).
+- Tratamiento: **IV**; reducción controlada; ingreso en UCI.
 
-### Manejo Agudo de Emergencia Hipertensiva
+#### PA Mal Controlada (sin DOMH) / "Urgencia Hipertensiva"
+- PA muy elevada **SIN** daño agudo de órgano diana.
+- Paciente asintomático o síntomas leves.
+- Tratamiento: **ORAL**; reducción en 24-48 h; manejo ambulatorio.
 
-#### Objetivos de Reducción PA
-- **Inicial:** Reducción de 10-15 % PA media en primeras 1-2 horas; evitar reducción >25 % PA media en 24 h (riesgo isquemia).
-- **Razón:** Cerebro y corazón se adaptan a PA crónica elevada; reducción rápida causa isquemia regional.
+### Manejo de Emergencia Hipertensiva
 
-#### Fármacos IV Recomendados (Tabla 20)
+#### Objetivos Generales de Reducción PA
+- **1-2 h iniciales:** ↓ PAM 10-15 % (máximo 20-25 % según órgano).
+- **No reducir >25 % PAM en 24 h** → riesgo de isquemia cerebral/coronaria.
+- Excepciones: disección aórtica y EAP (reducción más agresiva).
 
-| Fármaco | Dosis | Inicio | Duración | Indicación |
+#### Tratamiento por Órgano Afectado (H12O, Tabla 7)
+
+| Presentación | Objetivo PA | 1.ª línea | 2.ª línea |
+|---|---|---|---|
+| **MAT / daño renal agudo** | ↓ PAM 20-25 % en horas | [[Labetalol]], [[Nicardipino]] | [[Nitroprusiato]], [[Urapidilo]] |
+| **EAP hipertensivo** | PAS <140 inmediato | [[Nitroglicerina]] + [[Furosemida]] | [[Urapidilo]] |
+| **SCA** | PAS <140 inmediato | [[Nitroglicerina]] | [[Urapidilo]] |
+| **Ictus isquémico** (PA >220/120 o fibrinólisis >180/110) | ↓ PAM 10-15 % | [[Labetalol]], [[Nicardipino]] | [[Nitroprusiato]] |
+| **Ictus hemorrágico** (PAS >180) | PAS <180 (H12O) / **140-160** (ESC, IIa/A) | [[Labetalol]], [[Nicardipino]] | [[Urapidilo]] |
+| **Encefalopatía hipertensiva** | ↓ PAM 20-25 % inmediato | [[Labetalol]], [[Nicardipino]] | [[Nitroprusiato]] |
+| **Sd. aórtico agudo** | PAS **<120** + FC **<60 lpm** inmediato | [[Esmolol]] + nitratos, [[Nicardipino]] | [[Labetalol]], [[Metoprolol]] |
+| **Preeclampsia / Eclampsia** | PAS <160, PAD <105 | [[Labetalol]] IV, [[Nicardipino]] IV + MgSO₄ (I/C) | [[Hidralazina]] IV (2.ª línea) |
+
+#### Fármacos IV (ESC 2024 + H12O, Tabla 8)
+
+| Fármaco | Posología | Inicio / Duración | CI / Precauciones | EA |
 |---|---|---|---|---|
-| **[[Labetalol]]** | 20 mg IV; 40-80 mg c/10 min hasta objetivo | 5-10 min | 3-6 h | Emergencia general; seguro en embarazo |
-| **[[Hidralazina]]** | 5-20 mg IV c/20-30 min | 10-20 min | 4-6 h | Preeclampsia/eclampsia |
-| **[[Esmolol]]** | 100-500 μg/kg/min infusión | 1-2 min | <1 h | Infarto, arritmias; ultracorta duración |
-| **[[Nifedipino sublingual]]** | 10-20 mg (liberación inmediata, no ER) | 10-15 min | 4-6 h | Emergencias; EVITAR si posible (efecto impredecible) |
-| **[[Nicardipina]]** | 5-15 mg/h infusión | 5-10 min | 1-4 h | Crisis HTA general; titrable |
-| **[[Nitroprusiato]]** | 0.5-10 μg/kg/min infusión | <1 min | <10 min | Urgencia máxima (disección, shock); monitorización continua |
-| **[[Nitroglicerina]]** | 0.4 mg sublingual; 5-100 μg/min infusión | 1-3 min | 5-10 min | Edema agudo pulmón, SCA |
+| **[[Labetalol]]** | Bolo **20 mg** (ESC) / **50 mg** (H12O); perfusión 200 mg/200 ml a 20 ml/h | 5-10 min / 3-6 h | BAV, asma, shock cardiogénico | Bradicardia, hipotensión ortostática |
+| **[[Nicardipino]]** | Perfusión 5 mg/100 ml a 5-15 ml/h; ↑ 2,5 ml/h c/15 min | 5-10 min / 1-4 h | Insuficiencia hepática | Cefalea, taquicardia |
+| **[[Urapidilo]]** (H12O) | Bolo **25 mg** IV; perfusión 250 mg/250 ml a 10-30 ml/h | 3-5 min / 4-6 h | Angioedema previo | Cefalea, náuseas, vértigo |
+| **[[Nitroglicerina]]** | Perfusión 50 mg/250 ml a 5-40 ml/h; ↑ c/5 min | 1-5 min / 3-5 min | - | Cefalea, taquicardia |
+| **[[Nitroprusiato]]** | Perfusión 50 mg/500 ml a 10-30 ml/h | Inmediato / 3 min | **No >24-48 h** (intox. tiocianatos); asociar B₁₂ | Dolor abdominal, vómitos, cefalea |
+| **[[Esmolol]]** | 100-500 μg/kg/min infusión | 1-2 min / <1 h | Asma, BAV, shock | Bradicardia, broncoespasmo |
+| **[[Clevidipino]]** (H12O) | Vial 0,5 mg/ml a 4-64 ml/min; ↑ 4 ml/h c/2 min | 2-3 min / 5-15 min | - | Cefalea, taquicardia |
+| **[[Hidralazina]]** | 5-20 mg IV c/20-30 min | 10-20 min / 4-6 h | - | Taquicardia refleja, cefalea |
 
-#### Situaciones Clínicas Específicas
+> **Nifedipino sublingual: EVITAR** (efecto impredecible; no recomendado por ESC 2024 ni H12O).
 
-**Ictus Hemorrágico Agudo:**
-- Objetivo PAS 140-160 mmHg (prevención de re-hemorragia).
-- Fármacos: Labetalol, nicardipina, hidralazina.
+### Situaciones Clínicas Específicas
 
-**Ictus Isquémico Agudo:**
-- Objetivo: Reducción cuidadosa solo si >220/120 mmHg.
-- Razón: Isquemia cerebral requiere presión de perfusión; hipotensión agrava.
-- Fármacos: Idénticos, pero titraje muy cuidadoso.
+#### Ictus Hemorrágico Agudo
+- **ESC 2024 (IIa/A):** PAS objetivo **140-160 mmHg** dentro de 6 h del inicio.
+- **H12O:** PAS **<180 mmHg** (menos agresivo).
+- **NO reducir PAS >70 mmHg en 1.ª hora** si PAS ≥220 (ESC, Clase III/B).
+- Fármacos: labetalol, nicardipino; en hemorragia subaracnoidea → nimodipino.
 
-**Edema Agudo de Pulmón:**
-- Objetivo: Reducción de PA + mejora de congestión pulmonar.
-- Fármacos: Nitroglicerina IV + labetalol/nicardipina.
-- Diuréticos furosemida IV si congestión evidente.
+#### Ictus Isquémico Agudo
+- **Sin reperfusión y PA ≥220/110:** ↓ ~15 % cautelosa en 24 h (IIa/C).
+- **Pre-fibrinólisis:** PA **<185/110 mmHg** antes de administrar.
+- **Post-fibrinólisis / trombectomía:** mantener PA **<180/105 mmHg** durante 24 h (IIa/B).
+- Iniciar antihipertensivo antes del **alta hospitalaria** (I/B) si estable ≥3 días con PA ≥140/90.
 
-**Síndromes Coronarios Agudos (IAMEST, IANEST, Angina Inestable):**
-- Objetivo: Reducción de PA + control de frecuencia cardíaca + alivio isquemia.
-- Fármacos: Labetalol, esmolol (beta primer), nitroglicerina IV.
+#### Edema Agudo de Pulmón
+- Objetivo: PAS **<140 mmHg** inmediato + alivio congestión.
+- 1.ª línea: **nitroglicerina IV** + **furosemida IV**.
+- 2.ª línea: urapidilo (H12O).
 
-**Preeclampsia/Eclampsia Severa:**
-- Objetivo: PAS <160 mmHg; PAD <105 mmHg (evitar hipotensión placentaria).
-- Fármacos: Labetalol, hidralazina, nifedipino IR (último recurso).
-- Magnesio IV para prevención convulsiones.
-- Consideración: Terminación de embarazo si ≥34 semanas O síntomas maternos refractarios.
+#### Síndromes Coronarios Agudos
+- Objetivo: PAS **<140 mmHg** + control FC + alivio isquemia.
+- 1.ª línea: **nitroglicerina IV**.
+- Beta primero (labetalol, esmolol) si taquicardia.
 
-**Disección Aórtica:**
-- Objetivo: Reducción rápida a PAS 100-120 mmHg dentro 5-10 minutos; control de frecuencia cardíaca <60 lpm.
-- Fármacos: Esmolol (beta primero) + nitroprusiato.
-- Diagnóstico: AngioTC aórtica urgente.
-- Manejo: Cardiocirugía urgente.
+#### Preeclampsia / Eclampsia (ESC 2024, Clase I/C)
+- Objetivo: PAS **<160**, PAD **<105** mmHg (evitar hipotensión placentaria).
+- 1.ª línea: **labetalol IV** o **nicardipino IV** + **MgSO₄** (4 g IV en 5 min → 1 g/h IV).
+- 2.ª línea: **hidralazina IV**; nifedipino oral (último recurso; riesgo hipotensión con MgSO₄).
+- EAP asociado: **nitroglicerina IV** (I/C).
+- **Evitar diuréticos** (preeclampsia reduce volemia).
+- Si ≥34 semanas o refractaria: considerar finalización del embarazo.
 
-### Manejo de Urgencia Hipertensiva (PA Elevada sin DOMH)
+#### Síndrome Aórtico Agudo
+- Objetivo: PAS **<120 mmHg** + FC **<60 lpm** en 5-10 min.
+- 1.ª línea: **esmolol** (beta primero) + nitroprusiato/nicardipino.
+- AngioTC aórtica urgente; valorar cardiocirugía.
 
-#### Tratamiento
-- **Oral:** Medicamentos orales a dosis optimizadas (IECA, ARA2, BCC, tiazida).
-- **Reducción:** Lenta, 24-48 h.
-- **Setting:** Ambulatorio si paciente estable; puede observación breve <24 h si sospecha.
+### Manejo de PA Mal Controlada / "Urgencia" (sin DOMH)
 
-#### Educación Paciente
-- Explicar naturaleza de urgencia (alta pero sin daño inmediato).
-- Reforzar adherencia a medicamentos.
-- Evaluar factores desencadenantes (estrés, ingesta sal, abandono medicación).
+Protocolo H12O (práctico para guardia):
+1. Descartar causas intercurrentes (ansiedad, dolor, retención urinaria).
+2. **Lorazepam 1-2 mg** VO; ambiente tranquilo.
+3. Repetir PA en **15-30 min**.
+4. Si persiste elevada: **amlodipino 5-10 mg** o **enalapril 10-20 mg** VO.
+5. **NO reducir >30 %** de cifras iniciales en primeras horas.
+6. Objetivo: PA **<210/120 mmHg** en 2-3 h → tratamiento ambulatorio.
+7. Normalizar PA en **días a semanas**.
 
-## 📋 Recomendación Clínica
+---
 
-1. **Sospecha HTA resistente:** AMPA/MAPA para confirmar PA verdaderamente elevada.
-2. **Exclusión pseudorresistencia:** Evaluación sistemática (adherencia, efectos adversos, técnica, secundaria, interferencia farmacológica).
-3. **Si verdadera resistencia:** Intensificar farmacología (espironolactona/eplerenona); considerar denervación renal si disponible.
-4. **Crisis hipertensiva:** Distinguir urgencia vs. emergencia; fármacos IV si emergencia; manejo en UCI.
-5. **Seguimiento:** Regular AMPA; evaluación anual DOMH; ajustes según respuesta.
+## Discrepancias ESC 2024 vs H12 Octubre 2022
 
-### 🔗 Enlaces / Bibliografía
+| Aspecto | ESC 2024 | H12 Octubre 2022 |
+|---|---|---|
+| Umbral diastólico crisis | >180/**110** mmHg | >180/**120** mmHg |
+| Terminología sin DOMH | "Urgencia hipertensiva" | "PA mal controlada" (evitar "urgencia") |
+| Ictus hemorrágico objetivo | PAS **140-160** (IIa/A) | PAS **<180** |
+| Urapidilo | No mencionado | 1.ª-2.ª línea en múltiples escenarios |
+| Clevidipino | No mencionado | Incluido como alternativa a nicardipino |
+| Labetalol bolo inicial | **20 mg** | **50 mg** |
+| Denervación renal | IIb/B (puede considerarse) | No mencionada |
+| HTA resistente: clases obligatorias | Diurético + RAAS + BCC | 3 fármacos incluyendo diurético (sin especificar) |
+| Moxonidina | Mencionada como "agente central" | Destacada como último escalón |
+
+---
+
+## Recomendaciones Clave con Grados ESC 2024
+
+| Recomendación | Clase | Nivel |
+|---|---|---|
+| Derivar HTA resistente a centro especializado | IIa | B |
+| Añadir espironolactona a triple terapia | IIa | B |
+| Eplerenona / BB / otros si espironolactona no tolerada | IIa | B |
+| Denervación renal (centros alto volumen, decisión compartida) | IIb | B |
+| Oftalmoscopia si PA >180/110 | I | C |
+| Ictus hemorrágico: PAS 140-160 en <6 h | IIa | A |
+| Ictus hemorrágico: NO ↓PAS >70 mmHg en 1.ª h si PAS ≥220 | III | B |
+| Ictus isquémico + reperfusión: PA <180/105 durante 24 h | IIa | B |
+| Preeclampsia: labetalol/nicardipino IV + MgSO₄ | I | C |
+| Iniciar antihipertensivo antes del alta tras ictus/AIT | I | B |
+
+---
+
+### Enlaces / Bibliografía
 - [[Tratamiento Farmacológico de la Hipertensión]]
 - [[Diagnóstico de Hipertensión y Causas Secundarias]]
 - [[Hipertensión en Poblaciones Especiales]]
 - [[MOC - CARDIOLOGIA]]
 - Guía ESC 2024: https://doi.org/10.1093/eurheartj/ehae128
+- Manual H12 Octubre 2022, 9.ª ed., cap. 14 (pp. 187-198)

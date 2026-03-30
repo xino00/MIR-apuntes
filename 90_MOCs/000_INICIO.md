@@ -23,6 +23,9 @@
 - [[MOC - INFECCIOSAS]]
 - [[MOC - NEUROLOGIA]]
 - [[MOC - HEMATOLOGIA|MOC - Hematología]]
+- [[MOC - DIGESTIVO|MOC - Digestivo]]
+- [[MOC - NEFROLOGIA|MOC - Nefrología]]
+- [[MOC - REUMATOLOGIA|MOC - Reumatología]]
 - [[MOC - Urgencias]]
 
 ### 📋 Plantillas de Guardia (Catrain, Llorente et al.)
