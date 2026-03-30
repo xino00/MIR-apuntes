@@ -1,13 +1,19 @@
 ---
-aliases: [Dolor torácico Urgencias, Dolor de pecho, Triage Dolor Torácico]
-tags: [urgencias, cardiología, triage, SCA, TEP, disección_aórtica]
+aliases:
+  - Dolor torácico Urgencias
+  - Dolor de pecho
+  - Triage Dolor Torácico
+tags:
+  - urgencias
+  - cardiología
+  - SCA
+  - TEP
+  - disección_aórtica
 ---
-# Dolor Torácico: Abordaje Inicial y Triage
-
-**Fuente:** Manual 12 de Octubre, Cap. 13.
+***Fuente:** Manual 12 de Octubre, Cap. 13.
 **Objetivo Principal:** Reconocer y tratar rápidamente las 6 causas potencialmente mortales (SCA, TEP, Síndrome Aórtico Agudo, Taponamiento pericárdico, Neumotórax a tensión, Rotura esofágica).
 
-## 🚨 1. Triage y Evaluación en los Primeros 10 Minutos
+## 🚨 1. Triaje y Evaluación en los Primeros 10 Minutos
 Todo paciente con dolor torácico (especialmente si es opresivo, irradiado o asocia cortejo vegetativo) requiere una evaluación inicial **inmediata mediante ABCDE**.
 
 ### Signos de Inestabilidad (Actuación Inmediata)

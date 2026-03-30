@@ -76,14 +76,14 @@ fecha: 2026-03-30
 
 ### Nuevas carpetas en `10_Patologias/`
 
-| Carpeta | Justificación |
+| Carpeta | Justificación                                                |
 |---|---|
-| `09_Endocrino/` | DM, tiroides, lípidos — pan de cada día en MFyC |
+| `09_Endocrino/` | DM, tiroides, lípidos — pan de cada día en MFyC              |
 | `10_Psiquiatria/` | Agitación, riesgo suicida, ansiedad — frecuente en urgencias |
-| `11_Dermatologia/` | Mayor volumen en consulta de AP |
-| `12_ORL/` | Otitis, faringitis, epistaxis — básico en AP |
-| `13_Oftalmologia/` | Ojo rojo, pérdida de visión — triage en urgencias |
-| `14_Pediatria/` | Ampliar más allá de las notas de dosis de guardia |
+| `11_Dermatologia/` | Mayor volumen en consulta de AP                              |
+| `12_ORL/` | Otitis, faringitis, epistaxis — básico en AP                 |
+| `13_Oftalmologia/` | Ojo rojo, pérdida de visión — triaje en urgencias            |
+| `14_Pediatria/` | Ampliar más allá de las notas de dosis de guardia            |
 
 ### Nuevas subcarpetas en `30_Urgencias/`
 - `Toxicologia/` — intoxicaciones

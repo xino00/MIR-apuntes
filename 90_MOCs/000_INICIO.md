@@ -15,7 +15,7 @@
 > - [[Cefaleas - Situaciones Especiales y Neuralgias]]
 > - [[Shock]]
 > - [[Disnea Aguda - Evaluación Urgente]]
-> - [[Dolor Torácico - Abordaje y Triage]]
+> - [[Dolor Torácico - Abordaje y Triaje]]
 
 ### 📚 Especialidades
 - [[MOC - CARDIOLOGIA|MOC - Cardiología]]

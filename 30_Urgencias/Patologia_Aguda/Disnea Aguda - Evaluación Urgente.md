@@ -1,6 +1,13 @@
 ---
-aliases: [Disnea Urgencias, Disnea Aguda, Falta de aire]
-tags: [urgencias, neumología, cardiología, triage, disnea]
+aliases:
+  - Disnea Urgencias
+  - Disnea Aguda
+  - Falta de aire
+tags:
+  - urgencias
+  - neumología
+  - cardiología
+  - disnea
 ---
 # Disnea Aguda: Evaluación en Urgencias
 

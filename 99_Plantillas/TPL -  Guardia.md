@@ -11,7 +11,7 @@ await tp.file.rename(titulo);
 ---
 > [!todo] 📝 TAREAS PENDIENTES GLOBALES
 > - [ ] Revisar analíticas pendientes
-> - [ ] Firmar altas
+> - [x] Firmar altas
 > - [ ] <% tp.file.cursor(1) %>
 
 ### 🛏️ PACIENTES / PENDIENTES DE PRUEBAS

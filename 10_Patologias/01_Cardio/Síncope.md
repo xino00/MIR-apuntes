@@ -202,7 +202,7 @@ El tratamiento depende de la etiología y del mecanismo:
 ### 🔗 Enlaces / Bibliografía
 - [[Arritmias]]
 - [[Fibrilación Auricular (FA)]]
-- [[Dolor Torácico - Abordaje y Triage]]
+- [[Dolor Torácico - Abordaje y Triaje]]
 - [[Insuficiencia cardiaca aguda]]
 - [[Valvulopatías]]
 - [[Miocardiopatías]]
