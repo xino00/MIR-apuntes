@@ -100,7 +100,7 @@ Ante infección, estrés o aumento de temperatura: tratar la causa → revaluaci
 | Vía | Pauta |
 |-----|-------|
 | **Oral** | 500 mg/día × 5 días o 1000 mg/día × 3 días |
-| **IV** | 1000 mg/día × 3 días |
+| **IV** | 1000 mg/día × 3 días (brote establecido) o × **5 días** (primer SDA, según SEN 2023) |
 
 - **No** hay evidencia de pauta descendente de prednisona oral tras MP
 - La vía oral es equivalente en eficacia; preferir IV si: tolerancia oral deficiente, hospitalización necesaria, brote grave

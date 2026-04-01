@@ -75,9 +75,9 @@ Polineuropatía inflamatoria aguda autoinmune, la causa más frecuente de parál
 ### Monitorización respiratoria — Regla de los 20
 | Parámetro | Umbral de alarma | Acción |
 |-----------|-----------------|--------|
-| FVC | <20 mL/kg | Intubación electiva |
-| Presión inspiratoria máxima (PIM) | <-20 cmH2O | Valorar IOT |
-| Presión espiratoria máxima (PEM) | <+20 cmH2O | Valorar IOT |
+| FVC | <15-20 mL/kg | Intubación electiva |
+| Presión inspiratoria máxima (PIM) | <30 cmH2O | Valorar IOT |
+| Presión espiratoria máxima (PEM) | <40 cmH2O | Valorar IOT |
 
 **Monitorización seriada cada 4-6 h** mientras la enfermedad progresa.
 
@@ -116,7 +116,7 @@ Polineuropatía inflamatoria aguda autoinmune, la causa más frecuente de parál
 - No combinar IgIV + plasmaféresis (no mejora resultado)
 
 ### Ventilación mecánica
-- IOT si FVC <20 mL/kg, PIM <-20, PEM <+20, o SatO2 <92% en reposo
+- IOT si FVC <15-20 mL/kg, PIM <30 cmH2O, PEM <40 cmH2O, o SatO2 <92% en reposo
 - Preferir IOT electiva antes de ventilación de urgencia
 - Ventilación protectora: Vt 6-8 mL/kg, PEEP 5-8 cmH2O
 

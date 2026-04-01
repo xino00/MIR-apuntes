@@ -96,7 +96,7 @@ Activar si inicio de síntomas <24h (o despertar con déficit):
 ### Fibrinólisis intravenosa
 
 **Indicaciones:**
-- Ictus isquémico con NIHSS ≥4 y <25
+- Ictus isquémico con NIHSS ≥4 (o menor si síntomas incapacitantes)
 - Inicio de síntomas <4,5 horas
 - TC sin hemorragia ni hipodensidad >1/3 del territorio
 - TA <185/110 (tratar si es necesario)
@@ -132,7 +132,7 @@ Tenecteplasa es preferible en candidatos a trombectomía (evidencia creciente).
 |-----------|---------|
 | Candidato a fibrinólisis (antes) | <185/110 mmHg |
 | Tras fibrinólisis (primeras 24 h) | <180/105 mmHg |
-| No candidato a reperfusión | Permitir hasta 220/120 mmHg (no bajar salvo >220 sostenida) |
+| No candidato a reperfusión | Permitir hasta 220/110 mmHg (no bajar salvo >220/110 sostenida) |
 
 Fármacos IV de elección: labetalol, nicardipino, urapidilo.
 

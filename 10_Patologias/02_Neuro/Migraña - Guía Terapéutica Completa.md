@@ -40,9 +40,9 @@
 ### 1. Fármacos Clásicos
 - **Betabloqueantes:** **Propranolol** (Iniciar 20 mg/12h, subir Gradat. hasta 80-160 mg/día).
 - **Antiepilépticos:** 
-  - **Topiramato:** Iniciar 25 mg/noche. Subir 25mg semanal hasta 50-100 mg/día (en 2 tomas).
-  - **Valproato:** 500 - 1000 mg/día (Evitar en mujeres en edad fértil).
-- **Antidepresivos:** **Amitriptilina** (10 - 50 mg/noche). Útil si comorbilidad de sueño o tensión.
+  - **Topiramato:** Iniciar 25 mg/noche. Subir 25mg semanal hasta **100 mg/12h** (máx 200 mg/día).
+  - **Valproato:** Iniciar 250 mg/día, subir hasta **1500 mg/día** (Evitar en mujeres en edad fértil).
+- **Antidepresivos:** **Amitriptilina** (10 - **75** mg/noche). Útil si comorbilidad de sueño o tensión. Alternativa: venlafaxina 37,5-75 mg/día.
 - **Calcioantagonistas:** **Flunarizina** (5 mg/noche). Ojo: Monitorizar aumento peso y síntomas depresivos.
 
 ### 2. Terapias Biológicas (Anticuerpos Monoclonales anti-CGRP)
@@ -58,9 +58,11 @@
 *Definición: Crisis que dura >72 horas a pesar de tratamiento.*
 - **Primer paso:** Rehidratación (Suero salino) + Metoclopramida 10 mg IV.
 - **Segundo paso:**
-  - **Dexametasona** 4 - 8 mg IV.
+  - **Dexametasona** dosis media **10 mg IV** (rango 4-24 mg).
   - **Ketorolaco** 30 mg IV.
   - **Sumatriptán** 6 mg SC (si no se ha usado en las últimas 24h).
+  - **Valproato sódico** 400-1000 mg IV (alternativa eficaz según SEN y 12 Oct).
+  - **Bloqueo del nervio occipital mayor** con lidocaína (opción no farmacológica; útil también en embarazo).
 
 ---
 ### 🔗 Enlaces Relacionados

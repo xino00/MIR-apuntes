@@ -15,7 +15,7 @@ fecha: 2026-04-01
 
 ## Definición
 
-Extravasación de sangre al espacio subaracnoideo. El 80% se debe a rotura de aneurisma intracraneal sacular. Incidencia 6-10/100.000/año; mortalidad global 30-40%; 15% fallece antes de llegar al hospital.
+Extravasación de sangre al espacio subaracnoideo. El **85%** se debe a rotura de aneurisma intracraneal sacular (SEN 2023; 80% según 12 Oct). Incidencia 6-10/100.000/año; mortalidad global hasta **50%** (SEN 2023); 33% letalidad (12 Oct). 15% fallece antes de llegar al hospital.
 
 ## Etiología / Factores de riesgo
 
@@ -107,7 +107,7 @@ Extravasación de sangre al espacio subaracnoideo. El 80% se debe a rotura de an
 
 ### Oclusión del aneurisma
 
-- **Objetivo: ocluir el aneurisma en las primeras 24-72 horas** (para prevenir resangrado)
+- **Objetivo: ocluir el aneurisma en las primeras 24-48 horas** (SEN 2023; hasta 72h según 12 Oct) para prevenir resangrado
 - **Coiling endovascular** (de elección cuando sea técnicamente posible): menos invasivo, mejor resultado en aneurismas de circulación posterior
 - **Clipaje neuroquirúrgico**: para aneurismas de circulación anterior con cuello amplio, hematoma intraparenquimatoso evacuable
 
@@ -123,7 +123,7 @@ Extravasación de sangre al espacio subaracnoideo. El 80% se debe a rotura de an
 - Aparece en 70% angiográfico, clínico en 30-40%
 - Clínica: deterioro del nivel de conciencia, nuevos déficits focales, fiebre
 - Diagnóstico: Doppler transcraneal (velocidad ACM >120-200 cm/s), angio-TC/RM con perfusión
-- Tratamiento: **3H** (hipervolemia, hemodilución, hipertensión arterial inducida); nimodipino; angioplastia/vasoespasmo intra-arterial (papaverina, verapamilo) si refractario
+- Tratamiento: **optimización hemodinámica** con hipertensión arterial inducida (vasopresores) y euvolemia (la "triple-H" con hemodilución está en desuso); nimodipino; angioplastia/vasodilatador intra-arterial (verapamilo, nimodipino) si refractario
 
 **Hidrocefalia:**
 - Aguda (<72h): comunicante o obstructiva por coágulo en ventrículos → DVE urgente

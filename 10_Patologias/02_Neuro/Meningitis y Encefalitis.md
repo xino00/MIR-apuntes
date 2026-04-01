@@ -67,14 +67,14 @@ fecha: 2026-04-01
 |-----------|-----|--------|---------------------|
 | Leucocitos (céls/µL) | >1.000 (neutrófilos) | 100-500 (mononuclear) | 5-500 (mononuclear) |
 | Glucorraquia/glucemia | <0,4 | >0,4 | <0,4 |
-| Proteínas (g/L) | >1 | 0,5-2 | >2 |
+| Proteínas (g/L) | >1 | Normal o levemente ↑ (<1) | >2 |
 | Lactato (mg/dL) | >35 | <35 | >35 |
 | Tinción Gram | Positiva | Negativa | Negativa |
 
 ### Pruebas urgentes en meningitis
 
 - **Analítica de sangre:** bioquímica, hemograma, coagulación, PCR, procalcitonina, **2 hemocultivos** (antes de antibióticos; 80-90% positivos en MBA)
-- **TC craneal** antes de PL (siempre)
+- **TC craneal** antes de PL **si**: déficit neurológico focal, crisis <7 días, GCS <12, signos de HTIC, antecedente de LOE/neoplasia/inmunosupresión. Si ningún criterio presente, PL directa sin TC (no retrasar ATB)
 - **Punción lumbar:** citobioquímica + glucorraquia + proteinorraquia + lactato + Gram + cultivos + **PCR múltiple rápida** (virus, bacterias, micobacterias, hongos)
 
 **Contraindicaciones para PL:**
@@ -96,7 +96,7 @@ fecha: 2026-04-01
 
 **Inicio del tratamiento empírico en <1 hora** (antes de PL si ésta se va a retrasar por contraindicación).
 
-**Paso 1 — Dexametasona:** [[Dexametasona]] 0,15 mg/kg IV cada 6h, administrar **previa o concomitante** al antibiótico. Mantener solo si se confirma infección por neumococo.
+**Paso 1 — Dexametasona:** [[Dexametasona]] 0,15 mg/kg IV cada 6h **durante 4 días**, administrar **previa o concomitante** al antibiótico. Mantener solo si se confirma infección por neumococo.
 
 **Paso 2 — Antibioterapia empírica IV según perfil:**
 

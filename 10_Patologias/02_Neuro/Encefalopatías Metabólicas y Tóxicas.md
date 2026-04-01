@@ -32,7 +32,7 @@ fecha: 2026-04-01
 - **Diagnóstico:** amonio sérico elevado + clínica + exclusión de otras causas
 - **Tratamiento:**
   - **Lactulosa** 25-30 cc/8h oral/SNG (objetivo: 2-3 deposiciones/día)
-  - **Rifaximina** 400 mg/8h (antibiótico no absorbible — reduce flora amoniogénica)
+  - **Rifaximina** **550 mg/12h** (antibiótico no absorbible — reduce flora amoniogénica; dosis según guías EASL)
   - Tratar precipitante; dieta normoproteica (sin restricción proteica)
   - Trasplante hepático en insuficiencia hepática aguda grave
 

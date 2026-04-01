@@ -74,11 +74,11 @@ Disminución de la función dopaminérgica en el SNC → pérdida de la termorre
 
 **Leve-moderado:**
 - **Lorazepam** 1-2 mg oral/IM cada 4-6 h (o diazepam 10 mg IV cada 8 h) — reduce agitación y rigidez
-- **Bromocriptina** oral/SNG 200-400 mg/día (agonista D2)
+- **Bromocriptina** oral/SNG 2,5-5 mg/8h, escalar según respuesta (agonista D2)
 - Alternativa: **amantadina** 200-400 mg/día
 
 **Progresión o moderado-grave:**
-- Bromocriptina hasta 10 mg cada 6 h (oral o SNG)
+- Bromocriptina hasta 10 mg cada 6 h (oral o SNG) — máx **40 mg/día**
 - Vigilar: hipotensión, discinesias, alucinaciones como efectos adversos
 - Mantener **mínimo 10 días** para evitar recaída
 

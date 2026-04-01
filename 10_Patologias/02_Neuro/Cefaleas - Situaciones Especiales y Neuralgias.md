@@ -10,7 +10,7 @@
 ### 1. Neuralgia del Trigémino
 - **Clínica:** Dolor lancinante, breve ("descarga eléctrica"), gatillado por estímulos leves (lavarse, masticar).
 - **Tratamiento Farmacológico:**
-  - **Carbamazepina (1ª elección):** Iniciar 100-200 mg/día, subir 100-200 mg cada 3 días hasta 600-1200 mg/día (máx 1600 mg).
+  - **Carbamazepina (1ª elección):** Iniciar 100-200 mg/día, subir 100-200 mg cada 3 días hasta 600-1200 mg/día (máx **1200 mg** según SEN 2023 y 12 Oct).
   - **Oxcarbazepina:** 600 - 1800 mg/día (Mejor tolerancia).
   - **Gabapentina:** 900 - 3600 mg/día.
   - **Pregabalina:** 150 - 600 mg/día.
