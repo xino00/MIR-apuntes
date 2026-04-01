@@ -37,6 +37,7 @@ fecha: 2026-04-01
 - Fármacos miastenizantes (ver tabla)
 - Cirugía o procedimientos invasivos
 - Estrés emocional, embarazo, puerperio
+- **Inhibidores de checkpoint** (ipilimumab, pembrolizumab, nivolumab, atezolizumab) — precipitante emergente
 - Reducción o retirada brusca de inmunosupresores
 - Calor excesivo
 
@@ -73,9 +74,9 @@ fecha: 2026-04-01
 
 | Parámetro | Umbral de alarma |
 |-----------|----------------|
-| FVC | <20 mL/kg |
-| Presión inspiratoria máxima (PIM) | <-20 cmH2O |
-| Presión espiratoria máxima (PEM) | <+20 cmH2O |
+| FVC | <15-20 mL/kg |
+| Presión inspiratoria máxima (PIM) | <30 cmH2O |
+| Presión espiratoria máxima (PEM) | <40 cmH2O |
 
 **Monitorización seriada cada 4-6 h** durante la evolución. Preferir IOT electiva ante deterioro progresivo.
 
@@ -104,18 +105,19 @@ fecha: 2026-04-01
 
 **Plasmaféresis preferible si:**
 - Deterioro muy rápido o necesidad urgente de IOT inminente
+- **Anticuerpos anti-MuSK** (mejor respuesta a plasmaféresis que a IgIV según SEN 2023)
 - Disponibilidad inmediata en el centro
 
 **IgIV preferible si:** inestabilidad hemodinámica, coagulopatía, acceso venoso difícil.
 
 ### Corticosteroides — inicio diferido
 
-- **No iniciar en plena crisis** → pueden empeorar la debilidad inicialmente (primeras 1-2 semanas)
+- **No iniciar en plena crisis** → pueden empeorar la debilidad inicialmente (primera semana)
 - Iniciar **una vez estabilizado** el paciente: [[Prednisona]] 0,5-1 mg/kg/día (o equivalente IV)
 - Añadir protección gástrica e inmunosupresor a largo plazo (azatioprina, micofenolato)
 
 ### Ventilación mecánica
-- IOT si FVC <20 mL/kg, PIM <-20, PEM <+20, SpO2 <92% o signos clínicos de fatiga
+- IOT si FVC <15-20 mL/kg, PIM <30 cmH2O, PEM <40 cmH2O, SpO2 <92% o signos clínicos de fatiga
 - Evitar succinilcolina (riesgo de hiperpotasemia); usar **rocuronio** o **vecuronio** con precaución (respuesta variable e impredecible)
 - VM protectora, destete progresivo una vez controlada la crisis
 

@@ -17,12 +17,12 @@
 
 ### 2. Tratamiento de Transición (Puente)
 *Para abortar el racimo mientras hace efecto el preventivo.*
-- **Prednisona:** 60 - 100 mg/día durante 5 días, con pauta descendente (retirar en 2-3 semanas).
+- **Prednisona:** **60 mg/día** durante 3-5 días, con pauta descendente (**reducir 10 mg cada 3 días**; no prolongar >3 semanas).
 - **Bloqueo del Nervio Occipital Mayor (GON):** Infiltración con anestésico local + Corticoide.
 
 ### 3. Tratamiento Preventivo
 - **Verapamilo (Elección):** Iniciar 80 mg/8h (240 mg/día). Puede requerir dosis de hasta 960 mg/día. **Imprescindible realizar ECG** para vigilar intervalo PR (bloqueos AV).
-- **Carbonato de Litio:** 600 - 900 mg/día. Mantener niveles plasmáticos entre 0.6 - 1.2 mEq/L.
+- **Carbonato de Litio:** Iniciar 200 mg/día, subir 200 mg/semana hasta máx **1200 mg/día** (400 mg/8h). Niveles plasmáticos 0.6-1.2 mEq/L.
 - **Galcanezumab:** 300 mg SC mensual (solo en pautas específicas de racimos episódicos).
 
 ---

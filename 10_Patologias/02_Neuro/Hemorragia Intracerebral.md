@@ -75,7 +75,7 @@ Fórmula del elipsoide: **V = A × B × C / 2**
 | Origen infratentorial | 1 |
 | Edad ≥80 años | 1 |
 
-**Mortalidad a 30 días:** 0 puntos = 0%, 1 = 13%, 2 = 26%, 3 = 72%, 4 = 97%, ≥5 = 100%.
+**Mortalidad a 30 días:** 0 puntos = 1-10%, 1 = 7-13%, 2 = 30-44%, 3 = 56-78%, 4 = 70-100%, ≥5 = 100%.
 
 ## Tratamiento
 
@@ -92,8 +92,8 @@ Fórmula del elipsoide: **V = A × B × C / 2**
 |----------------|-------------------|
 | Warfarina | Vitamina K IV (10 mg lento) + CPP 4F (25-50 UI/kg según INR) |
 | Dabigatrán | **Idarucizumab** (Praxbind) 5 g IV (2 viales × 2,5 g) |
-| Rivaroxabán / Apixabán | **CPP 4F** (Octaplex/Beriplex) 50 UI/kg |
-| Edoxabán | CPP 4F 50 UI/kg |
+| Rivaroxabán / Apixabán | **Andexanet alfa** (1ª línea); si no disponible: CPP 4F 25-50 UI/kg |
+| Edoxabán | **Andexanet alfa** (1ª línea); si no disponible: CPP 4F 25-50 UI/kg |
 | HBPM | Sulfato de protamina |
 
 **Trombopenia:** Transfundir plaquetas si <100.000/µL (o <50.000 en candidatos quirúrgicos).
@@ -126,7 +126,7 @@ Fórmula del elipsoide: **V = A × B × C / 2**
 - Expansión del hematoma: 30-40% en primeras 3 horas → es el principal predictor de mal pronóstico
 - Monitorización en UCI/unidad de ictus las primeras 24-72 h
 - Neuroimagen de control a las 24 h (o antes si deterioro)
-- Evitar anticoagulación en fase aguda; reiniciar tras 4-8 semanas si indicación absoluta (FA)
+- Evitar anticoagulación en fase aguda; reiniciar tras **1-6 semanas** según indicación: FA ~4 semanas, válvula mecánica ~1 semana (12 Oct); valorar riesgo-beneficio individual
 - Rehabilitación precoz
 
 ## Referencias

@@ -133,7 +133,7 @@ fecha: 2026-04-01
 ### Criterios clínicos (todos obligatorios)
 1. Coma arreactivo de causa conocida e irreversible
 2. Ausencia de todos los reflejos de tronco (fotomotor, corneal, oculovestibular, nauseoso, tos)
-3. **Test de apnea positivo:** paCO2 aumenta ≥20 mmHg sin esfuerzo respiratorio
+3. **Test de apnea positivo:** paCO2 **>60 mmHg** (SEN 2023) sin esfuerzo respiratorio
 
 ### Períodos de observación mínimos
 - **6 horas:** mayoría de causas

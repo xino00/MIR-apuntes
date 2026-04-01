@@ -24,4 +24,6 @@
 - 
 
 ### 💡 NOTAS RÁPIDAS (Para pasar a Casos Clínicos el fin de semana)
--
+- fermina 84 a dolor lumbar viene por cólico nefrítico, analgesia puesta
+- as, placa PDTE
+- Josefa divertículos hernia de hiato gastritis atrófico, deposiciones sin fiebre ni  suero primperan

@@ -21,8 +21,8 @@ Crisis epiléptica que no cede espontáneamente o se repite sin recuperación en
 | Tipo de EE | t1 (tratar) | t2 (riesgo daño) |
 |------------|-------------|------------------|
 | Convulsivo generalizado (CTG) | 5 min | 30 min |
-| Focal con alteración de conciencia | 10 min | >30 min |
-| Ausencias | 15 min | >30 min |
+| Focal con alteración de conciencia | 10 min | 60 min (12 Oct) |
+| Ausencias | 10-15 min | Desconocido (12 Oct) |
 
 **EE refractario (EER):** no cede tras 2 FAEs correctamente dosificados.
 **EE superrefractario (EESR):** persiste >24 h incluso bajo anestesia.
@@ -82,8 +82,8 @@ Crisis epiléptica que no cede espontáneamente o se repite sin recuperación en
 | Fármaco | Dosis adulto | Observaciones |
 |---------|-------------|---------------|
 | **Diazepam** | 5-10 mg IV bolo (máx 5 mg/min); máx 20 mg. Rectal 10 mg | Disponible. Acción corta, riesgo sedación |
-| [[Midazolam]] | 1-2 mg/1 min IV/IM (0,1-0,2 mg/kg). Bucal/nasal: 0,3 mg/kg, máx 10 mg. Perfusión: 0,05-2 mg/kg/h | Elección extrahospitalaria |
-| Clonazepam | 1 mg IV bolo (máx 0,25-0,5 mg/min), máx 3 mg | Menos redistribución que lorazepam |
+| [[Midazolam]] | 1-2 mg/1 min IV/IM (0,1-0,2 mg/kg); máx total **15 mg** IV/IM. Bucal/nasal: 0,3 mg/kg, máx 10 mg. Perfusión: 0,05-2 mg/kg/h | Elección extrahospitalaria |
+| Clonazepam | 1 mg IV bolo (máx **0,5 mg/min** según SEN), máx 3 mg | Menos redistribución que lorazepam |
 
 ### Fármacos 2ª línea — iniciar a los 10 min si BDZ no controlan
 

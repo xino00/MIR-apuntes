@@ -55,7 +55,7 @@ fecha: 2026-04-01
 ### Hematoma subdural (HSD)
 - Rotura de venas puente
 - TC: semiluna hiperdensa (agudo), isodensa (subagudo), hipodensa (crónico), cruza suturas
-- **Indicación quirúrgica**: grosor ≥10 mm, DLM ≥5 mm, PIC >20 mmHg
+- **Indicación quirúrgica**: grosor ≥10 mm, DLM ≥5 mm, PIC >20 mmHg, **asimetría pupilar** o caída GCS ≥2 puntos
 
 ### Contusión cerebral
 - Hemorragia petequial en corteza, frecuentemente en polos frontales y temporales (golpe-contragolpe)
@@ -71,12 +71,12 @@ fecha: 2026-04-01
 
 | Categoría | Descripción | Mortalidad |
 |-----------|-------------|-----------|
-| I | Sin patología | 9.6% |
-| II | Cisternas presentes, DLM <5mm, lesiones densas | 13.5% |
-| III | Cisternas comprimidas, DLM <5mm | 34.0% |
-| IV | DLM >5mm, sin lesión evacuable >25cc | 56.2% |
-| V | Lesión evacuable >25cc | 58.0% |
-| VI | Lesión no evacuable >25cc | 76.0% |
+| I | Sin patología | 6% |
+| II | Cisternas presentes, DLM <5mm, lesiones densas | 11% |
+| III | Cisternas comprimidas, DLM <5mm | 29% |
+| IV | DLM >5mm, sin lesión evacuable >25cc | 44% |
+| V | Lesión evacuable >25cc | 30% |
+| VI | Lesión no evacuable >25cc | 34% |
 
 ## Manejo urgente — ATLS
 
