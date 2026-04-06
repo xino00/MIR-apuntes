@@ -2,6 +2,43 @@
 tags: [plantilla, guardia, curas]
 ---
 
+# 01 - Curas y Traumatología Menor
+
+> **Índice de contenido clínico de este archivo.** Para notas detalladas de cada patología, consultar las notas independientes en `10_Patologias/`.
+
+## Índice
+
+| Sección | Patología | Nota independiente |
+|---|---|---|
+| Traumatología | Heridas y suturas | [[Heridas y Suturas]] |
+| Cabeza y cuello | Odontalgia / Flemón dental / Pericoronaritis | [[Odontalgia y Flemón Dental]] |
+| Cabeza y cuello | Cervicalgia mecánica | [[Cervicalgia Mecánica]] |
+| Cabeza y cuello | TCE leve-moderado (Canadian CT Head Rule) | [[TCE Leve-Moderado]] |
+| Cabeza y cuello | Epistaxis | [[Epistaxis]] |
+| Miembro superior | Omalgia – dolor de hombro | [[Omalgia - Dolor de Hombro]] |
+| Miembro superior | Patología de codo (epicondilitis, epitrocleitis) | [[Patología de Codo]] |
+| Miembro superior | Patología de muñeca (escafoides, túnel carpiano) | [[Patología de Muñeca]] |
+| Miembro superior | Traumatismo de dedo de mano | [[Traumatismo de Dedo de Mano]] |
+| Tórax | Contusión y fractura costal | [[Contusión y Fractura Costal]] |
+| Columna | Lumbalgia | [[Lumbalgia]] |
+| Columna | Lumbociática / Hernia discal | [[Lumbociática]] |
+| Miembro inferior | Gonalgia y lesión ligamentosa de rodilla | [[Gonalgia y Lesión Ligamentosa de Rodilla]] |
+| Miembro inferior | Coxalgia – dolor de cadera | [[Coxalgia - Dolor de Cadera]] |
+| Miembro inferior | Esguince de tobillo | [[Esguince de Tobillo]] |
+| Miembro inferior | Contusión / fractura 5º dedo del pie | [[Contusión y Fractura de 5º Dedo del Pie]] |
+| Reumatología | Gota – artritis gotosa aguda | [[Gota - Artritis Gotosa Aguda]] |
+| Urología | Escroto agudo / Orquiepididimitis | [[Escroto Agudo y Orquiepididimitis]] |
+| ITS | Uretritis, proctitis, úlcera genital, sífilis, condilomas, mpox | [[PROA - Infecciones de Transmisión Sexual (ITS)]] |
+| Cirugía | Hemorroides | [[Hemorroides]] |
+| Cirugía | Fisura anal | [[Fisura Anal]] |
+| Cirugía | Absceso – drenaje en urgencias | [[Absceso - Drenaje en Urgencias]] |
+| Urología | Hematuria | [[Hematuria]] |
+| Urología | Retención aguda de orina (RAO) | [[Retención Aguda de Orina (RAO)]] |
+| Anexo | Traumatismo general – plantilla genérica | [[Traumatismo General - Plantilla]] |
+| Anexo | Tendinitis – plantilla general | [[Tendinitis - Plantilla General]] |
+
+---
+
 **PLANTILLAS CURAS QUIRÚRGICA**
 **ÍNDICE**
 

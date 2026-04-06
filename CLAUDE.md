@@ -116,6 +116,16 @@ Quartz se clona en `./quartz` (dentro del workspace del runner), no en `/tmp/qua
 
 Secrets necesarios en GitHub: `CF_API_TOKEN` y `CF_ACCOUNT_ID` (Cloudflare Pages project: `mirapuntes`).
 
+## Archivos excluidos del repositorio
+
+Estos archivos **NUNCA** deben subirse a git (están en `.gitignore`):
+
+- `.obsidian/workspace.json` — estado de UI local de Obsidian
+- `.claude/settings.local.json` — configuración local de Claude Code
+- Tokens, credenciales, archivos `.env`
+
+Antes de hacer commit, verificar que `git status` no incluya estos archivos. Usar siempre el `.gitignore` del repo.
+
 ## Note Creation Conventions
 
 When creating medical Obsidian notes, follow this structure: 1) YAML frontmatter with tags, 2) Definición, 3) Etiología, 4) Diagnóstico, 5) Tratamiento, 6) Links to related hub/MOC notes. Always add the new note's wikilink to the relevant hub note.

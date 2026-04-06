@@ -2,6 +2,54 @@
 tags: [plantilla, guardia, polis]
 ---
 
+# 02 - Policlínicas Urgencias
+
+> **Índice de contenido clínico de este archivo.** Para notas detalladas de cada patología, consultar las notas independientes en `10_Patologias/`.
+
+## Índice
+
+| Sección | Patología | Nota independiente |
+|---|---|---|
+| ORL | Faringoamigdalitis aguda (criterios Centor, PROA) | [[Faringoamigdalitis Aguda]] |
+| ORL | Laringitis aguda | [[Laringitis Aguda]] |
+| ORL | Otitis externa | [[Otitis Externa]] |
+| ORL | Otitis media aguda (OMA) | [[Otitis Media Aguda (OMA)]] |
+| ORL | Otitis media serosa / Ototubaritis | [[Otitis Media Serosa y Ototubaritis]] |
+| ORL | Disfunción temporomandibular / Bruxismo | [[Disfunción Temporomandibular y Bruxismo]] |
+| ORL | Rinosinusitis aguda | [[Rinosinusitis Aguda]] |
+| Neurología | Neuralgia del trigémino | [[Cefaleas - Situaciones Especiales y Neuralgias]] |
+| Neurología | Vértigo periférico / VPPB | [[Vértigo en Urgencias]] |
+| Neurología | Cefalea – abordaje general | [[Cefaleas - Abordaje Inicial]] |
+| Neurología | Cefalea tensional | [[Cefaleas Trigemino-Autonómicas y Tensional]] |
+| Neurología | Migraña | [[Migraña - Guía Terapéutica Completa]] |
+| Neurología | Mareo – clasificación (TiTraTE, UpToDate) | [[Vértigo en Urgencias]] |
+| Reumatología | Monoartritis aguda (artrocentesis) | [[Monoartritis Aguda]] |
+| Reumatología | Arteritis de la temporal / ACG | [[Vasculitis - 1. Gran Vaso (ACG y Takayasu)]] |
+| Neumología | Bronquitis aguda | [[Bronquitis Aguda]] |
+| Neumología | Neumonía adquirida en la comunidad (NAC) | [[Neumonía Adquirida en la Comunidad (NAC)]] |
+| Neumología | Crisis asmática | [[Asma - Crisis Asmática]] |
+| Neumología | Broncoespasmo en IRVA | [[Broncoespasmo en IRVA]] |
+| Neumología | SAEPOC leve | [[EPOC - Exacerbación y Manejo Agudo]] |
+| Infecciosas | Gripe / Síndrome gripal | [[Gripe - Síndrome Gripal]] |
+| Urología | Cólico renoureteral (tamsulosina) | [[Cólico Renoureteral]] |
+| Urología | ITU / Cistitis | [[ITU - Abordaje Inicial y Cistitis]] |
+| Urología | Pielonefritis aguda | [[Pielonefritis Aguda]] |
+| Cardiología | Crisis hipertensiva | [[Hipertensión Resistente y Crisis Hipertensiva]] |
+| Cardiología | Dolor torácico | [[Dolor Torácico - Abordaje y Triaje]] |
+| Cardiología | Síncope | [[Síncope]] |
+| Dermatología | Urticaria aguda | [[Urticaria Aguda]] |
+| Dermatología | Herpes zóster (zóster oftálmico, Ramsay Hunt) | [[Herpes Zóster]] |
+| Dermatología | Sarna – escabiosis | [[Sarna - Escabiosis]] |
+| Digestivo | Gastroenteritis aguda (GEA) | [[Gastroenteritis Aguda (GEA)]] |
+| Digestivo | Reflujo gastroesofágico / Pirosis | [[Reflujo Gastroesofágico (RGE)]] |
+| Digestivo | Cólico biliar | [[Cólico Biliar]] |
+| Digestivo | Coledocolitiasis | [[Coledocolitiasis]] |
+| Digestivo | Colangitis aguda | [[Colangitis Aguda]] |
+| Digestivo | Colecistitis aguda | [[Colecistitis Aguda]] |
+| Digestivo | Estreñimiento agudo | [[Estreñimiento Agudo]] |
+
+---
+
 POLICLÍNICAS/POLIS COVID
 
 
