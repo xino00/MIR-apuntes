@@ -2,6 +2,42 @@
 tags: [plantilla, guardia, boxes]
 ---
 
+# 03 - Protocolos Rápidos Boxes Urgencias
+
+> **Índice de contenido clínico de este archivo.** Para notas detalladas de cada patología, consultar las notas independientes en `10_Patologias/`.
+
+## Índice
+
+| Sección | Patología | Nota independiente |
+|---|---|---|
+| Neumología | Exacerbación de EPOC | [[EPOC - Exacerbación y Manejo Agudo]] |
+| Neumología | Neumonía adquirida en la comunidad (NAC) | [[Neumonía Adquirida en la Comunidad (NAC)]] |
+| Neumología | Crisis asmática | [[Asma - Crisis Asmática]] |
+| Cardiología | Insuficiencia cardíaca aguda (ICA) | [[Insuficiencia cardiaca aguda]] |
+| Cardiología | Fibrilación auricular (FA) | [[Fibrilación Auricular (FA)]] |
+| Cardiología | Trombosis venosa profunda (TVP) | [[Trombosis Venosa Profunda (TVP)]] |
+| Cardiología | Tromboembolismo pulmonar (TEP) | [[TEP - Tromboembolismo Pulmonar]] |
+| Digestivo | Hemorragia digestiva alta (HDA) | [[Hemorragia Digestiva Alta (HDA)]] |
+| Digestivo | Hemorragia digestiva baja (HDB) | [[Hemorragia Digestiva Baja (HDB)]] |
+| Digestivo | Obstrucción intestinal (Ogilvie, adherencias) | [[Obstrucción Intestinal]] |
+| Digestivo | Colitis ulcerosa (criterios ingreso EII) | [[Colitis Ulcerosa]] |
+| Digestivo | Enfermedad de Crohn | [[Enfermedad de Crohn]] |
+| Digestivo | Pancreatitis aguda (Atlanta, BISAP) | [[Pancreatitis Aguda]] |
+| Digestivo | Hipertransaminasemia | [[Hipertransaminasemia]] |
+| Digestivo | Complicaciones de la cirrosis (ascitis, PBE, PBS) | [[Complicaciones de la Cirrosis Hepática]] |
+| Urología | Hematuria | [[Hematuria]] |
+| Urología | Retención aguda de orina (RAO) | [[Retención Aguda de Orina (RAO)]] |
+| Nefrología | Fracaso renal agudo (FRA) | [[Fracaso Renal Agudo (FRA)]] |
+| Nefrología | Hiponatremia / SIADH | [[Hiponatremia]] |
+| Nefrología | Hipernatremia | [[Hipernatremia]] |
+| Nefrología | Hiperpotasemia | [[Hiperpotasemia]] |
+| Endocrinología | Hiperglucemia simple (FSI, SEMES) | [[Hiperglucemia Simple]] |
+| Endocrinología | Cetoacidosis diabética (CAD) | [[Cetoacidosis Diabética (CAD)]] |
+| Endocrinología | Síndrome hiperglucémico hiperosmolar (SHH) | [[Síndrome Hiperglucémico Hiperosmolar (SHH)]] |
+| Infecciosas | Código Sepsis | [[Sepsis y Shock Séptico]] |
+
+---
+
 AYUDAS BOXES
 Por B. Llorente
 

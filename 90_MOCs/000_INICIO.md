@@ -31,10 +31,10 @@
 ### 📋 Plantillas de Guardia (Catrain, Llorente et al.)
 > [!tip] Copiar y Pegar 
 > - [[00 - Exploración|Exploración física]]
-> - [[01 - Curas|Curas]]
+> - [[01 - Plantilla Curas y Traumatología Menor|Curas]]
 > - [[01b - Las Movidas de Curas|Las Movidas de Curas]]
-> - [[02 - Polis|Policlínicas / Polis]]
-> - [[03 - Ayudas Boxes|Ayudas Boxes]]
+> - [[02 - Plantilla Policlínicas Urgencias|Policlínicas / Polis]]
+> - [[03 - Protocolos Rápidos Boxes Urgencias|Ayudas Boxes]]
 > - [[04 - Evolución Paciente Boxes|Evolución Paciente Boxes]]
 > - [[05 - SuperCOT|SuperCOT]]
 > - [[05a - COT Plantillas Alex Rehabi|COT - Alex Rehabi]]
