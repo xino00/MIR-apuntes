@@ -1,0 +1,764 @@
+AUTORES:
+Mario Aramberri del Vigo. Medicina Interna. M.ª del Pilar Gómez Gómez. Cardiología.
+ASESORA:
+Pilar Escribano Subías. Hipertensión Pulmonar. Cardiología.
+1. CONCEPTO La presión arterial pulmonar media (PAPm) en la población normal tiene un valor medio de 14 mmHg (± 3,3 mmHg) medida mediante cateterismo cardíaco derecho (CCD), en reposo y en decúbito. La hipertensión pulmonar (HP) se define como una PAPm superior a 20 mmHg en reposo.
+2. CLASIFICACIÓN
+2.1. Clasificación clínica Existen cinco categorías. Dentro de cada grupo se reúnen las enfermedades que comparten mecanismos fisiopatológicos, presentación clínica u opciones terapéuticas (tabla 1).
+2.2. Clasificación hemodinámica Atendiendo a parámetros hemodinámicos, la HP se clasifica según se muestra en la tabla 2. Dentro de estos grupos cabe destacar la hipertensión arterial pulmonar (HAP), del grupo 1, en la que se centra fundamentalmente este capítulo, definida como una elevación de la PAPm por encima de 20 mmHg en reposo con presión capilar pulmonar (PCP) de 15 mmHg o menos y resistencias vasculares pulmonares (RVP) de 3 UW (unidades Wood) o más en ausencia de otras causas de HP precapilar, como cardiopatía izquierda (grupo 2), pulmonares (grupo 3) o tromboembólica crónica (grupo 4).
+3. MANIFESTACIONES CLÍNICAS
+Los síntomas de la HP son muy inespecíficos (astenia, disnea, angina, síncope, tos o hemoptisis) y se asocian a la progresión del fallo del ventrículo derecho (VD). En fases iniciales los síntomas aparecen únicamente con el esfuerzo; el más frecuente es la disnea. Cuando la disfunción del VD llega a estadios avanzados, estos también están presentes en reposo. En la exploración física se pueden identificar signos de disfunción del VD, como el refuerzo del segundo tono, soplos de insuficiencia tricúspide o pulmonar, presencia de tercer y cuarto ruido y congestión periférica. Se han de buscar signos que orienten a una entidad específica que cause la HP.
+318
+
+21. Hipertensión pulmonar
+Tabla 1. Clasificación clínica de la hipertensión pulmonar (Niza, 2018)
+Grupo 1. HAP
+1. Idiopática (HAPI) 2. Hereditaria (BMPR-2) 3. Inducida por drogas o toxinas 4. Asociada con:
+– Enfermedad del tejido conectivo – Infección por el VIH – Hipertensión portal – Cardiopatías congénitas – Esquistosomiasis 5. HAP en respondedores a largo plazo a antagonistas del calcio 6. HAP con características manifiestas de compromiso venoso/capilar (EVOP/HCP) 7. HP persistente del recién nacido
+Grupo 2. HP causada por cardiopatía izquierda
+1. HP debida a insuficiencia cardíaca con FEVI preservada 2. HP debida a insuficiencia cardíaca con FEVI deprimida 3. Enfermedad valvular 4. Obstrucción congénita/adquirida al flujo cardíaco que produce HP poscapilar
+Grupo 3. HP por enfermedad pulmonar y/o hipoxia
+1. Enfermedad pulmonar obstructiva 2. Enfermedad pulmonar restrictiva 3. Otras enfermedades pulmonares con patrón mixto obstructivo-restrictivo 4. Hipoxia sin enfermedad pulmonar 5. Alteraciones del desarrollo pulmonar
+Grupo 4. HP tromboembólica crónica y otras obstrucciones de la arteria pulmonar
+1. HP tromboembólica crónica 2. Obstrucción de la arteria pulmonar: sarcoma o angiosarcoma, obstrucción tumoral,
+arteritis, estenosis congénita de la arteria pulmonar e hidatidosis
+Grupo 5. HP multifactorial/mecanismo poco claro
+1. Alteraciones hematológicas: síndromes mieloproliferativos y anemia hemolítica crónica 2. Alteraciones sistémicas y metabólicas: sarcoidosis, histiocitosis pulmonar de células
+de Langerhans, Gaucher, enfermedades por depósito de glucógeno y neurofibromatosis 3. Otras: enfermedad renal crónica y mediastinitis fibrosante 4. Cardiopatías congénitas complejas
+BMPR-2: receptor de proteínas morfogenéticas óseas tipo 2; FEVI: fracción de eyección del ventrículo izquierdo; HAP: hipertensión arterial pulmonar; HAPI: hipertensión arterial pulmonar idiopática; HCP: hemangiomatosis capilar pulmonar; HP: hipertensión pulmonar; VIH: virus de la inmunodeficiencia humana.
+
+Tabla 2. Clasificación hemodinámica de la hipertensión pulmonar
+
+Definición
+
+PAPm
+
+PCP
+
+RVP
+
+Grupo clínico
+
+HP precapilar
+
+> 20 mmHg ≤ 15 mmHg ≥ 3 UW 1, 3, 4 y 5
+
+HP poscapilar aislada
+
+> 20 mmHg > 15 mmHg < 3 UW 2 y 5
+
+HP combinada pre- y poscapilar > 20 mmHg > 15 mmHg ≥ 3 UW 2 y 5
+
+HP: hipertensión pulmonar; PAPm: presión arterial pulmonar media; PCP: presión capilar pulmonar; RVP: resistencias vasculares pulmonares; UW: unidades Wood.
+
+319
+
+Manual de Diagnóstico y Terapéutica Médica
+4. DIAGNÓSTICO
+En él se parte de la sospecha clínica y se ha de seguir un proceso escalonado para su confirmación, establecer la causa y determinar la gravedad del cuadro de cara a poder planificar el tratamiento (figura 1).
+
+Sospecha de HP
+
+Ecocardiograma Probabilidad de HP
+Alta o intermedia
+Probabilidad de HP grupo 2 (ecocardiograma)
+Baja o intermedia
+Probabilidad de HP grupo 3 (PFR con DLCO, TACAR, PSG)
+Baja
+Gammagrafía pulmonar V/Q ¿Defectos segmentarios?
+No
+CCD: PAPm > 20 mmHg; PCP < 15 mmHg; RVP > 3 UW
+Sí
+HP grupo 1 o 5 Realizar pruebas específicas
+diagnósticas
+
+Baja Considerar otras causas
+
+Alta
+No Alta
+
+¿HP proporcional a la enfermedad de base?
+Sí
+Tratar la causa
+
+Sí
+
+HPTEC (grupo 4)
+
+Angio-TC pulmonar + CCD +
+
+angiografía pulmonar
+
+No Considerar otras causas
+
+Estudio negativo
+
+HAP idiopática
+
+Estudio genético Descartar heredable
+
+CCD: cateterismo cardíaco derecho; DLCO: capacidad de difusión de monóxido de carbono; HAP: hipertensión arterial pulmonar; HP: hipertensión pulmonar; HPTEC: hipertensión pulmonar tromboembólica crónica; PAPm: presión arterial pulmonar media; PCP: presión capilar pulmonar; PFR: pruebas de función pulmonar; PSG: polisomnografía; RVP: resistencias vasculares pulmonares; TACAR: tomografía axial computarizada de alta resolución; UW: unidad Wood; V/Q: ventilación/perfusión.
+Figura 1. Algoritmo diagnóstico de la hipertensión pulmonar.
+
+320
+
+21. Hipertensión pulmonar
+
+4.1. Sospecha clínica y diagnóstico de aproximación por estudios no invasivos
+Se fundamenta en la presencia de síntomas y signos propios de esta entidad (descritos en el apartado anterior) o por factores de riesgo de hipertensión arterial pulmonar.
+
+Se ha de realizar cribado obligado de la HAP con ecocardiograma transtorácico (ETT) incluso en ausencia de síntomas en pacientes con esclerosis sistémica (ES), cirrosis hepática candidata a trasplante y portadores de mutaciones genéticas responsables de HAP.
+
+Hay que buscar síntomas relacionados con HAP en pacientes con cardiopatías congénitas, enfermedades del tejido conectivo (ETC), infección por el virus de la inmunodeficiencia humana (VIH) y exposición a tóxicos relacionados con la HAP (tabla 3). En nuestro medio en particular destaca la exposición al aceite de colza.
+
+Tabla 3. Fármacos y toxinas asociados a la hipertensión arterial pulmonar
+
+Definitiva
+
+Posible
+
+Aminorex
+
+Cocaína
+
+Fenfluramina
+
+Fenilpropanolamina
+
+Dexfenfluramina
+
+L-triptófano
+
+Benfluorex
+
+Hierba de san Juan
+
+Metanfetaminas
+
+Anfetaminas
+
+Dasatinib
+
+Interferón α y β
+
+Aceite tóxico
+
+Agentes alquilantes
+
+Bosutinib
+
+Antivirales directos frente al virus de la hepatitis C
+
+Leflunomida
+
+Indirubina
+
+En estudios no invasivos se pueden encontrar los siguientes hallazgos sugestivos de HAP:
+a) Electrocardiograma (ECG) y radiografía (Rx) de tórax: se trata de alteraciones muy poco sensibles y que aparecen en estadios avanzados, como signos de dilatación de la aurícula derecha y del VD. En el ECG se pueden ver P picuda, R altas y qR en precordiales derechas y en la Rx, borde cardíaco derecho prominente, disminución del espacio aéreo retroesternal e hipertrofia de troncos pulmonares.
+b) ETT: es una prueba diagnóstica fundamental que permite establecer la probabilidad de HP en pacientes con sospecha clínica (tabla 4). Además, ayuda en la valoración pronóstica al informar del tamaño y de la función del VD y de las presiones de la AD. En muchas ocasiones servirá también como aproximación etiológica. Se recomienda realizar test de suero salino agitado en todo paciente con diagnóstico de novo de HP para descartar shunt intracardíaco o intrapulmonar.
+
+4.2. Diagnóstico etiológico 4.2.1. HTP debido a cardiopatía izquierda (grupo 2) Cuando un ETT muestre una probabilidad alta o intermedia de HP se debe valorar la probabilidad de que se deba a cardiopatía izquierda. Si la enfermedad cardíaca es evidente (fracción de eyección del ventrículo izquierdo [FEVI] deprimida, estenosis
+321
+
+Manual de Diagnóstico y Terapéutica Médica
+
+mitral, etc.), se puede dar por concluido el estudio. Resulta más dificultoso atribuir la HP a cardiopatía izquierda en caso de insuficiencia cardíaca (IC) con FEVI preservada. En estos casos el fenotipo clínico puede ser de ayuda (tabla 5). Una aurícula izquierda dilatada sugiere presiones crónicamente aumentadas en las cavidades izquierdas y apoya fuertemente el diagnóstico de HP del grupo 2.
+Este diagnóstico tiene una influencia negativa en el pronóstico de la enfermedad cardíaca. El eje central del tratamiento se centra en la optimización del tratamiento farmacológico de la IC, la adecuada indicación quirúrgica en presencia de valvulopatía izquierda y el control de factores de riesgo y comorbilidades. No existe evidencia que respalde el uso de vasodilatadores específicos pulmonares en este escenario.
+
+Tabla 4. Probabilidad ecocardiográfica de hipertensión pulmonar en pacientes con sospecha de hipertensión pulmonar y actitud diagnóstica
+
+Datos ecocardiográficos
+
+Probabilidad
+
+Factores de riesgo de los grupos
+
+ecocardiográfica de HP 1 o 4
+
+VmáxRT (m/s)
+
+Signos indirectos de HP
+
+Ausentes
+
+Presentes
+
+≤ 2,8 o no No
+
+Baja
+
+medible
+
+Considerar otros diagnósticos
+
+Considerar seguimiento ecocardiográfico
+
+≤ 2,8 o no Sí medible
+
+Intermedia
+
+Completar estudio de HP
+
+2,9-3,4 No
+
+2,9-3,4 Sí
+
+Alta
+
+Completar estudio de HP
+
+> 3,4
+
+No requerido
+
+HP: hipertensión pulmonar; VmáxRT: velocidad máxima de regurgitación tricúspide.
+
+Tabla 5. Probabilidad de hipertensión pulmonar del grupo 2 en función del fenotipo
+
+Característica
+
+Probabilidad alta
+
+Probabilidad intermedia Probabilidad baja
+
+Edad
+
+> 70 años
+
+60-70 años
+
+< 60 años
+
+FR: obesidad, HTA, DL y DM
+
+> 2 factores
+
+1-2 factores
+
+0 factores
+
+Intervención
+
+Sí
+
+No
+
+No
+
+cardíaca previa*
+
+FA
+
+Permanente
+
+Paroxística
+
+No
+
+Cardiopatía
+
+Presente
+
+No
+
+No
+
+estructural del VI
+
+ECG
+
+BCRI o HVI
+
+HVI leve
+
+Normal
+
+ETT
+
+Dilatación de la AI
+
+AI no dilatada y
+
+AI no dilatada
+
+y disfunción diastólica disfunción diastólica
+
+y E/e' < 13
+
+de grado > 2
+
+de grado < 2
+
+AI: aurícula izquierda; BCRI: bloqueo completo de rama izquierda; DL: dislipemia; DM: diabetes mellitus; ECG: electrocardiograma; ETT: ecocardiograma transtorácico; FA: fibrilación auricular; FR: factor de riesgo; HTA: hipertensión arterial; HVI: hipertrofia ventricular izquierda. * Intervencionismo coronario o valvular, sea quirúrgico o percutáneo.
+
+322
+
+21. Hipertensión pulmonar
+4.2.2. HTP debido a enfermedad pulmonar (grupo 3)
+En presencia de neumopatía grave conocida la HP puede clasificarse como grupo 3. En casos dudosos se ha de completar el estudio con pruebas de función respiratoria (PFR), gasometría arterial, test de difusión de monóxido de carbono (CO) y, en caso de precisarse, tomografía computarizada de alta resolución (TACAR) o polisomnografía.
+Su diagnóstico ensombrece el pronóstico de la enfermedad pulmonar. No está indicado el tratamiento con vasodilatadores pulmonares. Debe valorarse la posibilidad de trasplante pulmonar y de rehabilitación respiratoria, que ha demostrado mejorar la tolerancia al esfuerzo.
+4.2.3. HTP debida a enfermedad pulmonar tromboembólica crónica (grupo 4)
+El 3,4% de los pacientes que sufren un tromboembolismo pulmonar (TEP) desarrollan posteriormente hipertensión pulmonar tromboembólica crónica (HPTEC). No obstante, el hecho de que el 30% de los pacientes con HPTEC no tengan antecedente de TEP conocido obliga a descartar esta posibilidad en el estudio inicial de la HP.
+Se debe realizar una gammagrafía pulmonar de ventilación/perfusión, que permite un estudio funcional de la circulación pulmonar. La angiotomografía computarizada (angio-TC) pulmonar no debe utilizarse como alternativa diagnóstica, ya que puede no detectar casos de HPTEC. En caso de presentar defectos segmentarios de perfusión sugerentes de HPTEC, se ha de remitir a un centro experto para realizar un estudio de hipercoagulabilidad, angio-TC pulmonar, CCD y angiografía pulmonar que permitan confirmar dicho diagnóstico y establecer la actitud terapéutica. Los defectos no segmentarios y dispersos de la perfusión en la gammagrafía pueden aparecer en la HAP, la enfermedad venooclusiva pulmonar (EVOP) y la HP grupo 5.
+4.2.4. Diagnóstico de la hipertensión arterial pulmonar
+Una vez descartada la HP de los grupos 2-4, debe realizarse un CCD, que es el examen de referencia para confirmar el diagnóstico de HAP. Está indicado en toda sospecha de HAP. En caso de confirmarse, se debe completar el estudio etiológico de la HAP en un centro de referencia para buscar causas poco comunes. Hay que tener en cuenta que el diagnóstico de hipertensión arterial pulmonar idiopática (HAPI) es de exclusión. En la tabla 6 se muestran las pruebas necesarias para establecer la etiología de la HAP.
+5. VALORACIÓN DE LA GRAVEDAD Y DEL PRONÓSTICO
+Inicialmente hay que realizar una valoración de la gravedad y del pronóstico basada en parámetros clínicos, pruebas de ejercicio, biomarcadores, así como datos ecocardiográficos y hemodinámicos (tabla 7). Estos parámetros además permitirán evaluar la respuesta al tratamiento y la necesidad de hacer cambios en él.
+El objetivo general del tratamiento es lograr un estadio de riesgo bajo, lo que significa lograr que el paciente se mantenga en la clase funcional de la Organización Mundial de la Salud II (OMS-II), es decir, con limitación para el esfuerzo moderado.
+323
+
+Manual de Diagnóstico y Terapéutica Médica
+
+Tabla 6. Pruebas necesarias para establecer la etiología de la hipertensión arterial pulmonar
+Pruebas de laboratorio
+• Hemograma, bioquímica básica y función tiroidea • Serologías de VHB, VHC, VIH y esquistosomiasis • Estudio de autoinmunidad: anticuerpos antinucleares (anticentrómeros, anti-SCL-70
+y RNP) y antifosfolípido • Test genéticos y prestación de consejo genético
+Pruebas de función respiratoria
+• Espirometría y volúmenes pulmonares • DLCO • Gasometría arterial
+Pruebas de imagen
+• Eco-Doppler abdominal • TACAR • ETE (si se sospecha HP en pacientes con cardiopatía congénita) • RM cardíaca (siempre en EVOP, HAPI y HAP familiar)
+DLCO: capacidad de difusión de monóxido de carbono; ETE: ecocardiograma transesofágico; EVOP: enfermedad venooclusiva pulmonar; HAP: hipertensión arterial pulmonar; HAPI: hipertensión arterial pulmonar idiopática; HP: hipertensión pulmonar; RM: resonancia magnética; RNP: ribonucleoproteínas; TACAR: tomografía computarizada de alta resolución; VHB: virus de la hepatitis B; VHC: virus de la hepatitis C; VIH: virus de la inmunodeficiencia humana.
+
+Tabla 7. Parámetros pronósticos en la hipertensión arterial pulmonar
+
+Factores pronósticos (mortalidad estimada a 1 año)
+
+Bajo riesgo (< 5%)
+
+Riesgo moderado (5-10%)
+
+Riesgo alto (> 10%)
+
+Signos de ICC congestiva derecha
+
+Ausentes
+
+Ausentes
+
+Presentes
+
+Progresión de los síntomas
+
+No
+
+Lenta
+
+Rápida
+
+Síncope
+
+No
+
+Ocasional,
+
+Repetido,
+
+con gran esfuerzo con poco esfuerzo
+
+u ortostático
+
+Clase funcional de la OMS
+
+I-II
+
+III
+
+IV
+
+Test de los 6 min
+
+> 440 m
+
+165-440 m
+
+< 165 m
+
+Ergoespirometría: VO2 pico (% predicho)pendiente VE/VCO2
+
+> 15 ml/min/kg (> 65%) < 36
+
+11-15 ml/min/kg (35-65%) 36-44,9
+
+< 11 ml/min/kg (< 35%) ≥ 45
+
+BNP/NT-proBNP
+
+< 50 ng/l < 300 ng/ml
+
+50-300 ng/l 300-1.400 ng/ml
+
+> 300 ng/l > 1.400 ng/ml
+
+Imagen de área de la AD
+
+< 18 cm2
+
+18-26 cm2
+
+> 26 cm2
+
+Imagen de derrame pericárdico Ausente
+
+Ausente/mín.
+
+Presente
+
+Parámetros hemodinámicos (presión AD/IC/SvO2)
+
+< 8 mmHg ≥ 2,5 l/min/m2 > 65%
+
+8-14 mmHg ≥ 2-2,4 l/min/m2 60-65%
+
+> 14 mmHg < 2,0 l/min/m2 < 60%
+
+AD: aurícula derecha; BNP: péptido natriurético tipo B; IC: índice cardíaco; ICC: insuficiencia cardíaca congestiva; NT-proBNP: propéptido natriurético cerebral N-terminal; OMS: Organización Mundial de la Salud; SvO2: saturación mixta de oxígeno; VE/VCO2: equivalentes ventilatorios de dióxido de carbono; VO2: consumo de oxígeno.
+
+324
+
+21. Hipertensión pulmonar
+6. TRATAMIENTO
+6.1. Medidas generales no farmacológicas • Ejercicio físico moderado no extenuante y rehabilitación física. • Desaconsejar la gestación por elevada morbimortalidad materna, especialmente en
+el período periparto, así como los anticonceptivos orales hormonales estrogénicos. • Vacunación antigripal y antineumocócica. • Apoyo psicosocial.
+6.2. Tratamiento de apoyo 6.2.1. Anticoagulación oral Se recomienda anticoagulación indefinida con antagonistas de la vitamina K en la HPTEC y en pacientes con aneurisma de la arteria pulmonar mayor de 50 mm o trombos en él.
+6.2.2. Diuréticos Alivian los síntomas de congestión al disminuir la precarga del VD. Se debe considerar su uso con precaución para no deplecionar en exceso el VD y evitar así que caiga el gasto cardíaco; se pueden añadir antagonistas de la aldosterona, como la espironolactona.
+6.2.3. Oxigenoterapia La presencia de hipoxemia contribuye enormemente al desarrollo de HP. En general se recomienda oxigenoterapia domiciliaria en pacientes con insuficiencia respiratoria basal (presión arterial de oxígeno [pO2] < 60 mmHg). Se puede considerar también si hay evidencia de beneficio sintomático y desaturación corregible durante el ejercicio.
+6.2.4. Anemia y perfil férrico La ferropenia es común en pacientes con HP. Hay que buscar su causa y reponer el déficit de hierro.
+6.3. Tratamiento específico 6.3.1. Tratamiento farmacológico Se recomienda realizar un test de vasorreactividad pulmonar para identificar a pacientes tratables con antagonistas del calcio en monoterapia. Se debe hacer en el momento del diagnóstico y en un centro de referencia en pacientes con HAPI, HAP heredada e HAP secundaria a tóxicos/fármacos. No se ha de llevar a cabo ante sospecha de EVOP por el riesgo de precipitar un edema agudo de pulmón.
+El tratamiento con otros vasodilatadores pulmonares se expone en la tabla 8. El tratamiento debe ser combinado, secuencial y basado en la estratificación del riesgo (figura 2). Es fundamental tener en cuenta las potenciales interacciones entre fármacos. De forma general se recomienda comenzar con doble tratamiento oral, salvo en casos excepcionales de bajo riesgo, en los que se considera correcta la monoterapia (HAP incipiente con escasa repercusión hemodinámica, diagnóstico dudoso de HAP con HP del grupo 2, etc.). Si la respuesta clínica con monoterapia es inadecuada, se puede considerar la terapia combinada e incluso la triple terapia en centros con experiencia.
+325
+
+Manual de Diagnóstico y Terapéutica Médica 326
+
+Tabla 8. Tratamiento farmacológico de la hipertensión pulmonar
+
+Antagonistas del calcio
+
+Posología
+
+Diltiazem
+
+Nifedipino
+
+Amlodipino
+
+Vía del óxido nítrico
+
+Inhibidores de la PDH5
+
+Sildenafilo Tadalafilo
+
+v.o. máx. 720 mg/día v.o. máx. 240 mg/día v.o. máx. 20 mg/día
+v.o. 20-80 mg/8 h v.o. 40 mg/día
+
+Efectos secundarios
+Hipotensión Edemas periféricos Bradicardia con diltiazem
+Cefalea, priapismo, hipotensión y epistaxis
+
+Agonista guanilato- ciclasa
+
+Riociguat
+
+v.o. máx. 2,5 mg/8 h
+
+Síncope, hipotensión, diarrea y hemoptisis
+
+Vía de la endotelina
+
+Bosentán
+
+v.o. máx. 125 mg/12 h
+
+Hepatotoxicidad, diarrea y edemas
+
+Ambrisentán
+
+v.o. máx. 10 mg/día
+
+Teratogénesis, hepatotoxicidad, diarrea y edemas
+
+Macitentán
+
+v.o. máx. 10 mg/día
+
+Edemas y anemia
+
+Vía de las PC
+
+Agonista PC*
+Agonista de los receptores IP
+
+Epoprostenol Treprostinil
+Iloprost Selexipag
+
+i.v. máx. 20-40 ng/kg/min
+i.v., inh. o s.c. máx. 20-80 ng/ kg/min
+Inh. 2,5-5 µg en 6-9 veces/día
+Máx. 1.600 µg/12 h
+
+Trombopenia, cefalea, dolor mandibular, rubor, hipotensión, náuseas, vómitos, diarrea y mayor riesgo de hemorragias Problemas secundarios a catéter central o dolor local en treprostinil s.c.
+
+ACV: accidente cardiovascular; IAM: infarto agudo de miocardio; PC: prostaciclinas; PDH5: fosfodiesterasa 5.
+
+Otras precauciones
+En caso de no normalizarse se debe sustituir por vasodilatadores pulmonares específicos
+Evitar su uso con nitratos, en ACV o IAM reciente, retinitis pigmentosa y neuropatía óptica isquémica anterior no arterítica Precaución con sildenafilo en combinación con inhibidores CYP3A4 No usar con inhibidores de la PDH5 ni con nitratos
+Control mensual de transaminasas
+Control de hemoglobina
+Dosis inicial de 1-2 ng/kg/min titulando según efectos secundarios y objetivos
+Dosis inicial de 200 µg Subida de dosis semanal
+
+21. Hipertensión pulmonar
+La triple terapia con prostanoides intravenosos se aconseja de inicio en pacientes de alto y muy alto riesgo.
+Se define como paciente respondedor a largo plazo el que se mantiene en las clases funcionales I-II de la NYHA y con normalización de presiones pulmonares en CCD después de 1 año de tratamiento. El tratamiento se ha de mantener indefinidamente.
+El CCD debe repetirse ante deterioro clínico significativo a lo largo del seguimiento o discordancias entre parámetros clínicos, ecocardiográficos y funcionales.
+6.3.2. Procedimientos invasivos
+El trasplante pulmonar se ha de considerar de forma individualizada en caso de respuesta clínica inadecuada y situación de alto riesgo a pesar del tratamiento médico óptimo durante al menos 3 meses (incluido epoprostenol intravenoso). La atrioseptostomía con globo se puede considerar como tratamiento paliativo o puente a trasplante en pacientes con situación hemodinámica comprometida.
+
+Remitir a una unidad de HP
+
+Test de vasorreactividad Respuesta negativa
+
+Respuesta positiva
+
+Antagonistas de calcio
+3-6 meses
+
+Bajo riesgo: seguimiento Riesgo alto
+
+Riesgo bajo/intermedio
+
+Terapia combinada oral
+
+Riesgo bajo
+
+3-6 meses
+Riesgo intermedio/alto
+
+Seguimiento
+
+Triple terapia
+
+Triple terapia con prostaciclina i.v.
+
+Riesgo bajo
+
+3-6 meses
+Riesgo intermedio/alto
+
+Seguimiento
+
+Valorar remitir a trasplante pulmonar
+
+Figura 2. Algoritmo de tratamiento de la hipertensión. 327
+
+Manual de Diagnóstico y Terapéutica Médica
+7. PRONÓSTICO
+Debido a los avances en el tratamiento, se ha producido una mejoría evidente en la supervivencia en los últimos años. Los parámetros de mal pronóstico son los ya descritos en la tabla 7, además de la edad (< 3 años y > 65 años), el sexo masculino, la presencia de comorbilidades, algunas causas de HAP (esclerodermia, síndrome hepatopulmonar, portopulmonar y formas familiares), formas rápidamente progresivas (EVOP), datos de congestión derecha o de bajo gasto, capacidad de difusión de monóxido de carbono (DLCO) gravemente disminuida e historia de hemoptisis, síncope o fibrilación auricular (FA)/flutter auricular.
+8. CARACTERÍSTICAS ESPECIALES DE ALGUNOS TIPOS
+8.1. Hipertensión arterial pulmonar asociada a cardiopatías congénitas
+Se trata de un grupo muy heterogéneo en el cual la HP se produce por shunt izquierda-derecha e hiperaflujo y daño endotelial sobre el lecho pulmonar. El tratamiento más eficaz es el cierre del shunt cuando sea posible, tras una valoración en un centro de referencia para cardiopatías congénitas e HP.
+El síndrome de Eisenmenger es la situación final de shunts grandes sistemicopulmonares, con aumento progresivo de las RVP e inversión del shunt, cianosis y desaturación. Se precisa tratamiento con vasodilatadores pulmonares de forma similar a la HAP y se deben evitar los vasodilatadores sistémicos. El aporte de oxígeno no corrige la hipoxemia.
+Cabe destacar un grupo de pacientes con defectos congénitos que desarrollan HP posreparación, que son el grupo de peor pronóstico dentro de las cardiopatías congénitas.
+8.2. Hipertensión arterial pulmonar asociada a enfermedades del tejido conectivo
+La HAP es una complicación frecuente que se presenta en el 3-13% de los pacientes con enfermedades autoinmunes sistémicas. Puede encontrarse en el lupus eritematoso sistémico (LES), la enfermedad mixta del tejido conectivo (EMTC), la artritis reumatoide, la dermatomiositis, el síndrome de Sjögren y, con una alta prevalencia, la ES. En esta y otras ETC con rasgos de ES está indicado realizar un cribado anual con ETT, difusión de CO y biomarcadores. Es importante en todas estas entidades el tratamiento inmunosupresor, que consigue una mejoría hemodinámica y el control de los brotes en el caso del LES, que empeoran la HP.
+8.3. Hipertensión portopulmonar
+Consiste en el desarrollo de HP en pacientes con hipertensión portal, independientemente de si tienen o no cirrosis. En los candidatos a trasplante hepático (TH) está indicado realizar un cribado con ETT anual y derivar a un centro de referencia ante una presión en el circuito arterial pulmonar (PAP) sistólica estimada mayor de 50 mmHg o disfunción del VD. No debe confundirse con el síndrome hepatopulmonar, que consiste en la vasodilatación intensa del lecho pulmonar con shunt intrapulmonar en pacientes con hepatopatía crónica.
+Las derivaciones portosistémicas intrahepáticas transyugulares (TIPS) están desaconsejadas en la hipertensión portopulmonar (HPP), ya que pueden aumentar la precarga del VD y precipitar una situación de IC derecha. La HPP no es indicación de TH. Los pacientes con HPP y deterioro hemodinámico grave no son candidatos a TH
+328
+
+21. Hipertensión pulmonar
+por riesgo perioperatorio inaceptable. De hecho, se debe iniciar tratamiento específico en todos los candidatos a TH con una PAP media mayor de 35 mmHg con el objetivo de reducirla y también la RVP y mejorar la función del VD como puente al TH.
+8.4. Enfermedad venooclusiva pulmonar y hemangiomatosis capilar pulmonar
+Se cree que son dos entidades relacionadas, pues la hemangiomatosis capilar pulmonar (HCP) se sospecha que es una reacción angioproliferativa ante la obstrucción poscapilar de la EVOP. Ambas entidades tienen mayor incidencia en varones y su pronóstico es peor, con progresión más rápida y escasa respuesta a tratamiento específico.
+Se debe sospechar ante clínica de disnea rápidamente progresiva, tos irritativa, acropaquias y crepitantes bibasales (inusual en otras formas de HAP). Es muy sugerente una alteración de la difusión de CO y/o hipoxemia demasiado grave para el grado de HP en el CCD, así como el patrón reticulonodular y de edema pulmonar en la Rx. Debe completarse el estudio con una TACAR, donde se pueden encontrar hallazgos característicos, como nódulos centrolobulillares, opacidades «en vidrio deslustrado» o engrosamiento septal interlobulillar. Solo en casos excepcionales se planteará una biopsia pulmonar por su alto riesgo. Por su posible origen familiar, se debe hacer estudio genético (gen EIF2AK4, de herencia recesiva y penetrancia 100%), que en estos casos tiene un debut temprano (< 30 años) y una difusión de CO muy baja.
+El tratamiento vasodilatador pulmonar ha de emplearse con mucho cuidado por el riesgo de inducir un edema agudo de pulmón. El único tratamiento curativo es el trasplante de pulmón. La supervivencia del primer año sin el trasplante es del 30%.
+8.5. Hipertensión pulmonar tromboembólica crónica
+Ante datos sugerentes de esta entidad (ver apartado 4. Diagnóstico), se debe instaurar tratamiento anticoagulante durante 3 meses, con reevaluación posterior para diferenciar los casos de TEP subagudo de esta patología. En la HPTEC está indicada la anticoagulación de por vida, incluso después de la cirugía.
+El tratamiento de elección es quirúrgico; es el único subtipo de HP que tiene un tratamiento curativo mediante la endarterectomía pulmonar (EAP). Si se realiza de forma exitosa, se aprecia una reducción drástica e inmediata de la RVP y la reversión progresiva del remodelado ventricular, con mejora de la fracción de eyección de ambos ventrículos. La situación funcional vuelve a la normalidad y mejora la capacidad de ejercicio y la calidad de vida.
+Si el paciente no es operable (decisión tomada por un equipo experto en HPTEC), presenta enfermedad a nivel distal no accesible o la HPTEC es persistente o recurrente tras la cirugía, se debe valorar realizar angioplastia con globo de arterias pulmonares y/o tratamiento médico. Estos casos deben remitirse a un centro con experiencia para decidir cuál es el mejor manejo por un equipo multidisciplinar.
+La angioplastia pulmonar se realiza en varias sesiones; en cada una se trata como máximo 3-5 segmentos, según la situación de riesgo del paciente. Sus principales complicaciones son el edema de reperfusión y la perforación vascular.
+Dentro del tratamiento médico se recomienda el empleo de riociguat en pacientes sintomáticos con HPTEC persistente o recurrente tras cirugía o en no operables. No se debe desestimar a ningún paciente con HPTEC para la cirugía/angioplastia sin haber sido valorado antes en un centro de referencia.
+329
+
+Manual de Diagnóstico y Terapéutica Médica
+9. SITUACIONES ESPECIALES EN HIPERTENSIÓN ARTERIAL PULMONAR GRAVE EN URGENCIAS
+9.1. Complicaciones asociadas al catéter venoso central • Infección del CVC (ver cap. 66. Endocarditis infecciosa. Infección endovascular). • Oclusión del CVC (aposición de la punta del catéter contra la pared del vaso): alerta
+de la bomba de presión elevada sin existir oclusión visible en la alargadera ni en el catéter. Se debe cambiar al paciente de posición y realizar maniobras de Valsalva. • Trombosis del CVC (ver cap. 30. Enfermedad tromboembólica venosa). • Los agonistas de las PC (epoprostenol y treprostinil) se administran en infusión continua. Para ello se usan catéteres venosos centrales (CVC) permanentes, como el Hickman tunelizado, habitualmente a través de la vena subclavia o yugular derecha. Es importante garantizar que no se suspenda la infusión de estos fármacos, pues por su corta vida media se puede producir un efecto rebote que genera un rápido aumento de las presiones pulmonares y fallo agudo del VD. Si se suspende la infusión por el catéter, es prioritario canalizar una vía periférica y reanudar su administración lo antes posible. Para ello resulta recomendable que los pacientes siempre lleven consigo un informe actualizado con la dosis para la bomba de infusión continua, la dosis para la bomba de infusión hospitalaria y el peso con el que se ha calculado.
+9.2. Taquiarritmias supraventriculares Son frecuentes y su aparición (salvo la taquicardia por reentrada intranodal [TRIN]) es un marcador de mal pronóstico. La más frecuente es la FA, seguida del flutter ­auricular y la TRIN. Debido a que pueden provocar un grave deterioro hemodinámico, se recomienda una estrategia de control del ritmo con cardioversión eléctrica a corto plazo, y a largo plazo la ablación endocárdica si es posible. Se deben evitar fármacos frenadores o antiarrítmicos con efecto inotropo negativo.
+9.3. Dolor torácico Puede atender a distintas causas; la más frecuente es la angina hemodinámica o infarto agudo de miocardio de tipo 2 por isquemia del VD, bajo gasto o hipoxemia. Se puede producir también angina por compresión extrínseca del tronco coronario izquierdo, aneurisma de la arteria pulmonar o disección aguda de las arterias pulmonares.
+10. UNIDADES ESPECIALIZADAS MULTIDISCIPLINARES Y CENTROS DE REFERENCIA Debido a que la HAP es una entidad poco frecuente, se ha comprobado que los centros con mayor volumen de pacientes tienden a presentar mejores resultados. El Hospital Universitario 12 de Octubre de Madrid cuenta con una Unidad de Hipertensión Pulmonar de referencia nacional y un equipo multidisciplinar que engloba varias especialidades. Las indicaciones para derivar a un centro de referencia se reflejan en la tabla 9.
+330
+
+21. Hipertensión pulmonar
+Tabla 9. Indicaciones para derivación a una unidad de referencia
+Sospecha HP grupo 5 con*
+• VRT > 3,4 m/s • VRT 2,9-3,4 m/s + síntomas sugerentes de HP o enfermedad asociada a HP • VRT 2,8 m/s + datos indirectos de HP+ síntomas sugerentes de HP o enfermedad
+asociada a HP
+HP grupo 2 o 3 con HP desproporcionada*
+• VRT > 3,4 m/s • Síntomas no explicados por la enfermedad
+HPTEC
+Remitir a centro con experiencia en tromboendarterectomia pulmonar
+EVOP/HCP
+Remitir a centro con trasplante pulmonar
+Otras
+• Embarazo en paciente con HP • Cirugía de alto riesgo no cardiaca • Pacientes con doble o triple terapia oral en los que no se consigue situación de bajo riesgo • Defectos congénitos no cerrados y HP posreparación
+EVOP: enfermedad venooclusiva pulmonar; HCP: hemangiomatosis capilar pulmonar; HP: hipertensión pulmonar; HPTEC: hipertensión pulmonar tromboembólica crónica; VRT: velocidad regurgitación tricuspídea. *En general se debería derivar a todos los pacientes de grupo 2,3 y 5 con disfunción sistólica de ventrículo derecho severa.
+
+BIBLIOGRAFÍA
+• Escribano Subías P, Gómez Sánchez MA. Protocolos de actuación en hipertensión pulmonar. Unidad Multidisciplinar de Hipertensión Pulmonar. Hospital 12 de Octubre. EDIMSA, 2014.
+• Galiè N, Channick RN, Frantz RP, Grünig E, Jing ZC , Moiseeva O, et al. Eur Respir J. 2019;53 (1):1801889.
+• Galiè N, Humbert M, Vachiery JL, Gibbs S, Lang I, Torbicki A, et al. 2015 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Heart J. 2015.
+• Hoeper MM, Apitz C, Grünig E, Halank M, Ewert R, Kaemmerer H, et al. Targeted therapy of pulmonary arterial hypertension: Updated recommendations from the Cologne Consensus Conference 2018. Int J Cardiol. 2018;272S:37-45.
+• Kim NH, Delcroix M, Jais X, et al. Hipertensión pulmonar tromboembólica crónica. Eur Respir J. 2018.
+• Olsson KM, Halank M, Egenlauf B, Fistera D, Gall H, Kaehler C, et al. Decompensated right heart failure, intensive care and perioperati­
+
+ve management in patients with pulmonary hypertension: Updated recommendations from the Cologne Consensus Conference 2018. Int J Cardiol. 2018;272S:46-52.
+• Ortego Centeno N, coord. Nuevos retos en hipertensión pulmonar. Protocolos Sociedad Española de Medicina Interna (SEMI). Elsevier, 2019.
+• Sitbon O, Gomberg-Maitland M, Granton J, Lewis MI, Mathai SC, Rainisio M, et al. Clinical trial design and new therapies for pulmonary arterial hypertension. Eur Respir J. 2019;53(1):1801908.
+• Vachiéry J-L, Tedford RJ, Rosenkranz S, Palazzini M, Lang I, Guazzi M, et al. Hipertensión pulmonar por cardiopatía izquierda. Eur Respir J. 2018.
+• Weatherald J, Boucly A, Sitbon O. Risk stratification in pulmonary arterial hypertension. Curr Opin Pulm Med. 2018;24(5):407-415.
+
+331
+
+CAPÍTULO
+
+22
+Disnea e insuficiencia respiratoria. Síndrome de distrés respiratorio agudo
+AUTORES:
+Celia García González. Medicina Interna. Javier Camacho Mateu. Medicina Interna.
+ASESOR:
+José Bascuñana Morejón de Girón. Medicina Interna.
+1. DISNEA Es la sensación subjetiva de falta de aire. Constituye uno de los síntomas más referidos por los pacientes y puede ser la primera o única manifestación de múltiples enfermedades. Existen diferentes tipos:
+a) Ortopnea (disnea en decúbito supino): generalmente acompaña a la insuficiencia cardíaca (IC), la parálisis diafragmática y el reflujo gastroesofágico.
+b) Platipnea (disnea en posición vertical): se asocia a shunt derecha-izquierda, síndrome hepatopulmonar o pérdida de tono de la musculatura abdominal.
+c) Trepopnea (disnea en decúbito lateral): en relación con parálisis diafragmática unilateral, derrame pleural unilateral o IC.
+d) Disnea paroxística nocturna (disnea durante el descanso nocturno que obliga al paciente a incorporarse y a permanecer erguido): es típica pero no específica de IC.
+e) Bendopnea (disnea que aparece al inclinarse hacia delante, por ejemplo, al colocarse los zapatos o calcetines): traduce un aumento de las presiones de llenado en pacientes con IC avanzada.
+1.1. Disnea aguda Aparece en el transcurso de horas o días y requiere siempre atención médica urgente y valoración de la gravedad y de la necesidad de soporte ventilatorio. Se debe realizar un diagnóstico precoz teniendo en cuenta las etiologías más probables (tabla 1), que orientarán las pruebas complementarias y el tratamiento inicial.
+1.1.1. Historia clínica y exploración física Es importante definir la cronología, la intensidad y la modalidad de la disnea, los síntomas acompañantes y los posibles desencadenantes. Los antecedentes personales y el tratamiento habitual orientan hacia el diagnóstico más probable. En el momento del examen físico, además de valorar los signos vitales y de gravedad (tabla 2), debe realizarse un examen completo incidiendo en el sistema cardiorrespiratorio. Sin embargo, la sensibilidad y especificidad de la exploración son limitadas, y la ausencia de signos patológicos no descarta enfermedad subyacente.
+332
+
+22. Disnea e insuficiencia respiratoria. Síndrome de distrés respiratorio agudo
+
+Tabla 1. Causas de la disnea aguda Vía aérea superior
+
+Cardíacas
+
+• Angioedema y anafilaxiaa • Infecciones faríngeas y cervicales
+profundas • Cuerpo extrañoa • Traumatismo cervical Pared torácica y pleura • Fracturas y volet costales • Neumotórax simple o a tensióna • Neumomediastino • Derrame pleural Pulmonares • EPOC agudizadab • Exacerbación asmáticab • Tromboembolismo pulmonarb • Infección respiratoriab • Síndrome de distrés respiratorio agudo • Hemorragia alveolar • Contusión pulmonar • Neoplasia pulmonar • Alveolitis alérgica extrínseca
+
+• Síndrome coronario agudo • Insuficiencia cardíaca descompensadab
+y edema agudo de pulmón • Taponamiento cardíacoa • Arritmiasa Neurológicas • Accidente cerebrovascular agudo • Neuromusculares (Guillain-Barré, ELA,
+EM, miastenia gravis y botulismo)
+Tóxico-metabólicas • Sepsis • Anemia aguda • Cetoacidosis diabética • Tirotoxicosis • Intoxicación por CO, salicilatos,
+organofosforados, metanol y etilenglicol Miscelánea • Síndrome torácico agudo (drepanocitosis) • Procesos intraabdominales y ascitis • Hiperventilación y ansiedad
+
+CO: monóxido de carbono; ELA: esclerosis lateral amiotrófica; EM: esclerosis múltiple; EPOC: enfermedad pulmonar obstructiva crónica. a Causas graves potencialmente reversibles. b Causas más frecuentes.
+
+Tabla 2. Signos de gravedad en la disnea aguda
+• Hipertensión o hipotensión extremas • Desaturación progresiva • Taquipnea extrema (> 40 rpm) • Alteración del estado mental (agitación, confusión o somnolencia) • Habla entrecortada e intolerancia al decúbito • Diaforesis, cianosis y mala perfusión periférica • Dolor torácico y síncope • Empleo de musculatura accesoria y respiración abdominal
+
+1.1.2. Pruebas complementarias
+Se han de realizar de forma dirigida en función de la sospecha clínica, aunque los análisis de laboratorio básicos, la radiografía de tórax y el electrocardiograma (ECG) están indicados en la gran mayoría de los casos:
+• Monitorización cardiorrespiratoria: imprescindible en situaciones de gravedad. • ECG. • Pulsioximetría, gasometría arterial (GA) o venosa. • Radiografía de tórax. • Biomarcadores: troponinas para el diagnóstico de síndrome coronario agudo, pépti-
+dos natriuréticos BNP o NT-proBNP en caso de IC y D-dímeros ante una probabilidad baja-intermedia de tromboembolismo pulmonar (TEP) (por su elevado valor predic-
+
+333
+
+Manual de Diagnóstico y Terapéutica Médica
+
+tivo negativo en estos casos). Se ha de tener en cuenta que los péptidos natriuréticos pueden elevarse en situaciones de sobrecarga de volumen distintas de la IC y que sus puntos de corte (tabla 3) se deben reducir un 50% en pacientes con obesidad. • Tomografía computarizada (TC) torácica, angio-TC torácica o gammagrafía de ventilación/perfusión (V/Q). • Ecografía clínica: puede orientar el diagnóstico de manera más rápida que otras pruebas complementarias y se realiza a pie de cama, lo que supone una ventaja en pacientes inestables.
+
+Tabla 3. Puntos de corte de los péptidos natriuréticos BNP y NT-proBNP en la insuficiencia cardíaca
+
+BNP (pg/dl) IC improbable
+
+IC probable
+
+NT-proBNP (pg/dl) IC improbable IC probable
+
+IC aguda < 100
+
+> 400
+
+< 300
+
+< 50 años: > 450 50-70 años: > 900 > 70 años: > 1.800
+
+IC crónica < 35
+
+> 150
+
+< 125
+
+> 600
+
+1.2. Disnea crónica
+
+Es la disnea que dura más de 4-8 semanas; sus causas se exponen en la tabla 4. En ausencia de una enfermedad cardiopulmonar evidente que explique los síntomas, no está claro cuál es el mejor esquema diagnóstico. En función de la sospecha, se
+
+Tabla 4. Causas de la disnea crónica
+
+Vía aérea superior
+• Masas cervicales o laríngeas • Parálisis de cuerdas vocales • Bocio
+
+Cardíacas
+• Cardiopatías • Insuficiencia cardíaca* • Arritmias • Enfermedad coronaria crónica • Valvulopatías • Pericarditis constrictiva o derrame pericárdico • Shunt intracardíaco
+
+Pared torácica y pleura
+• Parálisis diafragmática • Cifoescoliosis • Derrame pleural • Síndrome obesidad-hipoventilación*
+
+Neuromusculares
+• Plexopatía braquial • ELA • Miastenia gravis • Enfermedades mitocondriales • Polimiositis/dermatomiositis
+
+Pulmonares
+• EPOC* • Asma* • Bronquiectasias o bronquiolitis • Enfermedades intersticiales* • Enfermedad tromboembólica crónica • Hipertensión pulmonar • Shunt pulmonar derecha-izquierda • Masa pulmonar compresiva • Pulmón atrapado
+
+Tóxico-metabólicas
+• Anemia • Acidosis metabólica • Enfermedad tiroidea • Insuficiencia renal
+Miscelánea
+• Reflujo gastroesofágico • Procesos intraabdominales o ascitis • Hiperventilación o ansiedad • Desacondicionamiento físico*
+
+ELA: esclerosis lateral amiotrófica; EPOC: enfermedad pulmonar obstructiva crónica. * Causas más frecuentes.
+
+334
+
+22. Disnea e insuficiencia respiratoria. Síndrome de distrés respiratorio agudo
+
+propone un estudio en etapas o escalones: valoración clínica, pruebas complementarias ­iniciales, estudios más complejos y estudios avanzados.
+
+1.2.1. Historia clínica y exploración física
+Es importante recoger la cronología de la disnea (tiempo de evolución, patrón temporal y progresión), sus desencadenantes, intensidad (empleando escalas como la Modified Medical Research Council [mMRC], la escala de Borg o la New York Heart Association [NYHA]), síntomas asociados, exposición previa al tabaco e historia ocupacional, así como el uso de fármacos. Se debe realizar una exploración completa, haciendo hincapié en la vía aérea superior y el tórax.
+
+1.2.2. Estudios iniciales
+a) Laboratorio: gasometría (generalmente arterial), hemograma, bioquímica básica con tirotropina (TSH) y péptidos natriuréticos (BNP o NT-proBNP). Permite descartar anemia, causas metabólicas, hipercapnia, trastornos tiroideos y causas cardiogénicas.
+b) Pulsioximetría: tanto en reposo como durante el esfuerzo (la prueba estandarizada más accesible es el test de la marcha de 6 minutos).
+c) Radiografía de tórax: se debe tener en cuenta que un resultado normal no descarta patología.
+d) ECG: si es completamente normal y el BNP/NT-proBNP es bajo, resulta improbable que el origen de la disnea sea cardíaco.
+e) Espirometría con/sin test broncodilatador (tabla 5): el patrón obstructivo es típico (aunque no exclusivo) de la enfermedad pulmonar obstructiva crónica (EPOC) y del asma. Habitualmente en el asma existe reversibilidad con broncodilatadores (incremento del volumen espiratorio forzado en el primer segundo [FEV1] > 12% y > 200 ml), a diferencia de la EPOC. El patrón restrictivo puede ser parenquimatoso (enfermedad intersticial pulmonar) o extraparenquimatoso (enfermedad pleural, trastornos de la caja torácica, obesidad o enfermedad neuromuscular).
+
+Tabla 5. Interpretación de las pruebas de función pulmonar
+
+Patrón Normal
+
+FEV1/ CVF > 0,7 o > p5
+
+CVF
+
+CPT
+
+80-120% 80-120%
+
+VR 80-120%
+
+DLCO 80-120%
+
+N
+
+N
+
+N
+
+Obstructivo ↓
+
+N o ↓ (enfisema)

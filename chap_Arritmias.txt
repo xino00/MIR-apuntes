@@ -1,0 +1,810 @@
+AUTORAS:
+Ana Pérez Asensio. Cardiología. Nuria Valdeolivas Hidalgo. Medicina Interna.
+ASESOR:
+Adolfo Fontenla Cerezuela. Cardiología.
+1. TAQUIARRITMIAS
+1.1. Concepto y clasificación Se denomina taquicardia a una frecuencia cardíaca (FC) mayor de 100 lpm. Según su origen, se puede clasificar en:
+• Taquicardia supraventricular (TSV): se origina por encima del haz de His (aurículas y/o nodo auriculoventricular [NAV]).
+• Taquicardia ventricular (TV): se desarrolla en el tejido ventricular. Se puede producir por tres mecanismos: reentrada, automatismo aumentado y actividad desencadenada por pospotenciales.
+1.2. Clínica Es variable y depende de la FC, la duración de la taquicardia, la edad del paciente, la función ventricular (fracción de eyección del ventrículo izquierdo [FEVI]), etc. Los síntomas más frecuentes son las palpitaciones, el mareo, el síncope y la disnea.
+1.3. Etiología Se debe interrogar al paciente sobre el inicio y el fin del episodio (brusco o progresivo), la existencia de cardiopatía estructural previa (la cardiopatía isquémica y las miocardiopatías predisponen al desarrollo de arritmias ventriculares), historia arrítmica previa (ya que es frecuente la recurrencia), fármacos potencialmente proarrítmicos y síntomas asociados.
+En todos los casos se han de buscar posibles desencadenantes (infección, hipoxia, anemia, enfermedad tiroidea, etc.) con ayuda de un estudio analítico (que incluya ionograma, función renal, hormonas tiroideas y hemoglobina) y un ecocardiograma transtorácico (ETT) para valorar la presencia de cardiopatía estructural.
+1.4. Diagnóstico diferencial y abordaje terapéutico inicial Lo primero que se debe hacer es monitorizar al paciente y determinar su situación hemodinámica. Si está inestable hemodinámicamente, se llevará a cabo una cardioversión eléctrica (CVE) urgente o desfibrilación; si está estable, se pueden realizar maniobras diagnósticas (figura 1). Para llevar a cabo las maniobras diagnósticas resulta esencial disponer de un electrocardiograma (ECG) de superficie de 12 derivaciones y de una tira de ritmo para un adecuado diagnóstico diferencial y comparar siempre que sea posible con ECG previos. Durante el procedimiento se deben valorar de forma sistemática la FC, la regularidad
+216
+
+TAQUICARDIA
+
+INESTABILIDAD HD*: CVE URGENTE
+
+CÓMO REALIZAR UNA CARDIOVERSIÓN
+Preparación • Explicar el procedimiento y preguntar por alergias • Monitorizar • Canalizar 2 vías periféricas • Asegurar la proximidad del carro de paradas • Cama a 180° • Retirar prótesis dentales por si se requiere IOT • Oxigenoterapia a bajo ujo • Preparar palas o parches (los parches son de elección en mujeres con mamas
+voluminosas y en obesos)
+
+Sedación No es necesaria si hay pérdida de conocimiento
+
+Propofol i.v. 0,5-1 mg/kg/peso
+
+Alternativa: midazolam i.v. (2-3 mg
+
+(contraindicado en inestabilidad HD,
+
+iniciales y ajustar la dosis según
+
+TAS < 100 mmHg, disfunción ventricular
+
+respuesta) + etomidato 0,3 mg/kg
+
+grave o alergia al huevo)
+
+CVE/des brilación • Sincronización para cardioversión, no para des brilación (evita el fenómeno de R
+sobre T y la degeneración de la arritmia en la FV) • Selección de energía:
+Baja (50-100 J) para arritmias organizadas ( utter y TV monomorfa) Alta (150-200 J) para arritmias desorganizadas (FA) Máxima (360 J) para des brilación (TV polimorfa y FV) Si no es exitosa, intentar nuevamente con máxima energía o con parches en con guración anteroposterior • Carga y des brilación (asegurarse de que nadie está en contacto con el paciente)
+
+ESTABILIDAD HD: MANIOBRAS DIAGNÓSTICAS
+Maniobras vagales: Valsalva y masaje del seno carotídeo (contraindicado en enfermedad vascular carotídea)
+Fármacos que bloquean el NAV: adenosina i.v. (1.er bolo de 6 mg i.v.; si no es efectivo, repetir en 1-2 min un 2.º bolo de 12 mg i.v., y si no es efectivo, administrar un 3.er bolo de 18 mg i.v.) o ATP i.v. (1.er bolo de 10 mg i.v.; si no es efectivo, 2.º bolo de 20 mg i.v., y si no es efectivo, 3.er bolo de 30 mg i.v.). Vida media de 20-30 s. Contraindicado en sospecha de preexcitación o broncoespasmo grave. Pueden producir broncoespasmo (corregir con teo lina i.v.), vasodilatación y dolor torácico transitorio
+Diagnóstico diferencial de las taquicardias según la respuesta:
+• Sin efecto: dosis insu ciente o TV • Enlentecimiento y reaceleración: taquicardia sinusal, taquicardia
+auricular y JET • Fin brusco: taquicardia intranodal, taquicardia por vía accesoria y TV
+adenosín sensible • Persistente con BAV de alto grado: utter y FA
+
+ATP: adenosintrifosfato; BAV: bloqueo auriculoventricular; CVE: cardioversión eléctrica; FA: fibrilación auricular; FV: fibrilación ventricular; HD: hemodinámica; IOT: intubación orotraqueal; JET: taquicardia de la unión; NAV: nodo auriculoventricular; TAS: tensión arterial sistólica; TV: taquicardia ventricular. * La definición de inestabilidad HD es la presencia de datos de hipoperfusión.
+Figura 1. Manejo inicial de una taquiarritmia según la estabilidad hemodinámica.
+
+16. Arritmias 217
+
+Manual de Diagnóstico y Terapéutica Médica
+de la taquicardia, la correlación de los complejos QRS y de las ondas P (si hay predominio de ondas P o QRS, la posición de la onda P respecto al QRS y la constancia o variabilidad del PR) y la longitud del QRS y su morfología (figura 2). Cuando el QRS es ancho, el objetivo primario es identificar si se trata de una TV o de una TSV con conducción aberrante, ya que su tratamiento es muy diferente. Para diferenciarlo se usan los criterios expuestos en la tabla 1 pero, en caso de duda, una taquicardia de QRS ancho (independientemente de la tolerancia hemodinámica) debe tratarse como una TV.
+1.5. Taquicardias supraventriculares
+1.5.1. Taquicardia sinusal Tiene su origen en el nodo sinusal y se caracteriza por presentar ondas P sinusales (positiva en II, III, aVF, I y aVL; negativa en aVR) y FC en torno a 90-120 lpm (figura 3).
+
+Diagnóstico diferencial
+
+QRS estrecho vs. ancho
+
+Regular vs. irregular
+
+N.º de aurículas/ ventrículos (P/QRS)
+
+Intervalo RP
+
+RR regular RR irregular
+
+QRS estrecho Taquicardia sinusal Taquicardia auricular focal Taquicardia por reentrada intranodal Taquicardia mediada por vía accesoria ortodrómica Flutter auricular JET Fibrilación auricular Taquicardia auricular multifocal TSV con conducción variable
+
+QRS ancho Taquicardia ventricular monomorfa Taquicardia mediada por vía accesoria antidrómica TSV conducida con aberrancia o bloqueo de rama
+Taquicardia ventricular polimorfa FA preexcitada, conducida con aberrancia o bloqueo de rama TSV con conducción variable conducida con aberrancia o bloqueo de rama
+
+P > QRS FA Flutter auricular Taquicardia auricular focal
+
+QRS > P TV JET
+
+QRS = P TRIN Taquicardia por vía accesoria Taquicardia auricular focal TV JET
+
+RP corto (RP’ < PR, RP < 90 ms) TRIN típica Taquicardia ortodrómica JET Taquicardia auricular focal
+
+RP largo (RP’ > PR) Taquicardia ortodrómica por vía accesoria de conducción lenta (Coumel) TRIN atípica Taquicardia auricular focal
+
+FA: fibrilación auricular; JET: taquicardia no paroxística de la unión; TRIN: taquicardia por reentrada intranodal; TSV: taquicardia supraventricular; TV: taquicardia ventricular.
+Figura 2. Diagnóstico diferencial de las taquiarritmias.
+
+218
+
+16. Arritmias
+
+Tabla 1. Criterios para identificar una taquicardia ventricular
+
+Criterios ECG de TV
+
+Algoritmo Brugada (si ≥ 1 es una TV)
+
+• Disociación AV • Capturas y fusiones • Concordancia del QRS
+en precordiales • BRD: QRS > 140 ms • BRI: QRS > 160 ms • Desviaciones extremas
+del eje o eje superior y BRD • Cambio de polaridad del QRS respecto al ECG basal
+
+• Ausencia de RS en precordiales
+• RS en precordial > 100 ms • Disociación AV • Estudio de la morfología
+del bloqueo de rama
+
+Disociación AV: disociación entre los QRS y las ondas P
+
+Captura: un QRS normal dentro de la taquicardia
+
+Algoritmo Vereckei (si ≥ 1 es una TV)
+• R inicial en aVR • Q o R inicial > 40 ms
+en aVR • Notch (escotadura)
+en rama descendente de un complejo predominantemente negativo en aVR • Vi/Vf ≤ 1 (ratio entre la excursión vertical en mV durante los 40 ms iniciales y los 40 ms finales del QRS) Fusión: un QRS de morfología intermedia
+
+AV: auriculoventricular; BRD: bloqueo de rama derecha; BRI: bloqueo de rama izquierda; ECG: electrocardiograma; RS: ritmo sinusal; TV: taquicardia ventricular.
+
+Figura 3. Taquicardia sinusal.
+Generalmente es secundaria a una causa fisiológica (p. ej., ejercicio físico) o patológica (anemia, fiebre, hipertiroidismo, ansiedad, etc.). El tratamiento es el de la causa desencadenante. Raramente se trata de una taquicardia sinusal inapropiada, cuyo tratamiento de elección consiste en betabloqueantes y/o ivabradina.
+1.5.2. Taquicardia auricular
+Es una taquiarritmia que presenta ondas P no sinusales con onda isoeléctrica entre ellas, cuya morfología depende del punto en el que se origine la despolarización (tabla 2). Su frecuencia es de 130-220 lpm, con frecuencia ventricular variable en función de la conducción a los ventrículos. Suele tener un comportamiento paroxístico o incesante y se caracteriza por presentar fenómenos de calentamiento y enfriamiento (inicio y fin progresivos). Con maniobras vagales o adenosina/adenosintrifosfato (ATP) se reduce la respuesta ventricular, pero habitualmente no se interrumpe la taquicardia. Pueden distinguirse dos tipos: unifocal y multifocal. En las primeras, si son recurrentes se recomienda la ablación; en el resto de casos son útiles los frenadores del NAV (betabloqueantes, calcioantagonistas no dihidropiridínicos, etc.). La CVE no suele resultar eficaz.
+219
+
+Manual de Diagnóstico y Terapéutica Médica
+
+Tabla 2. Taquicardias auriculares focal y multifocal
+
+Taquicardia auricular focal
+
+Onda P de morfología constante
+
+Taquicardia auricular multifocal
+
+Ondas P de ≥ 3 morfologías diferentes con intervalos PP y RR irregulares
+
+1.5.3. Taquicardia por reentrada intranodal
+Es una taquiarritmia supraventricular producida por un mecanismo de reentrada en el NAV. El sustrato anatomicofuncional consiste en la existencia de dos vías de conducción con velocidades de conducción y períodos refractarios distintos. Es la TSV paroxística más frecuente (especialmente en mujeres de edad media) y suele presentarse como palpitaciones de inicio y fin brusco en el cuello que se interrumpen con la administración de adenosina. Existen dos tipos: taquicardia por reentrada intranodal (TRIN) típica y atípica (tabla 3).
+Hay que individualizar el tratamiento en función de la frecuencia y la repercusión clínica de los episodios. En algunos casos puede ser suficiente la realización de maniobras vagales o tratamiento farmacológico durante las crisis (adenosina/ATP). En recurrencias frecuentes se recomienda la ablación (exitosa en el 97% de los casos y con < 1% de bloqueo auriculoventricular [BAV]) o el uso de fármacos frenadores del NAV o fármacos antiarrítmicos (FAA) del grupo Ic.
+
+Tabla 3. Taquicardia por reentrada intranodal típica y atípica
+
+Circuito
+
+Aurículas -> ventrículos
+
+Ventrículos -> aurículas
+
+Electrocardiograma
+
+Típica (más frecuente)
+
+Vía lenta
+
+Vía rápida
+
+Los QRS y las ondas P retrógradas se superponen, por lo que las ondas P pueden no ser visibles o deformar ligeramente la porción final del QRS produciendo una pseudo-S en II, III y aVF o pseudo-r´ en V1
+
+Atípica
+
+Vía rápida
+
+Vía lenta
+
+Ondas P retrógradas con un RP largo, negativas en cara inferior y V6 y positivas en V1
+
+220
+
+16. Arritmias
+1.5.4. Taquicardia auriculoventricular mediada por vía accesoria
+Es una taquicardia producida por la presencia de fibras de conducción anormales que conectan eléctricamente aurículas y ventrículos formando circuitos de reentrada. Se trata de un trastorno congénito, por lo que resulta más frecuente en niños y adultos jóvenes, la mayoría sin cardiopatía estructural, aunque se puede asociar a cardiopatías como el Ebstein, donde pueden coexistir múltiples vías accesorias.
+Si la vía accesoria tiene capacidad de conducción anterógrada, origina en el ECG en ritmo sinusal un patrón de preexcitación, que puede ser intermitente, caracterizado por PR corto, onda delta y QRS ancho (por el inicio de la activación ventricular más precoz a través de la vía accesoria con la porción final dependiente del sistema de conducción normal). Si solo tiene capacidad de conducción retrógrada, el ECG en ritmo sinusal es normal y se habla de una vía accesoria oculta. La mayoría de las vías tienen capacidad para conducir bidireccionalmente y su localización más frecuente es el anillo mitral o la pared libre del ventrículo izquierdo. Existen distintos algoritmos para su localización (figura 4). Algunas vías poseen propiedades decrementales, como la de Coumel (vía posteroseptal con conducción retrógrada exclusiva) y la de Mahaim (conexión entre la aurícula derecha y la rama derecha con conducción anterógrada exclusiva).
+La mayoría de los pacientes con vías accesorias no tendrán eventos. Para decidir el manejo es necesario valorar el riesgo de muerte súbita mediante un Holter de 24 h, una ergometría y normalmente un estudio electrofisiológico (EEF). Las vías con preexcitación intermitente o que no preexcitan durante el ejercicio se consideran de bajo riesgo. En cambio, se consideran vías de alto riesgo (con indicación de ablación) en las siguientes situaciones: pacientes jóvenes, deportistas, profesiones de riesgo, vías múltiples, vía con conducción anterógrada rápida, inducibilidad de taquicardia en el EEF, etc.
+Cuando la vía accesoria produce taquicardia se habla del síndrome de Wolf-ParkinsonWhite (WPW). Las taquicardias se suelen desencadenar por una extrasístole auricular o ventricular con conducción ortodrómica o antidrómica (tabla 4) y se interrumpen con adenosina. Tras el episodio se recomienda la ablación de la vía.
+La presencia de una vía accesoria puede favorecer la conducción rápida a los ventrículos de cualquier TSV, dando lugar a una TSV preexcitada (de QRS ancho), como en el caso de la fibrilación auricular (FA) preexcitada (figura 5A). Están contraindicados los frenadores del NAV y la amiodarona por el riesgo de favorecer la conducción por la vía accesoria con degeneración de la arritmia en la fibrilación ventricular (FV).
+
+QRS en V1
+
++
+
+–
+
+Transición en precordiales
+
+V2-V3
+
+V4-V6
+
+QRS en AvF
+
++
+
+–
+
+Izquierda
+
+Derecha
+
+Septal
+
+Lateral
+
+Anterior
+
+Posterior
+
+Figura 4. Patrón de preexcitación y algoritmo para localizar la vía accesoria.
+
+221
+
+Manual de Diagnóstico y Terapéutica Médica
+
+Tabla 4. Taquicardia auriculoventricular mediada por vía accesoria ortodrómica y antidrómica
+
+Circuito
+
+Aurículas -> ventrículos
+
+Ventrículos -> aurículas
+
+Electrocardiograma
+
+Ortodrómica (más
+frecuente)
+
+A través del nodo auriculoventricular
+
+Por vía accesoria
+
+El QRS es estrecho salvo si hay un bloqueo de rama preexistente o se desarrolla durante la taquicardia. Los QRS y las ondas P retrógradas se superponen
+
+Antidrómica
+
+Por vía accesoria
+
+A través del NAV
+
+QRS ancho y RP largo
+
+Figura 5A. Fibrilación auricular preexcitada.
+1.5.6. Fibrilación auricular 1.5.6.1. Definición y epidemiología Es una taquiarritmia caracterizada por una despolarización auricular desorganizada y una contracción auricular inefectiva. En el ECG se reconoce por la ausencia de ondas P, actividad auricular irregular (ondas f) e intervalos R-R irregulares (salvo si hay BAV asociado) (figura 5B). Es la arritmia más frecuente en adultos (prevalencia del 2-4%) y asocia una importante morbimortalidad, con un aumento de 1,5-3 veces la mortalidad, 5 veces el riesgo de ictus y 3 veces la incidencia de insuficiencia cardíaca. Los factores de riesgo para su desarrollo y recurrencia se describen en la tabla 5. 1.5.6.2. Nomenclatura a) FA clínica vs. subclínica: FA clínica es la documentada en un ECG de 12 derivaciones
+o en una tira de ritmo de 30 s. Se consideran subclínicas todas las demás (detectadas por un dispositivo implantable o un reloj de monitorización).
+Figura 5B. Fibrilación auricular.
+222
+
+16. Arritmias
+
+Tabla 5. Factores de riesgo de desarrollo y recurrencia de la fibrilación auricular
+
+Factores de riesgo para desarrollar FA
+
+Factores de riesgo de recurrencia de FA
+
+Mayor edad, sexo masculino, etnia caucásica, HTA, DM, dislipemia, insuficiencia cardíaca, enfermedad coronaria, enfermedad valvular, obesidad, insuficiencia renal crónica, ejercicio de alta intensidad, hipertiroidismo, etc.
+
+Edad avanzada, cardiopatía, dilatación de la aurícula izquierda, insuficiencia renal crónica, cardioversión previa, EPOC y desencadenante no resuelto
+
+DM: diabetes mellitus; EPOC: enfermedad pulmonar obstructiva crónica; FA: fibrilación auricular; HTA: hipertensión arterial.
+
+b) Según la duración: FA de novo, FA paroxística (< 7 días), FA persistente (≥ 7 días y < 12 meses, bajo estrategia de control de ritmo), FA persistente de larga duración (> 12 meses de duración en estrategia de control de ritmo) y FA permanente (en estrategia de control de frecuencia).
+c) Según los síntomas: para la valoración de los síntomas se emplea la clasificación de la European Heart Rhythm Association (EHRA): 1: ausencia de síntomas, 2: síntomas leves, 3: síntomas severos o que afectan a la vida diaria y 4: síntomas incapacitantes.
+d) FA valvular o no valvular: se considera valvular en presencia de prótesis valvular mecánica o estenosis mitral moderada o severa.
+
+1.5.6.3. Tratamiento
+a) De los síntomas: para su control se debe decidir entre una estrategia de control del ritmo o de la frecuencia (tabla 6).
+✓ Estrategia de control del ritmo • CVE o cardioversion farmacológica (CVF): hay que conocer el tiempo de evolución del actual episodio de FA, así como el estado de anticoagulación del paciente, para poder tomar la decisión (figura 6). En pacientes inestables la cardioversión debe ser eléctrica. Se puede realizar farmacológicamente en la FA de reciente comienzo (preferiblemente si ≤ 7 días de evolución) (tabla 7). Tras una cardioversion hay que anticoagular al paciente durante un mínimo de 4 semanas (salvo en FA de ≤ 24 h de duración y CHA2DS2VASc de 0 en hombres o de 1 en mujeres) y posteriormente mantenerlo según el CHA2DS2VASc. El pretratamiento con FAA aumenta las probabilidades de cardioversión exitosa, por lo que después de un primer intento fallido de CVE se puede realizar otro tras una impregnación con un FAA. • Fármacos antiarrítmicos (FAA): aumentan la probabilidad de mantener el ritmo sinusal. No se recomiendan tras un primer episodio de FA ni en FA paroxística poco recurrente y bien tolerada; se reservan para pacientes con episodios frecuentes, mal tolerados o con descompensaciones secundarias de su patología cardíaca. La elección del fármaco depende de las características del paciente (tabla 8). Todos los FAA son proarrítmicos, con el máximo riesgo durante las primeras semanas de uso. En caso de fracaso terapéutico se puede cambiar a otro FAA. • Ablación de venas pulmonares (AVP): superior a los FAA en la prevención de recurrencias de FA. Está indicada en FA paroxística con insuficiencia cardíaca, taquimiocardiopatía o disfunción ventricular y fracaso de FAA, y con menor nivel
+223
+
+Manual de Diagnóstico y Terapéutica Médica
+
+Tabla 6. Estrategia de control del ritmo frente a estrategia de control de la frecuencia
+
+Control del ritmo
+
+Control de la frecuencia
+
+Objetivo
+
+Mantenimiento del ritmo sinusal
+
+FA como ritmo cardíaco de base, con FC objetivo < 110 lpm (si hay taquimiocardiopatía o síntomas persistentes, el objetivo es < 80 lpm)
+
+De elección
+
+1.er episodio, desencadenante corregible, < 1 año de evolución, edad ≤ 70 años, poca comorbilidad, aurículas poco dilatadas, mal control de la frecuencia, FA preexcitada, ausencia de cardiopatía estructural, taquimiocardiopatía, insuficiencia cardíaca con FEVI reducida
+
+FA de larga evolución, escasa repercusión clínica, dilatación severa de la aurícula izquierda, edad avanzada y comorbilidad severa
+
+Métodos
+
+Cardioversión eléctrica o farmacológica, antiarrítmicos y ablación de venas pulmonares
+
+Frenadores del NAV o ablación del NAV y marcapasos
+
+FA: fibrilación auricular; FC: frecuencia cardíaca; FEVI: fracción de eyección del ventrículo izquierdo; NAV: nodo auriculoventricular.
+
+Inestable HD
+Estable HD
+
+CVE urgente
+
+Correctamente anticoagulado las 3 semanas
+previas
+
+Cardioversión
+
+FA de < 48 h de duración
+
+No anticoagulado o
+incorrectamente anticoagulado
+
+FA ≥ 48 h de duración o duración
+indeterminada
+
+Cardioversión precoz.
+De elección si < 24 h y CHA2DS2VASc bajo. Gran % de cardioversiones espontáneas por lo que se puede esperar hasta las 48 h (estrategia no inferior)
+
+Cardioversión tras ecocardiograma trasesofágico que descarte trombos intracavitarios. De elección si embolismo previo, estenosis mitral, o prótesis mecánica
+valvular.
+
+Si trombo intracavitario
+
+Cardioversión diferida tras 3 semanas de correcta anticoagulación
+CVE: cardioversión eléctrica; FA: fibrilación auricular; HD: hemodinámicamente.
+Figura 6. Algoritmo de decisión de cardioversión en la fibrilación auricular.
+
+224
+
+16. Arritmias
+
+Tabla 7. Cardioversión farmacológica en la fibrilación auricular
+
+Contraindicada
+
+Dosis
+
+Flecainida
+
+Cardiopatía estructural y FA preexcitada
+
+200-300 mg v.o.
+
+Vernakalant
+
+TAS < 100 mmHg, IAM < 1 mes, NYHA III-IV, insuficiencia cardíaca aguda, QT largo y estenosis aórtica severa
+
+3 mg/kg i.v. en 10 min Puede repetirse una segunda dosis de 2 mg /kg i.v. en 10 min, tras 15 min de espera
+
+– Amiodarona
+
+300 mg i.v. en 100 cc de SG al 5% en 30 min-1 h seguido de 900 mg i.v. en 250 cc de SG al 5% en 24 h
+
+FA: fibrilación auricular; IAM: infarto agudo de miocardio; SG: suero glucosado; TAS: tensión arterial sistólica.
+
+de evidencia, en FA persistente sin factores de riesgo de recurrencia. Requiere anticoagulación las 3 semanas previas o un ecocardiograma transesofágico que descarte trombos intracavitarios. La anticoagulación debe reanudarse el día del procedimiento si no hay incidencias hasta al menos 2 meses; después se mantendrá según el CHA2DS2VASc. Se recomienda mantener el tratamiento antiarrítmico durante 6-12 semanas para evitar recurrencias precoces. En pacientes que van a ser sometidos a cirugía cardíaca es posible realizar una ablación quirúrgica (ablación epicárdica de venas pulmonares).
+✓ Estrategia de control de la frecuencia
+La elección del fármaco se basa en las características del paciente (tabla 9). Los betabloqueantes y calcioantagonistas no dihidropiridínicos controlan la FC tanto en reposo como en ejercicio, mientras que la digoxina es menos eficaz en el ejercicio. Si la frecuencia no se controla adecuadamente con monoterapia, se ha de optar por estrategias combinadas (teniendo en cuenta que no se deben asociar betabloqueantes y calcioantagonistas no dihidropiridínicos por el riesgo de BAV).
+b) Prevención de eventos cardioembólicos
+✓ Anticoagulantes
+Es el único tratamiento que ha demostrado disminuir la mortalidad en la FA. Debe valorarse el riesgo isquémico y hemorrágico con las escalas de CHA2DS2VASc y HASBLED (tabla 10), y es fundamental su reevaluación periódica. Si el CHA2DS2VASc es de 1 o más en varones o de 2 o más en mujeres, se recomienda anticoagular independientemente del HASBLED (que sirve para guiar decisiones de doble y triple terapia en caso de FA y cardiopatía isquémica). Las contraindicaciones para la anticoagulación son: sangrado activo, plaquetopenia severa, anemia severa y sangrado reciente de alto riesgo (p. ej., intracraneal). El patrón temporal de la FA no debe tenerse en cuenta para la decisión de la anticoagulación. El mayor riesgo embólico tiene lugar en los períodos pericardioversión.
+Los fármacos anticoagulantes se recogen en la tabla 11 (ver cap. 87. Trastornos de la hemostasia. Anticoagulación).
+225
+
+Manual de Diagnóstico y Terapéutica Médica 226
+
+Tabla 8. Fármacos antiarrítmicos de mantenimiento
+
+Fármaco
+
+Sin cardiopatía estructural
+
+Flecainida v.o. Propafenona v.o.
+
+Con cardiopatía estructural (HVI moderada-severa, cardiopatía isquémica, valvulopatía y disfunción del VI)
+
+Amiodarona v.o. Dronedarona v.o. (de elección si hay toxicidad por amiodarona; contraindicada si existe disfunción del VI o uso de dabigatrán)
+
+ECG: electrocardiograma; HVI: hipertrofia ventricular izquierda; VI: ventrículo izquierdo.
+
+Dosis 100-200 mg/12 h 150-300 mg/8 h
+200 mg/8 h × 10 días, seguido de 200 mg/24 h 400 mg/12 h
+
+Consideraciones ECG a las 2 semanas Suspender si hay bloqueo de rama o ensanchamiento del QRS ≥ 25% ECG a las 4 semanas Suspender si QT ≥ 500 ms Monitorizar función renal, tiroidea y pulmonar
+
+Tabla 9. Estrategia de control de la frecuencia a corto y largo plazo
+
+De elección
+
+Contraindicado
+
+Agudo
+
+Crónico
+
+1.ª línea
+
+Betabloqueantes Calcioantagonistas no dihidropiridínicos
+
+HTA, IC crónica, cardiopatía isquémica y FEVI ≤ 40% Asma y EPOC severa
+
+IC aguda y broncoespasmo severo FEVI reducida
+
+Metoprolol i.v. 2,5 mg/5 min Verapamilo i.v. 2,5-10 mg/5 min
+
+Atenolol v.o. 25-100 mg/24 h Bisoprolol v.o. 2,5-10 mg/24 h Verapamilo v.o. 40-480 mg/24 h Diltiazem v.o. 60-360 mg/24 h
+
+2.ª línea
+
+Digoxina
+
+De elección: IC descompensada
+
+Digoxina i.v. 0,5 mg (máx. 1,5 mg)
+
+Digoxina v.o. 0,0625-0,25 mg/24 h (control de niveles plasmáticos para evitar intoxicación y reducción de dosis en ancianos y en insuficiencia renal o si hay uso de verapamilo)
+
+3.ª línea
+
+Amiodarona; implante de marcapasos y ablación del nodo auriculoventricular
+
+EPOC: enfermedad pulmonar obstructiva crónica; FEVI: fracción de eyección del ventrículo izquierdo; HTA: hipertensión arterial; IC: insuficiencia cardíaca.
+
+16. Arritmias
+
+Tabla 10. Escalas CHA2DS2VASc y HASBLED
+
+CHA2DS2VASc
+
+HASBLED
+
+C 	Cardiopatía: insuficiencia cardíaca, disfunción moderada o severa del VI o MCH
+H Hipertensión arterial A2 Edad ≥ 75 años D Diabetes mellitus S2 Ictus, AIT o tromboembolismo V 	Vasculopatía: arteriopatía periférica
+o cardiopatía isquémica A ≥ 65 años Sc Sexo femenino (1 punto cada factor, menos A2 y S2, que añaden 2 puntos)
+
+H Hipertensión arterial (TAS ≥ 160 mmHg) A 	Alteración de la función renal (creatinina
+≥ 2 mg/dl, diálisis o trasplante renal) o hepática (bilirrubina x1 LSN y AST/ALT x3 LSN). 1 punto cada uno S Ictus B 	Sangrado previo (hemorragia mayor, anemia severa y trombocitopenia severa) L INR lábil (TRT < 60%) E Edad ≥ 65 años D 	Fármacos (antiplaquetarios y AINE) o alcohol. 1 punto por cada uno (1 punto cada factor)
+
+Bajo riesgo trombótico: varón con 0 puntos y mujer con ≤ 1 punto
+
+Alto riesgo hemorrágico: ≥ 3 puntos
+
+AINE: antiinflamatorios no esteroideos; AIT: accidente isquémico transitorio; ALT: alanino aminotransferasa; AST: aspartato aminotransferasa; INR: razón internacional normalizada; LSN: límite superior de la normalidad; MCH: miocardiopatía hipertrófica; TAS: tensión arterial sistólica; TRT: tiempo en rango terapéutico; VI: ventrículo izquierdo.
+
+✓ Cierre de orejuela: normalmente se realiza de forma percutánea y está indicado en pacientes con contraindicación de los antic­ oagulantes o en embolismo pese a una correcta anticoagulación. En el ictus recurrente se debe mantener la anticoagulación a pesar de utilizar esta estrategia. En caso de contraindicación de los anticoagulantes se aconseja dejar con anti­agregación un mínimo de 6 meses. El cierre de orejuela de forma quirúrgica se puede realizar en casos seleccionados durante intervenciones cardíacas por otro motivo.
+
+Tabla 11. Fármacos disponibles para anticoagulación
+
+Anticoagulantes de acción directa (dabigatrán, rivaroxaban, edoxabán
+y apixabán)
+
+Antivitamina K (acenocumarol y warfarina)
+
+Indicación
+
+De elección. No inferiores a los antivitamina K en la prevención de embolismo. Menor riesgo de sangrado mayor pero mayor riesgo de sangrado gastrointestinal
+
+Contraindicación de anticoagulantes de acción directa (insuficiencia renal severa o prótesis mecánica) Objetivo de INR 2-3 (2,5-3,5 si hay prótesis) y de TRT > 70%
+
+Contraindicación
+
+FA valvular, filtrado glomerular < 15 ml/min y Child-Pugh C
+
+FA: fibrilación auricular; INR: razón internacional normalizada; TRT: tiempo en rango terapéutico.
+
+227
+
+Manual de Diagnóstico y Terapéutica Médica
+
+1.5.7. Flutter auricular
+Es una taquiarritmia supraventricular caracterizada por un ritmo auricular rápido, regular y organizado visible en el ECG en forma de ondas monomorfas sin segmento isoeléctrico entre ellas con aspecto de «dientes de sierra», denominadas ondas F. La frecuencia de estas ondas suele estar en torno a 250-300 lpm, con una respuesta ventricular de unos 150 lpm al existir un bloqueo fisiológico 2:1 al nivel del NAV. La conducción puede ser más rápida de 1:1 (si existen vías accesorias o FAA que ralenticen las ondas F) o más lenta de 3:1 o 4:1 (si se usan frenadores del NAV o en enfermedad del sistema intrínseco de conducción). En algunos casos la respuesta ventricular puede ser irregular por conducción AV variable. Existen dos tipos: el flutter típico o ístmico (que puede ser común o inverso) y el atípico (tabla 12); la distinción entre ambos es importante porque tiene implicaciones terapéuticas. Se asocia a la exacerbación de la enfermedad pulmonar obstructiva crónica (EPOC) y al tromboembolismo pulmonar (TEP) y es frecuente su coexistencia con la FA.
+El tratamiento es superponible al de la FA, aunque con aspectos distintivos. La CVE sincronizada es muy eficaz y suficiente con energías bajas (50-100 J); por el contrario, la CVF es poco efectiva. En el flutter típico el tratamiento de elección para prevenir las recurrencias es la ablación del istmo cavotricúspide (exitoso en > 95% de los casos), mientras que en el atípico resulta más compleja. El control farmacológico del ritmo tiene un papel muy limitado; se pueden utilizar FAA de los grupos Ic y III, teniendo en cuenta que si se usan los primeros debe asociarse un frenador del NAV para evitar la conducción 1:1 y el flutter 1c. Cuando se opta por el control de la frecuencia, se pueden emplear los mismos fármacos que para la FA, aunque son menos eficaces. Los casos no susceptibles de ablación, con mal control de los síntomas, intolerancia al tratamiento antiarrítmico o inestabilidad hemodinámica, son subsidiarios de ablación del NAV con implante de marcapasos. Aunque presenta menor riesgo trombótico que la FA, se recomienda anticoagulación con la misma pauta.
+
+Tabla 12. Flutter típico y atípico
+Circuito de macrorreentrada alrededor del anillo tricúspide
+Flutter típico/ ístmico
+
+Común/antihorario
+
+Ondas F negativas en II, III, aVF, V5 y V6 y positivas en V1
+
+Inverso/horario
+
+ aVF
+Ondas F positivas en II, III, aVF, V5 y V6 y negativas en V1
+
+Flutter atípico
+
+Giro alrededor de otras estructuras auriculares o de cicatrices previas
+
+ V1
+Frecuencias superiores y ondas F con distinta polaridad, a menudo melladas
+ V1
+
+228
+
+16. Arritmias
+
+1.6. Taquicardias ventriculares
+Están compuestas por tres o más complejos de origen ventricular y pueden ser sostenidas (> 30 s o que produce inestabilidad hemodinámica) o no sostenidas. El 90% ocurren en pacientes con cardiopatía estructural, la mayoría en el contexto de una cardiopatía isquémica, pero también por canalopatías y miocardiopatías.
+
+1.6.1. Taquicardia ventricular monomorfa
+Es una TV regular con morfología constante (figura 7A).
+1.6.1.1. Taquicardia ventricular asociada a cardiopatía estructural
+Se produce por una macrorreentrada en áreas cicatriciales de los ventrículos. Su causa más frecuente es la cardiopatía isquémica, aunque también aparece en la miocardiopatía dilatada o la displasia arritmogénica del ventrículo derecho. El tratamiento del episodio agudo es la CVE o la CVF (tabla 13). Respecto al tratamiento crónico, los betabloqueantes son los únicos que han demostrado disminuir la muerte súbita. Para evitar las recurrencias se pueden emplear distintos FAA; la amiodarona es de elección si hay disfunción ventricular. También se puede realizar un EEF de inducción con ablación. Dado el riesgo que tiene de degenerar en FV, se debe valorar el implante de un desfibrilador (DAI).
+
+Tabla 13. Cardioversión farmacológica de una taquicardia ventricular monomorfa
+
+Procainamida
+
+7-10 mg/kg i.v. en 5-10 min (con posibilidad de repetir la dosis) + 1 g/250 cc SSF al 0,9% a 1-4 mg/min
+
+Amiodarona 300 mg/100 cc SG al 5% en 30 min-1 h + 900 mg/250 cc SG al 5% en 24 h
+
+Lidocaína
+
+1-1,5 mg/kg en 2-4 min (con posibilidad de repetir la dosis) + 2 g/250 cc SG al 5% a 1-4 mg/min
+
+SG: suero glucosado; SSF: suero salino fisiológico.
+
+1.6.1.2. Taquicardia ventricular idiopática
+Se da en pacientes sin cardiopatía estructural en relación con la liberación de catecolaminas y los cambios hormonales. Generalmente se tolera bien y es de buen pronóstico. El 80% se originan en el tracto de salida. Las más habituales son las del tracto de salida del ventrículo derecho (patrón en el ECG de bloqueo de rama izquierdo [BRI], positivas en la cara inferior y con transición en V3-V4). Menos frecuente es la TV fascicular. Las primeras son sensibles a la adenosina y las segundas al verapamilo, que actúan interrumpiendo el episodio agudo. En cuanto al tratamiento crónico, en ambas se recomienda la ablación.
+1.6.1.3. Ritmo idioventricular acelerado
+Es un ritmo ventricular con frecuencia de 60-100 lpm tras la reperfusión coronaria en el infarto agudo de miocardio (figura 7B). No se asocia a mal pronóstico ni requiere tratamiento. En caso de deterioro hemodinámico se puede utilizar atropina intravenosa.
+1.6.1.4. Taquicardia ventricular mediada por marcapasos
+Ocurre en dispositivos bicamerales cuando el estímulo ventricular del marcapasos alcanza retrógradamente la aurícula, generando una despolarización que es sensada por el dispositivo y produce una nueva estimulación ventricular (figura 7C). Se interrumpe mediante el uso de un imán y se previenen reprogramando los intervalos de funcionamiento del marcapasos.
+229
+
+Manual de Diagnóstico y Terapéutica Médica
+1.6.2. Taquicardia ventricular polimorfa Es una TV irregular con complejos QRS de morfología cambiante cuya frecuencia suele oscilar entre 200 y 250 lpm y que a menudo produce deterioro hemodinámico y degenera en FV (figura 7D). Su tratamiento es la desfibrilación. 1.6.2.1. Torsades de pointes Se trata de una TV en la que el eje del QRS oscila a lo largo del trazado en presencia de QT largo (figura 7E). Tras la desfibrilación se recomienda administrar sulfato de magnesio (1-2 g i.v. en 10 min, seguido de perfusión de 200-300 mg/h durante 4-8 h). La medición del QT se debe hacer en las derivaciones II o V5 y corregir con la fórmula de Bazzet (QTc = QR / √RR). El QT normal es inferior a 440 ms en hombres y a 460 ms en mujeres. En caso de que el QT largo sea adquirido (alteraciones hidroelectrolíticas [hipopotasemia, hipocalcemia o hipomagnesemia], por fármacos [antibióticos, antidepresivos o neurolépticos], por bradicardia o isquemia miocárdica), se debe taquicardizar al paciente mediante infusión de isoproterenol o implante de un marcapasos hasta que se resuelva el desencadenante. Si es congénito, el tratamiento consiste en betabloqueantes.
+(A)
+(B)
+(C)
+(D)
+(E)
+Figura 7. (A) Taquicardia ventricular monomorfa sostenida. (B) Ritmo idioventricular acelerado. (C) Taquicardia ventricular mediada por marcapasos. (D) Taquicardia ventricular polimorfa. (E) Torsades de pointes.
+230
+
+16. Arritmias
+1.6.2.2. Fibrilación ventricular Es una TV polimórfica en la que no se puede distinguir la despolarización de la repolarización miocárdica. Da lugar a una contracción ventricular ineficaz sin pulso (figura 8). Su tratamiento es la desfibrilación asociada a medidas de reanimación cardiopulmonar.
+Figura 8. Fibrilación ventricular.
+1.6.3. Tormenta arrítmica Se define como más de tres episodios de TSV, FV o choques por DAI en 24 h. Son factores de riesgo la edad avanzada, la disfunción ventricular, la insuficiencia cardíaca avanzada (NYHA III-IV) y la insuficiencia renal crónica. Los posibles desencadenantes son la isquemia, la insuficiencia cardíaca, las alteraciones iónicas, las infecciones y los FAA. Tiene una elevada mortalidad y es fundamental el tratamiento del desencadenante. En caso de inestabilidad hemodinámica debe realizarse una CVE urgente, con adición secuencial de FAA (de primera elección es la amiodarona, pero se pueden utilizar también procainamida y lidocaína), fármacos sedantes (midazolam) y betabloqueantes intravenosos (esmolol). En casos resistentes hay que valorar la sedación profunda e intubación.
+1.7. Extrasístoles Se trata de contracciones cardíacas prematuras que se adelantan a la FC de la persona. Según su origen se distinguen:
+1.7.1. Extrasístoles auriculares Su presencia determina un alto riesgo de futuras arritmias auriculares, por lo que se recomienda intensificar los programas de detección de FA. Si son asintomáticas no precisan tratamiento, pero si son sintomáticas son de elección los betabloqueantes (figura 9A).
+1.7.2. Extrasístoles ventriculares Siempre se debe descartar la presencia de cardiopatía estructural mediante un ETT. Para su localización existen distintos algoritmos. Aquellas con morfología de BRI proceden del lado derecho o septo y las que tienen morfología de bloqueo de rama derecha (BRD), del lado izquierdo. Está indicado tratar las sintomáticas, las de elevada frecuencia diaria, las formas complejas, las que tienen distintas morfologías, etc. El tratamiento de elección consiste en betabloqueantes. Se puede realizar una ablación si no se controlan (figura 9B).
+231
+
+Manual de Diagnóstico y Terapéutica Médica
+(A)
+(B)
+Figura 9. (A) Extrasístoles auriculares. (B) Extrasístoles ventriculares.
+1.8. Canalopatías arritmogénicas
+1.8.1. Síndrome de QT largo congénito Es una enfermedad genética caracterizada por un intervalo QT largo que predispone a torsades de pointes. Existen distintos tipos, de los que el más frecuente es el 1 (figura 10A). Tiene riesgo de desarrollar TV durante el ejercicio. El tratamiento de primera línea consiste en betabloqueantes. Es fundamental estratificar el riesgo de muerte súbita de cara a valorar el implante de un DAI. Es alto con un QT mayor de 600 ms, alternancia de la onda T, síncopes recurrentes, antecedentes familiares de muerte súbita o determinadas mutaciones.
+1.8.2. Síndrome de Brugada Es una canalopatía arritmogénica que predispone a taquicardia ventricular polimorfa (TVP) y FV. Es más frecuente en varones y en el sudeste asiático y se debe a mutaciones en distintos genes (la más frecuente, en el gen SNC5A). Existen tres patrones clásicos en el ECG, de los que solo el primero es diagnóstico, y muestra una imagen de BRD y elevación del segmento ST superior a 2 mm en forma de «lomo de delfín», con onda T negativa en V1-V2 (el patrón puede ser espontáneo o tras un test de provocación farmacológica con ajmalina o flecainida) (figura 10B). Generalmente los pacientes están asintomáticos hasta los 40 años. Los eventos arrítmicos más frecuentes se dan durante el sueño, en episodios febriles, con el uso de FAA del grupo I y con el consumo de cocaína o alcohol. El tratamiento farmacológico agudo es con isoproterenol y el crónico con quinidina. Están contraindicados los FAA del grupo Ic y los betabloqueantes. Es fundamental la estratificación del riesgo de muerte súbita para valorar el implante de un DAI.
+1.8.3. Taquicardia ventricular polimorfa catecolaminérgica Son TVP o bidireccionales desencadenadas por la liberación de catecolaminas. Se asocian a mutaciones en RYR2 o CPVT2, que aumentan el automatismo adrenérgico. Aparecen en la infancia y adolescencia. La mejor prueba diagnóstica es la ergometría. Su tratamiento de elección consiste en betabloqueantes y está recomendado el implante de un DAI.
+1.8.4. Síndrome de repolarización precoz La repolarización precoz es un patrón de ECG caracterizado por la elevación del punto J 1 mm o más en al menos dos derivaciones adyacentes con una morfología mellada (figura 10C). Es frecuente en la población general, sobre todo en varones jóvenes (el patrón desaparece con la edad), atletas, afroamericanos y en situaciones vagales. Pre-
+232
+
+16. Arritmias
+(A)
+(B)
+(C)
+Figura 10. (A) Síndrome de QT largo de tipo 1. (B) Síndrome de Brugada. (C) Repolarización precoz.
+domina en las caras lateral e inferior, aunque puede ser global. En general es benigno. El síndrome de repolarización precoz consiste en la asociación del patrón de repolarización precoz con episodios de FV idiopática o muerte súbita. Es fundamental la estratificación del riesgo, que es mayor si el patrón se da en la cara inferolateral, la elevación del punto J es mayor de 2 mm y la pendiente del ST, descendente u horizontal. El tratamiento preventivo es el DAI.
+2. BRADIARRITMIAS 2.1. Concepto Se denomina bradicardia a un ritmo cardíaco con una frecuencia menor de 60 lpm. 2.2. Clínica Pueden ser asintomáticas o manifestarse con una amplia variedad de síntomas: mareo, aturdimiento, vértigo, presíncope, síncope, disnea, letargia, etc. 2.3. Diagnóstico diferencial y abordaje terapéutico inicial Ante una bradiarritmia lo primero que se debe valorar es si el paciente está hemodinámicamente estable y si presenta síntomas derivados de ella. Resulta esencial disponer de un ECG de superficie de 12 derivaciones y una tira de ritmo para un adecuado diagnóstico diferencial (figura 11). Se debe valorar la presencia de ondas P, su correlación con el QRS y, en el caso de bloqueos completos, la anchura de este (cuanto más ancho, más bajo es el ritmo de escape y, por tanto, mayor el riesgo de progresión a asistolia). De cara a determinar si el escape es supra- o infrahisiano, es importante comparar con el QRS basal del paciente. Se deben buscar siempre causas reversibles (las alteraciones iónicas y los fármacos son las más frecuentes), sin olvidar la isquemia miocárdica (BAV completo en el contexto de un infarto de miocardio [IAM] inferior). Asimismo, hay que interrogar al paciente por cardiopatía estructural y realizar una radiografía de tórax y un ecocardiograma. En la figura 12 se muestra el manejo inicial de las bradicardias de alto grado.
+233
+
+Manual de Diagnóstico y Terapéutica Médica 234
+
+Bradicardias
+
+Hay ondas P
+
+No hay ondas P/ondas P < QRS
+
+P = QRS
+
+P > QRS
+
+Bradicardia sinusal
+
+PR largo
+
+Relación P-QRS
+
+BAV 1.er grado
+Variable (alargamiento
+de PR)
+
+Fija (PR constante)
+
+BAV 2.º grado tipo 1
+
+BAV 2.º grado tipo 2
+
+BAV: bloqueo auriculoventricular. Figura 11. Diagnóstico diferencial de la bradicardia.
+
+Ausente
+
+QRS rítmico
+
+Estrecho
+
+Ancho
+
+Escape nodal
+
+Escape ventricular
+
+BAV 3.er grado
+
+QRS arrítmico
+
+Con ondas P
+
+Sin ondas P
+
+Bradicardia sinusal con extrasístoles de escape
+
+Fibrilación auricular
+
+16. Arritmias
+
+Bradicardia de alto grado
+
+Inestable HD
+
+Estable HD
+
+Atropina 0,5 mg i.v. (repetir cada 2 min hasta 2-3 mg máx.)
+
+Datos de bajo gasto incipiente (fallo renal agudo, oligoanuria,
+somnolencia, etc.)
+
+MCP transcutáneo (iniciar la estimulación a la máxima
+salida asegurando la captura ventricular)
+
+Isoprotenerol (1 mg en 250 cc de SSF al 0,9% inicialmente a 15 ml/h y ajustar
+según la respuesta; máx. 50 ml/h) O
+Dopamina 2-10 µg/kg/h (de elección si hay sospecha de isquemia miocárdica)
+
+Implante de MCP transvenoso transitorio
+
+Si tras la corrección de causas reversibles persiste la bradicardia, valorar la necesidad de implantar un
+MCP de nitivo
+
+HD: hemodinámicamente; MCP: marcapasos; SSF: suero salino fisiológico. Figura 12. Manejo inicial de las bradicardias de alto grado.
+
+2.4. Clasificación de las bradiarritmias
+2.4.1. Disfunción del nodo sinusal Es un trastorno crónico y progresivo que afecta a la generación del impulso en el nodo sinusal y su transmisión en las aurículas. Ocurre principalmente en ancianos. Tiene múltiples manifestaciones electrocardiográficas (tabla 14).
+Tabla 14. Causas de la disfunción del nodo sinusal
+Farmacológicas
+Betabloqueantes, antagonistas del calcio no dihidropiridínicos, glucósidos cardíacos, fármacos antiarrítmicos (clases I y III), ivabradina, clonidina, metildopa, cimetidina, litio y fenitoína
+No farmacológicas
+Isquemia, fibrosis degenerativa idiopática, trastornos infiltrativos, trastornos osteomusculares, cirugía cardiotorácica, sustitución valvular, cardiopatía congénita, alteraciones electrolíticas, hipotiroidismo, apnea del sueño, hipoxia, hipotermia, aumento del tono vagal, enfermedad de Chagas, endocarditis y miocarditis
+235
+
+Manual de Diagnóstico y Terapéutica Médica
+2.4.1.1. Bradicardia sinusal Es un ritmo sinusal con una FC menor de 60 lpm (figura 13A). Suele ser una reacción fisiológica frecuente en deportistas, adultos jóvenes en reposo o en situación de descanso nocturno por aumento del tono vagal, pero también puede observarse en ancianos o como consecuencia del tratamiento con FAA. 2.4.1.2. Bloqueo sinoauricular Es un retraso en la conducción desde el nodo sinusal hasta las aurículas. Electrocardiográficamente solo se puede reconocer el bloqueo sinoauricular de segundo grado (intermitente): algunos de los estímulos sinusales no se conducen a las aurículas (figura 13B). Se dividen en Mobitz I o Wenckebach (disminución progresiva del intervalo P-P hasta que aparece una pausa que es menor que la suma de dos intervalos consecutivos previos) y Mobitz II (intervalo P-P constante hasta que aparece una pausa que es múltiplo del intervalo P-P normal). 2.4.1.3. Pausas sinusales o paradas Consisten en la ausencia de latido sinusal, que se traduce en la falta de ondas P. Las pausas de 3 s o más se consideran clínicamente significativas (figura 13C). 2.4.1.4. Incompetencia cronotropa Es la incapacidad del ritmo sinusal para aumentar adecuadamente su frecuencia en respuesta al aumento de la actividad física. No existe consenso en su definición pero se acepta generalmente la incapacidad para alcanzar el 75-85% de la FC máxima esperada para la edad del paciente en una prueba de esfuerzo.
+2.4.2. Bloqueo auriculoventricular Es el retraso o la ausencia de conducción de los impulsos auriculares a los ventrículos. Puede ser extrínseco (secundario a fármacos o cambios en el tono autonómico) o intrínseco (por lesión estructural en el sistema de conducción) (tabla 15). Dado que el segmento PR incluye la conducción auricular, nodal y del sistema ventricular de conducción, muchas veces es difícil determinar por el ECG de superficie la localización del
+(A)
+(B)
+(C)
+Figura 13. (A) Bradicardia sinusal. (B) Bloqueo sinoauricular de segundo grado. (C) Pausa sinusal.
+236
+
+16. Arritmias
+Tabla 15. Causas del bloqueo auriculoventricular
+Farmacológicas
+Digoxina, morfina, betabloqueantes, piridostigmina, reserpina, amiodarona y calcioantagonistas no dihidropiridínicos
+No farmacológicas
+Cardiopatía isquémica, hipokalemia, valvulopatías, vagotonía o maniobras vagales, cardiopatías congénitas, miocarditis, endocarditis, degeneración del esqueleto fibroso (enfermedad de Lev), afectación primaria del sistema His-Purkinje (enfermedad de Lenègre), cirugía cardíaca, ablación con catéter de arritmias, cierre percutáneo de la comunicación interventricular, ablación septal con alcohol e implantación valvular aórtica transcatéter
+bloqueo y se precisa un EEF para determinarlo con exactitud. No obstante, existen datos que orientan a:
+a) Origen suprahisiano: BAV de primer grado basal, BAV de segundo grado Mobitz I, QRS estrecho basal y ritmo de escape de QRS estrecho a una FC mayor de 40 lpm.
+b) Origen intra- o infrahisiano: PR basal normal, BAV de segundo grado Mobitz II, QRS ancho basal, ritmo de escape de QRS ancho con una FC menor de 40 lpm.
+2.4.2.1. Bloqueo auriculoventricular de primer grado
+Todos los impulsos auriculares se conducen a los ventrículos (todas las ondas P se siguen de un complejo QRS) pero con un intervalo PR mayor de 0,2 s (figura 14A).
+2.4.2.2. Bloqueo auriculoventricular de segundo grado
+Existe un bloqueo de la conducción de las aurículas a los ventrículos, por lo que algunas ondas P no se siguen de complejos QRS. Suele seguir un patrón estable. Se identifica señalando «número de ondas P totales:número de ondas P que conducen en una determinada secuencia» (p. ej., BAV 3:2). Se dividen en:
+a) Mobitz I o Wenckebach: prolongación progresiva del intervalo PR hasta que una P se bloquea (figura 14B). Puede ser fisiológico durante el sueño, en personas jóvenes o en caso de hipertonía vagal.
+b) Mobitz II: existe una onda P no conducida entre intervalos PR constantes antes y después del impulso bloqueado (figura 14C).
+Para diferenciar estos dos subtipos debe haber antes del impulso bloqueado al menos dos ondas P consecutivas conducidas que permitan determinar el comportamiento de los intervalos PR.
+2.4.2.3. Bloqueo auriculoventricular 2:1
+Hay una onda P conducida que alterna con una onda P bloqueada (figura 14D).
+2.4.2.4. Bloqueo auriculoventricular avanzado o de alto grado
+Hay al menos dos ondas P consecutivas bloqueadas (relación de conducción 3:1 o mayor) (figura 14E).
+2.4.2.5. Bloqueo auriculoventricular de tercer grado (completo)
+Ningún impulso auricular es conducido a los ventrículos, por lo que los ritmos auricular y ventricular son independientes. La frecuencia auricular puede ser regular o irregular en función de su ritmo previo y es más rápida que la frecuencia ventricular, que es
+237
+
+Manual de Diagnóstico y Terapéutica Médica siempre regular. Al no propagar el impulso auricular a los ventrículos, aparece un marcapasos secundario (ritmo de escape) que indica la localización anatómica del bloqueo. Los escapes suprahisianos o nodales se caracterizan por un QRS estrecho (o ancho en un paciente con bloqueo de rama previo) y una frecuencia en torno a 45-60 lpm y se aceleran con atropina y ejercicio; son generalmente de buen pronóstico y pueden ser reversibles en pacientes en tratamiento con fármacos frenadores del NAV, una vez suspendidos (figura 14F). Los escapes infrahisianos o ventriculares se caracterizan por un QRS ancho y una frecuencia en torno a 30-40 lpm y no responden a la atropina; tienen mal pronóstico y suelen ser irreversibles (figura 14G). (A) (B)
+(C)
+(D)
+(E)
+(F)
+(G)
+Figura 14. (A) Bloqueo auriculoventricular de primer grado. (B) Bloqueo auriculoventricular de segundo grado Mobitz I. (C) Bloqueo auriculoventricular de segundo grado Mobitz II (3:2). (D) Bloqueo auriculoventricular 2:1. (E) Bloqueo auriculoventricular avanzado. (F) Bloqueo auriculoventricular de tercer grado con escape suprahisiano (QRS estrecho). (G) Bloqueo auriculoventricular de tercer grado con escape infrahisiano (QRS ancho).
+238
+
+16. Arritmias
+
+2.5. Marcapasos
+El permanente es el tratamiento de elección para la mayoría de bradicardias una vez descartadas las causas reversibles (tabla 16). El tipo de marcapasos depende fundamentalmente del ritmo de base del paciente y de la localización del bloqueo, pero también se debe tener en cuenta la comorbilidad. Se designan mediante un código internacional de hasta cinco letras y existen diferentes modos de estimulación (tabla 17).
+Determinadas interferencias electromagnéticas pueden inhibir su funcionamiento, como el bisturí eléctrico, la resonancia electromagnética o la radioterapia. La inhibición del marcapasos por un bisturí eléctrico puede evitarse colocando un imán en la zona del generador. La resonancia magnética está contraindicada en general, salvo en dispositivos compatibles, que precisan una programación previa del marcapasos en modo resonancia. La radioterapia requiere una interrogación del marcapasos previa y posterior a cada sesión.
+
+2.5.1. Disfunción del marcapasos
+Es una situación que puede ser severa en función del grado de dependencia del paciente a la estimulación por el marcapasos. Globalmente, y de forma simplificada, se distinguen:
+a) Defectos de batería: cuando un marcapasos se está quedando sin batería, cambia automáticamente de modo a asíncrono y no permite su interrogación. Se pueden observar pausas largas sin que aparezcan espigas.
+b) Defectos de sensado: • Infrasensado: el marcapasos no es capaz de detectar las despolarizaciones propias del corazón y no se inhibe ante un estímulo normal. Se observan espigas sobre el ritmo normal del paciente, apareciendo estímulos no coordinados con el ritmo basal. Si el estímulo ventricular coincide con la onda T, puede llegar a desencadenar arritmias ventriculares polimórficas (fenómeno R sobre T) (figura 15A). Puede deberse al desplazamiento del cable. • Sobresensado: el marcapasos interpreta como un latido cardíaco una señal extracardíaca (potenciales diafragmáticos, interferencias electromagnéticas, etc.) inhibiendo la estimulación correspondiente. No se observan espigas cuando debería haber. Puede deberse a una fractura en el cable de estimulación.
+c) Defectos de captura: el marcapasos genera un estímulo eléctrico de forma correcta pero dicho estímulo no se captura por el ventrículo (no genera un QRS) ­(figura 15B). Estos defectos suelen producirse por deterioro de las sondas, desplazamiento del cable, elevación del umbral de energía necesario para la estimulación o agotamiento de la batería.
+
+Tabla 16. Indicaciones de implante de marcapasos según el grado de recomendación
+
+Asintomático
+
+Sintomático
+
+BAV de 1.er grado
+
+No
+
+IIa
+
+BAV de 2.º grado Mobitz I
+
+No
+
+I
+
+BAV de 2.º grado Mobitz II
+
+IIa
+
+I
+
+BAV de 3.er grado
+
+IIa
+
+I
+
+BAV: bloqueo auriculoventricular.
+
+239
+
+Manual de Diagnóstico y Terapéutica Médica
+
+Tabla 17. Nomenclatura, tipos de marcapasos e indicaciones más comunes
+
+Tipo de marcapasos Unicameral Modo AAI
+
+Cámara estimulada
+A: aurícula
+
+Cámara sensada
+A: aurícula
+
+Modo VVI V: ventrículo V: ventrículo
+
+Bicameral Modo VDD V: ventrículo D: A + V
+
+Modo DDD D: A + V
+
+D: A + V
+
+AV: auriculoventricular; BAV: bloqueo auriculoventricular.
+
+Modalidad ante el sensado I: inhibición
+I: inhibición
+D: (I: inhibición + T: activación) D: (I: inhibición + T: activación)
+
+Indicación
+Enfermedad del seno con conducción AV preservada
+Arritmias auriculares con frecuencia ventricular lenta
+BAV con función sinusal normal
+BAV y/o enfermedad del seno
+
+(A)
+
+(B)
+Figura 15. (A) Defecto de sensado. Fenómeno R sobre T y taquicardia ventricular. (B) Defecto de captura. Espigas no conducidas.
+2.6. Muerte súbita y desfibrilador automático implantable La muerte súbita se define como la que se da en un individuo sano las 24 h previas o que se produce en menos de 1 h desde el inicio de los síntomas. Puede ser de causa cardíaca (por arritmias u otras etiologías) o no cardíaca. Son factores de riesgo para muerte súbita cardíaca ser varón joven, las canalopatías, la cardiopatía estructural, etc. Es fundamental realizar una estratificación del riesgo adecuada en caso de antecedentes familiares de muerte súbita o arritmias documentadas (mediante ECG, ETT, ergometría, Holter, EEF, etc.) para plantear en pacientes de alto riesgo el implante de un DAI (tabla 18). En caso de descarga del dispositivo hay que avisar a Cardiología para su interrogación. Ante descargas inapropiadas múltiples se puede colocar un imán, que inhibirá las terapias del dispositivo sin afectar a la función de marcapasos.
+
+240
+
+16. Arritmias
+Tabla 18. Indicaciones de implante de un desfibrilador automático implantable
+• FV o TV hemodinámicamente inestable en ausencia de causas reversibles y tras > 48 h de un IAM
+• TV sostenidas recurrentes pese al tratamiento médico óptimo • Indicaciones específicas según la cardiopatía de base:
+– Cardiopatía isquémica: si FEVI < 35% pese al tratamiento médico óptimo durante 3 meses (valorar la necesidad de TRC)
+– Otras cardiopatías: miocardiopatía dilatada, miocardiopatía hipertrófica, displasia arritmogénica del VD, síndrome de QT largo, Brugada, etc.
+FEVI: fracción de eyección del ventrículo izquierdo; FV: fibrilación ventricular; IAM: infarto agudo de miocardio; TRC: terapia de resincronización cardíaca; TV: taquicardia ventricular; VD: ventrículo derecho.
+
+BIBLIOGRAFÍA
+• Arnar DO, Mairesse GH, Boriani G, Calkins H, Chin A, Coats A, et al.; ESC Scientific Document Group. Management of asymptomatic arrhythmias: a European Heart Rhythm Association (EHRA) consensus document, endorsed by the Heart Failure Association (HFA), Heart Rhythm Society (HRS), Asia Pacific Heart Rhythm Society (APHRS), Cardiac Arrhythmia Society of Southern Africa (CASSA), and Latin America Heart Rhythm Society (LAHRS). Europace; 2019;euz046.
+• Bayeés de Luna A. Passive arrhythmias. En: Clinical arrhythmology. 1.ª ed. Oxford: Wiley-Blackwell; 2011.
+• Brignole M, Auricchio A, Baron-Esquivias G, Bordachar P, Boriani G, Breithardt O-A, et al.; European Society of Cardiology (ESC) 1; European Heart Rhythm Association (EHRA). 2013 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy: The Task Force on cardiac pacing and resynchronization therapy of the European Society of Cardiology (ESC). Developed in collaboration with the European Heart Rhythm Association (EHRA). Europace. 2013;15(8):1070-1118.
+• Brugada J, Katritsis DG, Arbelo E, Arribas F, Bax JJ, Blomström-Lundqvist C, et al. ESC Scientific Document Group, 2019 ESC Guidelines for the management of patients with supraventricular tachycardia. The Task Force for the management of patients with supraven-
+
+tricular tachycardia of the European Society of Cardiology (ESC). Eur Heart J. 2020;41(5):655720.
+• Hindricks G, Potpara T, Dagres N, Arbelo E, Bax JJ, Blomström-Lundqvist C, et al.; ESC Scientific Document Group. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Heart J. 2021;42(5):373-498.
+• Priori SG, Blomström-Lundqvist C, Mazzanti A, Blom N, Borggrefe M, Camm J, et al.; ESC Scientific Document Group. 2015 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: The Task Force for the Management of Patients with Ventricular ­Arrhythmias and the Prevention of Sudden Cardiac Death of the European Society of Cardiology (ESC). Endorsed by: Association for European Paediatric and Congenital Cardiology (AEPC). Eur Heart J. 2015;36(41):27932867.
+• Vogler J, Breithardt G, Eckardt L. Bradiarritmias y bloqueos de la conducción. Rev Esp ­Cardiol. 2012;65(7):656-667.
+
+241
+
+CAPÍTULO
+
+17
+Cardiopatía isquémica

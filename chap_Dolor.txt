@@ -1,0 +1,1296 @@
+AUTORES:
+Marta Férnandez Galindo. Cardiología. Javier Camacho Mateu. Medicina Interna. Celia Santos Cabezón. Medicina Interna.
+ASESORA:
+Covadonga Gómez Cuervo. Medicina Interna.
+1. DOLOR TORÁCICO
+1.1. Introducción
+Es una de las consultas más frecuentes en los servicios de Urgencias, y se debe en el 2-10% de los casos a causas potencialmente mortales cuyo reconocimiento rápido es el fin primordial de la evaluación del paciente. En muchos casos no se logra encontrar enfermedad orgánica y la causa identificada más frecuentemente es la osteomuscular. Sin embargo, hasta el 5% de los pacientes dados de alta con diagnóstico de dolor torácico no isquémico presentaban en realidad un síndrome coronario agudo (SCA).
+1.2. Evaluación inicial
+Se muestra en la figura 1. Debe ser inmediata tras la llegada del paciente a Urgencias. Se debe realizar una comprobación del estado general, tomar las constantes vitales y hacer una breve anamnesis y una exploración física. Solo con esto se orienta la causa en más del 80% de los casos. La evaluación inicial, por tanto, se dirige a:
+a) Descartar datos de gravedad:
+– Inestabilidad hemodinámica (presión arterial sistólica [PAS] < 90 mmHg o frecuencia cardíaca [FC] > 100 lpm).
+– Hipertensión arterial extrema (PAS > 180 mmHg o presión arterial diastólica [PAD] > 110 mmHg).
+– Insuficiencia respiratoria o sospecha de obstrucción de la vía aérea. – Taquipnea (frecuencia respiratoria [FR] > 30 rpm), bradipnea (FR < 10 rpm) o
+saturación periférica de oxígeno (SpO2) menor del 90%. – Bajo nivel de consciencia o focalidad neurológica.
+b) Descartar etiología isquémica con un electrocardiograma (ECG) en los primeros 10 min desde la llegada a Urgencias: se han de solicitar marcadores de daño miocárdico (MDM) según la sospecha clínica y hallazgos electrocardiográficos y valorar la necesidad de ampliar el ECG con derivaciones derechas y de cara posterior. Si es normal, se reduce notablemente la probabilidad de SCA. No obstante, cuando la historia clínica es compatible, hasta un 5% de los pacientes sin alteraciones electrocardiográficas claras pueden presentar SCA. Un paciente con dolor torácico sugerente de isquemia con ECG no valorable (ritmo de marcapasos, bloqueo completo de rama izquierda [BCRI], etc.) debe ser valorado por la Unidad Coronaria y plantearse ecocardiograma transtorácico (ETT) antes de los resultados bioquímicos.
+c) Descartar desde el principio patologías emergentes (tabla 1).
+172
+
+13. Dolor torácico. Síncope
+
+Dolor torácico
+Estado general Constantes vitales
+PAS < 90 mmHg FC > 100 lpm
+PAS > 180 mmHg o PAD > 110 mmHg
+Estable
+Sospecha de otra patología
+
+SCA TEP Síndrome aórtico agudo
+
+Estabilización
+Inestable
+Sospecha de isquemia coronaria
+
+Ver cap. 17. Cardiopatía isquémica Avisar a Unidad Coronaria si elevación del ST o bloqueo de rama no
+conocido
+
+Considerar perfil atípico Si factores de riesgo, valorar solicitar MDM o prueba de detección de detección de isquemia
+
+Ver tablas 1 y 3
+FC: frecuencia cardíaca; MDM: marcadores de daño miocárdico; PAD: presión arterial diastólica; PAS: presión arterial sistólica; SCA: síndrome coronario agudo; TEP: tromboembolismo pulmonar.
+Figura 1. Valoración del paciente con dolor torácico en urgencias.
+
+Se debe valorar realizar una radiografía de tórax urgente, pues hasta en un 20% de los casos aporta información que influye en la actitud terapéutica. Además, si existen signos de gravedad y diagnóstico incierto, el ETT puede aportar información de utilidad al valorar datos de taponamiento cardíaco, tromboembolismo pulmonar (TEP) masivo, disfunción ventricular, disección aórtica o contusión cardíaca postraumática.
+1.3. Evaluación del paciente estable y perfiles clínicos
+Si el paciente no presenta datos de gravedad (o en caso contrario, una vez que se estabilice), se ha de realizar una anamnesis y exploración acordes con la sospecha. En las tablas 2 y 3 se recogen los distintos perfiles clínicos de dolor torácico y sus características.
+1.3.1. Otras causas de dolor torácico y síntomas asociados
+a) Arritmias: taquicardias supraventriculares, taquicardia ventricular, bloqueo auriculoventricular de tercer grado, etc. Asocian palpitaciones o síncope.
+b) Estenosis aórtica: dolor torácico, disnea y síncope. c) Colecistitis: dolor en el hipocondrio derecho, fiebre, náuseas y vómitos. d) Pancreatitis: puede ocasionar derrame pleural, la mayoría de las veces izquierdo. e) Neoplasias: síntomas constitucionales asociados. f) Serositis: enfermedades autoinmunes (lupus eritematoso sistémico, artritis reu­
+matoide, etc.) o síndromes autoinflamatorios (fiebre mediterránea familiar [FMF], síndrome periódico asociado al receptor del factor de necrosis tumoral [TRAPS] y síndrome periódico asociado a la criopirina [CAPS]).
+173
+
+Manual de Diagnóstico y Terapéutica Médica
+
+Tabla 1. Electrocardiograma y radiografía de tórax en algunas causas del dolor torácico emergente
+
+Electrocardiograma
+
+Radiografía de tórax
+
+Síndrome coronario agudo
+
+Ascenso del ST convexo y descenso especular (SCACEST) Descenso del ST (SCASEST) Ondas T picudas y anchas (SCA incipiente) Ondas Q patológicas (SCACEST de > 6-9 h de evolución)
+
+Normal (salvo complicaciones: shock cardiogénico, edema agudo de pulmón, rotura ventricular, insuficiencia mitral aguda, etc.)
+
+Embolia pulmonar
+
+Taquicardia sinusal (más frecuente) Eje derecho Bloqueo de rama derecha Patrón S1Q3T3 Ondas T negativas de V1-V4
+
+Normal (más frecuente) Ascenso de la cúpula diafragmática Derrame pleural Atelectasias en banda Joroba de Hampton: consolidación pulmonar periférica en las bases (infarto pulmonar) Signo de Westermark: oligohemia focal con hilio pulmonar prominente
+
+Disección aórtica
+
+Normal (salvo si asocia disección coronaria)
+
+Ensanchamiento del mediastino superior Imagen de «doble rodilla» en el botón aórtico
+
+Pericarditis
+
+Ascenso del ST cóncavo en todas las derivaciones excepto aVR y/o V1 Descenso del PR (más específico) Si es de días de evolución, posible descenso del ST u ondas T negativas
+
+Cardiomegalia simétrica con imagen «en tetera» o «botellón» si asocia derrame pericárdico
+
+Neumotórax Normal
+
+Hiperclaridad entre la pared torácica y el parénquima retraído
+
+Derrame pleural
+
+Normal
+
+Pinzamiento de senos costofrénicos, limitado por la línea de Damoiseau
+
+SCACEST: síndrome coronario agudo con elevación del ST; SCASEST: síndrome coronario agudo sin elevación del ST.
+
+174
+
+13. Dolor torácico. Síncope
+
+Tabla 2. Características clínicas de los distintos perfiles de dolor torácico
+
+Tipo de dolor
+
+Características clínicas
+
+Isquémico
+
+• Opresivo, intenso, con posible respuesta a la nitroglicerina. Similar al de episodios previos
+• Instauración progresiva, con duración variable de minutos a horas • Difícil de localizar y con área extensa precordial. Irradiado
+a mandíbula, cuello o brazo (izquierdo, derecho o ambos) • Perfil atípico (mujeres, ancianos y diabéticos): molestia, pesadez
+o malestar torácico y astenia • Desencadenantes, agentes modificadores y duración:
+– Angina estable: se desencadena ante esfuerzos de intensidad conocida, cede con el reposo o con nitroglicerina y dura < 5 min
+– Síndrome coronario agudo: la relación con el esfuerzo es variable (a menudo con actividad física previa), en general no cede con el reposo, puede mejorar con nitroglicerina y dura > 30 min
+• Síntomas asociados: eructos, náuseas, vómitos, diaforesis, mareo, clínica presincopal, disnea y sensación de muerte inminente
+• Signos asociados: soplo de insuficiencia mitral, S4 o S3, ritmo de galope, movimiento precordial apical anormal (sugiere acinesia) y signo de Levine (el paciente se lleva el puño al centro del pecho)
+
+Aórtico
+
+• Desgarrador, muy intenso desde el principio • De instauración abrupta y carácter continuo • Puede irradiar a escápulas y migrar en función de la progresión de
+la disección, con aparición de clínica focal derivada de la oclusión de las distintas ramas de la aorta • Síntomas asociados: diaforesis, mareo, presíncope, cortejo vegetativo, disnea y sensación de muerte inminente • Signos asociados: HTA, asimetría en los pulsos periféricos (transitoria o progresiva), diferencia de presión arterial entre miembros y soplo de insuficiencia aórtica
+
+Pleurítico
+
+• Punzante, localizado y restringido a una región (frecuentemente costal)
+• Empeora con la tos, la inspiración profunda y el decúbito del lado afectado • Mejora con antiinflamatorios • Síntomas asociados: disnea (síntoma más frecuente en el TEP),
+síncope, tos y expectoración (infección respiratoria) • Signos asociados: roce pleural, hipofonesis o abolición del
+murmullo con vibraciones vocales abolidas (derrame) o aumentadas (neumotórax), signos de TVP (TEP) y crepitación del tejido subcutáneo asociado (neumotórax)
+
+Pericárdico
+
+• Opresivo o punzante, centrotorácico e irradiado a espalda, trapecios o miembros superiores
+• La instauración puede ser súbita o larvada, con duración variable de horas a días
+• Empeora con el decúbito y los movimientos respiratorios • Mejora con la flexión anterior del tronco y con antiinflamatorios
+no esteroideos • Signos asociados: roce pericárdico (raro, muy específico; se valora
+mejor con el tronco en flexión anterior)
+
+175
+
+Manual de Diagnóstico y Terapéutica Médica
+
+Tabla 2. Características clínicas de los distintos perfiles de dolor torácico (cont.)
+
+Tipo de dolor
+
+Características clínicas
+
+Esofágico
+
+• Ardor retroesternal que se alivia con antiácidos o IBP • Desencadenado por el estrés o la ingesta, aunque también puede
+ser espontáneo • Síntomas asociados: eructos, náuseas, vómitos, pirosis y disfagia • Signos asociados: en caso de perforación esofágica puede haber
+neumomediastino (signo de Hamman y crepitación sincrónica con el latido cardíaco) o enfisema subcutáneo • Espasmo esofágico difuso: provoca un dolor centrotorácico opresivo que cede con nitroglicerina y que puede confundirse con dolor isquémico (pero la instauración suele ser más brusca que en él)
+
+Osteomuscular
+
+• Empeora con el movimiento de los miembros superiores, la digitopresión, la inspiración forzada y la tos
+• Mejora con el reposo y con antiinflamatorios • Signos asociados: se reproduce a la palpación. Síndrome de Tietze:
+signos inflamatorios en la articulación afectada (costocondral, esternoclavicular o esternocostal) • Deben descartarse otras causas antes de diagnosticar un dolor torácico como de origen mecánico y también deformidades o inestabilidad de la caja torácica que puedan ocasionar compromiso ventilatorio
+
+Neuropático
+
+• Intenso, urente y de distribución metamérica • Herpes zóster: lesiones cutáneas vesiculares agrupadas
+(pueden preceder su aparición o cursar sin ellas)
+
+Funcional
+
+• Perfil muy variable, típicamente retroesternal, que impide la inspiración profunda, sin relación concreta con el esfuerzo, de duración prolongada e intensidad oscilante
+• 1/3 de las crisis por trastorno de pánico cursan con dolor torácico
+
+HTA: hipertensión arterial; IBP: inhibidores de la bomba de protones; TEP: tromboembolismo pulmonar; TVP: trombosis venosa profunda.
+
+176
+
+Tabla 3. Etiología, antecedentes relevantes y pruebas complementarias de los distintos perfiles de dolor torácico
+
+Tipo de dolor Causas
+
+Antecedentes
+
+Pruebas complementarias
+
+Isquémico
+
+• SCA • Angina estable • Vasoespasmo
+coronario y otros MINOCA (tako-tsubo)
+
+• Antecedentes familiares de cardiopatía isquémica precoz y trombofilia hereditaria
+• Edad avanzada, factores de riesgo cardiovascular, obesidad, tabaquismo, cardiopatía isquémica, consumo de tóxicos (cocaína)
+
+• ECG (12 derivaciones obligatorias; valorar ampliar)
+• Marcadores de daño miocárdico • ETT: alteraciones de la contractilidad (su
+ausencia en un paciente con dolor torácico permite razonablemente el alta hospitalaria, pero su presencia no es patognomónica)
+
+Aórtico
+
+• Disección aórtica • Hematoma intramural • Úlcera penetrante
+de aorta
+
+• Familiares de primer grado con aneurisma o disección (tipo A) (presentes en el 13-19% de los casos) y síndrome de Marfan
+• FRCV, varones, síndrome de Turner, trastornos del tejido conectivo (Marfan, Ehlers-Danlos, Loeys-Dietz) y vasculitis
+
+• ECG • Radiografía de tórax • ETT o ETE • Angio-TC (prueba de elección)
+
+Pleurítico
+
+• Neumotórax • Neumomediastino • Infecciones
+(abscesos, pleuritis y traqueobronquitis) • Tromboembolismo pulmonar • Contusión pulmonar
+
+• Según la causa: • TEP: cirugía o trauma reciente, inmovilización,
+cáncer, trombofilias, anticonceptivos, etc. • Neumotórax: varón joven, gran fumador,
+hábito leptosómico y neumotórax previo • Neumomediastino: ventilación mecánica
+y perforación esofágica
+
+• ECG • Radiografía de tórax • Angio-TC de arterias pulmonares
+(prueba de elección para el TEP)
+
+13. Dolor torácico. Síncope 177
+
+Pericárdico
+
+• Pericarditis • Derrame pericárdico • (ver cap. 19.
+Enfermedades del pericardio)
+
+• Antecedentes familiares de enfermedades autoinmunes o síndromes autoinflamatorios (FMF, TRAPS y CAPS)
+• Antecedentes personales de viriasis reciente, tuberculosis, colagenopatía, uremia, SCA, neoplasias, etc.
+
+• ECG • Radiografía de tórax • Marcadores de daño miocárdico • ETT
+
+Esofágico
+
+• Alteraciones de la motilidad esofágica
+• ERGE • Ingesta de cáusticos
+o cuerpos extraños • Endoscopia reciente
+
+• ECG • Radiografía de tórax • Gastroscopia • Manometría • pH-metría
+
+Manual de Diagnóstico y Terapéutica Médica 178
+
+Tabla 3. Etiología, antecedentes relevantes y pruebas complementarias de los distintos perfiles de dolor torácico (cont.)
+
+Tipo de dolor Causas
+
+Antecedentes
+
+Pruebas complementarias
+
+Osteomuscular
+
+• Costocondritis • Polimialgia reumática • Fibromialgia • Artrosis
+
+• Sobreesfuerzo físico reciente
+
+• Radiografía de tórax y de parrilla costal • Ecografía articular
+
+Neuropático
+
+• Infecciones: herpes zóster, CMV, enfermedad de Lyme, sífilis y brucelosis
+• Sarcoidosis e histiocitosis X
+• Neoplasias (linfomas, neoplasias pulmonares, etc.)
+• Radiculopatía (avulsiones, espondilosis y herniaciones discales)
+
+• Traumatismo, cervicalgia o dorsalgia mecánica, síndrome constitucional
+
+• Serologías • Radiografía cervical, de tórax y de parrilla
+costal • Resonancia de columna cervical y dorsal
+
+Funcional
+
+• Consumo de tóxicos • Desencadenante
+emocional (trastornos afectivos o de ansiedad y somatomorfos de base)
+
+• Enfermedad psiquiátrica • Trastorno de dependencia a tóxicos
+
+• ECG • Radiografía de tórax • Debe ser siempre un diagnóstico
+de exclusión • Valorar servicios sociales (violencia
+de género, maltrato, etc.)
+
+CAPS: síndrome periódico asociado a la criopirina; CMV: citomegalovirus; ECG: electrocardiograma; ERGE: enfermedad por reflujo gastroesofágico; ETE: ecocardiograma transesofágico; ETT: ecocardiograma transtorácico; FMF: fiebre mediterránea familiar; FRCV: factores de riesgo cardiovascular; MINOCA: infarto agudo de miocardio con coronarias sin lesiones obstructivas; SCA: síndrome coronario agudo; TC: tomografía computarizada; TEP: tromboembolismo pulmonar; TRAPS: síndrome periódico asociado al receptor del factor de necrosis tumoral.
+
+13. Dolor torácico. Síncope
+2. SÍNCOPE
+2.1. Introducción
+La pérdida transitoria de consciencia (PTC) es la pérdida de conocimiento en la que hay amnesia del episodio, control motor anómalo y falta de respuesta a estímulos en un corto período de tiempo (figura 2). El síncope corresponde a un subgrupo de trastornos dentro de las PTC en los que la pérdida de conocimiento se debe fundamentalmente a la hipoperfusión cerebral y a la caída de la PAS, ambas estrechamente relacionadas con el gasto cardíaco y las resistencias vasculares (figura 3). Son característicos un inicio brusco y una recuperación espontánea, completa y precoz.
+El síncope supone un 1-3% de las causas de visita a urgencias. El subtipo más frecuente es el reflejo o neuromediado, si bien hasta un 30-40% de los episodios se clasifican como de mecanismo desconocido. El 20% de la población presentará un episodio sincopal a lo largo de su vida, de los cuales las arritmias cardíacas suponen la causa aproximadamente del 14%.
+2.2. Etiología
+El síncope puede ser de etiología refleja, ortostático o cardíaco, según se expone en la tabla 4. Cabe destacar por su frecuencia el síncope vasovagal, un subtipo de síncope reflejo. Inicialmente aparecen pródromos como mareo, diaforesis, palidez, palpitaciones, náuseas, hiperventilación y bostezos y posteriormente sobreviene la pérdida de consciencia, permaneciendo el paciente en general con los ojos abiertos y desviados hacia arriba. Pueden aparecer mioclonías proximales y distales (casi siempre arrítmicas y multifocales), y las pupilas casi siempre están dilatadas, con ocasionales movimientos oculares vagos. Con frecuencia ocurren gruñidos, gemidos, ronquidos y respiración estertorosa, así como incontinencia urinaria, siendo la fecal muy rara. La confusión posictal también es poco común (orientaría a crisis epiléptica), aunque a veces los pacientes refieren alucinaciones visuales y auditivas, así como experiencias cercanas a la muerte y extracorpóreas.
+
+No traumática
+
+PTC
+Por traumatismo craneal
+
+Síncope
+
+Ataques epilépticos
+
+Psicogénico
+
+Otros
+
+• Reflejo • Hipotensión ortostática • Cardíaco
+
+• Síndrome de robo de la subclavia • AIT vertebrobasilar • Hemorragia subaracnoidea • Ataques anóxicos cianóticos
+
+AIT: accidente isquémico transitorio; PTC: pérdida transitoria de consciencia. Figura 2. Clasificación de la pérdida transitoria de consciencia.
+
+179
+
+Manual de Diagnóstico y Terapéutica Médica 180
+
+Cardiaco/pulmonar
+• Arritmia • Daño estructural • Otros
+
+Bajo GC
+Retorno venoso
+• Depleción del volumen • Acumulación venosa
+
+PA baja/hipoperfusión cerebral Reflejo inadecuado Mixto
+
+RVP baja
+
+Disfunción autonómica por fármacos
+• DA primaria • DA secundaria
+
+Daño estructural del SNA
+
+Cardioinhibitorio
+
+Vasodepresor
+
+Síncope cardíaco
+
+Hipotensión ortostática
+
+Síncope reflejo
+
+Hipotensión ortostática
+
+DA: disfunción autonómica; GC: gasto cardíaco; PA: presión arterial; RVP: resistencias vasculares periféricas; SNA: sistema nervioso autonómico. Figura 3. Mecanismos fisiopatológicos del síncope.
+
+13. Dolor torácico. Síncope
+
+El presíncope hace referencia a los pródromos previos a la pérdida de conocimiento. Pueden tener lugar sin la aparición de este y duran segundos (mareo, debilidad, fatiga, visión borrosa, acúfenos y sensación de calor o de frío).
+
+Tabla 4. Causas principales del síncope
+
+Reflejo
+
+Vasovagal
+
+Situacional
+
+Síncope del seno carotídeo
+
+Formas atípicas
+
+Hipotensión ortostática
+
+Disfunción autonómica primaria
+
+Disfunción autonómica secundaria
+
+Por fármacos y tóxicos
+
+Hipovolemia
+
+Cardíaco
+
+Arritmias (inducidas o no por fármacos)
+Estructural
+
+Otros
+
+Angustia emocional y fobia
+Relacionado con Valsalva
+Movimientos cefálicos o cervicales
+Sin desencadenantes
+Atrofia multisistémica y parkinsonismos
+Diabetes mellitus, amiloidosis, uremia y lesión de la médula espinal
+Alcohol, hipotensores, diuréticos y antidepresivos
+Hemorragia, cuadros digestivos y baja ingesta
+Bradiarritmias
+Taquiarritmias
+Valvulopatías (estenosis aórtica)
+Cardiopatía isquémica
+Miocardiopatías adquiridas o congénitas
+Masas cardíacas
+Embolia pulmonar, disección aórtica e hipertensión pulmonar
+
+2.3. Valoración del paciente en urgencias
+2.3.1. Historia clínica
+Si el paciente acude por una PTC, se debe responder a las siguientes preguntas:
+• ¿El evento fue una PTC? En ese caso, ¿el origen es sincopal? • Si es un evento sincopal, ¿hay una causa clara? En la tabla 5 se detallan aspectos
+importantes para establecer la etiología del síncope. • ¿Hay evidencia de alto riesgo de evento cardiovascular grave o muerte?
+2.3.2. Pruebas complementarias iniciales
+a) ECG. b) Análisis de sangre (según la sospecha clínica): hemograma, MDM o dímeros D;
+para descartar anemización, SCA o TEP, respectivamente. c) Masaje del seno carotídeo: en mayores de 40 años. Se considera positivo al objeti­
+var una pausa ventricular mayor de 3 s o una caída de la PAS mayor de 50 mmHg. Orienta a un origen situacional (síndrome del seno carotídeo). Debe hacerse bajo monitorización, con una vía venosa periférica y atropina disponible ante la posible inestabilización del paciente.
+181
+
+Manual de Diagnóstico y Terapéutica Médica
+d) Prueba de bipedestación activa: se compara la tensión arterial en supino y en bipedestación como indicador de ortostatismo. Es positiva si presenta una caída sostenida de la PAS de 20 mmHg o más o de la PAD de 10 mmHg o más o valores de la PAS inferiores a 90 mmHg.
+e) Maniobra de Valsalva: la reproducción del síncope con la espiración forzada sirve para desenmascarar síncopes por hipotensión ortostática, de origen neurológico o con sospecha de síncope situacional.
+f) Angio-TC de arterias pulmonares: ante la sospecha de TEP. g) Ecocardiograma: si se sospecha cardiopatía estructural subyacente, como en sín­
+copes durante el ejercicio, sedestación o semisupinación (despistaje de obstrucción del tracto de salida del ventrículo izquierdo), sospecha de estenosis aórtica, trombos cardíacos obstructivos, taponamiento pericárdico o disección aórtica.
+
+Tabla 5. Datos relevantes en la historia clínica del paciente con pérdida transitoria de consciencia
+
+Antecedentes
+
+Familiares (muerte súbita precoz o implante de dispositivos de estimulación) Factores de riesgo cardiovascular (hipertensión arterial o diabetes mellitus) Cardiológicos Neurológicos (parkinsonismo, epilepsia o narcolepsia) Consumo de tóxicos Historia de síncopes previos
+
+Tratamiento habitual
+
+Antihipertensivos, antianginosos, fármacos que prolonguen el QT y frenadores del nodo auriculoventricular
+
+Características Reflejo del episodio
+
+Ortostático
+
+Cardíaco
+
+Posición
+
+Bipedestación
+
+Bipedestación
+
+Decúbito o sentado
+
+Actividad
+
+Movimientos del cuello, micción, defecación y tos
+
+Cambio postural reciente Esfuerzo o reposo (menos de 5 min)
+
+Ambiente
+
+Lugares mal ventilados, calurosos, abarrotados de personas o situación estresante (miedo, dolor, etc.)
+
+Período pospandrial
+
+Síntomas prodrómicos
+
+Calor, náuseas, visión borrosa y mareo
+
+Debilidad
+
+Palpitaciones, dolor torácico o sin pródromos
+
+Caída
+
+Consigue apoyo (manos y rodillas)
+
+Consigue apoyo (manos y rodillas)
+
+Brusca (suele haber traumatismo asociado)
+
+Color de la piel Palidez y rubor
+
+Duración
+
+Segundos o minutos
+
+Movimientos
+
+Mioclonías y relajación de esfínteres
+
+Recuperación Completa y precoz
+
+182
+
+13. Dolor torácico. Síncope
+2.3.3. Estratificación del riesgo en urgencias Debe centrarse en tres preguntas clave:
+1. ¿Hay una causa subyacente grave? En pacientes que presentan una causa subyacente aguda que condiciona un deterioro rápido es prioritario dirigir la asistencia a dicho problema.
+2. ¿Cuál es el riesgo de desenlace adverso? Es crucial identificar el riesgo del paciente. En la tabla 6 se detallan algunas características que indican bajo riesgo (compatible con enfermedad benigna) y otras sugestivas de alto riesgo (compatible con enfermedad grave). Los pacientes con riesgo bajo pueden ser dados de alta directamente desde urgencias, mientras que los de alto riesgo podrían requerir monitorización en urgencias, seguimiento en consultas de síncope, pruebas urgentes o incluso ingreso hospitalario.
+3. ¿Tiene criterios de ingreso? Los pacientes que presentan alguna característica de alto riesgo junto con enfermedad subyacente potencialmente grave, lesión física, necesidad de otras pruebas complementarias o tratamiento requieren ingreso. Aunque las escalas de riesgo pueden ser de ayuda, la evidencia sobre su utilidad se basa en estudios de calidad moderada y, por tanto, nunca deben anteponerse al juicio médico. La figura 4 muestra el manejo de los pacientes con sospecha de síncope en urgencias.
+2.4. Tratamiento Sus objetivos son prolongar la supervivencia, limitar las lesiones físicas derivadas de posibles traumatismos y prevenir las recurrencias.
+2.4.1. Síncopes reflejos El manejo se basa en la educación del paciente para evitar los desencadenantes, detectar los síntomas prodrómicos y adoptar el decúbito para evitar las caídas, reducir o retirar los vasodilatadores y evitar la ingesta de alcohol. También son de ayuda las maniobras de contrapresión isométrica (entrecruzar las piernas o entrelazar las manos y tensar los brazos) y el entrenamiento con mesa basculante para prevenir las recurrencias. Otras medidas, como la estimulación cardíaca, quedan relegadas para casos seleccionados.
+2.4.2. Hipotensión ortostática Se debe mantener una hidratación y una ingesta de sal adecuadas, dormir con el cabecero elevado, usar medidas de compresión y realizar maniobras de contrapresión. Pueden emplearse como adyuvantes fármacos como la midodrina (agonista α-adrenérgico) o la fludrocortisona (mineralocorticoide).
+2.4.3. Síncopes cardíacos El tratamiento depende de la etiología y del mecanismo: colocación de marcapasos en bloqueos y algunos síncopes neuromediados de perfil cardioinhibitorio, ablación por catéter en taquiarritmias, implantación de desfibrilador, etc.
+183
+
+Manual de Diagnóstico y Terapéutica Médica
+
+Tabla 6. Estratificación del riesgo en función de la etiología del síncope Síncope reflejo. De bajo riesgo si:
+
+No hay cardiopatía conocida Hay síncopes recurrentes antes de los 40 años
+
+Síncope debido a ortostatismo. De bajo riesgo si:
+
+No hay cardiopatía conocida
+
+Síncope de origen cardíaco: de alto riesgo
+
+Criterios menores
+
+Criterios mayores
+
+Sin pródromos o de corta duración (< 10 s) Historia familiar de muerte súbita prematura de causa desconocida Síncope en sedestación
+
+Durante un esfuerzo o en supinación Cardiopatía estructural o isquémica
+
+Alteraciones en el ECG. De alto riesgo si:
+
+Criterios menores (serán criterios mayores si asocian cardiopatía estructural)
+
+BAV de segundo grado Mobitz 1 o de primer grado con PR muy alargado Bradicardia sinusal asintomática o FA lenta (40-50 lpm) Taquicardia supraventricular rápida o fibrilación auricular Complejos QRS preexcitados Intervalo QT corregido corto (< 340 ms) Patrones de Brugada atípicos Ondas T negativas en las precordiales derechas
+
+Criterios mayores (incluso sin cardiopatía)
+
+BAV de segundo grado (Mobitz II) o de tercer grado FA lenta < 40 lpm Bradicardia sinusal persistente < 40 lpm o bloqueo sinoauricular repetitivo/pausas sinusales > 3 s en vigilia Bloqueo de rama, trastorno de la conducción intraventricular, hipertrofia ventricular u ondas Q compatibles con isquemia o miocardiopatía Taquicardia ventricular sostenida o no sostenida Cambios en el ECG susceptibles de isquemia aguda Mal funcionamiento de un dispositivo cardíaco implantable Patrón de Brugada de tipo 1 o elevación del segmento ST compatible con patrón de Brugada Complejo QT > 460 ms compatible con síndrome de QT largo adquirido
+
+Otros criterios de alto riesgo
+
+Precedido de dolor torácico, disnea, dolor abdominal o cefalea Presión arterial sistólica < 90 mmHg sin causa conocida Sospecha de sangrado Bradicardia persistente (< 40 lpm) en vigilia en ausencia de esfuerzo físico Soplo sistólico no conocido.
+
+BAV: bloqueo auriculoventricular; ECG: electrocardiograma; FA: fibrilación auricular.
+
+184
+
+¿Se trata de un síncope?
+Historia clínica Exploración física
+ECG Analítica básica (si se considera) Marcadores de daño miocárdico (si se considera)
+Diagnóstico establecido
+
+No
+Diagnóstico diferencial de pérdida transitoria de consciencia
+
+Sí
+
+¿Causa subyacente grave?
+
+Sí
+
+No
+
+Cardiológica (arritmias, IAM, tamponamiento cardíaco o valvulopatía)
+Tromboembolismo pulmonar Neurológica (ictus
+o hemorragia subaracnoidea) Hemorragia (gastrointestinal,
+trauma o retroperitoneal)
+
+Síncope reflejo Hipotensión ortostática
+Causa farmacológica
+Asegurar la ausencia de datos de alarma Paciente asintomático
+
+Ingreso para estudio y tratamiento
+
+Alta domiciliaria
+
+ECG: electrocardiograma; IAM: infarto agudo de miocardio.
+
+Figura 4. Manejo del paciente con síncope en urgencias.
+
+Estratificación del riesgo
+
+Bajo riesgo (probable síncope reflejo)
+Asegurar la ausencia de datos de alarma Paciente asintomático
+Alta domiciliaria
+
+Dudas sobre bajo o alto riesgo
+Valorar el seguimiento en
+consultas de Cardiología o ingreso
+hospitalario
+
+Alto riesgo
+
+Valorar la necesidad de tratamiento emergente
+Ingreso para estudio
+
+13. Dolor torácico. Síncope 185
+
+Manual de Diagnóstico y Terapéutica Médica
+
+BIBLIOGRAFÍA
+• Brignole M, Moya A, de Lange FJ, Deharo J-C, Elliott PM, Fanciulli A, et al. 2018 ESC Guidelines for the diagnosis and management of syncope. Eur Heart J. 2018;39(21):1883-1948.
+• Chisholm P, Anpalahan M. Orthostatic hypotension: pathophysiology, assessment, treatment, and the paradox of supine hypertension. Intern Med J. 2017;47(4):370-379.
+• Hollander JE, Chase M. Evaluation of the adult with chest pain in the emergency department. UpToDate [Internet] [consultado el 16 de marzo de 2021].
+
+• Kenny RA, McNicholas T. The management of vasovagal syncope. QJM. 2016;109(12):767773.
+• McConaghy JR. Outpatient evaluation of the adult with chest pain. UpToDate [Internet] [consultado el 16 de marzo de 2021].
+• Morrow DA. Dolor torácico. En: Kasper D, et al. Harrison. Principios de Medicina Interna. 19.ª ed. McGraw-Hill; 2019.
+
+186
+
+CAPÍTULO
+
+14
+Hipertensión arterial y riesgo cardiovascular
+AUTORES:
+Aida Frías González. Nefrología. Santiago de Cossío Tejido. Medicina Interna.
+ASESOR:
+Julián Segura de la Morena. Nefrología.
+
+1. DEFINICIÓN Y CLASIFICACIÓN
+En la esfera clínica se puede definir la hipertensión arterial (HTA) como el nivel de presión arterial (PA) sobre el cual una intervención (farmacológica o no) produce un beneficio clínico. En la práctica se toman valores de corte para definir la HTA y así simplificar el algoritmo diagnóstico-terapéutico. Estos valores varían según el tipo de medición (tabla 1). Existen diferentes grados de HTA según los valores medidos en consulta (tabla 2).
+
+2. EVALUACIÓN DIAGNÓSTICA
+2.1. Medición de la presión arterial
+2.1.1. Medición en consulta Antes de la medición el paciente debe estar sentado y en reposo unos minutos. Se recomienda realizar al menos tres tomas separadas entre sí 1-2 min, empleando un manguito adecuado para la circunferencia del brazo del paciente y considerando la media de las dos últimas mediciones.
+
+Tabla 1. Definiciones de hipertensión arterial según los valores de la presión arterial medida en consulta y de manera ambulatoria
+
+Medición
+
+PAS (mmHg)
+
+PAD (mmHg)
+
+PA en consulta
+
+≥ 140
+
+y/o
+
+≥ 90
+
+MAPA
+
+Diurna (media)
+
+≥ 135
+
+y/o
+
+≥ 85
+
+Nocturna (media)
+
+≥ 120
+
+y/o
+
+≥ 70
+
+24 h (media)
+
+≥ 130
+
+y/o
+
+≥ 80
+
+AMPA
+
+≥ 135
+
+y/o
+
+≥ 85
+
+AMPA: automedida de la presión arterial; MAPA: monitorización ambulatoria de la presión arterial; PA: presión arterial; PAD: presión arterial diastólica; PAS: presión arterial sistólica.
+
+187
+
+Manual de Diagnóstico y Terapéutica Médica
+
+Tabla 2. Clasificación de la presión arterial según los valores medidos en consulta
+
+Categoría
+
+PAS (mmHg)
+
+PAD (mmHg)
+
+Óptima
+
+< 120
+
+y
+
+< 80
+
+Normal
+
+≥ 120-129
+
+y/o
+
+≥ 80-84
+
+Normal-alta
+
+≥ 130-139
+
+y/o
+
+≥ 85-90
+
+HTA de grado 1
+
+≥ 140-159
+
+y/o
+
+≥ 90-99
+
+HTA de grado 2
+
+≥ 160-179
+
+y/o
+
+≥ 100-109
+
+HTA de grado 3
+
+≥ 180
+
+y/o
+
+≥ 110
+
+HTA sistólica aislada
+
+≥ 140
+
+y
+
+< 90
+
+HTA: hipertensión arterial; PAD: presión arterial diastólica; PAS: presión arterial sistólica.
+
+En la primera visita debe medirse la PA en ambos brazos para detectar diferencias relacionadas con enfermedad vascular periférica (> 15 mmHg de diferencia indica mayor riesgo cardiovascular [RCV]), tomando como referencia el brazo con la PA más elevada.
+En los pacientes mayores o diabéticos se debe medir además la PA en bipedestación para el cribado de hipotensión ortostática (reducción de la presión arterial sistólica [PAS] ≥ 20 mmHg o de la presión arterial diastólica [PAD] ≥ 10 mmHg tras 3 min en bipedestación).
+2.1.2. Medición ambulatoria
+Se recomienda en caso de:
+• Sospecha de HTA «de bata blanca» (PA elevada en consulta pero normal por métodos ambulatorios; ocurre en el 30-40% de los casos) o HTA enmascarada (PA normal en consulta y elevada ambulatoriamente, que se estima en un 15% de los pacientes).
+• HTA resistente (PA no controlada a pesar de tres fármacos, incluido un diurético). • Variabilidad considerable entre las medidas en consulta. • Sospecha de episodios de hipotensión (sobre todo en ancianos y diabéticos). • Sospecha de HTA nocturna (patrón non-dipper), en el que no se produce la caída
+esperable durante la noche de un 10-20%. Se relaciona con mayor RCV.
+Los dos métodos para este tipo de medición son:
+• Monitorización ambulatoria de la presión arterial (MAPA): el paciente lleva un tensiómetro portátil durante 24 h, con mediciones a intervalos de 20 min durante el día y de 30 min durante la noche. Suele emplearse en la consulta especializada.
+• Automedida de la presión arterial (AMPA): el paciente debe medirse la tensión por la mañana y por la noche durante 7 días. Permite registrar períodos de tiempo más largos, aunque no evalúa el período nocturno. Suele emplearse en atención primaria.
+2.2. Anamnesis, exploración física y pruebas complementarias
+En la tabla 3 se resumen los hallazgos clínicos sobre los que indagar y las exploraciones complementarias recomendadas durante el proceso diagnóstico. En ocasiones puede
+188
+
+14. Hipertensión arterial y riesgo cardiovascular
+Tabla 3. Enfoque diagnóstico inicial ante la sospecha de hipertensión arterial
+Anamnesis
+• Historia personal y familiar de HTA, enfermedad cardiovascular, ERC, DM y dislipemia • Valores previos de la PA y mediciones en el domicilio • Hábito tabáquico y actividad física • Síntomas sugestivos de lesión de órgano diana (enfermedad cerebrovascular, insuficiencia
+cardíaca, cardiopatía isquémica, ERC, arteriopatía periférica, etc.). La cefalea puede ser un síntoma de alarma en el seno de una HTA maligna, pero en la mayoría de los pacientes la cefalea (como otros dolores) es causa y no consecuencia de la HTA • Tratamiento antihipertensivo previo y actual, adherencia terapéutica y efectos adversos • Clínica de síndrome de apnea-hipopnea del sueño • Síntomas relacionados con HTA secundaria (tabla 4)
+Exploración física
+• Peso, talla, IMC y perímetro abdominal • Auscultación cardíaca y pulmonar. Descartar soplos abdominales y vasculares • Palpación de pulsos periféricos • Signos sugestivos de lesión de órgano diana. Valorar el fondo de ojo en pacientes con HTA
+de grados 2-3 • Signos relacionados con HTA secundaria (tabla 4)
+Exploraciones complementarias
+• Hemograma, perfil renal y hepático, perfil lipídico, ácido úrico, hemoglobina glicada, sistemático y sedimento de orina y microalbuminuria
+• ECG de 12 derivaciones • Ecocardiograma (valorar) • Pruebas para diagnóstico de HTA secundaria (tabla 4)
+DM: diabetes mellitus; ECG: electrocardiograma; ERC: enfermedad renal crónica; HTA: hipertensión arterial; IMC: índice de masa corporal, PA: presión arterial.
+ser conveniente derivar a una consulta especializada para descartar causas secundarias (5-15% de los casos), que se deben sospechar ante pacientes jóvenes (< 40 años), HTA resistente, empeoramiento brusco de la PA, emergencia hipertensiva (EH), extensa afectación de órgano diana o según las características específicas del paciente (tabla 4).
+3. TRATAMIENTO
+3.1. Inicio En la tabla 5 se muestran las indicaciones de tratamiento en menores de 80 años. A partir de los 80 años la recomendación para iniciar el tratamiento farmacológico es más laxa, el punto de corte se sitúa en 160/90 mmHg. La edad en sí no debe suponer un impedimento para el inicio de la medicación antihipertensiva.
+3.2. Objetivos terapéuticos El primer objetivo debe ser disminuir la PA por debajo de 140/90 mmHg. En caso de que sea bien tolerado, se puede ser más exigente.
+189
+
+Manual de Diagnóstico y Terapéutica Médica
+
+Tabla 4. Principales causas de hipertensión arterial secundaria y evaluación diagnóstica
+
+Causa
+
+Síntomas y signos sugestivos Cribado
+
+SAHS
+
+Ronquidos, obesidad, cefalea o somnolencia diurna
+
+Escala de Epworth y polisomnografía
+
+Enfermedad renal parenquimatosa
+
+Hematuria, proteinuria y masa abdominal (poliquistosis)
+
+Creatinina, iones, RAC en la orina, sedimento, ecografía y TC
+
+Fármacos/drogas de abuso
+
+ACO, glucocorticoides, AINE, descongestionantes nasales, cocaína, etc.
+
+Anamnesis
+
+Enfermedad renovascular
+
+Aterosclerosis
+
+Anciano, diabetes, tabaco, etc. Ausencia de pulsos periféricos
+
+Doppler renal
+
+Displasia fibromuscular
+
+Mujer, joven y soplo abdominal
+
+Causas endocrinas
+
+Hiperaldosteronismo primario
+
+Hipopotasemia
+
+Niveles plasmáticos de aldosterona y renina
+
+Feocromocitoma
+
+Episodios de sudoración, cefalea, palpitaciones y palidez
+
+Metanefrinas en la orina de 24 h/plasmáticas
+
+Síndrome de Cushing
+
+Cara «en luna llena», obesidad central, atrofia cutánea, etc.
+
+Cortisol libre en la orina y prueba de supresión nocturna con dexametasona
+
+Enfermedad tiroidea
+
+Clínica de hipo o hipertiroidismo
+
+Perfil tiroideo
+
+Otros: causas genéticas, cardiopatías congénitas (coartación de aorta), etc.
+
+ACO: anticonceptivos orales; AINE: antiinflamatorios no esteroideos; RAC: relación albúmina/creatinina; SAHS: síndrome de apnea-hipopnea del sueño; TC: tomografía computarizada.
+
+En todos los casos, independientemente de la edad y las comorbilidades, el objetivo final de PAD es de 70-80 mmHg, si bien la PAS objetivo varía según la edad: • Menos de 65 años: 120-129 mmHg. • 65 años o más: 130-139 mmHg. En estos pacientes está demostrada la reducción
+del RCV a expensas del control de la HTA, por lo que actualmente el enfoque es cada vez menos conservador. Es fundamental individualizar los objetivos en cada paciente y tener en cuenta el riesgo de efectos adversos (especialmente de caídas).
+3.3. Tratamiento no farmacológico
+Los cambios en el estilo de vida son el primer escalón en todos los pacientes hipertensos, necesiten o no medicación. Entre las medidas se incluyen:
+• Abandono del hábito tabáquico. • Restricción de la sal (< 5 g/día).
+
+190
+
+14. Hipertensión arterial y riesgo cardiovascular
+
+Tabla 5. Instauración de tratamiento en menores de 80 años
+
+Categoría de HTA (mmHg)
+
+Normal-alta (130-139/85-90)
+
+Grado 1 (140-159/90-99)
+
+Grados 2 y 3 (≥ 160/100)
+
+Cambios en el estilo de vida
+
+Siempre
+
+Siempre
+
+Siempre
+
+Tratamiento farmacológico
+
+Si el RCV es muy alto, especialmente en presencia de enfermedad coronaria
+
+• Si hay LOD: siempre
+• Alto/muy alto RCV: si hay enfermedad cardiovascular o renal
+• Bajo RCV: si persiste tras 3-6 meses de cambios en el estilo de vida
+
+Siempre
+
+HTA: hipertensión arterial; LOD: lesión de órgano diana; RCV: riesgo cardiovascular.
+
+• Aumento del consumo de vegetales, fruta fresca, pescado y ácidos grasos insaturados y disminución de carnes rojas.
+• Reducción de peso para un índice de masa corporal (IMC) de 20-25 kg/m2 y un perímetro abdominal inferior a 94 cm en hombres y a 80 cm en mujeres.
+• Realización de ejercicio aeróbico regular (≥ 30 min de ejercicio dinámico moderado 5-7 días/semana).
+• Disminución del consumo de alcohol a menos de 14 U/semana en hombres y a menos de 8 U/semana en mujeres.
+3.4. Tratamiento farmacológico
+El algoritmo farmacológico general se resume en la figura 1, y en la tabla 6 se muestran las peculiaridades de los principales grupos farmacológicos. Sobre este esquema se deben tener en cuenta algunas puntualizaciones:
+• Se prefieren las combinaciones de dos fármacos desde el inicio, aunque se puede considerar la monoterapia en pacientes con HTA de grado 1 de bajo RCV y en los muy mayores (≥ 80 años) o frágiles.
+• Los betabloqueantes se pueden iniciar en cualquier punto si existe indicación específica, como insuficiencia cardíaca, angina o antecedente de infarto agudo de miocardio, fibrilación auricular o deseo genésico, donde están contraindicados los inhibidores de la enzima convertidora de angiotensina (IECA) y los antagonistas de los receptores de angiotensina II (ARA II).
+• Es fundamental valorar la adherencia terapéutica antes de hacer modificaciones en el tratamiento.
+• Se debe considerar la combinación de antihipertensivos en un solo comprimido para mejorar la adherencia terapéutica.
+• En caso de que la PA no se controle a pesar de tres fármacos siendo uno un diurético (HTA resistente), se ha de considerar añadir espironolactona 25-50 mg al día. Si no es tolerada o existe contraindicación, se puede sumar otro diurético, un alfabloqueante o un betabloqueante. En un último escalón farmacológico se pueden considerar otros antihipertensivos, como la moxonidina.
+191
+
+Manual de Diagnóstico y Terapéutica Médica
+
+Terapia inicial: combinación de 2 fármacos
+
+IECA o ARA II + AC o diurético
+
+Triple combinación
+
+IECA o ARA II + AC + diurético
+
+HTA resistente: Triple combinación + otro
+
+IECA o ARA II + AC + diurético + espironolactona u otro diurético o AB o BB
+
+BB en cualquier nivel si hay indicación específica
+AB: alfabloqueante; AC: antagonista de los canales del calcio; ARA II: antagonistas de los receptores de angiotensina II; BB: betabloqueante; HTA: hipertensión arterial; IECA: inhibidores de la enzima convertidora de angiotensina. Figura 1. Estrategia farmacológica general para el tratamiento de la hipertensión.
+
+Tabla 6. Principales grupos farmacológicos de antihipertensivos, características y contraindicaciones
+
+Fármaco
+
+Indicaciones especiales
+
+Contraindicaciones absolutas
+
+IECA ARA II
+
+• IAM • Proteinuria
+
+• Embarazo • K > 5,5 mmol/l • EAR bilateral • Angioedema (IECA)
+
+Calcioantagonistas DHP (amlodipino, manidipino, etc.)
+
+• HTA sistólica aislada • Angina • Raza negra
+
+Calcioantagonistas no DHP (verapamilo y diltiazem)
+
+• Fibrilación auricular • Angina
+
+• BAV de alto grado • Bradicardia (< 60 lpm) • FEVI < 40%
+
+Diuréticos
+
+Del asa
+
+• IC descompensada
+
+Tiazidas
+
+• Proteinuria • HTA sistólica aislada • Raza negra
+
+• Gota
+
+Ahorradores de K antialdosterónicos
+
+• Proteinuria • Insuficiencia cardíaca
+
+• Hiperpotasemia
+
+Betabloqueantes
+
+• Insuficiencia cardíaca • Angina o IAM • Fibrilación auricular • Aneurisma aórtico
+
+• Asma • BAV de alto grado • Bradicardia (< 60 lpm)
+
+Alfabloqueantes
+
+• HBP
+
+ARA II: antagonistas de los receptores de angiotensina II; BAV: bloqueo auriculoventricular; DHP: dihidropiridínicos; EAR: estenosis de la arteria renal; FEVI: fracción de eyección del ventrículo izquierdo; HBP: hiperplasia benigna de próstata; HTA: hipertensión arterial; IAM: infarto agudo de miocardio; IC: insuficiencia cardíaca; IECA: inhibidores de la enzima convertidora de angiotensina.
+
+192
+
+14. Hipertensión arterial y riesgo cardiovascular
+4. EMERGENCIA HIPERTENSIVA
+4.1. Definición
+Es la situación en la que cifras muy elevadas de PA se asocian a daño agudo de órgano diana y, por tanto, requieren tratamiento inmediato. Los órganos diana cuya afectación define la EH son: corazón, retina, riñón, cerebro y grandes vasos.
+Hasta hace unos años se empleaba el término crisis hipertensiva para englobar la denominada urgencia hipertensiva y la EH. En la actualidad los expertos recomiendan evitar el término urgencia hipertensiva; en caso de PA elevada sin afectación de órgano diana, se prefiere denominar HTA mal controlada.
+La EH se suele presentar con cifras superiores a 180/120 mmHg, aunque no existe un umbral determinado, puesto que al mismo nivel de PA puede haber o no daño de órgano diana. La tasa de incremento de PA es más importante para el desarrollo de EH que la propia cifra aislada.
+4.2. Abordaje diagnóstico
+Ante una cifra de PA elevada, generalmente superior a 180/120 mmHg, el primer paso y de vital importancia es valorar la afectación de órgano diana. En caso de que estuviera presente (EH), obligaría a ser más agresivos en la reducción de la PA. El abordaje recomendado es el siguiente (figura 2):
+• Confirmar la cifra de PA. • Antecedentes: revisar diagnóstico previo de HTA, medicación habitual, cambios de
+tratamiento y adherencia terapéutica. • Detectar la afectación de órganos diana:
+
+Cifras elevadas de presión arterial (generalmente > 180/120)
+¿Daño de órgano diana?
+Anamnesis, exploración física y pruebas complementarias
+
+Emergencia hipertensiva Tratamiento específico e ingreso hospitalario
+
+PA mal controlada
+Tratamiento ambulatorio, ajuste de medicación previa o introducción de antihipertensivos orales
+
+Figura 2. Esquema de abordaje de la sospecha de emergencia hipertensiva. 193
+
+Manual de Diagnóstico y Terapéutica Médica
+– Clínica o focalidad neurológica: cefalea, encefalopatía hipertensiva e ictus isquémico o hemorrágico.
+– Afectación cardiovascular: edema agudo de pulmón hipertensivo, síndrome coronario agudo y síndrome aórtico agudo.
+– Insuficiencia renal aguda y/o microangiopatía trombótica. – Retinopatía hipertensiva de grados III (hemorragias y exudados) y IV (edema
+de papila). – Eclampsia o preeclampsia graves. • Pruebas complementarias: electrocardiograma, analítica con hemograma, creatinina, iones, lactato deshidrogenasa (LDH), troponina, creatina cinasa (CK), sistemático y sedimento de orina, frotis, radiografía de tórax y fondo de ojo. • Completar el estudio según los hallazgos (ecocardiograma, tomografía computarizada [TC] craneal, TC de aorta, etc.).
+4.3. Tratamiento
+4.3.1. Presión arterial mal controlada con cifras elevadas
+Una vez descartada la afectación de órgano diana y tratadas las causas intercurrentes de HTA (ansiedad, hipoxia, dolor y retención aguda de orina), se recomienda:
+• Asegurar un ambiente tranquilo y valorar administrar ansiolíticos: lorazepam 1-2 mg. • Repetir una nueva toma de PA en 15-30 min. Si persiste elevada se puede plantear
+administrar hipotensores orales: amlodipino 5-10 mg o enalapril 10-20 mg. • No reducir bruscamente la PA (evitar un descenso de > 30% de las cifras iniciales en
+las primeras horas) por riesgo de isquemia cerebral. • Objetivo: presión arterial inferior a 210/120 mmHg en 2-3 h y continuar el trata-
+miento ambulatorio. En caso contrario se planteará utilizar medicación intravenosa. • Normalizar totalmente la PA en un plazo de días o semanas.
+4.3.2. Emergencia hipertensiva
+El objetivo del tratamiento es evitar la progresión del daño del órgano diana. El tratamiento antihipertensivo, el objetivo de PA y la velocidad de la corrección dependen del órgano afectado. En general se prefiere la vía intravenosa de inicio y posteriormente la oral. No existe evidencia de un claro beneficio de unos fármacos sobre otros, pero en general se admiten las recomendaciones de tratamiento recogidas en las tablas 7 y 8.
+5. RIESGO VASCULAR
+5.1. Definición y factores de riesgo cardiovascular
+La enfermedad cardiovascular (ECV) es el resultado del proceso patológico de la aterosclerosis. Sus manifestaciones son resultado de la afectación en cualquier territorio vascular. El estilo de vida y los factores de riesgo (tabla 9) son los principales determinantes de su desarrollo.
+5.2. Manifestaciones clínicas
+La enfermedad aterosclerótica cursa inicialmente de forma asintomática. En caso de aparecer manifestaciones se denomina ECV establecida. Los síntomas dependen del territorio vascular afectado:
+194
+
+14. Hipertensión arterial y riesgo cardiovascular
+
+Tabla 7. Tratamiento de la emergencia hipertensiva en función del órgano afectado
+
+Presentación clínica
+
+Objetivo de PA
+
+Medicación de 1.ª y 2.ª línea
+
+MAT o daño renal agudo
+
+↓ PAM 20-25% en horas
+
+Labetalol Nicardipino1
+
+Nitroprusiato Urapidilo
+
+EAP hipertensivo
+
+PAS < 140 mmHg de inmediato
+
+Nitroglicerina y furosemida
+
+Urapidilo
+
+Síndrome coronario agudo
+
+PAS < 140 mmHg de inmediato
+
+Nitroglicerina
+
+Urapidilo
+
+Ictus isquémico y PA > 220/120 mmHg o si fibrinólisis y PA > 180/110 mmHg
+
+↓ PAM 10-15% de inmediato
+
+Labetalol Nicardipino1
+
+Nitroprusiato
+
+Ictus hemorrágico2 y PAS > 180 mmHg
+
+PAS < 180 mmHg de inmediato
+
+Labetalol Nicardipino1
+
+Urapidilo
+
+Encefalopatía hipertensiva
+
+↓ PAM 20-25% de inmediato
+
+Labetalol Nicardipino1
+
+Nitroprusiato
+
+Síndrome aórtico agudo
+
+PAS < 120 mmHg y FC < 60 lpm de inmediato
+
+Esmolol + nitratos Nicardipino
+
+Labetalol Metoprolol
+
+EAP: edema agudo de pulmón; FC: frecuencia cardíaca; MAT: microangiopatía trombótica; PA: presión arterial; PAM: presión arterial media; PAS: presión arterial sistólica. 1 El clevidipino si está disponible es una buena alternativa al nicardipino por su tiempo de acción ultracorto. 2 En la hemorragia subaracnoidea (ver cap. 61. Enfermedad vascular cerebral) se emplea habitualmente nimodipino.
+
+• Enfermedad coronaria. • Hipertrofia del ventrículo izquierdo y cardiopatía hipertensiva. • Enfermedad cerebrovascular. • Enfermedad arterial periférica. • Aneurisma aórtico y síndrome aórtico agudo. • Enfermedad renal crónica por nefroangiosclerosis.
+Los detalles de cada uno se explican en los capítulos correspondientes.
+5.3. Estimación del riesgo
+En caso de que ya exista afectación a alguno de los niveles descritos previamente, no se realiza estimación del riesgo puesto que se trata de ECV establecida y requiere intervención de inicio. En ausencia de afectación orgánica se recomienda estimar el RCV en el momento del contacto sanitario, especialmente en aquellos con algún factor de riesgo, y reevaluar periódicamente.
+En primer lugar se identifican los factores de riesgo cardiovascular (FRCV) tradicionales a través de la anamnesis y la exploración física y posteriormente, si se considera oportuno (en presencia de alguno), se determina su perfil lipídico. Esta información se utiliza habitualmente para calcular el RCV mediante la tabla SCORE (tabla 10). Según
+195
+
+Manual de Diagnóstico y Terapéutica Médica
+
+Tabla 8. Aspectos farmacológicos de la medicación hipotensora intravenosa
+
+Fármaco (presentación) administración
+
+Posología
+
+Inicio/ duración
+
+Contraindicaciones y otros
+
+Efectos adversos
+
+Urapidilo (ampollas 50 mg) bolo/continua
+
+Bolo 25 mg Perfusión: 250 mg/ 250 ml a 10-30 ml/h
+
+3-5 min/4-6 h
+
+Antecedentes de angioedema
+
+Cefalea, náuseas y vértigo
+
+Nitroglicerina (vial 25-50 mg) continua
+
+Perfusión: 50 mg/250 ml a 5-40 ml/h ↑ cada 5 min*
+
+1-5 min/ 3-5 min
+
+Cefalea y taquicardia
+
+Nitroprusiato (vial 50 mg) continua
+
+Perfusión 50 mg/ 500 ml de 10-30 ml/h
+
+Inmediato/ 3 min
+
+No emplear > 24-48 h Usar junto con B12
+
+Intoxicación por tiocianatos. Dolor abdominal, vómitos y cefalea
+
+Labetalol (vial 100 mg) bolo/continua
+
+Bolo 50 mg Perfusión: 200 mg/ 200 ml a 20 ml/h
+
+5-10 min/ 3-6 h
+
+Bloqueo auriculoventricular, asma y shock cardiogénico
+
+Vómitos, ortostatismo y bradicardia
+
+Nicardipino (vial 5 mg) continua
+
+Perfusión: 5 mg/100 ml a 5-15 ml/min, ↑ 2,5 ml/h cada 15 min*
+
+Insuficiencia hepática
+
+Cefalea y taquicardia
+
+Clevidipino (vial 25 mg) continua
+
+Vial 0,5 mg/ ml a 4-64 ml/ min, ↑ 4 ml/h /2 min*
+
+2-3 min/ 5-15 min
+
+Cefalea y taquicardia
+
+* Hasta alcanzar el objetivo de PA deseado.
+
+el SCORE se clasifica a los pacientes en función del riesgo de evento cardiovascular mortal a 10 años, que servirá para determinar el grado de intervención necesaria.
+En función de los FRCV y del riesgo calculado se debe plantear la búsqueda de lesión de órgano diana (albuminuria e hipertrofia ventricular izquierda en la HTA) y de aterosclerosis preclínica, especialmente en pacientes de riesgo moderado, puesto que pueden modificar el riesgo estimado y condicionar una necesidad de intervención más agresiva.
+Las técnicas más utilizadas para la detección de aterosclerosis preclínica son el índice brazo-tobillo, la determinación del grosor íntima-media mediante ecografía carotídea y la determinación del calcio coronario por TC.
+El riesgo real puede ser superior al SCORE en determinadas circunstancias:
+• Personas sedentarias o con obesidad central. • Pacientes con diabetes mellitus o enfermedad renal crónica.
+196
+
+14. Hipertensión arterial y riesgo cardiovascular
+
+Tabla 9. Principales factores de riesgo cardiovascular
+
+FRCV modificables
+
+FRCV no modificables
+
+• Obesidad y sedentarismo • Consumo de tabaco y alcohol • HTA • Dislipidemia • Diabetes mellitus
+
+• Edad • Varón • Antecedentes familiares de evento
+cardiovascular en edad temprana • Microalbuminuria y ↑ proteína C reactiva
+
+FRCV: factor de riesgo cardiovascular; HTA: hipertensión arterial.
+
+Tabla 10. Tabla SCORE con los países de bajo riesgo de enfermedad cardiovascular y riesgo de enfermedad cardiovascular fatal a los 10 años
+
+Mujer
+
+Hombre
+
+No fumadora
+
+Fumadora Edad No fumador
+
+Fumador
+
+180 4 5 6 6 7 9 9 11 12 14
+
+8 9 10 12 14 15 17 20 23 26
+
+160 3 3 4 4 5 140 2 2 2 3 3
+
+6 6 7 8 10 65 44567
+
+5 6 7 8 10 44567
+
+10 12 14 16 19 7 8 9 11 13
+
+120 1 1 2 2 2 3 3 3 4 4
+
+23345 55687
+
+180 3 3 3 4 4 160 2 2 2 2 3 140 1 1 1 2 2 120 1 1 1 1 1
+
+55678
+
+56789
+
+3 4 4 5 5 60 3 4 5 5 6
+
+22334
+
+23344
+
+1 2223
+
+22233
+
+10 11 13 15 18 7 8 9 11 13 55679 34456
+
+180 1 1 2 2 2 160 1 1 1 1 1 140 1 1 1 1 1 120 0 0 1 1 1
+
+33344
+
+34456
+
+2 2 2 3 3 55 2 2 3 3 4
+
+1 1 122
+
+1 2223
+
+11111
+
+1 1 122
+
+6 7 8 10 12 45678 33456 22334
+
+180 1 1 1 1 1 160 0 0 1 1 1 140 0 0 0 0 0 120 0 0 0 0 0
+
+1 1222
+
+22334
+
+1 1 1 1 1 50 1 1 2 2 2
+
+11111
+
+1 1 1 12
+
+000 1 1
+
+11111
+
+44567 23345 22233 1 1222
+
+180 0 0 0 0 0 160 0 0 0 0 0 140 0 0 0 0 0 120 0 0 0 0 0
+45678
+
+00000
+
+0
+
+111
+
+0 0 0 0 0 40 0 0 0 1 1
+
+00000
+
+00000
+
+00000
+
+00000
+
+45678
+
+45678
+
+1 1 122 11111 01 1 1 1 000 1 1 45678
+
+PRESIÓN ARTERIAL SISTÓLICA
+
+15% y mayor 10-14% 5-9%
+
+3-4% 2%
+
+1% < 1%
+
+150 200 250 300 mg/dl
+
+197
+
+Manual de Diagnóstico y Terapéutica Médica
+• Personas asintomáticas con evidencia de aterosclerosis subclínica. • Antecedentes familiares de ECV a edad precoz.
+5.4. Manejo terapéutico El objetivo del tratamiento es evitar el desarrollo de ECV y la progresión o repetición de eventos agudos en pacientes con ECV establecida. El manejo de los factores de riesgo se detalla en los capítulos correspondientes.
+En todos los casos el primer abordaje y de mayor influencia sobre el pronóstico vital es el cambio del estilo de vida: hábitos alimentarios saludables, cese de consumo de tóxicos (especialmente el tabaco) y realización de ejercicio físico.
+La introducción del tratamiento farmacológico dependerá del objetivo terapéutico fijado en función de las características del paciente (ver cap. 54. Trastornos lipídicos).
+
+BIBLIOGRAFÍA
+• Carey RM, Calhoun DA, Bakris GL, Brook RD, Daugherty SL, Dennison-Himmelfarb CR, et al. Resistant Hypertension: Detection, Evaluation, and Management: A Scientific Statement From the American Heart Association. Hypertension. 2018;72(5):e53-e90.
+• Mancia G, Rosei EA, Azizi M, Burnier M, Clement DL, Coca A, et al. 2018 ESC/ESH
+
+Guidelines for the management of arterial hypertension. Eur Heart J. 2018;39(33):30213104.
+• Van den Born B-JH, Lip GYH, Brguljan-Hitij J, Cremer A, Segura J, Morales E, et al. ESC Council on hypertension position document on the management of hypertensive emergencies. Eur Heart J. 2019;5(1):37-46.
+
+198
+
+CAPÍTULO
+
+15
+Insuficiencia cardíaca

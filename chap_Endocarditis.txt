@@ -1,0 +1,623 @@
+AUTORES:
+Javier Tomás Solera Rallo. Medicina Interna. Lorena Gómez Burgueño. Cardiología. Carolina Barajas Díaz. Cirugía Cardíaca.
+ASESORES:
+Laura Domínguez Pérez. Cardiología. Francisco López Medrano. Unidad de Enfermedades Infecciosas, Medicina Interna.
+1. ENDOCARDITIS INFECCIOSA
+1.1. Concepto
+La endocarditis infecciosa (EI) es la infección del endocardio valvular o mural o de los grandes vasos intratorácicos e incluye la infección de dispositivos intracardíacos. La EI tiene una incidencia estimada de 3-7 casos/100.000 personas/año y, a pesar de los avances médico-quirúrgicos, sigue presentando una alta morbimortalidad.
+1.2. Etiología
+Es variable y cambiante. En los últimos años las infecciones por Staphylococcus spp. y Enterococcus spp. han ido aumentando, a costa de una disminución de los Streptococcus spp. En la tabla 1 se resumen los principales microorganismos según ciertos factores predisponentes.
+1.3. El comité multidisciplinar de endocarditis
+Se recomienda la creación de un comité multidisciplinar local de endocarditis en cada hospital por haber demostrado reducción en la mortalidad en esta patología. El comité debe contar con expertos en enfermedades infecciosas, cardiología, cirugía cardíaca y microbiología y, a ser posible, neurología, electrofisiología, radiología y medicina nuclear.
+1.4. Clínica
+Está relacionada con la localización de la lesión, la naturaleza de la válvula (protésica o nativa) y la agresividad del patógeno. El síntoma más frecuente es la fiebre, que aparece hasta en el 90% de los casos, generalmente asociada a pérdida de peso, anorexia, astenia, sudoración nocturna y escalofríos. Las manifestaciones clínicas pueden derivarse de las complicaciones locales, como insuficiencia cardíaca y trastornos de conducción cardíaca, y ser resultado de complicaciones embólicas cerebrales, renales, esplénicas, a los miembros inferiores, etc.
+Los fenómenos mediados inmunológicamente y por microembolias son más típicos de las endocarditis subagudas y en las que se afectan las válvulas del lado izquierdo. No son exclusivas de la EI, pues pueden aparecer también en el lupus eritematoso sistémico (LES), la endocarditis trombótica no bacteriana, la anemia hemolítica y la infección gonocócica.
+En la tabla 2 se resumen las situaciones en las que se puede sospechar una EI.
+976
+
+66. Endocarditis infecciosa. Infección endovascular
+
+Tabla 1. Clasificación y principales etiologías de la endocarditis infecciosa
+
+EI sobre válvula nativa o EI Frecuentes: Staphylococcus aureus, Streptococcus grupo protésica tardía (> 12 meses) viridans y Staphylococcus coagulasa negativos
+
+Menos frecuentes: Enterococcus spp., Streptococcus gallolyticus (previamente Streptococcus bovis) y microorganismos del grupo HACEK
+
+EI protésica precoz (< 12 meses) o EI sobre electrodo de marcapasos/ DAI/dispositivo de TRC
+
+Frecuentes: Staphylococcus coagulasa negativos y S. aureus
+Menos frecuentes: Streptococcus grupo viridans y Enterococcus spp.
+
+EI sobre prótesis aórtica de TAVI
+
+Frecuentes: Enterococcus spp., Staphylococcus coagulasa negativos y S. aureus
+
+Menos frecuentes: Streptococcus grupo viridans y otras especies, bacilos gramnegativos y microorganismos del grupo HACEK
+
+UDVP
+
+Frecuentes: S. aureus
+
+Menos frecuentes: Streptococcus grupo viridans y betahemolíticos y Pseudomonas aeruginosa
+
+EI con hemocultivos negativos (por orden de frecuencia según bibliografía disponible)
+
+Staphylococcus spp.*, Streptococcus spp.*, Coxiella burnetii, Bartonella spp., Enterococcus spp.*, Tropheryma whipplei, microorganismos del grupo HACEK, Propionibacterium spp., Brucella spp., Abiotrophia spp. y Campylobacter spp.
+
+DAI: desfibrilador automático implantable; EI: endocarditis infecciosa; HACEK: Haemophilus spp., Aggregatibacter actinomycetemcomitans (antes Actinobacillus actinomycetemcomitans), Cardiobacterium spp., Eikenella corrodens y Kingella spp.; TAVI: implante percutáneo valvular aórtico; TRC: terapia de resincronización cardíaca; UDVP: usuarios de drogas por vía parenteral. * Hay que tener en cuenta que una de las principales causas son las EI con cultivos decapitados por la administración de tratamiento antibiótico previo a la extracción.
+
+Tabla 2. Cuándo sospechar endocarditis infecciosa
+1. Nuevo soplo cardíaco
+2. Eventos embólicos de origen desconocido
+3. Sepsis de origen desconocido (especialmente si está asociada a un organismo causante de EI)
+4. Fiebre relacionada con: • Material protésico intracardíaco (p. ej., válvula protésica, marcapasos, desfibrilador implantable) • Antecedentes de EI • Enfermedad valvular o cardiopatía congénita previa • Otras situaciones predisponentes (p. ej., UDVP) • Predisposición e intervención reciente con bacteriemia asociada • Evidencia de insuficiencia cardíada congestiva • Nuevo trastorno de conducción • HC positivo con microorganismo que característicamente causa EI o serología positiva para fiebre Q crónica (los resultados microbiológicos pueden preceder a las manifestaciones cardiacas) • Fenómeno vascular o inmunitario: evento embólico, manchas de Roth, hemorragias en astilla, lesiones de Janeway, nódulos de Osler • Síntomas y signos neurológicos focales o no específicos • Evidencia de embolia/infiltrados pulmonares (EI derecha) • Abscesos periféricos (renal, esplénico, cerebral, vertebral) de causa desconocida
+EI: endocarditis infecciosa; HC: hemocultivo; UDVP: usuarios de drogas vía parenteral.
+
+977
+
+Manual de Diagnóstico y Terapéutica Médica
+1.5. Diagnóstico
+A menudo resulta complicado y debe basarse tanto en la clínica como en la realización de pruebas complementarias. La figura 1 resume el abordaje inicial diagnóstico ante la sospecha de EI. A continuación se mencionan las principales pruebas diagnósticas que hay que tener en cuenta:
+a) Hemocultivos (HC): son imprescindibles para el diagnóstico microbiológico, aunque en un 5-10% de los casos son estériles. En la EI su rendimiento no es mayor en los picos febriles que fuera de ellos. El aislamiento de bacterias en una sola botella debe valorarse detenidamente antes de asumir el diagnóstico de EI, sobre todo si el microorganismo aislado es un potencial contaminante. Se deben obtener tres juegos de HC (con 10 ml de sangre en cada uno) de punciones venosas diferentes. Está indicada una nueva extracción a las 48-72 h del inicio de un tratamiento antibiótico eficaz contra el microorganismo causante de cara a valorar la presencia de bacteriemia de brecha. Se recomienda seguir extrayendo HC con esta frecuencia hasta constatar el aclaramiento de la bacteriemia.
+b) Pruebas de laboratorio: suelen presentar elevación de reactantes de fase aguda (proteína C reactiva [PCR], velocidad de sedimentación globular y leucocitosis moderada con desviación izquierda). En las EI subagudas pueden aparecer alteraciones inespecíficas, como anemia de trastornos crónicos, trombopenia, hipergammaglobulinemia, factor reumatoide positivo, presencia de crioglobulinas séricas, insuficiencia renal, hematuria o proteinuria.
+c) Radiografía de tórax: se deben valorar datos de insuficiencia cardíaca, dilatación de cavidades cardíacas secundarias a valvulopatías o embolia pulmonar séptica en caso de sospecha de EI de cavidades derechas.
+d) Electrocardiograma (ECG): permite detectar complicaciones cardíacas (ver apartado 1.8. Complicaciones).
+SOSPECHA CLÍNICA DE EI (tabla 2)
+
+Hemocultivos (3 sets de distintas
+venopunciones)
+
+Ecocardiograma transtorácico
+
+Otras pruebas complementarias (analítica, rx, ECG)
+
+Negativos
+
+Positivos
+
+Mantiene sospecha clínica de EI
+
+Positivo
+
+Negativo
+
+Cumple algún criterio de:
+• Válvula protésica • Dispositivo intracardíaco • Sospecha clínica elevada • Ausencia de diagnóstico
+alternativo
+
+Ver apartado 1.9.3. Endocarditis
+infecciosa con hemocultivos
+negativos
+
+Ecocardiograma transesofágico
+
+ECG: electrocardiograma; EI: endocarditis infecciosa; rx: radiografía.
+
+Sí
+
+No
+
+Buscar diagnósticos alternativos
+
+Figura 1. Algoritmo diagnóstico inicial ante la sospecha de endocarditis infecciosa.
+
+978
+
+66. Endocarditis infecciosa. Infección endovascular
+e) Ecocardiograma: el ecocardiograma transtorácico (ETT) debe ser la primera prueba que se realice. El ecocardiograma transesofágico (ETE) ofrece mayor sensibilidad, especialmente para evaluar válvulas protésicas y dispositivos intracardíacos. También permite la detección precoz de complicaciones locales y otras alteraciones que requieran abordaje quirúrgico. Debe realizarse siempre que el ETT no muestre signos de EI pero exista una sospecha clínica elevada. En caso de que el paciente presente shock cardiogénico, edema agudo de pulmón, trastornos de conducción o alta sospecha de EI por Staphylococcus aureus, se debe solicitar la valoración y/o realización del ETT de forma urgente.
+f) Tomografía computarizada (TC) coronaria y cardíaca sincronizada: la primera es útil para conocer la anatomía coronaria antes de una intervención en pacientes de alto riesgo para la realización de una coronariografía (p. ej., vegetación en la cara aórtica de la válvula aórtica). La TC cardíaca permite la valoración de complicaciones perivalvulares en pacientes en los que no pueden realizarse ETE o no queda clara la afectación en esta prueba.
+g) TC abdominal: permite valorar fenómenos embólicos en el abdomen. Su realización de rutina no aporta beneficio diagnóstico, por lo que solo ha de solicitarse en caso de que el paciente presente clínica sugestiva.
+h) Angiorresonancia magnética (angio-RM) cerebral: superior a la angio-TC en la identificación de lesiones en el sistema nervioso central (SNC), permite diagnosticar microhemorragias, microinfartos y aneurismas micóticos. Las indicaciones de realización se muestran en la figura 2.
+i) Pruebas de medicina nuclear (tomografía por emisión de positrones con TC utilizando 18F-fluorodesoxiglucosa [18F-FDG PET-TC] y TC por emisión de fotón único con TC [SPECT-TC] con leucocitos marcados): su incorporación ha permitido aumentar mucho la sensibilidad del diagnóstico de EI (97%). Son especialmente útiles en pacientes con sospecha de EI sobre válvula protésica, aunque hay que considerar la posibilidad de falsos positivos en las PET-TC realizadas en el año siguiente a la cirugía valvular. En sospecha de EI sobre válvula nativa presentan una elevada tasa de falsos negativos, pero pueden resultar útiles en la búsqueda de lesiones embólicas periféricas en caso de dudas diagnósticas.
+A pesar del amplio abanico de pruebas, el diagnóstico de certeza solo se establece cuando se realiza un estudio histológico y microbiológico de las vegetaciones y del material obtenido en la cirugía o en la necropsia. En consecuencia, se ha generalizado el uso de los criterios de clasificación diagnóstica establecidos por la Universidad de Duke (sensibilidad del 80%), modificados posteriormente, que combinan criterios clínicos, microbiológicos y de imagen (tabla 3). Pese a su amplia aceptación, su utilidad es mayor en el ámbito de la investigación que en la práctica clínica. En ningún caso la ausencia de criterios diagnósticos debe retrasar el inicio del tratamiento antibiótico y la consulta con un experto/comité de EI.
+1.6. Pronóstico
+La mortalidad hospitalaria de los pacientes con EI es del 15-30%, por lo que resulta de vital importancia su rápida identificación, un tratamiento correcto y un abordaje multidisciplinar. Los principales factores de mal pronóstico son: edad avanzada, EI sobre válvula protésica, diabetes mellitus, comorbilidad, insuficiencia cardíaca o renal aguda, ictus, shock séptico, infección por S. aureus, hongos o bacilos gramnegativos no pertenecientes a grupo HACEK, complicaciones perianulares, regurgitación valvular izquierda grave, disfunción ventricular izquierda, ­hipertensión pulmonar, vegetaciones grandes (> 10 mm) y móviles, disfunción protésica grave, signos de presión diastólica elevada y presencia de bacteriemia de brecha.
+979
+
+Manual de Diagnóstico y Terapéutica Médica
+
+Tabla 3. Clasificación diagnóstica de la endocarditis infecciosa según los criterios de Duke modificados de la Sociedad Europea de Cardiología (ESC 2015)
+
+Criterios patológicos
+
+a) Microorganismos demostrados por cultivo o en un examen histológico de una vegetación, una vegetación que ha embolizado o una muestra de absceso intracardíaco o
+b) Lesiones patológicas (vegetación o absceso intracardíaco confirmado por examen histológico que muestra endocarditis activa)
+
+Criterios mayores
+
+a) Un aislamiento microbiológico congruente con endocarditis infecciosa: – Al menos 2 HC de venopunciones diferentes positivos para un microorganismo típico de la EI: • Streptococcus grupo viridans, Streptococcus gallolyticus, grupo HACEK y Staphylococcus aureus o • Enterococos adquiridos en la comunidad en ausencia de un foco primario – HC persistentemente positivos para un microorganismo que puede producir EI: • ≥ 2 cultivos positivos de muestras sanguíneas separadas por > 12 h o • la totalidad de 3 o la mayoría de ≥ 4 HC separados (con la primera y la última muestra tomadas con ≥ 1 h de diferencia) – HC positivo único para Coxiella burnetii o serología positiva (detección de títulos de anticuerpos IgG fase I > 1:800)
+b) Una prueba de imagen compatible con endocarditis: – Ecocardiograma positivo para EI: vegetación, absceso, pseudoaneurisma, fístula intracardíaca, perforación valvular, nueva dehiscencia de válvula protésica o nueva regurgitación valvular – Actividad anormal en el sitio de implantación de la prótesis valvular (solo si la prótesis lleva implantada > 3 meses), detectada por 18F-FDG PET-TC o SPECT-TC con leucocitos marcados – Existencia de lesiones paravalvulares en la TC cardíaca
+
+Criterios menores
+
+a) Predisposición: enfermedad cardíaca predisponente o UDVP b) Fiebre definida como temperatura > 38 °C c) Fenómenos vasculares (incluidos los detectados solo por prueba de imagen): embolia
+arterial grave, infarto pulmonar séptico, aneurisma micótico, hemorragia intracraneal, hemorragia conjuntival o lesiones de Janeway d) Fenómeno inmunitario: glomerulonefritis, nódulos de Osler, manchas de Roth o factor reumatoide e) Evidencia microbiológica: HC positivo que no cumple un criterio mayor o evidencia serológica de infección activa por un microorganismo consistente con la EI
+
+Clasificación diagnóstica
+
+EI definitiva • 1 criterio patológico o • 2 criterios mayores o • 1 criterio mayor
+y 3 menores o • 5 criterios menores
+
+EI posible • 1 criterio mayor
+y 1 menor o • 3 criterios
+menores
+
+EI descartada • Alternativa diagnóstica clara o • Resolución de síntomas de EI con < 4 días
+de antibioterapia o • Ausencia de evidencia patológica en cirugía
+o autopsia con < 4 días de antibioterapia o • No cumple criterios de EI posible mostrados
+arriba
+
+18F-FDG PET-TC: 18F-fluorodesoxiglucosa con tomografía por emisión de positrones-tomografía computarizada; EI: endocarditis infecciosa; HACEK: Haemophilus spp., Aggregatibacter actinomycetemcomitans, Cardiobacterium hominis, Eikenella corrodens y Kingella kingae; HC: hemocultivos; Ig: inmunoglobulina; SPECTTC: tomografía computarizada por emisión de fotón único con tomografía computarizada; UDVP: usuarios de drogas por vía parenteral.
+
+980
+
+66. Endocarditis infecciosa. Infección endovascular
+
+CRITERIOS MODIFICADOS DE DUKE (tabla 3)
+
+EI DEFINITIVA
+
+EI POSIBLE
+
+EI DESCARTADA
+
+VÁLVULA PROTÉSICA
+
+VÁLVULA NATIVA
+
+Pruebas diagnósticas adicionales recomendadas:
+
+Repetir ETE a los 7 días
+18F-FDG PET-TC o SPECT-TC con leucocitos
+marcados
+
+Buscar diagnósticos alternativos
+
+TC cardíaco sincronizado*
+
+Busqueda de embolias sistémicas: PET-TC
+
+Si cumple algún criterio de: • Clínica neurológica • Necesidad de
+anticoagulación • Indicación cirugía
+
+Si presenta clínica abdominal: TC abd.
+Angio-RM / Angio-TC cerebral
+
+18F-FDG PET-TC: 18F-fluorodesoxiglucosa con tomografía por emisión de positrones-tomografía computarizada; abd.: abdominal; EI: endocarditis infecciosa; ETE: ecocardiograma transesofágico; RM: resonancia magnética; SPECT-TC: tomografía computarizada por emisión de fotón único. * La realización de TC cardíaca sincronizada se debe plantear en caso de sospecha de afectación paravalvular e incapacidad para realizar ETE o dudas diagnósticas en esta.
+Figura 2. Abordaje diagnóstico avanzado (una vez establecida la valoración inicial).
+
+1.7. Tratamiento
+1.7.1. Tratamiento antibiótico empírico Debe iniciarse inmediatamente después de la extracción de los HC iniciales y cubrir los principales microorganismos causantes según las características del paciente (tabla 4). Se debe ajustar en cuanto se disponga del resultado de los cultivos. Dada la necesidad de tratamiento intravenoso prolongado, se recomienda valorar el implante de un catéter central de acceso periférico (PICC) lo antes posible.
+1.7.2. Tratamiento antibiótico dirigido En la tabla 4 se resumen los principales esquemas recomendados por expertos del Hospital Universitario 12 de Octubre.
+981
+
+Manual de Diagnóstico y Terapéutica Médica
+Tabla 4. Principales esquemas de tratamiento antibiótico según la recomendación de expertos del Hospital Universitario 12 de Octubre
+Tratamiento antibiótico empírico
+a) Sin alergia a betalactámicos – Daptomicina 10 mg/kg/24 h + ampicilina 2 g/4 h + ceftriaxona 2 g/12 h
+b) Con alergia a betalactámicos1 – Daptomicina 10 mg/kg/24 h + gentamicina 3 mg/kg/24 h i.v.2 – Aclaramiento de creatinina < 30 ml/min: sustituir gentamicina por fosfomicina 2 g/6 h i.v.3
+Tratamiento antibiótico dirigido4
+Staphylococcus spp.
+a) Meticilín sensible sobre válvula nativa – Cefazolina 2 g/8 h durante 4-6 semanas (2 semanas en la EI derecha). Alternativa: cloxacilina 2 g/4 h – Valorar asociar daptomicina 10 mg/kg/24 h hasta la negativización de los HC
+b) Meticilín resistente sobre válvula nativa – Daptomicina 10 mg/kg/24 h durante 4-6 semanas. Valorar asociar cefazolina 2 g/8 h – Si causada por SARM o presencia de bacteriemia de brecha: daptomicina 10 mg/kg/24 h + ceftarolina 600 mg/8 h5
+c) Válvula protésica/dispositivo intracardíaco – Tratamiento según la sensibilidad a la meticilina durante un mínimo de 6-8 semanas – Si no hay recambio protésico o extracción del dispositivo intracardíaco: añadir rifampicina 300 mg/8 h v.o. tras un mínimo de 3-5 días de antibioterapia y hasta finalizarla, comprobando previamente el aclaramiento de la bacteriemia en HC de control
+d) Con alergia a betalactámicos1 – Daptomicina 10 mg/kg/24 h ± fosfomicina 2 g/6 h i.v. de 4 (válvula nativa) a 8 semanas (presencia de material protésico)3
+Streptococcus spp.
+a) CMI penicilina < 0,125 mg/l – Ceftriaxona 2 g/24 h durante 4 semanas (6 semanas en la válvula protésica) – En caso de EI sobre válvula nativa no complicada, sin riesgo de fallo renal, alternativa: ceftriaxona 2 g/24 h + gentamicina 3 mg/kg/24 h durante 2 semanas2
+b) CMI penicilina 0,125-2 mg/l – Ceftriaxona 2 g/24 h + gentamicina 3 mg/kg/24 h durante 4 semanas (6 en la válvula protésica)2
+Enterococcus spp.
+– Ampicilina 2 g/4 h + ceftriaxona 2 g/12 h durante 4 semanas (6 en la válvula protésica)
+CMI: concentración mínima inhibitoria; EI: endocarditis infecciosa; HC: hemocultivo; SAMR: Staphylococcus aureus meticilín resistente. 1 Consultar al Servicio de Alergología. 2 Se recomienda administrar gentamicina en dosis única diaria para reducir su toxicidad. 3 Vigilar los datos de insuficiencia cardíaca en pacientes con disfunción ventricular en tratamiento con fosfomicina i.v. por la importante sobrecarga hidrosalina que supone. 4 Valorar el tratamiento de consolidación con dalbavancina o tratamiento oral (ver texto a continuación). 5 Bacteriemia de brecha: persistencia de crecimiento en HC del microorganismo causante de la EI tras 48 h o más de tratamiento antibiótico activo frente a este.
+982
+
+66. Endocarditis infecciosa. Infección endovascular
+La dalbavancina es un antibiótico que, debido a su posología (1.500 mg en dosis única cada 2 semanas), permite el alta precoz de pacientes con EI, ahorrando costes y disminuyendo complicaciones. Ha demostrado ser segura en el tratamiento en fase de consolidación (tras el aclaramiento de la bacteriemia) en EI causadas por la mayoría de los microorganismos grampositivos (incluidos Staphylococcus aureus resistente a la meticilina [SARM] y Enterococcus spp. resistentes a vancomicina). Por su parte, el tratamiento oral de la EI ha demostrado ser eficaz como tratamiento de consolidación (en pacientes estables tras al menos 10 días de tratamiento intravenoso) de la EI por estreptococos, enterococos y estafilococos sensibles a la meticilina en ensayo clínico. En cualquier caso, no se aconseja el uso de ninguno de estos tratamientos sin consultar previamente con un experto.
+1.7.3. Anticoagulación y antiagregación
+Actualmente no está indicado el inicio de ningún tratamiento antitrombótico (anticoagulante y/o antiagregante) de novo en el contexto de una EI. El abordaje de los pacientes con EI que se encuentran bajo tratamiento crónico antitrombótico supone un gran desafío dados la escasa evidencia científica al respecto y el alto riesgo embólico y hemorrágico que presentan (especialmente en el SNC). En general, las decisiones deben tomarse de forma individualizada por parte del comité multidisciplinar.
+En la figura 3 se expone una propuesta de abordaje de la anticoagulación en pacientes bajo tratamiento crónico. Respecto al tratamiento antiagregante, en caso de sangrado mayor se recomienda su suspensión si el paciente lo estaba tomando; de lo contrario, puede mantenerse.
+1.7.4. Indicaciones de cirugía
+Aunque hasta la mitad de los pacientes con EI tienen indicación quirúrgica durante la evolución de la enfermedad, hasta un 30% de ellos no serán intervenidos por presentar un riesgo quirúrgico prohibitivo debido a edad, comorbilidades graves, fallo multiorgánico o agresividad de la técnica quirúrgica. Las indicaciones de cirugía se resumen en la tabla 5.
+Las escalas de riesgo perioperatorio de uso habitual en cirugía cardíaca no son aplicables en la EI y, aunque se han creado otras (RISK-E, AEPEI score, EndoSCORE y ­PALSUSE score), aún se encuentran en estudio para validar su capacidad predictiva. Por tanto, la decisión quirúrgica debe ser individualizada en todos los casos.
+1.8. Complicaciones
+1.8.1. Cardíacas
+a) Insuficiencia cardíaca: es la complicación más frecuente (se observa en un 42-60% de los pacientes) y constituye la indicación más habitual de cirugía. La clínica incluye disnea, edema agudo de pulmón o shock cardiogénico. Se debe fundamentalmente a la afectación valvular (rotura de cuerda, perforación o rotura de velos e insuficiencia valvular por interferencia de la vegetación). La determinación de péptidos natriuréticos (BNP, NT-proBNP) tiene utilidad en el diagnóstico, así como valor pronóstico.
+b) Extensión perivalvular: en forma de absceso, pseudoaneurisma, fístula o dehiscencia valvular (leak periprotésico), es la causa más frecuente de infección no controlada. Conlleva una alta tasa de mortalidad (41%) y resulta frecuente la necesidad de cirugía (87%). Debe sospecharse en casos de fiebre persistente, prolongación del intervalo PR o aparición de bloqueos auriculoventriculares (AV).
+983
+
+Manual de Diagnóstico y Terapéutica Médica 984
+
+TRATAMIENTO ANTICOAGULANTE PREVIO
+
+No
+No iniciar tratamiento anticoagulante (incluida
+tromboprofilaxis)
+En caso de baja movilidad se recomienda tromboprofilaxis mecánica (p. ej. dispositivos de compresión neumática)
+
+Ictus isquémico/ hemorragia intracraneal/
+sangrado masivo
+Suspender tratamiento anticoagulante
+Reinicio guiado por el equipo multidisciplinar de endocarditis (precoz en caso de alto riesgo
+tromboembólico)
+
+Sí
+
+Fibrilación auricular
+CHA2DS2-VASc
+
+≤ 11
+
+≥ 22
+
+Consultar siempre que sea posible con un experto/comité de EI
+Ausencia de complicaciones en el sistema nervioso central
+
+Enfermedad tromboembólica
+venosa
+
+Fase crónica
+
+Fase aguda
+
+Prótesis valvular mecánica
+Sustitución del tratamiento
+anticoagulante previo por HNF con
+control estrecho del TTPa o, como alternativa, HBPM
+las primeras 1-2 semanas de enfermedad
+
+EI: endocarditis infecciosa; HBPM: heparina de bajo peso molecular; HNF: heparina no fraccionada; TTPa: tiempo de tromboplastina parcial activado. 1 CHA2DS2-VASc ≤ 1 en varones, ≤ 2 en mujeres. 2 CHA2DS2-VASc ≥ 2 en varones, ≥ 3 en mujeres.
+Figura 3. Algoritmo diagnóstico inicial ante la sospecha de endocarditis infecciosa.
+
+66. Endocarditis infecciosa. Infección endovascular
+Tabla 5. Indicaciones para la cirugía en la endocarditis infecciosa sobre válvula nativa o protésica
+Insuficiencia cardíaca
+a) Regurgitación aórtica o mitral aguda grave, obstrucción valvular o fístula en cámara cardíaca o pericardio que causa edema agudo de pulmón refractario o shock cardiogénico (cirugía en < 24 h)
+b) Regurgitación aórtica o mitral grave u obstrucción valvular que causa insuficiencia cardíaca persistente o datos ecocardiográficos de mala tolerancia hemodinámica (cierre mitral precoz, presión elevada en la aurícula izquierda o hipertensión pulmonar moderada-grave) (cirugía urgente)
+c) Regurgitación aórtica o mitral grave sin insuficiencia cardíaca (cirugía electiva, sobre todo en pacientes con bajo riesgo para cirugía)
+Infección no controlada
+a) Infección localmente no controlada (absceso, pseudoaneurisma, fístula y crecimiento de vegetación) o fiebre y HC persistentemente positivos tras 2-3 días de adecuado tratamiento y control de las metástasis sépticas (cirugía urgente)
+b) Organismos con pobre respuesta al tratamiento médico: hongos (Candida spp.), microorganismos de difícil erradicación microbiológica, bacilos gramnegativos no-HACEK (Pseudomonas aeruginosa), estafilococo sobre prótesis y Brucella spp. (cirugía urgente)
+Prevención de embolias (individualizar según riesgo-beneficio)
+a) Vegetaciones grandes (> 10 mm) con: – Uno o más episodios embólicos a pesar del tratamiento antibiótico adecuado – Asociadas a otras complicaciones que requieren cirugía
+b) Vegetaciones muy grandes (> 30 mm*) sin otras complicaciones (cirugía urgente)
+HACEK: Haemophilus spp., Aggregatibacter actinomycetemcomitans, Cardiobacterium hominis, Eikenella corrodens y Kingella kingae; HC: hemocultivos. * En los pacientes con vegetaciones de 15-30 mm sin otras indicaciones de cirugía, se debe individualizar la necesidad de cirugía en el seno del comité multidisciplinar de EI.
+c) Otras: – Trastornos del ritmo y de la conducción: son complicaciones poco frecuentes (1-15%) que se deben a la extensión de la infección hacia el tejido de conducción. El bloqueo AV completo suele asociarse a la afectación de válvulas del lado izquierdo por su proximidad con el nodo AV y sugiere la presencia de un absceso miocárdico con un valor predictivo positivo del 88%. – Miocarditis: se asocia a la formación de abscesos o reacción inmune. – Derrame pericárdico: puede deberse a respuesta inflamatoria, complicaciones perivalvulares y rotura de pseudoaneurismas o fístulas hacia la cavidad pericárdica.
+1.8.2. Extracardíacas
+a) Embolismos: las embolias sistémicas representan una complicación frecuente (2250%, o incluso más si se consideran las asintomáticas) y potencialmente mortal. La mayoría afectan al SNC y el bazo en la EI izquierda, mientras que la embolia pulmonar es frecuente en la EI derecha o sobre cable de marcapasos. Pueden generar abscesos metastásicos (especialmente en bazo, SNC, riñón o psoas). Los abscesos esplénicos suelen ser paucisintomáticos o manifiestarse como fiebre o bacteriemia persistente, y es frecuente que precisen esplenectomía para su resolución. Ante abscesos cerebrales se debe valorar junto con neurocirugía la posibilidad de drenaje.
+985
+
+Manual de Diagnóstico y Terapéutica Médica
+b) Complicaciones neurológicas: hasta un 80% de los pacientes las desarrollan (hasta un 35% son sintomáticas). Incluyen: ictus isquémico (embolización de fragmentos de vegetación), hemorragias cerebrales (debido a transformación hemorrágica o rotura de aneurismas micóticos), abscesos cerebrales, meningitis purulenta (en los pacientes con meningitis por S. aureus se debe sospechar la presencia de una EI) o aséptica, encefalopatía aguda, convulsiones, etc. Se trata de las complicaciones que conllevan peor pronóstico (solo por detrás del shock séptico), con mortalidad superior al 30%, que llega al 50% en algunas series. En el abordaje del ictus isquémico la fibrinólisis está contraindicada por el altísimo riesgo de transformación hemorrágica. Sin embargo, la trombectomía es una alternativa válida en casos seleccionados. Es fundamental la consulta precoz con Neurología (Código ictus). Los aneurismas micóticos se producen en la bifurcación de vasos al embolizar un fragmento de vegetación. Se denominan micóticos por su morfología en forma de seta. La mayoría son asintomáticos hasta su rotura, lo que conlleva en este caso una elevada mortalidad por sangrado a nivel del SNC. Por ello, se deben buscar activamente (mediante angio-RM o angio-TC cerebral) antes de intervenciones quirúrgicas cardíacas o que requieran circulación extracorpórea, o del inicio de tratamiento anticoagulante con el objetivo de valorar si requieren tratarse previamente.
+c) Insuficiencia renal aguda: es una complicación frecuente (6-30%) que se asocia a mayor riesgo de muerte intrahospitalaria. La etiología es multifactorial: infarto renal por embolia séptica, hipoperfusión por compromiso hemodinámico, glomerulonefritis y nefrotoxicidad (antibióticos y contraste). Se recomienda ajustar las dosis de antibioterapia a la función renal (especialmente aminoglucósidos y vancomicina) y evitar utilizar contrastes en la medida de lo posible.
+d) Complicaciones reumáticas: la afectación musculoesquelética es frecuente en la EI: artralgias (10%), mialgias (12-15%), dolor lumbar (13%), artritis periférica (14%), espondilodiscitis (1,8-15%) y osteomielitis (4,9-19%). En pacientes con EI y dolor lumbar se debe descartar osteomielitis vertebral mediante RM o 18F-FDG PET-TC. Se recomienda realizar ETT en pacientes con osteomielitis o espondilodiscitis piógena y patología cardíaca predisponente para EI.
+1.9. Situaciones especiales
+1.9.1. Dispositivos intracardíacos no valvulares
+La EI asociada a dispositivos intracardíacos no valvulares (DCNV) es una entidad cada vez más frecuente debido al aumento de indicaciones de implante de marcapasos, desfibrilador automático implantable (DAI) y terapia de resincronización cardíaca (TRC) y al envejecimiento de estos pacientes.
+Se debe distinguir entre:
+a) Inflamación tras el implante (primeros 30 días): eritema en la zona de implante sin otros datos de infección (la valoración debe realizarla un experto en electrofisiología y arritmias, preferiblemente del equipo que implantó el dispositivo).
+b) Infección local de la bolsa del generador: eritema, tumefacción, dolor, supuración, fístula y erosión de la piel. La infección del bolsillo puede producirse durante el implante o debido a la erosión cutánea del dispositivo. Con menor frecuencia se puede producir por diseminación hematógena desde un foco infeccioso a distancia.
+986
+
+66. Endocarditis infecciosa. Infección endovascular
+c) EI asociada a DCNV (infección extendida a electrodo, válvula o endocardio): afectación sistémica con fiebre, escalofríos y alteraciones analíticas.
+Respecto a la etiología, los estafilococos coagulasa negativos son los microorganismos aislados con mayor frecuencia (60-80%). Ocasionalmente se deben a otras especies, como Corynebacterium spp., Propionibacterium acnes, bacilos gramnegativos, Candida spp. o infecciones polimicrobianas.
+La presentación clínica de la EI asociada a DCNV es variable, desde afectación respiratoria por embolias pulmonares sépticas y síntomas reumatológicos hasta fiebre aislada.
+Para el diagnóstico se requiere realizar una ETE, independientemente del resultado de la ETT y los HC. En caso de resultado negativo de la ecocardiografía y HC positivos, debe considerarse la SPECT-TC con leucocitos marcados o 18F-FDG PET-TC.
+El tratamiento incluye antibioterapia prolongada y retirada completa del dispositivo. Se recomienda mantener al menos 2 semanas la antibioterapia parenteral y, en caso de persistencia de HC positivos, prolongarla hasta 4 semanas. La retirada percutánea o quirúrgica del dispositivo debe ser una decisión individualizada. En pacientes dependientes de marcapasos se ha de implantar un sistema transitorio hasta el reimplante del nuevo dispositivo, que tiene que ser en el lado contralateral tras al menos 72 h de HC negativos.
+1.9.2. Endocarditis de cavidades derechas
+Representa el 5-10% de los casos de EI. El microorganismo más frecuente es S. aureus (60-90%), y cada vez es más prevalente el SARM, así como las infecciones polimicrobianas. Los factores de riesgo se recogen en la tabla 6.
+Las manifestaciones clínicas incluyen fiebre persistente, embolias pulmonares sépticas (nódulos múltiples de pequeño tamaño y habitualmente periféricos que pueden cavitarse) o embolias paradójicas. Para el diagnóstico se necesita realizar ETT y ETE, siendo esta última la prueba más sensible para detectar vegetaciones en las cavidades derechas, especialmente sobre la válvula pulmonar.
+El tratamiento antibiótico no difiere del de la EI de las cavidades izquierdas. No suele requerirse cirugía y se desaconseja en UDVP por la alta probabilidad de recurrencia si se mantiene el consumo. En la tabla 7 se enumeran los criterios de tratamiento quirúrgico.
+Tabla 6. Factores de riesgo de endocarditis infecciosa de cavidades derechas
+a) UDVP (especialmente en infección concomitante por VIH e inmunosupresión) b) Dispositivos intracardíacos implantables (marcapasos, DAI y TRC) c) Catéter venoso central d) Cardiopatías congénitas
+DAI: desfibrilador automático implantable; TRC: terapia de resincronización cardíaca; UDVP: usuarios de drogas vía parenteral; VIH: virus de la inmunodeficiencia humana.
+Tabla 7. Criterios de tratamiento quirúrgico de endocarditis infecciosa de las cavidades derechas
+• Síntomas intratables (insuficiencia cardíaca derecha) • Fracaso del tratamiento médico (hongos, bacteriemia persistente por Staphylococcus
+aureus o Pseudomonas aeruginosa durante más de 7 días) • Embolias pulmonares sépticas recurrentes • Embolias paradójicas
+987
+
+Manual de Diagnóstico y Terapéutica Médica
+1.9.3. Endocarditis infecciosa con hemocultivos negativos
+Se trata de la EI en la que no se consigue el aislamiento del microorganismo responsable mediante los métodos de cultivo habituales. En la tabla 1 se resumen los principales microorganismos causantes por orden de frecuencia. Dada su baja frecuencia y la dificultad de su tratamiento, hay que consultar con un experto.
+Ante la sospecha de EI con HC negativos, se recomienda extraer:
+• Serologías (Coxiella burnetii, Bartonella spp., Brucella spp. y Mycoplasma spp.). • Antigenuria de Legionella pneumophila. • Galactomanano (Aspergillus spp.).
+En pacientes sometidos a tratamiento quirúrgico de la EI, se recomienda realizar una PCR sobre muestra quirúrgica. En centros en los que se encuentre disponible, hay que valorar la PCR en la sangre (S. aureus, Tropheryma whipplei, Escherichia coli, Streptococcus gallolyticus, Streptococcus mitis, Enterococcus spp. y hongos). En caso de que todos los resultados sean negativos, se debe considerar endocarditis no infecciosa.
+1.9.4. Endocarditis trombótica no bacteriana o endocarditis marántica
+Se caracteriza por vegetaciones estériles de agregados de fibrina y plaquetas sin destrucción valvular ni bacteriemia asociadas en pacientes con patologías predisponentes (tabla 8).
+Resulta esencial diferenciarla de la EI. El diagnóstico de la endocarditis trombótica no bacteriana (ETNB) se basa en una alta sospecha clínica en el contexto de una patología asociada a esta entidad, la presencia de vegetaciones que no responden al tratamiento antibiótico y la evidencia de embolias sistémicas (manifestación clínica más frecuente). Se deben extraer HC seriados para descartar la EI.
+El tratamiento de la ETNB requiere tratar la patología de base y, en caso de ausencia de contraindicación, se recomienda iniciar anticoagulación.
+Tabla 8. Patologías asociadas a endocarditis trombótica no bacteriana
+• UDVP (especialmente en infección concomitante por VIH e inmunosupresión) • Neoplasias • Enfermedades autoinmunes (endocarditis de Libman-Sacks en LES y síndrome
+antifosfolípido) • Estados de hipercoagulabilidad • Grandes quemados • Patologías crónicas (tuberculosis, infección por VIH y uremia)
+LES: lupus eritematoso sistémico; UDVP: usuario de drogas vía parenteral; VIH: virus de la inmunodeficiencia humana.
+1.9.5. Endocarditis fúngica
+La endocarditis fúngica (EF) se observa con más frecuencia en pacientes portadores de válvulas protésicas, catéter venoso central, UDVP, inmunosuprimidos, sometidos a cirugía abdominal, con antibioterapia de amplio espectro o nutrición parenteral. Los microorganismos más frecuentes son Candida spp. y Aspergillus spp. Es necesario el tratamiento farmacológico mediante combinación de antifúngicos y la sustitución valvular quirúrgica (cuando no haya contraindicación para ella).
+988
+
+66. Endocarditis infecciosa. Infección endovascular
+
+1.10. Profilaxis y prevención
+La profilaxis antibiótica está recomendada en pacientes con alto riesgo de EI, que se resumen en tres grupos: a) Portadores de válvulas protésicas u otro material protésico utilizado para la repa-
+ración de la válvula. b) Pacientes con antecedente de EI. c) Pacientes con cardiopatías congénitas cianóticas o cualquier cardiopatía congénita
+reparada con material protésico, hasta 6 meses después del procedimient­o, o de por vida si queda shunt residual o insuficiencia valvular.
+
+No está recomendada en pacientes con enfermedad de válvula nativa. Los escenarios que requieren profilaxis antibiótica y la pauta recomendada se resumen en la tabla 9.
+
+Tabla 9. Recomendación de profilaxis antibiótica en función del escenario clínico
+
+Procedimientos dentales con manipulación gingival, periapical del diente o perforación de la mucosa oral
+
+• No alérgicos: amoxicilina 2 g v.o. DU o alternativas (ampicilina 2 g i.v., cefalexina 2 g i.v., cefazolina 1 g i.v. o ceftriaxona 1 g i.v. DU)
+• Alérgicos: clindamicina 600 mg v.o. DU
+
+Manipulación de tejidos infectados
+
+• Tracto respiratorio: vancomicina 1 g i.v. DU • Tracto gastrointestinal y genitourinario:
+ampicilina 2 g i.v. DU • Piel, tejidos blandos y osteomuscular: vancomicina 1 g
+i.v. + amoxicilina 2 g v.o. DU o alternativas (ver arriba)
+
+Intervenciones cardíacas*
+
+• No alérgicos: ceftriaxona 1 g i.v. + vancomicina ajustada a la función renal
+• Alérgicos: solo vancomicina 1 g i.v.
+
+Implante de dispositivos intracardíacos no valvulares
+
+• Cefazolina 2 g i.v. DU • Alérgicos: vancomicina 1 g i.v.
+
+DU: dosis única. * Incluido el implante de prótesis valvulares transcatéter. En caso de cirugía abierta, la ceftriaxona se debe administrar 30 min antes del procedimiento y repetirse cada 24 h durante las primeras 48 h, y la vancomicina se ha de administrar 1 h antes del procedimiento y después cada 12 h durante 48 h (se puede prolongar hasta la retirada de los drenajes mediastínicos).
+
+2. INFECCIONES ENDOVASCULARES
+2.1. Concepto
+Es una infección que afecta a las prótesis endovasculares aórticas o arteriales periféricas y al bypass axilofemoral. Tiene una mortalidad del 10-25%/mes y del 50%/año, así como un riesgo de amputación de extremidades del 4-14%.
+2.2. Etiología
+La adquisición de la infección se produce con mayor frecuencia en el momento de la intervención. En algunos casos se puede adquirir por vía hematógena en el contexto de una bacteriemia, y también por contigüidad por una infección periprotésica o por formación de fístulas en comunicación con el tubo digestivo. Los principales microorganismos causantes son: S. aureus (20-53%, más frecuente en infecciones precoces), enterobacterias (1441%, más en prótesis introducidas por acceso inguinal, hasta en un 20% polimicrobianas), Staphylococcus coagulasa-negativos (15%), Pseudomonas aeruginosa, Streptococcus spp. y Enterococcus spp. (10-15%), anaerobios facultativos (5%) y Candida spp. (1-2%). En caso de HC negativos, cabe plantear la infección por Coxiella burnetii (fiebre Q crónica).
+989
+
+Manual de Diagnóstico y Terapéutica Médica
+2.3. Clínica
+Habitualmente se presenta con fiebre o síndrome constitucional. Puede haber isquemia aguda de las extremidades en relación con émbolos sépticos desde la prótesis. Los síntomas locales dependen de la localización de la infección: dolor abdominal, hemorragia digestiva o hemoptisis secundarias a formación de fístulas aortoentéricas o aortobronquiales; si sucede afectación local en las extremidades, se pueden manifestar mediante equimosis, dehiscencia de la herida quirúrgica o impotencia funcional de dicha extremidad.
+2.4. Diagnóstico
+Debe tenerse un alto índice de sospecha en pacientes con prótesis endovasculares, con síntomas generales o aislamientos microbiológicos sin foco. Las siguientes pruebas son útiles:
+a) Analítica general. b) Estudios microbiológicos: HC. Cultivo del exudado de la herida o del posible tra-
+yecto fistuloso, cultivo del líquido periprotésico obtenido por aspiración guiada por TC o del tejido periprotésico obtenido durante la cirugía para retirar la prótesis. c) TC: puede mostrar persistencia de gas más de 7-10 días después de la intervención o una colección periprotésica a las 6-8 semanas de la intervención (tiempo máximo de reabsorción de un hematoma). d) 18F-FDG PET-TC: es una prueba altamente sensible y específica para el diagnóstico y de gran utilidad para monitorizar la respuesta al tratamiento. e) RM: permite identificar las partes blandas periprotésicas y diferenciar entre hematoma subagudo o crónico y el líquido inflamatorio periprotésico.
+2.5. Tratamiento
+a) Antibioterapia empírica: debe ajustarse en cuanto se disponga de aislamiento microbiológico. Daptomicina 10 mg/kg/24 h i.v. o vancomicina 15-20 mg/kg/8 h i.v. con meropenem 1 g/8 h i.v. o piperacilina-tazobactam 4,5 g/8 h i.v.
+b) Recambio del material protésico: hay que consultar de forma precoz con un experto en este tipo de infecciones y un cirujano vascular. En general, se recomienda en las siguientes situaciones: – Sepsis, presencia de EI concomitante o inestabilidad hemodinámica. – Presencia de tromboflebitis supurativa o propagación del trombo. – Bacteriemia de brecha (72 h tras el inicio de la antibioterapia apropiada). – En catéteres venosos centrales tunelizados (tipo Hickman®): infección del tracto subcutáneo o del reservorio. – Infección por: S. aureus, P. aeruginosa, bacilos gramnegativos multirresistentes, C. burnetii o Candida spp.
+c) Duración de la antibioterapia: depende de si se ha retirado el material protésico. Debido a su complejidad, debe consultarse con un experto en esta materia. En general: – En caso de retirada completa de material infectado, 7-14 días de antibioterapia i.v. (mínimo 14 días en caso de S. aureus). Posteriormente, si los HC negativizan, se puede pasar antibioterapia a v.o. ajustada al antibiograma, dando preferencia a combinaciones de levofloxacino y rifampicina, con el objetivo de cumplir 6 semanas. – En caso de imposibilidad para retirar el material infectado, puede precisarse tratamiento supresivo crónico con la asociación de rifampicina y levofloxacino o monoterapia con cotrimoxazol, linezolid o tedizolid (según el antibiograma). Hay que considerar interrumpir el tratamiento tras 6-8 meses si el paciente está
+990
+
+66. Endocarditis infecciosa. Infección endovascular
+
+asintomático, no tiene una fístula y se normalizan los parámetros bioquímicos de inflamación y PET-TC. En caso de recidiva, se deben repetir los cultivos para confirmar el patrón de sensibilidad del microorganismo y reinstaurar el tratamiento antibiótico, que puede mantenerse de forma crónica o intermitente.
+2.6. Infección vascular por Coxiella burnetii (fiebre Q crónica)
+Debe sospecharse en pacientes con sospecha de infección endovascular y cultivos negativos, especialmente si presentan un ambiente epidemiológico típico (contacto con medio rural, ganado, laboratorios que trabajan con C. burnetii o viajes a áreas endémicas).
+La serología (anticuerpos de fases I y II) es la primera prueba que se ha de realizar; además, permite valorar la respuesta al tratamiento. La PCR en sangre o muestras tisulares/material protésico es útil para confirmar el diagnóstico (especificidad del 100%), pero su sensibilidad disminuye tras el inicio del tratamiento. La PET-TC es una prueba de gran importancia para el diagnóstico, el planteamiento de tratamiento quirúrgico y, probablemente, el seguimiento.
+El tratamiento es largo y complejo, por lo que debe realizarlo un experto en enfermedades infecciosas. De elección, se realiza con doxiciclina 100 mg/12 h + hidroxicloroquina 200 mg/8 h un mínimo de 18-24 meses. Se debe intentar retirar el material protésico infectado dada la escasa probabilidad de esterilización con tratamiento antibiótico. Los pacientes en los que no se consigue retirar suelen requerir tratamiento de por vida.
+
+BIBLIOGRAFÍA
+• Baddour LM, Wilson WR, Bayer AS, Fowler VG, Tleyjeh IM, Rybak MJ, et al. Infective Endocarditis in Adults: Diagnosis, Antimicrobial Therapy, and Management of Complications. Circulation. 2015;132(15):1435-1486.
+• Davis KA, Huang G, Petty SA, Tan WA, Malaver D, Peacock JE Jr., et al. The effect of preexisting anticoagulation on cerebrovascular events in left-sided infective endocarditis. Am J Med. 2020;133(3):360-369.
+• Fournier P-E, Gouriet F, Casalta J-P, Lepidi H, Chaudet H, Thuny F, et al. Blood culture-negative endocarditis. Improving the diagnostic yield new diagnostic tools. Medicine. 2017;96: (47):e8392.
+• Gatti G, Chocron S, Obadia J, Duval X, Iung B, Alla F, et al. Using surgical risk scores in nonsurgically treated infective endocarditis patients. Hellenic J Cardiol. 2020;61(4):246-252.
+• Grupo de Trabajo de la Sociedad Europea de Cardiología (ESC) para el manejo de la Endocarditis Infecciosa. 2015 ESC Guidelines for the management of infective endocarditis. Eur Heart J. 2015;36(44):3075-3128.
+• Madsen T, Elming H, Jensen KT, et al. Partial Oral versus Intravenous Antibiotic Treatment of Endocarditis. N Engl J Med. 2019;380(5):415-424.
+• Martínez-Sellés M, Muñoz P, Arnáiz A, Moreno M, Gálvez J, Rodríguez-Roda J, et al. Valve surgery in active infective endocarditis: A sim-
+
+ple score to predict in-hospital prognosis. Int J Cardiol. 2014;175(1):133-137.
+• Mensa J, Gatell JM, García-Sánchez JE, Letang E, López-Suñé E, Marco F, et al. Infección de material protésico vascular. En: Mensa J. Guía de terapéutica antimicrobiana. Barcelona: Editorial Antares; 2021. p. 751-752.
+• Olmos C, Vilacosta I, Fernández-Pérez C, Bernal JL, Ferrera C, García-Arribas D, et al. The Evolving Nature of Infective Endocarditis in Spain. J Am Coll Cardiol. 2017;70(22):2795-2804.
+• San Roman JA, Rubio JA. Infección de dispositivos cardíacos: conceptos aceptados y controvertidos. Rev Esp Cardiol. 2017;70(5):320-322.
+• Thuny F, Avierinos JF, Tribouilloy C, Giorgi R, Casalta JP, Milandre L, et al. Impact of cerebrovascular complications on mortality and neurologic outcome during infective endocarditis: a prospective multicentre study. Eur Heart J. 2007;28(9):1155-1161.
+• Vallejo Camazón N, Cediel G, Núñez Aragón R, Mateu L, Llibre C, Sopena N, et al. Short- and long-term mortality in patients with left-sided infective endocarditis not undergoing surgery despite indication. Rev Esp Cardiol (English Edition). 2020;73(9):734-740.
+• Weis S, Kesselmeier M, Davis JS, Morris AM, Lee S, Scherag A, et al. Cefazolin versus anti-staphylococcal penicillins for the treatment of patients with Staphylococcus aureus bacteraemia. Clin Microbiol Infect. 2019;25(7):818-827.
+991
+
+CAPÍTULO
+
+67
+Infecciones de las vías respiratorias
+AUTORES:
+Santiago de Cossío Tejido. Medicina Interna. Adrián López Alba. Medicina Interna.
+ASESOR:
+Antonio Lalueza Blanco. Medicina Interna.
+1. BRONQUITIS O TRAQUEOBRONQUITIS AGUDA
+1.1. Concepto y etiología
+La traqueobronquitis o bronquitis aguda consiste en la infección del tracto respiratorio inferior con afectación circunscrita a la vía aérea, sin ocupación alveolar ni infiltrado radiológico. Es una patología frecuente de carácter estacional (final del otoño e invierno) causada mayoritariamente por virus; las bacterias suponen únicamente el 5% de los casos. Cuando se emplea el término bronquitis aguda suele referirse a pacientes sin enfermedad pulmonar crónica (es necesario diferenciarla de las exacerbaciones asmáticas o de la enfermedad pulmonar obstructiva crónica [EPOC]).
+Los virus más frecuentes son influenza (mayor morbimortalidad asociada), parainfluenza, coronavirus (incluyendo coronavirus de tipo 2 causante del síndrome respiratorio agudo grave [SARS-CoV-2]), rinovirus, virus respiratorio sincitial (VRS) y metapneumovirus (que puede causar infecciones graves en inmunodeprimidos). Las principales bacterias son Bordetella pertussis, Mycoplasma pneumoniae y Chlamydia pneumoniae.
+1.2. Presentación clínica y diagnóstico
+La tos es el síntoma principal. Característicamente persiste 1-3 semanas y puede ser seca o productiva. En ocasiones se asocia a dolor torácico musculoesquelético (debido a la tos prolongada), sibilancias, disnea leve y febrícula. No es infrecuente que se encuentre superpuesta o precedida de infección del tracto respiratorio superior.
+Además, debe valorarse la clínica específica de cada agente etiológico. Los paroxismos de tos, el estridor inspiratorio y los vómitos postusígenos deben hacer sospechar la infección por B. pertussis o tos ferina, o por Bordetella bronchiseptica (síndrome p­ ertusis-like en casos de exposición a animales, generalmente en inmunodeprimidos). Estos signos clásicos tienen un valor limitado en adultos y la tos ferina debe sospecharse especialmente si la tos se cronifica en un contexto epidemiológico adecuado.
+El diagnóstico resulta habitualmente clínico. La radiografía de tórax ha de realizarse ante síntomas o signos sugestivos de neumonía, en inmunodeprimidos y en la edad avanzada. Si se sospecha tos ferina puede solicitarse la detección mediante reacción en cadena de la polimerasa (PCR) en exudado nasofaríngeo (NF) y cultivo. La tos ferina es una enfermedad de declaración obligatoria. También puede estar indicada la detección de SARS-CoV-2 o influenza.
+992
+
+67. Infecciones de las vías respiratorias
+1.3. Tratamiento
+Es fundamental explicar al paciente que se trata de una enfermedad autolimitada a 2 o 3 semanas. Pueden emplearse analgésicos y antitusígenos. Los antibióticos no tienen indicación generalizada y únicamente deberían usarse de manera individualizada en pacientes ancianos, pluripatológicos o con sospecha de sobreinfección bacteriana. La presencia de tos mucopurulenta o purulenta no implica la presencia de una infección bacteriana ni la necesidad de antibióticos. La elevación significativa de la proteína C reactiva o procalcitonina (PCT) puede sugerir infección bacteriana, aunque su realización rutinaria no está indicada. Tampoco existe una indicación clara para emplear broncodilatadores ni corticoides; se puede valorar su utilización en caso de signos de broncoespasmo.
+Si se sospecha tos ferina, deben obtenerse muestras microbiológicas e iniciarse el tratamiento (p. ej., azitromicina 250 mg 5 días con doble dosis el primer día).
+2. NEUMONÍA ADQUIRIDA EN LA COMUNIDAD
+2.1. Definiciones
+La neumonía adquirida en la comunidad (NAC) es una enfermedad infecciosa de las vías respiratorias inferiores con afectación del parénquima pulmonar que se manifiesta en forma de infiltrado en las pruebas de imagen. La clínica compatible en presencia de un infiltrado es suficiente para establecer el diagnóstico. Puede clasificarse en:
+a) NAC: los síntomas se inician antes o durante las primeras 48 h desde la hospitalización.
+b) Neumonía nosocomial: la clínica se inicia pasadas 48 h de la hospitalización. Un tipo de neumonía nosocomial es la asociada a ventilación mecánica, que aparece 48 h tras el inicio de la ventilación. Ambas se exponen en el capítulo 78. Infecciones nosocomiales.
+El término neumonía asociada a los cuidados sanitarios está en desuso puesto que se ha relacionado con un aumento de empleo de antibioterapia de amplio espectro sin haberse relacionado con un incremento de riesgo de microorganismos multirresistentes (MR).
+2.2. Etiología
+El aislamiento del microorganismo responsable se logra en menos de la mitad de los casos. Streptococcus pneumoniae (cuya incidencia está disminuyendo debido a la vacunación) y los virus respiratorios continúan siendo los microorganismos más frecuentemente identificados. Clásicamente se ha diferenciado a los microorganismos en típicos y atípicos de acuerdo con las manifestaciones clínicas que producen. Los atípicos no son visualizables en la tinción de Gram (intracelulares) y en general tampoco resultan sensibles a los betalactámicos (deben sospecharse ante ausencia de respuesta a ellos). En la tabla 1 se exponen los principales agentes etiológicos de la NAC.
+En general no existe una clínica específica que permita determinar con certeza el agente etiológico, pero algunos microorganismos se han asociado característicamente a determinados grupos de riesgo (tabla 2).
+993
+
+Manual de Diagnóstico y Terapéutica Médica
+
+Tabla 1. Principales agentes etiológicos de la neumonía adquirida en la comunidad
+
+Bacterias típicas
+
+Bacterias atípicas
+
+Virus respiratorios
+
+Streptococcus pneumoniae, Haemophilus influenzae, Moraxella catarrhalis, Staphylococcus aureus, estreptococos del grupo A, enterobacterias (Klebsiella spp., Escherichia coli, etc.) y anaerobios
+
+Legionella spp., Mycoplasma pneumoniae, Chlamydia pneumoniae, Chlamydia psittaci y Coxiella burnetii
+
+Influenza, virus respiratorio sincitial, parainfluenza, adenovirus, metapneumovirus, SARSCoV-2 y otros coronavirus (MERS-CoV y SARS-CoV-1)
+
+MERS: síndrome respiratorio de Oriente Medio; SARS: síndrome respiratorio agudo grave.
+
+Tabla 2. Microorganismos asociados a los distintos grupos de riesgo
+
+Grupos de riesgo Microorganismos
+
+EPOC/fumadores
+
+Haemophilus influenzae, Moraxella catarrhalis, Streptococcus pneumoniae, Chlamydia pneumoniae, Pseudomonas aeruginosa, Legionella spp. e infecciones mixtas
+
+UCI
+
+SARM, P. aeruginosa, Legionella spp. y S. pneumoniae MR
+
+Alcoholismo
+
+S. pneumoniae, anaerobios orales, Klebsiella pneumoniae, Mycobacterium tuberculosis y Acinetobacter spp.
+
+Aspiración
+
+BGN y anaerobios orales
+
+Gripe
+
+S. pneumoniae, Streptococcus aureus y H. influenzae
+
+Bronquiectasias
+
+P. aeruginosa y S. aureus
+
+Drogas parenterales S. aureus, M. tuberculosis, S. pneumoniae y anaerobios
+
+Abscesos/neumonía necrotizante
+
+Anaerobios, S. pneumoniae serotipo III, S. aureus, P. aeruginosa, Legionella spp., Rhodococcus spp., Nocardia spp., Aspergillus spp. y micobacterias
+
+VIH
+
+S. pneumoniae, H. influenzae, P. aeruginosa, micobacterias,
+
+Pneumocystis jirovecii, Cryptococcus spp., Histoplasma spp.
+
+y Aspergillus spp.
+
+Obstrucción bronquial
+
+S. pneumoniae, H. influenzae, S. aureus y anaerobios
+
+Tos crónica
+
+Bordetella pertussis (tos ferina)
+
+Granjeros y pastores Coxiella burnetii, Brucella spp. y Francisella tularensis
+
+Exposición a aves Chlamydia psittaci
+
+Contacto con murciélagos
+
+Histoplasma capsulatum
+
+Sistemas de
+
+Legionella spp.
+
+canalización de agua
+
+Zonas endémicas de América
+
+Coccidioides spp. (fiebre del Valle o de san Joaquín) y hantavirus
+
+Sudeste asiático
+
+Burkholderia pseudomallei
+
+Península arábica MERS
+
+BGN: bacilos gramnegativos; EPOC: enfermedad pulmonar obstructiva crónica; MERS: síndrome respiratorio de Oriente Medio; MR: multirresistente; SARM: Staphylococcus aureus meticilín resistente; VIH: virus de la inmunodeficiencia humana.
+
+994
+
+67. Infecciones de las vías respiratorias
+Además, de una manera práctica pueden agruparse algunas situaciones en las que se deben sospechar algunos agentes patógenos con implicaciones en el manejo, como:
+a) Pseudomonas aeruginosa y microorganismos MR: bronquiectasias, EPOC, fumadores, consumo de antibióticos los últimos 3 meses o 4 veces en el último año o uso habitual de corticoides sistémicos.
+b) Staphylococcus aureus: neumonía bacteriana secundaria en gripe, bronquiectasias, uso de drogas por vía parenteral, abscesos/nódulos pulmonares, obstrucción bronquial y estancia en la UCI.
+c) Bacteriemia por neumococo: mayores de 65 años, comórbidos, consumo de alcohol, diabéticos e infección por el virus de la inmunodeficiencia humana (VIH).
+d) Legionella spp.: se relaciona con la exposición a fuentes de agua o aerosoles, jóvenes, fumadores, clínica respiratoria grave y asociación con clínica digestiva, neurológica, elevación de transaminasas e hiponatremia.
+e) Mycoplasma pneumoniae: pacientes jóvenes, exposición previa a betalactámicos, brotes epidémicos, hemólisis (crioaglutininas), exantema u otras lesiones cutáneas, afectación gastrointestinal o neurológica, pericarditis/miocarditis y artromialgias.
+2.3. Clínica
+La clínica «típica» de la neumonía consiste en el inicio agudo de fiebre, tos con expectoración purulenta (si bien puede ser seca), dolor torácico pleurítico y disnea. También pueden aparecer síntomas de afectación sistémica en el contexto de sepsis, como disminución del nivel de consciencia y afectación del estado general.
+En ocasiones la clínica puede ser más larvada o «atípica»; incluso puede ser predominante la clínica no respiratoria con síntomas como febrícula, astenia, anorexia, malestar general, clínica gastrointestinal, mialgias o confusión. Sin embargo, en muchas ocasiones la sintomatología se solapa y el patrón clínico típico o atípico no permite orientar con seguridad hacia los microorganismos causales. En ancianos e inmunodeprimidos los síntomas pueden ser más larvados o inespecíficos.
+En la exploración física se pueden encontrar afectación del estado general, hipotensión, taquicardia, taquipnea, signos de trabajo respiratorio, fiebre, disminución de la saturación parcial de oxígeno (SpO2), hipofonesis, crepitantes y aumento de la transmisión de vibraciones vocales. En algunos casos puede haber semiología de derrame pleural.
+2.4. Pruebas complementarias
+2.4.1. Pruebas de imagen
+Para establecer el diagnóstico de neumonía debe confirmarse la presencia de un infiltrado en las pruebas de imagen. La radiografía (en dos proyecciones, posteroanterior y lateral) dispone de una sensibilidad del 40-75%. Entre las imágenes compatibles con neumonía se encuentran los infiltrados lobares e intersticiales y las cavitaciones. De forma general no se recomienda la realización de una radiografía de control para comprobar la mejoría o resolución del cuadro salvo mala evolución o sospecha de patología subyacente (enfermedad pulmonar intersticial, neoplasia, micobacterias, etc.). Tiene interés en pacientes fumadores, de edad avanzada o con síntomas persistentes. La resolución radiológica suele producirse de forma más dilatada en el tiempo que la mejoría clínica (incluso > 6 semanas).
+995
+
+Manual de Diagnóstico y Terapéutica Médica
+La tomografía computarizada (TC) puede emplearse para alcanzar el diagnóstico cuando existe sospecha clínica sin infiltrados en la radiografía o se sospecha alguna complicación. Ambas técnicas aportan información sobre la localización, la extensión, las posibles complicaciones y la existencia de enfermedades pulmonares asociadas. La ecografía pulmonar puede ayudar en el diagnóstico a pie de cama y además posibilita detectar complicaciones como el derrame pleural paraneumónico.
+2.4.2. Datos de laboratorio
+Sirven para evaluar la gravedad y la evolución y para el cálculo de escalas pronósticas. Se recomienda solicitar hemograma, bioquímica con glucosa e iones, función renal y hepática, proteína C reactiva y PCT. La gasometría arterial puede ser útil para calcular el gradiente alveoloarterial en casos graves o en pacientes con SpO2 en el límite de la normalidad. El cociente entre SpO2 y concentración de oxígeno inspirada (FiO2), SaFi, es un parámetro útil para valorar la gravedad en ausencia de gasometría arterial. Resulta habitual la presencia de leucocitosis con neutrofilia y elevación de reactantes de fase aguda. La leucopenia y trombocitopenia se han asociado a peor pronóstico. La elevación de la PCT podría asociarse más específicamente a infección de origen bacteriano pero su normalidad no debe retrasar el inicio de la antibioterapia.
+2.4.3. Estudios microbiológicos
+La indicación y el interés de la identificación microbiológica es proporcional a la gravedad del cuadro y depende del ámbito en el que se vaya a tratar al paciente. Los resultados pueden ayudar a dirigir el tratamiento y reducir el uso de antibioterapia de amplio espectro. En el ámbito ambulatorio estos estudios generalmente no se necesitan (salvo con fines epidemiológicos) ya que normalmente el tratamiento empírico es efectivo. En el paciente hospitalizado se recomienda obtener:
+a) Tinción Gram y cultivo del esputo: su rentabilidad depende de la calidad de la muestra, y la interpretación, de la cuantificación del crecimiento y del microorganismo (algunos, como Enterococcus spp. y Candida spp., suelen interpretarse como contaminantes).
+b) Hemocultivos: son poco sensibles pero muy específicos. Se deben obtener antes de la administración del antibiótico. La bacteriemia es un indicador de peor pronóstico.
+c) Test de COVID-19 (test de antígeno y/o PCR) y PCR de virus respiratorios (VRS e influenza en temporada): la PCR de virus respiratorios resulta especialmente útil en inmunodeprimidos por la disponibilidad de tratamiento dirigido en estos casos.
+d) Antigenuria de S. pneumoniae y Legionella: son técnicas sencillas y rápidas especialmente útiles por su elevada especificidad. Se deben realizar al menos en pacientes con evolución desfavorable o datos de gravedad.
+e) Serología de VIH: como despistaje en todo paciente con diagnóstico de neumonía.
+En determinadas circunstancias se debe valorar:
+a) Despistaje de colonización de Staphylococcus aureus meticilín resistente (SAMR): mediante PCR nasal en pacientes con factores de riesgo (ver cap. 64. Aspectos generales en antibioterapia), especialmente si se va a cubrir empíricamente esta posibilidad. Posee un alto valor predictivo negativo, por lo que su ausencia permite la desescalada de antibioterapia con seguridad.
+b) Toracocentesis: en caso de derrame pleural paraneumónico técnicamente accesible, se recomiendan estudio citobioquímico, cultivo y citología del líquido pleural. Los objetivos son descartar la presencia de empiema y evacuarlo utilizando un drenaje endotorácico (ver cap. 31. Patología pleural).
+996
+
+67. Infecciones de las vías respiratorias
+En pacientes con evolución desfavorable, sospecha de microorganismos no habituales, inmunodeprimidos, procedentes de regiones endémicas o con sospecha de neumonía de etiología no infecciosa, plantear según la sospecha:
+a) Serologías: Coxiella burnetii, M. pneumoniae y Chlamydia psittaci. b) Baciloscopia (tinción para bacilos ácido-alcohol resistentes [BAAR]) y cultivo de mi-
+cobacterias en el esputo. c) Estudio para hongos: galactomanano, β-D-glucano, cultivo de hongos en el esputo
+y PCR en el esputo inducido de Pneumocystis jirovecii. d) Lavado broncoalveolar (LBA): tinción y PCR en función de la sospecha diagnóstica
+y cultivo (Aspergillus spp., P. jirovecii, tuberculosis, etc.) y estudio citológico (etiología no infecciosa). e) Obtención de muestras histológicas mediante fibrobroncoscopia o biopsia transparietal.
+2.5. Evaluación de la gravedad y escalas pronósticas
+Para evaluar la gravedad se recomienda la aplicación de escalas pronósticas. En la atención inicial se aconseja aplicar las escalas Sequential Organ Failure Assessment (SOFA) y quickSOFA (ver cap. 65. Sepsis, bacteriemia y candidemia) para identificar la presencia de sepsis o shock séptico, que implicaría un manejo más agresivo. Las escalas más utilizadas para determinar la evolución del cuadro y decidir la necesidad de ingreso hospitalario son el Pneumonia Severity Index (PSI), también denominado escala de Fine (tabla 3), y la escala CURB-65. La escala PSI o Fine clasifica a los pacientes en cinco categorías según el riesgo de mortalidad a los 30 días. Se recomienda el ingreso hospitalario en pacientes con un Fine de 3 o más o insuficiencia respiratoria. Asimismo, se debe tener en cuenta la situación cognitiva y sociosanitaria del paciente (posibilidad de autocuidado, cumplimiento terapéutico, posibilidad de tratamiento por vía oral y necesidad de oxigenoterapia), puesto que puede condicionar la necesidad de ingreso hospitalario.
+De forma general se debe plantear la necesidad de ingreso en una Unidad de Cuidados Intensivos (UCI) en casos de fallo orgánico:
+• Bajo nivel de consciencia. • Hipotensión a pesar de la sueroterapia. • Taquipnea superior a 30, insuficiencia respiratoria a pesar de la oxigenoterapia con-
+vencional o necesidad de flujo elevado (FiO2 > 40%; gafas nasales > 3-4 lpm). • Insuficiencia renal aguda. • Coagulopatía o trombopenia.
+2.6. Tratamiento
+2.6.1. Medidas generales
+a) Oxigenoterapia: para mantener una SpO2 mayor del 90-92%. En caso de insuficiencia respiratoria a pesar de la oxigenoterapia convencional o la necesidad de flujos altos hay que plantear la necesidad de ingreso en la UCI para un mayor soporte respiratorio (gafas nasales de alto flujo o ventilación mecánica invasiva).
+b) Soporte hemodinámico: incluye sueroterapia en función de la volemia, especialmente en caso de sepsis o hipotensión. Se han de evitar los antihipertensivos en las primeras horas/días y administrar drogas vasoactivas en caso de hipotensión refractaria a sueroterapia, idealmente en una UCI.
+997
+
+Manual de Diagnóstico y Terapéutica Médica
+c) Otros: hay que valorar tromboprofilaxis, analgesia, antipiréticos y fisioterapia respiratoria.
+La administración de corticoides sistémicos no ha demostrado mejorar el pronóstico de la NAC, salvo en el shock séptico, con resultados no concluyentes (ver cap. 3. Shock).
+2.6.2. Tratamiento antibiótico
+Es el pilar principal del tratamiento. Se debe iniciar lo antes posible y en el ámbito en el que se establezca el diagnóstico. Especialmente en pacientes con sepsis se ha de comenzar en la primera hora. La terapia utilizada depende de la evaluación inicial: gravedad del cuadro, posibilidad de MR y ámbito de tratamiento. En función de estas circunstancias se recomiendan diferentes pautas (tabla 4).
+La duración del tratamiento antimicrobiano depende de la gravedad, la evolución del cuadro y el microorganismo responsable. Para una NAC leve-moderada sin comorbilidad ni desarrollo de complicaciones, 5 días es una duración apropiada; en el resto de casos se prolonga 7-14 días los de mayor gravedad. Se recomienda mantener la antibioterapia 48-72 h tras la defervescencia.
+
+Tabla 3. Escala de Fine o Pneumonia Severity Index (PSI)
+
+Factores demográficos Puntuación
+
+Exploración física
+
+Puntuación
+
+Edad en hombres
+
+N.º de años
+
+Estado mental alterado +20
+
+Edad en mujeres
+
+N.º de años –10 FR ≥ 30
+
++20
+
+Residencia
+
++10
+

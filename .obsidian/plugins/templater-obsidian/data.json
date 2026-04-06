@@ -15,20 +15,20 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "20_Farmacos",
-      "template": "99_Plantillas/TPL - Farmaco.md"
-    },
-    {
-      "folder": "10_Patologias",
-      "template": "99_Plantillas/TPL - Patologia.md"
+      "folder": "50_Guardias",
+      "template": "99_Plantillas/TPL -  Guardia.md"
     },
     {
       "folder": "40_Casos clinicos",
       "template": "99_Plantillas/TPL - Casos clinicos.md"
     },
     {
-      "folder": "50_Guardias",
-      "template": "99_Plantillas/TPL -  Guardia.md"
+      "folder": "10_Patologias",
+      "template": "99_Plantillas/TPL - Patologia.md"
+    },
+    {
+      "folder": "60_Pase de planta",
+      "template": "99_Plantillas/TPL - PASE DE PLANTA.md"
     }
   ],
   "enable_file_templates": false,

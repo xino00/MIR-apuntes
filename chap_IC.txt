@@ -1,0 +1,629 @@
+AUTORES:
+Aníbal Ruiz Curiel. Cardiología. Mario Díaz Santiáñez. Medicina Interna.
+ASESORES:
+Laura Morán Fernández. Cardiología. Daniel Ferreiro López. Medicina Interna.
+
+1. DEFINICIÓN Y CLASIFICACIÓN
+La insuficiencia cardíaca (IC) es un síndrome clínico caracterizado por unos síntomas y signos típicos que aparecen en relación con una alteración estructural y/o funcional del corazón que produce una disminución del gasto cardíaco y/o aumento de las presiones intracardíacas en reposo o con el ejercicio.
+La clasificación más habitual, tanto por su implicación pronóstica como por su tratamiento a largo plazo, es la que hace referencia a la fracción de eyección del ventrículo izquierdo (FEVI) (tabla 1).
+
+Tabla 1. Definición de la insuficiencia cardíaca según la fracción de eyección del ventrículo izquierdo reducida, levemente reducida o preservada
+
+Tipos de IC IC-FEVIr
+
+IC-FEVllr
+
+IC-FEVIp
+
+Criterio 1
+
+Síntomas +/– signos Síntomas +/– signos Síntomas +/– signos de IC
+
+de IC
+
+de IC
+
+Criterio 2 FEVI < 40%
+
+FEVI 40-49%
+
+FEVI ≥ 50%
+
+Criterio 3
+
+Evidencia de alteración estructural y/o funcional cardíaca: disfunción diastólica o aumento de presiones de llenado del VI1, incluyendo péptidos natriuréticos aumentados2
+
+FEVI: fracción de eyección del ventrículo izquierdo; FEVIlr: fracción de eyección del ventrículo izquierdo levemente reducida; FEVIp: fracción de eyección del ventrículo izquierdo preservada; FEVIr: fracción de eyección del ventrículo izquierdo reducida; IC: insuficiencia cardíaca; VI: ventrículo izquierdo. 1 Valores ecocardiográficos más usados para evidenciar alteración estructural en la FEVIp: masa indexada del VI ≥ 95 g/m2 en mujeres o ≥ 115 g/m2 en hombres, espesor relativo de la pared del VI > 0,42, volumen indexado de la aurícula izquierda > 34 ml/m2, ratio E/e´ en reposo > 9, tensión sistólica de la arteria pulmonar > 35 mmHg y velocidad de regurgitación tricúspide en reposo > 2,8 m/s. 2 Ver apartado 3. Insuficiencia cardíaca aguda.
+
+La gravedad de los síntomas y la intolerancia al ejercicio se valoran según la clasificación de la New York Heart Association (NYHA) (tabla 2). No se correlaciona bien con muchos de los parámetros de función del ventrículo izquierdo (VI), por lo que el riesgo de hospitalización y muerte es independiente de la clase de la NYHA.
+Se habla de IC avanzada para describir a pacientes con síntomas graves, descompensaciones recurrentes y disfunción cardíaca grave.
+
+199
+
+Manual de Diagnóstico y Terapéutica Médica
+
+Tabla 2. Clasificación funcional de la insuficiencia cardíaca según la New York Heart Association (NYHA)
+
+Clase I
+
+Sin limitación: la actividad física habitual no causa fatiga, disnea ni palpitaciones
+
+Clase II
+
+Limitación leve: sin síntomas en reposo, pero la actividad física ordinaria desencadena fatiga, palpitaciones, disnea o angina
+
+Clase III
+
+Limitación marcada: sin síntomas en reposo, pero aparecen con una actividad física inferior a la habitual
+
+Clase IV
+
+Los síntomas están presentes incluso en reposo y se exacerban con cualquier actividad física
+
+2. ETIOLOGÍA Y FACTORES PRECIPITANTES
+La IC es un cuadro clínico crónico que cursa con episodios agudos/subagudos de descompensaciones. Para su instauración tiene que darse al menos alguno de los siguientes puntos:
+a) Alteración estructural: fundamentalmente la enfermedad isquémica cardíaca, pero también el daño tóxico, enfermedades infiltrativas o metabólicas (acromegalia) o alteraciones genéticas.
+b) Condición de carga anormal: hipertensión arterial (HTA), valvulopatías, miocardiopatías, enfermedades del pericardio, enfermedades con gasto elevado o sobrecarga de volumen.
+c) Arritmias: tanto taquiarritmias como bradiarritmias.
+Si se tiene en cuenta el perfil más frecuente de los pacientes, el de la IC con fracción de eyección del ventrículo izquierdo reducida (FEVIr) será un varón, más joven y con enfermedad isquémica, mientras que el de la IC con fracción de eyección del ventrículo izquierdo preservada (FEVIp) corresponderá a una mujer, hipertensa y con fibrilación auricular (FA).
+Respecto a las descompensaciones, es importante conocer su causa y tratarla. Sin embargo, es frecuente que se desconozca o que sea la propia progresión de la patología inicial. De forma práctica las causas de descompensación se pueden dividir en: infecciosas, patologías agudas que afectan directamente al miocardio (infarto, miocarditis, crisis hipertensiva y tromboembolismo pulmonar), estados que elevan el gasto cardíaco (anemia e hipertiroidismo), alteraciones del ritmo, transgresiones dietéticas, sobrecarga de volumen, cambios o incumplimientos en la medicación y consumo de tóxicos.
+3. INSUFICIENCIA CARDÍACA AGUDA
+Se define como la rápida instauración de síntomas y signos secundarios al funcionamiento anómalo del corazón. Representa un riesgo vital, por lo que es importante un diagnóstico precoz y la instauración de un tratamiento específico urgente. Puede presentarse de novo o ser una descompensación de una insuficiencia cardíaca crónica.
+3.1. Clínica
+Los síntomas y signos típicos de la insuficiencia cardíaca se recogen en la tabla 3.
+
+200
+
+15. Insuficiencia cardíaca
+
+Tabla 3. Síntomas y signos de insuficiencia cardíaca
+
+Síntomas
+
+Signos
+
+Típicos
+
+Más específicos
+
+Disnea, ortopnea y disnea paroxística nocturna
+
+↑ presión venosa yugular
+
+↓ tolerancia al ejercicio, fatiga y astenia
+
+Reflujo hepatoyugular
+
+Edemas en tobillos
+
+Tercer tono (ritmo de galope) y soplo
+
+Menos típicos
+
+Menos específicos
+
+Tos nocturna y sibilancias
+
+Edemas periféricos (tobillos, sacro y escrotal)
+
+Ganancia ponderal > 2 kg y pérdida de peso (en la insuficiencia cardíaca avanzada)
+
+Crepitantes pulmonares
+
+Sensación de pesadez posprandial y pérdida de apetito
+
+Disminución del murmullo vesicular a la auscultación y en la percusión (derrame pleural)
+
+Confusión (especialmente en los ancianos)
+
+Taquicardia, pulso irregular y taquipnea (> 16 rpm)
+
+Palpitaciones
+
+Hepatomegalia y ascitis
+
+Síncope
+
+Caquexia
+
+Más del 90% de los pacientes cursan con cifras de presión arterial sistólica (PAS) normal (90-140) o elevada (> 140). La hipotensión es un factor de mal pronóstico, especialmente cuando existe hipoperfusión concomitante.
+Existen diferentes formas clínicas, que en ocasiones pueden solaparse:
+a) Edema agudo de pulmón (EAP): lo causa la acumulación de líquido en el espacio intersticial y en los alvéolos pulmonares. Típicamente los pacientes presentan crepitantes, ortopnea e hipoxemia. Requiere tratamiento farmacológico urgente, oxigenoterapia y en algunos casos soporte ventilatorio. La presión arterial (PA) puede ser normal, baja o alta, lo que condicionará la aproximación terapéutica.
+b) IC de alto gasto: en situaciones como el embarazo, la anemia, el hipertiroidismo o la enfermedad de Paget.
+c) IC y síndrome coronario agudo (SCA): según la clasificación de Killip-Kimball (I: sin IC, II: IC moderada, III: EAP y IV: IC y shock cardiogénico).
+d) IC derecha: es secundaria a la disfunción ventricular derecha. Cursa con edemas periféricos, hepatomegalia y aumento de la presión venosa yugular, en ausencia de congestión pulmonar.
+e) Shock cardiogénico: es la situación más grave. Se caracteriza por hipotensión arterial mantenida (PAS < 90 mmHg) o una caída de la PA media superior a 30 mmHg, junto con datos de hipoperfusión tisular (extremidades frías, oliguria < 0,5 ml/kg/h y/o alteración del nivel de consciencia). El diagnóstico final se realiza al objetivar un índice cardíaco disminuido (< 1,8 l/min/m2 sin soporte o < 2-2,2 l/min/m2 bajo soporte) con presiones de llenado adecuadas o elevadas.
+Además, la insuficiencia cardíaca aguda (ICA) se puede clasificar según el perfil clínico (figura 1) y su situación hemodinámica (clasificación de Forrester; figura 2).
+
+201
+
+Manual de Diagnóstico y Terapéutica Médica
+
+CONGESTION (–)
+
+CONGESTIÓN (+) Congestión pulmonar,
+ortopnea, disnea paroxística nocturna, edemas periféricos bilaterales, ingurgitación yugular, hepatomegalia
+congestiva, ascitis, reflujo hepatoyugular...
+
+HIPOPERFUSIÓN (–)
+
+CALIENTE-SECO
+
+CALIENTE-HÚMEDO
+
+HIPOPERFUSIÓN (+) Extremidades frías y sudorosas, oliguria,
+presión de pulso amplia, confusión mental, mareo
+
+FRÍO-SECO
+
+FRÍO-HÚMEDO
+
+Figura 1. Perfiles clínicos de la insuficiencia cardíaca aguda.
+
+Perfusión tisular Índice cardíaco 2,2 l/min/m2
+
+Normal
+Administración de fluidos Hipovolemia
+
+Diuréticos vasodilatadores
+Edema pulmonar
+Presión sanguínea normal: vasodilatadores Presión sanguínea disminuida: inotrópicos
+o vasopresores
+Shock cardiogénico
+
+Congestión pulmonar PCWP: 18 mmHg
+PCWP: presión capilar pulmonar de enclavamiento. Figura 2. Clasificación de Forrester.
+202
+
+15. Insuficiencia cardíaca
+3.2. Diagnóstico y pruebas complementarias
+3.2.1. Electrocardiograma
+Es útil para diagnosticar posibles desencadenantes (FA de novo, isquemia miocárdica aguda, etc.). Si es normal, prácticamente descarta disfunción ventricular (< 2%).
+3.2.2. Radiografía de tórax
+Valora el crecimiento de las cavidades cardíacas y la presencia de derrame pleural o de signos de congestión (redistribución vascular, edema intersticial con líneas B de Kerley y borramiento de hilios). Además, puede detectar otras patologías pulmonares que pueden contribuir a la disnea.
+3.2.3. Laboratorio
+• Inicialmente se debe solicitar analítica de sangre urgente que incluya: – Hemograma, perfil renal y perfil hepático. – Gasometría venosa o arterial basal si la saturación de oxígeno (SpO2) por pulsioximetría es menor del 90%. – Niveles de péptido natriurético tipo B (BNP o NT-proBNP): son útiles por su alto valor predictivo negativo. Niveles de BNP menores de 100 pg/ml o de NT-proBNP menores de 300 pg/ml hacen el diagnóstico de ICA improbable (aunque no la descartan, por lo que no se encuentra incluido en la definición de IC). – La determinación de marcadores de daño miocárdico puede ayudar si se sospecha que la causa inicial ha sido un SCA. Pueden estar elevados en la IC grave o descompensada en ausencia de SCA, lo que supone un dato de mal pronóstico.
+• Una vez ingresado el paciente, se ha de solicitar: perfil lipídico, hemoglobina glicada y tirotropina (TSH) (se realizará urgente si se considera el desencadenante), ferritina e índice de saturación de transferrina (IST) y CA125.
+3.2.4. Ecocardiograma
+Resulta fundamental como parte del estudio de un primer episodio de IC o si se considera que la situación del paciente puede haberse modificado por un nuevo evento (p. ej., tras un infarto agudo de miocardio [IAM]), pero su uso rutinario en urgencias no suele ser necesario, y se debe evaluar si la información aportada por la prueba cambiaría el manejo terapéutico.
+3.2.5. Ecoscopia
+La ecografía realizada a pie de cama por el médico responsable no experto ha adquirido cada vez más importancia en la valoración de la congestión del paciente. Las medidas más frecuentes son: • Vena cava inferior (VCI): refleja la precarga del ventrículo derecho (VD). Un diámetro
+mayor de 2,1 cm con un colapso inspiratorio menor del 50% indica congestión venosa. • Ecografía pulmonar: la detección y cuantificación de líneas B es más sensible para el diagnóstico de edema pulmonar que la exploración. Si bien hay diversos protocolos, se considera que, en pacientes con disnea en urgencias, más de tres líneas B en dos o más zonas de cada hemitórax (tras explorar 6-8 zonas de cada uno) tiene una especificidad y sensibilidad mayor del 95% para diagnosticar ICA.
+203
+
+Manual de Diagnóstico y Terapéutica Médica
+El diagnóstico y el tratamiento inicial de la ICA en urgencias condicionan los resultados a corto plazo. Asimismo es importante estratificar el riesgo de los pacientes y saber su pronóstico para tomar decisiones, fundamentalmente si debe ingresar o puede ser dado de alta.
+3.3. Tratamiento Se muestra en la figura 3.
+
+Paciente con sospecha de insuficiencia cardíaca aguda
+
+Fase urgente: después de contacto
+médico
+Fase inicial: primeros
+60-120 minutos
+
+1. ¿Shock cardiogénico?
+No
+2. Fracaso respiratorio
+No
+Identificar causa aguda: Síndrome coronario agudo
+Emergencia HTA Arritmia
+Complicación mecánica aguda Embolia pulmonar
+
+No
+
+Sí
+
+Sí
+
+Soporte circulatorio:
+
+farmacológico
+
+o mecánico
+
+Sí
+Soporte ventilatorio: oxígeno, VMNI, VMI
+
+Estabilizar y traslado a UVI
+
+Inicio inmediato de tratamiento
+específico
+
+Continuar estudio para confirmar insuficiencia cardíaca Evaluación clínica para seleccionar el manejo óptimo
+VMI: ventilación mecánica invasiva; VMNI: ventilación mecánica no invasiva. Figura 3. Algoritmo de manejo inicial de la insuficiencia cardíaca aguda.
+
+a) Monitorización: control de tensión arterial, frecuencia cardíaca, frecuencia respiratoria, SpO2 y diuresis.
+b) Oxígeno: se debe administrar cuanto antes para alcanzar una SpO2 mayor del 90% (en la enfermedad pulmonar obstructiva crónica, hasta conseguir su rango de normalidad, habitualmente del 88-92%). No se debe utilizar sistemáticamente en ausencia de hipoxemia.
+c) En pacientes en tratamiento crónico de IC, si la descompensación no es grave, se recomienda no suspender su tratamiento con inhibidores de la enzima convertidora de angiotensina (IECA), antagonistas del receptor de la angiotensina II (ARAII), inhibidores de la neprilisina y del receptor de la angiotensina (INRA, también conocido por sus siglas en inglés ARNI) ni el betabloqueante (BB); se puede reducir la dosis si es necesario según la tolerancia. Si hay hipotensión arterial sintomática o hipoperfusión periférica, deben suspenderse.
+204
+
+15. Insuficiencia cardíaca
+d) El pilar del tratamiento de la ICA se centra en los diuréticos: los más utilizados son los de asa, con mayor potencia deplectiva. La vía intravenosa es la más utilizada, dada la menor absorción de la dosis oral en un sistema digestivo probablemente congestivo.
+Respecto al uso de los diuréticos:
+a) ¿Con qué dosis se debe comenzar? • En el estudio DOSE se administró 2,5 veces la dosis previa de furosemida con mejoría de la disnea, mayor pérdida de fluido y mayor cambio en el peso, a expensas de un empeoramiento transitorio de la función renal. • Si la insuficiencia cardíaca es de novo: se debe administrar una ampolla y evaluar la respuesta diurética y clínica.
+b) Se ha de vigilar la presencia de hipopotasemia, hiponatremia, hiperuricemia e hipovolemia (sobre todo en tratamientos agresivos).
+c) ¿Qué consideramos buena respuesta?: una diuresis horaria superior a 1 cc/kg/h (es decir, si pesa 80 kg, debe orinar > 80 cc/h). • En caso contrario, si existe mala respuesta: – ¿Estamos usando una dosis adecuada de diuréticos?: para evaluarlo hay que solicitar una muestra de iones en la orina. Si el sodio en la orina (Nau) es menor de 70 mEq a las 2 h de administrar el fármaco, necesita más dosis (aislado o en combinación). Se puede doblar la dosis de diurético intravenoso hasta alcanzar la dosis máxima diaria (400-600 mg en el caso de la furosemida). – Si el paciente tiene insuficiencia renal necesita mayor dosis de diuréticos: se deben administrar puntualmente en bolo tantas ampollas de furosemida intravenosa como cifra de creatinina (mg/dl) presente. Se han de descartar otras causas de hipoperfusión renal (anemia, hipotensión e hipoproteinemia) y corregirlas. – Uso combinado de diuréticos: hay que tener determinación de la función renal e ionograma para poder iniciar esta combinación: ° Con filtrado glomerular (FG) superior a 30 ml/min y sodio mayor de 135 mEq/l, se pueden utilizar tiazidas tipo clortalidona 50 mg (0,5-1 comp./ día), evaluando la respuesta en la siguiente hora. Otra opción son los ahorradores de potasio tipo espironolactona, al menos 50-100 mg/día para conseguir respuesta diurética, evaluando la respuesta a las 48-72 h. ° Con alcalosis metabólica se puede emplear acetazolamida (250 mg/24 h v.o.), teniendo precaución porque puede ocasionar trastornos en el equilibrio ácido-base. – Si a pesar del ajuste de dosis y la combinación de diuréticos la respuesta diurética es inadecuada y hay una natremia menor de 135, se puede utilizar suero salino hipertónico (SSH) combinado con diurético (tabla 4). Se administrarán 150 ml de SSH en 30 min cada 12 h, junto con la dosis de furosemida intravenosa necesaria (100-250 mg). Requiere una vía periférica de buen calibre (es irritante) y control analítico diario para el ajuste de dosis y evitar la sobrecorrección de la natremia. Se puede añadir potasio intravenoso en el mismo suero según la kaliemia del paciente, pero suele ser mal tolerado por irritación local. – En caso de enfermedad renal crónica (ERC) en estadios III/IV se recomienda además contactar con Nefrología por si precisase terapia renal sustitutiva (FG < 30 ml/min y/o hiperpotasemia [K > 6 mEq/l]). También se debe valorar ultrafiltración si todas las opciones de tratamiento diurético fracasan.
+205
+
+Manual de Diagnóstico y Terapéutica Médica
+
+Tabla 4. Elaboración de suero salino hipertónico para el tratamiento de la insuficiencia cardíaca aguda
+
+Sodio plasmático
+
+Suero hipertónico requerido
+
+Suero salino al 0,9%
+
+Suero hipertónico al 20%
+
+≤ 125 mEq/l
+
+150 ml al 4,6%
+
+120 ml
+
+30 ml
+
+126-135 mEq/l
+
+150 ml al 3,5%
+
+130 ml
+
+20 ml
+
+> 135 mEq/l
+
+150 ml al 1,4% y al 2,4% 140 ml
+
+10 ml
+
+3.3.1. Tratamiento del edema agudo de pulmón
+Aparte de los diuréticos, se puede considerar lo siguiente (figura 4):
+a) Opiáceos: morfina 2-5 mg i.v. en bolo para control sintomático de la disnea. No se recomienda su uso rutinario. Pueden producir náuseas, hipotensión, bradicardia y depresión respiratoria (que incrementa el riesgo de ventilación invasiva).
+b) Vasodilatadores: reducen la precarga y la poscarga. Deben evitarse si la tensión arterial sistólica (TAS) es menor de 90 mmHg. Se han de utilizar con precaución en la estenosis aórtica o mitral significativa: • Nitroglicerina (NTG, solinitrina amp. 50 mg/10 ml) en perfusión: se cargan 25 mg en 250 cc de suero glucosado (SG) al 5% o suero fisiológico (SF) al 0,9%, o a doble concentración si se quiere infundir menos volumen (50 mg/250 cc). La dosis que se utiliza es 10-200 mg/min. Se va aumentando el ritmo de infusión según se requiera, vigilando la aparición de hipotensión arterial. Puede ocasionar cefalea. • El nitroprusiato de sodio (vial de 50 mg) está indicado en la IC hipertensiva cuyas cifras tensionales no se consiguen controlar con dosis altas de NTG (PAS > 140). Precisa monitorización estrecha en la UCI.
+c) Ventilación mecánica no invasiva: está indicada en pacientes con EAP cardiogénico o ICA hipertensiva que no mejoran con tratamiento diurético (SpO2 < 92% con fracción inspirada de oxigeno [FiO2] 0,5, pH < 7,35, presión parcial de dióxido de carbono [pCO2] > 45, frecuencia respiratoria > 25 y disnea moderada o grave con uso de musculatura accesoria o abdominal). Se puede valorar junto con Cardiología o Neumología el empleo de una CPAP (continuous positive airway pressure) y/o una BiPAP (bilevel positive airway pressure). Varios estudios han mostrado que una actuación precoz consigue reducir la tasa de intubación orotraqueal (IOT), especialmente en pacientes hipercápnicos.
+d) Ventilación mecánica invasiva: es una medida excepcional. Alguna de sus indicaciones son la insuficiencia respiratoria a pesar de las medidas previas, la fatiga física, consciencia reducida y la incapacidad de mantener o proteger la vía respiratoria.
+e) Si existen datos de hipoperfusión periférica, se deben utilizar agentes inotrópicos y vasoconstrictores: en el shock cardiogénico el inotrópico de elección es la dobutamina (rango terapéutico de 2-20 μg/kg/min, con precaución porque tiene efecto arritmogénico y aumenta el consumo miocárdico de oxígeno). Si fuese necesario el efecto vasoconstrictor, el fármaco de elección es la noradrenalina (rango terapéutico de 0,1-2 μg/kg/min). Estos fármacos deben administrarse en una UCI o en una planta con telemetría y manejarlos enfermería especializada.
+
+206
+
+Edema agudo de pulmón/congestión
+
+15. Insuficiencia cardíaca
+
+Hipoxemia Disnea grave Bolo de diurético i.v.
+
+Oxigenoterapia Considerar opiáceo
+
+PAS < 85 mmHg/ shock
+Considerar inotropo y/o vasopresor
+
+PAS 85-110 mmHg
+
+PAS > 110 mmHg
+
+Considerar vasodilatador
+
+¿Respuesta adecuada?
+• PAS > 85 mmHg • SpO2 > 89% • Diuresis > 1 cc/kg/h • Control sintomático
+
+Sí
+
+No
+
+Mantener tratamiento
+
+Reevaluar
+
+PAS < 85 mmHg
+
+Diuresis < 20 cc/h
+
+SpO2 < 90%
+
+• Interrumpir vasodilatador y betabloqueante si lo tuviese
+• Iniciar/optimizar inotrópico +/– vasopresor
+• Cateterismo derecho +/– soporte mecánico circulatorio
+
+• Aumentar dosis de diuréticos, combinación de los mismos o salino hipertónico
+• Valorar cateterismo derecho/ ultrafiltración
+
+Considerar VMNI/IOT
+
+IOT: intubación orotraqueal; PAS: presión arterial sistólica; SpO2: saturación de oxígeno; VMNI: ventilación mecánica no invasiva. Figura 4. Manejo del edema agudo de pulmón.
+
+207
+
+Manual de Diagnóstico y Terapéutica Médica
+4. INSUFICIENCIA CARDÍACA CRÓNICA
+4.1. Aproximación inicial al paciente con insuficiencia cardíaca crónica
+Se habla de insuficiencia cardíaca crónica (ICC) cuando el paciente ya ha tenido alguna vez síntomas compatibles con ICA. Para la valoración y el manejo del paciente con ICC es necesario: a) Educación del paciente sobre su enfermedad, síntomas de alarma y manejo de la
+medicación: los pacientes bien formados pueden aumentar el diurético de forma transitoria en función del peso diario (≥ 2 kg en los últimos 3 días) o de la aparición de edemas en miembros inferiores, lo que se denomina pauta flexible de diurético. b) Control de las comorbilidades: despistaje de dislipemia, diabetes mellitus (DM), trastornos tiroideos, ferropenia y ERC, además de realizar un control más estricto de la PA. Son importantes también la detección de la FA o de otros trastornos del ritmo y la valoración del síndrome de apneas-hipopneas del sueño (SAHS) en caso de sospecha. c) Dado que muchos de los fármacos que se utilizan en la IC dependen y pueden modificar la función renal y los iones, se precisa su vigilancia más estrecha. d) Una vez instaurado el tratamiento estándar con la mayor titulación posible, se debe realizar un ecocardiograma (ETT) a los 3 meses para valorar la evolución de la cardiopatía y la necesidad eventual de otros tratamientos o dispositivos. e) Para valorar la congestión, además de la exploración y del peso, se dispone de: • NT-proBNP: conocer sus niveles en situación de estabilidad clínica tiene valor
+pronóstico, ya que un valor más alto tiene más riesgo de descompensación. Además, un aumento de más del 50-100% acompañado de síntomas puede indicar una descompensación. A pesar de ello, no es un buen marcador como guía de tratamiento, y la ausencia de un descenso no indica en todos los casos la necesidad de incrementar o cambiar el tratamiento. Cabe destacar que los niveles pueden ser más elevados en la ERC o la FA y más bajos en obesos (> 50%) o en la IC derecha. A diferencia del BNP, el NT-proBNP no se ve modificado directamente por los inhibidores de neprilisina. • CA125: la diferencia respecto al NT-proBNP es que podría utilizarse como guía de tratamiento durante el seguimiento crónico, pero no en el episodio agudo (vida media de 7-12 días). Niveles elevados de CA125 (> 35 ng/ml) al alta o en la primera visita posterior al alta pueden indicar persistencia de la congestión, y se recomienda no disminuir la terapia diurética. Es además un buen marcador de resistencia diurética. • Ecoscopia: es útil en la consulta tanto para la monitorización como en el diagnóstico precoz de la congestión mediante la detección de líneas B.
+4.2. Medidas no farmacológicas
+Se muestran en la tabla 5. No existe evidencia clara respecto a la restricción hídrica o la salina, aunque las guías europeas y americanas las recomiendan. La restricción hídrica parece especialmente útil en pacientes con hiponatremia hipervolémica. En cuanto a la dieta baja en sal, ninguna de las guías recomienda la ausencia completa de la ingesta de sal. En las guías de 2021 de la European Society of Cardiology (ESC) se recomienda el consumo de menos de 5 g/día de sal (equivalente aproximado a una cucharilla).
+208
+
+15. Insuficiencia cardíaca
+Tabla 5. Medidas no farmacológicas en la insuficiencia cardíaca
+• Dieta cardiosaludable, con un objetivo de índice de masa corporal de 20-25 kg/m2 • Evitar la ingesta excesiva de líquidos (< 1,5-2 l/día) y restringir la sal (< 5 g/día) • Ejercicio físico adecuado a cada caso (p. ej., paseo diario) • Abstención absoluta del tabaco y evitar el alcohol • Vacunación antigripal anual • Vacunación antineumocócica en > 65 años o en cardiopatía grave
+4.3. Medidas farmacológicas
+El tratamiento farmacológico de la IC consta de dos partes:
+a) Tratamiento específico: encaminado a frenar el circuito neurohormonal que perpetúa y empeora la IC, que dependerá de la FEVI del paciente.
+b) Tratamiento diurético: tiene como objetivo disminuir los síntomas congestivos. Es similar en todos los casos.
+4.3.1. Tratamiento específico en la fracción de eyección del ventrículo izquierdo reducida
+Actualmente consta de cuatro grupos farmacológicos fundamentales (figura 5): a) Inhibidores del sistema renina-angiotensina-aldosterona (iSRAA): son los INRA
+o, en su defecto, los IECA o los ARA-II. b) BB. c) Antagonistas del receptor de mineralocorticoides (ARM). d) Inhibidores del cotransportador sodio-glucosa tipo 2 (iSGLT2). El objetivo es, si el paciente no tiene contraindicaciones y los tolera, iniciar los cuatro grupos de fármacos y titularlos lo más cerca posible de la dosis objetivo (tabla 6). Las guías no establecen un orden a la hora de iniciar los tratamientos; se recomienda individualizar según el perfil del paciente.
+El INRA ha demostrado ser superior a IECA/ARA-II en cuanto a mortalidad cardiovascular y rehospitalizaciones por IC con un perfil de seguridad similar, además de ser seguro su inicio directo (sin necesidad de tratamiento previo con los otros dos grupos). En caso de no disponer del INRA, no tolerarlo o no poder cubrirlo económicamente, se trataría con IECA/ARA-II.
+Respecto a la titulación, se deben tener en cuenta los siguientes factores: a) Los iSRAA se han de iniciar en el paciente estable y son mejor tolerados cuando
+este está todavía discretamente congestivo (p. ej., con necesidad de 40 mg/día v.o. de furosemida). Dado que son hipotensores, a la hora de iniciarlos hay que valorar disminuir la dosis de furosemida y retirar otros fármacos que no ocasionen beneficio clínico (como los antagonistas del calcio utilizados como antihipertensivos). b) Es importante no iniciar el BB en pacientes con descompensación importante (sobre todo NYHA IV) para evitar el empeoramiento de los síntomas. La recomendación es empezarlos una vez que haya buena respuesta diurética y mejoría respiratoria, al principio a dosis bajas y aumentando la dosis según tolerancia y frecuencia cardíaca (objetivo < 70 lpm). c) Se tiene que hacer un control estricto de la función renal. Hay que disminuir la dosis del iSRAA/ARM en caso de caída importante del FG (> 30%). Se ha observado un descenso leve transitorio del filtrado al inicio de los iSGLT2 sin consecuencias posteriores.
+209
+
+Manual de Diagnóstico y Terapéutica Médica
+d) Los iSRAA y el ARM pueden producir hiperpotasemia. En este caso es necesario disminuir la dosis o suspenderlos eventualmente, en primer lugar el ARM. Si es crónica y/o recurrente, con un potasio de 5,1-6 mEq/l, se pueden utilizar quelantes del potasio (patiromer, ciclosilicato de sodio y zirconio) con el objetivo de no modificar el tratamiento específico, a expensas de una mayor polifarmacia.
+e) Tras la optimización del tratamiento estándar puede que el paciente pase a tener una FEVI recuperada (aumento de la FEVI de ≥ 10% y > 40% en al menos dos ETT consecutivos). Si bien no hay clara evidencia sobre estos pacientes, la recomendación actual es mantener el tratamiento sin cambios.
+Una vez iniciados los fármacos descritos previamente, hay otros tratamientos e intervenciones que pueden mejorar el pronóstico en determinadas circunstancias:
+a) Ivabradina: disminuye la frecuencia cardíaca. Se recomienda su uso en pacientes con FEVI del 35% o menos y NYHA II-III en ritmo sinusal (o FA paroxística) que, a pesar de la máxima dosis tolerada de BB, presentan una frecuencia cardíaca mayor de 70 lpm.
+b) Hidralazina + dinitrato de isosorbida: está indicado en pacientes de raza negra persistentemente sintomáticos (NYHA III-IV) a pesar del tratamiento convencional.
+c) Digoxina: de segunda línea en pacientes que permanecen sintomáticos a pesar del uso de BB e ivabradina. Tiene utilidad limitada y escasamente estudiada.
+
+INRA (iSRAA)
+ARM
+
+BB iSGLT2
+
+Ferritina < 100 µg/l
+Ferritina 100299 µg/l + IST < 20%
+
+HIERRO i.v.
+
+Si RS > 70 lpm
+
+NYHA III-IV + raza negra
+
+QRS ≥ 150 + BCRI + RS
+
+Arritmia ventricular inestable/FEVI ≤ 35% + Clsq
+(Cnolsq)
+
+Descompensación reciente/
+IC avanzada
+
+IVABRADINA
+
+HIDRAZALINA +
+
+TRC
+
+DNI
+
+DAI
+
+VERICIGUAT
+
+OMECAMTIV
+
+TRASPLANTE CARDÍACO
+ARM: antagonista del receptor de mineralocorticoides; BB: betabloqueante; BCRI: bloqueo completo de rama izquierda; CIsq: cardiopatía isquémica; CnoIsq: cardiopatía no isquémica; DAI: desfibrilador automático implantable; DNI: dinitrato de isosorbida; FEVI: fracción de eyección del ventrículo izquierdo; IC: insuficiencia cardíaca; INRA: inhibidor de la neprilisina y del receptor de la angiotensina; iSGLT2: inhibidor del cotransportador sodio-glucosa tipo 2; iSRAA: inhibidor del sistema renina-angiotensina-aldosterona; IST: índice de saturación de transferrina; MCD: miocardiopatía dilatada; RS: ritmo sinusal; TRC: terapia de resincronización cardíaca.
+Figura 5. Algoritmo de tratamiento específico en la insuficiencia cardíaca con fracción de eyección del ventrículo izquierdo reducida.
+
+210
+
+Tabla 6. Fármacos más utilizados en el tratamiento específico de pacientes con insuficiencia cardíaca-fracción de eyección del ventrículo izquierdo reducida
+
+Grupo
+
+Fármacos
+
+Dosis de inicio
+
+Dosis objetivo Precauciones
+
+Contraindicaciones
+
+INRA
+
+Sacubitrilo/ valsartán
+
+Inicio habitual
+
+49/51 mg/ 12 h
+
+97/103 mg/12 h
+
+• Child-Pugh B • PAS < 100 mmHg • Hipovolemia • Potasio > 5 mEq/l
+
+Si PAS < 100110 mmHg, IECA/ARAII naive, FG 3060 ml/min
+
+24/26 mg/ 12 h
+
+• Uso de IECA hace < 36 h • Historia de angioedema
+con/sin IECA o ARA-II • Embarazo y lactancia • Child-Pugh C • Hipersensibilidad a IECA/
+ARA-II • FG < 30 ml/min • Potasio > 5,5 mEq/L • Hipotensión sintomática
+o PAS < 90 mmHg • Estenosis de la arteria
+renal bilateral confirmada • Embarazo/riesgo
+de embarazo
+
+IECA ARA-II
+
+Captopril Enalapril Lisinopril Ramipril Trandolapril
+Candesartán Valsartán Losartán
+
+6,25 mg/8 h 2,5 mg/12 h 2,5 mg/24 h 0,5 mg/24 h 0,5 mg/24 h
+4-8 mg/24 h 40 mg/12 h 50 mg/24 h
+
+50 mg/8 h 20 mg/12 h 20-35 mg/24 h 10 mg/24 h 4 mg/24 h
+32 mg/24 h 160 mg/12 h 150 mg/24 h
+
+• Potasio > 5 mEq/l • Creatinina > 2,5 mg/
+dl y FG < 30 ml/min • Hipotensión
+sintomática o asintomática grave (PAS < 90 mmHg)
+
+• Potasio > 5,5 mEq/l • Creatinina > 3,5 mg/dl
+o FG < 20 ml/min • Historia de angioedema • Estenosis de la arteria
+renal bilateral confirmada • Embarazo/riesgo
+de embarazo
+
+15. Insuficiencia cardíaca 211
+
+BB
+
+Bisoprolol
+
+1,25 mg/24 h
+
+10 mg/24 h
+
+• Descompensación
+
+• BAV de 2.º-3.er grado
+
+Carvedilol
+
+3,125 mg/12 h
+
+25 mg/12 h
+
+de la IC en curso
+
+sin marcapasos
+
+Metoprolol
+
+12,5-25 mg/24 h
+
+200 mg/24 h
+
+o reciente
+
+• Isquemia periférica crítica
+
+Nevibolol
+
+1,25 mg/24 h
+
+10 mg/24 h
+
+• PAS < 90 mmHg
+
+• ICA NYHA IV
+
+o FC < 50 lpm
+
+• Asma*
+
+Manual de Diagnóstico y Terapéutica Médica 212
+
+Tabla 6. Fármacos más utilizados en el tratamiento específico de pacientes con insuficiencia cardíaca-fracción de eyección del ventrículo izquierdo reducida (cont.)
+
+Grupo
+
+Fármacos
+
+Dosis de inicio
+
+Dosis objetivo Precauciones
+
+Contraindicaciones
+
+Antagonista del receptor de mineralocorticoides
+
+Espironolactona Eplerenona
+
+12,5-25 mg/24 h 25 mg/24 h
+
+25-50 mg/24 h 50 mg/24 h
+
+• Potasio > 5 mEq/l • Creatinina > 2,5 mg/
+dl o FG < 30
+
+• Potasio > 6 mEq/l • Creatinina > 3,5 mg/dl
+o FG < 20 ml/min
+
+iSGLT2
+
+Empagliflozina Dapagliflozina
+
+10 mg/24 h 10 mg/24 h
+
+• FG < 30 ml/min para dapagliflozina y FG < 20 ml/min para empagliflozina
+• Infecciones genitourinarias
+
+• Cetoacidosis diabética • Embarazo o riesgo
+de embarazo, lactancia • Diálisis • Hipotensión sintomática
+o PAS < 95 mmHg
+
+Bloqueadores de la corriente If
+
+Ivabradina
+
+5 mg/12 h
+
+7,5 mg/día (aumentar si > 60 lpm)
+
+• FG < 15 ml/min • NYHA IV • Descompensación de
+IC en curso o reciente • FC < 50 lpm durante
+el tratamiento • Disfunción sinusal • Defectos de
+conducción • QT largo
+
+• Child-Pugh C • Descompensación
+de la IC • PA < 90/50 mmHg • Bloqueo sinusal, BAV
+de 2.º-3.er grado sin marcapasos • Embarazo o lactancia
+
+ARA-II: antagonista del receptor de la angiotensina II; BAV: bloqueo auriculoventricular; BB: betabloqueante; FC: frecuencia cardiaca; FG: filtrado glomerular; IC: insuficiencia cardíaca; ICA: insuficiencia cardíaca aguda; IECA: inhibidor de la enzima convertidora de angiotensina; EPOC: enfermedad pulmonar obstructiva crónica; INRA: inhibidor de la neprilisina y del receptor de la angiotensina; iSGLT2: inhibidor del cotransportador sodio-glucosa tipo 2; PA: presión arterial; PAS: presión arterial sistólica. * No es una contraindicación iniciar betabloqueantes cardioselectivos en el asma.
+
+15. Insuficiencia cardíaca
+d) Otros tratamientos: el vericiguat (inhibidor de la guanilato ciclasa) puede considerarse en pacientes con NYHA II-IV con FEVIr a pesar del tratamiento estándar y descompensaciones recientes para reducir las hospitalizaciones por IC. En este subgrupo el omecamtiv mecarbil (activador de la miosina) también ha demostrado disminuir las hospitalizaciones, si bien no está aún aprobado con esta indicación.
+e) Dispositivos/intervenciones: • Terapia de resincronización cardíaca (TRC): el objetivo de este dispositivo es mejorar la función cardíaca al recuperar una adecuada mecánica. Los más beneficiados son los pacientes con QRS ancho y en ritmo sinusal. La indicación principal es la IC sintomática a pesar del tratamiento estándar optimizado durante 3 meses, con QRS ≥ 150 ms y morfología de bloqueo completo de rama izquierda (BCRI). También es indicación de clase I en los pacientes con necesidad de marcapasos ventricular y bloqueo auriculoventricular (BAV) de alto grado, independientemente del ritmo, en lugar de un marcapasos. Si bien se puede implantar en ausencia de BCRI o en ritmo de FA, el beneficio es más dudoso. • Desfibrilador automático implantable (DAI): está recomendado en prevención secundaria en pacientes que se han recuperado de una arritmia ventricular con inestabilidad hemodinámica. En prevención primaria se implanta en aquellos con FEVI del 35% o menos y NYHA II-III pese al tratamiento estándar optimizado durante al menos 3 meses que tengan además cardiopatía isquémica (evidencia IA) (excepto IAM en los últimos 40 días) o no isquémica (evidencia IIa). Solamente se implanta en pacientes con NYHA IV si son subsidiarios de TRC, dispositivo de apoyo ventricular o trasplante cardíaco. • Reparación de la válvula mitral: en pacientes con regurgitación mitral grave funcional y NYHA III-IV con disfunción sistólica grave (FEVI < 30%) a pesar del tratamiento estándar optimizado, podría ser beneficiosa su reparación percutánea.
+A pesar de todos estos tratamientos, el paciente puede no presentar buena evolución y mantenerse en grados NYHA III-IV con intolerancia o necesidad de disminuir el tratamiento estándar, requerir inotropos intravenosos, sufrir hospitalizaciones frecuentes u otros fallos orgánicos o no responder a altas dosis de diuréticos. Estos pacientes, que se incluyen en el grupo de IC avanzada, deben ser valorados para tratamientos alternativos, como diálisis peritoneal, dispositivos de asistencia o trasplante cardíaco.
+4.3.2. Tratamiento específico en la fracción de eyección del ventrículo izquierdo levemente reducida y preservada en la insuficiencia cardíaca derecha
+Tanto en la IC-FEVIlr (hay pocos estudios centrados en ella, la mayoría de pacientes con FEVIr recuperada) como en la IC-FEVIp no se recomienda ningún fármaco específico. El objetivo fundamental es el control de las comorbilidades, sobre todo de la HTA. Según el reciente estudio EMPEROR-HF (2021), la empagliflozina redujo de forma significativa el riesgo combinado de hospitalizaciones por IC y mortalidad cardiovascular en pacientes con FEVI del 40% o más, independientemente de si eran diabéticos o no, por lo que queda pendiente valorar cuál será en un futuro su lugar en el algoritmo terapéutico.
+Por último, hay un grupo de pacientes en los que el fallo fundamental será del VD, independientemente de la FEVI. Si bien fisiopatológicamente podrían ser beneficiosos los iSRAA (sobre todo los ARM), no se ha demostrado su utilidad, por lo que tampoco tiene tratamiento específico. Presentan mala tolerancia a los BB.
+213
+
+Manual de Diagnóstico y Terapéutica Médica
+4.3.3. Tratamiento diurético
+Se debe intentar disminuir lo máximo posible, e incluso suspenderlo si es posible, con ajustes dinámicos. La elección de la terapia diurética se ha de realizar según lo indicado en el apartado sobre la ICA. En situación de estabilidad puede ser útil el cambio de la furosemida por torasemida dada su mejor biodisponibilidad oral.
+No hay una pauta recomendada para reducir la dosis de diurético, aunque parece razonable valorar su descenso tras un tiempo de euvolemia, por ejemplo, 3 meses. Está en estudio un seguimiento con el Nau, bajo la hipótesis de que quienes presentan una caída del Nau durante el seguimiento están peor controlados y, por tanto, en ellos no se debería bajar la dosis de diurético.
+En pacientes refractarios al tratamiento se puede plantear la hemofiltración por medio de diálisis peritoneal o ya de forma paliativa la implantación de infusores subcutáneos de furosemida, que permiten la administración de dosis altas de forma continua por vía parenteral en el domicilio.
+4.3.4. Tratamiento de las comorbilidades
+a) FA: es la arritmia más frecuente en los pacientes con IC, sobre todo en FEVIp. No está claro que sea más beneficiosa la estrategia de control de ritmo sobre la de la frecuencia, pero en un reciente estudio se ha demostrado que la ablación de la FA ha demostrado mejorar los síntomas, la FEVI e incluso la mortalidad y la hospitalización por IC en FEVIr, por lo que se recomienda en estos casos comentar con una unidad especializada para la valoración del caso. Si se decide control de frecuencia, el objetivo es el mismo que el estándar (< 100-110 lpm). El BB es el fármaco de elección, principalmente en FEVIr, siempre que la NYHA sea I-III. En pacientes con NYHA IV son de elección la amiodarona y la digoxina. Tanto el verapamilo como el diltiazem están contraindicados en FEVIr.
+b) Enfermedad renal crónica: hasta el 50% de los pacientes con IC tienen ERC, lo que confiere un aumento de la mortalidad. En ellos hay que tener en cuenta que muchos de los fármacos utilizados requieren ajuste según el FG (tabla 6), aunque la mayoría son seguros con un FG mayor de 20 ml/min. Se tiene que aumentar la dosis de diurético para conseguir el mismo efecto. Los inhibidores de los receptores a-adrenérgicos (tamsulosina y doxazosina) pueden causar hipotensión y retención hidrosalina, por lo que no son seguros en pacientes con IC-FEVIr.
+c) DM: en pacientes con diabetes mellitus tipo 2 (DM2) el tratamiento con iSGLT2 es el indicado para añadir a la metformina en IC con FEVIr (reciente evidencia también en IC-FEVIp). Las tiazolidinedionas o glitazonas han demostrado empeorar la IC en pacientes diabéticos, por lo que está contraindicado su uso.
+d) Ferropenia: en IC sintomática y FEVI < 45% (también < 50% si ha sido recientemente hospitalizado) se ha demostrado que el tratamiento con hierro carboximaltosa intravenoso mejora los síntomas, la capacidad de ejercicio y la calidad de vida en pacientes con ferritina menor de 100 μg/l o de 100-299 μg/l y una saturación de transferrina (IST) menor del 20%. En pacientes con FEVIp tanto la Sociedad Española de Medicina Interna (SEMI) como la Sociedad Española de Cardiología (SEC) proponen los mismos criterios, aunque por el momento no hay evidencia suficiente.
+e) Hiponatremia: es una situación frecuente en los pacientes con IC que además empeora su pronóstico a largo plazo. La aproximación inicial será en función del volumen: • Hiponatremia hipervolémica o dilucional: resultado de la activación del SRAA y la hormona antidiurética (ADH), que lleva a una mayor retención de agua libre que de sodio y a un aumento de la ingesta hídrica. El tratamiento consiste en terapia deplectiva, siendo estos pacientes los más respondedores a la restricción hídrica, la administración de SSH con diuréticos y el tolvaptán, que se ha
+214
+
+15. Insuficiencia cardíaca
+
+demostrado seguro, con una respuesta diurética similar en algunos estudios a la furosemida sin más efectos adversos y una mayor recuperación de las cifras de natremia, aunque con igual mortalidad y tasas de rehospitalización. También puede haber pacientes hipervolémicos con hipernatremia (ver cap. 47. Trastornos hidroelectrolíticos. Fluidoterapia). • Hiponatremia euvolémica o hipovolémica (deplecional): la causa más frecuente, tanto en estados euvolémicos como hipovolémicos, es la secundaria a diuréticos tiazídicos. La furosemida produce hiponatremia hipovolémica (ver cap. 47. Trastornos hidroelectrolíticos. Fluidoterapia).
+
+BIBLIOGRAFÍA
+• Anguita M, Bayés-Genísc A, Cepedae JM, Cinzaf S, Cosíng J, Crespo Leiro M, et al. Consenso de expertos sobre la insuficiencia cardiaca con fracción de eyección reducida: más allá de las guías. Rev Esp Cardiol Supl. 2020;20(B):1-46.
+• Armstrong PW, Pieske B, Anstrom KJ, Ezekowitz J, Hernández AF, Butler J, et al. Vericiguat in Patients with Heart Failure and Reduced Ejection Fraction. N Engl J Med. 2020;382(20):1883-1893.
+• Boslaug BA. Evaluation and Management of Heart Failure with Preserved Ejection Fraction. Nat Rev Cardiol. 2020;17(9):559-573.
+• Boulet J, Massie E, Rouleau J-L. Heart Failure with Mid-range Ejection Fraction – What is it, if Anything? Can J Cardiol. 2020;S0828-282X(20)31114-4.
+• Felker GM, Lee KL, Bull DA, Redfield MM, Stevenson LW, Goldsmith SR, et al. Diuretic strategies in patients with acute decompensated heart failure. N Engl J Med. 2011;364:797-805.
+• González Olmedo J, Coto Morales B. Insuficiencia cardíaca. En: Manual de diagnóstico y terapéutica médica del Hospital Universitario 12 de Octubre. 8.ª ed. Madrid: MDS; 2016. p. 299-318.
+• Kelder JC, Cowie MR, McDonagh TA, Hardman SM, Grobbee DE, Cost B, et al. Quantifying the added value of BNP in suspected heart failure in general practice: an individual patient data meta-analysis. Heart. 2011;97(12):959-963.
+• Konstam MA, Kiernan MS, Bernstein D. Evaluation and Management of Right-Sided Heart Failure: A Scientific Statement From the American Heart Association. Circulation. 2018;137(20):e578-e622.
+• Maddox TM, Januzzi Jr JL, Allen LA, Breathett K, Butler J, Davis LL, et al. 2021 Update to 2017 ACC Expert Consensus Decision Pathway for Optimization of Heart Failure Treatment: Answers to 10 Pivotal Issues About Heart Failure With Reduced Ejection Fraction: A Report of the American College of Cardiology Solution Set Oversight Committee. J Am Coll Cardiol. 2021;77(6):772-810.
+• Martens P, Verbrugge FH, Boonen L, Nijst P, Dupont M, Mullens W. Value of routine
+
+investigations to predict loop diuretic down-titration success in stable heart failure. Int J Cardiol. 2018;250:171-175.
+• McDonagh TA, Metra M, Adamo M, Gardner RS, Baumbach A, Böhm M, et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2021;42(36):3599-3726.
+• Nagueh SF, Bhatt R, Vivo RP, Krim SR, Sarvari SI, Russell K, et al. Echocardiographic evaluation of hemodynamics in patients with decompensated systolic heart failure. Circ Cardiovasc Imaging. 2011;4(3):220-227.
+• Oudejans I, Mosterd A, Bloemen JA, Valk MJ, van Velzen E, Wielders JP, et al. Clinical evaluation of geriatric outpatients with suspected heart failure: value of symptoms, signs, and additional tests. Eur J Heart Fail. 2011;13(5):518-527.
+• Paterna S, di Pasquale P, Parrinello G, Fornaciari E, di Gaudio F, Fasullo S, et al. Changes in Brain Natriuretic Peptide Levels and Bioelectrical Impedance Measurements After Treatment With High-Dose Furosemide and Hypertonic Saline Solution Versus High-Dose Furosemide Alone in Refractory Congestive Heart Failure: A Double-Blind Study. J Am Coll Cardiol. 2005;45(12);1997-2003.
+• Teerlink JR, Díaz R, Felker GM, McMurray JJV, Metra M, Solomon SD, et al. Cardiac Myosin Activation with Omecamtiv Mecarbil in Systolic Heart Failure. N Engl J Med. 2021;384(2):105-116.
+• Verbrugge FH, Steels P, Grieten L, Nijst P, Tang WHW, Mullens W. Hyponatremia in Acute Decompensated Heart Failure. Depletion versus Dilution. J Am Coll Cardiol. 2015;65(5):480-492.
+• Yancy CW, Jessup M, Bozkurt B, Butler J, Casey Jr DE, Colvin MM, et al. 2017 ACC/AHA/ HFSA Focused Update of the 2013 ACCF/ AHA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Failure Society of America. J Am Coll Cardiol. 2017;70(6):776-803.
+215
+
+CAPÍTULO
+
+16
+Arritmias

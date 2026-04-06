@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(du -sh /c/Users/arena/OneDrive/Documentos/MIR/*)",
+      "Bash(grep -E \"\\\\.md$\")",
+      "Bash(xargs grep:*)"
+    ]
+  }
+}

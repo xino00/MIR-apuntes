@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "3b69c8e41a971f7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "32ac5308deea9848",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d43cf53acb678646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Patologias/01_Cardio/Cardiopatía isquémica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cardiopatía isquémica"
+            }
+          },
+          {
+            "id": "4a08e3e387357c66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Patologias/02_Neuro/Ictus Isquémico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ictus Isquémico"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49a52c231520276c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ef7e28a2e445ff6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "254187058eaf708b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "c99f4f24a38b0d24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "28d54b5b9586761b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88814fbd8501cb9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "20034c56cb88c687",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2a5903ec3236b5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10_Patologias/01_Cardio/Cosas ECG.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Cosas ECG"
+            }
+          },
+          {
+            "id": "c9d2f36546b7c6b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10_Patologias/03_Infecciosas/Sepsis - Hemodinámica y Reanimación.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sepsis - Hemodinámica y Reanimación"
+            }
+          },
+          {
+            "id": "1bd430b450cd6712",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6b7a168c14c3111b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "be426696acbf425a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10_Patologias/03_Infecciosas/Sepsis - Hemodinámica y Reanimación.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sepsis - Hemodinámica y Reanimación"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Iniciar/Detener la grabación": false,
+      "publish:Publicar cambios...": false,
+      "bases:Crear nueva base": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
+    }
+  },
+  "active": "4a08e3e387357c66",
+  "lastOpenFiles": [
+    "sync.ps1",
+    "sync.bat",
+    "sync.sh",
+    "10_Patologias/02_Neuro/Encefalopatías Metabólicas y Tóxicas.md",
+    "10_Patologias/02_Neuro/Cefaleas - Situaciones Especiales y Neuralgias.md",
+    "10_Patologias/02_Neuro/CEFALEA con signos de alarma.md",
+    "10_Patologias/02_Neuro/Brote de Esclerosis Múltiple.md",
+    "Libros y referencias/2_Guias Neurologia.md",
+    "Libros y referencias/Manual_Urgencias_neurologicas_2023_DIGITAL.pdf",
+    "Libros y referencias/Anemia of chronic disease_anemia of inflammation - UpToDate.pdf",
+    "Libros y referencias/Guia TEP 2026 AHA.pdf",
+    "Libros y referencias/Hojas de referencia ECG.pdf",
+    "Libros y referencias/PROA Antibioticos COMPLETO vs 23 abril.pdf",
+    "Libros y referencias/Clinical manifestations of hyperkalemia in adults - UpToDate.pdf",
+    "SECURITY.md",
+    "README.md",
+    "Manual de diagnóstico y terapeutica médicas H 12 OCTUBRE 2022.pdf",
+    "10_Patologias/01_Cardio/Cosas ECG.md",
+    "10_Patologias/01_Cardio/Fibrilación Auricular (FA).md",
+    "10_Patologias/01_Cardio/Hipertensión en Poblaciones Especiales.md",
+    "Cosas ECG.md.tmp.5.1775065081480",
+    "assets/ecg/ecg_eje.svg",
+    "assets/ecg/ecg_tep.svg",
+    "assets/ecg/ecg_wpw.svg",
+    "assets/ecg/ecg_brugada.svg",
+    "assets/ecg/ecg_sca.svg",
+    "assets/ecg/ecg_hipok.svg",
+    "assets/ecg/ecg_hiperk.svg",
+    "assets/ecg/ecg_bri.svg",
+    "assets/ecg/ecg_brd.svg",
+    "assets/ecg/ecg_bav3.svg",
+    "10_Patologias/01_Cardio/Arritmias.md",
+    "10_Patologias/02_Neuro/Síncope Neurológico.md",
+    "10_Patologias/01_Cardio/Cardiopatía isquémica.md",
+    "10_Patologias/03_Infecciosas/Sepsis - Hemodinámica y Reanimación.md",
+    "10_Patologias/02_Neuro/Hemorragia Intracerebral.md",
+    "30_Urgencias/Patologia_Aguda/Coma y Bajo Nivel de Conciencia.md",
+    "30_Urgencias/Patologia_Aguda/Status Epiléptico.md",
+    "10_Patologias/02_Neuro/Hemorragia Subaracnoidea.md",
+    "10_Patologias/02_Neuro/Crisis Miasténica.md",
+    "10_Patologias/02_Neuro/Síndrome de Guillain-Barré.md",
+    "10_Patologias/02_Neuro/Meningitis y Encefalitis.md",
+    "10_Patologias/02_Neuro/Ictus Isquémico.md",
+    "30_Urgencias/Patologia_Aguda/TCE Grave.md",
+    "10_Patologias/02_Neuro/Síndrome Neuroléptico Maligno.md",
+    "30_Urgencias/Patologia_Aguda/Hipertensión Intracraneal.md"
+  ]
+}
