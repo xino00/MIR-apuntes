@@ -1,5 +1,4 @@
 {
-  "theme": "system",
-  "nativeMenus": false,
-  "cssTheme": "Typewriter"
+  "theme": "obsidian",
+  "nativeMenus": false
 }

@@ -1,6 +1,9 @@
 [
-  "templater-obsidian",
+  "obsidian-importer",
+  "consistent-attachments-and-links",
   "dataview",
+  "obsidian-local-rest-api",
   "omnisearch",
-  "gemini-scribe"
+  "obsidian-outliner",
+  "templater-obsidian"
 ]

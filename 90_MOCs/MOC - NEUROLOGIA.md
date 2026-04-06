@@ -21,7 +21,6 @@
 
 ## 🌀 Cefaleas
 
-- [[CEFALEA con signos de alarma]] (banderas rojas — cefalea en trueno, fiebre, focalidad)
 - [[Cefaleas - Abordaje Inicial]] (signos de alarma, estatus migrañoso)
 - [[Cefaleas - Situaciones Especiales y Neuralgias]]
 - [[Cefaleas Trigemino-Autonómicas y Tensional]]

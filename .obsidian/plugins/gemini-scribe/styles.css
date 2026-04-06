@@ -490,45 +490,10 @@ If your plugin does not need CSS, delete this file.
 }
 
 /* File Picker Modal */
-.gemini-file-picker-list {
-	max-height: 400px;
-	overflow-y: auto;
-	border: 1px solid var(--background-modifier-border);
-	border-radius: 4px;
-	padding: 8px;
-	margin: 16px 0;
-}
-
-.gemini-file-picker-item {
+.gemini-context-file-picker .suggestion-content {
 	display: flex;
 	align-items: center;
 	gap: 8px;
-	padding: 4px;
-	border-radius: 4px;
-	cursor: pointer;
-}
-
-.gemini-file-picker-item:hover {
-	background-color: var(--background-modifier-hover);
-}
-
-.gemini-file-picker-label {
-	flex: 1;
-	cursor: pointer;
-	font-size: 14px;
-}
-
-.gemini-file-picker-buttons {
-	display: flex;
-	gap: 8px;
-	justify-content: flex-end;
-	margin-top: 16px;
-}
-
-.gemini-file-picker-buttons button {
-	padding: 8px 16px;
-	border-radius: 4px;
-	cursor: pointer;
 }
 
 /* Tool Execution Panel */
@@ -1470,6 +1435,104 @@ If your plugin does not need CSS, delete this file.
 	text-align: right;
 }
 
+/* Clickable Status Row — the entire row toggles thinking expansion */
+.gemini-agent-progress-clickable {
+	cursor: pointer;
+	border-radius: var(--radius-s);
+	transition: background-color 0.15s ease;
+}
+
+.gemini-agent-progress-clickable:hover {
+	background-color: var(--background-modifier-hover);
+}
+
+/* Thinking Chevron Indicator */
+.gemini-agent-thinking-chevron {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-shrink: 0;
+	color: var(--text-muted);
+	transition: color 0.15s ease;
+}
+
+.gemini-agent-thinking-chevron svg {
+	transition: transform 0.2s ease;
+}
+
+.gemini-agent-thinking-chevron-expanded svg {
+	transform: rotate(180deg);
+}
+
+.gemini-agent-progress-clickable:hover .gemini-agent-thinking-chevron {
+	color: var(--text-normal);
+}
+
+/* Expandable Thinking Section */
+.gemini-agent-thinking-section {
+	border-top: 1px solid var(--background-modifier-border);
+	margin-top: var(--size-2-2);
+	padding-top: var(--size-2-2);
+}
+
+.gemini-agent-thinking-content {
+	max-height: 200px;
+	overflow-y: auto;
+	font-size: var(--font-ui-small);
+	color: var(--text-muted);
+	line-height: 1.5;
+	padding: var(--size-2-1) var(--size-4-2);
+	background-color: var(--background-primary);
+	border-radius: var(--radius-s);
+}
+
+/* Rendered markdown within thinking content */
+.gemini-agent-thinking-content p {
+	margin: 0 0 0.4em 0;
+}
+
+.gemini-agent-thinking-content p:last-child {
+	margin-bottom: 0;
+}
+
+.gemini-agent-thinking-content ul,
+.gemini-agent-thinking-content ol {
+	margin: 0.2em 0;
+	padding-left: 1.5em;
+}
+
+.gemini-agent-thinking-content code {
+	font-size: 0.9em;
+	background-color: var(--background-secondary);
+	padding: 0.1em 0.3em;
+	border-radius: var(--radius-s);
+}
+
+/* Token Usage Indicator */
+.gemini-agent-token-usage {
+	display: flex;
+	align-items: center;
+	padding: 2px var(--size-4-2);
+	font-size: var(--font-ui-smaller);
+	color: var(--text-faint);
+	font-family: var(--font-monospace);
+}
+
+.gemini-agent-token-text {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.gemini-agent-token-usage-caution {
+	color: var(--color-yellow);
+}
+
+.gemini-agent-token-usage-warning {
+	color: var(--color-orange, var(--color-red));
+	font-weight: 500;
+}
+
 /* Input Area */
 .gemini-agent-input-area {
 	display: flex;
@@ -1988,6 +2051,205 @@ If your plugin does not need CSS, delete this file.
 }
 
 /* Collapsible tool messages */
+/* ============================================================
+   Grouped Tool Activity Bar
+   ============================================================ */
+
+.gemini-tool-group {
+	margin: var(--size-4-2) 0;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-m);
+	overflow: hidden;
+	background-color: var(--background-secondary);
+	transition: all 0.2s ease;
+}
+
+.gemini-tool-group:hover {
+	border-color: var(--background-modifier-border-hover);
+}
+
+/* Summary bar (always visible) */
+.gemini-tool-group-summary {
+	display: flex;
+	align-items: center;
+	gap: var(--size-2-2);
+	padding: var(--size-2-3) var(--size-4-3);
+	cursor: pointer;
+	user-select: none;
+	transition: background-color 0.15s ease;
+}
+
+.gemini-tool-group-summary:hover {
+	background-color: var(--background-modifier-hover);
+}
+
+.gemini-tool-group-icon {
+	display: flex;
+	align-items: center;
+	color: var(--text-muted);
+}
+
+.gemini-tool-group-icon svg {
+	width: 14px;
+	height: 14px;
+}
+
+.gemini-tool-group-text {
+	flex: 1;
+	font-size: var(--font-ui-small);
+	font-weight: 500;
+	color: var(--text-muted);
+}
+
+.gemini-tool-group-status {
+	font-size: var(--font-ui-small);
+	font-weight: 500;
+}
+
+.gemini-tool-group-status-running {
+	color: var(--color-blue);
+	animation: pulse 2s infinite;
+}
+
+.gemini-tool-group-status-success {
+	color: var(--color-green);
+}
+
+.gemini-tool-group-status-error {
+	color: var(--color-red);
+}
+
+.gemini-tool-group-chevron {
+	display: flex;
+	align-items: center;
+	color: var(--text-muted);
+	transition: transform 0.2s ease;
+}
+
+.gemini-tool-group-chevron svg {
+	width: 14px;
+	height: 14px;
+}
+
+/* Group body (expandable) */
+.gemini-tool-group-body {
+	border-top: 1px solid var(--background-modifier-border);
+	animation: slideDown 0.2s ease-out;
+}
+
+/* Individual tool rows */
+.gemini-tool-row {
+	border-bottom: 1px solid var(--background-modifier-border);
+	transition: background-color 0.15s ease;
+}
+
+.gemini-tool-row:last-child {
+	border-bottom: none;
+}
+
+.gemini-tool-row-header {
+	display: flex;
+	align-items: center;
+	gap: var(--size-2-2);
+	padding: var(--size-2-2) var(--size-4-3);
+	cursor: pointer;
+	user-select: none;
+	transition: background-color 0.15s ease;
+}
+
+.gemini-tool-row-header:hover {
+	background-color: var(--background-modifier-hover);
+}
+
+.gemini-tool-row-icon {
+	display: flex;
+	align-items: center;
+	color: var(--text-muted);
+	flex-shrink: 0;
+}
+
+.gemini-tool-row-icon svg {
+	width: 14px;
+	height: 14px;
+}
+
+.gemini-tool-row-name {
+	font-size: var(--font-ui-small);
+	font-weight: 500;
+	color: var(--text-normal);
+	white-space: nowrap;
+}
+
+.gemini-tool-row-param {
+	flex: 1;
+	font-size: var(--font-ui-smaller);
+	font-family: var(--font-monospace);
+	color: var(--text-muted);
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	min-width: 0;
+}
+
+.gemini-tool-row-status {
+	font-size: var(--font-ui-smaller);
+	padding: 1px 6px;
+	border-radius: var(--radius-s);
+	font-weight: 500;
+	white-space: nowrap;
+	flex-shrink: 0;
+	margin-left: auto;
+}
+
+.gemini-tool-row-status-running {
+	background-color: var(--color-blue);
+	color: white;
+	animation: pulse 2s infinite;
+}
+
+.gemini-tool-row-status-success {
+	background-color: var(--color-green);
+	color: white;
+}
+
+.gemini-tool-row-status-error {
+	background-color: var(--color-red);
+	color: white;
+}
+
+.gemini-tool-row-chevron {
+	display: flex;
+	align-items: center;
+	color: var(--text-faint);
+	flex-shrink: 0;
+}
+
+.gemini-tool-row-chevron svg {
+	width: 12px;
+	height: 12px;
+}
+
+/* Row details (expandable per-row) */
+.gemini-tool-row-details {
+	border-top: 1px solid var(--background-modifier-border);
+	padding: var(--size-4-2) var(--size-4-3);
+	background-color: var(--background-primary);
+	animation: slideDown 0.2s ease-out;
+}
+
+/* Expanded state */
+.gemini-tool-row-expanded {
+	background-color: var(--background-primary-alt);
+}
+
+.gemini-tool-group-expanded {
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+/* ============================================================
+   Legacy Tool Message Styles (kept for backward compatibility)
+   ============================================================ */
+
 .gemini-agent-message-tool {
 	margin-bottom: var(--size-4-2);
 }
@@ -2528,6 +2790,7 @@ If your plugin does not need CSS, delete this file.
 	padding: var(--size-2-3);
 	border-radius: var(--radius-s);
 	background: var(--background-secondary);
+	animation: fadeIn 0.2s ease-in;
 }
 
 .gemini-agent-result-icon {

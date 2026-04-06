@@ -1,0 +1,761 @@
+32. Dolor abdominal
+Tabla 3. Causas de abdomen agudo
+Apendicitis aguda
+Colecistitis aguda
+Diverticulitis
+Perforación de víscera hueca
+Obstrucción intestinal
+Traumatismo abdominal con rotura de órgano sólido (bazo o hígado)
+Rotura de embarazo ectópico
+
+1.3. Diagnóstico
+La identificación de la mayoría de los casos potencialmente graves puede realizarse
+mediante una anamnesis completa y una exploración física minuciosa.
+1.3.1. Anamnesis
+Es fundamental reparar tanto en las características del paciente como en las del dolor.
+1.3.1.1. Características relevantes del paciente
+a) Edad y sexo: los pacientes de edad avanzada tienden a presentar una clínica atípica, generalmente más larvada, que puede contribuir al retraso en el diagnóstico
+y empeorar el pronóstico. En las mujeres, especialmente en edad fértil, debe tenerse en cuenta la etiología ginecológica (ver cap. 12. Generalidades en Ginecología y Obstetricia).
+b) Hábitos tóxicos: el tabaco es un importante factor de riesgo para el desarrollo de
+aneurismas de aorta y el alcohol para la pancreatitis o hepatitis alcohólica aguda. El
+consumo de cocaína confiere riesgo de isquemia mesentérica aguda.
+c) Antecedentes médicos y quirúrgicos:
+• En pacientes con antecedentes quirúrgicos abdominales se debe descartar obstrucción intestinal secundaria a adherencias posquirúrgicas (causa más frecuente de obstrucción del intestino delgado).
+• Los pacientes con diabetes mellitus tienden a presentar una clínica menos expresiva. La incidencia de pancreatitis aguda en los diabéticos tipo 2 es más del
+doble que en la población general.
+• En pacientes con enfermedad cardiovascular se debe sospechar isquemia miocárdica, aneurisma o isquemia mesentérica aguda (especialmente en fibrilación
+auricular).
+• En procesos abdominales agudos recurrentes (p. ej., cólico biliar o pielonefritis)
+los pacientes habitualmente son capaces de reconocer el dolor.
+d) Medicación actualizada: algunos fármacos pueden estar implicados en el dolor abdominal (antiinflamatorios no esteroideos, antibióticos, anticolinérgicos, opiáceos
+y quimioterápicos).
+1.3.1.2. Características relevantes del dolor
+a) Localización: es uno de los datos que más información puede aportar para orientar el
+diagnóstico (tabla 1), si bien su especificidad resulta muy variable. La ubicación del
+dolor se puede modificar durante el curso de la enfermedad (p. ej., apendicitis aguda).
+449
+
+Manual de Diagnóstico y Terapéutica Médica
+
+b) Tiempo de evolución y modo de instauración: ayuda a identificar la gravedad de la
+causa del dolor:
+• Súbito/brusco: aparece en segundos o minutos con máxima intensidad desde
+el inicio y orienta a una causa subyacente grave, como perforación de víscera
+hueca, isquemia mesentérica o rotura de aneurisma de aorta abdominal.
+• Rápido: se va instaurando en minutos, de manera progresiva, como la obstrucción intestinal y el cólico renoureteral.
+• Progresivo: el dolor que evoluciona en horas suele relacionarse con un proceso
+inflamatorio/infeccioso subyacente, como colecistitis, apendicitis, diverticulitis,
+pancreatitis u obstrucción intestinal.
+c) Intensidad: a pesar de ser una experiencia subjetiva, a menudo se relaciona con la
+gravedad del cuadro. Se puede cuantificar su intensidad mediante la escala numérica NRS: se le pide al paciente que valore el dolor de 0 a 10 (sin dolor = 0; dolor
+leve = 1-2; moderado = 3-5; intenso = 6-8; insoportable = 9-10).
+d) Calidad del dolor: según las estructuras dañadas, se distinguen dos tipos:
+• Dolor visceral o cólico: responde a la lesión de la cápsula de órganos sólidos o
+de la pared de vísceras huecas. Se trata de un dolor difuso, que puede ser más
+acentuado en alguno de los cuadrantes (según patología subyacente). Suele comenzar siendo intermitente (cólico), pasando a ser continuo al dilatarse la víscera, como en la colecistitis aguda, el cólico renoureteral y la obstrucción intestinal.
+• Dolor parietal o peritonismo: se debe a la inflamación del peritoneo parietal. Es
+un dolor sordo, sostenido y bien localizado que aumenta con las maniobras de
+Valsalva y el movimiento. Característicamente el paciente tiende a permanecer
+lo más quieto posible, ya que incluso toser o los pequeños baches de la carretera
+al conducir pueden provocarle un dolor insoportable.
+e) Irradiación: algunas irradiaciones típicas de determinadas causas de dolor abdominal agudo se describen en la tabla 4.
+f) Factores de alivio/empeoramiento: existen algunos factores modificadores del dolor muy característicos, como la mejoría del dolor a la anteroflexión del tronco en la
+pancreatitis aguda y la relación con la ingesta en las úlceras pépticas (empeora en
+la úlcera gástrica y mejora en la duodenal), en la obstrucción intestinal (empeora
+con la ingesta y mejora tras el vómito) y en los cólicos biliares (empeora, especialmente si las comidas conllevan una alta carga grasa).
+g) Síntomas asociados: ayudan a acotar el diagnóstico, aunque ninguno es totalmente
+específico. Algunos ejemplos son la fiebre en las causas inflamatorias/infecciosas, el
+estreñimiento y ausencia de flatulencia en el íleo paralítico o la ictericia/coluria/acolia
+en la patología hepatobiliar. Resulta imprescindible completar la anamnesis en busca
+de síntomas que orienten a causas extraabdominales (respiratorias, cardíacas, genitourinarias, lesiones cutáneas, síndrome constitucional, etc.).
+1.3.2. Exploración física
+Debe seguir el siguiente orden:
+a) Constantes vitales: su alteración puede reflejar gravedad. Es fundamental identificar a los pacientes con temperaturas extremas, taquipnea, saturación de oxígeno
+alterada o inestabilidad hemodinámica.
+b) Inspección:
+• Aspecto general: los pacientes postrados, con signos de hipoperfusión periférica o de deshidratación deben evaluarse de forma precoz y cuidadosa en busca de
+causas potencialmente graves de dolor abdominal. Los aspectos más concretos
+de la inspección abdominal se reflejan en la tabla 5.
+450
+
+32. Dolor abdominal
+Tabla 4. Irradiaciones más típicas del dolor abdominal agudo
+Irradiación del dolor
+
+Patología subyacente
+
+Desde el epigastrio hasta ambas fosas renales; dolor «en
+cinturón»
+
+Pancreatitis
+
+Hipocondrio derecho, hombro derecho y zona subescapular
+
+Patología biliar
+
+Espalda
+
+Procesos biliopancreáticos
+Perforación de úlcera péptica
+Procesos ginecológicos
+
+Ingle ipsilateral
+
+Cólico renoureteral
+
+Inicio periumbilical y posterior migración a la fosa ilíaca
+derecha
+
+Apendicitis aguda
+
+Espalda/región sacra/ingles/cara interna de los muslos
+
+Aneurisma de aorta abdominal
+(requiere alta sospecha clínica)
+
+Tabla 5. Inspección abdominal
+Inspección
+
+Sospecha clínica
+
+Paciente inquieto, no encuentra una postura
+en la que el dolor disminuya
+
+Dolor tipo cólico (visceral)
+
+Paciente reclinado hacia delante
+
+Pancreatitis aguda
+
+Paciente quieto que evita cualquier movimiento,
+con o sin adoptar posición fetal
+
+Peritonismo (dolor parietal)
+
+Cicatriz de cirugía previa
+
+Obstrucción intestinal
+
+Distensión abdominal
+
+Ascitis/obstrucción intestinal
+
+Circulación colateral
+
+Ascitis/hepatopatía
+
+Equimosis
+
+Sangrado retroperitoneal
+
+Signo de Grey-Turner
+(equimosis en ambos flancos)
+Signo de Cullen (equimosis periumbilical)
+
+Pancreatitis aguda
+Hematoma retroperitoneal
+Embarazo ectópico
+
+Signo de Bryan (equimosis escrotal)
+
+Rotura de aneurisma aórtico abdominal
+
+Vesículas agrupadas
+
+Herpes zóster
+
+Nódulo paraumbilical o de la hermana María José
+
+Metástasis de neoplasia maligna
+
+c) Auscultación: debe prolongarse hasta 2 min y siempre hacerse antes de la palpación abdominal. Se evalúa la presencia de ruidos hidroaéreos (RHA) intestinales y
+sus características (frecuencia y timbre):
+• Ausencia de RHA: valorar la presencia de íleo paralítico mecánico o funcional.
+• RHA aumentados y/o metálicos: obstrucción intestinal mecánica.
+• Soplo: debe hacer sospechar patología arterial (aneurisma de aorta abdominal o
+estenosis de la arteria renal).
+d) Percusión:
+• Timpanismo: sugiere dilatación de asas intestinales (p. ej., obstrucción intestinal).
+• Matidez en un área concreta: sugiere masas o megalias subyacentes.
+• Matidez cambiante (matidez selectiva en zonas declives según cambia de posición el paciente): típica de la ascitis.
+• Dolor a la percusión: signo de peritonismo.
+451
+
+Manual de Diagnóstico y Terapéutica Médica
+
+e) Palpación: el principal objetivo de la palpación abdominal es descartar peritonismo
+u otros datos que orienten a etiología grave que requiera actuación emergente
+(p. ej., rotura de aneurisma de aorta). Los signos sugerentes de peritonismo se recogen en la tabla 6.
+Se debe comenzar por la zona menos dolorosa para evitar provocar una contractura de la pared abdominal que dificulte la exploración de otras áreas, en el orden siguiente:
+• 1.º Palpación superficial: se han de explorar todos los cuadrantes. La aparición
+de dolor y rigidez indica defensa abdominal y sugiere la presencia de peritonismo (tabla 6). Es importante distinguir la defensa abdominal involuntaria de la
+voluntaria; la voluntaria desaparece con la distracción.
+• 2.º Signos exploratorios: una vez que se ha llegado a la zona más dolorosa, hay
+que explorar los signos correspondientes, recogidos en la tabla 7, que tienen una
+alta especificidad, aunque su ausencia no descarta en ningún caso el diagnóstico
+de sospecha.
+• 3.º Palpación profunda: cuando mediante la palpación superficial no se ha identificado un área más dolorosa. Se explorará también la presencia de visceromegalias y masas, con especial atención a las masas pulsátiles en mayores de 65
+años, que pueden orientar hacia un aneurisma de aorta abdominal.
+f) Tacto rectal: no se recomienda realizarlo de forma sistemática a todos los pacientes
+con dolor abdominal. Tiene gran utilidad ante la sospecha de obstrucción intestinal (para descartar fecaloma o masas anorrectales), en presencia de molestias rectales (en busca de fístula, fisura o masa anorrectal) o en la hematoquecia
+(para valorar la presencia de hemorroides o masas).
+g) Exploraciones extraabdominales:
+• Exploración cardiopulmonar: para descartar causas intratorácicas de dolor abdominal (tabla 2).
+• Aparato genitourinario, tanto masculino como femenino, para descartar: enfermedad inflamatoria pélvica (el dolor a la movilización del cérvix es un hallazgo de
+alta sospecha para esta entidad), torsión testicular y hernias inguinales, entre
+otros.
+• Maniobra de puño-percusión lumbar: para considerar esta maniobra positiva,
+debe aparecer un dolor fuerte a la percusión enérgica de la fosa renal. Es altamente sugestiva de patología renoureteral (pielonefritis aguda, cólico renal o
+infarto renal).
+Tabla 6. Signos exploratorios de peritonismo
+Abdomen «en tabla»: rigidez a la palpación superficial y defensa abdominal involuntaria
+Exacerbación del dolor y de la rigidez al toser
+Exacerbación del dolor y de la rigidez al saltar sobre los talones
+Exacerbación del dolor y de la rigidez al golpear con la palma de la mano el talón del paciente
+o hacerle caer de talones
+Signo de Blumberg: mayor dolor a la descompresión brusca de un punto del abdomen
+que a la compresión de dicho punto
+Dolor a la percusión
+
+452
+
+32. Dolor abdominal
+Tabla 7. Signos específicos en la palpación abdominal
+Nombre
+
+Exploración
+Pausa inspiratoria brusca a la
+palpación profunda del hipocondrio
+derecho secundaria al dolor
+provocado
+
+Colecistitis aguda
+
+Murphy
+
+Palpación de la vesícula biliar en el
+hipocondrio derecho
+
+Gran distensión vesicular;
+típicamente debida a tumor
+en la cabeza del páncreas
+Apendicitis aguda
+
+Punto de McBurney
+
+Dolor en el punto situado en la unión
+del tercio medial con el tercio lateral
+de la línea que va del ombligo a la
+espina ilíaca anterosuperior derecha
+
+Signo de Rovsing
+
+Dolor reflejado en la fosa ilíaca
+derecha al palpar la fosa ilíaca
+izquierda
+
+Apendicitis aguda
+
+Signo del psoas
+
+Dolor a la extensión pasiva de la
+cadera derecha, estando el paciente
+en decúbito lateral izquierdo
+
+Apendicitis aguda retrocecal
+Patología del psoas (absceso,
+hematoma, etc.)
+
+Signo del obturador
+
+Dolor a la rotación (interna o
+externa) pasiva de la cadera derecha
+
+Apendicitis aguda pélvica
+
+Blumberg
+
+Mayor dolor a la descompresión
+brusca que a la compresión de un
+punto del abdomen
+
+Peritonismo
+
+Patología de la pared
+abdominal
+
+Carnett
+
+El examinador presiona el punto
+de máximo dolor abdominal con un
+dedo mientras el paciente flexiona
+la cadera o levanta el tronco. Si el
+dolor empeora, el signo de Carnett
+es positivo
+
+Courvoisier-Terrier
+
+Patología subyacente
+
+1.3.3. Pruebas complementarias
+Deben solicitarse de forma orientada para confirmar o descartar una sospecha diagnóstica. En ocasiones la mejor herramienta es la vigilancia clínica, pues la evolución del
+cuadro puede revelar frecuentemente el diagnóstico.
+1.3.3.1. Pruebas de laboratorio
+a) Bioquímica básica y gasometría venosa con determinación de lactato: deben solicitarse prácticamente en todos los pacientes para descartar afectación sistémica y
+procesos que requieran atención emergente (hipoperfusión, anemia importante o
+alteraciones hidroelectrolíticas).
+b) Perfil hepático, amilasa y lipasa: si se sospecha pancreatitis o enfermedades hepatobiliares.
+c) Hemograma: se solicitará en todos los pacientes. Tiene utilidad tanto en el estudio
+preoperatorio como para fines diagnósticos: permite cuantificar la pérdida de sangre en caso de hemorragia, pero también valorar la presencia de un sangrado no
+exteriorizado que pueda ser la causa del dolor abdominal (p. ej., en el hematoma
+453
+
+Manual de Diagnóstico y Terapéutica Médica
+
+retroperitoneal). En las hemorragias agudas se debe tener en cuenta que la cifra de
+hemoglobina obtenida de forma precoz puede ser normal. La presencia de leucocitosis es sensible pero muy inespecífica para el diagnóstico de patología inflamatoria
+o infecciosa, con escaso significado de forma aislada.
+d) Proteína C reactiva (PCR): comienza a elevarse unas 6 h tras el estímulo inflamatorio y alcanza su máximo a las 24-48 h; su elevación no es siempre útil para discriminar entre patología abdominal urgente y no urgente, aunque incrementa la
+posibilidad de hallazgos en la tomografía computarizada (TC). Sumada al recuento
+leucocitario, tiene buen valor predictivo negativo para el diagnóstico de apendicitis
+aguda.
+e) Procalcitonina: su elevación comienza a las 2-3 h tras el estímulo inflamatorio, con
+valores máximos aproximadamente a las 12 h. En general es más específica de infección bacteriana, puesto que la inflamación estéril o la infección vírica no estimulan su síntesis. Posee una alta sensibilidad (72-100%) y valor predictivo negativo
+(81-100%) para el diagnóstico de isquemia o necrosis intestinal; su utilidad resulta
+menos clara en otros procesos intraabdominales.
+f) Análisis de orina: si se sospecha infección del tracto urinario o litiasis ureteral, aunque puede estar alterado en cualquier proceso inflamatorio que se sitúe cerca de
+alguno de los uréteres (p. ej., apendicitis aguda).
+1.3.3.2. Pruebas de imagen
+a) Radiografía simple de abdomen: es, en general, poco sensible y específica para el
+diagnóstico de patología intraabdominal. Está indicada únicamente si se sospecha
+neumoperitoneo (perforación) u obstrucción intestinal, así como para valorar la posición de catéteres u otros dispositivos o localizar cuerpos extraños. Su sensibilidad
+es del 71-77% para el diagnóstico de obstrucción intestinal y del 80% para el de
+perforación de víscera hueca.
+b) TC abdominal con y sin contraste: está indicada en sospecha de patología aórtica
+(tras la estabilización del paciente), perforación visceral, complicaciones retroperitoneales o isquemia intestinal, así como en la sospecha de complicación intraabdominal postoperatoria y en el traumatismo abdominal (cerrado o penetrante).
+Aunque no son indicaciones estrictas, se trata de la prueba de elección para determinar la causa de un cuadro obstructivo y valorar las complicaciones de las pancreatitis agudas y de la diverticulitis aguda, así como para pacientes estables cuyo
+diagnóstico diferencial es amplio; de hecho, según las series, establece el diagnóstico definitivo hasta en dos tercios de los pacientes con dolor abdominal de causa no
+filiada, sobre todo ancianos.
+c) Ecografía de abdomen: de elección para la valoración inicial de la patología hepática, de la vía biliar y de la vesícula biliar, permite una valoración rápida del paciente
+inestable a pie de cama; se puede detectar la presencia de líquido libre, aneurismas
+de aorta abdominal (sensibilidad y especificidad del 99 y 98%, respectivamente) y
+embarazo ectópico o evaluar el estado de la volemia mediante la valoración del colapso inspiratorio de la vena cava inferior. Es útil para el diagnóstico de apendicitis,
+con una sensibilidad y especificidad del 50 y 100%, respectivamente. La presencia
+de panículo adiposo abundante o de gas intraluminal puede dificultar el examen.
+1.3.3.3. Otros
+a) ECG: es fundamental su realización en pacientes con dolor abdominal que tengan
+factores de riesgo de cardiopatía isquémica, especialmente a partir de los 50 años.
+454
+
+32. Dolor abdominal
+
+b) Endoscopia: se debe valorar su realización urgente en caso de sospecha de hemorragia digestiva activa o impactación esofágica.
+En mujeres en edad fértil se ha de solicitar siempre un test de embarazo y valorar
+derivación a Ginecología para ecografía transvaginal, principalmente si el dolor se localiza en el abdomen inferior. En caso de sospecha de torsión ovárica, la valoración por
+Ginecología debe tomar prioridad porque la eficacia de la intervención es tiempo-­
+sensible (ver cap. 12. Generalidades en Ginecología y Obstetricia).
+El tratamiento sintomático del dolor abdominal agudo y sus síntomas acompañantes
+se muestran en la tabla 8.
+Tabla 8. Tratamiento sintomático del dolor abdominal agudo y sus síntomas acompañantes
+Dolor
+
+Paracetamol 1 g i.v.
+Metamizol 2 g i.v.
+Morfina 2-5 mg i.v./15 min o fentanilo 10-25 mg i.v./5 min
+hasta la remisión
+
+Náuseas
+
+Ondansetrón 4-8 mg i.v., primera elección
+Metoclopramida 10 mg i.v. como alternativa (riesgo
+de extrapiramidalismo)
+
+Otros (antiácidos
+y anticolinérgicos)
+
+Pantoprazol 40 mg i.v.
+Butilbromuro de escopolamina 20 mg i.v.
+
+1.3.4. Valoración del paciente con dolor abdominal agudo
+El algoritmo de manejo del paciente con dolor abdominal agudo se muestra en la figura 1.
+2. DOLOR ABDOMINAL CRÓNICO
+2.1. Conceptos generales
+Su valoración puede requerir procedimientos diagnósticos especiales y puede ser
+complicado identificar su origen; en el 24-35% de los pacientes no se alcanza un diagnóstico definitivo (tabla 9). En un porcentaje no desdeñable de pacientes el dolor se
+atribuirá a un trastorno de tipo funcional (p. ej., síndrome del intestino irritable o dispepsia funcional). Una valoración clínica rigurosa es fundamental para guiar el proceso
+diagnóstico, teniendo en cuenta que la valoración seriada del paciente puede ser la
+herramienta diagnóstica más útil. Los hallazgos clínicos de alarma que indican patología orgánica subyacente son: fiebre, datos de deshidratación y/o desnutrición, alteraciones hidroelectrolíticas, pérdida ponderal no intencionada, semiología de sangrado
+gastrointestinal, anemia, inicio en pacientes mayores de 50 años, interferencia con el
+descanso nocturno y cambio reciente del hábito intestinal.
+2.1.1. Diagnóstico
+Se muestra en la figura 2. Respecto a las pruebas de imagen, se solicitan cuando aparece alguno de los hallazgos clínicos de alarma mencionados previamente. Las pruebas
+de elección suelen ser la ecografía y/o la TC abdominal. En caso de que estos estudios
+resulten negativos y no existan nuevos datos clínicos, se desaconseja repetirlos, pues
+su rentabilidad será escasa. Otros estudios de imagen más avanzados deben solicitarse en función de la sospecha clínica:
+455
+
+456
+
+Sí
+
+Considerar alta
+domiciliaria y estudio
+ambulatorio si procede
+
+¿Existe un diagnóstico claro?
+
+Figura 1. Algoritmo de manejo del paciente con dolor abdominal agudo.
+
+MAP: médico de atención primaria; UCI: Unidad de Cuidados Intensivos.
+
+Dejar por escrito datos de alarma ante los que
+deberá acudir de nuevo:
+Persistencia del dolor más allá de 8-12 h
+Vómitos
+Fiebre
+
+Sí
+
+No
+
+No
+
+Descartar datos de alarma:
+Bajo nivel de consciencia
+Signos de hipoperfusión
+Inicio súbito
+Peritonismo difuso (tabla 6)
+Politraumatismo
+Sospechar:
+Síndrome coronario agudo
+Rotura de aneurisma de aorta abdominal
+Isquemia mesentérica
+Obstrucción o perforación intestinales
+
+Valoración clínica cuidadosa y solicitud de
+pruebas complementarias según sospecha clínica
+
+Breve anamnesis y
+exploración física
+
+Asegurar:
+Signos vitales normales
+Remisión del dolor con la analgesia pautada
+Adecuada tolerancia oral
+Exploración física sin datos de alarma
+Capacidad para acudir de nuevo si hay
+empeoramiento o mantener el seguimiento por el MAP
+
+Manejo según causa
+
+Valorar avisar a UCI
+
+Estabilizar al paciente
+(medidas de soporte ABCD)
+
+No
+
+¿Paciente estable?
+
+Valoración por Cirugía General
+
+Considerar ingreso o mantener en observación
+
+Sí
+
+Signos de alarma en la exploración
+Persistencia del dolor a pesar de analgesia
+Dudas sobre la posibilidad de enfermedad grave
+Visitas reiteradas a Urgencias por este motivo
+
+La valoración clínica seriada es la mejor
+herramienta; permite el desarrollo de signos
+y síntomas que orientan a una enfermedad
+concreta
+
+Tratamiento sintomático (tabla 8)
+
+No
+
+Sí
+
+¿Sospecha de abdomen agudo?
+(tabla 3)
+
+Manual de Diagnóstico y Terapéutica Médica
+
+32. Dolor abdominal
+Tabla 9. Causas poco frecuentes de dolor abdominal crónico y sus características
+Enfermedad
+
+Características clínicas
+
+Edema angioneurótico hereditario
+
+Dolor visceral recurrente acompañado de
+inflamación de extremidades, cara, labios
+o laringe
+
+Fiebre mediterránea familiar
+
+Episodios recurrentes de serositis
+
+Porfiria aguda intermitente
+
+Dolor abdominal y síntomas neuroviscerales
+acompañantes (debilidad muscular, trastorno
+psiquiátrico, dolor en las extremidades,
+cefalea, etc.)
+
+Síndrome de la arteria mesentérica superior
+
+Compresión de la tercera porción duodenal
+entre la arteria mesentérica superior y la
+aorta; personas delgadas, dolor posprandial,
+náuseas y vómitos; se alivia con la flexión
+anterior del tronco
+
+Púrpura de Schönlein-Henoch
+
+Sobre todo en niños, suele asociar lesiones
+purpúricas en las extremidades
+
+Síndrome de Ehlers-Danlos
+
+Dolor visceral acompañado de hiperlaxitud
+ligamentosa
+
+Neuropatías (radiculopatía o atrapamiento
+de nervio cutáneo)
+
+Historia de dolor dorsal y signo de Carnett
+positivo
+
+a) Endoscopia digestiva alta: está indicada si existen síntomas de abdomen superior que no responden al tratamiento sintomático o datos de alarma o de inicio en
+mayores de 50 años. También puede considerarse su realización si existen síntomas acompañantes que hagan sospechar otras entidades: disfagia (lesiones estenosantes), pirosis que no responde al tratamiento (úlcera péptica), odinofagia
+(infecciones o lesiones estenosantes) o sospecha de sangrado o de enfermedad
+celíaca.
+b) Endoscopia digestiva baja: está indicada si existen imágenes sugestivas de patología intraluminal o parietal del tubo digestivo en las técnicas iniciales (ecografía y
+TC), anemia ferropénica no explicada o diarrea crónica y también en pacientes en
+los que por edad, síntomas acompañantes o antecedentes familiares el cáncer de
+colon sea una sospecha clínica principal.
+c) Resonancia magnética (RM): puede emplearse como alternativa a la TC, aunque
+tiene sus propias indicaciones: evaluación de la vía biliar cuando la ecografía no es
+concluyente, caracterización de masas pélvicas o de lesiones focales hepáticas y
+evaluación diagnóstica de fístulas perianales.
+d) Tomografía computarizada por emisión de positrones-tomografía computarizada (PET-TC): es útil para valorar lesiones con alta actividad metabólica (tumoral,
+inflamatoria o infecciosa).
+2.1.2. Manejo en urgencias
+Es similar al descrito para el dolor abdominal agudo (figura 1); se puede considerar el
+alta domiciliaria si se ha logrado buen control sintomático, no existen datos de alarma
+y se asegura un estudio y seguimiento ambulatorios. La necesidad de ingreso viene
+principalmente determinada por la presencia de los criterios antes mencionados para
+el dolor abdominal agudo o en caso de sospecha de enfermedad orgánica, donde puede ser deseable acelerar la realización de pruebas complementarias.
+457
+
+458
+
+Sí
+
+Prueba
+complementaria
+según sospecha
+
+Ecografía abdominal
+Colangio-RM
+
+Patología biliar
+(cólico biliar o
+disfunción del
+esfínter de Oddi)
+
+No
+
+No
+
+Figura 2. Valoración diagnóstica del dolor abdominal crónico.
+
+Sí
+
+Estudio endoscópico
+Considerar de entrada calprotectina fecal
+si hay sospecha baja
+
+Enfermedad inflamatoria intestinal
+(dolor abdominal y diarrea recurrentes,
+rectorragia o episodios de obstrucción)
+
+¿Respuesta al tratamiento?
+
+Probable trastorno funcional (síndrome
+de intestino irritable o dispepsia funcional)
+Considerar inicio del tratamiento
+sintomático y revaloración
+
+TC abdominal
+RM abdominal
+Pruebas de función pancreática (elastasa
+fecal y quimotripsina fecal)
+
+Pancreatitis crónica
+(consumo de alcohol y pancreatitis agudas
+de repetición)
+
+Mantener tratamiento
+
+– Hemograma completo
+– Bioquímica renal
+– Perfil hepático
+– Lipasa y/o amilasa
+– Hierro, ferritina, transferrina con saturación y capacidad total de unión al hierro
+– Anticuerpos antitransglutaminasa
+– Hormonas tiroideas
+
+PET: tomografía por emisión de positrones; RM: resonancia magnética; TC: tomografía computarizada.
+
+TC abdominal
+RM abdominal (caracterización de masas pélvicas
+o lesiones focales hepáticas)
+Colonoscopia (imágenes sugestivas de patología
+intraluminal o parietal del tubo digestivo en la TC,
+edad > 50 años y antecedentes familiares de cáncer de colon)
+PET-TC (caracterización metabólica de lesiones)
+
+Neoplasia abdominal
+(masa palpable,
+síndrome constitucional
+o anemia ferropénica)
+
+Anamnesis y exploración
+seriadas
+Considerar TC abdominal
+de entrada
+Considerar causas poco
+frecuentes (tabla 9)
+
+No
+
+¿Datos que orienten a
+alguna entidad concreta?
+
+Sí
+
+¿Datos de alarma?
+¿Alteraciones en las pruebas
+iniciales?
+
+Anamnesis y exploración física
+minuciosas
+
+Considerar
+en todos
+los pacientes
+
+Manual de Diagnóstico y Terapéutica Médica
+
+32. Dolor abdominal
+
+BIBLIOGRAFÍA
+• Caraiani C, Yi D, Petresc B, Dietrich C. Indications for abdominal imaging: When and what
+to choose? J Ultrason. 2020;20(80):e43-e54.
+• Kendall JL, Moreira ME, Grayzel J. Evaluation
+of the adult with abdominal pain in the emergency department-UpToDate [Internet] [consultado el 10 de febrero de 2021].
+• McNamara R, Dean AJ. Approach to acute abdominal pain. Emerg Med Clin North Am. 2011;
+29(2):159-173.
+• Natesan S, Lee J, Volkamer H, Thoureen T.
+Evidence-Based Medicine Approach to Abdominal Pain. Emerg Med Clin North Am.
+2016;34(2):165-190.
+
+• Panebianco NL, Jahnes K, Mills AM. Imaging
+and laboratory testing in acute abdominal
+pain. Emerg Med Clin North Am. 2011;29(2):
+175-93,vii.
+• Penner RM. Evaluation of the adult with abdominal pain-UpToDate [Internet] [consultado el
+10 de febrero de 2021].
+• Yamashita S, Tago M, Katsuki NE, Nishi TM,
+Yamashita SI. Relationships between sites of
+abdominal pain and the organs involved:
+a prospective observational study. BMJ Open.
+2020;10(6):e034446.
+
+459
+
+CAPÍTULO
+
+33
+
+Obstrucción intestinal. Estreñimiento
+AUTORES:
+
+María Teresa Álvarez Nava. Medicina del Aparato Digestivo.
+Isabel Lechuga Alonso. Cirugía General y Digestiva.
+Antonio Terrón Muñiz. Medicina Interna.
+ASESORES:
+
+Julia Arribas. Medicina del Aparato Digestivo.
+Pablo Peláez Torres. Cirugía General y Digestiva.
+
+1. INTRODUCCIÓN
+El tránsito intestinal puede verse enlentecido o interrumpido por diversas causas: mecánicas, sistémicas o por un trastorno funcional. Estos cuadros pueden instaurarse
+de manera subaguda o crónica, lo que se conoce como estreñimiento, o de manera
+aguda, en forma de obstrucción o pseudoobstrucción intestinal.
+2. EVALUACIÓN INICIAL Y APROXIMACIÓN DIAGNÓSTICA
+2.1. Anamnesis
+Debe realizarse una historia detallada enfocada a la sospecha diagnóstica. En un
+cuadro de estreñimiento se debe preguntar sobre frecuencia y características de las
+deposiciones, aparición de productos patológicos en las heces, presencia de dolor
+abdominal y alternancia de estreñimiento y diarrea. Han de buscarse síntomas de
+alarma que sugieran estreñimiento de causa orgánica: pérdida de peso o síndrome
+constitucional, sangre con las deposiciones, fiebre, náuseas y/o vómitos.
+Ante un cuadro de instauración aguda hay que evaluar si existe distensión y/o dolor abdominal y ausencia de eliminación de gases y heces que hagan pensar en diagnóstico de
+obstrucción intestinal (tabla 1).
+Debe indagarse siempre acerca de:
+• Medicación previa y cambios recientes en ella, así como consumo de tóxicos o ingesta de cuerpos extraños.
+• Antecedentes personales de enfermedades sistémicas (endocrinológicas, neurológicas, neoplasias, enfermedad inflamatoria intestinal [EII] y trastornos psiquiátricos), hernia inguinal o de pared abdominal, antecedentes quirúrgicos y
+radioterapia abdominopélvica previa.
+• Antecedentes familiares de cáncer del aparato digestivo o de EII.
+2.2. Exploración física
+a) Valoración general: se debe valorar la presencia de datos de patología sistémica, desnutrición o gravedad, como fiebre, hipotensión, taquicardia, oliguria y deshidratación.
+b) Exploración abdominal: hay que buscar cicatrices quirúrgicas previas, hernias (inguinales o crurales), masas y asimetrías. El dolor abdominal, la distensión, el timpanismo
+y la presencia de ruidos metálicos o la ausencia de ruidos orientan a una obstrucción.
+460
+
+33. Obstrucción intestinal. Estreñimiento
+
+En este caso, se deben descartar signos de reacción peritoneal que indiquen complicaciones graves (perforación).
+c) Examen anorrectal: permite detectar lesiones orgánicas anorrectales (hemorroides, estenosis, tumores y orificios fistulosos), heces impactadas en la ampolla
+rectal, alteraciones del tono esfinteriano (hipertónico en caso de fisuras) y otros
+trastornos (prolapso, rectocele y disinergia).
+2.3. Pruebas complementarias
+Deben realizarse de forma urgente en caso de sospecha de obstrucción intestinal,
+pues el diagnóstico es clínico-radiológico. Asimismo, han de solicitarse en cuadros de
+estreñimiento con criterios de alarma:
+a) Laboratorio: orientado a la sospecha clínica. Si se sospecha patología urgente, hay
+que solicitar hemograma (detección de anemia o leucocitosis), bioquímica con creatinina, ionograma y proteína C reactiva, así como coagulación (imprescindible para
+candidatos a cirugía). Si se sospecha sufrimiento intestinal, deben incluirse lactato
+deshidrogenasa (LDH), amilasa y gasometría venosa (pH y lactato). En caso de estreñimiento de instauración larvada se recomienda solicitar otras determinaciones (glucosa, hormonas tiroideas y paratohormona) para descartar alteraciones metabólicas.
+b) Radiografía de abdomen (tabla 2): permite evaluar la presencia de obstrucción y
+perforación (neumoperitoneo), así como la detección de impactación fecal no objetivada en el tacto rectal. La proyección de elección ante la sospecha de obstrucción
+intestinal es el decúbito supino. Se pueden solicitar, como proyecciones complementarias, la bipedestación o el decúbito lateral izquierdo con rayo horizontal (en
+función de las características del paciente).
+Tabla 1. Orientación diagnóstica de la obstrucción intestinal
+En función de la etiología
+Obstrucción intestinal
+mecánica
+
+Íleo o pseudoobstrucción
+
+Dolor abdominal
+
+Cólico al inicio
+
+Suele ser continuo
+
+Náuseas/vómitos
+
+Presentes
+
+Pueden estar ausentes
+
+Ruidos hidroaéreos
+intestinales

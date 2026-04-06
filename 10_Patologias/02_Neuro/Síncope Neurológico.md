@@ -14,6 +14,7 @@ categoria: Neurología
 fuente: "Manual de Urgencias Neurológicas SEN 2023"
 fecha: 2026-04-01
 ---
+
 ## Definición
 
 **Síncope:** pérdida transitoria de nivel de conciencia que asocia pérdida del tono postural y se caracteriza por inicio rápido, duración corta y recuperación espontánea completa, **sin déficit neurológico posterior** y sin necesidad de cardioversión.
