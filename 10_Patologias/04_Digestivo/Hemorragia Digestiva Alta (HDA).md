@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [HDA, Hemorragia digestiva alta, Hematemesis, Melenas, Blatchford, Úlcera péptica]
 tags: [urgencias, digestivo, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [CAD, Cetoacidosis, Cetoacidosis diabética, Acidosis diabética]
 tags: [urgencias, endocrino, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"

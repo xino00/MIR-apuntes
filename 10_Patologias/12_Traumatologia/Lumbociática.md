@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Lumbociática, Hernia discal, Ciática, Cola de caballo]
 tags: [urgencias, trauma, neuro, patologia]
 fuente_original: "Extraído de 50_Guardias/01 - Plantilla Curas y Traumatología Menor.md"

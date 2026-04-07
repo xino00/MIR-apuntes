@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Herpes zóster, Zóster, Culebrilla, Varicela-zóster, Zóster oftálmico, Ramsay Hunt]
 tags: [urgencias, dermato, infecciosas, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Disfunción ATM, Dolor ATM, Bruxismo, Síndrome miofascial mandibular, Articulación temporomandibular]
 tags: [urgencias, orl, cirugia-maxilofacial, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"

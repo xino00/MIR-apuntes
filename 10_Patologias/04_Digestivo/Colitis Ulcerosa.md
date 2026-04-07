@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Colitis ulcerosa, CU, EII, Enfermedad inflamatoria intestinal, Mesalazina, Truelove-Witts]
 tags: [urgencias, digestivo, eii, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"

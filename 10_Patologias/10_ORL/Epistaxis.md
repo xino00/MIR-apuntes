@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Epistaxis, Sangrado nasal, Taponamiento nasal, Hemorragia nasal]
 tags: [urgencias, orl, patologia]
 fuente_original: "Extraído de 50_Guardias/01 - Plantilla Curas y Traumatología Menor.md"

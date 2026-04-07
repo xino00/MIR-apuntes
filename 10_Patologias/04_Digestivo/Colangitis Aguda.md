@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Colangitis, Colangitis aguda, Tríada de Charcot]
 tags: [urgencias, digestivo, cirugia-general, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"

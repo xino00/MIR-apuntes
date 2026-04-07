@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Otitis serosa, Ototubaritis, Otitis media con derrame, Trompa de Eustaquio]
 tags: [urgencias, orl, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"

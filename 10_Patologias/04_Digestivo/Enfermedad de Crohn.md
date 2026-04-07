@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Crohn, Enfermedad de Crohn, EII, Enfermedad inflamatoria intestinal, Harvey-Bradshaw, CDAI]
 tags: [urgencias, digestivo, eii, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [SHH, Síndrome hiperosmolar, Coma hiperosmolar, Hiperglucemia hiperosmolar]
 tags: [urgencias, endocrino, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"

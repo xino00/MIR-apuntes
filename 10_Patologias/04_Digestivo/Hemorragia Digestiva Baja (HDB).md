@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [HDB, Hemorragia digestiva baja, Hematoquecia, Rectorragia, Oakland Score]
 tags: [urgencias, digestivo, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"

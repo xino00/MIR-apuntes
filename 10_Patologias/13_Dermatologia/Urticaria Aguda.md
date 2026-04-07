@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Urticaria aguda, Urticaria, Habones, Cetirizina]
 tags: [urgencias, dermato, alergologia, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"

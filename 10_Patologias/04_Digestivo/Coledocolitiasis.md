@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Coledocolitiasis, Piedra en colédoco, Ictericia obstructiva]
 tags: [urgencias, digestivo, cirugia-general, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Absceso, Drenaje de absceso, Absceso cutáneo, Incisión y drenaje]
 tags: [urgencias, cirugia-menor, digestivo, patologia]
 fuente_original: "Extraído de 50_Guardias/01 - Plantilla Curas y Traumatología Menor.md"

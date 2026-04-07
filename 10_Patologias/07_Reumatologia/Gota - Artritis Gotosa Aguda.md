@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Gota, Artritis gotosa, Hiperuricemia, Tofos, Colchicina]
 tags: [urgencias, reuma, patologia]
 fuente_original: "Extraído de 50_Guardias/01 - Plantilla Curas y Traumatología Menor.md"

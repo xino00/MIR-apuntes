@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Esguince de tobillo, Tobillo, Ligamento peroneo]
 tags: [urgencias, trauma, patologia]
 fuente_original: "Extraído de 50_Guardias/01 - Plantilla Curas y Traumatología Menor.md"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Broncoespasmo en IRVA, Broncoespasmo infeccioso, Sibilancias en infección respiratoria]
 tags: [urgencias, neumo, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"

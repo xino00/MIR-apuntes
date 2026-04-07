@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [TCE Leve, TCE Moderado]
 tags: [urgencias, neuro, patologia]
 ---

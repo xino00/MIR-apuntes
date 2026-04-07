@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Fisura anal, Fisura, Nifedipino rectal, Rectogesic]
 tags: [urgencias, digestivo, cirugia-general, patologia]
 fuente_original: "Extraído de 50_Guardias/01 - Plantilla Curas y Traumatología Menor.md"

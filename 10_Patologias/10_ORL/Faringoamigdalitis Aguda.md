@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Faringoamigdalitis, Amigdalitis, Faringitis, Angina, Strep throat, Criterios Centor]
 tags: [urgencias, orl, infecciosas, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"

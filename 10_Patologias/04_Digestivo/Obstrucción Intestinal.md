@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Obstrucción intestinal, Íleo, Oclusión intestinal, Sd Ogilvie]
 tags: [urgencias, digestivo, cirugia-general, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"

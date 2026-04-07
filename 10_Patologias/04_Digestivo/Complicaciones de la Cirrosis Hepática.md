@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Cirrosis, Ascitis, PBE, PBS, Peritonitis bacteriana, GASA, Síndrome hepatorrenal]
 tags: [urgencias, digestivo, hepatologia, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Cólico renoureteral, Cólico renal, Litiasis urinaria, Nefrolitiasis, CRU]
 tags: [urgencias, uro, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"

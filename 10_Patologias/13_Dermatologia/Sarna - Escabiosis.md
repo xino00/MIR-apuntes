@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [Sarna, Escabiosis, Ácaros, Sarna noruega, Permetrina]
 tags: [urgencias, dermato, infecciosas, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"

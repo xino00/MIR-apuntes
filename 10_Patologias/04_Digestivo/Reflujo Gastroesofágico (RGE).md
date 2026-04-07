@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: [RGE, Pirosis, Reflujo, Acidez, Omeprazol]
 tags: [urgencias, digestivo, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"
