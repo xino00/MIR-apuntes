@@ -1,3 +1,8 @@
+---
+aliases: [SCA Manejo Hospitalario]
+tags: [urgencias, cardio, patologia]
+---
+
 # Sindrome Coronario Agudo - Manejo Hospitalario y Prevencion Secundaria (ACC/AHA 2025)
 
 **Fecha de revision:** 25/03/2026

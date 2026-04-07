@@ -1,3 +1,11 @@
+---
+tags:
+  - digestivo
+  - patologia
+aliases:
+  - "Dolor Abdominal Crónico"
+---
+
 # Dolor Abdominal Crónico
 
 ## 1. Conceptos Generales

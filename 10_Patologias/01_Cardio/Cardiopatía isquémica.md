@@ -1,6 +1,6 @@
 ---
 aliases: [Cardiopatía Isquémica, SCA, IAM, Infarto]
-tags: [urgencias, Cardiología, patologia]
+tags: [urgencias, cardio, patologia]
 ---
 # Cardiopatía Isquémica
 

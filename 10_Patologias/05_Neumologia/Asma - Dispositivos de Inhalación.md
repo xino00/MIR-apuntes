@@ -1,6 +1,6 @@
 ---
 aliases: [Inhaladores asma, pMDI, DPI, Turbuhaler, Ellipta, Cámara espaciadora, Técnica inhalatoria]
-tags: [neumología, asma, gema, patologia, inhaladores, dispositivos]
+tags: [neumo, asma, gema, patologia, inhaladores, dispositivos]
 ---
 # Asma: Dispositivos de Inhalación y Técnica
 

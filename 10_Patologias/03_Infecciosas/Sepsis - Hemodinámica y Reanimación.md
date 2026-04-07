@@ -1,3 +1,11 @@
+---
+tags:
+  - urgencias
+  - infecciosas
+  - patologia
+aliases:
+  - Sepsis Hemodinámica
+---
 # Sepsis - Hemodinámica y Reanimación (SSC 2026)
 
 **Fecha de revisión:** 25/03/2026

@@ -1,6 +1,6 @@
 ---
 aliases: [Fisiopatología HTA, Mecanismos de Hipertensión]
-tags: [Cardiología, patologia, HTA, fisiopatología, urgencias]
+tags: [cardio, patologia, HTA, fisiopatología, urgencias]
 ---
 # Fisiopatología de la Hipertensión
 

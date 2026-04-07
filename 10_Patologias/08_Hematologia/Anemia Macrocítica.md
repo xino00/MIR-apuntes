@@ -1,6 +1,6 @@
 ---
 aliases: [Macrocitosis, Anemia MCV alto, Anemia megaloblástica]
-tags: [Hematología, patologia]
+tags: [hemato, patologia]
 ---
 # Anemia Macrocítica (MCV > 100 fL)
 

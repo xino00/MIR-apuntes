@@ -1,6 +1,6 @@
 ---
 aliases: [EPOC, Enfermedad Pulmonar Obstructiva Crónica, GOLD 2025, GOLD 2026]
-tags: [neumología, primaria, epoc, gold, crónico]
+tags: [neumo, primaria, epoc, gold, crónico]
 ---
 # EPOC: Diagnóstico y Manejo Crónico
 

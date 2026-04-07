@@ -1,6 +1,6 @@
 ---
 aliases: [Crisis Asmática, Exacerbación de asma, Status Asthmaticus]
-tags: [neumología, urgencias, asma, gema, broncoespasmo]
+tags: [neumo, urgencias, asma, gema, broncoespasmo]
 ---
 # Asma: Crisis Asmática (Urgencias y Planta)
 

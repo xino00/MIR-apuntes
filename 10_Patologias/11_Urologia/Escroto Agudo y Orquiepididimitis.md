@@ -1,6 +1,6 @@
 ﻿---
 aliases: [Escroto agudo, Orquiepididimitis, Epididimitis, Torsión testicular, Signo de Prehn]
-tags: [urgencias, urologia, patologia]
+tags: [urgencias, uro, patologia]
 fuente_original: "Extraído de 50_Guardias/01 - Plantilla Curas y Traumatología Menor.md"
 ---
 # Escroto Agudo y Orquiepididimitis

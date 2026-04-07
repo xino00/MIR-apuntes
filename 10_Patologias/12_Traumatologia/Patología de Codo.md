@@ -1,6 +1,6 @@
 ﻿---
 aliases: [Codo, Epicondilitis, Epitrocleitis, Codo de tenis]
-tags: [urgencias, traumatologia, patologia]
+tags: [urgencias, trauma, patologia]
 fuente_original: "Extraído de 50_Guardias/01 - Plantilla Curas y Traumatología Menor.md"
 ---
 # Patología de Codo

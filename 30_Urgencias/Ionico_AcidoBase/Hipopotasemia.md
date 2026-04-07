@@ -1,6 +1,6 @@
 ---
 aliases: [Hipopotasemia, Hipokalemia, Potasio Bajo]
-tags: [urgencias, nefrología, cardiología, iones]
+tags: [urgencias, nefro, cardio, iones]
 ---
 # Hipopotasemia (K < 3.5 mEq/L)
 

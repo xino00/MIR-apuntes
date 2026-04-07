@@ -2,7 +2,7 @@
 aliases: [SCA, IAMCEST, IAMSEST, Angina Inestable]
 tags:
   - patologia
-  - cardiologia
+  - cardio
   - urgencias
   - SCA
 fecha_revision: 2026-03-30

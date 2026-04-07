@@ -1,6 +1,6 @@
 ﻿---
 aliases: [Traumatismo general, Plantilla traumatismo]
-tags: [guardia, traumatologia, plantilla]
+tags: [guardia, trauma, plantilla]
 fuente_original: "Extraído de 50_Guardias/01 - Plantilla Curas y Traumatología Menor.md"
 ---
 # Traumatismo General - Plantilla

@@ -1,3 +1,8 @@
+---
+aliases: [Cefalea con banderas rojas]
+tags: [urgencias, neuro, patologia]
+---
+
 Vamos con las **causas más representativas de cada red flag SNOOP10**:
 
 **1. S – Systemic symptoms/signs/disease**

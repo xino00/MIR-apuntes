@@ -1,6 +1,6 @@
 ﻿---
 aliases: [TVP, Trombosis venosa profunda, Trombosis, Flebotrombosis, Wells TVP]
-tags: [urgencias, cardiologia, hematologia, patologia]
+tags: [urgencias, cardio, hemato, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"
 ---
 # Trombosis Venosa Profunda (TVP)

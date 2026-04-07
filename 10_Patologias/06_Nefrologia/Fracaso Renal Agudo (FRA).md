@@ -1,6 +1,6 @@
 ---
 aliases: [FRA, Fracaso Renal Agudo, Lesión Renal Aguda, LRA, AKI]
-tags: [urgencias, nefrología, patologia, consensos]
+tags: [urgencias, nefro, patologia, consensos]
 ---
 # Fracaso Renal Agudo (FRA)
 
@@ -100,4 +100,4 @@ Los macoensayos clínicos de alto impacto mundiales (*STARRT-AKI* publicado en N
 ## 🔗 Enlaces Relacionados
 - [[Síndrome Cardiorrenal]]
 - [[Shock]]
-- [[Acidosis Metabólica]]
+- [[Trastornos Ácido-Base - 2. Acidosis Metabólica|Acidosis Metabólica]]

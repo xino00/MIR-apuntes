@@ -1,6 +1,6 @@
 ﻿---
 aliases: [NAC, Neumonía, Neumonía adquirida en la comunidad, Neumonía comunitaria]
-tags: [urgencias, neumologia, infecciosas, patologia]
+tags: [urgencias, neumo, infecciosas, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md y 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"
 ---
 # Neumonía Adquirida en la Comunidad (NAC)

@@ -1,6 +1,6 @@
 ---
 aliases: [DOMH, Complicaciones de Hipertensión, Target Organ Damage]
-tags: [Cardiología, patologia, HTA, urgencias, diagnóstico]
+tags: [cardio, patologia, HTA, urgencias, diagnóstico]
 ---
 # Daño Orgánico Mediado por Hipertensión (DOMH)
 

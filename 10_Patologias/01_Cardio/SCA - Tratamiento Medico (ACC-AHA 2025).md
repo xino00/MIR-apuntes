@@ -1,3 +1,8 @@
+---
+aliases: ["SCA Tratamiento Médico"]
+tags: [urgencias, cardio, patologia]
+---
+
 # Sindrome Coronario Agudo - Tratamiento Medico (ACC/AHA 2025)
 
 **Fecha de revision:** 25/03/2026

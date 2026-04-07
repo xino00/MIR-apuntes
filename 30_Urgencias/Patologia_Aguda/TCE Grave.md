@@ -1,7 +1,7 @@
 ---
 tags:
   - patologia
-  - neurologia
+  - neuro
   - urgencias
   - traumatologia
 aliases:

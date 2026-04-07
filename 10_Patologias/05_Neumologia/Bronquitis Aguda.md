@@ -1,6 +1,6 @@
 ﻿---
 aliases: [Bronquitis aguda, Bronquitis, Tos aguda infecciosa]
-tags: [urgencias, neumologia, infecciosas, patologia]
+tags: [urgencias, neumo, infecciosas, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"
 ---
 # Bronquitis Aguda

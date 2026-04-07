@@ -1,6 +1,6 @@
 ﻿---
 aliases: [Tendinitis general, Plantilla tendinitis]
-tags: [guardia, traumatologia, plantilla]
+tags: [guardia, trauma, plantilla]
 fuente_original: "Extraído de 50_Guardias/01 - Plantilla Curas y Traumatología Menor.md"
 ---
 # Tendinitis - Plantilla General

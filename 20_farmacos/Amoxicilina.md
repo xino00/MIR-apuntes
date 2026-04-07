@@ -15,7 +15,7 @@ Bactericida. Inhibe la síntesis de la pared celular bacteriana (interfiere en l
 
 La Amoxicilina es el tratamiento empírico de primerísima línea (Vía Oral) para la inmensa mayoría de las infecciones comunitarias que no produzcan betalactamasas (Véase las recomendaciones detalladas en la guía general: **[[PROA - Guía de Antimicrobianos y Síndromes Infecciosos]]**):
 
-- Infecciones respiratorias agudas comunitarias: [[Otitis media aguda]], sinusitis bacteriana aguda.
+- Infecciones respiratorias agudas comunitarias: [[Otitis Media Aguda (OMA)|Otitis media aguda]], sinusitis bacteriana aguda.
 - [[Faringitis aguda]] y amigdalitis estreptocócica (Por *S. pyogenes*).
 - Exacerbaciones agudas de bronquitis crónica leve/moderada sin factores de riesgo adicionales ([[EPOC reagudizado]]).
 - [[Neumonía Adquirida en la Comunidad (NAC)]] típica (A dosis elevadas para cubrir a *Streptococcus pneumoniae*).

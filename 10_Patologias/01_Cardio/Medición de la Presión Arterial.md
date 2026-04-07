@@ -1,6 +1,6 @@
 ---
 aliases: [Medición de PA, Técnica de Medición, MAPA, AMPA, Presión Arterial Sistémica]
-tags: [Cardiología, HTA, diagnóstico, urgencias]
+tags: [cardio, HTA, diagnóstico, urgencias]
 ---
 # Medición de la Presión Arterial
 

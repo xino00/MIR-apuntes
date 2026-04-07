@@ -1,3 +1,7 @@
+---
+tags: [moc, infecciosas]
+description: "Índice de infecciosas: sepsis, antibioterapia empírica, PROA e infecciones por aparato"
+---
 # 🦠 Enfermedades Infecciosas
 
 > [!danger] ⚡ Urgencias / Algoritmos Vitales

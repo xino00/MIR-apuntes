@@ -1,6 +1,6 @@
 ---
 aliases: [Síndrome Cardiorrenal, SCR, Cardiorrenal]
-tags: [urgencias, cardiología, nefrología, patologia, consensos]
+tags: [urgencias, cardio, nefro, patologia, consensos]
 ---
 # Síndrome Cardiorrenal (SCR)
 

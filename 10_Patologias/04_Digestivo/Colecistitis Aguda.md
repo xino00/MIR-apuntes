@@ -71,4 +71,4 @@ Antibioterapia: Ceftriaxona 2gr/d + Metronidazol 500mg/8h o PiperTazo 4g/8h +/- 
 - [[Colangitis Aguda]]
 - [[Coledocolitiasis]]
 - [[MOC - Urgencias]]
-- [[MOC - Digestivo]]
+- [[MOC - DIGESTIVO|MOC - Digestivo]]

@@ -1,6 +1,6 @@
 ---
 aliases: [Escalones terapéuticos asma, MART asma, GCI asma, Inmunoterapia asma]
-tags: [neumología, asma, gema, patologia, tratamiento, escalones]
+tags: [neumo, asma, gema, patologia, tratamiento, escalones]
 ---
 # Asma: Tratamiento de Mantenimiento Escalonado
 

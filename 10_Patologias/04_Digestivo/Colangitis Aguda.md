@@ -70,4 +70,4 @@ Antibioterapia: Ceftriaxona 2gr/d + Metronidazol 500mg/8h o PiperTazo 4g/8h +/- 
 - [[Colecistitis Aguda]]
 - [[Cólico Biliar]]
 - [[MOC - Urgencias]]
-- [[MOC - Digestivo]]
+- [[MOC - DIGESTIVO|MOC - Digestivo]]

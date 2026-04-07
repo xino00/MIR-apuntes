@@ -143,3 +143,11 @@ The vault is deployed via Quartz on Cloudflare Pages at mirapuntes.pages.dev. Af
 | `TPL - Casos clinicos.md` | Caso clínico anónimo |
 | `TPL - Guardia.md` | Registro de guardia |
 | `TPL - PASE DE PLANTA.md` | Pase de planta |
+
+## Git Operations
+
+When working with git operations, ALWAYS check `git status` and `git diff --staged` before committing. Never commit files without explicitly confirming what's being added. If unsure, ask the user before pushing.
+
+## Shell Scripting
+
+When writing shell scripts that process filenames, always handle spaces and special characters (use `find -print0 | xargs -0` or proper quoting). Check for BOM markers in files before parsing frontmatter.

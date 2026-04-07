@@ -1,6 +1,6 @@
 ---
 aliases: [ACD, AI, Anemia inflamatoria, Anemia de proceso crónico, ACD/AI]
-tags: [Hematología, patologia, Reumatología, Nefrología]
+tags: [hemato, patologia, reuma, nefro]
 ---
 # Anemia de Enfermedad Crónica / Inflamación (ACD/AI)
 

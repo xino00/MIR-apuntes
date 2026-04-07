@@ -1,6 +1,6 @@
 ---
 aliases: [PROA ITS, Enfermedades Venéreas]
-tags: [urgencias, infecciosas, ginecologia, urologia]
+tags: [urgencias, infecciosas, ginecologia, uro]
 ---
 # PROA - Infecciones de Transmisión Sexual (ITS)
 
@@ -24,7 +24,7 @@ tags: [urgencias, infecciosas, ginecologia, urologia]
   - *Tratamiento Estándar:* **[[Ceftriaxona]] 500mg IM** + **[[Doxiciclina]] 100mg/12h oral, 7 días**.
   - *Si LGV confirmado o sospecha alta:* **[[Doxiciclina]] 100mg/12h oral, 21 días**.
 
-- **[[Orquiepididimitis]]**:
+- **[[Escroto Agudo y Orquiepididimitis|Orquiepididimitis]]**:
   - *Diagnóstico:* Dolor escrotal con inflamación del epidídimo ± teste. Distinguir entre origen ITS (varones jóvenes sexualmente activos) y origen no-ITS (varones >35 años, anomalías urinarias).
   - *Tratamiento si origen ITS (varones jóvenes, <35 años):* **[[Ceftriaxona]] 500mg IM** + **[[Doxiciclina]] 100mg/12h oral, 10 días**.
   - *Tratamiento si origen no-ITS (varones >35 años o sin factores de riesgo ITS):* **[[Cefixima]] 400mg/24h oral, 14 días**.
@@ -32,7 +32,7 @@ tags: [urgencias, infecciosas, ginecologia, urologia]
 
 - **[[Balanitis]] / Postitis**:
   - *Candidiásica* (más frecuente; eritema, exudado blanquecino, prurito): Clotrimazol 1% crema tópica 7-14 días ± Fluconazol 150mg oral dosis única.
-  - *Bacteriana* (eritema sin exudado, fisuras, olor): Higiene local. Si complicada o celulitis: [[Amoxicilina/Clavulánico]] 875/125mg/8h, 5-7 días.
+  - *Bacteriana* (eritema sin exudado, fisuras, olor): Higiene local. Si complicada o celulitis: [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 875/125mg/8h, 5-7 días.
   - *Nota:* Si fimosis asociada, derivar a Urología.
 
 - **[[Enfermedad Inflamatoria Pélvica]] (EIP)**:  

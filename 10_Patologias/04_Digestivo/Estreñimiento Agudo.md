@@ -69,4 +69,4 @@ Si dolor: paracetamol / metamizol
 
 ## 🔗 Relacionados
 - [[MOC - Urgencias]]
-- [[MOC - Digestivo]]
+- [[MOC - DIGESTIVO|MOC - Digestivo]]

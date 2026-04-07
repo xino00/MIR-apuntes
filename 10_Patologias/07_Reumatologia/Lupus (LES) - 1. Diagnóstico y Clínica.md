@@ -1,6 +1,6 @@
 ---
 aliases: [Lupus, LES, Lupus Eritematoso Sistémico]
-tags: [reumatología, autoinmunidad, lupus, diagnóstico]
+tags: [reuma, autoinmunidad, lupus, diagnóstico]
 ---
 # Lupus (LES) - 1. Diagnóstico y Clínica
 

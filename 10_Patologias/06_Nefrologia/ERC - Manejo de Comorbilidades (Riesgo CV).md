@@ -1,6 +1,6 @@
 ---
 aliases: [Riesgo CV ERC, Hipertensión en nefropatía, Anemia ERC, Tratamiento Comorbilidades ERC]
-tags: [nefrología, riesgo_cv, hipertensión, anemia, lípidos]
+tags: [nefro, riesgo_cv, hipertensión, anemia, lípidos]
 ---
 # ERC: Manejo de Comorbilidades y Riesgo CV (KDIGO 2024)
 

@@ -1,6 +1,7 @@
 ---
 aliases: [Hematología MOC, Índice Hematología]
-tags: [MOC, Hematología]
+tags: [moc, hemato]
+description: "Índice de hematología: anemias, coagulación, anticoagulantes y urgencias hematológicas"
 ---
 # 🩸 MOC – Hematología
 

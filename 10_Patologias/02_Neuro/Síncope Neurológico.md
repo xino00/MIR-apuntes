@@ -1,9 +1,9 @@
 ---
 tags:
   - patologia
-  - neurologia
+  - neuro
   - urgencias
-  - cardiologia
+  - cardio
 aliases:
   - "síncope"
   - "presíncope"

@@ -1,6 +1,6 @@
 ﻿---
 aliases: [Traumatismo de dedo, De Quervain, Tenosinovitis]
-tags: [urgencias, traumatologia, patologia]
+tags: [urgencias, trauma, patologia]
 fuente_original: "Extraído de 50_Guardias/01 - Plantilla Curas y Traumatología Menor.md"
 ---
 # Traumatismo de Dedo de Mano

@@ -1,7 +1,6 @@
 ﻿---
-aliases: [TCE leve, TCE moderado, Traumatismo craneoencefálico, Canadian CT Head Rule]
-tags: [urgencias, neurologia, traumatologia, patologia]
-fuente_original: "Extraído de 50_Guardias/01 - Plantilla Curas y Traumatología Menor.md"
+aliases: [TCE Leve, TCE Moderado]
+tags: [urgencias, neuro, patologia]
 ---
 # TCE Leve-Moderado
 

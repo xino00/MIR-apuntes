@@ -1,6 +1,6 @@
 ---
 aliases: [Exacerbación EPOC, Broncospasmo agudo EPOC, Ingreso EPOC]
-tags: [neumología, urgencias, hospitalización, epoc]
+tags: [neumo, urgencias, hospitalización, epoc]
 ---
 # EPOC: Exacerbación y Manejo Agudo (Urgencias y Planta)
 
@@ -52,8 +52,8 @@ Se indican antibióticos durante **5 a 7 días** si hay sospecha sólida de infe
 
 | Gravedad | Fármaco | Pauta |
 |---|---|---|
-| **Leve/Moderada sin comorbilidad** | [[Amoxicilina/Clavulánico]] | 500/125 mg/8h × **5 días** |
-| **Moderada con comorbilidad o Grave** | [[Amoxicilina/Clavulánico]] o [[Levofloxacino]] | 500/125 mg/8h × **5-7 días** ó 500 mg/24h |
+| **Leve/Moderada sin comorbilidad** | [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] | 500/125 mg/8h × **5 días** |
+| **Moderada con comorbilidad o Grave** | [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] o [[Levofloxacino]] | 500/125 mg/8h × **5-7 días** ó 500 mg/24h |
 | **Muy grave (FEV1 <30%) o riesgo de *P. aeruginosa*** | [[Ciprofloxacino]] | 750 mg/12h × **7-10 días** |
 
   - *Riesgo de Pseudomonas:* bronquiectasias, ingresos repetidos, ATB frecuentes, intubación previa.

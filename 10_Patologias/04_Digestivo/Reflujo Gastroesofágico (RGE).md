@@ -41,4 +41,4 @@ Paciente de  *** años sin AP de interés que acude a urgencias por pirosis y ep
 
 ## 🔗 Relacionados
 - [[MOC - Urgencias]]
-- [[MOC - Digestivo]]
+- [[MOC - DIGESTIVO|MOC - Digestivo]]

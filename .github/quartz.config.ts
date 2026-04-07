@@ -31,7 +31,8 @@ const config: QuartzConfig = {
       "*.txt",
       ".gitignore",
       ".gitattributes",
-      "sync.log"
+      "sync.log",
+      "ORPHAN_LINKS_AUDIT.md"
     ],
     defaultDateType: "modified",
     theme: {

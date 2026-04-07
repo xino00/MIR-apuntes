@@ -1,4 +1,13 @@
-	# Sepsis y [[Shock]] Séptico
+---
+tags:
+  - urgencias
+  - infecciosas
+  - patologia
+aliases:
+  - Sepsis
+  - Shock Séptico
+---
+# Sepsis y [[Shock]] Séptico
 
 **Fecha de revisión:** 25/03/2026
 **Etiquetas:** #patologia #infecciosas #urgencias #Sepsis3 #SSC2026

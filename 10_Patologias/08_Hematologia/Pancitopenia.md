@@ -1,6 +1,6 @@
 ---
 aliases: [Pancytopenia, Bicitopenia, Fallo medular]
-tags: [Hematología, patologia, urgencias]
+tags: [hemato, patologia, urgencias]
 ---
 # Pancitopenia
 

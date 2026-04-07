@@ -1,3 +1,8 @@
+---
+aliases: [Cefaleas Abordaje]
+tags: [urgencias, neuro, patologia]
+---
+
 # Cefaleas - Abordaje Inicial (SEN 2026)
 
 **Fecha de revisión:** 20/03/2026

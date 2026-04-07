@@ -1,6 +1,6 @@
 ---
 aliases: [Cardiomiopatías, MCD, MCH, MCR, Amiloidosis]
-tags: [urgencias, Cardiología, patologia]
+tags: [urgencias, cardio, patologia]
 ---
 # Miocardiopatías
 

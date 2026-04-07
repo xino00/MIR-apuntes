@@ -1,6 +1,6 @@
 ---
 aliases: [Banderas rojas reumatológicas, Catástrofe lúpica, SAF catastrófico, SAM]
-tags: [urgencias, reumatología, flags, uci]
+tags: [urgencias, reuma, flags, uci]
 ---
 # EAS - 3. Urgencias y Banderas Rojas Reumatológicas
 

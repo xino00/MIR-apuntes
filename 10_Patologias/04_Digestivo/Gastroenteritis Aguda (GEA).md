@@ -60,4 +60,4 @@ Evite las bebidas muy frías, toda bebidas refrescantes, así como las aguas min
 
 ## 🔗 Relacionados
 - [[MOC - Urgencias]]
-- [[MOC - Digestivo]]
+- [[MOC - DIGESTIVO|MOC - Digestivo]]

@@ -1,3 +1,12 @@
+---
+tags:
+  - urgencias
+  - digestivo
+  - patologia
+aliases:
+  - Dolor Abdominal Pruebas
+---
+
 # Dolor Abdominal: Pruebas Complementarias
 
 ## 1. Pruebas de Laboratorio

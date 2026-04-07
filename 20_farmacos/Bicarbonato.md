@@ -37,6 +37,6 @@ Agente alcalinizante sistémico. Aporta iones de bicarbonato a la circulación, 
 **Carga de Sodio:** 1 mL de Bicarbonato 1M = 1 mEq Na+.
 
 ## 🔗 Relacionados
-- [[Acidosis Metabólica]]
+- [[Trastornos Ácido-Base - 2. Acidosis Metabólica|Acidosis Metabólica]]
 - [[Hiperpotasemia]]
 - [[Intoxicación Aguda (Diagnóstico y Tratamiento)]]

@@ -1,3 +1,10 @@
+---
+tags:
+  - infecciosas
+  - patologia
+aliases:
+  - Sepsis Post-UCI
+---
 # Sepsis - Cuidados Post-UCI y Objetivos (SSC 2026)
 
 **Fecha de revisión:** 25/03/2026

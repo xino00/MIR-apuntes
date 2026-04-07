@@ -1,6 +1,6 @@
 ---
 aliases: [Rinitis alérgica, Rinosinusitis crónica, Poliposis nasal, RSCcPN, EREA]
-tags: [neumología, asma, gema, patologia, rinitis, rinosinusitis, ORL]
+tags: [neumo, asma, gema, patologia, rinitis, rinosinusitis, ORL]
 ---
 # Rinitis Alérgica y Rinosinusitis Asociadas al Asma
 

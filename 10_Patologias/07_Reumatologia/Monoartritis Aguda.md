@@ -1,6 +1,6 @@
 ﻿---
 aliases: [Monoartritis, Artritis aguda, Artrocentesis, Líquido sinovial]
-tags: [urgencias, reumatologia, patologia]
+tags: [urgencias, reuma, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"
 ---
 # Monoartritis Aguda

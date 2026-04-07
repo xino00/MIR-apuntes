@@ -1,6 +1,6 @@
 ---
 aliases: [Valvulopatías, Estenosis Mitral, Insuficiencia Mitral, Estenosis Aórtica]
-tags: [urgencias, Cardiología, patologia]
+tags: [urgencias, cardio, patologia]
 ---
 # Valvulopatías Mitral y Aórtica
 

@@ -1,3 +1,12 @@
+---
+tags:
+  - urgencias
+  - trauma
+  - exploracion
+aliases:
+  - "Exploración Tobillo"
+---
+
 # 🦶 Exploración de Tobillo y Antepié
 
 > **Autor:** Nota clínica · Traumatología y Cirugía Ortopédica

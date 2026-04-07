@@ -1,6 +1,6 @@
 ﻿---
 aliases: [5º dedo pie, Dedo meñique pie, Fractura dedo pie]
-tags: [urgencias, traumatologia, patologia]
+tags: [urgencias, trauma, patologia]
 fuente_original: "Extraído de 50_Guardias/01 - Plantilla Curas y Traumatología Menor.md"
 ---
 # Contusión y Fractura de 5º Dedo del Pie

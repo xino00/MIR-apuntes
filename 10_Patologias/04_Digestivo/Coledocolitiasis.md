@@ -51,4 +51,4 @@ Si colangitis (fiebre + ictericia + dolor HCD): Ceftriaxona 2gr/24h + Metronidaz
 - [[Colangitis Aguda]]
 - [[Colecistitis Aguda]]
 - [[MOC - Urgencias]]
-- [[MOC - Digestivo]]
+- [[MOC - DIGESTIVO|MOC - Digestivo]]

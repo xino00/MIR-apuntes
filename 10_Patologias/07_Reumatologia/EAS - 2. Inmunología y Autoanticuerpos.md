@@ -1,6 +1,6 @@
 ---
 aliases: [ANA, ENA, ANCA, Factor Reumatoide, Anti-CCP, Inmunología, Autoanticuerpos]
-tags: [reumatología, analítica, autoinmunidad, anticuerpos]
+tags: [reuma, analítica, autoinmunidad, anticuerpos]
 ---
 # EAS - 2. Inmunología y Autoanticuerpos
 

@@ -1,3 +1,12 @@
+---
+tags:
+  - urgencias
+  - digestivo
+  - patologia
+aliases:
+  - Dolor Abdominal Anamnesis
+---
+
 # Dolor Abdominal: Anamnesis y Exploración Física
 
 ## 1. Anamnesis y Características del Paciente

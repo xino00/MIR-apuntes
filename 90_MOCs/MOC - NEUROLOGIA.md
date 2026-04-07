@@ -1,3 +1,7 @@
+---
+tags: [moc, neuro]
+description: "Índice de neurología: ictus, cefaleas, epilepsia, enfermedades neuromusculares y coma"
+---
 # 🧠 Neurología
 
 > [!danger] ⚡ Urgencias Neurológicas — Emergencias Máximas

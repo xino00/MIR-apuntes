@@ -1,6 +1,6 @@
 ﻿---
 aliases: [Lumbalgia, Dolor lumbar, Lumbago, Estenosis lumbar]
-tags: [urgencias, traumatologia, patologia]
+tags: [urgencias, trauma, patologia]
 fuente_original: "Extraído de 50_Guardias/01 - Plantilla Curas y Traumatología Menor.md"
 ---
 # Lumbalgia

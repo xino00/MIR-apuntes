@@ -1,6 +1,6 @@
 ---
 aliases: [ICA, Edema Agudo de Pulmón, Shock Cardiogénico]
-tags: [urgencias, Cardiología, patologia]
+tags: [urgencias, cardio, patologia]
 ---
 # Insuficiencia Cardíaca Aguda (ICA)
 

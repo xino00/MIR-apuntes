@@ -1,6 +1,6 @@
 ---
 aliases: [Pericarditis, PA]
-tags: [urgencias, Cardiología, patologia]
+tags: [urgencias, cardio, patologia]
 ---
 # Pericarditis Aguda
 

@@ -1,6 +1,6 @@
 ﻿---
 aliases: [RAO, Retención aguda de orina, Globo vesical, Sondaje vesical, HBP, Tamsulosina]
-tags: [urgencias, urologia, patologia]
+tags: [urgencias, uro, patologia]
 fuente_original: "Extraído de 50_Guardias/01 - Plantilla Curas y Traumatología Menor.md y 03 - Ayudas Boxes.md"
 ---
 # Retención Aguda de Orina (RAO)

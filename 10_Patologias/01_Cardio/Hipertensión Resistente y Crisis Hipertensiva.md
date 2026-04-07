@@ -1,6 +1,6 @@
 ---
 aliases: [HTA Resistente, Hipertensión Refractaria, Crisis Hipertensiva, Emergencia Hipertensiva, Urgencia Hipertensiva, HTA Maligna]
-tags: [Cardiología, HTA, urgencias]
+tags: [cardio, HTA, urgencias]
 ---
 # Hipertensión Resistente y Crisis Hipertensiva
 

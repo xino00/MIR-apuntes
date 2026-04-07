@@ -6,7 +6,7 @@
 > Estos apuntes han sido elaborados por **Juan Arenas Montiel**, residente de Medicina Familiar y Comunitaria, como material personal de estudio y consulta rápida durante el periodo de residencia MIR. 
 >
 > **Disclaimer:** Este contenido tiene carácter exclusivamente formativo y de referencia personal. No sustituye el juicio clínico, las guías de práctica clínica oficiales ni la supervisión de un especialista. Puede contener errores, simplificaciones o información desactualizada. No debe utilizarse como única fuente para la toma de decisiones clínicas.
->Se encuentra actualemente en desarrollo
+> Se encuentra actualmente en desarrollo
 ### ⚡ Supervivencia Urgencias
 > [!danger] Acceso Directo
 > - [[Algoritmo de PCR Avanzada (Soporte Vital Avanzado)|Algoritmo RCP Avanzada]]
@@ -26,7 +26,15 @@
 - [[MOC - DIGESTIVO|MOC - Digestivo]]
 - [[MOC - NEFROLOGIA|MOC - Nefrología]]
 - [[MOC - REUMATOLOGIA|MOC - Reumatología]]
+- [[MOC - ENDOCRINO|MOC - Endocrinología]]
+- [[MOC - ORL]]
+- [[MOC - UROLOGIA|MOC - Urología]]
+- [[MOC - TRAUMATOLOGIA|MOC - Traumatología]]
+- [[MOC - DERMATOLOGIA|MOC - Dermatología]]
 - [[MOC - Urgencias]]
+
+### 💊 Fármacos
+- [[MOC - FARMACOS|MOC - Fármacos]]
 
 ### 📋 Plantillas de Guardia (Catrain, Llorente et al.)
 > [!tip] Copiar y Pegar 

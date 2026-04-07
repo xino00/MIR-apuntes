@@ -1,3 +1,8 @@
+---
+aliases: ["SCA Evaluación Inicial"]
+tags: [urgencias, cardio, patologia]
+---
+
 # Sindrome Coronario Agudo - Evaluacion Inicial y Clasificacion (ACC/AHA 2025)
 
 **Fecha de revision:** 25/03/2026

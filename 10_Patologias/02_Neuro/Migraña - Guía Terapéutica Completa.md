@@ -1,3 +1,8 @@
+---
+aliases: [Migraña, Tratamiento Migraña]
+tags: [neuro, patologia]
+---
+
 # Migraña - Guía Terapéutica Completa (SEN 2026)
 
 **Fecha de revisión:** 20/03/2026

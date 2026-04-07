@@ -1,6 +1,6 @@
 ---
 aliases: [PROA IPPB, Infecciones Cutáneas]
-tags: [urgencias, infecciosas, dermatologia]
+tags: [urgencias, infecciosas, dermato]
 ---
 # PROA - Infecciones de Piel y Partes Blandas
 
@@ -32,19 +32,19 @@ tags: [urgencias, infecciosas, dermatologia]
   - *Agentes:* S. aureus, S. pyogenes, Gram Negativos (en hepatopatía crónica/inmunodeprimidos). Afecta a dermis profunda y tejido subcutáneo (bordes mal definidos).
   - *Tratamiento Empírico Ambulatorio:* [[Cefadroxilo]] 500mg/8h o Cefalexina 500mg/8h (Dura 5-10 días).
   - *Si sospecha SARM (Staph Aureus Metilin Resistente):* Factores riesgo (hospitalización, antibioterapia en 3m, toxicómanos, deportes de contacto) -> *Elección:* [[Clindamicina]] 300mg/8h, o [[Cotrimoxazol]] 800/160mg/12h o Linezolid 600mg/12h.
-  - *Si Celulitis Complicada / Inmunodeprimidos:* [[Amoxicilina/Clavulánico]] 875/125mg/8h. Extraer hemocultivos si hay signos de gravedad.
+  - *Si Celulitis Complicada / Inmunodeprimidos:* [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 875/125mg/8h. Extraer hemocultivos si hay signos de gravedad.
 
 - **[[Absceso cutáneo]]**:  
   - *Tratamiento principal:* Incisión y Drenaje. Muchos NO precisan antibioterapia.
   - *Indicación de antibiótico:* Fiebre sistémica, tamaño >5cm, celulitis extensa asociada, localización compleja (cara, manos, genitales), inmunosupresión o válvulas cardíacas.
-  - *Tratamiento Antibiótico (si indicado):* Cefalexina 500mg/8h o [[Amoxicilina/Clavulánico]] 875/125mg/8h si es perianal.
+  - *Tratamiento Antibiótico (si indicado):* Cefalexina 500mg/8h o [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 875/125mg/8h si es perianal.
 
 ## 3. Mordeduras y Heridas Específicas
 
 - **Mordeduras (Perro, Gato, Humana)**:  
   - Generalmente polimicrobianas (Pasteurella, Eikenella, Bacteroides).
   - *Tratamiento Profiláctico (3-5 días):* Indicado si la herida es profunda, requiere sutura, compromete la mano/cara/venas, o en pacientes diabéticos/inmunocomprometidos.
-  - *Elección:* [[Amoxicilina/Clavulánico]] 875/125 mg/8h.
+  - *Elección:* [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 875/125 mg/8h.
 
 - **Exposiciones Ambientales (Aspirado de Herida Obligado)**:
   - *Agua salada / Pescado:* Sospecha de *Vibrio vulnificus* o *Erysipelothrix rhusiopathiae* -> [[Ciprofloxacino]] 750mg o Amoxicilina 1g.

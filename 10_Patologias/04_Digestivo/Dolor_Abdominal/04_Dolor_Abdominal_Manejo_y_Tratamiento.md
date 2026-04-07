@@ -1,3 +1,12 @@
+---
+tags:
+  - urgencias
+  - digestivo
+  - patologia
+aliases:
+  - Dolor Abdominal Tratamiento
+---
+
 # Dolor Abdominal: Manejo y Tratamiento Sintomático
 
 ## 1. Tratamiento Sintomático en Urgencias

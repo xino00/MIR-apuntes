@@ -1,6 +1,6 @@
 ---
 aliases: [PROA, Guía Antibióticos FJD, Protocolo Infecciosas]
-tags: [urgencias, infecciosas, farmacologia]
+tags: [urgencias, infecciosas, farmaco]
 ---
 # PROA - Guía de Antimicrobianos y Síndromes Infecciosos
 

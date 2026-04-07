@@ -1,3 +1,8 @@
+---
+aliases: [Cefaleas Especiales, Neuralgias]
+tags: [urgencias, neuro, patologia]
+---
+
 # Cefaleas - Situaciones Especiales y Neuralgias (SEN 2026)
 
 **Fecha de revisión:** 20/03/2026

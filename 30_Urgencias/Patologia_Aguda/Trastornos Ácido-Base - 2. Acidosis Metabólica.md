@@ -1,6 +1,6 @@
 ---
 aliases: [Acidosis Metabólica, Anión Gap Elevado, Hiperclorémica, MUDPILES]
-tags: [urgencias, nefrología, ácido_base, fisiopatología]
+tags: [urgencias, nefro, ácido_base, fisiopatología]
 ---
 # Trastornos Ácido-Base - 2. Acidosis Metabólica
 

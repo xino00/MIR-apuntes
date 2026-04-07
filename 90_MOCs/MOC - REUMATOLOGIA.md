@@ -1,6 +1,7 @@
 ---
 aliases: [MOC Reumatología, Reumatología]
-tags: [moc, reumatologia]
+tags: [moc, reuma]
+description: "Índice de reumatología: artritis, lupus, vasculitis y autoinmunidad"
 ---
 
 # 🦴 MOC — Reumatología

@@ -1,6 +1,6 @@
 ---
 aliases: [Vasculitis ANCA, Wegener, GPA, PAM, Churg-Strauss, Síndrome Pulmón-Riñón]
-tags: [reumatología, nefrología, vasculitis, pulmón]
+tags: [reuma, nefro, vasculitis, pulmón]
 ---
 # Vasculitis - 2. Pequeño Vaso (Asociadas a ANCA)
 

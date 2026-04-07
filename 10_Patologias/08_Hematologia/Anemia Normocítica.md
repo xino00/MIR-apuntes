@@ -1,6 +1,6 @@
 ---
 aliases: [Anemia MCV normal, Normocitosis, Anemia normocrómica normocítica]
-tags: [Hematología, patologia]
+tags: [hemato, patologia]
 ---
 # Anemia Normocítica (MCV 80-100 fL)
 

@@ -1,3 +1,12 @@
+---
+tags:
+  - urgencias
+  - digestivo
+  - patologia
+aliases:
+  - Dolor Abdominal Generalidades
+---
+
 # Dolor Abdominal: Generalidades y Causas
 
 ## Introducción

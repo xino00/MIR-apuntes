@@ -78,4 +78,4 @@ Los frutos secos grasos (50% grasa) están desaconsejados.
 - [[Colangitis Aguda]]
 - [[Colecistitis Aguda]]
 - [[MOC - Urgencias]]
-- [[MOC - Digestivo]]
+- [[MOC - DIGESTIVO|MOC - Digestivo]]

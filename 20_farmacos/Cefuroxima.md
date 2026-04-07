@@ -15,7 +15,7 @@ Bactericida. Cefalosporina de 2ª generación con alta estabilidad frente a las 
 
 Opción preferente según las guías locales:
 
-- Infecciones ORL ([[Faringitis aguda]], [[Otitis media aguda]]) y respiratorias leves comunitarias (**[[PROA - Infecciones Respiratorias]]**) si el paciente es alérgico a las Penicilinas (reacción no anafiláctica, dado que la alergenicidad cruzada es muy baja).
+- Infecciones ORL ([[Faringitis aguda]], [[Otitis Media Aguda (OMA)|Otitis media aguda]]) y respiratorias leves comunitarias (**[[PROA - Infecciones Respiratorias]]**) si el paciente es alérgico a las Penicilinas (reacción no anafiláctica, dado que la alergenicidad cruzada es muy baja).
 - Infección cutánea comunitaria leve ([[Celulitis]] simple), ver **[[PROA - Infecciones de Piel y Partes Blandas]]**.
 - Alternativa oral empírica o terapia secuencial en infección no complicada del tracto urinario en embarazadas o alérgicos a otros grupos (ver **[[PROA - Infecciones del Tracto Urinario (ITU)]]**).
 - Profilaxis prequirúrgica en ortopedia y cirugía general (vía intravenosa).
