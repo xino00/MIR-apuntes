@@ -31,6 +31,7 @@
 - [[MOC - UROLOGIA|MOC - Urología]]
 - [[MOC - TRAUMATOLOGIA|MOC - Traumatología]]
 - [[MOC - DERMATOLOGIA|MOC - Dermatología]]
+- [[MOC - PSIQUIATRIA|MOC - Psiquiatría]]
 - [[MOC - Urgencias]]
 
 ### 💊 Fármacos

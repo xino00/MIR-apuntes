@@ -140,6 +140,9 @@ description: "Índice farmacológico: 128 fármacos agrupados por clase terapéu
 - [[Valproato]]
 - [[Litio]]
 
+**Antipsicóticos**
+- [[Haloperidol]]
+
 **Antidepresivos**
 - [[Amitriptilina]]
 - [[Mirtazapina]]

@@ -126,6 +126,13 @@ description: "Hub central de urgencias: algoritmos vitales, iones, ácido-base y
 - [[Herpes Zóster]]
 - [[Sarna - Escabiosis]]
 
+**Psiquiatría**
+- [[Agitacion Psicomotriz en Urgencias|Agitación Psicomotriz en Urgencias]]
+- [[Intento Autolitico - Valoracion y Manejo|Intento Autolítico - Valoración y Manejo]]
+- [[Psicosis Aguda y Esquizofrenia]]
+- [[Delirium Tremens y Abstinencia Alcoholica|Delirium Tremens y Abstinencia Alcohólica]]
+- [[Crisis de Ansiedad]]
+
 ---
 
 ## 🦴 Exploración Física

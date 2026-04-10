@@ -339,17 +339,15 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 
 ## Sección XVI — Psiquiatría
 
-> [!warning] Sección completa sin cubrir
-
 - [ ] Trastornos de ansiedad
 - [ ] Trastorno depresivo mayor
 - [ ] Trastorno bipolar
-- [ ] Psicosis aguda y esquizofrenia
-- [ ] Agitación psicomotriz en urgencias
-- [ ] Intento autolítico — valoración y manejo
+- [x] [[Psicosis Aguda y Esquizofrenia]]
+- [x] [[Agitacion Psicomotriz en Urgencias|Agitación psicomotriz en urgencias]]
+- [x] [[Intento Autolitico - Valoracion y Manejo|Intento autolítico — valoración y manejo]]
 - [ ] Trastornos de la conducta alimentaria
 - [ ] Insomnio
-- [ ] Delirium tremens y abstinencia alcohólica
+- [x] [[Delirium Tremens y Abstinencia Alcoholica|Delirium tremens y abstinencia alcohólica]]
 - [ ] Trastornos somatomorfos
 
 ---
