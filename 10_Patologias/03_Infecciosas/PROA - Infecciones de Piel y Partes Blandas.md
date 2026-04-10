@@ -18,7 +18,7 @@ tags: [urgencias, infecciosas, dermato]
   - *Tratamiento:* Tópico con Mupirocina o Ácido Fusídico (2-3 aplicaciones/día por 5 días).
 
 - **[[Foliculitis]]**:  
-  - *Agentes:* S. aureus.
+  - *Agentes:* S. aureus, S. pyogenes.
   - *Tratamiento:* Medidas de higiene, lavados. Igual actitud que impétigo si severo.
 
 - **[[Erisipela]]**:  
@@ -45,6 +45,12 @@ tags: [urgencias, infecciosas, dermato]
   - Generalmente polimicrobianas (Pasteurella, Eikenella, Bacteroides).
   - *Tratamiento Profiláctico (3-5 días):* Indicado si la herida es profunda, requiere sutura, compromete la mano/cara/venas, o en pacientes diabéticos/inmunocomprometidos.
   - *Elección:* [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 875/125 mg/8h.
+  - *Alergia a betalactámicos:* [[Cotrimoxazol]] 800/160mg/12h + [[Clindamicina]] 450mg/8h.
+  - Revisar indicación de **vacunación antitetánica y antirrábica**.
+
+- **Herida postraumática** (no quirúrgica) sin criterios de gravedad:
+  - Realizar limpieza y desbridamiento. Curas periódicas. Revisar vacunación antitetánica.
+  - *Si datos de infección:* [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 875/125mg/8h, 5 días.
 
 - **Exposiciones Ambientales (Aspirado de Herida Obligado)**:
   - *Agua salada / Pescado:* Sospecha de *Vibrio vulnificus* o *Erysipelothrix rhusiopathiae* -> [[Ciprofloxacino]] 750mg o Amoxicilina 1g.

@@ -26,7 +26,7 @@ Esta guía detalla fármacos de uso frecuente con estrecho margen terapéutico (
 - **Dosis Estándar (S):** IV 6-7 mg/kg / 24h (dosis única diaria).
 - **Ajuste Renal (S):** FG 40-60: 5 mg/kg / 24h. FG 20-40: 5-7 mg/kg / 48h. FG 10-20: 5 mg/kg / 48h. FG < 10: 3 mg/kg / 48h.
 - **Ajuste Diálisis/TRRC:** HD/DP: 1-3 mg/kg (post-diálisis). TRRC: 2-3 mg/kg inicial → 1-1.5 mg/kg/24-36h.
-- **Niveles:** Valle: `< 1 mg/L`. Pico: `13-25 mg/L`.
+- **Niveles:** Valle: `< 1 mg/L`. Pico: `10-12 mg/L` (estándar) o `16-20 mg/L` (según foco).
 - **Observaciones:** Perfil similar a Gentamicina. Uso principal en infecciones por P. aeruginosa (mayor actividad anti-Pseudomonas que Gentamicina). Monitorizar nefrotoxicidad y ototoxicidad como con todos los aminoglucósidos.
 
 ### [[Gentamicina]]
@@ -41,9 +41,9 @@ Esta guía detalla fármacos de uso frecuente con estrecho margen terapéutico (
 ### [[Vancomicina]]
 - **Dosis Estándar (S):** IV 15-20 mg/kg / 8-12h (No exceder 2g/dosis idealmente). Dosis de carga de 25-30 mg/kg en infecciones graves.
   - *Vía Oral:* 125mg / 6h (Exclusivamente para Infección por C. difficile no complicada).
-- **Ajuste Renal (S):** FG 15-50: 10-15 mg/kg / 24h. FG < 15: 10-15 mg/kg / 48-72h.
+- **Ajuste Renal (S):** FG 50-90: 15-20 mg/kg / 12h. FG 15-50: 15-20 mg/kg / 24h. FG < 15: 10-15 mg/kg / 48-72h.
 - **Ajuste Diálisis/TRRC:** HD/DP/TRRC: Requiere Dosis de Carga (20-25mg/kg) primero. Mantenimiento según el tipo de filtro o dosis intradialítica estricta (7.5-10 mg/kg post-sesión).
-- **Niveles:** Medir niveles **VALLE antes de la 4ª dosis**. Recomendado: `10-15 mg/L` para infecciones no complicadas. En infecciones complicadas (SARM con bacteriemia, endocarditis, osteomielitis, meningitis, neumonía grave): **`15-20 mg/L`** (algunos protocolos 20-30 mg/L en osteomielitis/BLC).
+- **Niveles:** Medir niveles **VALLE antes de la 4ª dosis**. Recomendado: `10-15 mg/L` para infecciones no complicadas. En infecciones complicadas (SARM con bacteriemia, E. faecium, endocarditis, osteomielitis): **`15-20 mg/L`**. En meningitis, neumonía por S. aureus: puede necesitarse valles de **`20-30 mg/L`**.
 
 ### [[Teicoplanina]]
 - **Dosis Estándar (S):** IV/IM 6 mg/kg / 24h (tras carga de 6 mg/kg / 12h × 3 dosis el primer día).
@@ -54,15 +54,14 @@ Esta guía detalla fármacos de uso frecuente con estrecho margen terapéutico (
 - **Observaciones:** Alternativa a Vancomicina con mejor tolerancia (menos nefrotóxica). Administrable IM en pacientes ambulatorios. Semivida larga (150h).
 
 ### [[Daptomicina]]
-- **Dosis Estándar (S):** IV 6-8 mg/kg / 24h (bacteriemia/endocarditis derecha).
-- **Dosis Incrementada (I) SARM/Bacteriemia Persistente/Endocarditis Izquierda:** IV 10-12 mg/kg / 24h.
-- **Ajuste Renal (S):** FG < 30: 6-8 mg/kg / 48h. FG < 30 dosis alta: 8-10 mg/kg / 48h.
+- **Dosis Estándar (S):** IV 4-6 mg/kg / 24h. En infecciones graves: 8-12 mg/kg / 24h.
+- **Ajuste Renal (S):** FG < 30: dosis habitual / 48h. Dosis superiores a 8 mg/kg no han sido estudiadas en IR — vigilar estrechamente.
 - **Ajuste Diálisis/TRRC:** HD/DP: 6 mg/kg / 48h (tras cada sesión). TRRC: 6-8 mg/kg / 24h según niveles.
 - **Observaciones:** **No usar en neumonía** (inactivado por surfactante pulmonar). Medir CK semanalmente (riesgo de miopatía, especialmente si CK > 5× LSN suspender). Actividad frente a SARM, enterococos resistentes (ERV), SASM. Bactericida y concentración-dependiente.
 
 ### [[Dalbavancina]]
 - **Dosis Estándar (S):** IV 1500mg dosis única (o 1000mg día 1 + 500mg día 8).
-- **Ajuste Renal (S):** FG < 30 (sin diálisis): 1125mg dosis única (reducción 25%).
+- **Ajuste Renal (S):** FG < 30 (sin diálisis): 1125mg dosis única, o 750mg día 1 + 375mg una semana después.
 - **Ajuste Diálisis/TRRC:** HD: misma dosis sin ajuste adicional (no dializable significativamente).
 - **Observaciones:** Semivida de 14 días permite regímenes de dosis única. Activa frente a SARM y SASM. Indicada en infecciones de piel y partes blandas (IPPB) por grampositivos cuando se busca optimizar alta precoz. No disponible para infecciones profundas (endocarditis/osteomielitis) por datos limitados.
 
@@ -98,7 +97,7 @@ Esta guía detalla fármacos de uso frecuente con estrecho margen terapéutico (
 
 ### Colistina (Polimixina E)
 - **Dosis Estándar (S):** IV Dosis de carga 9 MU → Mantenimiento según FG y peso corporal (habitualmente 4.5 MU / 12h en FG > 80).
-- **Ajuste Renal (S):** FG 50-79: 4.5 MU / 12h. FG 30-49: 4.5 MU / 24h. FG < 30: 2.25-4.5 MU / 24-36h.
+- **Ajuste Renal (S):** FG 30-50: 5.5-7.5 MUI / día. FG 10-30: 4.5-5.5 MUI / día. FG < 10: 3.5 MUI / día.
 - **Ajuste Diálisis/TRRC:** HD/DP: 2.25 MU / 24h (post-sesión). TRRC: Individualizar según filtro y función residual.
 - **Observaciones:** **Último recurso** en infecciones por A. baumannii y P. aeruginosa XDR/PDR. Alta nefrotoxicidad y neurotoxicidad. Siempre en combinación (con Rifampicina, carbapenémicos, Fosfomicina) — nunca en monoterapia. Monitorizar función renal diariamente y niveles séricos si disponible. Consultar SIEMPRE con Infecciosas/Farmacia.
 

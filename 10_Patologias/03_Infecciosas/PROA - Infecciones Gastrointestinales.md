@@ -35,7 +35,11 @@ tags: [urgencias, infecciosas, digestivo]
   - *Factor de Riesgo Principal:* Uso reciente de antibioterapia de amplio espectro.
   - *Diagnóstico:* Clínico + detección de toxina/PCR (inmunocromatografía).
   - *Concepto Clave:* La curación se define por la resolución clínica, **NO** por la negativización de la toxina en heces (no repetir cultivo para "test de cura"). La principal complicación es la recurrencia.
-  - *Tratamiento Primera Línea:* Suspensión del antibiótico causal, parar IBPs/anti-peristálticos. **[[Vancomicina]]** oral (125mg/6h) durante 10 días, o **Fidaxomicina** (200mg/12h) durante 10 días (indicación de dispensación hospitalaria por el PROA).
+  - *Tratamiento Primera Línea:* Suspensión del antibiótico causal, parar IBPs, anti-H2 y anti-peristálticos. **No recomendado uso de probióticos.** **[[Vancomicina]]** oral (125mg/6h cápsulas) durante 10 días. Dispensación en Farmacia Hospitalaria previa prescripción en Programas Farmacológicos Externos (Casiopea).
+  - *Tratamiento de Recurrencia:* **Fidaxomicina** (200mg/12h comprimidos) durante 10 días (dispensación hospitalaria). De elección en CDI recurrente o alto riesgo de recurrencia (≥65 años, inmunodeprimidos, cepa hipervirulenta).
+
+> [!important] Estudio de Parásitos en Heces
+> Solicitar muestras en **3 días consecutivos**. Indicaciones: diarrea persistente (incluido viajero), HSH y pacientes con VIH (mal control), diarrea con sangre, fiebre y sin leucocitos (sospechar *Entamoeba*).
 
 > [!info] Enlaces
 > Volver al Índice Principal: [[PROA - Guía de Antimicrobianos y Síndromes Infecciosos]]

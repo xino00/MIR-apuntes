@@ -39,22 +39,25 @@ tags: [urgencias, infecciosas, ginecologia, uro]
   - *Tratamiento Ambulatorio/Ingreso:* [[Ceftriaxona]] 2g/24h IV + [[Metronidazol]] 500mg/8h IV + [[Doxiciclina]] 100mg/12h oral (14 días).
 
 - **[[Herpes Genital]]**:  
-  - *Agente:* Virus Herpes Simple (VHS) tipo 1 y 2. Vesículas de 2-4mm que progresan a úlceras. Tratamiento si <5 días desde inicio.
-  - *Tratamiento Primer Episodio:* Valaciclovir 500mg/12h (Oral, 7-10 días).
-  - *Tratamiento Recurrencias:* Valaciclovir 500mg/12h (Oral, 3 días).
+  - *Agente:* Virus Herpes Simple (VHS) tipo 1 y 2. Vesículas de 2-4mm que progresan a úlceras. Tratamiento si <5 días desde inicio o nuevas lesiones vesiculares.
+  - *Tratamiento Primer Episodio:* Valaciclovir 500mg/12h oral, 7-10 días.
+  - *Tratamiento Recurrencias:* Valaciclovir 500mg/12h oral, 3 días.
+  - *Alternativas:* Aciclovir oral o Famciclovir oral (dosis según ficha técnica por tipo de episodio).
+  - *Infección grave/diseminada:* Aciclovir 5-10mg/kg/8h IV.
 
 - **[[Sífilis]]**:  
   - *Agente:* Treponema pallidum. Puede cursar como Chancro primario, Exantema secundario, Latente, Terciaria (goma/cardio/neuro sífilis).
   - *Tratamiento Primaria/Secundaria/Latente Precoz (<1 año):* Penicilina G Benzatina 2.4 MU IM (dosis única).
   - *Tratamiento Latente Tardía (>1 año) o Indeterminada:* Penicilina G Benzatina 2.4 MU IM (1 vez a la semana durante 3 semanas).
   - *Tratamiento Neurosífilis:* Penicilina G Sódica 4 MU/4h IV (14 días).
-  - *Alternativa (Alergias a Penicilina en estadíos iniciales):* [[Doxiciclina]] 100mg/12h oral (14-28 días según estadío).
+  - *Alternativa (Alergias a Penicilina en estadíos iniciales):* [[Doxiciclina]] 100mg/12h oral (14 días en precoz, 28 días en tardía).
+  - *Alternativa en neurosífilis (alergia):* Desensibilización a penicilinas o [[Ceftriaxona]] 1g/24h IV/IM durante 14 días.
 
 ## 2. Úlceras y Vulvovaginitis
 
 - **[[Vulvovaginitis]]**:  
-  - *Vaginosis bacteriana* (Gardnerella - Criterios de Amsel, olor a pescado): [[Metronidazol]] 500mg/12h oral (7 días).
-  - *Tricomoniasis* (T. vaginalis - Cérvix en "fresa"): [[Metronidazol]] 2g oral (dosis única).
+  - *Vaginosis bacteriana* (Gardnerella - Criterios de Amsel, olor a pescado): [[Metronidazol]] 500mg/12h oral (7 días). Alternativa: Tinidazol 1g/24h oral 7 días.
+  - *Tricomoniasis* (T. vaginalis - Cérvix en "fresa"): [[Metronidazol]] 2g oral (dosis única). Alternativa: Tinidazol 2g oral dosis única.
   - *Candidiasis* (C. albicans - Flujo blanquecino/grumos): Clotrimazol 500mg óvulo (dosis única) o Fluconazol 150mg oral (dosis única).
 
 - **[[Pediculosis púbica]]** (Ladillas):  

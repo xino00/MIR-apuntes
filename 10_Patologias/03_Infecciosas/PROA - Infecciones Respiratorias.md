@@ -25,7 +25,7 @@ tags: [urgencias, infecciosas, respiratorio, asma_epoc]
 - **[[Rinosinusitis Aguda|Sinusitis aguda]]**:
   - *Indicación de antibiótico:* No mejora en 7 días + síntomas nasales purulentos; o síntomas graves (T >39ºC, dolor facial grave >3 días, diplopia, hiperestesia infraorbitaria); o comorbilidad (DM, hepatopatía, insuficiencia renal).
   - *1ª elección:* [[Amoxicilina]] 500mg/8h, **5 días**.
-  - *Si no mejora en 48-72h o síntomas graves:* [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 875/125mg/8h, 7 días.
+  - *Si no mejora en 48-72h o síntomas graves:* [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 875/125mg/8h, 5 días.
   - *Alergia betalactámicos:* [[Azitromicina]] 500mg/24h, 3 días.
   - *Fracaso terapéutico y alergia betalactámicos:* [[Levofloxacino]] 500mg/24h, 5 días.
 
@@ -53,7 +53,7 @@ tags: [urgencias, infecciosas, respiratorio, asma_epoc]
 | :--- | :--- | :--- |
 | **<65 años**, sin comorbilidad, **neumonía típica** | [[Amoxicilina]] 1000mg/8h, **5 días** | Alergia: [[Levofloxacino]] 500mg/24h 5d · Cefditoreno 400mg/12h 5d |
 | Elevada sospecha de **patógeno atípico** (cualquier edad) | [[Azitromicina]] 500mg/24h, **3 días** (hasta 7d según patógeno) | — |
-| **>65 años**, comorbilidades, EPOC, fumador, institucionalizado o ATB previo en ≥3 años | [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 875/125mg/8h, **7 días** | [[Levofloxacino]] 500mg/24h 7d |
+| **>65 años**, comorbilidades, EPOC, fumador, institucionalizado o ≥3 ciclos ATB/año previo | [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 875/125mg/8h, **7 días** | [[Levofloxacino]] 500mg/24h 7d |
 
 > [!info] Enlaces
 > Volver al Índice Principal: [[PROA - Guía de Antimicrobianos y Síndromes Infecciosos]]

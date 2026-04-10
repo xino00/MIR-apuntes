@@ -13,15 +13,15 @@ tags: [urgencias, infecciosas, uro]
 > [!quote] 📖 PROA FJD — Mapa Microbiológico Ambulatorio 2022 (% cepas sensibles)
 > Datos del Servicio de Microbiología del Hospital Universitario Fundación Jiménez Díaz.
 >
-> | Microorganismo | Muestra | PEN | OXA | AMC | CEFOTA | QUINOL | FOSFO | NITRO | COTRI | GENTA |
+> | Microorganismo | Muestra | AMPI | AMC | CEFURO | CEFOTA | QUINOL | FOSFO | NITRO | COTRI | GENTA |
 > | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-> | *E. coli* | Orina | — | — | 48,3 | 87,1 | 77,7 | 96,1 | 95,2 | 76,2 | 91,8 |
-> | *K. pneumoniae* | Orina | — | 0 | 81,8 | 83,1 | 84,3 | * | — | 87,5 | 86,0 |
-> | *P. mirabilis* | Orina | — | — | 65,3 | 95,1 | 68,7 | 68,3 | 0,1 | 73,1 | 95,7 |
-> | *S. saprophyticus* | Orina | — | 90 | — | — | 100 | — | — | — | 100 |
-> | *E. faecalis* | Orina | — | — | 98,8 | — | — | 84,1 | — | — | — |
+> | *E. coli* | Orina | 48,3 | 76,5 | 87,1 | 91,8 | 77,7 | 96,1 | 99,2 | 76,2 | — |
+> | *K. pneumoniae* | Orina | 0 | 81,8 | 83,1 | 86,0 | 84,3 | 71,7 | * | 87,5 | — |
+> | *P. mirabilis* | Orina | 65,3 | 89,9 | 95,1 | 95,7 | 68,7 | 68,3 | 0,1 | 73,1 | — |
+> | *S. saprophyticus* | Orina | — | — | — | — | 100 | — | — | — | 100 |
+> | *E. faecalis* | Orina | — | 98,8 | — | — | — | 84,1 | — | — | — |
 >
-> *E. coli 8,5% BLEE; K. pneumoniae 13,5% BLEE. \*Todas las cepas de K. pneumoniae deben considerarse resistentes a fosfomicina en infección urinaria.*
+> *E. coli 8,5% BLEE; K. pneumoniae 13,3% BLEE. \*Todas las cepas de K. pneumoniae deben considerarse resistentes a fosfomicina en infección urinaria.*
 >
 > **Tasa de resistencia umbral para uso empírico:** < 20% en cistitis, < 10% en pielonefritis.
 > **No recomendar empírico en ITU:** quinolonas, cotrimoxazol ni amoxicilina/clavulánico (por resistencias en FJD).

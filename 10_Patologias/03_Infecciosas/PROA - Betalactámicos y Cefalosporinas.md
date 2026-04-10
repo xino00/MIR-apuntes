@@ -12,10 +12,11 @@ Esta guía detalla la dosificación general, ajustes en enfermedad renal (FG en 
 ## 1. Penicilinas
 
 ### Penicilina G Sódica (Bencilpenicilina)
-- **Dosis Estándar (S):** IV 2-4 MU / 4-6h.
-- **Dosis Incrementada (I) Meningitis/Endocarditis/Neurosífilis:** IV 4-5 MU / 4h.
-- **Ajuste Renal (S):** FG 10-50: 3-4 MU / 4-6h. FG < 10: 2-3 MU / 4-6h (sin exceder dosis acumulada).
-- **Ajuste Diálisis/TRRC:** HD/DP: Dar dosis adicional post-sesión.
+- **Dosis Estándar (S):** IV 600mg (1 MU) / 6h.
+- **Dosis Incrementada (I):** IV 1200mg (2 MU) / 4-6h.
+- **Ajuste Renal (S):** FG 10-30: 1 MU / 8h. FG < 10: 1 MU / 12h.
+- **Ajuste Renal (I):** FG 10-30: 2 MU / 8h. FG < 10: 2 MU / 12h.
+- **Ajuste Diálisis/TRRC:** HD: dar dosis post-sesión. DP: como FG < 10. TRRC: dosis habitual.
 - **Observaciones:** Solo disponible IV. Actividad frente a estreptococos, neumococo sensible, Treponema pallidum y anaerobios orales. Sin actividad frente a enterobacterias ni estafilococos.
 
 ### Penicilina V (Fenoximetilpenicilina)
@@ -38,8 +39,8 @@ Esta guía detalla la dosificación general, ajustes en enfermedad renal (FG en 
 - **Ajuste Hepático:** No requiere.
 
 ### [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]]
-- **Dosis Estándar (S):** VO 875/125mg / 8h. IV 1g/200mg / 8h.
-- **Dosis Incrementada (I):** IV 2g/200mg / 8h.
+- **Dosis Estándar (S):** VO 500/125mg / 8h. IV 1g/200mg / 6-8h.
+- **Dosis Incrementada (I):** VO 875/125mg / 8h. IV 2g/200mg / 8h.
 - **Ajuste Renal (S):** FG 10-30: 500/125mg / 12h. FG < 10: 500/125mg / 24h.
 - **Ajuste Diálisis/TRRC:** HD/DP: 500mg/12h (Dosis post-diálisis). TRRC como FG 10-30.
 - **Ajuste Hepático:** Dosificar con precaución. Monitorizar transaminasas.
@@ -83,19 +84,19 @@ Esta guía detalla la dosificación general, ajustes en enfermedad renal (FG en 
 ### [[Cefotaxima]] (3ª Generación)
 - **Dosis Estándar (S):** IV 1-2g / 6-8h.
 - **Dosis Incrementada (I) Meningitis/Sepsis:** IV 2g / 4-6h.
-- **Ajuste Renal (S):** FG < 10: 1g / 12h.
+- **Ajuste Renal (S):** FG 10-50: 1g / 8-12h. FG < 10: 1g / 12-24h.
 - **Ajuste Diálisis/TRRC:** HD/DP: 1g post-sesión. TRRC: 2g / 12h.
 - **Observaciones:** Alternativa a Ceftriaxona cuando se prefiere semivida corta (ej. hiperbilirrubinemia neonatal). Espectro similar a Ceftriaxona; no desplaza bilirrubina de la albúmina.
 
 ### [[Cefixima]] (3ª Generación Oral)
 - **Dosis Estándar (S):** VO 400mg / 24h.
-- **Ajuste Renal (S):** FG 21-60: 300mg / 24h. FG < 20: 200mg / 24h.
-- **Ajuste Diálisis/TRRC:** HD/DP: 200mg / 24h (no requiere suplemento post-sesión).
+- **Ajuste Renal (S):** FG < 20: 200mg / 24h.
+- **Ajuste Diálisis/TRRC:** HD: 300mg / 24h (después de la sesión). DP: 200mg / 24h.
 - **Observaciones:** Buena biodisponibilidad oral. Uso en ITU complicada ambulatoria, pielonefritis (tras dosis IV inicial) y prostatitis (paso puente antes de cambio a quinolona/cotrimoxazol según antibiograma).
 
 ### [[Cefditoreno]] (3ª Generación Oral)
 - **Dosis Estándar (S):** VO 200-400mg / 12h (administrar con comida).
-- **Ajuste Renal (S):** FG 30-49: Máximo 200mg / 12h. FG < 30: No recomendado generalmente.
+- **Ajuste Renal (S):** FG 30-50: 200mg / 12h. FG < 30: 200mg / 12h.
 - **Observaciones:** Actividad frente a neumococo resistente, H. influenzae y M. catarrhalis. Útil en EPOC reagudizado y NAC moderada. Absorción disminuye un 50% en ayunas.
 
 ### [[Ceftazidima]] (3ª Generación Pseudomónica)
@@ -105,12 +106,12 @@ Esta guía detalla la dosificación general, ajustes en enfermedad renal (FG en 
 
 ### Ceftazidima/Avibactam (3ª Generación + Inhibidor de BLs)
 - **Dosis Estándar (S):** IV 2g/0.5g / 8h (en perfusión de 2h).
-- **Ajuste Renal (S):** FG 31-50: 1.25g/0.32g / 8h. FG 16-30: 0.94g/0.24g / 12h. FG < 15 o HD: ajuste complejo, consultar Farmacia.
+- **Ajuste Renal (S):** FG 31-50: 1g/0.25g / 8h. FG 16-30: 0.75g/0.1875g / 12h. FG 6-15: 0.75g/0.1875g / 24h. FG < 5 o HD: 0.75g/0.1875g / 48h.
 - **Observaciones:** Activo frente a carbapenemasas tipo KPC y OXA-48. **No activo frente a MBL (NDM, VIM)**. En infecciones MDR/XDR consultar siempre con Infecciosas/Farmacia. Puede combinarse con Aztreonam para cubrir MBL.
 
 ### Ceftolozano/Tazobactam (Nuevo Betalactámico + Inhibidor)
 - **Dosis Estándar (S):** IV 1g/0.5g / 8h (en perfusión de 1h).
-- **Dosis Incrementada (I) P. aeruginosa MDR:** IV 3g/1g / 8h (en perfusión extendida de 3h).
+- **Dosis Incrementada (I) Neumonía nosocomial / P. aeruginosa sensibilidad I:** IV 2g/1g / 8h (en perfusión extendida).
 - **Ajuste Renal (S):** FG 30-50: 500mg/250mg / 8h. FG 15-29: 250mg/125mg / 8h. FG < 15 o HD: consultar Farmacia.
 - **Observaciones:** Potente actividad anti-Pseudomonas incluyendo cepas MDR sin carbapenemasas. No activo frente a BLEE o KPC. Reservar para P. aeruginosa MDR confirmada. Consultar Infecciosas.
 
@@ -127,7 +128,7 @@ Esta guía detalla la dosificación general, ajustes en enfermedad renal (FG en 
 ### [[Cefepime]] (4ª Generación)
 - **Dosis Estándar (S):** IV 1-2g / 8-12h.
 - **Dosis Incrementada (I) Neutropenia/Pseudomonas:** IV 2g / 8h.
-- **Ajuste Renal (S):** FG 30-60: 2g/12h o 1g/8h. FG < 11: 1g/24h.
+- **Ajuste Renal (S):** FG 30-60: 1g / 12-24h. FG 11-29: 500mg-1g / 24h. FG < 11: 250-500mg / 24h.
 - **Observaciones:** Perfusión extendida muy recomendada en infecciones graves (infusión en 3h tras bolo de 30 min). En sepsis, la neutrotoxicidad es dependiente de dosis en FG alterados (riesgo de encefalopatía, mioclonías).
 
 ---
@@ -166,7 +167,7 @@ Esta guía detalla la dosificación general, ajustes en enfermedad renal (FG en 
 
 ### Meropenem/Vaborbactam
 - **Dosis Estándar (S):** IV 2g/2g / 8h (en perfusión de 3h).
-- **Ajuste Renal (S):** FG 30-49: 1g/1g / 8h. FG 15-29: 0.5g/0.5g / 8h. FG < 15: No recomendado (datos insuficientes).
+- **Ajuste Renal (S):** FG 20-39: 1g/1g / 8h (perfusión 3h). FG 10-19: 1g/1g / 12h (perfusión 3h). FG < 10: 0.5g/0.5g / 12h (perfusión 3h).
 - **Observaciones:** Activo frente a KPC. **No activo frente a MBL (NDM, VIM) ni OXA-48**. Reservar para infecciones por KPC confirmado cuando Meropenem no es suficiente. Consultar con Infecciosas/Farmacia.
 
 ---
@@ -177,7 +178,7 @@ Esta guía detalla la dosificación general, ajustes en enfermedad renal (FG en 
 - **Dosis en TB:** 10 mg/kg/día (máx 600mg).
 - **Ajuste Renal (S):** No requiere ajuste (excreción fundamentalmente biliar).
 - **Ajuste Diálisis/TRRC:** No precisa ajuste (baja excreción renal).
-- **Ajuste Hepático:** Contraindicada en hepatopatía grave. Monitorizar enzimas hepáticas en todos los casos.
+- **Ajuste Hepático:** Child-Pugh A/B: sin cambios. Child-Pugh C: disminuir la dosis (también en ictericia obstructiva). Monitorizar enzimas hepáticas en todos los casos.
 - **Observaciones:** **Potente inductor del CYP3A4** — interacciones múltiples (anticoagulantes, anticonvulsivos, inmunosupresores, anticonceptivos orales, antivirales). En antibioterapia no-tuberculosa: usada en combinación en infecciones sobre material protésico (SARM/SASM), osteomielitis crónica y brucelosis. **NUNCA en monoterapia** (rápido desarrollo de resistencias).
 
 > [!info] Enlaces

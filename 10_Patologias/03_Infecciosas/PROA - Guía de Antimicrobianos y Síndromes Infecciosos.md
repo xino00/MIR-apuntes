@@ -41,18 +41,18 @@ Ciertos antimicrobianos requieren calcular la dosis según el **peso corporal id
 
 | Fórmula | Cálculo | Cuando usar |
 | :--- | :--- | :--- |
-| **Peso Corporal Ideal (PCI)** | Hombre: 50 + 0.91 × (talla cm − 152.4) · Mujer: 45.5 + 0.91 × (talla cm − 152.4) | Punto de partida en cualquier ajuste |
-| **Peso Corporal Ajustado (PCA)** | PCI + 0.4 × (Peso Real − PCI) | Si Peso Real > 1.2 × PCI (obesidad) |
-| **Peso Real (PR)** | Peso del paciente en balanza | Ver indicaciones por fármaco |
+| **Peso Corporal Ideal (PCI)** | Hombre: 50 + 0.75 × (talla cm − 152.4) · Mujer: 45.5 + 0.67 × (talla cm − 152.4) | Punto de partida en cualquier ajuste |
+| **Peso Ideal Ajustado (PIA)** | PCI + C × (PCT − PCI). C = 0.4 para la mayoría; C = 0.45 para [[Ciprofloxacino]] | Si PCT > 1.2 × PCI (obesidad) |
+| **Peso Corporal Total (PCT)** | Peso del paciente en balanza | Ver indicaciones por fármaco |
 
 | Fármaco | Peso para dosis | Nota |
 | :--- | :--- | :--- |
-| Aminoglucósidos (Amikacina, Gentamicina, Tobramicina) | **PCI** (o PCA si obeso) | Usar PCA si Peso Real > 1.2 × PCI |
-| Vancomicina (dosis carga) | **Peso Real** | No ajustar carga por obesidad |
-| Vancomicina (mantenimiento) | **PCA** si obeso | Titular por niveles |
-| Daptomicina | **PCI** (o PCA si obeso) | Datos limitados en super-obesidad |
-| Colistina | **Peso Real** | Requiere cálculo específico de CBA |
-| Betalactámicos, Quinolonas | **Peso Real** salvo indicación específica | Generalmente no requieren ajuste |
+| Aminoglucósidos (Amikacina, Gentamicina, Tobramicina) | **PIA** (para 1ª dosis, luego ajustar por niveles) | Usar PIA si PCT > 1.2 × PCI |
+| Vancomicina (dosis carga) | **PCT** (máximo 3g) | No ajustar carga por obesidad |
+| Vancomicina (mantenimiento) | **PIA** si obeso | Titular por niveles |
+| Daptomicina | **PIA** | Datos limitados en super-obesidad |
+| Colistina | **PCT** | Requiere cálculo específico de CBA |
+| Betalactámicos, Quinolonas | **PCT** salvo indicación específica | Generalmente no requieren ajuste |
 
 ---
 
@@ -69,12 +69,17 @@ El paso de antibiótico intravenoso a oral puede realizarse de forma segura cuan
 | [[Doxiciclina]] | ~93% | ✅ Siempre |
 | [[Cotrimoxazol]] | ~90-95% | ✅ Siempre |
 | [[Clindamicina]] | ~90% | ✅ Siempre |
-| [[Moxifloxacino]] | ~86% | ✅ Siempre |
-| [[Ciprofloxacino]] | 70-85% | ✅ Generalmente |
-| [[Amoxicilina]] | 70-90% | ✅ Generalmente |
+| [[Moxifloxacino]] | ~91% | ✅ Siempre |
+| [[Ciprofloxacino]] | 70-80% | ✅ Generalmente |
+| [[Amoxicilina]] | ~70% | ✅ Generalmente |
 | [[Claritromicina]] | ~50% | ⚠️ Con cautela en infecciones graves |
 | [[Cefixima]] | 40-50% | ⚠️ Adecuado para ITU/faríngeas, no para sepsis |
 | [[Azitromicina]] | ~38% (tisular alta) | ⚠️ Concentración tisular muy alta (útil en atípicos) |
 | Amox/Clavulánico | ~75% (AMX) / ~60% (CLV) | ⚠️ Adecuado para infecciones de baja/media gravedad |
-| [[Cefditoreno]] | ~14-20% (aumenta con comida) | ❌ Solo para infecciones ambulatorias leves |
+| [[Cefuroxima]] | ~52% (administrar con alimentos) | ⚠️ Adecuado para infecciones leves-moderadas |
+| [[Cloxacilina]] | ~43% (administrar en ayunas) | ⚠️ Solo para infecciones ambulatorias |
+| Penicilina V | ~60% (administrar en ayunas) | ⚠️ Adecuado para faringitis estreptocócica |
+| [[Cefditoreno]] | ~15-20% (aumenta con comida) | ❌ Solo para infecciones ambulatorias leves |
+| Eritromicina | ~35-75% | ⚠️ Variable, usar con cautela |
+| [[Fosfomicina]] trometamol | ~33-53% (administrar en ayunas) | ⚠️ Adecuado para cistitis (acción local) |
 | Betalactámicos IV (Ceftriaxona, Meropenem…) | 0% | ❌ No disponibles vía oral |
