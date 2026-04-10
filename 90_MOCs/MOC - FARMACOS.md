@@ -143,7 +143,12 @@ description: "Índice farmacológico: 128 fármacos agrupados por clase terapéu
 **Antipsicóticos**
 - [[Haloperidol]]
 
+**Benzodiazepinas**
+- [[Diazepam]]
+- [[Lorazepam]]
+
 **Antidepresivos**
+- [[ISRS - Inhibidores Selectivos de la Recaptacion de Serotonina|ISRS]]
 - [[Amitriptilina]]
 - [[Mirtazapina]]
 

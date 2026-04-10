@@ -43,7 +43,7 @@ description: "Índice de psiquiatría: urgencias psiquiátricas, trastornos del 
 - [[Quetiapina]]
 - [[Diazepam]]
 - [[Lorazepam]]
-- [[ISRS - Inhibidores Selectivos de la Recaptación de Serotonina]]
+- [[ISRS - Inhibidores Selectivos de la Recaptacion de Serotonina|ISRS - Inhibidores Selectivos de la Recaptación de Serotonina]]
 - [[Litio]]
 - [[Valproato]]
 - [[Carbamazepina]]

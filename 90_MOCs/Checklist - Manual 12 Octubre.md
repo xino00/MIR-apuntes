@@ -339,8 +339,8 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 
 ## Sección XVI — Psiquiatría
 
-- [ ] Trastornos de ansiedad
-- [ ] Trastorno depresivo mayor
+- [x] [[Trastornos de Ansiedad]]
+- [x] [[Trastorno Depresivo Mayor]]
 - [ ] Trastorno bipolar
 - [x] [[Psicosis Aguda y Esquizofrenia]]
 - [x] [[Agitacion Psicomotriz en Urgencias|Agitación psicomotriz en urgencias]]
