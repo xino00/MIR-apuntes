@@ -1,6 +1,7 @@
 ---
 aliases: [MOC Nefrología, Nefrología]
-tags: [moc, nefrologia]
+tags: [moc, nefro]
+description: "Índice de nefrología: FRA, ERC, trastornos iónicos y ácido-base"
 ---
 
 # 🫘 MOC — Nefrología

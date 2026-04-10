@@ -1,6 +1,6 @@
 ---
 aliases: [Hiponatremia, Sodio bajo, Mielinolisis]
-tags: [urgencias, nefrología, endocrinología, iones]
+tags: [urgencias, nefro, endocrino, iones]
 ---
 # Hiponatremia (Na < 135 mEq/L)
 

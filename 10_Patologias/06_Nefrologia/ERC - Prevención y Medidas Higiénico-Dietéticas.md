@@ -1,6 +1,6 @@
 ---
 aliases: [Medidas higiénico dietéticas ERC, Dieta en enfermedad renal]
-tags: [nefrología, primaria, tabaquismo, dieta, nefrotoxicidad]
+tags: [nefro, primaria, tabaquismo, dieta, nefrotoxicidad]
 ---
 # ERC: Prevención, Evidencia y Medidas Higiénico-Dietéticas
 

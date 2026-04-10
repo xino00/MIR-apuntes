@@ -1,6 +1,6 @@
 ---
 aliases: [Ferropenia, Anemia por déficit de hierro, IDA, Sideropenia]
-tags: [Hematología, patologia, urgencias]
+tags: [hemato, patologia, urgencias]
 ---
 # Anemia Ferropénica
 

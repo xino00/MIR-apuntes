@@ -5,7 +5,7 @@ aliases:
   - Triage Dolor Torácico
 tags:
   - urgencias
-  - cardiología
+  - cardio
   - SCA
   - TEP
   - disección_aórtica
@@ -39,7 +39,7 @@ Todo paciente con dolor torácico (especialmente si es opresivo, irradiado o aso
 
 ## 📊 3. Enfoque Diagnóstico Inicial (Causas Letales)
 Antes de etiquetar un dolor como "mecánico", "funcional" o "ansiedad", hay que descartar empíricamente su cara fatal:
-- **[[Síndrome Coronario Agudo (SCA)]]:** Dolor opresivo irradiado. ECG: ST elevado/descendido, T picudas o invertidas.
+- **[[Síndrome Coronario Agudo]]:** Dolor opresivo irradiado. ECG: ST elevado/descendido, T picudas o invertidas.
 - **[[TEP - Tromboembolismo Pulmonar]]:** Dolor pleurítico súbito + disnea. ECG: Taquicardia sinusal, S1Q3T3, T negativas V1-V4.
 - **Disección Aórtica:** Dolor desgarrador, migratorio. Rx Tórax: Botón aórtico prominente o mediastino ancho. ECG normal.
 - **Neumotórax a Tensión:** Dolor pleurítico + disnea extrema. Ausencia de murmullo en un hemitórax + desviación traqueal contra-lateral.

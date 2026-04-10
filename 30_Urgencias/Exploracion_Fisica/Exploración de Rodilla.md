@@ -1,9 +1,17 @@
+---
+tags:
+  - urgencias
+  - trauma
+  - exploracion
+aliases:
+  - "Exploración Rodilla"
+---
 
 # 🦵 Exploración de Rodilla
 
 > **Autor:** Nota clínica · Traumatología y Cirugía Ortopédica  
 > **Tags:** #traumatología #exploración-física #rodilla #ortopedia  
-> **Relacionado:** [[Exploración de Cadera]] · [[Exploración de Tobillo]] · [[Lesiones Ligamentosas]] · [[Patología Meniscal]]
+> **Relacionado:** [[Exploración de Cadera]] · [[Exploración de Tobillo y Antepié|Exploración de Tobillo]] · [[Lesiones Ligamentosas]] · [[Patología Meniscal]]
 
 ---
 

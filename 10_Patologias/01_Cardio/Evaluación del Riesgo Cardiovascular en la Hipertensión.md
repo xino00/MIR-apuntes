@@ -1,6 +1,6 @@
 ---
 aliases: [Riesgo CV en HTA, SCORE2, Estratificación de Riesgo, DOMH modificadores]
-tags: [Cardiología, HTA, riesgo_cv, diagnóstico]
+tags: [cardio, HTA, riesgo_cv, diagnóstico]
 ---
 # Evaluación del Riesgo Cardiovascular en la Hipertensión
 

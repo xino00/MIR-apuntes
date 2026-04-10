@@ -1,6 +1,6 @@
 ---
 aliases: [ACO asma EPOC, Asma embarazo, Asma ocupacional, Solapamiento asma EPOC]
-tags: [neumología, asma, gema, patologia, embarazo, ocupacional, epoc, aco]
+tags: [neumo, asma, gema, patologia, embarazo, ocupacional, epoc, aco]
 ---
 # Asma: Circunstancias Especiales
 

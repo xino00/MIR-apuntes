@@ -1,6 +1,6 @@
 ---
 aliases: [AGNC, Asma grave, Biológicos asma, Asma refractaria, Fenotipo asma grave]
-tags: [neumología, asma, gema, patologia, grave, biológicos, fenotipo]
+tags: [neumo, asma, gema, patologia, grave, biológicos, fenotipo]
 ---
 # Asma Grave No Controlada (AGNC)
 

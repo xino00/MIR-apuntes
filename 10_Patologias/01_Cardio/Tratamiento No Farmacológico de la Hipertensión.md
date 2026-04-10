@@ -1,6 +1,6 @@
 ---
 aliases: [Intervención Estilo de Vida HTA, Prevención No Farmacológica, Lifestyle Changes, Diet for HTN]
-tags: [Cardiología, HTA, crónico, prevención]
+tags: [cardio, HTA, crónico, prevención]
 ---
 # Tratamiento No Farmacológico de la Hipertensión
 

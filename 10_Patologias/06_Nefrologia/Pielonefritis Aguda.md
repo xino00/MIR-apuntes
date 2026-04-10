@@ -1,6 +1,6 @@
 ---
 aliases: [PNA, Pielonefritis]
-tags: [urgencias, infecciosas, nefrologia, urologia]
+tags: [urgencias, infecciosas, nefro, uro]
 ---
 # Pielonefritis Aguda (PNA)
 

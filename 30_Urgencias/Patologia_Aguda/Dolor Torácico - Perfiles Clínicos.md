@@ -1,6 +1,6 @@
 ---
 aliases: [Dolor Torácico Perfiles Clínicos, Diagnóstico Diferencial Dolor Torácico]
-tags: [urgencias, cardiología, diagnostico_diferencial]
+tags: [urgencias, cardio, diagnostico_diferencial]
 ---
 # Dolor Torácico: Perfiles Clínicos y Diferencial
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Microcitosis, Anemia MCV bajo, Anemia hipocrómica]
-tags: [Hematología, patologia]
+tags: [hemato, patologia]
 ---
 # Anemia Microcítica (MCV < 80 fL)
 

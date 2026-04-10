@@ -1,3 +1,7 @@
+---
+tags: [moc, neumo]
+description: "Índice de neumología: asma, EPOC, neumonía, insuficiencia respiratoria y ventilación"
+---
 # 🫁 Neumología
 
 > [!danger] ⚡ Urgencias / Algoritmos Vitales

@@ -1,6 +1,7 @@
 ---
 aliases: [MOC Digestivo, Digestivo]
 tags: [moc, digestivo]
+description: "Índice de digestivo: dolor abdominal, hemorragia digestiva, hepatopatía y EII"
 ---
 
 # 🫁 MOC — Digestivo

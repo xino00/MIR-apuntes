@@ -1,6 +1,6 @@
 ---
 aliases: [IC Crónica, ICC]
-tags: [urgencias, Cardiología, patologia]
+tags: [urgencias, cardio, patologia]
 ---
 # Insuficiencia Cardíaca Crónica (ICC)
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Patogenia del Asma, Epidemiología Asma, Factores de riesgo asma]
-tags: [neumología, asma, gema, patologia, patogenia]
+tags: [neumo, asma, gema, patologia, patogenia]
 ---
 # Asma: Definición, Epidemiología y Patogenia
 

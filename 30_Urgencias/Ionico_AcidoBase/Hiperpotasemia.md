@@ -1,6 +1,6 @@
 ---
 aliases: [Hiperpotasemia, Hiperkalemia, Potasio Alto]
-tags: [urgencias, nefrología, cardiología, rcp, iones]
+tags: [urgencias, nefro, cardio, rcp, iones]
 ---
 # Hiperpotasemia
 

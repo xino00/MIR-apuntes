@@ -1,6 +1,6 @@
 ---
 aliases: [Enfermedad Renal Crónica, Heatmap KDIGO, Estadios ERC]
-tags: [nefrología, urgencias, primaria, erca]
+tags: [nefro, urgencias, primaria, erca]
 ---
 # ERC: Estratificación y Pronóstico (KDIGO 2024)
 

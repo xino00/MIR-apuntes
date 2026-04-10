@@ -1,6 +1,6 @@
 ---
 aliases: [Abordaje anemia, Evaluación anemia adulto, Clasificación anemia]
-tags: [Hematología, patologia, urgencias]
+tags: [hemato, patologia, urgencias]
 ---
 # Anemia - Abordaje General
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - cardiologia
+  - cardio
   - escalas
   - insuficiencia-cardiaca
 fecha_revision: 2026-03-30

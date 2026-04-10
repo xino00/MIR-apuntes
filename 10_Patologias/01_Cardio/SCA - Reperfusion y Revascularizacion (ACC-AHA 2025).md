@@ -1,3 +1,8 @@
+---
+aliases: ["SCA Reperfusión"]
+tags: [urgencias, cardio, patologia]
+---
+
 # Sindrome Coronario Agudo - Reperfusion y Revascularizacion (ACC/AHA 2025)
 
 **Fecha de revision:** 25/03/2026

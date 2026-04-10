@@ -1,6 +1,6 @@
 ---
 aliases: [Medicamentos HTA, Fármacos Antihipertensivos, IECA, ARA2, BCC, Tiazidas]
-tags: [Cardiología, HTA, farmacología]
+tags: [cardio, HTA, farmaco]
 ---
 # Tratamiento Farmacológico de la Hipertensión
 

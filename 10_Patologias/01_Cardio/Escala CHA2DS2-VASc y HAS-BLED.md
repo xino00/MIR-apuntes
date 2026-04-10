@@ -1,6 +1,6 @@
 ---
 tags:
-  - cardiologia
+  - cardio
   - escalas
   - fibrilacion-auricular
 fecha_revision: 2026-03-30

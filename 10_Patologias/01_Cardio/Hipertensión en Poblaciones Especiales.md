@@ -1,6 +1,6 @@
 ---
 aliases: [HTA en Poblaciones Especiales, HTA Embarazo, HTA Ancianos, HTA Diabetes, HTA ERC]
-tags: [Cardiología, HTA, crónico]
+tags: [cardio, HTA, crónico]
 ---
 # Hipertensión en Poblaciones Especiales
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Prostatitis bacteriana aguda]
-tags: [urgencias, infecciosas, urologia]
+tags: [urgencias, infecciosas, uro]
 ---
 # Prostatitis Aguda Bacteriana
 

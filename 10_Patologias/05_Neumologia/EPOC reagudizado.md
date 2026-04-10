@@ -1,6 +1,6 @@
 ---
 aliases: [Exacerbación EPOC, EPOC agudizado, Agudización EPOC, Reagudización EPOC]
-tags: [neumología, urgencias, epoc, índice]
+tags: [neumo, urgencias, epoc, índice]
 ---
 # EPOC Reagudizado
 

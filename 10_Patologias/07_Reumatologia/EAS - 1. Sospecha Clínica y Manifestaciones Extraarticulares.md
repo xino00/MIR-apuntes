@@ -1,6 +1,6 @@
 ---
 aliases: [EAS, Enfermedad Autoinmune Sistémica, Conectivopatías, Sospecha Reumatológica]
-tags: [reumatología, autoinmunidad, diagnóstico, semiología]
+tags: [reuma, autoinmunidad, diagnóstico, semiología]
 ---
 # EAS - 1. Sospecha Clínica y Manifestaciones Extraarticulares
 

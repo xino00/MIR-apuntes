@@ -1,3 +1,7 @@
+---
+tags: [moc, cardio]
+description: "Índice de cardiología: hipertensión, insuficiencia cardiaca, SCA, arritmias, valvulopatías y escalas"
+---
 # 🫀 Cardiología
 
 > [!danger] ⚡ Urgencias / Algoritmos Vitales

@@ -1,6 +1,6 @@
 ---
 aliases: [ITU, Cistitis, Infección urinaria]
-tags: [urgencias, infecciosas, nefrologia, urologia]
+tags: [urgencias, infecciosas, nefro, uro]
 ---
 # ITU - Abordaje Inicial y Cistitis
 

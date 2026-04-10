@@ -1,3 +1,8 @@
+---
+aliases: [Cefalea Tensional, TACs]
+tags: [urgencias, neuro, patologia]
+---
+
 # Cefaleas Trigemino-Autonómicas y Tensional
 
 **Fecha de revisión:** 20/03/2026

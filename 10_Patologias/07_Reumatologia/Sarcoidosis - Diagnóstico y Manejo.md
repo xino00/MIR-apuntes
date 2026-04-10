@@ -1,6 +1,6 @@
 ---
 aliases: [Sarcoidosis, Löfgren, Heerfordt, Granulomas no caseificantes]
-tags: [neumología, reumatología, sistémica, pulmonar, granulomatosa]
+tags: [neumo, reuma, sistémica, pulmonar, granulomatosa]
 ---
 # Sarcoidosis - Diagnóstico y Manejo
 

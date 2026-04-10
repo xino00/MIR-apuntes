@@ -1,6 +1,6 @@
 ---
 aliases: [Nefritis Lúpica, Tratamiento LES, Brote lúpico]
-tags: [reumatología, lupus, tratamiento, farmacología, riñón]
+tags: [reuma, lupus, tratamiento, farmaco, riñón]
 ---
 # Lupus (LES) - 2. Manejo Crónico, Brotes y Nefritis
 

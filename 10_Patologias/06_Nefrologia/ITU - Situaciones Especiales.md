@@ -1,6 +1,6 @@
 ---
 aliases: [ITU embarazo, ITU sonda, Bacteriuria asintomática, ITU recurrente, ITU BLEE]
-tags: [urgencias, infecciosas, nefrologia, urologia, ginecologia]
+tags: [urgencias, infecciosas, nefro, uro, ginecologia]
 ---
 # ITU - Situaciones Especiales
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Nefroprotección, iSGLT2 en ERC, Finerenona, arGLP1]
-tags: [nefrología, farmacología, erca, diabetes, kdigo]
+tags: [nefro, farmaco, erca, diabetes, kdigo]
 ---
 # ERC: Fármacos Modificadores de la Enfermedad (Los "4 Pilares" Nefrorprotectores)
 

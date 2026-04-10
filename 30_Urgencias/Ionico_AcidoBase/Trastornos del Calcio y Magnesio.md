@@ -1,6 +1,6 @@
 ---
 aliases: [Calcio, Magnesio, Hipocalcemia, Hipercalcemia, Torsades]
-tags: [urgencias, endocrinología, oncología, cardiología, iones]
+tags: [urgencias, endocrino, oncología, cardio, iones]
 ---
 # Trastornos del Calcio y Magnesio
 

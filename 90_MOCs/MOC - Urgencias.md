@@ -1,6 +1,7 @@
 ---
 aliases: [MOC Urgencias, Urgencias]
 tags: [moc, urgencias]
+description: "Hub central de urgencias: algoritmos vitales, iones, ácido-base y urgencias por especialidad"
 ---
 
 # 🚨 MOC - Urgencias
@@ -93,6 +94,37 @@ tags: [moc, urgencias]
 - [[Síndrome Neuroléptico Maligno]]
 - [[Cefaleas - Abordaje Inicial]]
 - [[Cefaleas - Situaciones Especiales y Neuralgias]]
+
+**Endocrinología**
+- [[Cetoacidosis Diabética (CAD)]]
+- [[Síndrome Hiperglucémico Hiperosmolar (SHH)]]
+- [[Hiperglucemia Simple]]
+
+**ORL**
+- [[Epistaxis]]
+- [[Faringoamigdalitis Aguda]]
+- [[Odontalgia y Flemón Dental]]
+- [[Otitis Media Aguda (OMA)]]
+- [[Laringitis Aguda]]
+
+**Urología**
+- [[Cólico Renoureteral]]
+- [[Retención Aguda de Orina (RAO)]]
+- [[Escroto Agudo y Orquiepididimitis]]
+- [[Hematuria]]
+
+**Traumatología**
+- [[Esguince de Tobillo]]
+- [[Lumbalgia]]
+- [[Lumbociática]]
+- [[Gonalgia y Lesión Ligamentosa de Rodilla]]
+- [[Contusión y Fractura Costal]]
+- [[Heridas y Suturas]]
+
+**Dermatología**
+- [[Urticaria Aguda]]
+- [[Herpes Zóster]]
+- [[Sarna - Escabiosis]]
 
 ---
 

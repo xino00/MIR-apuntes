@@ -1,6 +1,6 @@
 ---
 aliases: [Lupus, LES, Lupus Eritematoso Sistémico]
-tags: [reumatología, autoinmunidad, lupus, diagnóstico]
+tags: [reuma, autoinmunidad, lupus, diagnóstico]
 ---
 # Lupus (LES) - 1. Diagnóstico y Clínica
 
@@ -42,14 +42,14 @@ El **Lupus Eritematoso Sistémico (LES)** es la enfermedad autoinmune sistémica
 
 Para diagnosticar LES, el sistema inmunitario debe dejar su rastro en la sangre.
 
-| Autoanticuerpo | Implicación Diagnóstica / Pronóstica |
-| :--- | :--- |
-| **ANA (Antinucleares)** | **> 95% de sensibilidad.** Son el criterio de entrada por excelencia. Si los ANA son negativos, buscar otro diagnóstico. |
-| **Anti-dsDNA** | **Altamente Específicos (~95%).** Sirven para **Monitorizar**. Sus títulos reflejan fielmente la actividad total del Lupus (suben antes de un brote, asociados a la terrible Nefritis Lúpica). |
-| **Anti-Sm (Smith)** | **Los más específicos (> 98%).** Pero solo presentes en un 30% de pacientes. Su nivel NO se correlaciona con la enfermedad activa. |
-| **Anti-Ro / Anti-La** | Asociado a Lupus Cutáneo Subagudo, bloqueo cardíaco completo fetal (Lupus Neonatal) y Sjögren secundario. |
-| **Anticuerpos Antifosfolípidos**| (Anticardiolipina, Anti-Beta2GPI, Anticoagulante lúpico). Otorgan enorme riesgo de trombosis e infartos jóvenes (1/3 de los LES los tienen). |
-| **Complemento (C3 y C4)** | **Se consumen (bajan).** Es una enfermedad de Inmunocomplejos. En un brote grave de actividad lúpica, verás los *Anti-DNA disparados* y el *Complemento por los suelos*. |
+| Autoanticuerpo                   | Implicación Diagnóstica / Pronóstica                                                                                                                                                           |
+| :------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **ANA (Antinucleares)**          | **> 95% de sensibilidad.** Son el criterio de entrada por excelencia. Si los ANA son negativos, buscar otro diagnóstico.                                                                       |
+| **Anti-dsDNA**                   | **Altamente Específicos (~95%).** Sirven para **Monitorizar**. Sus títulos reflejan fielmente la actividad total del Lupus (suben antes de un brote, asociados a la terrible Nefritis Lúpica). |
+| **Anti-Sm (Smith)**              | **Los más específicos (> 98%).** Pero solo presentes en un 30% de pacientes. Su nivel NO se correlaciona con la enfermedad activa.                                                             |
+| **Anti-Ro / Anti-La**            | Asociado a Lupus Cutáneo Subagudo, bloqueo cardíaco completo fetal (Lupus Neonatal) y Sjögren secundario.                                                                                      |
+| **Anticuerpos Antifosfolípidos** | (Anticardiolipina, Anti-Beta2GPI, Anticoagulante lúpico). Otorgan enorme riesgo de trombosis e infartos jóvenes (1/3 de los LES los tienen).                                                   |
+| **Complemento (C3 y C4)**        | **Se consumen (bajan).** Es una enfermedad de Inmunocomplejos. En un brote grave de actividad lúpica, verás los *Anti-DNA disparados* y el *Complemento por los suelos*.                       |
 
 ---
 

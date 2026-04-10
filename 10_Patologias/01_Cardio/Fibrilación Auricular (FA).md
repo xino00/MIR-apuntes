@@ -1,6 +1,6 @@
 ---
 aliases: [Fibrilación Auricular, FA, FA con RVR]
-tags: [urgencias, Cardiología, patologia]
+tags: [urgencias, cardio, patologia]
 ---
 # Fibrilación Auricular (FA)
 

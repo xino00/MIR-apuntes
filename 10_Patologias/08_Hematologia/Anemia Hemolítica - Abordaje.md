@@ -1,6 +1,6 @@
 ---
 aliases: [Hemólisis, Anemia hemolítica, AIHA, Hemolytic anemia]
-tags: [Hematología, patologia, urgencias]
+tags: [hemato, patologia, urgencias]
 ---
 # Anemia Hemolítica – Abordaje
 

@@ -1,6 +1,6 @@
 ---
 aliases: [PROA Quinolonas, Dosis Macrólidos]
-tags: [farmacología, infecciosas, antibioticos]
+tags: [farmaco, infecciosas, antibioticos]
 ---
 # PROA - Quinolonas, Macrólidos y Relacionados
 

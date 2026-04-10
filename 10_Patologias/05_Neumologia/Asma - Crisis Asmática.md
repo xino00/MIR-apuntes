@@ -1,6 +1,6 @@
 ---
 aliases: [Crisis Asmática, Exacerbación de asma, Status Asthmaticus]
-tags: [neumología, urgencias, asma, gema, broncoespasmo]
+tags: [neumo, urgencias, asma, gema, broncoespasmo]
 ---
 # Asma: Crisis Asmática (Urgencias y Planta)
 
@@ -26,6 +26,7 @@ Valorar FR, FC, Trabajo Respiratorio, SatO2 al aire ambiente y Nivel de concienc
    - Somnolencia, confusión, **bradicardia**, respiración agónica (*gasping*).
    - Ausencia de sibilancias ("tórax silente"). SaO₂ < 90 %. Gasometría: **PaCO₂ > 45 mmHg** (hipercapnia = agotamiento respiratorio; signo ominoso). PaO₂ < 60 mmHg.
    - Proceder al soporte vital avanzado inmediato y prepararse para IOT con Ketamina (broncodilatadora y sedante).
+   - ***LLAMAR UCI/UCIR*** 
 
 ## 🚑 2. Tratamiento Urgente (Algoritmo Escalonado)
 

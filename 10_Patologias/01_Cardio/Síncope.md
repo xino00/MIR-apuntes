@@ -1,6 +1,6 @@
 ---
 aliases: [Síncope, Sincope, Pérdida Transitoria de Consciencia, PTC]
-tags: [urgencias, Cardiología, patologia]
+tags: [urgencias, cardio, patologia]
 ---
 # Síncope
 

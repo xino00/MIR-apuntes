@@ -1,6 +1,6 @@
 ---
 aliases: [Taponamiento Pericárdico, TC]
-tags: [urgencias, Cardiología, patologia, criticos]
+tags: [urgencias, cardio, patologia, criticos]
 ---
 # Taponamiento Cardíaco
 

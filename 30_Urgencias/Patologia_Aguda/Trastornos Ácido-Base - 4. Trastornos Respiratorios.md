@@ -1,6 +1,6 @@
 ---
 aliases: [Acidosis Respiratoria, Alcalosis Respiratoria, Hipercapnia, Hipocapnia]
-tags: [urgencias, neumología, ácido_base, ventilación]
+tags: [urgencias, neumo, ácido_base, ventilación]
 ---
 # Trastornos Ácido-Base - 4. Trastornos Respiratorios
 

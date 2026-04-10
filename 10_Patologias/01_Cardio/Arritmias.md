@@ -1,6 +1,6 @@
 ---
 aliases: [Taquicardia, Bradicardia, Flutter, TV]
-tags: [urgencias, Cardiología, patologia]
+tags: [urgencias, cardio, patologia]
 ---
 # Arritmias (Abordaje General)
 

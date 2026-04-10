@@ -1,3 +1,8 @@
+---
+aliases: [TEP, Tromboembolismo Pulmonar]
+tags: [urgencias, cardio, patologia]
+---
+
 **Fecha de revisión:** 21/03/2026
 **Etiquetas:** #patologia #cardio #neumo #urgencias #TEP
 

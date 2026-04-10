@@ -1,6 +1,6 @@
 ---
 aliases: [HTA Secundaria, Diagnóstico HTA, Cribado de Hipertensión, Causes of Hypertension]
-tags: [Cardiología, HTA, urgencias, diagnóstico]
+tags: [cardio, HTA, urgencias, diagnóstico]
 ---
 # Diagnóstico de Hipertensión y Causas Secundarias
 

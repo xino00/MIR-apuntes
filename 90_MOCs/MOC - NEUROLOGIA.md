@@ -1,3 +1,7 @@
+---
+tags: [moc, neuro]
+description: "Índice de neurología: ictus, cefaleas, epilepsia, enfermedades neuromusculares y coma"
+---
 # 🧠 Neurología
 
 > [!danger] ⚡ Urgencias Neurológicas — Emergencias Máximas
@@ -21,6 +25,7 @@
 
 ## 🌀 Cefaleas
 
+- [[CEFALEA con signos de alarma]] (banderas rojas — cefalea en trueno, fiebre, focalidad)
 - [[Cefaleas - Abordaje Inicial]] (signos de alarma, estatus migrañoso)
 - [[Cefaleas - Situaciones Especiales y Neuralgias]]
 - [[Cefaleas Trigemino-Autonómicas y Tensional]]

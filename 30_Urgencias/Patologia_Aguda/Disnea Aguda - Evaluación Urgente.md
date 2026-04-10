@@ -5,8 +5,8 @@ aliases:
   - Falta de aire
 tags:
   - urgencias
-  - neumología
-  - cardiología
+  - neumo
+  - cardio
   - disnea
 ---
 # Disnea Aguda: Evaluación en Urgencias

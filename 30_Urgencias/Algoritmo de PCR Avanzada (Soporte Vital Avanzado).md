@@ -1,3 +1,13 @@
+---
+tags:
+  - urgencias
+  - patologia
+aliases:
+  - RCP Avanzada
+  - SVA
+  - PCR
+---
+
 # Algoritmo de PCR Avanzada (Soporte Vital Avanzado)
 
 **Fecha de creación:** 20/03/2026

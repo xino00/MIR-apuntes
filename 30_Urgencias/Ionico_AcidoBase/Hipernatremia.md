@@ -1,6 +1,6 @@
 ---
 aliases: [Hipernatremia, Sodio alto, Déficit de agua Libre]
-tags: [urgencias, nefrología, endocrinología, iones]
+tags: [urgencias, nefro, endocrino, iones]
 ---
 # Hipernatremia (Na > 145 mEq/L)
 

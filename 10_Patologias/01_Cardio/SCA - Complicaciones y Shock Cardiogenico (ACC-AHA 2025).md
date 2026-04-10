@@ -1,3 +1,8 @@
+---
+aliases: [SCA Complicaciones, "Shock Cardiogénico"]
+tags: [urgencias, cardio, patologia]
+---
+
 # Sindrome Coronario Agudo - Complicaciones y Shock Cardiogenico (ACC/AHA 2025)
 
 **Fecha de revision:** 25/03/2026

@@ -1,6 +1,6 @@
 ---
 aliases: [Vasculitis de Gran Vaso, ACG, Arteritis de la Temporal, Arteritis de Takayasu]
-tags: [reumatología, vasculitis, urgencias, ceguera]
+tags: [reuma, vasculitis, urgencias, ceguera]
 ---
 # Vasculitis - 1. Gran Vaso (Aorta y Ramas Mayores)
 

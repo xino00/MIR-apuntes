@@ -1,6 +1,6 @@
 ---
 aliases: [PROA Betalactámicos, Dosis Betalactámicos]
-tags: [farmacología, infecciosas, antibioticos]
+tags: [farmaco, infecciosas, antibioticos]
 ---
 # PROA - Betalactámicos, Cefalosporinas y Carbapenémicos
 
@@ -37,7 +37,7 @@ Esta guía detalla la dosificación general, ajustes en enfermedad renal (FG en 
 - **Ajuste Diálisis/TRRC:** HD/DP: 500mg/12-24h (dar dosis post-diálisis).
 - **Ajuste Hepático:** No requiere.
 
-### [[Amoxicilina/Clavulánico]]
+### [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]]
 - **Dosis Estándar (S):** VO 875/125mg / 8h. IV 1g/200mg / 8h.
 - **Dosis Incrementada (I):** IV 2g/200mg / 8h.
 - **Ajuste Renal (S):** FG 10-30: 500/125mg / 12h. FG < 10: 500/125mg / 24h.
