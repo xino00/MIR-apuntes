@@ -90,9 +90,30 @@ When creating medical Obsidian notes, follow this structure:
 
 Use the `/newnote` skill for guided note creation — it handles folder routing, frontmatter, MOC updates, and git commit.
 
+## Skills disponibles
+
+### Skills (slash commands)
+
+| Skill | Uso |
+|---|---|
+| `/newnote` | Crear nota médica guiada (folder routing, frontmatter, MOC update, git commit) |
+| `/research` | Investigar un tema médico |
+| `/organize` | Auditar y limpiar el vault |
+| `/convert` | Convertir documento a nota de Obsidian |
+| `/notes` | Pipeline PDF → múltiples notas de Obsidian |
+
+### Agentes
+
+| Agente | Uso |
+|---|---|
+| `note-reviewer` | Revisar calidad clínica y formal de una nota |
+| `differential-diagnosis` | Diagnóstico diferencial estructurado desde presentación clínica |
+| `clinical-linker` | Detectar wikilinks faltantes y notas huérfanas |
+| `guardia-prep` | Resumen de referencia rápida para guardia o rotación |
+
 ## Plantillas
 
-Las plantillas Templater fueron eliminadas del repositorio. Para crear notas nuevas usar el skill `/newnote`, que aplica la estructura estándar (frontmatter, secciones, MOC update) sin depender de archivos de plantilla.
+Los archivos de plantilla (`99_Plantillas/`) fueron eliminados del repositorio. El plugin Templater sigue activo en Obsidian pero las notas nuevas se crean con el skill `/newnote`, que aplica la estructura estándar (frontmatter, secciones, MOC update) sin depender de archivos de plantilla.
 
 ## Git LFS (Large File Storage)
 
@@ -139,7 +160,7 @@ Cada `git push` lanza automáticamente GitHub Actions → construye Quartz → d
 
 Estos archivos **NUNCA** deben subirse a git (están en `.gitignore`):
 
-- `.obsidian/` — directorio completo de configuración de Obsidian (eliminado del repo)
+- `.obsidian/workspace.json`, `cache/`, `sync.json`, REST API `data.json` — estado local y credenciales (el resto de `.obsidian/` sí está en git para backup de plugins)
 - `.claude/settings.local.json` — configuración local de Claude Code
 - Tokens, credenciales, archivos `.env`
 

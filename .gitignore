@@ -4,7 +4,8 @@
 .obsidian/cache/
 .obsidian/sync.json
 .obsidian/starred.json
-.obsidian/plugins/obsidian-local-rest-api/data.json
+# Plugin data (tokens, caches, preferencias personales)
+.obsidian/plugins/*/data.json
 .trash/
 
 # System files
@@ -36,6 +37,13 @@ yarn-error.log*
 secrets/
 *.pem
 *.key
+
+# AI agent configs
+.agents/
+
+# Binarios grandes en raíz (fotos, PDFs sueltos)
+PXL_*.jpg
+Manual_Urgencias_neurologicas_2023_DIGITAL.pdf
 
 # Temporary text files
 *.txt
