@@ -41,3 +41,6 @@ hint: 'git pull' before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 Sincronización completada.
 Sincronizando apuntes MIR con GitHub...
+Sincronizando apuntes MIR con GitHub...
+error: no se puede pull con rebase: Tienes cambios sin marcar.
+error: Por favor, confírmalos o guárdalos.
