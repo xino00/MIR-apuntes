@@ -33,6 +33,7 @@ description: "Índice de cardiología: hipertensión, insuficiencia cardiaca, SC
 - [[Cardiopatía isquémica]]
 - [[Miocardiopatías]]
 - [[Valvulopatías]]
+- [[Endocarditis Infecciosa]]
 - [[Pericarditis Aguda]]
 - [[TEP - Tromboembolismo Pulmonar]]
 

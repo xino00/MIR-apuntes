@@ -41,7 +41,7 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 - [x] [[Trombosis Venosa Profunda (TVP)|TVP]]
 - [x] [[Síncope]]
 - [x] Hipertensión arterial (8 notas: clasificación, fisiopatología, medición, daño orgánico, riesgo CV, tratamiento farmacológico y no farmacológico, crisis y poblaciones especiales)
-- [ ] Endocarditis infecciosa
+- [x] [[Endocarditis Infecciosa]]
 - [ ] Hipertensión pulmonar
 - [ ] Disección aórtica / síndrome aórtico agudo
 - [ ] Cardiopatías congénitas del adulto
@@ -226,7 +226,7 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 - [ ] Fiebre de origen desconocido (FOD)
 - [ ] VIH/SIDA — diagnóstico y tratamiento antirretroviral
 - [ ] Tuberculosis
-- [ ] Endocarditis infecciosa (ver también Cardio)
+- [x] [[Endocarditis Infecciosa]] (ver también Cardio)
 - [ ] Infecciones fúngicas invasivas
 - [ ] Infecciones en el paciente inmunodeprimido
 - [ ] Parasitosis más frecuentes
