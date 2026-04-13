@@ -6,6 +6,7 @@ aliases:
   - RCP Avanzada
   - SVA
   - PCR
+description: "Algoritmo de RCP avanzada: ritmos desfibrilables vs no desfibrilables, fármacos, causas reversibles (4H/4T)"
 ---
 
 # Algoritmo de PCR Avanzada (Soporte Vital Avanzado)

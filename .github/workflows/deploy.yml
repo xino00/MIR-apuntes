@@ -19,8 +19,8 @@ jobs:
         env:
           FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
-      - name: Clone Quartz
-        run: git clone --depth 1 https://github.com/jackyzha0/quartz.git quartz
+      - name: Clone Quartz (pinned version)
+        run: git clone --depth 1 --branch v4.5.2 https://github.com/jackyzha0/quartz.git quartz
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -70,6 +70,11 @@ jobs:
         env:
           NODE_ENV: production
           NODE_OPTIONS: --max-old-space-size=4096
+
+      - name: Copy static files to public
+        run: |
+          cp $GITHUB_WORKSPACE/.github/_headers quartz/public/_headers
+          cp $GITHUB_WORKSPACE/.github/robots.txt quartz/public/robots.txt
 
       - name: Validate build output and report metrics
         run: |

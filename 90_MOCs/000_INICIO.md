@@ -1,3 +1,9 @@
+---
+title: MIR Apuntes — Medicina de Familia
+description: "Apuntes clínicos de Medicina de Familia: patologías, fármacos, protocolos de urgencias y plantillas de guardia"
+tags: [moc]
+---
+
 # 🏥 Mi Bóveda Clínica
 
 ---

@@ -8,6 +8,7 @@ description: "Índice de cardiología: hipertensión, insuficiencia cardiaca, SC
 > - [[Algoritmo de PCR Avanzada (Soporte Vital Avanzado)]]
 > - [[Insuficiencia cardiaca aguda]]
 > - [[Taponamiento Cardiaco]]
+> - [[Síndrome Aórtico Agudo y Enfermedad Aórtica|Síndrome Aórtico Agudo]]
 > - [[TEP - Tromboembolismo Pulmonar]]
 
 ### 🩺 Hipertensión Arterial (Guía ESC 2024)
@@ -35,6 +36,9 @@ description: "Índice de cardiología: hipertensión, insuficiencia cardiaca, SC
 - [[Valvulopatías]]
 - [[Endocarditis Infecciosa]]
 - [[Pericarditis Aguda]]
+- [[Hipertensión Pulmonar]]
+- [[Síndrome Aórtico Agudo y Enfermedad Aórtica|Síndrome Aórtico Agudo / Aneurismas / EAP]]
+- [[Cardiopatías Congénitas del Adulto]]
 - [[TEP - Tromboembolismo Pulmonar]]
 
 ### 🫀 Síndrome Coronario Agudo

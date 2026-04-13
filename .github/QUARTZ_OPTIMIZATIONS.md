@@ -145,14 +145,75 @@ env:
 
 ---
 
-## 📈 Próximas optimizaciones (Fase 4)
+## 📈 Fase 4: Social Sharing, Estabilidad y Analytics (2026-04-13)
 
-- [ ] Image optimization (sharp/imagemin)
-- [ ] CSS minification
-- [ ] Lazy loading para imágenes
-- [ ] Preload critical fonts
-- [ ] Gzip compression en Cloudflare
-- [ ] Service Worker para offline access
+### 5. Pin de versión de Quartz
+
+```yaml
+# Antes:
+git clone --depth 1 https://github.com/jackyzha0/quartz.git quartz
+
+# Después:
+git clone --depth 1 --branch v4.5.2 https://github.com/jackyzha0/quartz.git quartz
+```
+
+**Beneficio:** Builds reproducibles. Un commit roto en upstream no tumba el sitio.
+
+---
+
+### 6. Dependabot para GitHub Actions
+
+Nuevo archivo `.github/dependabot.yml` — monitoriza `github-actions` ecosystem, checks semanales los lunes. Mantiene `actions/checkout`, `actions/cache`, `cloudflare/wrangler-action` parcheados.
+
+---
+
+### 7. OG Images para social sharing
+
+```typescript
+// quartz.config.ts — emitters
+Plugin.CustomOgImages({ colorScheme: "lightMode" })
+```
+
+Genera automáticamente imágenes 1200×630 por nota usando Satori. Cuando alguien comparte un link por WhatsApp/Telegram, aparece una tarjeta con título y descripción en los colores del sitio.
+
+Se añadió `description:` en frontmatter a las notas de urgencias más compartidas (PCR, Sepsis, Cefaleas, Shock, Disnea, Dolor Torácico, SAA, HP) y a `000_INICIO.md`.
+
+---
+
+### 8. Cache headers para Cloudflare Pages
+
+Nuevo archivo `.github/_headers` → copiado a `quartz/public/` en el build. Assets estáticos (`/static/*`, `*.css`, `*.js`) con `Cache-Control: public, max-age=31536000, immutable`. Quartz hace content-hash de sus assets → seguro para cache inmutable.
+
+---
+
+### 9. robots.txt
+
+Nuevo archivo `.github/robots.txt` → copiado a `quartz/public/`. Permite Googlebot/Bingbot, bloquea GPTBot, CCBot, Google-Extended, anthropic-ai.
+
+---
+
+### 10. Analytics — Plausible
+
+```typescript
+analytics: { provider: "plausible" }
+```
+
+Cookieless, GDPR compliant, ~1KB script. Requiere cuenta en plausible.io con dominio `mirapuntes.pages.dev`.
+
+---
+
+## ❌ Fase 4 original — descartada
+
+Los ítems originales de "Fase 4" no aplican a este vault:
+
+| Ítem | Motivo de descarte |
+|---|---|
+| Image optimization (sharp/imagemin) | < 5 imágenes propias en todo el vault |
+| CSS minification | Quartz ya minifica con `NODE_ENV=production` |
+| Lazy loading para imágenes | Prácticamente no hay imágenes |
+| Preload critical fonts | Quartz gestiona fonts con `cdnCaching: true` |
+| Gzip compression | Cloudflare Pages comprime automáticamente (Brotli) |
+| Service Worker | Complejidad innecesaria para el volumen de tráfico actual |
 
 ---
 
@@ -164,9 +225,18 @@ Después del deploy, verificar:
 # 1. URL pública abre sin errores
 curl -s https://mirapuntes.pages.dev | head -20
 
-# 2. Revisar tamaño de assets en DevTools
-# Chrome DevTools → Network → Size column
+# 2. OG preview — pegar URL de una nota en WhatsApp o usar:
+# https://www.opengraph.xyz/
 
-# 3. Lighthouse performance (idealmente >90)
-# https://mirapuntes.pages.dev (click en URL → click izq → Run Lighthouse)
+# 3. Cache headers
+curl -I https://mirapuntes.pages.dev/static/contentIndex.json
+
+# 4. robots.txt
+curl https://mirapuntes.pages.dev/robots.txt
+
+# 5. Plausible — verificar script cargado
+curl -s https://mirapuntes.pages.dev | grep plausible
+
+# 6. Dependabot — GitHub Settings > Code security
+# 7. Lighthouse performance (idealmente >90)
 ```

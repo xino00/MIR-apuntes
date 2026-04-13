@@ -1,6 +1,7 @@
 ---
 aliases: [Shock hipovolémico, Shock cardiogénico, Shock distributivo, Shock obstructivo, Shock séptico, Shock anafiláctico]
 tags: [urgencias, intensivos, patologia_critica]
+description: "Shock: clasificación (hipovolémico, cardiogénico, obstructivo, distributivo), diagnóstico diferencial y manejo inicial"
 ---
 # Shock
 

@@ -101,6 +101,8 @@ Use the `/newnote` skill for guided note creation — it handles folder routing,
 | `/organize` | Auditar y limpiar el vault |
 | `/convert` | Convertir documento a nota de Obsidian |
 | `/notes` | Pipeline PDF → múltiples notas de Obsidian |
+| `/dosis` | Consulta rápida de dosis desde fichas de fármacos del vault |
+| `/caso` | Formatear y registrar caso clínico para el portfolio |
 
 ### Agentes
 
@@ -173,3 +175,10 @@ When working with git operations, ALWAYS check `git status` and `git diff --stag
 ## Shell Scripting
 
 When writing shell scripts that process filenames, always handle spaces and special characters (use `find -print0 | xargs -0` or proper quoting). Many vault files have UTF-8 BOM (`ef bb bf`) — account for this when parsing frontmatter with shell tools.
+
+## Agent & Parallel Task Rules
+
+- When spawning parallel subagents, ensure they have Bash tool permissions before launching
+- Place custom agents in `.claude/agents/` not `agents/`
+- Never overwrite CLAUDE.md when creating new agents
+- If a task can be done sequentially in under 5 minutes, prefer sequential over parallel

@@ -6,7 +6,7 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 
 # Checklist — Manual del 12 de Octubre
 
-> [!info] Última revisión: 2026-04-08
+> [!info] Última revisión: 2026-04-13
 > `[x]` = tema cubierto en el vault · `[ ]` = pendiente de crear
 > Los wikilinks apuntan a notas existentes.
 
@@ -42,9 +42,9 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 - [x] [[Síncope]]
 - [x] Hipertensión arterial (8 notas: clasificación, fisiopatología, medición, daño orgánico, riesgo CV, tratamiento farmacológico y no farmacológico, crisis y poblaciones especiales)
 - [x] [[Endocarditis Infecciosa]]
-- [ ] Hipertensión pulmonar
-- [ ] Disección aórtica / síndrome aórtico agudo
-- [ ] Cardiopatías congénitas del adulto
+- [x] [[Hipertensión Pulmonar]]
+- [x] [[Síndrome Aórtico Agudo y Enfermedad Aórtica|Disección aórtica / síndrome aórtico agudo]]
+- [x] [[Cardiopatías Congénitas del Adulto]] (nota básica — fuente limitada)
 
 ---
 
@@ -369,7 +369,7 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 | Sección | Cubiertas | Pendientes | % |
 |---|---|---|---|
 | Generalidades | 1 | 6 | 14% |
-| Cardiología | 15 | 4 | 79% |
+| Cardiología | 18 | 1 | 95% |
 | Neumología | 9 | 7 | 56% |
 | Digestivo | 19 | 10 | 66% |
 | Nefrología | 7 | 5 | 58% |
@@ -383,9 +383,9 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 | Urología | 4 | 5 | 44% |
 | Traumatología | 16 | 4 | 80% |
 | Dermatología | 3 | 9 | 25% |
-| Psiquiatría | 0 | 10 | 0% |
+| Psiquiatría | 6 | 4 | 60% |
 | Oncología | 0 | 5 | 0% |
-| **Total** | **~140** | **~131** | **~52%** |
+| **Total** | **~149** | **~122** | **~55%** |
 
 ---
 

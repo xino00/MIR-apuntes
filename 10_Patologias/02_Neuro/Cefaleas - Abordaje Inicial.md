@@ -1,6 +1,7 @@
 ---
 aliases: [Cefaleas Abordaje]
 tags: [urgencias, neuro, patologia]
+description: "Cefaleas en urgencias: red flags SNOOP10, diagnóstico diferencial, indicaciones de neuroimagen y tratamiento"
 ---
 
 # Cefaleas - Abordaje Inicial (SEN 2026)

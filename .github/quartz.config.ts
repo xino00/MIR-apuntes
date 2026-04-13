@@ -6,7 +6,7 @@ const config: QuartzConfig = {
     pageTitle: "MIR · Apuntes",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: { provider: "plausible" },
     locale: "es-ES",
     baseUrl: "mirapuntes.pages.dev",
     mermaid: {
@@ -91,6 +91,7 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
+      Plugin.CustomOgImages({ colorScheme: "lightMode" }),
     ],
   },
 }

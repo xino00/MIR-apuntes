@@ -8,6 +8,7 @@ tags:
   - neumo
   - cardio
   - disnea
+description: "Disnea aguda en urgencias: diagnóstico diferencial, algoritmo de evaluación y tratamiento inicial"
 ---
 # Disnea Aguda: Evaluación en Urgencias
 

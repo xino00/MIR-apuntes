@@ -6,6 +6,7 @@ tags:
 aliases:
   - Sepsis
   - Shock Séptico
+description: "Sepsis y shock séptico: criterios SOFA/qSOFA, bundles de la primera hora, fluidoterapia y vasopresores"
 ---
 # Sepsis y [[Shock]] Séptico
 
