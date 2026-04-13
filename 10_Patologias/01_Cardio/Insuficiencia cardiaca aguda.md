@@ -30,7 +30,7 @@ tags: [urgencias, cardio, patologia]
       3. **Frío y Seco:** Hipoperfusión aislada (Raro, suele haber depleción de volumen).
       4. **Caliente y Seco:** Paciente compensado.
 
-## 🔬 Diagnóstico Diagnóstico 
+## 🔬 Diagnóstico 
 - **Ecoscopia (POCUS):**
     - **Vena Cava Inferior (VCI):** Diámetro > 2,1 cm y colapso < 50% = Congestión Venosa.
     - **Pulmón:** > 3 Líneas B en ≥ 2 zonas/hemitórax = Edema Pulmonar (S/E > 95%).

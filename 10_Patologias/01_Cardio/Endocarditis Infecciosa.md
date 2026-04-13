@@ -24,24 +24,6 @@ En los últimos años aumentan *Staphylococcus* spp. y *Enterococcus* spp., a co
 > [!info] HACEK
 > *Haemophilus* spp., *Aggregatibacter actinomycetemcomitans*, *Cardiobacterium hominis*, *Eikenella corrodens* y *Kingella kingae*.
 
-## Endocarditis Team (ESC 2023)
-
-La ESC 2023 recomienda el manejo por un equipo multidisciplinar (**Endocarditis Team**) en todos los casos de EI complicada (Clase I, nivel B).
-
-**Miembros core:** Cardiólogos, expertos en imagen cardíaca, cirujanos cardiovasculares, infectólogos, microbiólogos, especialista en OPAT.
-**Adjuntos:** Radiólogos/medicina nuclear, neurólogos/neurocirujanos, nefrólogos, farmacólogos, anestesiólogos, intensivistas, geriatras, enfermería, equipos de adicciones, trabajo social.
-
-> [!warning] Criterios de derivación precoz a centro con Endocarditis Team
-> - Inestabilidad hemodinámica o *shock* cardiogénico
-> - Regurgitación valvular severa (clínica o ecocardiográfica)
-> - EI sobre válvula protésica con o sin disfunción protésica
-> - Ictus (isquémico o hemorrágico) con EI definitiva o posible
-> - Complicaciones paravalvulares (absceso, fístula, pseudoaneurisma)
-> - HC persistentemente positivos > 7 días bajo antibioterapia adecuada
-> - Microorganismos agresivos o de difícil tratamiento (*S. aureus*, hongos, gramnegativos no-HACEK)
-> - EI sobre CIED (MP, DAI, TRC)
-> - Embolismo recurrente
-
 ## Clínica
 
 El síntoma más frecuente es la **fiebre** (hasta el 90%). Generalmente asociada a pérdida de peso, anorexia, astenia, sudoración nocturna y escalofríos.

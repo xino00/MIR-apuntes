@@ -55,11 +55,9 @@ tags: [urgencias, cardio, patologia]
 > - Dolor toracico recurrente o refractario
 > - Shock cardiogenico subito
 
-### Recomendaciones Generales
-
-| Recomendacion | COR | LOE |
-| :--- | :--- | :--- |
-| Pacientes con complicacion mecanica deben manejarse en centros con **experiencia en cirugia cardiaca** | **1** | C-EO |
+|                                                              | ****   | C-EO |
+| :----------------------------------------------------------- | :----- | :--- |
+| Recomendacin                                                 | COR    | LOE  |
 | SCM de corta duracion como **puente a cirugia** es razonable | **2a** | B-NR |
 
 ### Tipos de Complicaciones Mecanicas (Figura 9)

@@ -32,6 +32,7 @@ description: "Índice de psiquiatría: urgencias psiquiátricas, trastornos del 
 
 ## 🧩 Otros Trastornos
 
+- [[Trastorno de personalidad]]
 - [[Trastornos de la Conducta Alimentaria]]
 - [[Trastornos Somatomorfos]]
 

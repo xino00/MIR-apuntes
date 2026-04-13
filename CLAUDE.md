@@ -110,6 +110,8 @@ Use the `/newnote` skill for guided note creation — it handles folder routing,
 | `differential-diagnosis` | Diagnóstico diferencial estructurado desde presentación clínica |
 | `clinical-linker` | Detectar wikilinks faltantes y notas huérfanas |
 | `guardia-prep` | Resumen de referencia rápida para guardia o rotación |
+| `vault-tracker` | Cobertura del vault, preparación para rotación, roadmap priorizado |
+| `repaso` | Viñetas clínicas MIR y estudio activo desde notas del vault |
 
 ## Plantillas
 
