@@ -2,6 +2,8 @@
 aliases: [Estreñimiento, Constipación, Fecaloma, Enema]
 tags: [urgencias, digestivo, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"
+fuente: "Manual 12 Octubre 2022, cap. 47 Estreñimiento y obstrucción"
+last_fact_checked: 2026-04-21
 ---
 # Estreñimiento Agudo
 

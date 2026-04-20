@@ -2,6 +2,8 @@
 aliases: [Hipertransaminasemia, Transaminasas elevadas, GOT, GPT, Daño hepático]
 tags: [urgencias, digestivo, hepatologia, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"
+fuente: "Manual 12 Octubre 2022, cap. 41 Hipertransaminasemia"
+last_fact_checked: 2026-04-21
 ---
 # Hipertransaminasemia
 

@@ -2,6 +2,8 @@
 aliases: [HDB, Hemorragia digestiva baja, Hematoquecia, Rectorragia, Oakland Score]
 tags: [urgencias, digestivo, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"
+fuente: "Manual 12 Octubre 2022, cap. 36 HDA/HDB (p. 523)"
+last_fact_checked: 2026-04-21
 ---
 # Hemorragia Digestiva Baja (HDB)
 
