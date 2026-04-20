@@ -1,6 +1,8 @@
 ---
 aliases: [DOMH, Complicaciones de Hipertensión, Target Organ Damage]
 tags: [cardio, patologia, HTA, urgencias, diagnóstico]
+fuente: "ESC 2024 HTA (ehae178) §6.4 + Figura 12"
+last_fact_checked: 2026-04-20
 ---
 # Daño Orgánico Mediado por Hipertensión (DOMH)
 
@@ -19,7 +21,7 @@ El daño orgánico mediado por hipertensión es la alteración estructural o fun
 - **Criterios Ecocardiográficos (ETT):**
   - **Índice de masa ventricular (MVi/altura):** ≥115 g/m² (hombres), ≥95 g/m² (mujeres) = HVI.
   - **Geometría concéntrica del VI:** Aumento de grosor relativo de la pared (grosor/radio ≥0.43).
-  - **Volumen/altura AI (ml/m²):** Dilatación auricular; ≥16 mL/m² (hombres), ≥14 mL/m² (mujeres).
+  - **Volumen AI indexado por altura² (ml/m²):** Dilatación auricular; **>18.5 mL/m² (hombres), >16.5 mL/m² (mujeres)** (Figura 12 ESC 2024).
 - **Pronóstico:** HVI se asocia con aumento de mortalidad por ECV 2-3 veces; su reversión con tratamiento predice mejoría de pronóstico.
 
 ### Disfunción Diastólica
@@ -77,7 +79,7 @@ El daño orgánico mediado por hipertensión es la alteración estructural o fun
 - **Rango A3 (albuminuria grave):** >300 mg/g creatinuria.
 - **Pronóstico:** A2 y A3 predicen progresión a ERC y eventos CV.
 
-### Hiperglucemia Renal
+### Declive de TFGe en ERC hipertensiva
 - **Tasa de filtrado glomerular (TFGe):** Declina en ~3-5 mL/min/año en HTA mal controlada con ERC.
 
 ## 👁️ Daño Oftalmológico
@@ -87,7 +89,7 @@ El daño orgánico mediado por hipertensión es la alteración estructural o fun
   - **Grado I:** Estrechamiento arterial focal.
   - **Grado II:** Cruces arteriovenosos.
   - **Grado III:** Signos de grado II + hemorragias retinianas, exudados, edema de papila ("llama").
-  - **Grado IV:** Papilitis, edema de papila severo ("malva").
+  - **Grado IV:** Papilitis, edema de papila severo (retinopatía maligna).
 - **Pronóstico:** Retinopatía severa (Grado III-IV) predice eventos CV graves.
 
 ## 🫀 Daño de Arterias y Microcirculación

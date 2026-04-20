@@ -1,6 +1,8 @@
 ---
 aliases: [Estadios de Hipertensión, Categorías de PA, Clasificación PA ESC 2024]
 tags: [cardio, HTA, gpc, diagnóstico]
+fuente: "ESC 2024 HTA (ehae178)"
+last_fact_checked: 2026-04-20
 ---
 # Clasificación de la Presión Arterial ESC 2024
 
@@ -12,26 +14,24 @@ tags: [cardio, HTA, gpc, diagnóstico]
 ### PA no elevada (Normal)
 - **PA en consulta:** <120/70 mmHg.
 - **AMPA:** <120/70 mmHg.
-- **MAPA:** PA sistólica <120 mmHg día, <100 mmHg noche; PA diastólica <70 mmHg día, <65 mmHg noche.
+- **MAPA:** diurna <120/70 mmHg; 24 h <115/65 mmHg; nocturna <105/60 mmHg.
 - **Implicación:** Sin riesgo aumentado de ECV; no requiere tratamiento farmacológico; recomendación: estilo de vida saludable.
 
 ### PA Elevada (NUEVA en 2024)
 - **PA en consulta:** 120-139/70-89 mmHg.
 - **AMPA:** 120-134/70-84 mmHg.
-- **MAPA:** PA sistólica 120-134 mmHg día, 100-109 mmHg noche; PA diastólica 70-84 mmHg día, 65-79 mmHg noche.
+- **MAPA:** diurna 120-134/70-84 mmHg; 24 h 115-129/65-79 mmHg; nocturna 105-119/60-69 mmHg.
 - **Implicación:** Riesgo CV aumentado moderadamente; requiere evaluación de riesgo CV; intervenciones en estilo de vida; tratamiento farmacológico si riesgo CV ≥10 % a 10 años.
 - **Novedad:** Esta categoría fue introducida para identificar a pacientes en zona gris entre normal e hipertensión; datos recientes muestran aumento progresivo de riesgo ECV incluso a PA 120-139 mmHg.
 
 ### Hipertensión
 - **PA en consulta:** ≥140/90 mmHg.
 - **AMPA:** ≥135/85 mmHg.
-- **MAPA:** PA sistólica ≥140 mmHg día, ≥120 mmHg noche; PA diastólica ≥90 mmHg día, ≥80 mmHg noche.
+- **MAPA (Tabla 5 ESC 2024):** diurna **≥135/85** mmHg; 24 h **≥130/80** mmHg; nocturna **≥120/70** mmHg.
 - **Implicación:** Riesgo CV significativamente elevado; requiere tratamiento farmacológico (excepto PA elevada 120-139 si riesgo bajo); seguimiento frecuente.
 
-#### Subclasificación de Hipertensión (Grados)
-- **Hipertensión Estadio 1:** 140-159/90-99 mmHg.
-- **Hipertensión Estadio 2:** 160-179/100-109 mmHg.
-- **Hipertensión Estadio 3 (Severa):** ≥180/110 mmHg.
+> [!info] Terminología antigua "Estadios 1-2-3"
+> La ESC 2024 **ya no usa** la subclasificación "Estadio 1 / 2 / 3" de la guía ESC 2018 (superseded). La clasificación actual se simplifica a tres categorías: PA no elevada / PA elevada / Hipertensión (Tabla 4 y Fig. 6 ESC 2024). Los umbrales 140-159 / 160-179 / ≥180 ya no se usan como "estadios" formales, aunque siguen siendo útiles como referencia clínica para estratificar urgencia de manejo.
 
 ## 🎯 Criterios Diagnósticos
 
@@ -42,7 +42,7 @@ tags: [cardio, HTA, gpc, diagnóstico]
 | **Categoría de PA elevada** | No existe | 120-139/70-89 mmHg | **Nueva categoría** |
 | **Umbral inicial HTA** | ≥140/90 (consulta) | ≥140/90 (consulta) | **Sin cambio** |
 | **AMPA para HTA** | ≥135/85 mmHg | ≥135/85 mmHg | **Sin cambio** |
-| **MAPA para HTA** | ≥130/80 mmHg día | ≥140/90 mmHg día; ≥120/80 mmHg noche | **Más alto** |
+| **MAPA para HTA** | ≥130/80 mmHg día | ≥135/85 día; ≥130/80 24h; ≥120/70 noche | **Tabla 5 ESC 2024** |
 | **Énfasis en PA sistólica** | Igual para sistólica y diastólica | **Mayor énfasis en PAS** como predictor de ECV | **Cambio concepto** |
 
 **Justificación del cambio:** Los datos epidemiológicos 2024 demuestran que:
@@ -57,8 +57,11 @@ tags: [cardio, HTA, gpc, diagnóstico]
 
 ### PA Elevada (120-139/70-89)
 - **Si riesgo CV bajo:** Intervenciones en estilo de vida; sin medicamentos.
-- **Si riesgo CV moderado-alto (SCORE2 5-10 %):** Intervenciones en estilo de vida; considerar medicamento si persistente.
-- **Si riesgo CV muy alto (SCORE2 ≥10 %) o ECV establecida:** Medicamento + estilo de vida.
+- **Si riesgo CV bajo-moderado (SCORE2 <10 %):** Intervenciones en estilo de vida; considerar medicamento si persistente.
+- **Si riesgo CV alto (SCORE2 ≥10 % a 10 años, ECV establecida, ERC, DM, DOMH o HF):** Medicamento + estilo de vida tras 3 meses de cambios de estilo de vida (Clase I-A).
+
+> [!tip] SCORE2 — umbral único ESC HTA 2024
+> La ESC HTA 2024 **descarta los cutoffs específicos por edad** de la guía ESC Prevención 2021 y usa un **umbral único ≥10 % de riesgo ECV a 10 años** (SCORE2 / SCORE2-OP) como criterio de "riesgo suficientemente alto" para iniciar farmacoterapia en PA elevada (§6.3.1, p.30).
 
 ### Hipertensión (≥140/90)
 - **Todas las situaciones:** Medicamento + estilo de vida.
@@ -77,8 +80,8 @@ tags: [cardio, HTA, gpc, diagnóstico]
 
 ### MAPA (Monitorización Ambulatoria)
 - **Utilidad:** Diagnóstico definitivo si AMPA no disponible; evaluación de variabilidad 24 h; hipotensión nocturna.
-- **Requisito para diagnóstico:** MAPA ≥140/90 mmHg día, ≥120/80 mmHg noche.
-- **Nota:** En la mayoría de los casos, MAPA diurna ≥140/90 es suficiente para diagnóstico.
+- **Requisito para diagnóstico:** MAPA diurna ≥135/85 mmHg, 24 h ≥130/80 mmHg o nocturna ≥120/70 mmHg (Tabla 5 ESC 2024).
+- **Nota:** En la mayoría de los casos, MAPA 24 h ≥130/80 o diurna ≥135/85 es suficiente para diagnóstico.
 
 ## 🚨 Hipertensión Verdaderamente Resistente vs. Aparente
 

@@ -1,6 +1,8 @@
 ---
 aliases: [Medicamentos HTA, Fármacos Antihipertensivos, IECA, ARA2, BCC, Tiazidas]
 tags: [cardio, HTA, farmaco]
+fuente: "ESC 2024 HTA (ehae178) Tablas 3-4 + §9.8"
+last_fact_checked: 2026-04-20
 ---
 # Tratamiento Farmacológico de la Hipertensión
 
@@ -9,14 +11,20 @@ tags: [cardio, HTA, farmaco]
 
 ## 🎯 Cuándo Iniciar Tratamiento Farmacológico
 
-### PA ≥140/90 mmHg
+### Definiciones ESC 2024 (§2.1, p.9)
+
+> [!important] Categorías de PA ESC 2024 (nueva clasificación formal)
+> - **PA no elevada:** <120/70 mmHg en consulta.
+> - **PA elevada (NUEVA categoría ESC 2024):** 120-139 / 70-89 mmHg en consulta. **No equivale** a "PA normal alta" ni "prehipertensión" de guías previas.
+> - **Hipertensión:** ≥140/90 mmHg en consulta.
+
+### PA ≥140/90 mmHg (Hipertensión)
 - **Indicación:** Siempre iniciar medicamentos en hipertensión confirmada (≥140/90).
 - **Objetivo:** Reducir riesgo ECV; beneficios claros demostrados en todos los grupos de edad.
 
 ### PA 120-139/70-89 (PA Elevada)
-- **Si riesgo CV bajo:** Intervención en estilo de vida; sin medicamentos (al menos inicialmente).
-- **Si riesgo CV moderado-alto (SCORE2 5-<10 %):** Considerar medicamentos si PA persiste tras 3-6 meses de intervención en estilo de vida.
-- **Si riesgo CV muy alto (SCORE2 ≥10 %) o ECV previa:** Iniciar medicamentos + estilo de vida.
+- **Umbral de inicio farmacológico (Clase I-A, ESC 2024 Tabla 3):** Tras **3 meses de cambios de estilo de vida**, iniciar farmacoterapia si PA confirmada **≥130/80 mmHg** en pacientes con **riesgo CV alto** (SCORE2 ≥10 % a 10 años, ECV establecida, ERC, DM, DOMH o HF).
+- **Riesgo CV bajo-moderado (SCORE2 <10 %):** Intervención en estilo de vida; sin medicamentos (al menos inicialmente).
 
 ## 💊 Clases de Fármacos Antihipertensivos
 
@@ -170,7 +178,7 @@ Se recomienda combinación de dosis bajas desde el inicio en lugar de monoterapi
 1. **Paso 1:** Monoterapia inicial (aunque preferible doble terapia baja dosis).
 2. **Paso 2 (si PA no controlada tras 1 mes):** Doble terapia con dosis bajas.
 3. **Paso 3 (si aún no controlada):** Triple terapia con dosis bajas (IECA/ARA2 + BCC + tiazida).
-4. **Paso 4:** Dosis máximas toleradas de los tres fármacos o adición de cuarta clase (antagonista aldosterona, betabloqueante, alfabloqueante).
+4. **Paso 4 (Clase I-A, ESC 2024 Tabla 4):** Añadir **espironolactona (25-50 mg/día)** como 4.ª línea preferida si PA no controlada y K⁺ ≤4.5 mmol/L, TFGe ≥30 mL/min/1.73 m². Si no efectiva o no tolerada: eplerenona, BB, antihipertensivo central (p.ej. moxonidina), alfa-bloqueante o hidralazina (Clase IIa-B).
 5. **Paso 5:** Si aún sin control → evaluar HTA resistente, causas secundarias, denervación renal.
 
 ### Selección Individualizada por Comorbilidad
@@ -180,7 +188,7 @@ Se recomienda combinación de dosis bajas desde el inicio en lugar de monoterapi
 | **Proteinuria/ERC** | IECA/ARA2 | Renoproteción; reduce proteinuria |
 | **Post-IAM/Angina** | IECA + Betabloqueante | Cardioprotección; reduce isquemia |
 | **IC con FEVI baja** | IECA/ARA2 + Betabloqueante ± antagonista aldosterona | Mejoría de FEVI; supervivencia |
-| **IC con FEVI preservada** | BCC dihidropiridínico; antagonista calcio no-dihidropiridínico | Menos afectación de llenado |
+| **IC con FEVI preservada (HFpEF)** | IECA/ARA2 + diurético ± iSGLT2 | Evitar BCC no-DHP si disfunción sistólica (ESC 2024 §9.8, p.71-73) |
 | **Fibrilación auricular** | Betabloqueante + IECA/ARA2 | Control de FC; control de PA |
 | **Diabetes** | IECA/ARA2 | Renoproteción; metabolismo glucosa favorable |
 | **Ancianos/Fragilidad** | BCC dihidropiridínico o tiazida | Mejor tolerancia; menos hipotensión ortostática |

@@ -1,6 +1,8 @@
 ---
 aliases: [HTA Resistente, Hipertensión Refractaria, Crisis Hipertensiva, Emergencia Hipertensiva, Urgencia Hipertensiva, HTA Maligna]
 tags: [cardio, HTA, urgencias]
+fuente: "ESC 2024 HTA + Manual 12 Octubre 2022 (cap. 14)"
+last_fact_checked: 2026-04-20
 ---
 # Hipertensión Resistente y Crisis Hipertensiva
 
@@ -149,13 +151,13 @@ Paso 3 → Alfabloqueante / agente central / ahorrador K⁺ (IIa/B)
 | **Ictus hemorrágico** (PAS >180) | PAS <180 (H12O) / **140-160** (ESC, IIa/A) | [[Labetalol]], [[Nicardipino]] | [[Urapidilo]] |
 | **Encefalopatía hipertensiva** | ↓ PAM 20-25 % inmediato | [[Labetalol]], [[Nicardipino]] | [[Nitroprusiato]] |
 | **Sd. aórtico agudo** | PAS **<120** + FC **<60 lpm** inmediato | [[Esmolol]] + nitratos, [[Nicardipino]] | [[Labetalol]], [[Metoprolol]] |
-| **Preeclampsia / Eclampsia** | PAS <160, PAD <105 | [[Labetalol]] IV, [[Nicardipino]] IV + MgSO₄ (I/C) | [[Hidralazina]] IV (2.ª línea) |
+| **Preeclampsia / Eclampsia** | PAS <160, PAD <105 (ingreso si **≥170/110 I/C** o **≥160/110 IIa/C** — ESC 2024 §10.4.1) | [[Labetalol]] IV, [[Nicardipino]] IV + MgSO₄ (I/C) | [[Hidralazina]] IV (2.ª línea) |
 
 #### Fármacos IV (ESC 2024 + H12O, Tabla 8)
 
 | Fármaco | Posología | Inicio / Duración | CI / Precauciones | EA |
 |---|---|---|---|---|
-| **[[Labetalol]]** | Bolo **20 mg** (ESC) / **50 mg** (H12O); perfusión 200 mg/200 ml a 20 ml/h | 5-10 min / 3-6 h | BAV, asma, shock cardiogénico | Bradicardia, hipotensión ortostática |
+| **[[Labetalol]]** | Bolo **20 mg** [`VERIFICAR-Tabla S13 Material Suplementario ESC 2024`] / **50 mg** (H12O); perfusión 200 mg/200 ml a 20 ml/h | 5-10 min / 3-6 h | BAV, asma, shock cardiogénico | Bradicardia, hipotensión ortostática |
 | **[[Nicardipino]]** | Perfusión 5 mg/100 ml a 5-15 ml/h; ↑ 2,5 ml/h c/15 min | 5-10 min / 1-4 h | Insuficiencia hepática | Cefalea, taquicardia |
 | **[[Urapidilo]]** (H12O) | Bolo **25 mg** IV; perfusión 250 mg/250 ml a 10-30 ml/h | 3-5 min / 4-6 h | Angioedema previo | Cefalea, náuseas, vértigo |
 | **[[Nitroglicerina]]** | Perfusión 50 mg/250 ml a 5-40 ml/h; ↑ c/5 min | 1-5 min / 3-5 min | - | Cefalea, taquicardia |

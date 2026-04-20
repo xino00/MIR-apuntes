@@ -1,6 +1,8 @@
 ---
 aliases: [HTA en Poblaciones Especiales, HTA Embarazo, HTA Ancianos, HTA Diabetes, HTA ERC]
 tags: [cardio, HTA, crónico]
+fuente: "ESC 2024 HTA (ehae178) + CHAP trial (NEJM 2022)"
+last_fact_checked: 2026-04-20
 ---
 # Hipertensión en Poblaciones Especiales
 
@@ -36,7 +38,8 @@ tags: [cardio, HTA, crónico]
 - **Dispositivos:** Validados; precaución con MAPA en embarazo (algunos desaconsejan).
 
 ### Tratamiento Hipertensión Crónica en Embarazo
-- **Objetivo PA:** <140/90 mmHg (sistólica <140; diastólica <90 tolerada, NO sobrepasar en general por riesgo fetopalaciencia).
+- **Umbral inicio tratamiento:** PA ≥140/90 mmHg confirmada (Clase I-B, **NUEVO** ESC 2024 basado en **CHAP trial**; antes se usaba ≥150/95).
+- **Objetivo PA:** <140/90 mmHg. **PAD NO <80 mmHg** (riesgo de hipoperfusión útero-placentaria; Clase I-C ESC 2024).
 - **Intervención en estilo de vida:** Restricción de sodio moderada; actividad física controlada.
 - **Medicamentos iniciales:**
   - **[[Metildopa]]:** Primera línea tradicional; seguridad demostrada.
@@ -57,8 +60,11 @@ tags: [cardio, HTA, crónico]
 
 ### Preeclampsia
 - **Criterios diagnósticos:** PA ≥140/90 TRAS 20 semanas + proteinuria ≥300 mg/24h O síntomas/signos de disfunción orgánica.
+- **Umbrales de ingreso/emergencia hipertensiva obstétrica (ESC 2024 §10.4.1):**
+  - PA **≥170/110 mmHg** → ingreso + tratamiento IV urgente (Clase I-C).
+  - PA **≥160/110 mmHg** → considerar ingreso (Clase IIa-C).
 - **Manejo urgente:** Ingreso; evaluación de feto; considerar terminación de embarazo si ≥34 semanas.
-- **Fármacos para crisis:** Labetalol IV; metildopa oral; nifedipino IR sublingual (no ideal pero usado).
+- **Fármacos para crisis:** **Labetalol IV** o **nicardipino IV** + MgSO₄ (Clase I-C ESC 2024, Tabla 33); **nifedipino oral liberación prolongada** (NO sublingual — efecto impredecible). Hidralazina IV como 2.ª línea.
 - **Profilaxis:** Sulfato de magnesio IV ≥37 semanas o si síntomas neurológicos sospechosos.
 
 ## 👵 Ancianos (≥65 años, especialmente ≥85 años)
@@ -69,10 +75,11 @@ tags: [cardio, HTA, crónico]
 - **Fragilidad:** Evaluación necesaria; objetivo PA puede ser más permisivo en fragilidad severa.
 - **Polifarmacia:** Interacciones; adherencia deficiente; efectos adversos amplificados.
 
-### Objetivos PA
-- **Ordinarios (<85 años, no frágiles):** PA sistólica 120-129 mmHg si se tolera.
-- **Frágiles o ≥85 años:** PA sistólica 130-139 mmHg (o incluso más alto si fragilidad severa).
-- **Muy anciano (>85 años):** Considerar individualización extrema; may prioritize quality of life.
+### Objetivos PA (ESC 2024 — Recomendaciones revisadas p.12, 15-16)
+- **<85 años, no frágiles:** PAS **120-129 mmHg** si se tolera (Clase I-A).
+- **≥85 años SIN fragilidad:** **Mismo objetivo 120-129 mmHg** (Clase I-A) — la edad per se no justifica objetivos más laxos.
+- **Fragilidad moderada-grave o esperanza de vida <3 años:** PAS **<140 mmHg** (Clase IIb-C).
+- **Evitar hipotensión ortostática sintomática** como criterio de individualización.
 
 ### Medicamentos Preferidos
 - **BCC dihidropiridínicos:** Excelente tolerancia; bajo riesgo hipotensión ortostática.
@@ -86,8 +93,9 @@ tags: [cardio, HTA, crónico]
 - HTA presente en ~50 % de diabéticos tipo 2.
 - HTA y diabetes multiplican riesgo ECV sinergia.
 
-### Objetivos PA
-- **General:** PA sistólica 120-129 mmHg si se tolera.
+### Objetivos PA (ESC 2024, p.16 Clase I-A)
+- **General (<65 años):** PAS **120-129 mmHg** si se tolera.
+- **≥65 años con DM:** PAS **130-139 mmHg** (rango más flexible, Clase I-A).
 - **Con ERC moderada-grave (TFGe <30):** Considerar objetivo ligeramente más flexible (130-140) si hipotensión sintomática.
 
 ### Medicamentos

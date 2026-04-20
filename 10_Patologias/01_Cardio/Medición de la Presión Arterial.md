@@ -1,6 +1,8 @@
 ---
 aliases: [Medición de PA, Técnica de Medición, MAPA, AMPA, Presión Arterial Sistémica]
 tags: [cardio, HTA, diagnóstico, urgencias]
+fuente: "ESC 2024 HTA (ehae178) Tabla 5"
+last_fact_checked: 2026-04-20
 ---
 # Medición de la Presión Arterial
 
@@ -82,10 +84,10 @@ tags: [cardio, HTA, diagnóstico, urgencias]
 - **Dispositivo:** Automatizado; brazalete de tamaño apropiado; período ≥24 h.
 - **Programa:** Medidas cada 15-30 minutos durante día (generalmentede 7 a.m. a 11 p.m.); cada 30-60 minutos noche (11 p.m. a 7 a.m.).
 - **Interpretación:** Requiere ≥70 % de lecturas válidas (equivale a ≥35 durante día, ≥20 durante noche para validez estadística).
-- **Valores de referencia MAPA:**
-   - **PA no elevada:** <120/70 mmHg día, <100/65 mmHg noche.
-   - **PA elevada:** 120-139/70-89 mmHg día, 100-110/65-79 mmHg noche.
-   - **Hipertensión:** ≥140/90 mmHg día, ≥120/80 mmHg noche.
+- **Valores de referencia MAPA (Tabla 5 ESC 2024):**
+   - **PA no elevada:** diurna <120/70 · 24h <115/65 · nocturna <105/60 mmHg.
+   - **PA elevada:** diurna 120-134/70-84 · 24h 115-129/65-79 · nocturna 105-119/60-69 mmHg.
+   - **Hipertensión:** diurna **≥135/85** · 24h **≥130/80** · nocturna **≥120/70** mmHg.
 
 ### Parámetros MAPA
 1. **Promedio de 24 h, día, noche.**

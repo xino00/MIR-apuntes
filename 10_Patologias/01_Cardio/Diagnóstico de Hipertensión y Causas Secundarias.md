@@ -1,6 +1,8 @@
 ---
 aliases: [HTA Secundaria, Diagnóstico HTA, Cribado de Hipertensión, Causes of Hypertension]
 tags: [cardio, HTA, urgencias, diagnóstico]
+fuente: "ESC 2024 HTA (ehae178)"
+last_fact_checked: 2026-04-20
 ---
 # Diagnóstico de Hipertensión y Causas Secundarias
 
@@ -54,7 +56,7 @@ Ver nota [[Daño Orgánico Mediado por Hipertensión]] para criterios específic
 ## 🔴 Cribado de Hipertensión Secundaria
 
 Considerar en:
-- **Edad <30 años con HTA.**
+- **Edad <40 años con HTA diagnosticada** (Clase I-B, ESC 2024 — cribado exhaustivo en adultos jóvenes).
 - **Inicio abrupto de HTA a cualquier edad.**
 - **HTA refractaria a ≥3 fármacos.**
 - **Características clínicas sugestivas** (ver tabla 13 para causas específicas).
@@ -69,7 +71,7 @@ Considerar en:
   - Hipopotasemia espontánea (si no en diurético).
   - FA (por hipopotasemia).
   - Debilidad muscular y tetania (si hipopotasemia grave).
-- **Cribado:** Ratio aldosterona-renina (RAR) ≥20 ng/dL per pg/mL/h en sangre matinal con paciente upright ≥2 horas.
+- **Cribado:** Ratio aldosterona-renina (RAR) elevado en sangre matinal con paciente en bipedestación ≥2 h; el cutoff absoluto depende del ensayo local `[VERIFICAR con laboratorio de referencia]`.
 - **Confirmación:** Test de supresión salina (ingesta 9 g NaCl/día × 3 días → PAC <6 ng/dL descarta PAC); resonancia magnética adrenal si sospecha adenoma unilateral; cateterismo suprarrenal si resultados contradictorios o planificación quirúrgica.
 - **Tratamiento:** Antagonistas de receptor de mineralocorticoides ([[Espironolactona]], eplerenona); cirugía si adenoma único con hipokalemia.
 
@@ -154,7 +156,7 @@ Considerar en:
 2. **Estudio inicial:** Laboratorio obligatorio (glucosa, lípidos, sodio, potasio, creatinina, TFGe, ácido úrico, TSH); ECG; RAC en orina.
 3. **Evaluación de DOMH:** ECG (buscar HVI); ecocardiograma si HVI o riesgo elevado; otras pruebas según sospecha clínica.
 4. **Cribado de secundaria:**
-   - **Si edad <30 años, HTA refractaria, o características sugestivas:**
+   - **Si edad <40 años (Clase I-B ESC 2024), HTA refractaria, o características sugestivas:**
      - RAR (aldosteronismo).
      - Renina plasmática + catecolaminas/metanefrinas (feocromocitoma).
      - Imagen de arterias renales (Doppler, TC, RM).

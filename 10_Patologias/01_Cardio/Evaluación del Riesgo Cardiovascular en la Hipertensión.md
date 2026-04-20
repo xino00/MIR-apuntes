@@ -1,6 +1,8 @@
 ---
 aliases: [Riesgo CV en HTA, SCORE2, Estratificación de Riesgo, DOMH modificadores]
 tags: [cardio, HTA, riesgo_cv, diagnóstico]
+fuente: "ESC 2024 HTA (ehae178) §6.3.1"
+last_fact_checked: 2026-04-20
 ---
 # Evaluación del Riesgo Cardiovascular en la Hipertensión
 
@@ -42,23 +44,25 @@ Los siguientes pacientes tienen riesgo ECV suficientemente alto para justificar 
    - Confirmada genéticamente o clínicamente.
 
 8. **Antecedentes Familiares de ECV Prematura:**
-   - Familiares de primer grado con ECV <60 años (mujeres), <55 años (hombres).
+   - Familiares de primer grado con ECV: **varón <55 años / mujer <65 años** (criterio estándar europeo, consistente con Figura 8 ESC 2024).
 
 ## 📈 Calculadoras de Riesgo SCORE2 y SCORE2-OP
 
 ### SCORE2 (para edad 40-69 años)
 - **Variables:** Edad, sexo, PA sistólica, colesterol total, colesterol HDL, tabaquismo.
-- **Resultado:** Riesgo de mortalidad por ECV a 10 años (%).
-- **Criterios:**
-  - **Riesgo bajo:** <1 %.
-  - **Riesgo moderado:** 1-<2.5 %.
-  - **Riesgo alto:** 2.5-<5 %.
-  - **Riesgo muy alto:** ≥5 %.
-- **Interpretación:** Un SCORE2 ≥5 % en personas sin ECV previa se considera "suficientemente alto riesgo" para justificar medicamentos agresivos.
+- **Resultado:** Riesgo de ECV fatal + no fatal a 10 años (%).
+
+> [!danger] Umbral único ESC HTA 2024 — ≥10 % a 10 años
+> La ESC HTA 2024 **utiliza un único umbral de riesgo ≥10 % a 10 años** (SCORE2 / SCORE2-OP) como criterio de "riesgo CV suficientemente alto" para iniciar farmacoterapia en PA elevada tras 3 meses de cambios de estilo de vida (§6.3.1, p.30).
+>
+> La guía **descarta explícitamente los cutoffs por edad** de la guía ESC Prevención 2021 (<1 %, 1-2.5 %, 2.5-5 %, ≥5 %), que ya **no aplican** en el contexto HTA 2024.
+>
+> - **Riesgo bajo-moderado:** SCORE2 <10 % → estilo de vida.
+> - **Riesgo alto ("suficientemente alto"):** SCORE2 ≥10 % → farmacoterapia si PA ≥130/80 (Clase I-A).
 
 ### SCORE2-OP (para edad ≥70 años)
 - **Ventaja:** Calibrado específicamente para poblaciones de edad avanzada; mejor discriminación de riesgo en ancianos.
-- **Criterios:** Similares a SCORE2.
+- **Criterio ESC HTA 2024:** Mismo umbral único ≥10 % a 10 años.
 - **Nota:** No se recomienda SCORE2 en mayores de 70 años; usar SCORE2-OP.
 
 ### Limitaciones y Uso Clínico
@@ -81,7 +85,7 @@ Estos factores se consideran en **mujeres jóvenes** para reclasificación a may
 Aplican a ambos sexos; elevan riesgo de ECV:
 
 1. **Etnia de Alto Riesgo:** Etnias africana, asiática del sur, mediterránea pueden tener riesgo aumentado a igual SCORE2.
-2. **Antecedentes Familiares de ECV Prematura:** Padre <55 años, madre <65 años con ECV.
+2. **Antecedentes Familiares de ECV Prematura:** Familiar de primer grado varón <55 años o mujer <65 años con ECV.
 3. **Privación Socioeconómica:** Bajo nivel educativo, ingresos, empleo asociados con mayor riesgo.
 4. **Enfermedades Autoinmunitarias/Inflamatorias:**
    - Lupus eritematoso sistémico.
@@ -127,11 +131,9 @@ Aplican a ambos sexos; elevan riesgo de ECV:
 ## 🎯 Algoritmo de Estratificación de Riesgo en HTA
 
 1. **Evaluar situaciones de alto riesgo inherente:** Si presente, tratar antihipertensivos inmediatamente.
-2. **Si ausentes, calcular SCORE2/SCORE2-OP:**
-   - Si <1 %: Bajo riesgo; intervenciones en estilo de vida; sin medicamentos.
-   - Si 1-2.5 %: Moderado; considerar modificadores + clínica.
-   - Si 2.5-5 %: Alto; medicamentos si PA elevada; intensificar estilo de vida.
-   - Si ≥5 %: Muy alto; medicamentos antihipertensivos; considerar pruebas adicionales.
+2. **Si ausentes, calcular SCORE2/SCORE2-OP (umbral único ESC HTA 2024):**
+   - **SCORE2 <10 %:** Riesgo bajo-moderado → intervenciones en estilo de vida; considerar modificadores de riesgo.
+   - **SCORE2 ≥10 %:** Riesgo "suficientemente alto" → farmacoterapia si PA ≥130/80 confirmada tras 3 meses de cambios de estilo de vida (Clase I-A).
 3. **Buscar modificadores de riesgo:** Si presentes, considerar reclasificación a riesgo superior.
 4. **Si discrepancia clínica:** Considerar pruebas adicionales (biomarquedores, ecocardiograma, prueba de estrés).
 5. **Decisión terapéutica:** Basada en riesgo global estimado + PA + DOMH + preferencia paciente.
