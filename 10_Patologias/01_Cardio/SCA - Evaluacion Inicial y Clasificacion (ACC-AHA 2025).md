@@ -1,6 +1,8 @@
 ---
 aliases: ["SCA Evaluación Inicial"]
 tags: [urgencias, cardio, patologia]
+fuente: "ACC/AHA 2025 SCA (Rao et al, Circulation 2025;151:e771-e862)"
+last_fact_checked: 2026-04-20
 ---
 
 # Sindrome Coronario Agudo - Evaluacion Inicial y Clasificacion (ACC/AHA 2025)
@@ -41,10 +43,10 @@ tags: [urgencias, cardio, patologia]
 > - **Hombres ≥ 40 anos:** ≥ 2 mm en V2-V3, ≥ 1 mm en el resto.
 > - **Hombres < 40 anos:** ≥ 2.5 mm en V2-V3, ≥ 1 mm en el resto.
 > - **Mujeres (cualquier edad):** ≥ 1.5 mm en V2-V3, ≥ 1 mm en el resto.
-> - **Derivaciones posteriores (V7-V9):** ≥ 0.5 mm.
-> - **Derivaciones derechas (V3R-V4R):** ≥ 0.5 mm (≥ 1 mm en hombres < 30 anos).
+> - **Derivaciones posteriores (V7-V9):** ≥ 0.5 mm (*cutoffs de la Definición Universal de IM, Thygesen 2018; la guía ACC/AHA 2025 recomienda registrar V7-V9 sin cifra específica*).
+> - **Derivaciones derechas (V3R-V4R):** ≥ 0.5 mm (≥ 1 mm en hombres < 30 anos) (*Definición Universal de IM, Thygesen 2018*).
 >
-> *Bloqueo de rama izquierda (BRI) de nueva aparicion + clinica compatible = equivalente de STEMI.*
+> *BRI nuevo o presumiblemente nuevo + clínica isquémica compatible = considerar como equivalente STEMI. **BRI nuevo aislado en paciente asintomático NO es equivalente STEMI** (ACC/AHA 2025 Tabla 3).*
 
 ---
 
@@ -58,7 +60,6 @@ tags: [urgencias, cardio, patologia]
 > | Transporte directo a centro con ICP si tiempo PCM-balon **≤ 90 min** | **1** | A |
 > | Si se requiere traslado interhospitalario: objetivo PCM-balon **≤ 120 min** | **1** | A |
 > | Prenotificacion al hospital receptor antes de la llegada | **1** | B-NR |
-> | Si IAMCEST + hipotension y tiempo estimado hasta hospital > 60 min: considerar **antibioticos prehospitalarios** (protocolos locales) | **2a** | C-EO |
 
 ---
 
@@ -91,6 +92,12 @@ Variables (1 punto cada una, maximo 7): edad ≥ 65, ≥ 3 factores de riesgo CV
 ---
 
 ## ⚡ Evaluacion Inicial en Urgencias
+
+### Antiagregación inicial
+
+| Recomendacion | COR | LOE |
+| :--- | :--- | :--- |
+| **AAS 162-325 mg masticada (no recubierta)** lo antes posible si no hay contraindicación | **1** | A |
 
 ### Oxigenoterapia
 

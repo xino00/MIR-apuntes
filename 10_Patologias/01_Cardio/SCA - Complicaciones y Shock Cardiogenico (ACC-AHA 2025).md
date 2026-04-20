@@ -1,6 +1,8 @@
 ---
 aliases: [SCA Complicaciones, "Shock Cardiogénico"]
 tags: [urgencias, cardio, patologia]
+fuente: "ACC/AHA 2025 SCA (Rao et al, Circulation 2025;151:e771-e862)"
+last_fact_checked: 2026-04-20
 ---
 
 # Sindrome Coronario Agudo - Complicaciones y Shock Cardiogenico (ACC/AHA 2025)
@@ -55,10 +57,9 @@ tags: [urgencias, cardio, patologia]
 > - Dolor toracico recurrente o refractario
 > - Shock cardiogenico subito
 
-|                                                              | ****   | C-EO |
-| :----------------------------------------------------------- | :----- | :--- |
-| Recomendacin                                                 | COR    | LOE  |
-| SCM de corta duracion como **puente a cirugia** es razonable | **2a** | B-NR |
+| Recomendacion | COR | LOE |
+| :--- | :--- | :--- |
+| SCM de corta duracion (BIAC, Impella, VA-ECMO) como **puente a cirugia** en complicaciones mecanicas del IM | **2a** | B-NR |
 
 ### Tipos de Complicaciones Mecanicas (Figura 9)
 
@@ -103,6 +104,11 @@ tags: [urgencias, cardio, patologia]
 - **TV/FV en las primeras 48h:** Generalmente relacionada con reperfusion; no implica necesariamente indicacion de DAI a largo plazo.
 
 #### Indicaciones para DAI (Tabla 17)
+
+> [!warning] Plazos obligatorios antes de implantar DAI post-IM
+> - **≥ 40 dias post-IM** (MADIT II, DINAMIT)
+> - **≥ 90 dias post-revascularizacion** (ICP o CABG)
+> - Esperanza de vida **> 1 ano** con buen estado funcional
 
 | FEVI | Criterio Adicional |
 | :--- | :--- |

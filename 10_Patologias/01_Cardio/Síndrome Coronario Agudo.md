@@ -7,6 +7,7 @@ tags:
   - SCA
 fecha_revision: 2026-03-30
 fuentes: ACC-AHA 2025, ESC 2023
+last_fact_checked: 2026-04-20
 ---
 
 > [!danger] RED FLAGS — Actuar en <10 min
@@ -99,7 +100,7 @@ fuentes: ACC-AHA 2025, ESC 2023
 | Fármaco | Dosis | Indicación | Notas |
 |---|---|---|---|
 | **O2** | Solo si SpO2 <90% | Todos | Evitar hiperoxia (daño isquémico) |
-| **AAS** | 300 mg VO masticar | Todos | Inmediato al diagnóstico |
+| **AAS** | **162-325 mg VO masticada (no entérica)** → 75-100 mg/día | Todos | Inmediato al diagnóstico (ACC/AHA 2025 Clase I LOE A) |
 | **Morfina** | 2-4 mg IV (repetir c/5 min) | Dolor severo | Puede enmascarar síntomas; valorar riesgo |
 | **NTG** | 0,4 mg sublingual c/5 min (máx 3) | Dolor, HTA, EAP | **CI: TAS <90, uso PDE-5i <24-48h, infarto VD** |
 | **Betabloqueante** | Metoprolol 25-50 mg VO | SCACEST/SCASEST estable | **CI: bradicardia, bloqueo AV, IC descompensada, broncoespasmo** |
@@ -109,7 +110,7 @@ fuentes: ACC-AHA 2025, ESC 2023
 | Escenario | AAS | P2Y12 | Duración |
 |---|---|---|---|
 | SCACEST (ICP) | 75-100 mg | **Ticagrelor 180 mg carga → 90 mg/12h** | 12 meses |
-| SCACEST (fibrinólisis) | 75-100 mg | **Clopidogrel 300 mg carga → 75 mg/día** | ≥14 días → valorar ticagrelor |
+| SCACEST (fibrinólisis) | 75-100 mg | **Clopidogrel: 300 mg carga → 75 mg/día si ≤75 años; sin carga (75 mg/día directo) si >75 años** | ≥14 días → valorar ticagrelor |
 | SCASEST (ICP) | 75-100 mg | **Ticagrelor** o **Prasugrel 60 mg → 10 mg/día** | 12 meses |
 | SCASEST (no ICP) | 75-100 mg | **Ticagrelor** o Clopidogrel | 12 meses |
 
@@ -145,7 +146,16 @@ Síntomas → Diagnóstico → Decisión:
 - Desaparición del dolor
 - Arritmias de reperfusión (RIVA)
 
-**CI absolutas fibrinólisis:** ACV hemorrágico previo, ACV isquémico <6 meses, TCE/cirugía <3 semanas, hemorragia activa, disección aórtica, neoplasia SNC
+**CI absolutas fibrinólisis (ACC/AHA 2025 Tabla 14):**
+- ACV hemorrágico previo (cualquier momento)
+- **ACV isquémico <3 meses** (excepto ictus isquémico agudo <4.5 h, que puede ser indicación de fibrinolisis específica)
+- **Cirugía intracraneal o espinal <2 meses**
+- TCE significativo <3 meses
+- Neoplasia intracraneal maligna conocida
+- MAV / aneurisma cerebral conocido
+- Sospecha de disección aórtica
+- Sangrado activo o diátesis hemorrágica (excluye menstruación)
+- **HTA grave no controlada** (PAS >180 o PAD >110 mmHg no respondiente)
 
 ### SCASEST — Estrategia invasiva según riesgo
 
@@ -174,7 +184,7 @@ Síntomas → Diagnóstico → Decisión:
 | **Estatina alta intensidad** | Todos | Atorvastatina 40-80 mg o Rosuvastatina 20-40 mg; LDL <55 mg/dL |
 | **IECA/ARA-II** | FEVI <40%, HTA, DM, ERC | Ramipril; iniciar precoz |
 | **Betabloqueante** | FEVI <40%, arritmias | Bisoprolol/Carvedilol |
-| **Eplerenona/Espironolactona** | FEVI <40% + síntomas IC o DM | Eplerenona 25-50 mg si TFGe >30 y K+<5 |
+| **Eplerenona/Espironolactona** | FEVI <40% + síntomas IC o DM | Eplerenona 25-50 mg si **K+ ≤5,0 mmol/L y creatinina ≤2,5 mg/dL** (evitar en ERC avanzada; criterios EPHESUS) |
 | **SGLT2i** | IC asociada o DM | Dapagliflozina/Empagliflozina |
 
 ### Rehabilitación cardíaca
@@ -224,7 +234,7 @@ Síntomas → Diagnóstico → Decisión:
 |---|---|---|---|
 | Protocolo TnAs | 0/1/2h | 0/1h (preferido) | 0/1h o 0/3h |
 | P2Y12 preferido | Ticagrelor/Prasugrel > Clopidogrel | Ticagrelor preferente | Ticagrelor |
-| Duración DAPT | 12 meses estándar; reducir a 6m si alto riesgo hemorrágico | 12 meses; 6m si HBR | 12 meses |
+| Duración DAPT | 12 meses estándar; en HBR considerar **monoterapia con ticagrelor ≥1 mes post-PCI (I-A)** o **de-escalation a clopidogrel tras 1 mes (IIb-B)** | 12 meses; 6m si HBR | 12 meses |
 | Morfina | Usar con precaución (retrasa absorción P2Y12) | Similar cautela | Similar |
 | O2 sistemático | Solo si SpO2 <90% | Solo si SpO2 <90% | Solo si SpO2 <90% |
 

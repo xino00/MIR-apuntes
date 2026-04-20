@@ -1,6 +1,8 @@
 ---
 aliases: ["SCA Tratamiento Médico"]
 tags: [urgencias, cardio, patologia]
+fuente: "ACC/AHA 2025 SCA (Rao et al, Circulation 2025;151:e771-e862)"
+last_fact_checked: 2026-04-20
 ---
 
 # Sindrome Coronario Agudo - Tratamiento Medico (ACC/AHA 2025)
@@ -43,8 +45,8 @@ tags: [urgencias, cardio, patologia]
 | Recomendacion | COR | LOE |
 | :--- | :--- | :--- |
 | En IAMCEST con ICP primaria: administrar P2Y12 **lo antes posible** (al diagnostico o en sala de cateterismo) | **1** | A |
-| En IAMSEST con cateterismo precoz (< 24h): es razonable diferir el P2Y12 **hasta conocer la anatomia coronaria** (por si se indica CABG) | **2a** | B-R |
-| **Pretratamiento** con P2Y12 antes de conocer anatomia: **no ha demostrado beneficio claro** cuando el cateterismo es precoz | **2b** | B-R |
+| En IAMSEST con cateterismo **anticipado < 24 h**: no hay recomendación formal de pretratamiento — juicio clínico; razonable diferir el P2Y12 hasta conocer la anatomía coronaria (por si se indica CABG) | — | — |
+| En IAMSEST con **angiografía anticipada > 24 h**: pretratamiento upstream con clopidogrel o ticagrelor puede considerarse | **2b** | B-NR |
 
 ### Cangrelor IV
 
@@ -143,11 +145,12 @@ tags: [urgencias, cardio, patologia]
 | Inicio **oral** en las primeras **24 horas** en pacientes hemodinamicamente estables | **1** | A |
 | **NO** administrar si signos de IC (Killip II-IV), riesgo de shock cardiogenico, BAV de 2o-3er grado, o broncoespasmo activo | **3: Dano** | B-R |
 
-- Farmacos habituales: **[[Metoprolol]]** 25-50 mg VO cada 6-12h, titular hasta 200 mg/dia. **[[Carvedilol]]** 6.25-25 mg VO cada 12h (si FEVI reducida). **[[Bisoprolol]]** 2.5-10 mg/dia.
+- Farmacos habituales: **[[Metoprolol]] tartrato 25-50 mg VO/12h** (escalar hasta 100 mg/12h) o **metoprolol succinato 25-200 mg/día** en una toma; iniciar a dosis baja en las primeras 24 h si hemodinámicamente estable (ACC/AHA 2025 recomienda "low dose with slow escalation"). **[[Carvedilol]]** 6.25-25 mg VO cada 12h (si FEVI reducida). **[[Bisoprolol]]** 2.5-10 mg/dia.
 - Objetivo: FC 50-60 lpm en reposo, sin hipotension.
 
-> [!info] Factores de Riesgo de Shock Cardiogenico (evitar BB)
-> Edad > 70 anos, FC > 110, PAS < 120, Killip ≥ II, IAMCEST anterior, bloqueo AV.
+> [!info] Contraindicaciones ACC/AHA 2025 (COR 3: Harm) para BB en fase aguda
+> Killip II-IV o signos de bajo gasto, BAV de 2º-3er grado sin marcapasos, bradicardia severa, broncoespasmo activo, intervalo PR > 240 ms.
+> *Los criterios clásicos "edad >70, FC >110, PAS <120" proceden del ensayo COMMIT (2013) y ya no son la referencia formal en la guía 2025.*
 
 ---
 
@@ -161,7 +164,7 @@ tags: [urgencias, cardio, patologia]
 | **ARA-II** si intolerancia a IECA (mismas indicaciones) | **1** | A |
 | IECA/ARA-II razonables en **todos** los pacientes con SCA de alto riesgo | **2a** | A |
 
-- Inicio en las primeras **24 horas** si hemodinamicamente estable (PAS > 100 mmHg).
+- Inicio en las primeras **24 horas** si hemodinámicamente estable. *(El cutoff "PAS > 100 mmHg" es práctica clínica habitual; no aparece como recomendación formal en ACC/AHA 2025.)*
 - Farmacos habituales: **[[Ramipril]]** 2.5-10 mg/dia, **[[Enalapril]]** 2.5-20 mg cada 12h, **[[Valsartán]]** 40-160 mg cada 12h.
 
 ### Antagonistas del Receptor de Mineralocorticoides (ARM)

@@ -1,6 +1,8 @@
 ---
 aliases: [SCA Manejo Hospitalario]
 tags: [urgencias, cardio, patologia]
+fuente: "ACC/AHA 2025 SCA (Rao et al, Circulation 2025;151:e771-e862)"
+last_fact_checked: 2026-04-20
 ---
 
 # Sindrome Coronario Agudo - Manejo Hospitalario y Prevencion Secundaria (ACC/AHA 2025)
@@ -113,7 +115,7 @@ tags: [urgencias, cardio, patologia]
 
 | Estrategia | Momento | COR | LOE |
 | :--- | :--- | :--- | :--- |
-| Transicion a **monoterapia con ticagrelor** (suspender AAS) tras **≥ 1 mes** post-ICP | **1** | A |
+| Transicion a **monoterapia con ticagrelor** (suspender AAS) tras **≥ 1 mes** post-ICP **en pacientes que han tolerado DAPT con ticagrelor** | **1** | A |
 | **IBP** (omeprazol, pantoprazol) si alto riesgo de sangrado GI, en combinacion con DAPT o ACO | **1** | A |
 | **Desescalamiento** (cambiar de ticagrelor/prasugrel a clopidogrel) despues de **1 mes** | **2b** | B-R |
 | Transicion a **monoterapia antiagregante unica** (AAS o P2Y12) tras 1 mes si alto riesgo hemorragico | **2b** | B-R |
@@ -164,7 +166,7 @@ tags: [urgencias, cardio, patologia]
 | Panel lipidico en ayunas **4-8 semanas** tras el inicio o ajuste de terapia hipolipemiante para evaluar respuesta y adherencia | **1** | C-LD |
 
 - Objetivo: reduccion de **LDL-C ≥ 50%** y/o **LDL-C < 70 mg/dL** (idealmente < 55 mg/dL en muy alto riesgo).
-- Si no se alcanza objetivo con estatina de maxima intensidad → anadir ezetimiba y/o inhibidor de PCSK9.
+- Si no se alcanza objetivo con estatina de maxima intensidad → anadir **ezetimiba, inhibidor de PCSK9 (evolocumab/alirocumab), inclisiran o ácido bempedoico** (ACC/AHA 2025 Top Take-Home Message #3).
 - **No** reducir dosis de estatina por LDL-C muy bajo: LDL-C muy bajo se asocia con menor riesgo CV sin problemas de seguridad claros.
 
 ---

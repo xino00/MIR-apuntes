@@ -1,6 +1,8 @@
 ---
 aliases: ["SCA Reperfusión"]
 tags: [urgencias, cardio, patologia]
+fuente: "ACC/AHA 2025 SCA (Rao et al, Circulation 2025;151:e771-e862)"
+last_fact_checked: 2026-04-20
 ---
 
 # Sindrome Coronario Agudo - Reperfusion y Revascularizacion (ACC/AHA 2025)
@@ -61,7 +63,7 @@ tags: [urgencias, cardio, patologia]
 | **Alteplasa** | 15 mg bolo + 0.75 mg/kg (max 50 mg) en 30 min + 0.50 mg/kg (max 35 mg) en 60 min | **Infusion 90 min** | Dosis total max 100 mg. |
 
 > [!info] Reduccion de Dosis de Tenecteplasa
-> En pacientes ≥ 75 anos, algunos protocolos sugieren **mitad de dosis** de tenecteplasa.
+> En pacientes ≥ 75 anos, **el ensayo STREAM** (estrategia farmacoinvasiva) usó **mitad de dosis** de tenecteplasa. La guía ACC/AHA 2025 (Tabla 13) mantiene dosis completa ajustada por peso sin reducción específica por edad — la reducción por edad aplica a **enoxaparina**, no a TNK.
 
 ### Contraindicaciones de la Fibrinolisis (Tabla 14)
 
@@ -71,10 +73,11 @@ tags: [urgencias, cardio, patologia]
 - Sospecha de diseccion aortica
 - Sangrado activo o diatesis hemorragica (excluyendo menstruacion)
 - Traumatismo craneoencefalico cerrado o facial significativo < 3 meses
-- Cirugia intracraneal o espinal < 3 meses
+- Cirugia intracraneal o espinal **< 2 meses**
+- HTA grave no respondiente (PAS > 180 o PAD > 110 mmHg que no se controla con tratamiento agudo)
 
 **Relativas:**
-- HTA grave no controlada (PAS > 180 mmHg)
+- HTA grave no controlada en la presentación (PAS > 180 o **PAD > 110 mmHg**) — absoluta si no respondiente
 - ACV isquemico > 3 meses
 - RCP prolongada (> 10 min) o cirugia mayor < 3 semanas
 - Puncion vascular no compresible
