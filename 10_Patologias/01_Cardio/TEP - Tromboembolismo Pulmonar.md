@@ -1,6 +1,8 @@
 ---
 aliases: [TEP, Tromboembolismo Pulmonar]
 tags: [urgencias, cardio, patologia]
+fuente: "AHA/ACC 2026 Acute PE Guideline (Creager et al, 2026) + Manual 12 Octubre 2022"
+last_fact_checked: 2026-04-20
 ---
 
 **Fecha de revisión:** 21/03/2026
@@ -20,8 +22,8 @@ La nueva clasificación categoriza a los pacientes de A a E para guiar el manejo
 
 | Categoría | Descripción | Manejo Sugerido |
 | :--- | :--- | :--- |
-| **A** | Asintomático | Alta desde Urgencias |
-| **B** | Sintomático, severidad baja (sPESI 0) | Alta precoz / Seguimiento ambulatorio |
+| **A** | Subclínico (incidental, asintomático) | **Iniciar DOAC** + alta a domicilio con seguimiento ambulatorio (no requiere hospitalización) |
+| **B** | Sintomático, severidad baja (PESI I-II / sPESI=0 / Hestia=0). Subcategorías B1 (subsegmental) y B2 (no subsegmental) | **Iniciar HBPM**, alta precoz / seguimiento ambulatorio |
 | **C** | Elevado riesgo clínico, biomarcadores (+) o disfunción VD | Hospitalización (Telemetría) |
 | **D** | Insuficiencia cardiopulmonar incipiente | Hospitalización (UCI/Semicríticos) |
 | **E** | Fallo cardiopulmonar (Hipotensión persistente/Shock) | Hospitalización + Terapias Avanzadas |
@@ -44,7 +46,7 @@ La nueva clasificación categoriza a los pacientes de A a E para guiar el manejo
 
 ## 🔬 Evaluación y Criterios
 ### 1. Regla PERC (PE Rule-Out Criteria)
-*Usar solo si la probabilidad clínica es baja (<15%). Si cumple todos, no hacer más pruebas.*
+*Usar solo si la probabilidad clínica es baja (<15%). **TODOS los 8 criterios deben ser negativos** para descartar TEP sin más pruebas.*
 - Edad < 50 años.
 - FC < 100 lpm.
 - SaO2 ≥ 95%.
@@ -100,9 +102,9 @@ La nueva clasificación categoriza a los pacientes de A a E para guiar el manejo
     - **HBPM (LMWH):** De elección (Enoxaparina 1mg/kg/12h o 1.5mg/kg/24h).
     - **HNF (UFH):** Solo si inestabilidad extrema o previsión de procedimientos inminentes.
 - **Terapias Avanzadas (Cat. E/D):**
-    - Fibrinolisis sistémica.
-    - Trombectomía mecánica percutánea (recomenda por PERT).
-    - Embolectomía quirúrgica.
+    - **Cat E1/D1-D2:** trombólisis sistémica / CDL (trombólisis dirigida por catéter) / trombectomía mecánica percutánea / embolectomía quirúrgica — **COR 2a**.
+    - **Cat C2-C3:** trombólisis solo si bajo riesgo hemorrágico — **COR 2b**.
+    - **Activar PERT (Pulmonary Embolism Response Team) en Cat C-E — COR 1**.
 
 ### Mantenimiento / Alta
 - **ACOD (DOACs):** Preferidos sobre AVK (Apixabán, Rivaroxabán, Edoxabán, Dabigatrán). Limitación principal: Insuficiencia renal grave (FG < 30 ml/min).

@@ -2,11 +2,13 @@
 aliases: [HP, HAP, Hipertensión Arterial Pulmonar, HPTEC]
 tags: [cardio, patologia, urgencias]
 description: Hipertensión pulmonar - clasificación, diagnóstico, tratamiento y situaciones especiales
+fuente: "ESC/ERS 2022 Pulmonary Hypertension (ehac237) + Manual 12 Octubre 2022 cap. 21"
+last_fact_checked: 2026-04-20
 ---
 
 # Hipertensión Pulmonar (HP)
 
-**Fuente:** Manual 12 de Octubre, Cap. 21, pp. 318-331.
+**Fuente:** ESC/ERS 2022 Pulmonary Hypertension + Manual 12 de Octubre, Cap. 21, pp. 318-331.
 
 ## Definición
 
@@ -52,9 +54,12 @@ La presión arterial pulmonar media (PAPm) normal es **14 mmHg** (± 3,3 mmHg) m
 
 | Definición | PAPm | PCP | RVP | Grupo clínico |
 |---|---|---|---|---|
-| **HP precapilar** | > 20 mmHg | ≤ 15 mmHg | ≥ 3 UW | 1, 3, 4 y 5 |
-| **HP poscapilar aislada** | > 20 mmHg | > 15 mmHg | < 3 UW | 2 y 5 |
-| **HP combinada pre- y poscapilar** | > 20 mmHg | > 15 mmHg | ≥ 3 UW | 2 y 5 |
+| **HP precapilar** | > 20 mmHg | ≤ 15 mmHg | **> 2 UW** | 1, 3, 4 y 5 |
+| **HP poscapilar aislada** | > 20 mmHg | > 15 mmHg | **≤ 2 UW** | 2 y 5 |
+| **HP combinada pre- y poscapilar** | > 20 mmHg | > 15 mmHg | **> 2 UW** | 2 y 5 |
+
+> [!warning] Cambio ESC/ERS 2022 — umbral RVP **>2 WU** (antes ≥3)
+> La guía **ESC/ERS 2022** (Tabla 5) redujo el cutoff hemodinámico de resistencia vascular pulmonar de **≥3 UW a >2 UW** para definir HP precapilar y combinada. `[OUTDATED-MANUAL — el Manual 12 Oct 2022 todavía usa ≥3 UW].`
 
 ## Clínica
 
@@ -92,7 +97,7 @@ Proceso escalonado: **sospecha clínica → confirmación → establecer causa �
 - **Grupo 2 (cardiopatía izquierda):** si ETT muestra probabilidad alta/intermedia y enfermedad cardíaca evidente → concluido. Si FEVI preservada → fenotipo clínico (edad, FR, FA, cardiopatía estructural, ECG, ETT).
 - **Grupo 3 (enfermedad pulmonar):** PFR, gasometría, DLCO, TACAR.
 - **Grupo 4 (HPTEC):** **gammagrafía V/Q** (no angio-TC, que puede no detectar HPTEC). Si defectos segmentarios → angio-TC pulmonar + CCD + angiografía.
-- **HAP (grupo 1):** CCD con PAPm > 20, PCP < 15, RVP ≥ 3 UW. Pruebas para etiología: hemograma, bioquímica, función tiroidea, serologías VHB/VHC/VIH, autoinmunidad (ANA, anti-SCL-70, antifosfolípido), test genético, DLCO, eco abdominal, TACAR, RM cardíaca.
+- **HAP (grupo 1):** CCD con PAPm > 20, PCP ≤ 15, **RVP > 2 UW (ESC/ERS 2022)**. Pruebas para etiología: hemograma, bioquímica, función tiroidea, serologías VHB/VHC/VIH, autoinmunidad (ANA, anti-SCL-70, antifosfolípido), test genético, DLCO, eco abdominal, TACAR, RM cardíaca.
 
 > [!important] HPTEC: gammagrafía V/Q, NO angio-TC
 > La angio-TC puede no detectar la HPTEC. La prueba de cribado de elección para el grupo 4 es la **gammagrafía de ventilación/perfusión**.

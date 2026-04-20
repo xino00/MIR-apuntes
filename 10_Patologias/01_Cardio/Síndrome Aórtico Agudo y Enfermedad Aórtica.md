@@ -1,12 +1,14 @@
 ---
-aliases: [SAA, Disección Aórtica, Aneurisma Aórtico, EAP, Enfermedad Arterial Periférica, Isquemia Arterial Aguda]
+aliases: [SAA, Disección Aórtica, Aneurisma Aórtico, EAP, Enfermedad Arterial Periférica, Isquemia Arterial Aguda, ADD-RS]
 tags: [cardio, patologia, urgencias]
 description: Síndrome aórtico agudo (disección, hematoma intramural, úlcera penetrante), aneurismas aórticos y enfermedad arterial periférica
+fuente: "ESC 2024 PAD y Aorta (ehae179) + Manual 12 Octubre 2022 cap. 20"
+last_fact_checked: 2026-04-20
 ---
 
 # Síndrome Aórtico Agudo y Enfermedad Aórtica
 
-**Fuente:** Manual 12 de Octubre, Cap. 20, pp. 304-317.
+**Fuente:** ESC 2024 Aortic and Peripheral Arterial Diseases + Manual 12 de Octubre, Cap. 20, pp. 304-317.
 
 ---
 
@@ -65,9 +67,17 @@ Engloba tres entidades:
 
 **Prueba de elección: angio-TC de aorta.** Permite valorar extensión y compromiso de ramas viscerales.
 
+> [!tip] Estratificación pretest — ADD-RS (Aortic Dissection Detection Risk Score, ESC 2024 §7.2, Clase I-B)
+> Suma 1 punto por cada **categoría** con ≥1 criterio presente (máx. 3):
+> 1. **Condiciones de alto riesgo:** Marfan u otras conectivopatías, historia familiar de SAA, valvulopatía aórtica conocida, aneurisma/manipulación aórtica reciente.
+> 2. **Dolor de alto riesgo:** torácico/abdominal/espalda de **inicio súbito, intensidad alta, carácter lancinante/desgarrador**.
+> 3. **Exploración de alto riesgo:** déficit de pulso o diferencia de PA entre extremidades, déficit neurológico focal (+ dolor), soplo de IAo nueva, hipotensión/shock.
+>
+> **Interpretación:** **ADD-RS ≤1 + D-dímero negativo (<500 ng/mL)** → probabilidad pretest muy baja → la angio-TC **puede diferirse** con seguridad. **ADD-RS ≥2** → angio-TC urgente **independientemente del D-dímero**.
+
 **Algoritmo diagnóstico:** Dolor torácico súbito, lancinante y/o migratorio →
 1. **ECG** → descartar [[Síndrome Coronario Agudo|SCA]]
-2. **Analítica** → dímero D ↑ (inespecífico)
+2. **Calcular ADD-RS + analítica** con dímero D (regla de exclusión solo si ADD-RS ≤1)
 3. **Examen físico** → asimetría de pulsos, soplo diastólico aórtico
 4. **Rx tórax** → signos inespecíficos (ensanchamiento mediastínico, cardiomegalia)
 5. Si sospecha → **angio-TC de aorta**

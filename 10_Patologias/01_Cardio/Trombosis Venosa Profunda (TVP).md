@@ -1,9 +1,14 @@
 ---
 aliases: [TVP, Trombosis venosa profunda, Trombosis, Flebotrombosis, Wells TVP]
 tags: [urgencias, cardio, hemato, patologia]
+fuente: "Manual 12 Octubre 2022 + Protocolos FJD (pendiente ASH 2020 VTE / ACCP CHEST 2021)"
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"
+last_fact_checked: 2026-04-20
 ---
 # Trombosis Venosa Profunda (TVP)
+
+> [!warning] Nota incompleta — pendiente sección de tratamiento
+> Esta nota cubre factores de riesgo, clínica, diagnóstico (Wells, D-dímero) y criterios de ingreso, pero **NO incluye sección de tratamiento** (anticoagulación, DOACs/AVK, duración 3 meses vs prolongada) ni profilaxis primaria. Auditoría 2026-04-20 la marca como gap estructural; pendiente validar contra **ASH 2020 VTE (Ortel et al, Blood Adv 2020;4:4693)** y **ACCP CHEST 2021** antes de completar.
 
 > [!warning] 🚨 Signos de Alarma
 > - TVP masiva (iliofemoral y flegmasia cerulea dolens) → ingreso
@@ -51,7 +56,7 @@ Incluye la trombosis venosa profunda (TVP) y el tromboembolismo pulmonar (TEP).
 
 | FR FUERTES (OR>10) | FR MODERADOS (OR 2-9) | FR DÉBILES (OR <2) |
 | --- | --- | --- |
-| Trauma grave, Fx huesos largos / recambio rodilla / cadera.  Ingreso por IAM, IC o FA <3m previos Lesión de médula espinal ETEV previa | Artroscopia de rodilla Infección (neumonía, ITU, VIH) Ca activo, QT Enf. autoinmune, EII IC crónica o IResp Trombofilia, trandfusión. Puerperio, ACHO.  Catéter central. Ictus con parálisis MMII AP TVS | Qx laparoscópica Encamamiento >3d o inmovilización sentado (viaje >6-8h) Edad avanzada HTA DM Obesidad Embarazo Venas varicosas |
+| Trauma grave, Fx huesos largos / recambio rodilla / cadera.  Ingreso por IAM, IC o FA <3m previos Lesión de médula espinal ETEV previa | Artroscopia de rodilla Infección (neumonía, ITU, VIH) Ca activo, QT Enf. autoinmune, EII IC crónica o IResp Trombofilia, transfusión. Puerperio, ACHO.  Catéter central. Ictus con parálisis MMII AP TVS | Qx laparoscópica Encamamiento >3d o inmovilización sentado (viaje >6-8h) Edad avanzada HTA DM Obesidad Embarazo Venas varicosas |
 
 #### TROMBOSIS VENOSA PROFUNDA (TVP)
 CLÍNICA: dolor, edema, eritema, aumento de temperatura y diámetro, dilatación venosa superficial, cordón venoso palpable y signos de Homans.
