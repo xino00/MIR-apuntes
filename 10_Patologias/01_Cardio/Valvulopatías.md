@@ -1,10 +1,12 @@
 ---
 aliases: [Valvulopatías, Estenosis Mitral, Insuficiencia Mitral, Estenosis Aórtica]
 tags: [urgencias, cardio, patologia]
+fuente: "ESC/EACTS VHD 2025 + Manual 12 Octubre 2022 cap. 18"
+last_fact_checked: 2026-04-20
 ---
 # Valvulopatías Mitral y Aórtica
 
-**Fuente:** Manual 12 de Octubre, Cap. 18.
+**Fuente:** ESC/EACTS VHD 2025 + Manual 12 de Octubre, Cap. 18.
 **Concepto clave:** Afectación anatómica y/o funcional de las válvulas cardíacas que genera sobrecarga de presión (Estenosis) o de volumen (Insuficiencia) en las cavidades.
 
 ## 1. Valvulopatía Mitral
@@ -30,6 +32,9 @@ Cierre defectuoso que produce reflujo sistólico del VI a la AI.
   1. **Cirugía:** Reparación valvular de elección sobre el recambio protésico, si afecta la clase funcional (NYHA II-IV con FEVI > 30%).
   2. **Percutáneo (MitraClip®):** Para pacientes sintomáticos con riesgo quirúrgico inasumible y anatomía idónea.
 
+> [!info] Criterios cuantitativos para IM primaria severa asintomática (ESC/EACTS VHD 2025 §9.1.4, Clase IIa-B)
+> En paciente **asintomático** con IM primaria severa **sin disfunción ventricular** (LVESD <40 mm, LVESDi <20 mm/m², **FEVI >60%**), considerar reparación quirúrgica (bajo riesgo, centros expertos) si hay **dilatación auricular significativa**: **LAVI ≥60 mL/m²** o **diámetro AI ≥55 mm**.
+
 ---
 
 ## 2. Valvulopatía Aórtica
@@ -44,7 +49,11 @@ Obstrucción al flujo entre el VI y la Aorta. (Área normal 3-4 cm², severa < 1
 - **Exploración:** Soplo sistólico eyectivo romboidal en foco aórtico, rudo, irradiado a carótidas/ápex (Gallavardin). Pulso *parvus et tardus* (ascenso lento y retrasado). Reducción del segundo ruido (A2).
 - **Ecocardiograma (ETT):** Área valvular < 1 cm², Gradiente medio > 40 mmHg, Velocidad máxima > 4 m/s.
 - **Prueba de Esfuerzo:** *Recomendada* si asintomático. **Contraindicada** si sintomático.
-- **Tratamiento:** Su indicación principal es la aparición de síntomas, momento en que el pronóstico empeora drásticamente (Cirugía de Reemplazo Valvular - SAVR o Percutáneo - TAVI).
+- **EAo bajo flujo / bajo gradiente con FEVI conservada (paradójica):** Considerar intervención en pacientes sintomáticos con **SVi ≤35 mL/m²**, **gradiente medio <40 mmHg** y **FEVI ≥50%** (ESC/EACTS VHD 2025 §8.4.1, Clase IIa-B) — subtipo clásicamente infradiagnosticado en ancianos hipertensos.
+- **Tratamiento (ESC/EACTS VHD 2025 §8.5 — umbral actualizado):**
+  - **TAVI Clase I-A en ≥70 años** con anatomía favorable (antes ≥75 en VHD 2021).
+  - **SAVR Clase I-B en <70 años** con riesgo quirúrgico bajo.
+  - Entre 70 y 75 años, la decisión se individualiza en Heart Team según fragilidad, vía de acceso y preferencia del paciente.
 
 ### 🔗 Enlaces / Bibliografía
 - [[Miocardiopatías]]

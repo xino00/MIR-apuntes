@@ -2,6 +2,8 @@
 aliases: [EI, Endocarditis, Endocarditis bacteriana]
 tags: [urgencias, cardio, infecciosas, patologia]
 description: "Endocarditis infecciosa: criterios diagnósticos ESC 2023, tratamiento antibiótico empírico y dirigido, indicaciones de cirugía, complicaciones y profilaxis"
+fuente: "ESC 2023 Endocarditis (ehad193) + Manual 12 Octubre 2022 cap. 66"
+last_fact_checked: 2026-04-20
 ---
 # Endocarditis Infecciosa
 
@@ -140,7 +142,7 @@ Iniciar **inmediatamente tras la extracción de los HC** iniciales (3 juegos a i
 
 | Situación | Pauta | Duración | Clase/Nivel |
 |---|---|---|---|
-| **MSSA, válvula nativa** | (Flu)[[Cloxacilina]] 12 g/día i.v. o [[Cefazolina]] 6 g/día i.v. (ambas primera línea). Valorar asociar daptomicina ≥ 10 mg/kg/24 h hasta negativización de HC | 4-6 sem (2 sem en EI derecha) | I / B |
+| **MSSA, válvula nativa** | (Flu)[[Cloxacilina]] **12 g/día i.v. en 4-6 dosis** o [[Cefazolina]] **6 g/día i.v. en 3 dosis (2 g/8 h)** (ambas primera línea). Valorar asociar daptomicina ≥ 10 mg/kg/24 h hasta negativización de HC | 4-6 sem (2 sem en EI derecha) | I / B |
 | **MRSA, válvula nativa** | [[Vancomicina]] 30-60 mg/kg/día i.v. (niveles valle 10-15 mg/L). Alternativa: daptomicina ≥ 10 mg/kg/24 h + [[Cloxacilina]], ceftarolina o [[Fosfomicina]] | 4-6 sem | I / B (vanco); IIb / C (dapto combo) |
 | **Válvula protésica/dispositivo, MSSA** | (Flu)cloxacilina o cefazolina + rifampicina 900 mg/día v.o. **solo tras 3-5 días de ATB efectiva y aclaramiento de bacteriemia** + gentamicina 2 sem | ≥ 6 sem | I / B |
 | **Válvula protésica/dispositivo, MRSA** | Vancomicina + rifampicina (tras 3-5 días) + gentamicina 2 sem | ≥ 6 sem | I / B |
@@ -155,8 +157,8 @@ Iniciar **inmediatamente tras la extracción de los HC** iniciales (3 juegos a i
 
 | CMI penicilina | Pauta | Duración | Clase/Nivel |
 |---|---|---|---|
-| **< 0,125 mg/l** | Penicilina G, amoxicilina o [[Ceftriaxona]] 2 g/24 h | 4 sem NVE / 6 sem PVE | I / B |
-| **< 0,125 mg/l (régimen corto)** | Ceftriaxona 2 g/24 h + [[Gentamicina]] 3 mg/kg/24 h (solo NVE no complicada sin riesgo renal) | 2 semanas | I / B |
+| **< 0,125 mg/l** | **Penicilina G 12-18 MU/día i.v. en 4-6 dosis o perfusión continua**, **Amoxicilina 12 g/día i.v. en 4-6 dosis** o [[Ceftriaxona]] 2 g/24 h | 4 sem NVE / 6 sem PVE | I / B |
+| **< 0,125 mg/l (régimen corto)** | **Penicilina G 12-18 MU/día**, **Amoxicilina 12 g/día** o Ceftriaxona 2 g/24 h **+ [[Gentamicina]] 3 mg/kg/24 h en dosis única** (solo NVE no complicada sin riesgo renal) | 2 semanas | I / B |
 | **0,125-2 mg/l** | Penicilina G, amoxicilina o ceftriaxona (dosis altas) + gentamicina 2 sem | 4 sem NVE / 6 sem PVE | I / B |
 | **Alergia a betalactámicos** | [[Vancomicina]] 30 mg/kg/día i.v. (4 sem NVE / 6 sem PVE; +gentamicina 2 sem en PVE) | 4-6 sem | I / C |
 
@@ -225,7 +227,7 @@ Hasta la mitad de los pacientes con EI tienen indicación quirúrgica durante la
 > **Prevención de embolias:**
 > - Vegetaciones ≥ 10 mm + embolismo a pesar de ATB adecuada → cirugía urgente (Clase I)
 > - Vegetaciones ≥ 10 mm + otra indicación quirúrgica → cirugía urgente (Clase I)
-> - Vegetaciones ≥ 10 mm aisladas sin embolismo con disfunción valvular severa o bajo riesgo quirúrgico → considerar cirugía urgente (Clase IIb)
+> - Vegetaciones ≥ 10 mm aisladas **sin disfunción valvular severa, sin embolismo y con bajo riesgo quirúrgico** → considerar cirugía urgente (Clase IIb / B, ESC 2023 Tabla 4)
 
 ### Ictus y timing quirúrgico (ESC 2023)
 
@@ -302,7 +304,7 @@ Solo recomendada en pacientes de **alto riesgo** (ESC 2023, Recommendation Table
 
 | Procedimiento | Profilaxis |
 |---|---|
-| **Dental (gingival, periapical, perforación de mucosa oral)** | No alérgicos: amoxicilina 2 g v.o. DU (alternativas: ampicilina 2 g i.v., cefalexina 2 g i.v., cefazolina 1 g i.v. DU). Alérgicos: clindamicina 600 mg v.o. DU |
+| **Dental (gingival, periapical, perforación de mucosa oral)** | No alérgicos: **amoxicilina 2 g v.o. DU** (alternativas: ampicilina 2 g i.m./i.v., **cefalexina 2 g v.o.** [solo existe v.o., no i.v.], cefazolina o ceftriaxona 1 g i.m./i.v. DU). Alérgicos: **azitromicina o claritromicina 500 mg v.o.** o doxiciclina 100 mg v.o. DU. **NO clindamicina — desaconsejada por ESC 2023 (Tabla 6) por riesgo de *C. difficile* potencialmente fatal.** |
 | **Intervenciones cardíacas (TAVI, CIED)** | Profilaxis ATB perioperatoria recomendada (Clase I, nivel A para CIED; Clase I, nivel B para cirugía/TAVI) |
 | **Implante de dispositivos** | Cefazolina 2 g i.v. DU. Alérgicos: vancomicina 1 g i.v. |
 

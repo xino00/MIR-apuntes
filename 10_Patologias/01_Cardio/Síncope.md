@@ -1,10 +1,12 @@
 ---
 aliases: [Síncope, Sincope, Pérdida Transitoria de Consciencia, PTC]
 tags: [urgencias, cardio, patologia]
+fuente: "ESC Syncope 2018 (ehy037) + Manual 12 Octubre 2022 cap. 13"
+last_fact_checked: 2026-04-20
 ---
 # Síncope
 
-**Fuente:** Manual 12 de Octubre, Cap. 13.
+**Fuente:** ESC Syncope 2018 + Manual 12 de Octubre, Cap. 13.
 **Concepto clave:** La pérdida transitoria de consciencia (PTC) es la pérdida de conocimiento con amnesia del episodio, control motor anómalo y falta de respuesta a estímulos en un corto período de tiempo. El **síncope** es un subgrupo de PTC en el que la pérdida de conocimiento se debe a la hipoperfusión cerebral y la caída de la PAS (relacionadas con el gasto cardíaco y las resistencias vasculares). Se caracteriza por inicio brusco y recuperación espontánea, completa y precoz. Supone un 1-3% de las visitas a urgencias; el 20% de la población presentará un episodio sincopal a lo largo de su vida.
 
 ## 🚨 Signos de Alarma (Red Flags)
@@ -150,8 +152,8 @@ Los objetivos son prolongar la supervivencia, limitar las lesiones físicas deri
 ### Síncopes reflejos
 - **Educación del paciente:** evitar desencadenantes, detectar pródromos y adoptar el decúbito para evitar caídas.
 - Reducir o retirar vasodilatadores y evitar la ingesta de alcohol.
-- **Maniobras de contrapresión isométrica:** entrecruzar las piernas o entrelazar las manos y tensar los brazos (nivel de evidencia alto).
-- **Entrenamiento con mesa basculante** (*tilt training*) para prevenir recurrencias.
+- **Maniobras de contrapresión isométrica (PCM):** entrecruzar las piernas o entrelazar las manos y tensar los brazos. **Clase IIa-B (ESC Syncope 2018)** — indicadas en pacientes **<60 años con pródromos reconocibles**.
+- **Entrenamiento con mesa basculante** (*tilt training*): **Clase IIb-B (ESC Syncope 2018)** — puede considerarse en pacientes **jóvenes** muy seleccionados con síncope vasovagal recurrente; la evidencia es limitada.
 - **Estimulación cardíaca:** relegada a casos seleccionados (componente cardioinhibitorio documentado).
 
 ### Hipotensión ortostática
@@ -168,6 +170,13 @@ El tratamiento depende de la etiología y del mecanismo:
 - **Taquiarritmias:** ablación por catéter, [[Arritmias|antiarrítmicos]].
 - **Síncopes neuromediados de perfil cardioinhibitorio:** estimulación cardíaca en casos seleccionados.
 - **Arritmias ventriculares malignas:** implantación de **desfibrilador automático implantable (DAI)**.
+
+> [!info] Holter implantable (ILR) — Clase I-A (ESC Syncope 2018)
+> Indicaciones **Clase I-A** del ILR (registrador de eventos insertable, hasta 3 años de monitorización):
+> - Síncope **recurrente** de origen **incierto**, **sin criterios de alto riesgo** ni evidencia clara de cardiopatía, con alta probabilidad de recurrencia durante la vida del dispositivo.
+> - Síncope **con criterios de alto riesgo** en el que el estudio completo (incluida la evaluación cardiológica) no ha conseguido establecer un diagnóstico ni indicaciones específicas de DAI / marcapasos.
+>
+> Indicación **Clase IIa-B:** evaluación de pacientes con sospecha o diagnóstico confirmado de síncope reflejo con episodios sincopales frecuentes o traumáticos.
 
 ## 🔀 Algoritmo de Manejo en Urgencias
 
