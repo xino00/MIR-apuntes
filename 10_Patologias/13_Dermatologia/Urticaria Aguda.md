@@ -2,6 +2,8 @@
 aliases: [Urticaria aguda, Urticaria, Habones, Cetirizina]
 tags: [urgencias, dermato, alergologia, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"
+fuente: "Manual 12 Octubre 2022, cap. 10 Patología dermatológica sección 6 (p. 143-144)"
+last_fact_checked: 2026-04-21
 ---
 # Urticaria Aguda
 
@@ -12,13 +14,23 @@ fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencia
 
 ## Diagnóstico
 
+**Clasificación** (Manual cap.10 sección 6.2):
+- **Aguda:** ≤6 semanas de duración.
+- **Crónica:** >6 semanas.
+  - Espontánea (sin factor inductor claro).
+  - Inducible (físicos: dermografismo, frío, presión retardada; no físicos: colinérgica, acuagénica, etc.).
+
 Lesiones eritematosas, sobreelevadas, de bordes bien definidos y con aclaramiento a la digito-presión, con prurito asociado. Cada lesión individual dura menos de 24 horas sin dejar marca residual.
 
 ## Tratamiento
 
 - Hidratación adecuada: mínimo 1.5–2 L/día.
 - Hidratación cutánea con crema corporal sin perfumes, 2 veces al día.
-- Cetirizina 10 mg cada 12 h → Si el prurito no cede, puede aumentarse a 10 mg cada 8 h (máximo 3 veces/día).
+- **Antihistamínico H1 de 2ª generación** (1 comprimido cada 24 h durante 1-4 semanas; escalable hasta x4 si no hay control):
+  - Cetirizina 10 mg, **bilastina 20 mg**, ebastina 10 mg, fexofenadina 180 mg, levocetirizina 5 mg o rupatadina 10 mg.
+  - Pauta de Cetirizina: 10 mg cada 24 h durante 1-4 semanas. Si no se controla el prurito, escalar paulatinamente hasta **40 mg/día (10 mg cada 6 h)**. Mantener la dosis mínima eficaz tras control sintomático.
+- **Corticoides sistémicos** (reservados para angioedema asociado o urticarias agudas muy extensas/sintomáticas, **siempre junto a antihistamínicos**): prednisona 20-50 mg/día en ciclos cortos (3-5 días, máx. 10 días) con pauta descendente.
+- **Si síntomas intensos o pobre tolerancia oral en urgencias:** dexclorfeniramina 5 mg i.m./i.v. + valorar metilprednisolona 1-2 mg/kg i.v. si angioedema asociado.
 - Evitar rascado y exposición a factores irritantes (frío, calor, ropa ajustada, jabones fuertes).
 
 **Criterios de derivación a consultas:**
@@ -26,7 +38,9 @@ Lesiones eritematosas, sobreelevadas, de bordes bien definidos y con aclaramient
 - Sospecha de urticaria vasculitis: lesiones >24 h con signos sistémicos (artralgias, fiebre, pérdida de peso...).
 - Urticaria de repetición sin causa clara o con mala respuesta al tratamiento antihistamínico.
 
-Solicitar cita en consultas de Dermatología y de Alergología. AS con perfil diálisis general, serologías (VIH, VHC, VHB, TPHA, RPR) y perfil autoinmunidad (ANA, AC tiroides, VSG, PCR, IGG, IGM).
+**Para derivación a consultas** (urticaria >6 semanas o sospecha de desencadenante específico): **hemograma + bioquímica con PCR**. Las serologías (VIH, VHC, VHB, TPHA, RPR) y panel autoinmune (ANA, AC tiroides, VSG, IgG, IgM) **sólo si historia clínica orientativa**, no rutinarios.
+
+**Derivación a Alergología sólo si se sospecha desencadenante alergénico concreto** (medicamentos, alimentos, picaduras). La urticaria aguda no requiere pruebas de laboratorio ni derivación rutinaria. En urticaria crónica espontánea sin sospecha alérgica, derivar a Dermatología.
 
 ## Plantilla de Guardia
 
@@ -46,7 +60,7 @@ Paciente con lesiones cutáneas pruriginosas de morfología y duración típicas
 - Hidratación adecuada: mínimo 1.5–2 L/día.
 - Hidratación cutánea con crema corporal sin perfumes, 2 veces al día.
 - COMO TRATAMIENTO MÉDICO:
-*Cetirizina 10 mg cada 12 h → Si el prurito no cede, puede aumentarse a 10 mg cada 8 h (máximo 3 veces/día).
+*Cetirizina 10 mg cada 24 h durante 1-4 semanas. Si no se controla el prurito, escalar paulatinamente hasta **40 mg/día (10 mg cada 6 h)**. Mantener la dosis mínima eficaz tras control sintomático.
 - Evitar rascado y exposición a factores irritantes (frío, calor, ropa ajustada, jabones fuertes).
 
 Seguimiento y signos de alarma
@@ -61,6 +75,6 @@ Urticaria de más de 6 semanas de evolución (urticaria crónica).
 Sospecha de urticaria vasculitis: lesiones >24 h con signos sistémicos (artralgias, fiebre, pérdida de peso...).
 Urticaria de repetición sin causa clara o con mala respuesta al tratamiento antihistamínico.
 **Solicitar:**
-**Cita en consultas de Dermatologia**
-**Cita en consultas de alergología**
-**AS con perfil diálisis general,  serologías (VIH; VHC; VHB; TPHA; RPR) y perfil autoinmunidad (ANA; AC tiroides; VSG;  PCR; IGG; IGM;)**
+**Cita en consultas de Dermatología** (urticaria crónica espontánea sin sospecha alérgica).
+**Cita en consultas de Alergología** sólo si se sospecha desencadenante alergénico concreto (medicamentos, alimentos, picaduras).
+**AS con hemograma + bioquímica con PCR**. Serologías (VIH; VHC; VHB; TPHA; RPR) y perfil autoinmunidad (ANA; AC tiroides; VSG; IGG; IGM) **sólo si la historia clínica lo orienta**, no rutinarios.
