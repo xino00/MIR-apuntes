@@ -1,6 +1,8 @@
 ---
 aliases: [Síndrome Cardiorrenal, SCR, Cardiorrenal]
 tags: [urgencias, cardio, nefro, patologia, consensos]
+fuente: "Consenso ADQI (Ronco) + ESC HF 2021 §11.3 + Focused Update 2023 (ehad195 — CLOROTIC, ADVOR) + KDIGO 2024"
+last_fact_checked: 2026-04-20
 ---
 # Síndrome Cardiorrenal (SCR)
 
@@ -52,7 +54,9 @@ El objetivo principal (especialmente en el Tipo 1 y 2) es aliviar la congestión
 ### 2. Bloqueo Secuencial de la Nefrona (Resistencia Diurética)
 Si no hay respuesta a dosis plenas de furosemida:
 - Añadir **Tiazidas** (ej. Hidroclorotiazida o Clortalidona) para bloquear el TCD.
-- Añadir **Inhibidores de la Anhidrasa Carbónica** (Acetazolamida), apoyado por estudio ADVOR (+ 500 mg i.v.).
+  > [!warning] Advertencia CLOROTIC (Focused Update 2023 §4.1.1)
+  > Añadir HCT a furosemida **mejora la pérdida de peso** pero se asocia a un **incremento de creatinina del 46.5% vs 17.2% (p<0.001)** y **no mejora disnea, reingresos ni mortalidad**. → Vigilar estrechamente **creatinina y K⁺** al iniciar la tiazida; suspender si deterioro desproporcionado.
+- Añadir **Inhibidores de la Anhidrasa Carbónica** — **Acetazolamida 500 mg IV una vez al día** (ensayo ADVOR): **mejora la descongestión a 3 días sin impacto en mortalidad ni reingresos a 3 meses**.
 - Añadir **iSGLT2** (Empagliflozina / Dapagliflozina) que actúan en túbulo proximal bajando la precarga y mejorando supervivencia a largo plazo.
 - Cuidar **ARM** (Espironolactona / Eplerenona) en fase aguda por riesgo de [[Hiperpotasemia]] en fallo renal.
 

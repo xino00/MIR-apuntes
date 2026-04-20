@@ -1,10 +1,12 @@
 ---
 aliases: [IC Crónica, ICC]
 tags: [urgencias, cardio, patologia]
+fuente: "ESC HF 2021 (ehab368) + Focused Update 2023 (ehad195) + Manual 12 Octubre 2022 cap. 15"
+last_fact_checked: 2026-04-20
 ---
 # Insuficiencia Cardíaca Crónica (ICC)
 
-**Fuente:** Manual 12 de Octubre, Cap. 15.
+**Fuente:** ESC HF 2021 + Focused Update 2023 + Manual 12 de Octubre, Cap. 15.
 **Concepto clave:** Síndrome clínico secundario a una alteración estructural y/o funcional del corazón que produce una disminución del gasto cardíaco y/o aumento de las presiones intracardíacas. Cuando el paciente ya ha tenido alguna vez síntomas compatibles con IC aguda, hablamos de ICC.
 
 ## 🔬 Diagnóstico y Clasificación
@@ -15,7 +17,7 @@ La clasificación central de la ICC se fundamenta en la ecocardiografía (FEVI) 
 > - **IC-FEVIr:** FEVI < 40%. (Perfil típico: varón, joven, [[Cardiopatía isquémica]]).
 > - **IC-FEVIlr:** FEVI 40-49% + alteración estructural/diastólica.
 > - **IC-FEVIp:** FEVI ≥ 50% + alteración estructural/diastólica. (Perfil típico: mujer, hipertensa, FA).
-> - **FEVI Recuperada:** Aumento de la FEVI de ≥10% y >40% en 2 ETT consecutivos (¡Mantener siempre el tratamiento!).
+> - **FEVI Recuperada (Universal Definition HF 2021):** Aumento absoluto **≥10 puntos** desde FEVI basal <40%, llegando a FEVI >40% en 2 ETT consecutivos (¡Mantener siempre el tratamiento!).
 >
 > **Clasificación NYHA:**
 > I (Sin limitación) -> II (Leve) -> III (Marcada) -> IV (Síntomas en reposo).
@@ -32,17 +34,17 @@ La clasificación central de la ICC se fundamenta en la ecocardiografía (FEVI) 
 El tratamiento médico optimizado (TMO) se basa en 4 pilares fundamentales, todos con impacto en morbimortalidad. El objetivo es iniciar los cuatro y titular a la máxima dosis tolerada.
 
 ### 1. Los 4 Pilares del Tratamiento Médico Optimizado
-1. **INRA (Sacubitrilo/Valsartán):** De elección frente a IECA/ARA-II por superioridad en morbimortalidad. Dosis inicio: **24/26** o **49/51 mg / 12 h**. Objetivo: **97/103 mg / 12 h**. 
+1. **INRA (Sacubitrilo/Valsartán):** De elección frente a IECA/ARA-II por superioridad en morbimortalidad. Dosis inicio **49/51 mg/12h** (ESC 2021 Tabla 8). Reducir a **24/26 mg/12h** solo si antecedente de hipotensión sintomática. Objetivo: **97/103 mg / 12 h**. 
    *- Precauciones: Suspender IECA 36h antes. Hipotensión.*
 2. **Betabloqueantes (BB):** Solo con el paciente estable o levemente congestivo (NYHA I-III). **NO usar** en la descompensación grave aguda (NYHA IV). Objetivo FC < 70 lpm.
-   - [[Bisoprolol]] (10 mg/24h), Carvedilol (25 mg/12h), [[Metoprolol]] (200 mg/24h), Nebivolol (10 mg/24h).
+   - [[Bisoprolol]] (10 mg/24h), Carvedilol (25 mg/12h; **puede llegar a 50 mg/12h si peso >85 kg**), [[Metoprolol]] succinato (200 mg/24h), Nebivolol (10 mg/24h).
    *- Contraindicaciones: Asma grave NO es contraindicación para los cardioselectivos. Evitar en BAV alto grado.*
 3. **ARM (Espironolactona / Eplerenona):** 
    - Espironolactona 25-50 mg/24h. Eplerenona 50 mg/24h.
    *- Precauciones: [[Hiperpotasemia]] (Si Potasio > 5.5 o FG < 30 no iniciar).*
 4. **iSGLT2 (Dapagliflozina / Empagliflozina):** Beneficio independiente de ser diabético.
    - Dosis: **10 mg / 24h**.
-   *- Evidencia creciente de beneficio incluso en FEVIp (estudio EMPEROR-HF con empagliflozina).*
+   *- **Clase I-A en TODO el espectro de FEVI** (IC-FEr, IC-FEm e IC-FEp) — Focused Update 2023 elevó la recomendación tras EMPEROR-Preserved y DELIVER (ya no es exclusivo de IC-FEr).*
 
 ### 2. Tratamientos de Segunda Línea / Específicos
 - **Ivabradina:** Si Ritmo Sinusal y FC > 70 lpm a pesar de dosis máxima tolerada de BB. (Dosis inical 5 mg/12h).
@@ -53,7 +55,9 @@ El tratamiento médico optimizado (TMO) se basa en 4 pilares fundamentales, todo
 - **Otros fármacos (Casos Avanzados):** Vericiguat (inhibidor guanilato ciclasa) u Omecamtiv mecarbil para reducir hospitalizaciones tras descompensación reciente.
 
 ### 3. Dispositivos (IC Avanzada y [[Arritmias]])
-- **Terapia de Resincronización (TRC):** NYHA II-IV con FEVI < 35% y QRS ancho (≥ 150 ms) con morfología de Bloqueo Completo Rama Izquierda (BCRI), optimizado médicamente > 3 meses.
+- **Terapia de Resincronización (TRC)** — NYHA II-IV en ritmo sinusal con FEVI ≤35% y BCRI, optimizado médicamente ≥3 meses (ESC HF 2021 §6.2):
+  - **Clase I** si QRS **≥150 ms**.
+  - **Clase IIa** si QRS **130-149 ms**.
 - **DAI (Desfibrilador Automático):** Prevención secundaria de arritmia maligna o primaria (FEVI < 35%, optimizado > 3 meses, isquémico o no).
 
 ## 🩺 Tratamiento de Comorbilidades

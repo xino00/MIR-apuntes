@@ -1,11 +1,8 @@
 ---
-tags:
-  - Medicina_Interna
-  - Urgencias
-  - Insuficiencia_Cardiaca
-  - Nefrologia
-  - Farmacologia
+tags: [urgencias, cardio, nefro, patologia]
 title: Manejo del Tratamiento Diurético y Deterioro Renal en ICA
+fuente: "ESC HF 2021 (ehab368) §11.3 + Focused Update 2023 (ehad195 — ADVOR, EMPULSE)"
+last_fact_checked: 2026-04-20
 date: 2026-03-22
 ---
 
@@ -27,6 +24,13 @@ Antes de tomar ninguna decisión sobre el diurético ante una subida de la Creat
 - **Escenario B: Paciente CONGESTIVO ("húmedo")**
   - **Fisiopatología:** [[Síndrome Cardiorrenal]] Tipo 1 mediado por **hiperpresión venosa central** (transmitida a las venas renales ocasionando "asfixia" renal) o, en menor medida, gasto cardíaco insuficiente.
   - **Actitud:** **¡Mantener o intensificar la terapia depletiva!** La congestión venosa persistente es más dañina para el riñón que el propio diurético. Es el momento de plantear el bloqueo tubular secuencial (añadir tiazidas o acetazolamida) para vencer la resistencia diurética.
+
+> [!warning] Techos de dosis y criterios ESC de respuesta diurética
+> - **Furosemida IV techo diario:** 400-600 mg/día (hasta **1000 mg/día** en ERC severa, ESC HF 2021 §11.3).
+> - **Criterios ESC de respuesta adecuada a las 2 horas:**
+>   - **Na⁺ urinario ≥ 50-70 mEq/L** (spot a las 2h tras bolo).
+>   - **Diuresis ≥ 100-150 mL/h** en las primeras 6 horas.
+> - Si no se alcanzan estos objetivos → doblar dosis → añadir tiazida o **acetazolamida 500 mg IV** (ADVOR, Focused Update 2023) → ultrafiltración si refractario.
 
 ---
 
@@ -67,3 +71,16 @@ Si la elevación de creatinina es realmente severa (oliguria franca, Cr que se m
 > [!quote] Regla de Oro en el Pase de Planta
 > *Si la creatinina sube pero los pulmones del paciente siguen crepitando y mantiene edemas periféricos, **aguanta el tirón y continúa con la furosemida**.* 
 > *Si la creatinina sube y el paciente ya respira bien, no hay edemas y ha alcanzado su peso seco estimado, **detén tu mano y baja la terapia depletiva**.*
+
+---
+
+### 🔗 Fuentes
+- **ESC HF 2021** (ehab368) — §11.3 (manejo diurético en ICA, criterios de respuesta y techos de dosis).
+- **ESC Focused Update 2023** (ehad195) — ensayo **ADVOR** (acetazolamida 500 mg IV en bloqueo secuencial) y **EMPULSE** (empagliflozina en ICA).
+- *Manual de diagnóstico y terapéutica médica Hospital 12 de Octubre, 9ª ed. 2022. Cap. 15.*
+
+### 🔗 Enlaces
+- [[Insuficiencia cardiaca aguda]]
+- [[Síndrome Cardiorrenal]]
+- [[Insuficiencia cardiaca]]
+- [[MOC - CARDIOLOGIA]]

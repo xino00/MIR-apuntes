@@ -1,10 +1,12 @@
 ---
 aliases: [Taquicardia, Bradicardia, Flutter, TV]
 tags: [urgencias, cardio, patologia]
+fuente: "ESC VA/SCD 2022 (ehac262) + ESC AF 2024 (ehae176) + Manual 12 Octubre 2022 cap. 16"
+last_fact_checked: 2026-04-20
 ---
 # Arritmias (Abordaje General)
 
-**Fuente:** Manual 12 de Octubre, Cap. 16.
+**Fuente:** ESC VA/SCD 2022 + ESC AF 2024 + Manual 12 de Octubre, Cap. 16.
 **Concepto clave:** Alteraciones del ritmo cardíaco derivadas de un problema en la generación o conducción del impulso eléctrico. Se dividen en **taquiarritmias (>100 lpm)** y **bradiarritmias (<60 lpm)**. La primera evaluación *siempre* es la estabilidad hemodinámica.
 
 ## 🚨 Signos de Alarma y Banderas Rojas
@@ -19,7 +21,7 @@ El primer paso es diferenciar entre complejo QRS estrecho vs QRS ancho (tratar s
 
 ### Paciente INESTABLE Hemodinámicamente
 - **Actitud:** **Cardioversión Eléctrica (CVE) Urgente** o Desfibrilación (FV/TV sin pulso).
-- **Energías Sincronizadas (CVE):** 50-100 J (Arritmias organizadas como Flutter o TV monomorfa). 150-200 J (Arritmias desorganizadas como FA).
+- **Energías Sincronizadas (CVE):** 50-100 J (Arritmias organizadas como Flutter o TV monomorfa). 150-200 J (Arritmias desorganizadas como FA). *[Recomendación práctica Manual 12 Oct; ESC VA/SCD 2022 no fija cifra concreta — depende del desfibrilador y del protocolo local].*
 - **Energías Asincrónicas (Desfibrilación):** Máxima energía (360 J) en FV o TV polimorfa.
 - **Sedación previa:** Propofol **0,5-1 mg/kg i.v.** o Midazolam + Etomidato.
 
@@ -39,7 +41,7 @@ El primer paso es diferenciar entre complejo QRS estrecho vs QRS ancho (tratar s
 - **Toda taquicardia de QRS ancho es TV hasta que se demuestre lo contrario** (Usar criterios de Brugada/Vereckei, disociación AV, latidos de fusión/captura).
 - **Cardioversión Farmacológica (CVF) en TV Monomorfa Estable:**
     - Procainamida: **7-10 mg/kg i.v. en 10 min** (Recomendación general/AHA) vs **10 mg/kg a 20-50 mg/min, máx 1 g** (Recomendación Manual 12 de Octubre para evitar hipotensión). 
-    - [[Amiodarona]]: **300 mg i.v. en 30-60 min** + perfusión 900 mg a 24h.
+    - [[Amiodarona]] (dosis ESC VA/SCD 2022, Tabla 14): **carga 5 mg/kg i.v. en 20 min – 2 h**, seguida de perfusión 900-1200 mg/24 h. *La dosis fija "300 mg" procede del régimen ACLS/RCP en parada, no del tratamiento de TV monomorfa estable.*
     - Lidocaína: **1-1,5 mg/kg en 4 min.**
 - **Torsades de Pointes (QT largo):**
     - Administrar **Sulfato de Magnesio (1-2 g i.v. en 10 min)** y corregir causas secundarias ([[Hipopotasemia]], fármacos).

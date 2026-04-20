@@ -1,10 +1,12 @@
 ---
 aliases: [ICA, Edema Agudo de Pulmón, Shock Cardiogénico]
 tags: [urgencias, cardio, patologia]
+fuente: "ESC HF 2021 (ehab368) + Focused Update 2023 (ehad195) + Manual 12 Octubre 2022 cap. 15"
+last_fact_checked: 2026-04-20
 ---
 # Insuficiencia Cardíaca Aguda (ICA)
 
-**Fuente:** Manual 12 de Octubre, Cap. 15.
+**Fuente:** ESC HF 2021 + Focused Update 2023 (ADVOR, EMPULSE) + Manual 12 de Octubre, Cap. 15.
 **Concepto clave:** Rápida instauración de síntomas y signos secundarios al funcionamiento anómalo del corazón. Riesgo vital que exige diagnóstico y tratamiento precoz. Puede ser *de novo* o una descompensación de una IC crónica.
 
 ## 🚨 Signos de Alarma (Red Flags) y Desencadenantes
@@ -53,7 +55,7 @@ El pilar central de la congestión. Evaluar respuesta a los 60-120 min. **Objeti
 > [!warning] Contradicción de Dosis Inicial
 > - **Guías ESC 2021:** Recomiendan iniciar Furosemida IV a dosis equivalente a **1 o 2 veces la dosis oral diaria** previa. (Si de novo: 20-40 mg IV).
 > - **Manual 12 de Octubre:** Recomienda ser más agresivo: iniciar con **2,5 veces la dosis oral previa**. En la práctica, se suele seguir la ESC pero ajustando rápido si no hay respuesta.
-> - **Si hay INSUFICIENCIA RENAL:** Administrar en bolo tantas ampollas de furosemida como cifra de creatinina (ej: Cr 3 mg/dl -> 3 ampollas).
+> - **Si hay INSUFICIENCIA RENAL:** Administrar en bolo tantas ampollas de furosemida como cifra de creatinina (ej: Cr 3 mg/dl -> 3 ampollas). *[Regla del Manual 12 Oct — práctica clínica española, no aparece en ESC HF 2021/2023].*
 
 #### ⚠️ Manejo de la Resistencia Diurética (Algoritmo ESC)
 Si a las 2 horas no se alcanza el objetivo de diuresis o Sodio urinario:
@@ -65,8 +67,8 @@ Si a las 2 horas no se alcanza el objetivo de diuresis o Sodio urinario:
 3. **Ultrafiltración / TRS:** Si resistencia refractaria a terapia máxima combinada o potasio/uremia amenazante.
 
 ### 3. Vasodilatadores, Inótropos y Opiáceos
-- **Vasodilatadores (Nitroglicerina):** Recomendación ESC para EAP hipertensivo (PAS > 110 mmHg). Perfusión de 10-200 μg/min. **Evitar** si PAS < 90 mmHg o en estenosis aórtica severa.
-- **Inótropos ([[Dobutamina]], Milrinona, Levosimendán):** ¡Solo si hay *hipoperfusión periférica e hipotensión* (Perfil Frío y Húmedo / Shock Cardiogénico)! Aumentan el consumo de oxígeno miocárdico.
+- **Vasodilatadores (Nitroglicerina):** **Clase IIb** en EAP con PAS >110 mmHg (ESC HF 2021 **rebajó** de IIa 2016 a IIb 2021, p.3611 y 3655). Perfusión de 10-200 μg/min. **Evitar** si PAS <90 mmHg o en estenosis aórtica severa.
+- **Inótropos ([[Dobutamina]], Milrinona, Levosimendán):** Solo en pacientes con **hipoperfusión + PAS <90 mmHg** que no responden a tratamiento estándar (**Clase IIb-C**, ESC HF 2021 p.3656, Figura 9). **Uso rutinario contraindicado (Clase III).** Aumentan el consumo de O₂ miocárdico.
 - **Vasopresores (Nor[[Adrenalina]]):** De elección sobre [[Dopamina]]/[[Adrenalina]] si hay [[Shock]] cardiogénico que no responde a inotrópicos para mantener presión de perfusión.
 - **Opiáceos (Morfina):** Tanto ESC como el manual coinciden rotundamente en **NO usar de forma rutinaria** (Clase III). Se reservan en exclusiva para pacientes con gran ansiedad irreductible o dolor isquémico persistente, ya que aumentan la tasa de VNI, intubación e hipotensión.
 
