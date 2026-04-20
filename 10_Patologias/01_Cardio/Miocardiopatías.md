@@ -1,11 +1,21 @@
 ---
-aliases: [Cardiomiopatías, MCD, MCH, MCR, Amiloidosis]
+aliases: [Cardiomiopatías, MCD, MCH, MCR, Amiloidosis, NDLVC, ARVC]
 tags: [urgencias, cardio, patologia]
+fuente: "ESC 2023 Cardiomyopathies (ehad194) + Manual 12 Octubre 2022 cap. 18"
+last_fact_checked: 2026-04-20
 ---
 # Miocardiopatías
 
-**Fuente:** Manual 12 de Octubre, Cap. 18.
-**Concepto clave:** Enfermedades del músculo cardíaco no explicadas por enfermedad coronaria, hipertensión arterial, [[Valvulopatías]] ni cardiopatías congénitas. 
+**Fuente:** ESC 2023 Cardiomyopathies + Manual 12 de Octubre, Cap. 18.
+**Concepto clave:** Enfermedades del músculo cardíaco no explicadas por enfermedad coronaria, hipertensión arterial, [[Valvulopatías]] ni cardiopatías congénitas.
+
+> [!info] Nueva clasificación ESC 2023 — 5 fenotipos
+> La guía **ESC 2023** sustituye el esquema clásico MCD/MCH/MCR por **5 fenotipos morfofuncionales** reconocibles por imagen:
+> 1. **HCM** — Miocardiopatía hipertrófica.
+> 2. **DCM** — Miocardiopatía dilatada.
+> 3. **NDLVC** — *Non-Dilated Left Ventricular Cardiomyopathy*: hipocinesia/fibrosis del VI **sin dilatación** ni grosor aumentado. Subgrupo frecuente en cardiopatías genéticas/arritmogénicas (laminopatías, desminopatías) — hasta hace poco clasificadas como MCD o MCR inespecíficas.
+> 4. **ARVC** — Miocardiopatía arritmogénica del VD (y formas biventriculares).
+> 5. **RCM** — Miocardiopatía restrictiva.
 
 ## 1. Miocardiopatía Dilatada (MCD)
 Se caracteriza por la dilatación y alteración de la contracción (sistólica) de uno o ambos ventrículos. Es la más común (60%).
@@ -25,9 +35,23 @@ Aumento del grosor del VI (≥ 15 mm) en ausencia de causa que lo justifique (EA
 - **Ecocardiograma:** Hipertrofia asimétrica del septo (lo más frecuente). Un 60% asocia Obstrucción del Tracto de Salida del VI (TSVI), a menudo condicionada por un movimiento sistólico anterior (SAM) de la válvula mitral, generando insuficiencia mitral secundaria.
 - **Tratamiento:** 
   - **1ª Línea:** **Betabloqueantes** no vasodilatadores ([[Bisoprolol]]). Alternativa: Verapamilo/Diltiazem.
+  - **2ª Línea (MCH obstructiva sintomática refractaria):** **Mavacamten** — inhibidor selectivo de la miosina cardíaca, primer fármaco específico para MCH obstructiva sintomática; reduce el gradiente del TSVI y mejora la capacidad funcional (**ESC 2023, Clase IIa**). Requiere monitorización ecocardiográfica seriada por riesgo de disfunción sistólica.
   - **PROHIBIDOS:** Vasodilatadores, inotrópicos positivos o diuréticos a dosis altas (*aumentan el gradiente de obstrucción*).
   - Mantener ritmo sinusal es prioritario (pésima tolerancia a la FA).
   - Estratificar riesgo (escala HCM Risk-SCD) para implante de DAI en prevención de muerte súbita.
+
+---
+
+## 4. NDLVC — Non-Dilated Left Ventricular Cardiomyopathy (ESC 2023)
+Fenotipo de reciente reconocimiento. Se define por **fibrosis o cicatriz miocárdica no isquémica** y/o **hipocinesia regional/global del VI** en ausencia de dilatación ventricular, sin criterios de HCM ni ARVC clásica.
+- **Perfil típico:** portadores de mutaciones *LMNA*, *FLNC*, *DSP*, *PLN*, *RBM20* → **alto riesgo arritmogénico** desproporcionado a la FEVI.
+- **Clínica:** Arritmias ventriculares, muerte súbita, IC de inicio tardío.
+- **Implicaciones:** Umbral más bajo para DAI que en MCD clásica (considerar con FEVI preservada si genotipo de alto riesgo y realce tardío).
+
+## 5. ARVC — Miocardiopatía Arritmogénica
+Sustitución fibroadiposa del miocardio, clásicamente del VD, aunque existen formas biventriculares y predominio VI. Herencia autosómica dominante (mutaciones de la placa desmosómica: *PKP2*, *DSG2*, *DSP*, *DSC2*, *JUP*).
+- **Criterios Task Force 2010** (modificados en 2020): electrocardiográficos (T negativas V1-V3, onda épsilon), arritmias (TV con morfología de BRI), imagen (disquinesia/aneurisma del VD) y genéticos.
+- **Tratamiento:** Evitar ejercicio competitivo, betabloqueantes, ablación de TV, **DAI** en prevención primaria de muerte súbita según estratificación.
 
 ---
 

@@ -1,10 +1,12 @@
 ---
 aliases: [Taponamiento Pericárdico, TC]
 tags: [urgencias, cardio, patologia, criticos]
+fuente: "ESC 2015 Pericardial Diseases (ehv318) + Manual 12 Octubre 2022 cap. 19"
+last_fact_checked: 2026-04-20
 ---
 # Taponamiento Cardíaco
 
-**Fuente:** Manual 12 de Octubre, Cap. 19.
+**Fuente:** ESC 2015 Pericardial Diseases + Manual 12 de Octubre, Cap. 19.
 **Concepto clave:** Es una emergencia médica. Aparece cuando el derrame pericárdico produce una elevación aguda de la presión intrapericárdica de tal magnitud que SUPERA la presión de llenado de las cavidades cardíacas. Esto impide su correcto llenado diastólico (especialmente cavidades derechas), bajando críticamente el gasto cardíaco y provocando colapso circulatorio progresivo.
 
 ## 📋 Cuadro Clínico y Fisiopatológico
@@ -23,7 +25,7 @@ La velocidad de instauración del líquido es el determinante principal (derrame
 3. **Ecocardiograma Transtorácico (ETT):** *Prueba diagnóstica de elección y de urgencia extrema (POCUS).*
     - Swing Heart (balanceo).
     - **Colapso diastólico precoz de Pared Libre de VD** y aurícula derecha. (El pericardio aplasta las cavidades).
-    - Vena Cava Inferior (VCI) dilatada (> 21 mm) SIN colapso inspiratorio normal.
+    - Vena Cava Inferior (VCI) dilatada (**> 20 mm**, pletórica) SIN colapso inspiratorio normal (criterio ASE/ESC).
     - Flujos de llenado tricúspide/mitral con exagerada variación respiratoria.
 
 ## 💉 Tratamiento

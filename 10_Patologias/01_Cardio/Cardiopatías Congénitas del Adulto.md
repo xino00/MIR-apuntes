@@ -2,12 +2,15 @@
 aliases: [Cardiopatías Congénitas, CC del Adulto, Eisenmenger]
 tags: [cardio, patologia]
 description: Cardiopatías congénitas del adulto - nota básica con contenido disponible del Manual H12O (Cap. 18 y 21)
+fuente: "Manual 12 Octubre 2022 caps. 18 y 21 (provisional — pendiente ESC 2020 ACHD)"
+last_fact_checked: 2026-04-20
 ---
 
 # Cardiopatías Congénitas del Adulto
 
-> [!warning] Nota básica — fuente limitada
-> El Manual del 12 de Octubre no dedica un capítulo específico a las cardiopatías congénitas del adulto. Esta nota recoge las menciones relevantes de los **Cap. 18** (Miocardiopatías y Valvulopatías) y **Cap. 21** (Hipertensión Pulmonar). Se recomienda ampliar con una fuente dedicada (guía ESC de cardiopatías congénitas del adulto).
+> [!warning] Nota básica — pendiente de ampliación con ESC 2020 ACHD
+> El Manual del 12 de Octubre no dedica un capítulo específico a las cardiopatías congénitas del adulto. Esta nota recoge las menciones relevantes de los **Cap. 18** (Miocardiopatías y Valvulopatías) y **Cap. 21** (Hipertensión Pulmonar). 
+> **Pendiente ampliar contra ESC 2020 ACHD Guidelines** (CIA, CIV, ductus, coartación, Fallot reparado, etc.) — auditoría 2026-04-20 la marca como provisional.
 
 **Fuente:** Manual 12 de Octubre, Cap. 18 (pp. 267-290) y Cap. 21 (pp. 318-331).
 

@@ -1,10 +1,15 @@
 ---
-aliases: [Pericarditis, PA]
+aliases: [Pericarditis, PA, SIMP]
 tags: [urgencias, cardio, patologia]
+fuente: "ESC 2025 Miocarditis y Pericarditis + ESC 2015 Pericardio + Manual 12 Octubre 2022 cap. 19"
+last_fact_checked: 2026-04-20
 ---
 # Pericarditis Aguda
 
-**Fuente:** Manual 12 de Octubre, Cap. 19.
+**Fuente:** ESC 2025 Myocarditis & Pericarditis + ESC 2015 Pericardial Diseases + Manual 12 de Octubre, Cap. 19.
+
+> [!info] Nueva nomenclatura ESC 2025 — SIMP
+> La guía **ESC 2025 (Myocarditis and Pericarditis)** introduce el concepto **SIMP (Síndrome Inflamatorio MioPericárdico)** cuando hay **solapamiento** entre miocarditis y pericarditis (miopericarditis / perimiocarditis), unificando la nomenclatura y el algoritmo diagnóstico-terapéutico.
 **Concepto clave:** Síndrome inflamatorio del pericardio con o sin derrame pericárdico. Principalmente de etiología idiopática o viral (enterovirus, adenovirus, parvovirus B19) en nuestro medio.
 
 ## 📋 Diagnóstico (Criterios Clínicos)
@@ -31,8 +36,11 @@ El curso habitual es benigno si se trata correctamente. *La falta de reposo o ab
    - **Ibuprofeno:** 600 mg / 8 h (1-2 semanas), luego descender dosis lentamente.
    - **AAS:** 750-1000 mg / 6-8 h (de elección en pacientes isquémicos).
 3. **Colchicina:** Su uso asociado desde el primer día disminuye drásticamente las recurrencias.
-   - Dosis: **0,5 mg / 24h** (< 70 kg) o **0,5 mg / 12h** (> 70 kg) durante 3 meses enteros.
+   - Dosis: **0,5 mg / 24h** (< 70 kg) o **0,5 mg / 12h** (> 70 kg) durante **3-6 meses** (ESC 2025 Tabla 13, alineación con COPE/CORP/ICAP).
 4. **Corticoides (2ª línea):** (Prednisona 0,25-0,5 mg/kg/día). Solo si hay contraindicación clara para AINEs, fracaso terapéutico estricto o embarazo. *Aumentan significativamente el riesgo de recurrencia en su retirada.*
+5. **Antagonistas del receptor IL-1 (pericarditis recurrente corticodependiente o refractaria — ESC 2025, Clase IIa):**
+   - **Anakinra** SC diaria, o **Rilonacept** SC semanal.
+   - Indicados cuando la pericarditis recurre a pesar de AINEs + colchicina y ya depende de corticoides, o cuando la retirada del corticoide produce recidiva inmediata. Permiten retirar el corticoide y reducir recurrencias.
 
 ### 🔗 Enlaces / Bibliografía
 - [[Taponamiento Cardiaco]]
