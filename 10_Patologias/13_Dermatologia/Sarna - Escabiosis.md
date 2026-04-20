@@ -2,6 +2,8 @@
 aliases: [Sarna, Escabiosis, Ácaros, Sarna noruega, Permetrina]
 tags: [urgencias, dermato, infecciosas, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"
+fuente: "Manual 12 Octubre 2022, cap. 69 ITS sección 9.4 Escabiosis (p. 1037-1038)"
+last_fact_checked: 2026-04-21
 ---
 # Sarna - Escabiosis
 
@@ -15,17 +17,25 @@ fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencia
 
 Prurito generalizado de predominio nocturno. Lesiones eritematosas y papulosas, excoriadas por rascado, localizadas en espacios interdigitales, muñecas, cintura, nalgas, axilas y región genital. Contacto epidemiológico con convivientes afectados.
 
+**Lesión patognomónica:** surco acarino — finas líneas hiperqueratósicas de 0,5-1 cm (donde a veces se visualiza el ácaro con dermatoscopio) en muñecas, espacios interdigitales y areola mamaria. **Nódulos escabióticos** en genitales son sugestivos.
+
 En caso de inmunosupresión o mala higiene, valorar sarna noruega (costras gruesas hiperqueratósicas).
 
 ## Tratamiento
 
-- Permetrina 5% en crema: aplicar por la noche desde el cuello hasta los pies (incluyendo pliegues, uñas y genitales), dejar actuar 8–12 horas y lavar al día siguiente. Repetir a los 7 días.
+**1ª ELECCIÓN:**
+- Permetrina 5% en crema: aplicar por la noche desde el cuello hasta los pies (incluyendo pliegues, uñas y genitales), dejar actuar 8–12 horas y lavar al día siguiente. Repetir a los **7-14 días**.
+
+**ALTERNATIVAS** (sarna noruega, brotes institucionales, fracaso o intolerancia a permetrina):
+- **Ivermectina oral** 200 µg/kg en dosis única, repetir a los 7 días.
+- Vaselina azufrada al 6-33% durante 3 días consecutivos (alternativa tópica).
+
 - Antihistamínico oral (Cetirizina 10 mg cada 12 h) si picor persistente.
 - Evitar rascado para prevenir sobreinfección.
 
 **Medidas generales:**
 - Tratar a todos los convivientes, aunque estén asintomáticos.
-- Lavar sábanas, toallas y ropa con agua caliente (>60 °C) o aislar en bolsa cerrada durante 72 h.
+- Lavar sábanas, toallas y ropa con agua caliente (>60 °C) o aislar en bolsa de plástico sellada durante **1 semana**.
 - Cambio diario de ropa interior y de cama.
 - Reincorporación a entorno escolar/laboral: tras 24 h del inicio del tratamiento si buena higiene.
 - Puede persistir prurito durante 2–4 semanas tras el tratamiento (no indica fallo terapéutico).
@@ -45,12 +55,13 @@ AP: MVC, sin ruidos añadidos.
 Paciente con clínica compatible con escabiosis (sarna), con prurito nocturno característico y lesiones dérmicas típicas. Refiere contacto con convivientes afectados. Buen estado general, sin signos de sobreinfección ni formas complicadas. Se explica el diagnóstico y tratamiento, así como las medidas de higiene y desinfección. Alta con tratamiento tópico y control por su médico de atención primaria.
 
 *****Tratamiento al alta**
-- Permetrina 5% en crema: aplicar por la noche desde el cuello hasta los pies (incluyendo pliegues, uñas y genitales), dejar actuar 8–12 horas y lavar al día siguiente. Repetir a los 7 días.
+- Permetrina 5% en crema: aplicar por la noche desde el cuello hasta los pies (incluyendo pliegues, uñas y genitales), dejar actuar 8–12 horas y lavar al día siguiente. Repetir a los **7-14 días**.
+- Alternativa: Ivermectina oral 200 µg/kg en dosis única, repetir a los 7 días (de elección en sarna noruega, brotes institucionales o fracaso/intolerancia a permetrina).
 - Antihistamínico oral (Cetirizina 10 mg cada 12 h) si picor persistente.
 - Evitar rascado para prevenir sobreinfección.
 **- Medidas generales:**
 *Tratar a todos los convivientes, aunque estén asintomáticos.
-*Lavar sábanas, toallas y ropa con agua caliente (>60 °C) o aislar en bolsa cerrada durante 72 h.
+*Lavar sábanas, toallas y ropa con agua caliente (>60 °C) o aislar en bolsa de plástico sellada durante **1 semana**.
 *Cambio diario de ropa interior y de cama.
 *Reincorporación a entorno escolar/laboral: tras 24 h del inicio del tratamiento si buena higiene.
 *Puede persistir prurito durante 2–4 semanas tras el tratamiento (no indica fallo terapéutico).
