@@ -1,7 +1,9 @@
 ---
-aliases: [Herpes zóster, Zóster, Culebrilla, Varicela-zóster, Zóster oftálmico, Ramsay Hunt]
+aliases: [Herpes zóster, Zóster, Culebrilla, Zóster oftálmico, Ramsay Hunt]
 tags: [urgencias, dermato, infecciosas, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"
+fuente: "Manual 12 Octubre 2022, cap. 10 Patología dermatológica (p. 137) + cap. 9 ORL (p. 110)"
+last_fact_checked: 2026-04-21
 ---
 # Herpes Zóster
 
@@ -26,12 +28,17 @@ Clínica típica de dolor en banda seguido de lesiones vesiculosas en distribuci
 ## Tratamiento
 
 **ANTIVIRAL:**
-- Indicaciones: >50 años, dolor moderado-grave, inmunodeprimidos, clínica grave (lesiones hemorrágicas o necróticas, afectación >1 metámera, lesiones satélites, afectación mucosa), niños y adolescentes en tto con salicilatos o corticoides, dermatitis atópica de base. Iniciar en las primeras 72 horas del inicio del cuadro.
-- 1ª ELECCIÓN: Valaciclovir 1 g cada 8 h, 5-7 días.
-- ALTERNATIVA: Famciclovir 500 mg cada 8 h, 7 días.
+- Indicaciones: >50 años, **afectación de cabeza y cuello**, dolor moderado-grave, inmunodeprimidos, dermatosis grave predisponente (p. ej., dermatitis atópica), clínica grave (lesiones hemorrágicas o necróticas, afectación >1 metámera, lesiones satélites, afectación mucosa), niños y adolescentes en tto con salicilatos o corticoides. Iniciar en las primeras 72 horas del inicio del cuadro. El antiviral **mantiene indicación pasadas 72 h** si: continúan apareciendo lesiones, signos de diseminación cutánea/visceral/neurológica, afectación oftálmica u ótica, o paciente inmunodeprimido.
+- 1ª ELECCIÓN: Valaciclovir 1 g cada 8 h, **7 días**.
+- ALTERNATIVAS: Famciclovir 500 mg cada 8 h, 7 días; Aciclovir 800 mg 5 veces/día, 7 días; Brivudina 125 mg cada 24 h, 7 días (contraindicada en inmunodeprimidos y si tratamiento con 5-FU o derivados en las últimas 4 semanas).
+- **Zóster ótico / Ramsay-Hunt:** misma pauta antiviral oral × 7 días. Indicación de aciclovir i.v. (10 mg/kg/8 h) en casos graves (vértigo, hipoacusia neurosensorial) o inmunocomprometidos con enfermedad diseminada.
+- **Coadyuvante tópico:** fomentos antisépticos y astringentes con sulfato de zinc 1/1.000 en solución acuosa, 10 min cada 8-12 h.
 
-Paracetamol 1g cada 8 horas durante 5 días. Si dolor a pesar de Paracetamol, puede alternar con Nolotil 575mg a las 4 horas del Paracetamol.
-Si picor, Cetirizina 10mg 1 comprimido cada 24 horas. Si insuficiente control de prurito, puede aumentar hasta 1 comprimido cada 6 horas.
+**ANALGESIA:**
+- Paracetamol 1 g cada 8 horas durante 5 días. Si dolor a pesar de Paracetamol, puede alternar con Nolotil 575 mg a las 4 horas del Paracetamol.
+- **Coadyuvantes para neuralgia posherpética:** gabapentina o pregabalina (alternativa: antidepresivos tricíclicos) si dolor moderado-intenso o factores de riesgo de PHN (>50 años, mujer, >50 lesiones, localización craneal/sacra, lesiones hemorrágicas, dolor prodrómico intenso).
+
+Si picor, Cetirizina 10 mg 1 comprimido cada 24 horas. Si insuficiente control de prurito, puede aumentar hasta 1 comprimido cada 6 horas.
 
 ## Plantilla de Guardia
 
@@ -61,10 +68,12 @@ Paciente con clínica típica de dolor en banda seguido de lesiones vesiculosas 
 - COMO TRATAMIENTO MÉDICO:
 
 *ANTIVIRAL:
-Indicaciones de tratamiento antiviral: >50 años, dolor moderado-grave, inmunodeprimidos, clínica grave (lesiones hemorrágicas o necróticas, afectación >1 metámera, lesiones satélites, afectación mucosa), niños y adolescentes en tto con salicilatos o corticoides, dermatitis atópica de base. En las primeras 72 horas del inicio del cuadro.
-1ª ELECCIÓN: Valaciclovir 1 g cada 8 h, 5-7 días.
-ALTERNATIVA: Famciclovir  500 mg cada 8 h, 7 días
+Indicaciones de tratamiento antiviral: >50 años, afectación de cabeza y cuello, dolor moderado-grave, inmunodeprimidos, dermatosis grave predisponente (dermatitis atópica), clínica grave (lesiones hemorrágicas o necróticas, afectación >1 metámera, lesiones satélites, afectación mucosa), niños y adolescentes en tto con salicilatos o corticoides. En las primeras 72 horas del inicio del cuadro (o después si continúan lesiones, diseminación, afectación oftálmica/ótica o inmunodepresión).
+1ª ELECCIÓN: Valaciclovir 1 g cada 8 h, 7 días.
+ALTERNATIVAS: Famciclovir 500 mg cada 8 h, 7 días; Aciclovir 800 mg 5 veces/día, 7 días; Brivudina 125 mg cada 24 h, 7 días (contraindicada en inmunodeprimidos y tras 5-FU o derivados en las últimas 4 semanas).
+*Coadyuvante tópico: fomentos con sulfato de zinc 1/1.000 en solución acuosa, 10 min cada 8-12 h.
 Si dolor, Paracetamol 1g, un comprimido cada 8 horas durante 5 días. Si dolor a pesar de Paracetamol, puede alternar con Nolotil 575mg a las 4 horas del Paracetamol.
+*Coadyuvantes para neuralgia posherpética: gabapentina o pregabalina (o tricíclicos) si dolor moderado-intenso o factores de riesgo de PHN (>50 años, mujer, >50 lesiones, localización craneal/sacra, lesiones hemorrágicas, dolor prodrómico intenso).
 *Si picor, Cetirizina 10mg 1 comprimido cada 24 horas. Si insuficiente control de prurito podrá aumentar dicha dosis hasta 1 comprimido cada 6 horas.
 
 Signos de alarma y seguimiento
