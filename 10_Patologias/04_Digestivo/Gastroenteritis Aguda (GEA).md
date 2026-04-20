@@ -2,8 +2,25 @@
 aliases: [GEA, Gastroenteritis aguda, Gastroenteritis, Diarrea aguda infecciosa, Vómitos y diarrea]
 tags: [urgencias, digestivo, infecciosas, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"
+fuente: "Manual 12 Octubre 2022, cap. 32 Diarrea aguda y GEA (p. 481-485)"
+last_fact_checked: 2026-04-21
 ---
 # Gastroenteritis Aguda (GEA)
+
+> [!warning] 🚨 Signos de alarma — derivar/ingreso
+> - **Deshidratación moderada-grave** (oliguria, hipotensión ortostática, signo del pliegue, alteración del sensorio).
+> - **Fiebre >39 ºC** o sepsis.
+> - **Sangre macroscópica** en heces (diarrea inflamatoria) o dolor abdominal intenso.
+> - **Intolerancia oral mantenida** o vómitos incoercibles.
+> - **Poblaciones de riesgo:** ancianos frágiles, embarazadas, inmunosuprimidos, cardiopatía/nefropatía, lactantes.
+> - **Duración >7 días** sin mejoría.
+
+## Diagnóstico
+
+- Anamnesis: número/consistencia de deposiciones, productos patológicos (moco, sangre), fiebre, dolor abdominal, vómitos.
+- Ambiente epidemiológico: comidas en mal estado, viajes, contactos con casos, guarderías, antibióticos recientes (C. difficile).
+- Exploración: estado de hidratación, temperatura, abdomen.
+- **Pruebas complementarias (solo si signos de alarma o criterios de ingreso):** AS con hemograma, función renal, electrolitos, PCR. Coprocultivo + toxina C. difficile si diarrea sanguinolenta, fiebre alta, inmunosupresión o antibioticoterapia reciente.
 
 ## Tratamiento
 
@@ -13,6 +30,21 @@ fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencia
 - Dieta astringente y blanda.
 - Control por su Médico de Familia en caso de persistencia.
 - En caso de empeoramiento o aparición de nuevos síntomas, acudirá de nuevo al servicio de Urgencias.
+
+### Indicaciones de antibioterapia empírica
+
+La mayoría de las GEA son víricas y autolimitadas — **no requieren antibiótico**. Indicaciones concretas:
+
+- Diarrea grave: ≥6 deposiciones/día **con sangre + fiebre alta** (sospecha de enteroinvasión).
+- Inmunodepresión, ancianos frágiles, cardiopatía/nefropatía significativa.
+- Sospecha de patógeno invasivo (Shigella, Salmonella invasiva, Campylobacter grave).
+- Diarrea del viajero moderada-grave.
+- Sepsis.
+
+**Pautas empíricas** (Manual cap. 32):
+- **Azitromicina 500 mg/24 h VO × 3 días** (de elección por resistencias crecientes a quinolonas, especialmente Campylobacter).
+- Alternativa: **Ciprofloxacino 500 mg/12 h VO × 3-5 días**.
+- **C. difficile:** Vancomicina 125 mg/6 h VO × 10 d (primera línea); Fidaxomicina 200 mg/12 h VO × 10 d (recidivas).
 
 ## Plantilla de Guardia
 
