@@ -2,7 +2,8 @@
 aliases: [HDA, Hemorragia digestiva alta, Hematemesis, Melenas, Blatchford, Úlcera péptica]
 tags: [urgencias, digestivo, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"
-last_fact_checked: 2026-04-20
+fuente: "Manual 12 Octubre 2022, cap. 36 HDA/HDB (p. 508-523) + ACG 2021 + ESGE 2021"
+last_fact_checked: 2026-04-21
 fuentes_guia: ["ACG 2021 - Upper GI and Ulcer Bleeding", "ESGE 2021 - NVUGIH Update", "Lau et al. NEJM 2007"]
 ---
 # Hemorragia Digestiva Alta (HDA)
@@ -14,7 +15,7 @@ fuentes_guia: ["ACG 2021 - Upper GI and Ulcer Bleeding", "ESGE 2021 - NVUGIH Upd
 
 ## Diagnóstico
 
-Hemorragia por encima del ángulo de Treiz. Se manifiesta en forma de:
+Hemorragia por encima del ángulo de Treitz. Se manifiesta en forma de:
 - Hematemesis: vómitos de sangre fresca
 - Vómitos en posos de café: sangre oscura
 - Melenas: deposiciones alquitranadas, pastosas y malolientes
@@ -66,7 +67,7 @@ La endoscopia urgente (<12h) o emergente (<3h) NO ofrece beneficio sobre la mort
 ## Plantilla de Guardia
 
 ## HEMORRAGIA DIGESTIVA ALTA
-Hemorragia por encima del ángulo de Treiz. Se manifiesta en forma de:
+Hemorragia por encima del ángulo de Treitz. Se manifiesta en forma de:
 Hematemesis: vómitos de sangre fresca
 Vómitos en posos de café: sangre oscura.
 Melenas: deposiciones alquitranadas, pastosas y malolientes.
@@ -102,15 +103,30 @@ ACOd: su efecto desaparece en las 12-24h sigientes a la suspensión.
 Antiagregantes: suspender. Si doble antiagregación, mantener AAS a dosis bajas.
 
 **ESTRATIFICACIÓN DE RIESGO HEMORRÁGICO**
-Escala Glasgow Batchford Score (GBS), valora riesgo preendoscópico.
+Escala Glasgow Blatchford Score (GBS), valora riesgo preendoscópico.
 **=< 1 punto → Endoscopia ambulatoria.**
 
 **TRATAMIENTO ENDOSCÓPICO**
 Idealmente <24h tras la llegada del paciente.
-La endoscopia urgente (<12h) o emergente (<3h) NO office beneficio sobre la mortalidad en comparación con la endoscopia precoz (<24h).
+La endoscopia urgente (<12h) o emergente (<3h) NO ofrece beneficio sobre la mortalidad en comparación con la endoscopia precoz (<24h).
 
 ### HEMORRAGIA DIGESTIVA ALTA POR HTP
-Dejo solo el algoritmo porque es menos frecuente, para tener en mente que se ponen más cosas.
+
+**Manejo específico en cirrótico con sospecha de sangrado por HTP** (Manual cap. 36 p.517-518):
+
+**1. Vasoactivos — iniciar inmediatamente ante la sospecha** (sin esperar endoscopia), mantener **5 días** para evitar resangrado precoz:
+- **Terlipresina** 2 mg/4 h IV hasta 48 h tras control, después 1 mg/4 h hasta completar 5 días.
+- **Somatostatina** (alternativa): bolo 0,25 mg + perfusión 250-500 µg/h × 5 días.
+
+**2. Profilaxis antibiótica × 7 días** (translocación bacteriana, reduce infecciones y resangrado):
+- **Ceftriaxona 1 g/24 h IV × 7 días** (cirrosis avanzada, profilaxis previa con quinolonas o alta tasa de resistencia local).
+- **Norfloxacino 400 mg/12 h VO × 7 días** (resto de pacientes).
+
+**3. Endoscopia <12 h** tras estabilización → ligadura con bandas elásticas (varices esofágicas) o cianocrilato (varices gástricas).
+
+**4. Procinético pre-endoscopia**: **eritromicina 250 mg IV** infundida en 30-120 min, 30-120 min antes de la endoscopia (mejora visualización, no hay evidencia consistente de mejoría en outcomes clínicos).
+
+**5. Fracaso del tratamiento endoscópico**: valorar TIPS o sonda de balón (Sengstaken-Blakemore) como puente. Consultar Digestivo/Radiología intervencionista urgente.
 
 ## 🔗 Relacionados
 - [[Hemorragia Digestiva Baja (HDB)]]

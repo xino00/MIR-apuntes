@@ -2,6 +2,8 @@
 aliases: [Cirrosis, Ascitis, PBE, PBS, Peritonitis bacteriana, GASA, Síndrome hepatorrenal]
 tags: [urgencias, digestivo, hepatologia, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"
+fuente: "Manual 12 Octubre 2022, cap. 42 Cirrosis (p. 609-620, Tablas 8-9)"
+last_fact_checked: 2026-04-21
 ---
 # Complicaciones de la Cirrosis Hepática
 
@@ -70,8 +72,19 @@ fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgenc
 
 - Vigilancia hemodinámica
 - Evitar AINEs, diuréticos e IECAs
-- Antibioterapia empírica
-- **Profilaxis síndrome hepato-renal:** 1.5 g/kg/24h IV y 1 g/kg/24h el 3er día en pacientes con Br >4, Cr <1 mg/dl o BUN >30
+- **Antibioterapia empírica** (Manual cap. 42 Tabla 8):
+  - **Adquirida en la comunidad:** Ceftriaxona **2 g/24 h IV × 5 días** (de elección) · alternativas: Cefotaxima 2 g/12 h IV × 5 d · Ciprofloxacino 400 mg/12 h IV × 2 d → 500 mg/12 h VO × 5 d (no usar si profilaxis previa con quinolonas).
+  - **Relacionada con cuidados sanitarios:** Piperacilina-tazobactam 4 g/6-8 h IV × 5-7 d (baja prevalencia MMR) · Meropenem 1 g/8 h IV × 5 d ± daptomicina/vancomicina/linezolid (alta prevalencia MMR o Gram+).
+- **Profilaxis síndrome hepato-renal:** Albúmina 1,5 g/kg/24h IV el día del diagnóstico y 1 g/kg/24h el 3er día en pacientes con Br >4, Cr <1 mg/dl o BUN >30.
+
+### Profilaxis PBE (Manual cap. 42 Tabla 9)
+
+**Profilaxis primaria:**
+- **Hemorragia digestiva (cirrosis):** Ceftriaxona 1 g/24 h IV × 7 días.
+- **Proteínas en líquido ascítico <1 g/dl:** Norfloxacino 400 mg/24 h VO (alternativas: trimetoprim-sulfametoxazol 160/800 mg/24 h VO · ciprofloxacino 500 mg/24 h VO).
+- **Proteínas <1,5 g/dl + ≥1 de** [Child-Pugh ≥9 · Bilirrubina ≥3 mg/dl · Cr ≥1,2 mg/dl · Na ≤130 mEq/l · BUN ≥25 mg/dl]: Norfloxacino 400 mg/24 h VO.
+
+**Profilaxis secundaria** (tras primer episodio de PBE): Norfloxacino 400 mg/24 h VO indefinido.
 
 ### PBS — Peritonitis Bacteriana Secundaria
 
@@ -129,10 +142,16 @@ PARACENTESIS DIAGNÓSTICA: más de 250 PMN y cultivo.
 TRATAMIENTO:
 Vigilancia hemodinámica
 Evitar AINEs, diuréticos e IECAs.
-Antibioterapia empírica
-Profilaxis síndrome hepato-renal: 1.5g/kg/24h IV y 1g/kg/24h el 3er día en pacientes con Br mayor 4, Cr menor 1mg7dl o BUN mayor 30.
+Antibioterapia empírica:
+- Comunitaria: Ceftriaxona 2 g/24 h IV × 5 d (o Cefotaxima 2 g/12 h IV × 5 d; Ciprofloxacino IV→VO × 5 d si alergia betalactámicos).
+- Nosocomial/cuidados sanitarios: Pip-Tazo 4 g/6-8 h IV × 5-7 d; Meropenem 1 g/8 h IV × 5 d ± cobertura Gram+ si alta prevalencia MMR.
+Profilaxis síndrome hepato-renal: Albúmina 1,5 g/kg/24h IV día 0 y 1 g/kg/24h día +3 en Br >4, Cr <1 mg/dl o BUN >30.
 
-**PROFILAXIS PBE**
+**PROFILAXIS PBE** (Manual cap. 42 Tabla 9)
+- **Primaria — HD:** Ceftriaxona 1 g/24 h IV × 7 días.
+- **Primaria — proteínas <1 g/dl:** Norfloxacino 400 mg/24 h VO (o TMP-SMX 160/800 mg/24 h, o Ciprofloxacino 500 mg/24 h).
+- **Primaria — proteínas <1,5 g/dl + disfunción hepática o renal** (Child-Pugh ≥9, Br ≥3, Cr ≥1,2, Na ≤130 o BUN ≥25): Norfloxacino 400 mg/24 h VO.
+- **Secundaria** (tras primer episodio PBE): Norfloxacino 400 mg/24 h VO indefinido.
 
 ### PERITONITIS BACTERIANA SECUNDARIA
 Infección del líquido ascítico por perforación visceral o infección intraabdominal.
