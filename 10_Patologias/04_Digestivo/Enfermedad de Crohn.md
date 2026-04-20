@@ -2,6 +2,8 @@
 aliases: [Crohn, Enfermedad de Crohn, EII, Enfermedad inflamatoria intestinal, Harvey-Bradshaw, CDAI]
 tags: [urgencias, digestivo, eii, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"
+fuente: "Manual 12 Octubre 2022, cap. 35 EII (p. 486-505)"
+last_fact_checked: 2026-04-21
 ---
 # Enfermedad de Crohn
 
@@ -44,7 +46,7 @@ Anamnesis y exploración igual que en la CU (ver [[Colitis Ulcerosa]]).
 - Ayuno + Sueroterapia + SNG descompresiva
 - Si sospecha de componente inflamatorio: Metilprednisolona 1 mg/kg/d
 - Si no respuesta: Infliximab.
-- Comentar con Cirugía General y Endocrino.
+- Comentar con Cirugía General y Endoscopia/Digestivo.
 
 ## Plantilla de Guardia
 
@@ -71,7 +73,7 @@ Si no mejoría en 1-2 semanas, ingresar para CTC IV.
 ### DESCARTAR COMPLICACIONES
 Absceso: sospechar en fiebre >39ºC y clínica sistémica. Pedir TAC abdominal.
 Tratamiento antibiótico:
-Ciprofloxacino o Ceftriaxona + Metrinidazol. Si buena respuesta y evolución radiológica se puede dejar ambulatorio durante 1 mes.
+Ciprofloxacino o Ceftriaxona + Metronidazol. Si buena respuesta y evolución radiológica se puede dejar ambulatorio durante 1 mes.
 Piperazilina/Tazobactam
 Imipenem o Meropenem
 Si >3cm intentar drenaje quirúrgico.
@@ -82,7 +84,7 @@ Ingreso hospitalario.
 Ayuno + Sueroterapia + SNG descompresiva
 Si sospecha de componente inflamatorio: Metilprednisolona 1mg/kg/d
 Si no respuesta: Infliximab.
-Comentar con Cirugía General y Endocrino.
+Comentar con Cirugía General y Endoscopia/Digestivo.
 
 ## 🔗 Relacionados
 - [[Colitis Ulcerosa]]

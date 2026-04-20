@@ -1,12 +1,14 @@
 ---
-aliases: [Colitis ulcerosa, CU, EII, Enfermedad inflamatoria intestinal, Mesalazina, Truelove-Witts]
+aliases: [Colitis ulcerosa, CU, EII, Enfermedad inflamatoria intestinal, Mesalazina, Truelove-Witts, Jalan]
 tags: [urgencias, digestivo, eii, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"
+fuente: "Manual 12 Octubre 2022, cap. 35 EII (p. 486-505)"
+last_fact_checked: 2026-04-21
 ---
 # Colitis Ulcerosa
 
 > [!warning] 🚨 Signos de Alarma
-> - Megacolon tóxico: dilatación colónica >5.5-6 cm + síntomas de toxicidad sistémica → cirugía urgente si no mejora en 72h
+> - Megacolon tóxico: dilatación de colon transverso ≥6 cm (criterios de Jalan) + síntomas de toxicidad sistémica → cirugía urgente si no mejora en 72h
 > - Perforación → cirugía urgente
 > - Hemorragia masiva → cirugía urgente
 
@@ -60,7 +62,7 @@ fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgenc
 - Prednisona 1 mg/kg/d IV (máx 60 mg/d)
 
 ### Descartar Complicaciones
-- **Megacolon tóxico:** dilatación colónica >5.5-6 cm + síntomas de toxicidad sistémica (fiebre, taquicardia, hipotensión, leucocitosis, anemia)
+- **Megacolon tóxico:** dilatación de colon transverso ≥6 cm (criterios de Jalan) + síntomas de toxicidad sistémica (fiebre, taquicardia, hipotensión, leucocitosis, anemia)
   - Valoración con Cirugía General
   - Rx abdomen en bipedestación
   - Nutrición parenteral total
@@ -76,7 +78,7 @@ fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgenc
 - Brote leve-moderado que no responde al tratamiento ambulatorio
 - Vómitos incoercibles o intolerancia oral
 - Sospecha de complicaciones: megacolon, perforación, hemorragia masiva (CU); abscesos, obstrucción intestinal, hemorragia masiva (E. Crohn)
-- **SI NO LOS CUMPLEN: DERIVAR A CONSULTAS DE EICI EN 24-71H SIN CITA (8:00-13:30)**
+- **SI NO LOS CUMPLEN: DERIVAR A CONSULTAS DE EICI EN 24-72 h SIN CITA (8:00-13:30)**
 
 ### Preparación para Ingreso
 
@@ -168,7 +170,7 @@ En caso de fracaso, intolerancia o contraindicación para estos tratamientos, in
 Prednisona 1mg/kg/d IV (máx 60mg/d)
 
 ### DESCARTAR COMPLICACIONES
-Megacolon tóxico: dilatación colónica >5.5-6cm + síntomas de toxicidad sistémica (fiebre, taquicardia, hipotensión, leucocitosis, anemia).
+Megacolon tóxico: dilatación de colon transverso ≥6 cm (criterios de Jalan) + síntomas de toxicidad sistémica (fiebre, taquicardia, hipotensión, leucocitosis, anemia).
 Valoración con Cirugia General
 Rx abdomen en bipedestación
 Nutrición parenteral total
@@ -187,7 +189,7 @@ Vómitos incoercibles o intolerancia oral
 Sospecha de complicaciones:
 Colitis ulcerosa:  (megacolon, perforación, hemorragia masiva)
 E. Crohn: (abscesos, obstrucción intestinal, hemorragia masiva…)
-SI NO LOS CUMPLEN: DERIVAR  A CONSULTAS DE EICI EN 24-71H SIN CITA (8:00-13:30)
+SI NO LOS CUMPLEN: DERIVAR  A CONSULTAS DE EICI EN 24-72 h SIN CITA (8:00-13:30)
 ### PREPARACIÓN PARA INGRESO
 **Pruebas complementarias:**
 1. Analítica de ingreso
