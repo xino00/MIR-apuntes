@@ -2,6 +2,8 @@
 aliases: [Pancreatitis, Pancreatitis aguda, BISAP, Atlanta, Lipasa, Amilasa]
 tags: [urgencias, digestivo, cirugia-general, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"
+fuente: "Manual 12 Octubre 2022, cap. 39 Pancreatitis (p. 555-565)"
+last_fact_checked: 2026-04-21
 ---
 # Pancreatitis Aguda
 
@@ -33,10 +35,11 @@ fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgenc
 - **Hidratación:** 5-10 ml/kg en la primera hora, luego 1-3 ml/kg. Preferiblemente cristaloides
 - **Analgesia:** no hay ninguno contraindicado. De elección **hidromorfona**
 - **Nutrición:** enteral de elección (la atrofia vellositaria favorece la traslocación bacteriana). Pobre en grasas
-- **Antibioterapia: NO.** Ni siquiera con pancreatitis grave ni con necrosis
+- **Antibioterapia profiláctica: NO.** Ni siquiera con pancreatitis grave ni con necrosis estéril (Manual cap. 39 p.561).
+- **Antibioterapia empírica SÍ** ante sospecha/confirmación de **necrosis infectada** (Manual cap. 39 p.562): fármacos con penetración pancreática — **carbapenémicos, ciprofloxacino + metronidazol**.
 - **Tratamiento etiológico:**
   - Litiásica: colecistectomía. Si necrosis, diferir hasta que baje la inflamación
-  - Coledocolitiasis o colangitis aguda: CPRE en las primeras 72 horas
+  - Coledocolitiasis o colangitis aguda: CPRE tan pronto como sea posible, **en las primeras 72 horas (<12 h si shock séptico)**
   - Tóxica: abandonar consumo de alcohol o fármaco
   - Hipertrigliceridemia: el ayuno baja los TG. Si no, fibratos o gemfibrozilo
 
@@ -65,6 +68,6 @@ Nutrición: enteral de elección (la atrofia vellositaria favorece la traslocaci
 Antibioterapia NO. Ni siquiera con pancreatitis grave ni con necrosis.
 Etiológico:
 Litiásica: colecistectomía. Si necrosis, diferir hasta que baje la inflamación.
-Coledocolitiasis o colangitis aguda: CPRE en las primeras 72 horas.
+Coledocolitiasis o colangitis aguda: CPRE tan pronto como sea posible, **en las primeras 72 horas (<12 h si shock séptico)**.
 Tóxica: abandonar consumo de alcohol o fármaco.
 Hipertrigliceridemia: el ayuno baja los TG. Si no, fibratos o gembrozilo.
