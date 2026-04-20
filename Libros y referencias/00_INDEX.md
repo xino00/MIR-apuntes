@@ -8,7 +8,7 @@ description: "Inventario de PDFs y guías clínicas del vault organizado por esp
 
 Inventario y mapeo del corpus de guías clínicas en `Libros y referencias/`. Cada PDF se ha asignado a una subcarpeta por especialidad para facilitar su uso como fuente primaria del fact-check del vault y como referencia rápida en guardia.
 
-**Total:** 49 PDFs productivos en 9 subcarpetas + 9 archivos en `_archive/` (duplicados y notas en texto plano antiguas).
+**Total:** 50 PDFs productivos en 10 subcarpetas + 9 archivos en `_archive/` (duplicados y notas en texto plano antiguas).
 
 ## Cómo usar este índice
 
@@ -125,6 +125,14 @@ Inventario y mapeo del corpus de guías clínicas en `Libros y referencias/`. Ca
 | SUJECION FISICA.pdf | Procedimiento | Contención mecánica en urgencias |
 | SUMISION QUIMICA FJD.pdf | Procedimiento | Sumisión química / agitación |
 
+### 10_Digestivo/  (1 guía)
+
+| Archivo | Año | Sociedad | Notas que valida |
+|---|---|---|---|
+| ACG 2021 - HDA y Ulcera.pdf | 2021 | ACG (Laine et al, Am J Gastroenterol 2021;116:899-917) | [[Hemorragia Digestiva Alta (HDA)]] (Glasgow-Blatchford, transfusión Hb 7 g/dL, eritromicina pre-endoscopia, terapia endoscópica, IBP dosis altas 72h) |
+
+**Sin PDF dedicado (pendiente):** HDB, EII, cirrosis y complicaciones, pancreatitis, colangitis. Fallback: Manual + AEG/SEPD/Baveno VII.
+
 #### ORL (subcarpeta `09_Urgencias_FJD/ORL/`)
 
 | Archivo | Cubre |
@@ -144,7 +152,7 @@ Inventario y mapeo del corpus de guías clínicas en `Libros y referencias/`. Ca
 
 | Especialidad | Fallback primario | Fallback web (sociedad) |
 |---|---|---|
-| Digestivo | Manual 12 Oct cap GI | AEG, SEPD, ESGE |
+| Digestivo (parcial, falta HDB/EII/cirrosis) | Manual 12 Oct cap GI + `10_Digestivo/ACG 2021 - HDA y Ulcera.pdf` (solo HDA) | AEG, SEPD, ESGE, Baveno VII |
 | Reumatología | Manual 12 Oct cap Reuma | SER, EULAR, ACR |
 | Dermatología | Manual 12 Oct cap Derma | AEDV, EADV |
 | Endocrinología | Manual 12 Oct cap Endo | SEEN, ADA, ATA, ESMO |
