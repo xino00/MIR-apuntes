@@ -48,7 +48,8 @@ description: "Handoff para próxima sesión de Claude — estado del fact-check 
 ### Prioridad ALTA — antes de rotación cardio junio 2026
 
 1. ✅✅ **Cardio aplicado 2026-04-20** — 95/105 hallazgos ✅ (90.5%), **13/13 🔴 críticos al 100%**. Recheck en `_recheck_cardio.md`. Pendiente solo revisar 7 ⚠ parciales y 2 ❌ no críticos.
-2. **Aplicar correcciones críticas del resto de especialidades** (28🔴 restantes). Ver `INDEX.md` para top por ola.
+2. ✅✅ **Dermato aplicado 2026-04-21** — 18/19 hallazgos ✅ (95%), **1/1 🔴 crítico al 100%**. Recheck en `_recheck_dermato.md`. Primera aplicación usando `/factcheck-apply`.
+3. **Aplicar correcciones críticas del resto de especialidades** (27🔴 restantes). Ver `INDEX.md` para top por ola.
 
 2. **Reescribir 4 notas vacías** (urgencias vitales sin contenido):
    - `[[Cetoacidosis Diabética (CAD)]]` — Manual cap.51 + ADA-EASD 2024

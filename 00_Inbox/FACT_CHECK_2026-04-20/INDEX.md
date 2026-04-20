@@ -45,7 +45,7 @@ Cada especialidad tiene su propio archivo. Cada hallazgo lleva:
 | 10 | ORL | **9/9** | ✅ Fase 2 Ola 2 | **14 (2🔴 · 5🟠 · 4🟢 · 3⚪)** | [[10_ORL]] |
 | 11 | Urología | **4/4** | ✅ Fase 2 Ola 2 | **16 (1🔴 · 5🟠 · 6🟢 · 4⚪)** | [[11_Urologia]] |
 | 12 | Traumatología | **15/15** | ✅ Fase 2 Ola 2 | **21 (3🔴 · 9🟠 · 4🟢 · 5⚪)** | [[12_Traumatologia]] |
-| 13 | Dermatología | **3/3** | ✅ Fase 2 Ola 3 | **12 (1🔴 · 5🟠 · 4🟢 · 2⚪)** | [[13_Dermatologia]] |
+| 13 | Dermatología | **3/3** | ✅✅ **Aplicado 2026-04-21 (18/19 ✅ · 1 ⚠ · 0 ❌ · 1🔴 al 100%)** | **12 (1🔴 · 5🟠 · 4🟢 · 2⚪)** | [[13_Dermatologia]] · recheck → [[_recheck_dermato]] |
 | 14 | Psiquiatría | **7/7** | ✅ Fase 2 Ola 2 | **14 (0🔴 · 3🟠 · 4🟢 · 7⚪)** | [[14_Psiquiatria]] |
 
 ¹ Endocrino: el subagente auditó solo 3 notas porque CAD y SHH están **vacías** (apuntan a "imágenes del archivo original" sin contenido clínico). Las 4 críticas son de notas que existen pero requieren reescritura completa.
