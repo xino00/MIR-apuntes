@@ -2,6 +2,8 @@
 aliases: [Cólico biliar, Cólico hepático, Litiasis vesicular, Colelitiasis]
 tags: [urgencias, digestivo, cirugia-general, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"
+fuente: "Manual 12 Octubre 2022, cap. 38 Vías biliares (p. 545)"
+last_fact_checked: 2026-04-21
 ---
 # Cólico Biliar
 
@@ -32,10 +34,10 @@ fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencia
 ## Plantilla de Guardia
 
 **RESUMEN PATOLOGÍA BILIAR:**
-Cólico biliar (obstrucción incompleta): dolor cólico en HCD + NO fiebre + NO ictericia. AS normal. No hace falta ecografía abdominal urgente. Tto sintomático y ambulatorio.
-Coledocolitiasis: dolor cólico en HCD +/- ictericia y colestasis + Murphy positivo +/- colangitis. Eco abdominal urgente. Tto sintomático +/- antibiótico +/- desobstructivo (CPRE). INGRESO.
-Colangitis: (infección) dolor en HCD + ictericia + fiebre. Tto sintomático + antibioterapia (ceftri+metro por ejemplo). INGRESO
-Colecistitis: (infección vesícula) dolor cólico HCD + Murphy  positivo + fiebre. NO ictericia (excepto si coledocolitiasis). Tto sintomático y antibiótico (amoxiclav) . INGRESO a C General (en principio)
+Cólico biliar (obstrucción incompleta): dolor cólico en HCD + NO fiebre + NO ictericia. AS normal. No hace falta ecografía abdominal urgente. Tto sintomático y ambulatorio. **NO requiere antibiótico** (no es infección).
+Coledocolitiasis: dolor cólico en HCD +/- ictericia y colestasis + Murphy positivo +/- colangitis. Eco abdominal urgente. Tto sintomático +/- antibiótico (si colangitis asociada) + desobstructivo (CPRE). INGRESO.
+Colangitis: (infección) dolor en HCD + ictericia + fiebre. Tto sintomático + antibioterapia (**ceftriaxona 2 g/24 h** en monoterapia; metronidazol solo si fístula bilioentérica) + **drenaje biliar <24 h (CPRE)**. INGRESO.
+Colecistitis: (infección vesícula) dolor cólico HCD + Murphy positivo + fiebre. NO ictericia (excepto si coledocolitiasis). Tto sintomático + antibiótico (**ceftriaxona 2 g/24 h** monoterapia; metronidazol solo si fístula bilioentérica) + colecistectomía laparoscópica precoz. INGRESO a C General.
 
 ---
 

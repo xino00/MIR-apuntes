@@ -2,6 +2,8 @@
 aliases: [Colecistitis, Colecistitis aguda, Murphy positivo, Colelitiasis complicada]
 tags: [urgencias, digestivo, cirugia-general, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"
+fuente: "Manual 12 Octubre 2022, cap. 73 Infecciones intraabdominales (p. 1099-1103, Tabla 9)"
+last_fact_checked: 2026-04-21
 ---
 # Colecistitis Aguda
 
@@ -20,13 +22,16 @@ fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencia
 **Tratamiento en Urgencias:**
 - Analgesia: Dexketoprofeno 25mg / Ibuprofeno 600mg
 - Antieméticos: Metoclopramida / Ondansetrón
-- Antibioterapia: Ceftriaxona 2gr/d + Metronidazol 500mg/8h o PiperTazo 4g/8h +/- Drenaje biliar
+- **Antibioterapia empírica** (Manual cap. 73 Tabla 9 — **sin cobertura anaerobia salvo fístula bilioentérica**):
+  - **Leve-moderada comunitaria:** Ceftriaxona 2 g/24 h IV en monoterapia. Alternativa: Piperacilina-tazobactam 4 g/6-8 h IV.
+  - **Grave o nosocomial:** Piperacilina-tazobactam 4 g/6-8 h IV · Meropenem 1 g/8 h IV (alta prevalencia MMR).
+  - **Añadir metronidazol 500 mg/8 h** solo si **fístula bilioentérica** (anastomosis bilio-digestiva, stent biliar, ERCP previa).
 
 **Plan de ingreso:**
-- Ceftriaxona 2gr/24h + Metronidazol 500mg/8h
+- Antibioterapia según gravedad (ver arriba).
 - Dieta absoluta. Sueros de mantenimiento.
 - Analgésicos y antitérmicos pautados.
-- Comentar con Cirugía General de guardia si precisa drenaje biliar urgente.
+- Comentar con Cirugía General de guardia: **colecistectomía laparoscópica precoz** (<72 h) de elección en colecistitis leve-moderada. Si alto riesgo quirúrgico: colecistostomía percutánea.
 
 ## Criterios de Ingreso / Alta
 
