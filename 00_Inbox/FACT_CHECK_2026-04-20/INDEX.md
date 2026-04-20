@@ -36,7 +36,7 @@ Cada especialidad tiene su propio archivo. Cada hallazgo lleva:
 | 01 | Cardiología | **36/36** | ✅✅ **Aplicado 2026-04-20 (95/105 ✅ · 7 ⚠ · 2 ❌ · 1 ❓ · 13🔴 al 100%)** | **105 (13🔴 · 46🟠 · 30🟢 · 16⚪)** | [[01_Cardio]] · recheck → [[_recheck_cardio]] |
 | 02 | Neurología | **18/18** | ✅ Fase 2 Ola 1 | **14 (2🔴 · 6🟠 · 3🟢 · 3⚪)** | [[02_Neuro]] |
 | 03 | Infecciosas | **15/15** | ✅ Fase 2 Ola 1 | **26 (1🔴 · 11🟠 · 10🟢 · 4⚪)** | [[03_Infecciosas]] |
-| 04 | Digestivo | **18/18** | ✅ Fase 2 Ola 3 | **27 (5🔴 · 9🟠 · 6🟢 · 7⚪)** | [[04_Digestivo]] |
+| 04 | Digestivo | **18/18** | ✅✅ **Aplicado 2026-04-21 (24/27 ✅ · 2 ⚠ · 0 ❌ · 1 ❓ · 5🔴 al 100%)** | **27 (5🔴 · 9🟠 · 6🟢 · 7⚪)** | [[04_Digestivo]] · recheck → [[_recheck_digestivo]] |
 | 05 | Neumología | **17/17** | ✅ Fase 2 Ola 1 | **16 (0🔴 · 7🟠 · 5🟢 · 4⚪)** | [[05_Neumologia]] |
 | 06 | Nefrología | **9/9** | ✅ Fase 2 Ola 1 | **22 (1🔴 · 9🟠 · 9🟢 · 3⚪)** | [[06_Nefrologia]] |
 | 07 | Reumatología | **10/10** | ✅ Fase 2 Ola 3 | **34 (5🔴 · 12🟠 · 9🟢 · 8⚪)** | [[07_Reumatologia]] |

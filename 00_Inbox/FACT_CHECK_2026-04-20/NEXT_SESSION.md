@@ -49,13 +49,13 @@ description: "Handoff para próxima sesión de Claude — estado del fact-check 
 
 1. ✅✅ **Cardio aplicado 2026-04-20** — 95/105 hallazgos ✅ (90.5%), **13/13 🔴 críticos al 100%**. Recheck en `_recheck_cardio.md`. Pendiente solo revisar 7 ⚠ parciales y 2 ❌ no críticos.
 2. ✅✅ **Dermato aplicado 2026-04-21** — 18/19 hallazgos ✅ (95%), **1/1 🔴 crítico al 100%**. Recheck en `_recheck_dermato.md`. Primera aplicación usando `/factcheck-apply`.
-3. **Aplicar correcciones críticas del resto de especialidades** (27🔴 restantes). Ver `INDEX.md` para top por ola.
+3. ✅✅ **Digestivo aplicado 2026-04-21** — 24/27 hallazgos ✅ (88.9%), **5/5 🔴 críticos al 100%**. Recheck en `_recheck_digestivo.md`. Sección PBE de Cirrosis rellenada.
+4. **Aplicar correcciones críticas del resto de especialidades** (22🔴 restantes). Ver `INDEX.md` para top por ola.
 
-2. **Reescribir 4 notas vacías** (urgencias vitales sin contenido):
+5. **Reescribir 3 notas vacías** (urgencias vitales sin contenido):
    - `[[Cetoacidosis Diabética (CAD)]]` — Manual cap.51 + ADA-EASD 2024
    - `[[Síndrome Hiperglucémico Hiperosmolar (SHH)]]` — Manual cap.51
    - `[[Sdme Hemofagocitico]]` — Manual p.1284 Tabla 5 (HLH-2004) + H-Score + dexa+etopósido
-   - Sección "PROFILAXIS PBE" en `[[Complicaciones de la Cirrosis Hepática]]` — Manual cap.42 Tabla 9
 
 ### Prioridad MEDIA
 
