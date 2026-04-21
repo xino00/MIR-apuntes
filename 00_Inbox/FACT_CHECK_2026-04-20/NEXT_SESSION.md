@@ -50,9 +50,10 @@ description: "Handoff para próxima sesión de Claude — estado del fact-check 
 1. ✅✅ **Cardio aplicado 2026-04-20** — 95/105 hallazgos ✅ (90.5%), **13/13 🔴 críticos al 100%**. Recheck en `_recheck_cardio.md`. Pendiente solo revisar 7 ⚠ parciales y 2 ❌ no críticos.
 2. ✅✅ **Dermato aplicado 2026-04-21** — 18/19 hallazgos ✅ (95%), **1/1 🔴 crítico al 100%**. Recheck en `_recheck_dermato.md`. Primera aplicación usando `/factcheck-apply`.
 3. ✅✅ **Digestivo aplicado 2026-04-21** — 24/27 hallazgos ✅ (88.9%), **5/5 🔴 críticos al 100%**. Recheck en `_recheck_digestivo.md`. Sección PBE de Cirrosis rellenada.
-4. **Aplicar correcciones críticas del resto de especialidades** (22🔴 restantes). Ver `INDEX.md` para top por ola.
+4. ✅✅ **Reumatología aplicada 2026-04-21** — 33/34 hallazgos ✅ (97.1%), **5/5 🔴 críticos al 100%**. Recheck en `_recheck_reumato.md`. Sarcoidosis reescrita completamente.
+5. **Aplicar correcciones críticas del resto de especialidades** (17🔴 restantes). Ver `INDEX.md` para top por ola.
 
-5. **Reescribir 3 notas vacías** (urgencias vitales sin contenido):
+6. **Reescribir 3 notas vacías** (urgencias vitales sin contenido):
    - `[[Cetoacidosis Diabética (CAD)]]` — Manual cap.51 + ADA-EASD 2024
    - `[[Síndrome Hiperglucémico Hiperosmolar (SHH)]]` — Manual cap.51
    - `[[Sdme Hemofagocitico]]` — Manual p.1284 Tabla 5 (HLH-2004) + H-Score + dexa+etopósido

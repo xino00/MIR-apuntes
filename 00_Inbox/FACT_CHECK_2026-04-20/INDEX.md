@@ -39,7 +39,7 @@ Cada especialidad tiene su propio archivo. Cada hallazgo lleva:
 | 04 | Digestivo | **18/18** | ✅✅ **Aplicado 2026-04-21 (24/27 ✅ · 2 ⚠ · 0 ❌ · 1 ❓ · 5🔴 al 100%)** | **27 (5🔴 · 9🟠 · 6🟢 · 7⚪)** | [[04_Digestivo]] · recheck → [[_recheck_digestivo]] |
 | 05 | Neumología | **17/17** | ✅ Fase 2 Ola 1 | **16 (0🔴 · 7🟠 · 5🟢 · 4⚪)** | [[05_Neumologia]] |
 | 06 | Nefrología | **9/9** | ✅ Fase 2 Ola 1 | **22 (1🔴 · 9🟠 · 9🟢 · 3⚪)** | [[06_Nefrologia]] |
-| 07 | Reumatología | **10/10** | ✅ Fase 2 Ola 3 | **34 (5🔴 · 12🟠 · 9🟢 · 8⚪)** | [[07_Reumatologia]] |
+| 07 | Reumatología | **10/10** | ✅✅ **Aplicado 2026-04-21 (33/34 ✅ · 1 ⚠ · 0 ❌ · 5🔴 al 100%)** | **34 (5🔴 · 12🟠 · 9🟢 · 8⚪)** | [[07_Reumatologia]] · recheck → [[_recheck_reumato]] |
 | 08 | Hematología | **9/9** | ✅ Fase 2 Ola 2 | **16 (3🔴 · 7🟠 · 4🟢 · 2⚪)** | [[08_Hematologia]] |
 | 09 | Endocrinología | **3/3** auditadas¹ | ✅ Fase 2 Ola 1 | **16 (4🔴 · 6🟠 · 4🟢 · 2⚪)** | [[09_Endocrino]] |
 | 10 | ORL | **9/9** | ✅ Fase 2 Ola 2 | **14 (2🔴 · 5🟠 · 4🟢 · 3⚪)** | [[10_ORL]] |
