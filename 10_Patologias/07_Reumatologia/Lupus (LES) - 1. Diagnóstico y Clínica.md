@@ -1,6 +1,8 @@
 ---
 aliases: [Lupus, LES, Lupus Eritematoso Sistémico]
-tags: [reuma, autoinmunidad, lupus, diagnóstico]
+tags: [reuma, autoinmunidad, patologia]
+fuente: "Manual 12 Octubre 2022, cap. 92 (Conectivopatías), apartado 1"
+last_fact_checked: 2026-04-21
 ---
 # Lupus (LES) - 1. Diagnóstico y Clínica
 
@@ -46,7 +48,7 @@ Para diagnosticar LES, el sistema inmunitario debe dejar su rastro en la sangre.
 | :------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **ANA (Antinucleares)**          | **> 95% de sensibilidad.** Son el criterio de entrada por excelencia. Si los ANA son negativos, buscar otro diagnóstico.                                                                       |
 | **Anti-dsDNA**                   | **Altamente Específicos (~95%).** Sirven para **Monitorizar**. Sus títulos reflejan fielmente la actividad total del Lupus (suben antes de un brote, asociados a la terrible Nefritis Lúpica). |
-| **Anti-Sm (Smith)**              | **Los más específicos (> 98%).** Pero solo presentes en un 30% de pacientes. Su nivel NO se correlaciona con la enfermedad activa.                                                             |
+| **Anti-Sm (Smith)**              | **Especificidad cercana al 100%** (Manual cap. 90 tabla 3 p. 1370), pero **baja sensibilidad (~30%)**. Su nivel NO se correlaciona con la enfermedad activa.                                                             |
 | **Anti-Ro / Anti-La**            | Asociado a Lupus Cutáneo Subagudo, bloqueo cardíaco completo fetal (Lupus Neonatal) y Sjögren secundario.                                                                                      |
 | **Anticuerpos Antifosfolípidos** | (Anticardiolipina, Anti-Beta2GPI, Anticoagulante lúpico). Otorgan enorme riesgo de trombosis e infartos jóvenes (1/3 de los LES los tienen).                                                   |
 | **Complemento (C3 y C4)**        | **Se consumen (bajan).** Es una enfermedad de Inmunocomplejos. En un brote grave de actividad lúpica, verás los *Anti-DNA disparados* y el *Complemento por los suelos*.                       |
@@ -58,7 +60,8 @@ Para diagnosticar LES, el sistema inmunitario debe dejar su rastro en la sangre.
 
 **Criterio de Entrada Obligatorio:**
 👉 **ANA $\geq$ 1:80** en células HEp-2. (Si no se cumple, ¡NO clasificar como LES!).
+> *Ojo: el umbral para la clasificación EULAR/ACR 2019 es ≥ 1/80 (NO ≥ 1/160, que es el corte de positividad clínica habitual del Manual cap. 90 p. 1369).*
 
 **Criterios Clínicos y Sistémicos Ponderados:**
 Si cumple el criterio de entrada ANA, se suman puntos de los diferentes dominios, requiriendo **$\geq$ 10 puntos totales** (y al menos 1 clínico) para etiquetarlo de LES.
-*(La Nefritis Lúpica demostrada por Biopsia clase III/IV pesa por sí sola 10 puntos = LES directo).*
+*(Biopsia renal con Nefritis Lúpica clases **II o V = 8 puntos**; clases **III o IV = 10 puntos** → LES directo. Manual cap. 92 fig. 1 p. 1392).*
