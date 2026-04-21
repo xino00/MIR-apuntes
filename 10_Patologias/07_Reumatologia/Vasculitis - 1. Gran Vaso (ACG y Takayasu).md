@@ -1,6 +1,8 @@
 ---
 aliases: [Vasculitis de Gran Vaso, ACG, Arteritis de la Temporal, Arteritis de Takayasu]
-tags: [reuma, vasculitis, urgencias, ceguera]
+tags: [reuma, urgencias, patologia]
+fuente: "Manual 12 Octubre 2022, cap. 93 (Vasculitis), apartado 1.2 (ACG/PMR)"
+last_fact_checked: 2026-04-21
 ---
 # Vasculitis - 1. Gran Vaso (Aorta y Ramas Mayores)
 
@@ -12,8 +14,8 @@ Las vasculitis de gran vaso afectan típicamente a la arteria aorta y sus ramas 
 
 ## 👵🏻 1. Arteritis de Células Gigantes (ACG / Arteritis Temporal o Enf. de Horton)
 Es la vasculitis sistémica más prevalente del adulto general global.
-- **Perfil Diagnóstico Intocable:** Prácticamente **exclusiva de personas > 50 años** (el pico absoluto máximo incide a los > 70-75 años). Más frecuente en mujeres nórdicas/blancas.
-- **Polimialgia Reumática (PMR):** Alrededor del 50% de las ACG crónicas asocian PMR (rigidez en cinturas pélvica/escapular intratable en el abuelo invalidante), por lo que siempre deben buscarse signos cruzados basales.
+- **Perfil Diagnóstico:** Prácticamente **exclusiva de personas > 50 años** (pico de máxima incidencia **70-79 años**; raramente <50 años). Más frecuente en mujeres caucásicas. *Manual 12 Oct cap. 93 p. 1411*.
+- **Polimialgia Reumática (PMR):** **40-60% de las ACG asocian PMR**; recíprocamente, 10-20% de PMR desarrollan ACG (rigidez en cinturas pélvica/escapular invalidante). *Manual p. 1411*.
 
 ### Clínica de Sospecha
 Su peligro en Urgencias no es la muerte articular, sino un evento local catastrófico de la arteria oftálmica.
@@ -25,18 +27,22 @@ Su peligro en Urgencias no es la muerte articular, sino un evento local catastr�
 ### Diagnóstico de Oro
 - **Analítica de Laboratorio basal:** **VSG de triple cifra (>80-100 mm/h)** o PCR elevadísima + Anemia de trastorno crónico paralela profunda de alarma + trombocitosis aguda reactiva.
 - **Eco-Doppler de la Temporal Superficial:** Signo patognomónico isquémico del **"Halo hipoecogénico"** (edema mural concéntrico de la pared ocluyendo todo).
-- **Biopsia Arterial (Temp.):** Estándar de confirmación formal. (Granulomas con células multinucleadas fibróticas infiltradas disrumpiendo agresivamente lámina interna). 
+- **Biopsia Arterial (Temporal):** **Especificidad ~100%, sensibilidad ~40%** (por afectación parcheada). El tratamiento esteroideo previo no reduce la sensibilidad de forma inmediata, si bien empieza a disminuir a partir de la semana de tratamiento. Granulomas con células multinucleadas gigantes disrumpiendo lámina elástica interna. *Manual 12 Oct cap. 93 p. 1411*. **Las guías actuales priorizan ECO-Doppler como prueba inicial**; biopsia no imprescindible si imagen patológica clara y alta sospecha clínica. 
 
 ### Tratamiento de la Arteritis Temporal (Piedra angular corticosteroidea)
-> [!important] NORMA DE ORO EN URGENCIAS MUNDIALES
-> Si existe **alta sospecha clínica de ACG + dolor visual ocular isquémico** en el anciano, está **TERMINANTEMENTE PROHIBIDO** y retrasa imperdonablemente esperar inactivo al cirujano o a la biopsia de confirmación patológica antes de curar.
-> - Se inician **inmediatamente** Corticoides a altísimas megadosis pre-laboratorio (p. ej. **Prendisona 1 mg/kg orales o Pulsos Megadosis [[Metilprednisolona]] Intravenosa de 1.000mg tres días**) para tratar desesperadamente recuperar y salvar de cicatriz final inflamatoria vital la vista/ojo del paciente, ya que **la ceguera por isquemia óptica anterógrada por ACG instaurada es 100% irreversible**. La biopsia será fidedigna útil diagnósticamente muchos días e incluso 2 semanas después de iniciar agresivos corticos. Se puede añadir **Tocilizumab (anti-IL6)** fuertemente en mantenimiento actual guiado por EULAR para ahorro tóxico.
+> [!important] ALGORITMO DE TRATAMIENTO (Manual 12 Oct cap. 93 fig. 1 p. 1412)
+> **No retrasar el tratamiento** esperando a la biopsia: la ceguera por isquemia óptica instaurada es irreversible. Iniciar de forma inmediata, sobre todo ante amaurosis fugax.
+>
+> - **ACG estándar (sin complicaciones isquémicas graves):** **Prednisona 40-60 mg/día v.o.** + valorar añadir **tocilizumab** o **metotrexato** (efecto ahorrador de corticoides).
+> - **ACG con afectación visual / amaurosis fugax / ictus:** **Bolos de metilprednisolona i.v. 0,5-1 g × 3 días**, seguidos de **prednisona 1 mg/kg/día v.o.** en descenso. Iniciar antes de la biopsia.
+>
+> La biopsia sigue siendo útil hasta 1 semana tras iniciar corticoides. **Tocilizumab (anti-IL-6)** en mantenimiento para ahorro de corticoides según EULAR.
 
 ---
 
 ## 👩🏻‍⚕️ 2. Arteritis de Takayasu ("Enfermedad Sin Pulsos")
 El alter-ego joven subclavio inflamatorio subagudo granulomatoso vascular oriental.
-- **Perfil Histórico Clásico:** Predomina abrumadoramente en **mujeres asiáticas jóvenes (< 40 años)**.
+- **Perfil Histórico Clásico:** Predomina abrumadoramente en **mujeres asiáticas jóvenes (< 40 años)**. *(Manual 12 Oct 2022 no desarrolla Takayasu en detalle; información clásica — cap. 93 tabla 1 p. 1409 sólo recoge la definición).*
 
 ### Clínica Isquémica Sistémica
 Afecta a la rama principal de la aorta, estrechándola mediante engrosamiento granulomatoso severo fibroso interno de la pared de salida originando coartaciones isquémicas arteríticas de origen de sus ramas de extremidades (Subclavia).
