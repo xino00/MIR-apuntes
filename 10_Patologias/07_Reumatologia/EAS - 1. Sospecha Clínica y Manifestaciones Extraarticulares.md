@@ -1,6 +1,8 @@
 ---
 aliases: [EAS, Enfermedad Autoinmune Sistémica, Conectivopatías, Sospecha Reumatológica]
-tags: [reuma, autoinmunidad, diagnóstico, semiología]
+tags: [reuma, autoinmunidad, patologia]
+fuente: "Manual 12 Octubre 2022, cap. 90 (Aproximación a la enfermedad reumática)"
+last_fact_checked: 2026-04-21
 ---
 # EAS - 1. Sospecha Clínica y Manifestaciones Extraarticulares
 
@@ -40,10 +42,10 @@ A menudo el reumatólogo es llamado por el Neumólogo ante placas torácicas ine
 * **Hemorragia Alveolar Difusa (Infiltrados bilaterales + Hemoptisis + Caída de Hb):**
   $\to$ **Sospecha:** Vasculitis ANCA (GPA, PAM), Lupus severo o Síndrome de Goodpasture (Anti-MBG). **Urgencia vital**.
 * **Derrame pleural (exudado de predominio linfocitario) o pleuritis:**
-  $\to$ **Sospecha:** LES (muy frecuente serositis aguda), Artritis Reumatoide (glucosa plural muuuuy baja).
+  $\to$ **Sospecha:** LES (muy frecuente serositis aguda), Artritis Reumatoide (glucosa pleural <30 mg/dL, conocimiento clínico clásico complementario al Manual).
 
 ## 🩸 3. Manifestaciones Renales (Glomerulonefritis)
-La aparición de microhematuria, proteinuria (> 0.5 g/24h) o fracaso renal agudo inexplicado en jovenes/mujeres.
+La aparición de microhematuria, proteinuria (> 0.5 g/24h — criterio clasificatorio EULAR/ACR 2019 LES, Manual 12 Oct cap. 92 fig. 1 p. 1392) o fracaso renal agudo inexplicado en jóvenes/mujeres.
 
 * **Glomerulonefritis Proliferativa o Membranosa:**
   $\to$ **Sospecha:** Nefritis Lúpica (Marcador: Anti-DNA a títulos estratosféricos y Complemento C3/C4 por los suelos).

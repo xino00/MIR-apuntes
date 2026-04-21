@@ -1,10 +1,12 @@
 ---
 aliases: [ANA, ENA, ANCA, Factor Reumatoide, Anti-CCP, Inmunología, Autoanticuerpos]
-tags: [reuma, analítica, autoinmunidad, anticuerpos]
+tags: [reuma, autoinmunidad, patologia]
+fuente: "Manual 12 Octubre 2022, cap. 90 (Aproximación a la enfermedad reumática), apartado 4.1.5 Autoanticuerpos"
+last_fact_checked: 2026-04-21
 ---
 # EAS - 2. Inmunología y Autoanticuerpos
 
-**Basado en:** *Práctica Clínica de Reumatología e Inmunología*
+**Basado en:** *Manual 12 Octubre 2022, cap. 90 (Aproximación a la enfermedad reumática), apartado 4.1.5 Autoanticuerpos*
 
 La "batería de autoinmunidad" es frecuentemente solicitada sin criterio, dando lugar a infinidad de falsos positivos que asustan a pacientes sanos. **Los autoanticuerpos no diagnostican enfermedades por sí solos**, son un apoyo a la clínica. 
 
@@ -15,7 +17,7 @@ Es la prueba de **cribado inicial ( स्क्रीनिंग )** por excel
 
 - **Sensibilidad:** Altamente sensibles para el [[Lupus Eritematoso Sistémico (LES)]] (> 95% de Lúpicos tienen ANA+). *Unos ANA negativos descartan casi al 100% un LES clásico.*
 - **Especificidad:** Baja. Un 5-10% de la población **sana** tiene ANA positivos a títulos bajos.
-- **Títulos:** Se consideran positivos clínicamente relevantes a títulos de dilución altos (≥ 1/160 o 1/320).
+- **Títulos:** Se consideran positivos a partir de **1/80–1/160**; son más sugestivos de EAS cuanto más altos. *(Umbral para criterios clasificatorios LES EULAR/ACR 2019: ≥1/80 obligatorio)*.
 - **Patrones de IFI (orientativos pero no absolutos):**
   - *Homogéneo / Periférico:* Típico del LES.
   - *Moteado:* Sjogren, EMTC.
@@ -41,14 +43,14 @@ Si los ANA son positivos (> 1/160), el laboratorio o el clínico los desglosa (o
 
 ## 🩸 3. Anticuerpos en Artritis Reumatoide (AR)
 - **Factor Reumatoide (FR):** Anticuerpo IgM contra la porción Fc de nuestra IgG. **Poco específico**. Puede estar presente en población anciana sana, endocarditis, hepatitis C, Síndrome de Sjögren y crioglobulinemias.
-- **Anti-Péptido Cíclico Citrulinado (Anti-CCP):** **Básico y Revolucionario**. Es patognomónico y altamente **Específico (> 95%)** para la AR. Presente años antes de que duelan las articulaciones. Su presencia predice una agresiva enfermedad *erosiva ósea*.
+- **Anti-Péptido Cíclico Citrulinado (Anti-CCP):** **Básico y Revolucionario**. Altamente **específico (94-99%)** aunque con **sensibilidad moderada (~64%)** para la AR. Presente años antes de que duelan las articulaciones. Su presencia predice una agresiva enfermedad *erosiva ósea*. *Manual 12 Oct cap. 90 p.1370*.
 
 ---
 
 ## 🔥 4. Anticuerpos ANCA (Asociados al Citoplasma del Neutrófilo)
 Indicados ante sospecha de **Vasculitis de pequeño vaso** (Pulmón-Riñón).
 - **p-ANCA** (Dirigidos contra MPO - *Mieloperoxidasa*):
-  $\to$ **Poliangeitis Microscópica (PAM)** y **Granulomatosis Eosinofílica (GEPA / Churg-Strauss)**.
+  $\to$ **Poliangeítis Microscópica (PAM)** (85-90% p-ANCA+) y **Granulomatosis Eosinofílica con Poliangeítis (GEPA)** (sólo 40-50% ANCA+; puede ser ANCA-negativa). *Manual 12 Oct cap. 90 p.1369*.
 - **c-ANCA** (Dirigidos contra PR3 - *Proteinasa 3*):
   $\to$ **Granulomatosis con Poliangeitis (GPA / Wegener)**. Afectación destructiva brutal de senos paranasales/ORL, pulmón cavitado y glomerulonefritis.
 
