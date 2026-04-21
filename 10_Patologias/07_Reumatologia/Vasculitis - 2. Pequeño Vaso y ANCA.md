@@ -3,10 +3,14 @@ aliases: [Vasculitis ANCA, GPA, MPA, GEPA, PAM, Wegener, Churg-Strauss, Síndrom
 tags: [reuma, nefro, patologia]
 fuente: "Manual 12 Octubre 2022, cap. 93 (Vasculitis), apartado 1.3 (Vasculitis ANCA)"
 last_fact_checked: 2026-04-21
+guias_por_contrastar: ["EULAR/ERA 2022 ANCA-associated vasculitis (Hellmich et al. Ann Rheum Dis 2022;82:30-47)"]
 ---
 # Vasculitis - 2. Pequeño Vaso (Asociadas a ANCA)
 
 **Basado en:** *Manual 12 Octubre 2022, cap. 93, apartado 1.3 (Vasculitis ANCA)*
+
+> [!info] Guías pendientes de contrastar
+> - **EULAR/ERA 2022 ANCA-associated vasculitis** (Hellmich et al. *Ann Rheum Dis* 2022;82:30-47) — recomendaciones actualizadas de inducción (RTX vs CFM), mantenimiento, rol de avacopan y criterios de recambio plasmático post-PEXIVAS. No contrastada literalmente en el fact-check 2026-04-21 (WebFetch denegado).
 
 > Nomenclatura actual (Chapel Hill 2012): GPA (antigua *Wegener*), GEPA (antigua *Churg-Strauss*) y PAM (poliangitis microscópica) — los epónimos se mantienen sólo como referencia histórica.
 

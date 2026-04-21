@@ -8,6 +8,10 @@ last_fact_checked: 2026-04-21
 
 **Basado en:** *Manual 12 Octubre 2022, cap. 93 apartado 4 (p. 1424-1425)*
 
+> [!info] Contenido no desarrollado en Manual 12 Octubre 2022
+> - **Síndrome de Heerfordt** ("fiebre uveo-parotídea"): el Manual no lo detalla en cap. 93. La tríada (uveítis anterior + parotiditis granulomatosa + parálisis facial VII) es conocimiento clínico estándar pendiente de contrastar con fuente primaria.
+> - **Guías pendientes de contrastar:** ATS/ERS/WASOG 2020 sarcoidosis diagnosis statement; ERS 2021 treatment guideline (no verificadas por WebFetch denegado en el fact-check 2026-04-21).
+
 ## Definición
 
 Enfermedad inflamatoria sistémica de etiología desconocida caracterizada por la formación de **granulomas epitelioides no caseificantes** que pueden aparecer en cualquier tejido. Más prevalente en países nórdicos y en población de raza negra. Es propia de **adultos jóvenes (20-35 años)** con un segundo pico en **mujeres en torno a los 50 años**.

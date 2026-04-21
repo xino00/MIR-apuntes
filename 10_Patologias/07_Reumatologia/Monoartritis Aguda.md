@@ -4,8 +4,12 @@ tags: [urgencias, reuma, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"
 fuente: "Manual 12 Octubre 2022, cap. 91 (Artritis. Espondiloartritis. Lumbalgia), apartado 1 (Monoartritis)"
 last_fact_checked: 2026-04-21
+guias_por_contrastar: ["ACR 2020 Gout Management Guideline (pauta colchicina baja dosis)"]
 ---
 # Monoartritis Aguda
+
+> [!info] Guías pendientes de contrastar
+> - **ACR 2020 Gout Management Guideline** — pauta moderna de colchicina baja dosis. La pauta actual en la nota (0,5 mg/8 h × 3 días → 0,5 mg/12 h × 4 días) es conservadora y compatible con ACR 2020, pero no se ha contrastado literalmente (WebFetch denegado). La pauta del Manual 12 Oct (máx 2 mg/día × 4 días) queda como referencia primaria.
 
 > [!warning] Signos de Alarma
 > - Dolor articular que empeora o no mejora con la medicación.

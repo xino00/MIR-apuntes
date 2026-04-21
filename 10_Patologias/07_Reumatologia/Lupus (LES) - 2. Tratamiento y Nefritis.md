@@ -3,10 +3,17 @@ aliases: [Nefritis Lúpica, Tratamiento LES, Brote lúpico]
 tags: [reuma, patologia, farmaco]
 fuente: "Manual 12 Octubre 2022, cap. 92 (Conectivopatías), apartado 1 (tratamiento LES y nefritis lúpica)"
 last_fact_checked: 2026-04-21
+guias_por_contrastar:
+  - "EULAR 2019 LES update (Fanouriakis et al. Ann Rheum Dis 2019;78:736-745)"
+  - "KDIGO 2024 Glomerular Diseases, cap. 9 (Lupus Nephritis)"
 ---
 # Lupus (LES) - 2. Manejo Crónico, Brotes y Nefritis
 
 **Basado en:** *Manual 12 de Octubre y Guías EULAR*
+
+> [!info] Guías pendientes de contrastar
+> - **EULAR 2019 LES update** (Fanouriakis et al. *Ann Rheum Dis* 2019;78:736-745) — recomendaciones de tratamiento y dosis de mantenimiento.
+> - **KDIGO 2024 Glomerular Diseases, cap. 9 (Lupus Nephritis)** — criterios histológicos actualizados, esquemas de inducción/mantenimiento y rol de voclosporina/belimumab. No contrastadas literalmente en el fact-check 2026-04-21 (WebFetch denegado); referencia primaria actual Manual 12 Oct 2022 (cap. 92 tabla 2 p. 1396).
 
 El tratamiento del Lupus persigue el objetivo de **Remisión** o "Baja Actividad de Enfermedad" minimizando al extremo la toxicidad yatrogénica (especialmente la de los corticoides crónicos) por su severo riesgo infeccioso y cardiovascular aterosclerótico añadido.
 

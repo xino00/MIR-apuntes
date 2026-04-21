@@ -3,10 +3,14 @@ aliases: [Lupus, LES, Lupus Eritematoso Sistémico]
 tags: [reuma, autoinmunidad, patologia]
 fuente: "Manual 12 Octubre 2022, cap. 92 (Conectivopatías), apartado 1"
 last_fact_checked: 2026-04-21
+guias_por_contrastar: ["EULAR 2019 LES update (Fanouriakis et al. Ann Rheum Dis 2019;78:736-745) — versión completa"]
 ---
 # Lupus (LES) - 1. Diagnóstico y Clínica
 
 **Basado en:** *Manual 12 de Octubre (Capítulo 92)*
+
+> [!info] Guías pendientes de contrastar
+> - **EULAR 2019 LES update** (Fanouriakis et al. *Ann Rheum Dis* 2019;78:736-745) — versión completa. El Manual 12 Oct 2022 ya extracta recomendaciones clave pero los criterios clasificatorios EULAR/ACR 2019 (umbral ANA ≥1/80, ponderación por dominios) no se han verificado contra el texto original (WebFetch denegado).
 
 El **Lupus Eritematoso Sistémico (LES)** es la enfermedad autoinmune sistémica por antonomasia. Se caracteriza por una producción desmesurada de autoanticuerpos, formación de inmunocomplejos (IC) y su depósito en múltiples órganos y tejidos que originan inflamación y daño recurrente.
 - **Epidemiología:** Afecta clásicamente a **mujeres jóvenes** (ratio mujer:hombre de 9:1 durante la edad fértil), con mayor severidad en raza no caucásica.

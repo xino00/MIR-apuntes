@@ -8,6 +8,9 @@ last_fact_checked: 2026-04-21
 
 **Basado en:** *Manual 12 Octubre 2022, caps. 90-92 (Aproximación a EAS, Artritis, Conectivopatías)*
 
+> [!info] Contenido no desarrollado en Manual 12 Octubre 2022
+> - **Síndrome de Activación Macrofágica (SAM) / HLH:** el Manual sólo cita "síndrome hemofagocítico" como criterio de LES grave (cap. 92 p. 1396, SLEDAI). Los **criterios HLH-2004** y el **HScore** usados en esta nota (ferritina >10.000 ng/mL, hipertrigliceridemia, etc.) provienen de bibliografía complementaria (Ravelli 2016, Henter 2007) — pendiente contrastar con fuente primaria.
+
 La falsa sensación de seguridad de que la Reumatología es "ambulatoria cróncia" es una trampa. Existen entidades fulminantes reumatológicas que exigen la instauración de Megadosis de Corticoides o Inmunosupresores (Ciclofosfamida, Rituximab) antes de 24 horas para preservar órganos diana vitales o la propia vida empíricamente, o descartar con agujas procesos quirúrgicos urológicos subyacentes.
 
 ---

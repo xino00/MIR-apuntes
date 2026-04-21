@@ -4,8 +4,12 @@ tags: [urgencias, reuma, patologia]
 fuente_original: "Extraído de 50_Guardias/01 - Plantilla Curas y Traumatología Menor.md"
 fuente: "Manual 12 Octubre 2022, cap. 91 (Artritis. Espondiloartritis. Lumbalgia), apartado 1.4.1 Gota"
 last_fact_checked: 2026-04-21
+guias_por_contrastar: ["ACR 2020 Gout Management Guideline (colchicina baja dosis 1,2 + 0,6 mg, decisión de iniciar alopurinol durante crisis aguda)"]
 ---
 # Gota - Artritis Gotosa Aguda
+
+> [!info] Guías pendientes de contrastar
+> - **ACR 2020 Gout Management Guideline** — pauta colchicina baja dosis (1,2 mg + 0,6 mg/h × 1 dosis) y recomendación de iniciar alopurinol durante la crisis aguda. No contrastada literalmente en el fact-check 2026-04-21 (WebFetch denegado); los valores actuales derivan sólo del Manual 12 Oct 2022.
 
 ## Diagnóstico
 

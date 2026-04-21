@@ -8,6 +8,10 @@ last_fact_checked: 2026-04-21
 
 **Basado en:** *Manual 12 de Octubre (Capítulo 93)*
 
+> [!info] Contenido no desarrollado en Manual 12 Octubre 2022
+> - **Arteritis de Takayasu:** el Manual sólo la menciona en la tabla 1 del cap. 93 p. 1409 con una definición mínima ("arteritis granulomatosa, estenosis/trombosis/aneurismas de aorta"). Las afirmaciones específicas de esta nota (perfil en mujeres asiáticas <40 años, clínica sin pulsos, angio-RM/PET, tratamiento corticoideo + bypass) provienen de conocimiento clínico clásico y guías EULAR 2018, pendientes de contrastar contra fuente primaria.
+> - Para ACG: **EULAR 2018 Large Vessel Vasculitis** y **BSR 2020 GCA** no se han contrastado literalmente (WebFetch denegado en el fact-check 2026-04-21).
+
 Las vasculitis de gran vaso afectan típicamente a la arteria aorta y sus ramas principales extracraneales primarias originando clínica isquémica isodistal e inflamación de íntima perivascular. No cruzan con depósitos ANCA y cursan con Reactantes de Fase Aguda muy altos.
 
 ---
