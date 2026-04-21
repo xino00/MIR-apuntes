@@ -65,3 +65,6 @@ error: Por favor, confírmalos o guárdalos.
 To github.com:xino00/MIR-apuntes.git
    5b30284..83b0399  main -> main
 ✅ Sincronización completada con éxito.
+Sincronizando apuntes MIR con GitHub...
+error: no se puede pull con rebase: Tienes cambios sin marcar.
+error: Por favor, confírmalos o guárdalos.

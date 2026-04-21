@@ -30,7 +30,7 @@ tags: [urgencias, infecciosas, dermato]
 
 - **[[Celulitis]]**:  
   - *Agentes:* S. aureus, S. pyogenes, Gram Negativos (en hepatopatía crónica/inmunodeprimidos). Afecta a dermis profunda y tejido subcutáneo (bordes mal definidos).
-  - *Tratamiento Empírico Ambulatorio:* [[Cefadroxilo]] 500mg/8h o Cefalexina 500mg/8h (Dura 5-10 días).
+  - *Tratamiento Empírico Ambulatorio:* [[Cefadroxilo]] 500mg/8h o Cefalexina 500mg/8h (Dura  días).
   - *Si sospecha SARM (Staph Aureus Metilin Resistente):* Factores riesgo (hospitalización, antibioterapia en 3m, toxicómanos, deportes de contacto) -> *Elección:* [[Clindamicina]] 300mg/8h, o [[Cotrimoxazol]] 800/160mg/12h o Linezolid 600mg/12h.
   - *Si Celulitis Complicada / Inmunodeprimidos:* [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 875/125mg/8h. Extraer hemocultivos si hay signos de gravedad.
 
