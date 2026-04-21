@@ -2,6 +2,8 @@
 aliases: [Monoartritis, Artritis aguda, Artrocentesis, Líquido sinovial]
 tags: [urgencias, reuma, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"
+fuente: "Manual 12 Octubre 2022, cap. 91 (Artritis. Espondiloartritis. Lumbalgia), apartado 1 (Monoartritis)"
+last_fact_checked: 2026-04-21
 ---
 # Monoartritis Aguda
 
@@ -14,7 +16,7 @@ fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencia
 
 ## Diagnóstico
 
-**Artrocentesis diagnóstica:** indicada en toda monoartritis aguda de causa no clara.
+**Artrocentesis diagnóstica:** debe realizarse **siempre que sea posible** en toda monoartritis aguda, en condiciones de asepsia y **pre-antibiótica si hay sospecha de artritis séptica** (regla de oro, Manual 12 Oct cap. 91 pp. 1374 y 1377). 5 mL de líquido suelen ser suficientes.
 - Aspecto: turbio / purulento / serohemático
 - Se remite a Microbiología: gram y cultivo; Bioquímica: glucosa, proteínas, recuento celular; AP (si sale traumática).
 
@@ -28,14 +30,14 @@ fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencia
 ## Tratamiento
 
 - Reposo relativo articular + elevación de la extremidad.
-- AINEs (Ibuprofeno 600 mg cada 8 h o Naproxeno 550 mg cada 12 h durante 5 días) + Colchicina: 0,5 mg cada 8 h (máx. 3 comp/día) durante 3 días, luego 0,5 mg cada 12 h durante 4 días. Evitar si ERC avanzada, mal control digestivo o edad avanzada.
-- ó Prednisona oral: 30 mg/día durante 5–7 días si contraindicación para AINEs y colchicina.
-- Valorar infiltración si monoartritis accesible y sin sospecha séptica.
+- AINEs (Ibuprofeno 600 mg cada 8 h o Naproxeno 550 mg cada 12 h durante 5 días) + **Colchicina**: pauta conservadora 0,5 mg/8 h (máx. 3 comp/día) durante 3 días, luego 0,5 mg/12 h durante 4 días. *Referencia Manual 12 Oct cap. 91 tabla 3 p. 1378: máx. 2 mg/día durante 4 días, después mantenimiento 0,5-1 mg/día. La pauta conservadora de esta nota es compatible con ACR 2020.* Evitar si ERC avanzada, intolerancia digestiva o edad avanzada.
+- ó Prednisona oral: 5-20 mg/día hasta 2 días tras resolución (Manual 12 Oct cap. 91 tabla 3 p. 1378) si contraindicación para AINEs y colchicina.
+- **Si monoartritis aislada y sin sospecha séptica: de elección infiltración intraarticular con triamcinolona tras artrocentesis** (Manual 12 Oct cap. 91 tabla 3 p. 1378).
 
 **Nota práctica:**
 - AINE + colchicina → opción válida en pacientes jóvenes, sin antecedentes de ERC, úlcera o riesgo cardiovascular alto.
 - Prednisona oral sola → preferible en personas mayores, pacientes con comorbilidades o con contraindicación para AINEs y colchicina.
-- Evitar la combinación de colchicina + corticoides sistémicos, ya que no mejora la eficacia y sí aumenta la toxicidad, especialmente gastrointestinal y muscular.
+- Evitar la combinación de colchicina + corticoides sistémicos, ya que no mejora la eficacia y sí aumenta la toxicidad, especialmente gastrointestinal y muscular *(práctica clínica; no recogido literalmente en Manual 12 Oct cap. 91)*.
 
 ## Plantilla de Guardia
 
