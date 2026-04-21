@@ -1,0 +1,1 @@
+Válvula de heimlich en neumotórax abierto
