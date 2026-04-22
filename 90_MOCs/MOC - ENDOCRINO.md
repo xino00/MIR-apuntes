@@ -16,6 +16,9 @@ description: "Índice de endocrinología: emergencias glucémicas, cetoacidosis 
 - [[Síndrome Hiperglucémico Hiperosmolar (SHH)]]
 - [[Hiperglucemia Simple]]
 
+### 🔄 Síndromes Cardio-Renal-Metabólicos
+- [[Síndrome Cardiovascular-Renal-Metabólico]]
+
 ---
 ### 🔗 Enlaces
 - [[000_INICIO]]

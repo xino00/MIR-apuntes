@@ -18,6 +18,7 @@ description: "Índice de nefrología: FRA, ERC, trastornos iónicos y ácido-bas
 - [[ERC - Fármacos Modificadores de la Enfermedad]]
 - [[ERC - Manejo de Comorbilidades (Riesgo CV)]]
 - [[ERC - Prevención y Medidas Higiénico-Dietéticas]]
+- [[Síndrome Cardiovascular-Renal-Metabólico]]
 
 ### 🦠 Fracaso Renal Agudo
 - [[Fracaso Renal Agudo (FRA)]]

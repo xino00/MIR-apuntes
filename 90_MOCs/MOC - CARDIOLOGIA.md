@@ -28,6 +28,7 @@ description: "Índice de cardiología: hipertensión, insuficiencia cardiaca, SC
 - [[Insuficiencia cardiaca aguda]]
 - [[Manejo Diurético Deterioro Renal ICA|Manejo Diurético y Deterioro Renal en ICA]]
 - [[Síndrome Cardiorrenal]]
+- [[Síndrome Cardiovascular-Renal-Metabólico]]
 - [[Arritmias]]
 - [[Síncope]]
 - [[Fibrilación Auricular (FA)]]

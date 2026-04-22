@@ -24,11 +24,14 @@ description: "Índice de reumatología: artritis, lupus, vasculitis y autoinmuni
 - [[Vasculitis - 1. Gran Vaso (ACG y Takayasu)]]
 - [[Vasculitis - 2. Pequeño Vaso y ANCA]]
 
+### 💎 Artropatías por cristales y monoartritis
+- [[Gota - Artritis Gotosa Aguda]]
+- [[Monoartritis Aguda]]
+
 ### 🫁 Otros
 - [[Sarcoidosis - Diagnóstico y Manejo]]
 
 ### 🦠 Patologías por crear
-- Gota / Artropatía por cristales
 - Artritis séptica
 - Artritis reumatoide
 - Espondiloartropatías
