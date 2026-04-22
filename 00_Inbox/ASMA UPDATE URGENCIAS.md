@@ -28,6 +28,8 @@ OBJETIVO REMISION CLÍNICA
 # CRISIS ASMÁTICA / EXACERBACIÓN
 El 40% están mal controlados/refractarios al tratamiento.
 Buscar **desencadenantes**
+
+> [!warning] Imagen borrada en cleanup 2026-04-22 — re-subir desde Google Photos
 ![[PXL_20260409_065001900.MP.jpg]]
 
 ### CRiterios de asma de riesgo vital
@@ -55,6 +57,7 @@ Administración de nebulizaciones c/20min apuntando a 92-94%, más generosos en 
     -  Síntomas no mejoran, requieren O2 y PO2 límite, PEF<60
 - al ingreso
     - prefieren el GC fraccionado (urbason 20-4mg c/8-12h)
+    - > [!warning] Imagen borrada en cleanup 2026-04-22 — re-subir desde Google Photos
     - ![[PXL_20260409_070653797.MP.jpg]]
 - ==AL ALTA== 
     -  SUBIR DE ESCALON TERAPÉUTICO 2-4 SEMANAS
