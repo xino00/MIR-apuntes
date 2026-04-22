@@ -1,1 +1,0 @@
-[[Manual_Cefaleas_2026.pdf]]

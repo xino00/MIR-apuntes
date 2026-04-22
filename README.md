@@ -14,14 +14,11 @@ Vault de Obsidian de un residente de **Medicina de Familia** en Madrid. Centro d
 
 | Carpeta | Contenido | Archivos |
 |---------|-----------|----------|
-| **10_Patologias/** | Patología crónica/electiva por especialidad (7 servicios: Cardio, Neuro, Infecciosas, Digestivo, Neumología, Nefrología, Reumatología) | ~200 |
-| **20_farmacos/** | Fichas de fármacos (una por archivo) | 128 |
-| **30_Urgencias/** | Protocolos de guardia urgente (Patología aguda, Iones, Exploración física) | 15+ |
-| **40_Casos_clinicos/** | Casos anónimos de pacientes | Plantilla lista |
-| **50_Guardias/** | Logs de guardia por fecha | ~150 |
-| **60_Pase_planta/** | Notas de pase de planta | Plantilla lista |
-| **90_MOCs/** | Índices de navegación por especialidad | 10+ |
-| **99_Plantillas/** | Plantillas Obsidian (Templater) | 5 |
+| **10_Patologias/** | Patología por especialidad (13 servicios) | ~180 |
+| **20_farmacos/** | Fichas de fármacos (una por archivo) | ~130 |
+| **30_Urgencias/** | Protocolos de guardia urgente (Patología aguda, Iones, Exploración física) | ~26 |
+| **50_Guardias/** | Plantillas y registros de guardia | ~15 |
+| **90_MOCs/** | Índices de navegación por especialidad (15 + checklist) | 16 |
 | **Libros y referencias/** | PDFs (Manual 12 Octubre, KDIGO 2024, Sepsis 2026, etc.) | Versionados con Git LFS |
 
 ---

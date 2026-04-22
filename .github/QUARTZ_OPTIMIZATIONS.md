@@ -6,19 +6,18 @@
 
 **Antes:**
 ```
-["`.obsidian", "00_Inbox", "40_Casos clinicos", "99_Plantillas", "gemini-scribe", "tmp", "README.md", "quartz"]
+["`.obsidian", "00_Inbox", "99_Plantillas", "gemini-scribe", "tmp", "README.md", "quartz"]
 ```
 
 **Después:**
 ```
-[".obsidian", ".git", ".github", ".claude", ".agents", "00_Inbox", "40_Casos clinicos",
- "60_Pase de planta", "99_Plantillas", "gemini-scribe", "tmp", "README.md", "CLAUDE.md",
+[".obsidian", ".git", ".github", ".claude", ".agents", "00_Inbox",
+ "99_Plantillas", "gemini-scribe", "tmp", "README.md", "CLAUDE.md",
  "quartz", "*.sh", "*.txt", ".gitignore", ".gitattributes", "sync.log"]
 ```
 
 **Beneficio:**
 - ✅ Excluye directorios de configuración (.git, .github, .claude)
-- ✅ Excluye carpetas vacías (60_Pase de planta)
 - ✅ Excluye scripts y archivos de log
 - ✅ Reduce archivos procesados en build (~20-30% menos)
 
@@ -119,8 +118,6 @@ ignorePatterns: [
   ".claude",            // Configuración de Claude
   ".agents",            // Agents config
   "00_Inbox",           // Notas en borrador
-  "40_Casos clinicos",  // Privado
-  "60_Pase de planta",  // Vacío
   "99_Plantillas",      // Templates (no contenido)
   "gemini-scribe",      // Integración deshabilitada
   "tmp",                // Temporal

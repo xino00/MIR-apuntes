@@ -8,7 +8,7 @@ This is an Obsidian medical notes vault using wikilinks (`[[Note Name]]`). When 
 
 ## Contexto
 
-Vault de Obsidian de un residente de Medicina de Familia en Madrid. Rotaciones por todos los servicios del hospital + guardias de urgencias de puerta. Uso principal: referencia clínica durante rotaciones, protocolos de guardia y registro de casos clínicos anónimos.
+Vault de Obsidian de un residente de Medicina de Familia en Madrid. Rotaciones por todos los servicios del hospital + guardias de urgencias de puerta. Uso principal: referencia clínica durante rotaciones y protocolos de guardia.
 
 ## Estructura del Vault
 
@@ -26,11 +26,13 @@ Vault de Obsidian de un residente de Medicina de Familia en Madrid. Rotaciones p
   Ionico_AcidoBase/     Iones, equilibrio ácido-base
   Exploracion_Fisica/   Exploración de Rodilla, Tobillo y Antepié
 
-40_Casos clinicos/      Casos clínicos anónimos
-50_Guardias/            Registros de guardia por fecha
-60_Pase de planta/      Notas de pase
+50_Guardias/            Plantillas y registros de guardia
 90_MOCs/                Índices de navegación (15 MOCs + checklist)
-Libros y referencias/   PDFs (Manual 12 Octubre, KDIGO 2024, Sepsis 2026, etc.)
+
+00_Inbox/               Notas entrantes sin clasificar (incluye stubs y recordatorios)
+assets/                 Attachments pegados desde Obsidian (PXL_*.jpg, pastes)
+referencias/            Imágenes y esquemas médicos inline (SVG, JPG de pizarra clínica)
+Libros y referencias/   PDFs (Manual 12 Octubre, KDIGO 2024, Sepsis 2026, etc.) — Git LFS
 ```
 
 El **MOC - Urgencias** actúa como vista transversal: agrega las urgencias de cada especialidad (que siguen viviendo en `10_Patologias/`) más el contenido propio de `30_Urgencias/`.

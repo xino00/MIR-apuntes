@@ -6,6 +6,11 @@
 .obsidian/starred.json
 # Plugin data (tokens, caches, preferencias personales)
 .obsidian/plugins/*/data.json
+# Plugins con auto-updates (main.js / manifest.json cambian solos)
+.obsidian/plugins/obsidian-git/
+.obsidian/plugins/templater-obsidian/
+# Preferencias locales de UI
+.obsidian/appearance.json
 .trash/
 
 # System files
@@ -44,6 +49,9 @@ secrets/
 # Binarios grandes en raíz (fotos, PDFs sueltos)
 PXL_*.jpg
 Manual_Urgencias_neurologicas_2023_DIGITAL.pdf
+
+# Herramientas binarias locales (no versionadas)
+xpdf/
 
 # Temporary text files
 *.txt

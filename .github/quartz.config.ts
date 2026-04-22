@@ -19,8 +19,6 @@ const config: QuartzConfig = {
       ".claude",
       ".agents",
       "00_Inbox",
-      "40_Casos clinicos",
-      "60_Pase de planta",
       "99_Plantillas",
       "gemini-scribe",
       "tmp",
