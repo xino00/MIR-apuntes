@@ -1,13 +1,55 @@
 ---
-aliases: [Riesgo CV en HTA, SCORE2, Estratificación de Riesgo, DOMH modificadores]
+aliases: [Riesgo CV en HTA, SCORE2, Estratificación de Riesgo, DOMH modificadores, Tabla 4 ESC 2021]
 tags: [cardio, HTA, riesgo_cv, diagnóstico]
-fuente: "ESC 2024 HTA (ehae178) §6.3.1"
-last_fact_checked: 2026-04-20
+fuente: "ESC 2024 HTA (ehae178) §6.3.1 + ESC CVD Prevention 2021 (Visseren et al. Eur Heart J 2021;42:3227, DOI 10.1093/eurheartj/ehab484) Tabla 4"
+last_fact_checked: 2026-04-23
 ---
 # Evaluación del Riesgo Cardiovascular en la Hipertensión
 
-**Fuente:** Guía ESC 2024 sobre el manejo de la presión arterial elevada y la hipertensión.
+**Fuente:** Guía ESC 2024 sobre el manejo de la presión arterial elevada y la hipertensión + Guía ESC Prevención CV 2021 (Visseren et al.) para la clasificación clásica de categorías de riesgo.
 **Concepto clave:** La estimación del riesgo cardiovascular global es fundamental para decisiones de tratamiento en hipertensión; combina calculadoras SCORE2/SCORE2-OP con modificadores de riesgo (DOMH, biomarquedores, genética) para estratificación individualizada.
+
+## 📑 Clasificación ESC 2021 Prevención — Categorías Moderado / Alto / Muy alto (Tabla 4)
+
+> **Fuente literal:** ESC CVD Prevention 2021, Tabla 4 (Patient categories and associated cardiovascular disease risk).
+
+Esta es la **tabla clásica** (sigue vigente aunque ESC HTA 2024 use un umbral único SCORE2 ≥10 %): clasifica al paciente en una de 4 categorías según condición base.
+
+| Categoría de paciente | Subgrupo | Riesgo |
+|---|---|---|
+| **Pacientes con ECVA establecida**¹ | N/A | 🔴 **Muy alto** |
+| **Pacientes con DM2** (T1DM ≥40a también clasificable así) | DM + **ECVA establecida y/o DOMD grave**² | 🔴 Muy alto |
+| | DM **sin** ECVA ni DOMD grave, no cumpliendo criterios de riesgo moderado | 🟠 Alto |
+| | DM bien controlada, **corta evolución (<10 años)**, sin DOMD y sin FR adicionales | 🟡 Moderado |
+| **Pacientes con ERC** (sin DM ni ECVA) | **ERC grave**: TFGe <30, *o* TFGe 30-44 + ACR >30 mg/g | 🔴 Muy alto |
+| | **ERC moderada**: TFGe 30-44 + ACR <30, *o* TFGe 45-59 + ACR 30-300, *o* TFGe ≥60 + ACR >300 | 🟠 Alto |
+| **Hipercolesterolemia familiar** (colesterol marcadamente elevado) | N/A | 🟠 Alto |
+| **Aparentemente sanos** (sin ECVA, DM, ERC, HF) | <50 / 50-69 / ≥70 años | Según SCORE2 / SCORE2-OP (ver Tabla 5 abajo) |
+
+**¹ ECVA establecida** = enfermedad aterosclerótica clínicamente documentada (IAM, ACS, revascularización coronaria, ictus, AIT, aneurisma aórtico, EAP) **o** inequívoca en imagen (placa en coronariografía / eco-Doppler carotídeo / angio-TC coronario). **NO incluye** engrosamiento de íntima-media sin placa (eso es solo modificador).
+
+**² DOMD grave** en DM (≥1 de los siguientes):
+- TFGe < 45 mL/min/1,73 m² (independiente de albuminuria)
+- TFGe 45-59 mL/min/1,73 m² + microalbuminuria (ACR 30-300 mg/g)
+- Proteinuria (ACR > 300 mg/g)
+- Enfermedad microvascular en ≥ 3 sitios (ej.: microalbuminuria + retinopatía + neuropatía)
+
+### 📏 Tabla 5 — Umbrales SCORE2 / SCORE2-OP en aparentemente sanos
+
+| Edad | Bajo-moderado | Alto | Muy alto |
+|---|---|---|---|
+| **< 50 años** | < 2,5 % | 2,5 – 7,5 % | ≥ 7,5 % |
+| **50 – 69 años** | < 5 % | 5 – < 10 % | ≥ 10 % |
+| **≥ 70 años** | < 7,5 % | 7,5 – < 15 % | ≥ 15 % |
+
+### 🧭 Cómo leer la Tabla 4 (crítica MIR)
+
+> [!tip] Regla de lectura
+> La tabla funciona como **árbol de decisión con exclusiones implícitas**: cada fila ya asume que las inferiores (peores) no aplican. Si hay **ECVA establecida**, saltas directo a la última fila (muy alto). La fila "ERC sin DM ni ECVA" **excluye** explícitamente los pacientes con ECVA o DM — ésos van siempre a sus filas específicas.
+>
+> **Técnica para resolver viñetas:** léela **de arriba hacia abajo hasta encontrar la primera fila cuyo encabezado cumple el paciente**. O bien, fija primero las condiciones excluyentes (ECVA, DM) y sube desde abajo. El error más frecuente es leer la fila que "reconoces primero" sin comprobar la exclusión del encabezado.
+
+Trampa clásica (del caso visto en estudio 2026-04-23): *"ERC estadio 3 + ECVA establecida"* → **Muy alto** vía fila de **ECVA establecida**, no por la fila de ERC (que excluye pacientes con ECVA).
 
 ## 📊 Situaciones Clínicas de Alto Riesgo CV Inherente
 
