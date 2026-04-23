@@ -98,6 +98,7 @@ Los macoensayos clínicos de alto impacto mundiales (*STARRT-AKI* publicado en N
   - **U**remia sintomática (Pericarditis urémica, Encefalopatía urémica o Diátesis hemorrágica por BUN > 110 mg/dL).
 
 ## 🔗 Enlaces Relacionados
+- [[ERC - Estratificación y Pronóstico#🆚 FRA vs ERC — Diferencias Operativas|FRA vs ERC — tabla comparativa + "agudización sobre crónica"]]
 - [[Síndrome Cardiorrenal]]
 - [[Shock]]
 - [[Trastornos Ácido-Base - 2. Acidosis Metabólica|Acidosis Metabólica]]

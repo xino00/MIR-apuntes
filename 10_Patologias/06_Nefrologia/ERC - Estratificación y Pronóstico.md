@@ -1,6 +1,8 @@
 ---
-aliases: [Enfermedad Renal Crónica, Heatmap KDIGO, Estadios ERC]
+aliases: [Enfermedad Renal Crónica, Heatmap KDIGO, Estadios ERC, FRA vs ERC]
 tags: [nefro, urgencias, primaria, erca]
+fuente: "KDIGO 2024 CKD Clinical Practice Guideline"
+last_fact_checked: 2026-04-23
 ---
 # ERC: Estratificación y Pronóstico (KDIGO 2024)
 
@@ -53,3 +55,34 @@ Combina la categoría "G" y "A" para establecer la frecuencia de monitorización
 
 > [!important] Criterios de Derivación a Nefrología
 > Se debe derivar a atención especializada (Nefrología / ERCA) a cualquier paciente en la zona **Rojo Oscuro (🔴 Riesgo Muy Alto)**, es decir: TFG < 30 (G4-G5) independientemente de la albúmina, o Cociente Albúmina/Creatinina > 300 (A3) si TFG < 60, o bien caída rápida del filtrado (> 5 ml/min en un año) o hematuria de origen desconocido.
+
+---
+
+## 🆚 FRA vs ERC — Diferencias Operativas
+
+El concepto nuclear que separa **ERC** de **[[Fracaso Renal Agudo (FRA)]]** es la **persistencia temporal**: KDIGO exige **≥ 3 meses** para etiquetar una alteración renal como crónica. Un mismo hallazgo (creatinina elevada, albuminuria, hematuria) significa cosas distintas según persista o no.
+
+| Parámetro | **FRA (AKI)** | **ERC (CKD)** |
+|---|---|---|
+| **Tiempo de evolución** | Horas – días (≤ 7 días por definición KDIGO) | **≥ 3 meses** (requisito KDIGO) |
+| **Reversibilidad** | Potencialmente reversible | Habitualmente irreversible (salvo reversión precoz de causa subyacente) |
+| **Diuresis** | Frecuentemente alterada (oliguria/anuria) | Normal hasta estadios avanzados |
+| **Tamaño renal (eco)** | Normal o ↑ | **↓ (riñones pequeños)** — salvo nefropatía diabética, poliquistosis, amiloidosis, VIH |
+| **Anemia** | Infrecuente (salvo síndrome hemolítico o sangrado) | Frecuente (déficit de eritropoyetina) |
+| **Eje mineral-óseo** (PTH, Ca, P) | Habitualmente normal | **Alterado** (osteodistrofia renal, ↑PTH, ↑P, ↓Ca) |
+| **Acidosis metabólica** | Aguda si severa | Crónica compensada (HCO₃⁻ bajo estable) |
+| **Ejemplo clínico típico** | Sepsis, AINE, contrastes, deshidratación | Nefropatía DM2, HTA, glomerulonefritis crónica, poliquistosis |
+| **Criterios diagnósticos** | ↑ Cr ≥ 0,3 mg/dL en 48 h **o** ↑ Cr ≥ 1,5× basal en 7 días **o** diuresis < 0,5 mL/kg/h en 6 h | TFGe < 60 o marcadores de daño renal persistentes > 3 meses |
+
+### Agudización sobre crónica (AKI on CKD)
+
+Muy frecuente en la práctica: un paciente con **ERC establecida** (p.ej. G3b A2) sufre un **FRA superpuesto** (deshidratación, sepsis, inicio de IECA, contraste). La creatinina sube "de repente" sobre una basal ya elevada.
+
+**Implicaciones:**
+- El FRA superpuesto **acelera la progresión a ERCA** — cada episodio deja "cicatriz" funcional.
+- Hay que **rescatar la función aguda** sin perder la trayectoria crónica.
+- **No retires iSRAA ni iSGLT2 de forma automática** si la función se recupera; solo durante el periodo de FRA activo.
+- Tras resolución del FRA, **reevaluar la basal** (puede haber bajado un escalón de categoría G).
+
+> [!tip] Regla de bolsillo clínico
+> Una Cr elevada en **una única analítica** NO es ERC — puede ser FRA, artefacto de laboratorio (carne roja reciente, rabdomiólisis), o variabilidad biológica (CV 5-10 %). Para ERC → **repetir en 3 meses** y confirmar TFGe < 60 mantenida (o marcador de daño persistente).
