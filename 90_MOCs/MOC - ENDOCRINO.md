@@ -11,7 +11,10 @@ description: "Índice de endocrinología: emergencias glucémicas, cetoacidosis 
 > - [[Síndrome Hiperglucémico Hiperosmolar (SHH)]]
 > - [[Hiperglucemia Simple]]
 
-### 🩺 Emergencias Glucémicas
+### 🩺 Diabetes Mellitus — patología crónica
+- [[Diabetes Mellitus tipo 2]] (DM2 — criterios ADA 2026, tratamiento escalonado, objetivos, complicaciones)
+
+### 🚨 Emergencias Glucémicas
 - [[Cetoacidosis Diabética (CAD)]]
 - [[Síndrome Hiperglucémico Hiperosmolar (SHH)]]
 - [[Hiperglucemia Simple]]
