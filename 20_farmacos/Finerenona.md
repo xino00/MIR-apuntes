@@ -80,7 +80,7 @@ Su unión al MR bloquea el reclutamiento de coactivadores transcripcionales impl
 ### Hiperpotasemia (principal RAM)
 - Riesgo mayor en: ERC avanzada, diabetes no controlada, suplementos de K⁺, **dieta rica en K⁺** (sal de régimen con KCl, frutos secos, plátano), AINE, trimetoprim ± sulfametoxazol.
 - **iSGLT2 previo** reduce parcialmente el riesgo (natriuresis/kaliuresis compensatoria) — por eso KDIGO recomienda secuencia SRAA → iSGLT2 → finerenona.
-- Si hiperK persistente pese a medidas dietéticas + diuréticos → añadir **[[Quelantes de K+ | patiromer o ciclosilicato de zirconio]]** antes de retirar finerenona.
+- Si hiperK persistente pese a medidas dietéticas + diuréticos → añadir **[[Quelantes de K+|patiromer o ciclosilicato de zirconio]]** antes de retirar finerenona.
 
 ### Interacciones
 - **Inhibidores moderados/débiles CYP3A4** (eritromicina, verapamilo, fluvoxamina, diltiazem): monitorización adicional de K⁺.
