@@ -224,6 +224,7 @@ description: "Índice farmacológico: 128 fármacos agrupados por clase terapéu
 - [[Clortalidona]]
 - [[Espironolactona]]
 - [[Eplerenona]]
+- [[Finerenona]] (ARM no esteroideo — ERC-DM2)
 - [[Acetazolamida]]
 - [[Manitol]]
 
