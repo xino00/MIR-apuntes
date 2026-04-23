@@ -228,6 +228,10 @@ description: "Índice farmacológico: 128 fármacos agrupados por clase terapéu
 - [[Acetazolamida]]
 - [[Manitol]]
 
+### ❤️ ARNI (Inhibidor Neprilisina/ARA)
+
+- [[Sacubitrilo-Valsartan]] (Entresto® — 1er pilar HFrEF)
+
 ---
 
 ## 🧬 Corticoides
