@@ -238,6 +238,10 @@ description: "Índice farmacológico: 128 fármacos agrupados por clase terapéu
 
 - [[Sacubitrilo-Valsartan]] (Entresto® — 1er pilar HFrEF)
 
+### 🧂 Quelantes de K⁺
+
+- [[Quelantes de K+]] (nota de clase: patiromer, ciclosilicato Zr, resinas clásicas)
+
 ---
 
 ## 🧬 Corticoides
