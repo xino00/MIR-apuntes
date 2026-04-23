@@ -6,9 +6,7 @@ last_fact_checked: 2026-04-23
 ---
 # ERC: Estratificación y Pronóstico (KDIGO 2024)
 
-**Basado en:** *Guía KDIGO 2024 (Chronic Kidney Disease)*
-
-La **Enfermedad Renal Crónica (ERC)** se define por alteraciones en la estructura o función renal, presentes durante **> 3 meses**, con implicaciones para la salud.
+**Concepto clave:** La **Enfermedad Renal Crónica (ERC)** se define por alteraciones en la estructura o función renal, presentes durante **> 3 meses**, con implicaciones para la salud.
 
 ### Criterios Diagnósticos (Al menos uno, > 3 meses):
 1. **TFG disminuida:** < 60 mL/min/1,73 m² (Categorías G3a-G5).
@@ -86,3 +84,17 @@ Muy frecuente en la práctica: un paciente con **ERC establecida** (p.ej. G3b A2
 
 > [!tip] Regla de bolsillo clínico
 > Una Cr elevada en **una única analítica** NO es ERC — puede ser FRA, artefacto de laboratorio (carne roja reciente, rabdomiólisis), o variabilidad biológica (CV 5-10 %). Para ERC → **repetir en 3 meses** y confirmar TFGe < 60 mantenida (o marcador de daño persistente).
+
+## 🔗 Enlaces del Vault
+
+- [[ERC - Fármacos Modificadores de la Enfermedad]]
+- [[ERC - Manejo de Comorbilidades (Riesgo CV)]]
+- [[ERC - Prevención y Medidas Higiénico-Dietéticas]]
+- [[Fracaso Renal Agudo (FRA)]]
+- [[Síndrome Cardiorrenal]]
+- [[Síndrome Cardiovascular-Renal-Metabólico]]
+- [[MOC - NEFROLOGIA]]
+
+## 📚 Bibliografía
+
+- **Guía principal:** Stevens PE, Ahmed SB, Carrero JJ, et al. **KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease.** *Kidney Int.* 2024;105(4S):S117-S314. DOI: [10.1016/j.kint.2023.10.018](https://doi.org/10.1016/j.kint.2023.10.018).

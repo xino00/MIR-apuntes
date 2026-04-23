@@ -6,7 +6,6 @@ last_fact_checked: 2026-04-23
 ---
 # Evaluación del Riesgo Cardiovascular en la Hipertensión
 
-**Fuente:** Guía ESC 2024 sobre el manejo de la presión arterial elevada y la hipertensión + Guía ESC Prevención CV 2021 (Visseren et al.) para la clasificación clásica de categorías de riesgo.
 **Concepto clave:** La estimación del riesgo cardiovascular global es fundamental para decisiones de tratamiento en hipertensión; combina calculadoras SCORE2/SCORE2-OP con modificadores de riesgo (DOMH, biomarquedores, genética) para estratificación individualizada.
 
 ## 📑 Clasificación ESC 2021 Prevención — Categorías Moderado / Alto / Muy alto (Tabla 4)
@@ -187,9 +186,15 @@ Aplican a ambos sexos; elevan riesgo de ECV:
 - **Pacientes con PA elevada y SCORE2 ≥5 %:** Tratar como hipertensión; medicamentos + estilo de vida.
 - **Si alto riesgo clínico evidente:** No esperar SCORE2; tratar inmediatamente.
 
-### 🔗 Enlaces / Bibliografía
+## 🔗 Enlaces del Vault
+
 - [[Daño Orgánico Mediado por Hipertensión]]
 - [[Clasificación de la Presión Arterial ESC 2024]]
 - [[Tratamiento Farmacológico de la Hipertensión]]
+- [[Síndrome Cardiovascular-Renal-Metabólico]]
 - [[MOC - CARDIOLOGIA]]
-- Guía ESC 2024: https://doi.org/10.1093/eurheartj/ehae128
+
+## 📚 Bibliografía
+
+- **Guía principal:** McEvoy JW, McCarthy CP, Bruno RM, et al. **2024 ESC Guidelines for the management of elevated blood pressure and hypertension.** *Eur Heart J.* 2024;45(38):3912-4018. DOI: [10.1093/eurheartj/ehae178](https://doi.org/10.1093/eurheartj/ehae178).
+- **Clasificación de riesgo (Tabla 4 y Tabla 5):** Visseren FLJ, Mach F, Smulders YM, et al. **2021 ESC Guidelines on cardiovascular disease prevention in clinical practice.** *Eur Heart J.* 2021;42(34):3227-3337. DOI: [10.1093/eurheartj/ehab484](https://doi.org/10.1093/eurheartj/ehab484).

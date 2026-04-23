@@ -6,9 +6,7 @@ last_fact_checked: 2026-04-23
 ---
 # ERC: Fármacos Modificadores de la Enfermedad (Los "4 Pilares" Nefrorprotectores)
 
-**Basado en:** *Novedades Estrella Guía KDIGO 2024*
-
-La nueva guía revoluciona el manejo al establecer terapias específicas que ralentizan drásticamente la caída del filtrado glomerular (TFG) e impiden la entrada en diálisis, independientemente del control de la presión arterial u otras metas glucométricas. Se basa en una terapia de capas múltiples.
+**Concepto clave:** La guía KDIGO 2024 revoluciona el manejo al establecer terapias específicas que ralentizan drásticamente la caída del filtrado glomerular (TFG) e impiden la entrada en diálisis, independientemente del control de la presión arterial u otras metas glucométricas. Se basa en una terapia de capas múltiples.
 
 ## 💊 1. Inhibidores del SRAA (IECA / ARA-II)
 El eslabón clásico de base. Reducen la presión intraglomerular dilatando la arteriola eferente (bajando la proteinuria).
@@ -122,3 +120,33 @@ La **hiperpotasemia** limita el uso óptimo de IECA/ARA-II, ARM y finerenona —
 
 > [!warning] Nunca solo el quelante
 > El quelante **trata la consecuencia, no la causa**. Siempre buscar y corregir: dieta alta en K⁺ (plátano, frutos secos, chocolate, sal de régimen con KCl), AINE ocultos, trimetoprim, suplementos, deshidratación, estreñimiento, acidosis metabólica, hipoaldosteronismo, rabdomiólisis.
+
+## 🔗 Enlaces del Vault
+
+- [[ERC - Estratificación y Pronóstico]]
+- [[Empagliflozina]] / [[Dapagliflozina]] (iSGLT2)
+- [[Finerenona]] (ARM no esteroideo)
+- [[Semaglutida]] / [[Liraglutida]] / [[Dulaglutida]] (ar-GLP-1)
+- [[Quelantes de K+]]
+- [[Hiperpotasemia]]
+- [[Síndrome Cardiovascular-Renal-Metabólico]]
+- [[MOC - NEFROLOGIA]] · [[MOC - FARMACOS]]
+
+## 📚 Bibliografía
+
+- **Guía principal:** Stevens PE, Ahmed SB, Carrero JJ, et al. **KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease.** *Kidney Int.* 2024;105(4S):S117-S314. DOI: [10.1016/j.kint.2023.10.018](https://doi.org/10.1016/j.kint.2023.10.018).
+
+### Ensayos pivote nefroprotección
+
+- **DAPA-CKD:** Heerspink HJL, Stefánsson BV, Correa-Rotter R, et al. **Dapagliflozin in Patients with Chronic Kidney Disease.** *N Engl J Med.* 2020;383(15):1436-1446. DOI: [10.1056/NEJMoa2024816](https://doi.org/10.1056/NEJMoa2024816).
+- **EMPA-KIDNEY:** The EMPA-KIDNEY Collaborative Group. **Empagliflozin in Patients with Chronic Kidney Disease.** *N Engl J Med.* 2023;388(2):117-127. DOI: [10.1056/NEJMoa2204233](https://doi.org/10.1056/NEJMoa2204233).
+- **CREDENCE:** Perkovic V, Jardine MJ, Neal B, et al. **Canagliflozin and Renal Outcomes in Type 2 Diabetes and Nephropathy.** *N Engl J Med.* 2019;380(24):2295-2306. DOI: [10.1056/NEJMoa1811744](https://doi.org/10.1056/NEJMoa1811744).
+- **FIDELIO-DKD:** Bakris GL, Agarwal R, Anker SD, et al. **Effect of Finerenone on Chronic Kidney Disease Outcomes in Type 2 Diabetes.** *N Engl J Med.* 2020;383(23):2219-2229. DOI: [10.1056/NEJMoa2025845](https://doi.org/10.1056/NEJMoa2025845).
+- **FIGARO-DKD:** Pitt B, Filippatos G, Agarwal R, et al. **Cardiovascular Events with Finerenone in Kidney Disease and Type 2 Diabetes.** *N Engl J Med.* 2021;385(24):2252-2263. DOI: [10.1056/NEJMoa2110956](https://doi.org/10.1056/NEJMoa2110956).
+- **FIDELITY** (meta): Agarwal R, Filippatos G, Pitt B, et al. **Cardiovascular and kidney outcomes with finerenone in patients with type 2 diabetes and chronic kidney disease: the FIDELITY pooled analysis.** *Eur Heart J.* 2022;43(6):474-484. DOI: [10.1093/eurheartj/ehab777](https://doi.org/10.1093/eurheartj/ehab777).
+- **FLOW:** Perkovic V, Tuttle KR, Rossing P, et al. **Effects of Semaglutide on Chronic Kidney Disease in Patients with Type 2 Diabetes.** *N Engl J Med.* 2024;391(2):109-121. DOI: [10.1056/NEJMoa2403347](https://doi.org/10.1056/NEJMoa2403347).
+
+### Quelantes de K+
+
+- **DIAMOND:** Butler J, Anker SD, Lund LH, et al. **Patiromer for the management of hyperkalemia in heart failure with reduced ejection fraction: the DIAMOND trial.** *Eur Heart J.* 2022;43(41):4362-4373. DOI: [10.1093/eurheartj/ehac401](https://doi.org/10.1093/eurheartj/ehac401).
+- **UpToDate Hyperkalemia** — PDFs locales (Causes, Manifestations, Treatment) en `Libros y referencias/03_Nefrologia/`.

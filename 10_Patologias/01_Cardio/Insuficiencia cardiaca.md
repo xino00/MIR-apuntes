@@ -6,7 +6,6 @@ last_fact_checked: 2026-04-23
 ---
 # Insuficiencia Cardíaca Crónica (ICC)
 
-**Fuente:** ESC HF 2021 + Focused Update 2023 + Manual 12 de Octubre, Cap. 15.
 **Concepto clave:** Síndrome clínico secundario a una alteración estructural y/o funcional del corazón que produce una disminución del gasto cardíaco y/o aumento de las presiones intracardíacas. Cuando el paciente ya ha tenido alguna vez síntomas compatibles con IC aguda, hablamos de ICC.
 
 ## 🔬 Diagnóstico y Clasificación
@@ -148,7 +147,16 @@ El tratamiento médico optimizado (TMO) se basa en 4 pilares fundamentales, todo
 - **Fibrilación Auricular:** Arritmia más frecuente (sobre todo en FEVIp). Beta-bloqueante es de elección para control de frecuencia (<110). Si NYHA IV usar [[Amiodarona]] o [[Digoxina]]. ¡¡Verapamilo/Diltiazem CONTRAINDICADOS en FEVIr!!
 - **[[Hiponatremia]] hipervolémica:** Refleja la activación del SRAA y ADH. Manejo principal: restricción hídrica drástica y terapia deplectiva.
 
-### 🔗 Enlaces / Bibliografía
+## 🔗 Enlaces del Vault
+
 - [[Insuficiencia cardiaca aguda]]
+- [[Síndrome Cardiovascular-Renal-Metabólico]]
 - [[MOC - CARDIOLOGIA]]
-- *Manual de diagnóstico y terapéutica médica Hospital 12 de Octubre, 9º ed. 2022. Cap. 15.*
+
+## 📚 Bibliografía
+
+- **Guía principal:** McDonagh TA, Metra M, Adamo M, et al. **2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure.** *Eur Heart J.* 2021;42(36):3599-3726. DOI: [10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368).
+- **Focused Update:** McDonagh TA, Metra M, Adamo M, et al. **2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure.** *Eur Heart J.* 2023;44(37):3627-3639. DOI: [10.1093/eurheartj/ehad195](https://doi.org/10.1093/eurheartj/ehad195).
+- **Score H2FPEF:** Reddy YNV, Carter RE, Obokata M, Redfield MM, Borlaug BA. **A Simple, Evidence-Based Approach to Help Guide Diagnosis of Heart Failure With Preserved Ejection Fraction.** *Circulation.* 2018;138(9):861-870. DOI: [10.1161/CIRCULATIONAHA.118.034646](https://doi.org/10.1161/CIRCULATIONAHA.118.034646).
+- **Algoritmo HFA-PEFF:** Pieske B, Tschöpe C, de Boer RA, et al. **How to diagnose heart failure with preserved ejection fraction: the HFA-PEFF diagnostic algorithm.** *Eur Heart J.* 2019;40(40):3297-3317. DOI: [10.1093/eurheartj/ehz641](https://doi.org/10.1093/eurheartj/ehz641).
+- **Manual local:** *Manual de diagnóstico y terapéutica médica Hospital 12 de Octubre*, 9ª ed. 2022, Cap. 15.

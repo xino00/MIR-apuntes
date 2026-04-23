@@ -196,22 +196,30 @@ Los pilares farmacológicos CRM actúan simultáneamente sobre los 3 ejes. Su pr
 
 **Rehabilitación cardiaca**: indicada en **todos los pacientes CRM con evento CV**.
 
-## Fuentes
-
-- PDF local del consenso Delphi: [[DelphiCRM_interactivo_completo.pdf]]
-- Marco conceptual: presidential advisory AHA 2023
-- Guías relacionadas (índice completo en [[Guias_de_Referencia]]):
-  - KDIGO 2024 (ERC)
-  - ESC 2021 + Focused Update 2023 (IC)
-  - SEMI 2023 (IC aguda)
-  - ADA 2025 Standards of Care (DM2)
-  - SEMI 2025 (DM2)
-
-## Navegación
+## 🔗 Enlaces del Vault
 
 - [[000_INICIO]]
-- [[MOC - CARDIOLOGIA]]
-- [[MOC - NEFROLOGIA]]
-- [[MOC - ENDOCRINO]]
-- [[MOC - FARMACOS]]
-- Ver también: [[Síndrome Cardiorrenal]] (CRS clásico de Ronco, concepto relacionado pero distinto)
+- [[Síndrome Cardiorrenal]] (CRS clásico de Ronco, concepto relacionado pero distinto)
+- [[Insuficiencia cardiaca]] · [[Insuficiencia cardiaca aguda]]
+- [[ERC - Estratificación y Pronóstico]] · [[ERC - Fármacos Modificadores de la Enfermedad]]
+- [[Diabetes Mellitus tipo 2]]
+- [[Evaluación del Riesgo Cardiovascular en la Hipertensión]]
+- [[MOC - CARDIOLOGIA]] · [[MOC - NEFROLOGIA]] · [[MOC - ENDOCRINO]] · [[MOC - FARMACOS]]
+
+## 📚 Bibliografía
+
+### Marco conceptual CKM (AHA 2023)
+
+- **Presidential Advisory:** Ndumele CE, Neeland IJ, Tuttle KR, et al. **Cardiovascular-Kidney-Metabolic Health: A Presidential Advisory From the American Heart Association.** *Circulation.* 2023;148(20):1606-1635. DOI: [10.1161/CIR.0000000000001184](https://doi.org/10.1161/CIR.0000000000001184).
+- **Synopsis (Scientific Statement):** Ndumele CE, Rangaswami J, Chow SL, et al. **A Synopsis of the Evidence for the Science and Clinical Management of Cardiovascular-Kidney-Metabolic (CKM) Syndrome.** *Circulation.* 2023;148(20):1636-1664. DOI: [10.1161/CIR.0000000000001186](https://doi.org/10.1161/CIR.0000000000001186).
+
+### Guías específicas de cada eje
+
+- **Renal:** Stevens PE, Ahmed SB, Carrero JJ, et al. **KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease.** *Kidney Int.* 2024;105(4S):S117-S314. DOI: [10.1016/j.kint.2023.10.018](https://doi.org/10.1016/j.kint.2023.10.018).
+- **Cardíaco — IC:** McDonagh TA, Metra M, Adamo M, et al. **2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure.** *Eur Heart J.* 2021;42(36):3599-3726. DOI: [10.1093/eurheartj/ehab368](https://doi.org/10.1093/eurheartj/ehab368) + **2023 Focused Update.** *Eur Heart J.* 2023;44(37):3627-3639. DOI: [10.1093/eurheartj/ehad195](https://doi.org/10.1093/eurheartj/ehad195).
+- **Metabólico — DM:** American Diabetes Association. **Standards of Care in Diabetes — 2026.** *Diabetes Care.* 2026;49(Suppl 1):S1-S371. URL: [diabetesjournals.org/care](https://diabetesjournals.org/care).
+- **Prevención CV:** Visseren FLJ, Mach F, Smulders YM, et al. **2021 ESC Guidelines on cardiovascular disease prevention in clinical practice.** *Eur Heart J.* 2021;42(34):3227-3337. DOI: [10.1093/eurheartj/ehab484](https://doi.org/10.1093/eurheartj/ehab484).
+
+### Consenso local
+
+- **Delphi CRM 2025** (consenso español) — PDF local: [[DelphiCRM_interactivo_completo.pdf]]. Ver índice ampliado en [[Guias_de_Referencia]].

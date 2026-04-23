@@ -7,7 +7,6 @@ last_fact_checked: 2026-04-23
 
 # Diabetes Mellitus tipo 2 (DM2)
 
-**Fuente:** ADA *Standards of Care in Diabetes — 2026* (Diabetes Care, Jan 2026, Vol 49 Supl 1) + redGDPS-España + Manual 12 Octubre 2022.
 **Concepto clave:** Trastorno metabólico crónico caracterizado por **hiperglucemia** secundaria a **resistencia periférica a la insulina** + **disfunción progresiva de la célula β pancreática**. Representa el **90-95 %** de todos los casos de diabetes. Se asocia fuertemente con obesidad visceral, síndrome metabólico y [[Síndrome Cardiovascular-Renal-Metabólico]].
 
 ## 1. Criterios Diagnósticos
@@ -250,7 +249,7 @@ Pilar **irrenunciable** del tratamiento. Programas estructurados (DAFNE, DESMOND
 - Cuidado de pies.
 - Adherencia farmacológica y revisión de técnicas de inyección si insulina.
 
-## 🔗 Enlaces Relacionados
+## 🔗 Enlaces del Vault
 
 ### Complicaciones y temas ligados
 - [[Cetoacidosis Diabética (CAD)]]
@@ -273,3 +272,11 @@ Pilar **irrenunciable** del tratamiento. Programas estructurados (DAFNE, DESMOND
 ### Navegación
 - [[MOC - ENDOCRINO]]
 - [[MOC - FARMACOS]]
+
+## 📚 Bibliografía
+
+- **Guía principal:** American Diabetes Association Professional Practice Committee. **Standards of Care in Diabetes — 2026.** *Diabetes Care.* 2026;49(Suppl 1):S1-S371. URL: [diabetesjournals.org/care](https://diabetesjournals.org/care).
+- **Consenso ADA/EASD:** Davies MJ, Aroda VR, Collins BS, et al. **Management of Hyperglycemia in Type 2 Diabetes, 2022. A Consensus Report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD).** *Diabetes Care.* 2022;45(11):2753-2786. DOI: [10.2337/dci22-0034](https://doi.org/10.2337/dci22-0034).
+- **UKPDS 34 (histórico — metformina en DM2):** UK Prospective Diabetes Study (UKPDS) Group. **Effect of intensive blood-glucose control with metformin on complications in overweight patients with type 2 diabetes (UKPDS 34).** *Lancet.* 1998;352(9131):854-865. DOI: [10.1016/S0140-6736(98)07037-8](https://doi.org/10.1016/S0140-6736(98)07037-8).
+- **redGDPS-España** — algoritmos de manejo DM2 en atención primaria. URL: [redgdps.org](https://www.redgdps.org).
+- **Manual local:** *Manual de diagnóstico y terapéutica médica Hospital 12 de Octubre*, 9ª ed. 2022 (capítulos de endocrino).

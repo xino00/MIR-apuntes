@@ -4,7 +4,6 @@ tags: [urgencias, nefro, patologia, consensos]
 ---
 # Fracaso Renal Agudo (FRA)
 
-**Fuente:** Guías KDIGO (Update 2023/2024), Consensos ADQI (2020-2024), Manual 12 de Octubre Cap. 35.
 **Concepto clave:** Deterioro brusco de la función renal que resulta en retención de productos nitrogenados (Urea, Creatinina) y alteración de la homeostasis hidroelectrolítica. Es un síndrome crítico, más allá de un simple "valor de laboratorio alterado".
 
 ## 📏 1. Definición y Estadios (KDIGO 2023 / ADQI)
@@ -97,8 +96,17 @@ Los macoensayos clínicos de alto impacto mundiales (*STARRT-AKI* publicado en N
   - **O**verload (Sobrecarga de volumen refractaria - ej. Edema Agudo de Pulmón que no responde a diuréticos agresivos).
   - **U**remia sintomática (Pericarditis urémica, Encefalopatía urémica o Diátesis hemorrágica por BUN > 110 mg/dL).
 
-## 🔗 Enlaces Relacionados
+## 🔗 Enlaces del Vault
+
 - [[ERC - Estratificación y Pronóstico#🆚 FRA vs ERC — Diferencias Operativas|FRA vs ERC — tabla comparativa + "agudización sobre crónica"]]
 - [[Síndrome Cardiorrenal]]
 - [[Shock]]
 - [[Trastornos Ácido-Base - 2. Acidosis Metabólica|Acidosis Metabólica]]
+- [[MOC - NEFROLOGIA]] · [[MOC - Urgencias]]
+
+## 📚 Bibliografía
+
+- **Guía principal:** KDIGO Clinical Practice Guideline for Acute Kidney Injury (2012, con updates ADQI 2020-2024). URL: [kdigo.org/guidelines/acute-kidney-injury](https://kdigo.org/guidelines/acute-kidney-injury/).
+- **STARRT-AKI (momento óptimo de diálisis):** STARRT-AKI Investigators. **Timing of Initiation of Renal-Replacement Therapy in Acute Kidney Injury.** *N Engl J Med.* 2020;383(3):240-251. DOI: [10.1056/NEJMoa2000741](https://doi.org/10.1056/NEJMoa2000741).
+- **AKIKI 2 (estrategia diferida):** Gaudry S, Hajage D, Martin-Lefevre L, et al. **Comparison of two delayed strategies for renal replacement therapy initiation for severe acute kidney injury (AKIKI 2): a multicentre, open-label, randomised, controlled trial.** *Lancet.* 2021;397(10281):1293-1300. DOI: [10.1016/S0140-6736(21)00350-0](https://doi.org/10.1016/S0140-6736(21)00350-0).
+- **Manual local:** *Manual de diagnóstico y terapéutica médica Hospital 12 de Octubre*, 9ª ed. 2022, Cap. 35.
