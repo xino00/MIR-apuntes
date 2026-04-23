@@ -41,23 +41,23 @@ El **MOC - Urgencias** actúa como vista transversal: agrega las urgencias de ca
 
 `90_MOCs/000_INICIO.md` es el hub central (y homepage de Quartz). Todos los MOCs siguen el patrón `MOC - ESPECIALIDAD.md` (MAYÚSCULAS):
 
-| MOC | Especialidad |
-|---|---|
-| `MOC - CARDIOLOGIA` | Cardiología |
-| `MOC - NEUMOLOGIA` | Neumología |
-| `MOC - INFECCIOSAS` | Infecciosas |
-| `MOC - NEUROLOGIA` | Neurología |
-| `MOC - HEMATOLOGIA` | Hematología |
-| `MOC - DIGESTIVO` | Digestivo |
-| `MOC - NEFROLOGIA` | Nefrología |
-| `MOC - REUMATOLOGIA` | Reumatología |
-| `MOC - ENDOCRINO` | Endocrinología |
-| `MOC - ORL` | ORL |
-| `MOC - UROLOGIA` | Urología |
-| `MOC - TRAUMATOLOGIA` | Traumatología |
-| `MOC - DERMATOLOGIA` | Dermatología |
-| `MOC - FARMACOS` | Fármacos (por clase terapéutica) |
-| `MOC - Urgencias` | Hub transversal de urgencias |
+| MOC                   | Especialidad                     |
+| --------------------- | -------------------------------- |
+| `MOC - CARDIOLOGIA`   | Cardiología                      |
+| `MOC - NEUMOLOGIA`    | Neumología                       |
+| `MOC - INFECCIOSAS`   | Infecciosas                      |
+| `MOC - NEUROLOGIA`    | Neurología                       |
+| `MOC - HEMATOLOGIA`   | Hematología                      |
+| `MOC - DIGESTIVO`     | Digestivo                        |
+| `MOC - NEFROLOGIA`    | Nefrología                       |
+| `MOC - REUMATOLOGIA`  | Reumatología                     |
+| `MOC - ENDOCRINO`     | Endocrinología                   |
+| `MOC - ORL`           | ORL                              |
+| `MOC - UROLOGIA`      | Urología                         |
+| `MOC - TRAUMATOLOGIA` | Traumatología                    |
+| `MOC - DERMATOLOGIA`  | Dermatología                     |
+| `MOC - FARMACOS`      | Fármacos (por clase terapéutica) |
+| `MOC - Urgencias`     | Hub transversal de urgencias     |
 
 `Checklist - Manual 12 Octubre.md` — checklist de capítulos del Manual del 12 de Octubre vs notas existentes (~52% cubierto). Enlazado desde `000_INICIO.md`.
 

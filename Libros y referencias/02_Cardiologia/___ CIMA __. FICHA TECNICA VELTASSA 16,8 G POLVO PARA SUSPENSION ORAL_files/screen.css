@@ -1,0 +1,373 @@
+html * {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.right .github-fork-ribbon {
+	background-color: #563d7c;
+}
+
+h1 {
+	font-size: 15pt;
+	font-weight: bold;
+	/* Estilos para que al pulsar sobre los enlaces del TOC respete el espacio de la cabecera */
+	padding-top: 90px;
+	margin-top: -70px;
+}
+
+h2 {
+	font-size: 14pt;
+	font-weight: bold;
+	padding-top: 90px;
+	margin-top: -80px;
+}
+
+h3 {
+	font-size: 12pt;
+	/* 	font-weight: bold; */
+	padding-top: 90px;
+	margin-top: -80px;
+	text-decoration: underline;
+	
+}
+
+.container {
+	max-width: 1200px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.hint {
+	color: #563d7c;
+	display: inline-block;
+	font-weight: bold;
+	left: 20px; /* match the left margin of the top-level nav items */
+	position: relative;
+	top: 0.5em;
+}
+
+.hint:before {
+	content: '↑';
+	display: block;
+	font-size: 3em;
+	margin-bottom: 5px;
+	text-align: center;
+}
+
+footer {
+	margin-top: 50px;
+	text-align: center;
+}
+
+.pvh100 {
+	padding-bottom: 100vh;
+}
+
+img.img-responsive2 {
+	height: 28px;
+}
+
+img.img-responsive3 {
+	height: 28px;
+}
+
+a.navbar-brand {
+	padding: 10px;
+}
+
+.nav {
+	padding-top: 10px;
+	max-width: 360px;
+}
+
+.navbar-header {
+	width: 100%;
+}
+
+.navbar-nav>li {
+    width: 100%;
+}
+
+nav[data-toggle=toc] .nav>li>a {
+    text-indent: -15px;
+    padding-left: 20px;
+}
+
+nav[data-toggle=toc] .active>.nav-link+ul {
+    display: block;
+}
+
+nav[data-toggle="toc"] .active>.nav-link,
+nav[data-toggle="toc"] .active>.nav-link:hover,
+nav[data-toggle="toc"] .active>.nav-link:focus {
+	padding-left: 18px;
+	font-weight: bold;
+	color: #563d7c;
+	background-color: transparent;
+	border-left: 2px solid #563d7c;
+}
+
+nav[data-toggle="toc"] .active>.nav>.active>.nav-link {
+    padding-left: 43px;
+}
+
+nav[data-toggle="toc"] .nav .nav>li>a:focus, 
+nav[data-toggle="toc"] .nav .nav>li>a:hover {
+    padding-left: 45px;
+}
+
+nav[data-toggle=toc] .nav .nav>li>a {
+    text-indent: -24px;
+    padding-left: 45px;
+}
+
+/*
+nav[data-toggle=toc] .nav>li>a {
+	text-indent: -15px;
+	padding-left: 20px;
+	width: calc(25%);
+}
+
+nav[data-toggle=toc] .nav .nav>li>a {
+	text-indent: -24px;
+	padding-left: 40px;
+}
+
+nav[data-toggle=toc] .nav .nav>.active:focus>a, nav[data-toggle=toc] .nav .nav>.active:hover>a,
+	nav[data-toggle=toc] .nav .nav>.active>a {
+	text-indent: -24px;
+	padding-left: 38px;
+}
+
+nav[data-toggle=toc] .nav .nav>li>a:focus, nav[data-toggle=toc] .nav .nav>li>a:hover
+	{
+	text-indent: -24px;
+	padding-left: 39px;
+}
+*/
+@media ( max-width : 1400px ) {
+	.img-responsive2 {
+		/*max-width: 40%;*/
+		/* 		display: inline; */
+		/* 		height: 30px; */
+		/* 		margin-top: 6px; */
+		
+	}
+	.img-responsive3 {
+		/* 		max-width: 20%; */
+		/* 		display: inline; */
+		/* 		height: 30px; */
+		/* 		margin-left: 5px; */
+		/* 		margin-top: 0px; */
+		
+	}
+	.navbarimage {
+		height: 1px;
+		margin-top: 30px;
+		border-color: transparent;
+		margin-right: -30px;
+	}
+	.notice strong {
+		font-weight: 700;
+		font-size: 14px;
+	}
+}
+
+/* small screens */
+@media ( max-width : 992px) {
+	.navbar-text {
+	    float: left;
+	    margin: 0 0 0 0;
+	}
+	/* override the Affix plugin so that the navigation isn't sticky */
+	nav.affix[data-toggle='toc'] {
+		position: static;
+		padding-top: 7rem;
+/* 		width: calc(80% - 30px); */
+	}
+	
+	nav[data-toggle=toc] .nav>li>a {
+	    text-indent: -15px;
+	    padding-left: 20px;
+	}
+
+	/* display the second-level nav */
+	nav[data-toggle='toc'] .nav .nav {
+		display: block;
+	}
+	.hint {
+		top: 0;
+	}
+	.pvh100 {
+	    padding-top: 0rem;
+	}
+	h1 {
+		margin-top: 1rem;
+		padding-top: 0px;
+	}
+	h2 {
+		margin-top: 1rem;
+		padding-top: 0px;
+	}
+	h3 {
+		margin-top: 1rem;
+		padding-top: 0px;
+	}
+	h4 {
+		margin-top: 1rem;
+		padding-top: 0px;
+	}
+}
+
+/* large screens */
+@media ( min-width : 993px) {
+	nav.affix[data-toggle='toc'] {
+		width: calc(25% - 30px);
+	}
+	h1:first-child {
+		margin-top: 0;
+		padding-top: 10px;
+	}
+	.navbar-text {
+		float: left;
+		font-weight: bolder;
+		font-size: 1.1em;
+		margin-left: -9px;
+	}
+}
+
+#fixheader .container {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+nav#fixheaderBottom {
+	margin-top: 10px;
+}
+
+#fixheaderBottom .container {
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.navbar#fixheaderBottom {
+	min-height: 30px;
+}
+
+.navbar-brand {
+	padding: 5px 15px 5px 15px;
+}
+
+#fixheaderBottom .navbar-brand {
+	height: 30px;
+	padding-top: 5px;
+	padding-bottom: 0px;
+}
+
+.container#content {
+	padding-top: 90px;
+}
+
+.container#content2 {
+	padding-top: 0px;
+}
+
+.scrollableContainer {
+	width: 100%;
+	overflow-y: scroll;
+	overflow-x: visible;
+	/* 	_overflow: auto; */
+	margin: 0 0 1em;
+}
+
+.scrollableContainer::-webkit-scrollbar {
+	-webkit-appearance: none;
+	/* 	width: 14px; */
+	/* 	height: 14px; */
+}
+
+.scrollableContainer::-webkit-scrollbar-thumb {
+	border-radius: 8px;
+	border: 3px solid #fff;
+	background-color: rgba(0, 0, 0, .3);
+}
+
+.scrollableContainer::-webkit-scrollbar:horizontal {
+	width: 14px !important;
+	height: 14px !important;
+}
+
+.nonselectable {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.cd-top {
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	position: fixed;
+	bottom: 40px;
+	right: 10px;
+	z-index: 10;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+	/* image replacement properties */
+	overflow: hidden;
+	text-indent: 100%;
+	white-space: nowrap;
+	background: rgba(232, 98, 86, 0.8) url(../images/cd-top-arrow.svg)
+		no-repeat center 50%;
+	visibility: hidden;
+	opacity: 0;
+	-webkit-transition: opacity .3s 0s, visibility 0s .3s;
+	-moz-transition: opacity .3s 0s, visibility 0s .3s;
+	transition: opacity .3s 0s, visibility 0s .3s;
+}
+
+.cd-top.cd-is-visible, .cd-top.cd-fade-out, .no-touch .cd-top:hover {
+	-webkit-transition: opacity .3s 0s, visibility 0s 0s;
+	-moz-transition: opacity .3s 0s, visibility 0s 0s;
+	transition: opacity .3s 0s, visibility 0s 0s;
+}
+
+.cd-top.cd-is-visible {
+	/* the button becomes visible */
+	visibility: visible;
+	opacity: 1;
+}
+
+.cd-top.cd-fade-out {
+	/* if the user keeps scrolling down, the button is out of focus and becomes less visible */
+	opacity: .5;
+}
+
+.no-touch .cd-top:hover {
+	background-color: #e86256;
+	opacity: 1;
+}
+
+.cd-top:hover {
+	background-color: #e86256;
+	opacity: 1;
+}
+
+@media only screen and (min-width: 768px) {
+	.cd-top {
+		right: 20px;
+		bottom: 20px;
+	}
+}
+
+@media only screen and (min-width: 1024px) {
+	.cd-top {
+		height: 60px;
+		width: 60px;
+		right: 30px;
+		bottom: 30px;
+	}
+}
