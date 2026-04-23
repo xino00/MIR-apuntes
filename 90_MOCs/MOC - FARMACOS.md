@@ -172,6 +172,9 @@ description: "Índice farmacológico: 128 fármacos agrupados por clase terapéu
 **Insulina**
 - [[Insulina]]
 
+**Biguanidas**
+- [[Metformina]] (primera línea DM2)
+
 **iSGLT2**
 - [[Dapagliflozina]]
 - [[Empagliflozina]]
@@ -180,6 +183,9 @@ description: "Índice farmacológico: 128 fármacos agrupados por clase terapéu
 - [[Dulaglutida]]
 - [[Liraglutida]]
 - [[Semaglutida]]
+
+**iDPP4 (gliptinas)**
+- [[iDPP4]] (nota de clase — sita/lina/saxa/vilda)
 
 ---
 
