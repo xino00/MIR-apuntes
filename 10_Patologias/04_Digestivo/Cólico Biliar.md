@@ -1,8 +1,15 @@
 ---
-aliases: [Cólico biliar, Cólico hepático, Litiasis vesicular, Colelitiasis]
-tags: [urgencias, digestivo, cirugia-general, patologia]
-fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"
-fuente: "Manual 12 Octubre 2022, cap. 38 Vías biliares (p. 545)"
+aliases:
+  - Cólico biliar
+  - Cólico hepático
+  - Litiasis vesicular
+  - Colelitiasis
+tags:
+  - urgencias
+  - digestivo
+  - cirugia-general
+fuente_original: Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md
+fuente: Manual 12 Octubre 2022, cap. 38 Vías biliares (p. 545)
 last_fact_checked: 2026-04-21
 ---
 # Cólico Biliar
