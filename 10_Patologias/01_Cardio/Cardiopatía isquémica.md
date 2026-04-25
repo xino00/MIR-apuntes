@@ -58,9 +58,9 @@ Presencia de dolor anginoso prolongado junto con **elevación persistente del ST
 ```mermaid
 graph TD
     A[Diagnóstico SCACEST] --> B{¿Tiempo previsto a ICP Primaria?}
-    B -->|"< 120 min"| C[Traslado inmediato a Hemodinámica]
+    B -->|"&lt; 120 min"| C[Traslado inmediato a Hemodinámica]
     C --> D[Intervencionismo Coronario Percutáneo - ICP]
-    B -->|"> 120 min"| E{¿Existen contraindicaciones para Fibrinólisis?}
+    B -->|"&gt; 120 min"| E{¿Existen contraindicaciones para Fibrinólisis?}
     E -->|Sí| C
     E -->|No| F["Fibrinólisis INMEDIATA (Tenecteplasa/Alteplasa)"]
     F --> G{¿Ha habido Criterios Reperfusión?}

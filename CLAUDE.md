@@ -97,7 +97,7 @@ Use the `/newnote` skill for guided note creation — it handles folder routing,
 Quartz renderiza bloques ` ```mermaid ` con mermaid 11.x (estricto). Reglas para que rendericen igual en Obsidian y en Quartz:
 
 - Texto de un nodo con `(`, `)`, `:`, `,`, `#`: envolver en comillas → `A["Nodo (con paréntesis)"]`.
-- Etiquetas de arista con `<` o `>`: usar la sintaxis con pipes y comillas → `A -->|"< 120 min"| B`. Evitar `A -- < 120 min --> B`.
+- Etiquetas de arista con `<` o `>`: usar entidades HTML `&lt;` / `&gt;` dentro de pipes con comillas → `A -->|"&lt; 120 min"| B`. Las comillas solas no bastan: mermaid procesa el contenido del label como markdown y un `>` al inicio dispara blockquote (`Unsupported markdown: blockquote`).
 - Bloques mermaid dentro de listas numeradas: sacarlos del item (a nivel raíz, 0 espacios de indentación) o indentarlos 4 espacios — con 3 espacios el parser no detecta el code fence.
 
 ## Skills disponibles
