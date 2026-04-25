@@ -58,14 +58,14 @@ Presencia de dolor anginoso prolongado junto con **elevación persistente del ST
 ```mermaid
 graph TD
     A[Diagnóstico SCACEST] --> B{¿Tiempo previsto a ICP Primaria?}
-    B -- < 120 min --> C[Traslado inmediato a Hemodinámica]
+    B -->|"< 120 min"| C[Traslado inmediato a Hemodinámica]
     C --> D[Intervencionismo Coronario Percutáneo - ICP]
-    B -- > 120 min --> E{¿Existen contraindicaciones para Fibrinólisis?}
-    E -- Sí --> C
-    E -- No --> F[Fibrinólisis INMEDIATA (Tenecteplasa/Alteplasa)]
+    B -->|"> 120 min"| E{¿Existen contraindicaciones para Fibrinólisis?}
+    E -->|Sí| C
+    E -->|No| F["Fibrinólisis INMEDIATA (Tenecteplasa/Alteplasa)"]
     F --> G{¿Ha habido Criterios Reperfusión?}
-    G -- Sí --> H[Coronariografía programada (2-24h)]
-    G -- No --> I[ICP de Rescate URGENTE]
+    G -->|Sí| H["Coronariografía programada (2-24h)"]
+    G -->|No| I[ICP de Rescate URGENTE]
 ```
 
 - **Farmacología Asociada al SCACEST:** **AAS 162-325 mg masticada** (no entérica) al diagnóstico + Prasugrel/Ticagrelor, seguida de 75-100 mg/día (ACC/AHA 2025). La anticoagulación (Heparina no fraccionada) se administra durante el propio intervencionismo, **NO** iniciar fondaparinux periprocedimiento primario.

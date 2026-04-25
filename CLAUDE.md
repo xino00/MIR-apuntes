@@ -92,6 +92,14 @@ When creating medical Obsidian notes, follow this structure:
 
 Use the `/newnote` skill for guided note creation — it handles folder routing, frontmatter, MOC updates, and git commit.
 
+### Diagramas Mermaid
+
+Quartz renderiza bloques ` ```mermaid ` con mermaid 11.x (estricto). Reglas para que rendericen igual en Obsidian y en Quartz:
+
+- Texto de un nodo con `(`, `)`, `:`, `,`, `#`: envolver en comillas → `A["Nodo (con paréntesis)"]`.
+- Etiquetas de arista con `<` o `>`: usar la sintaxis con pipes y comillas → `A -->|"< 120 min"| B`. Evitar `A -- < 120 min --> B`.
+- Bloques mermaid dentro de listas numeradas: sacarlos del item (a nivel raíz, 0 espacios de indentación) o indentarlos 4 espacios — con 3 espacios el parser no detecta el code fence.
+
 ## Skills disponibles
 
 ### Skills (slash commands)

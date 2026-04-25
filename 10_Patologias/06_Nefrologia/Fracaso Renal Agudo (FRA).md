@@ -37,23 +37,23 @@ El diagnóstico clásico requiere al menos uno de los tres criterios funcionales
      - **Hipovolemia Efectiva (Bajo Gasto):** IC severa, [[Shock]] cardiogénico, Cirrosis (S. Hepatorrenal).
      - **Nefropatía Congestiva (↑ Presión Venosa):** Típico del S. Cardiorrenal. El aumento de la presión en la vena renal se transmite retrógradamente al capilar peritubular.
    
-   ```mermaid
-   graph TD
-       subgraph "Insuficiencia Cardíaca / Sobrecarga"
-       IC[Fallo de Bomba] --> PVC[↑ Presión Venosa Central / PVC]
-       end
-       
-       PVC --> VR[↑ Presión Vena Renal]
-       VR --> Pcap[↑ Presión Capilar Peritubular]
-       
-       subgraph "Fenómenos Renales"
-       Pcap --> Edema[Edema Intersticial Renal]
-       Edema --> Pbowman[↑ Presión Cápsula de Bowman]
-       Pbowman -- "Oposición física al filtrado" --> GFR[↓ Tasa de Filtrado Glomerular / FRA]
-       end
-       
-       style GFR fill:#f96,stroke:#333,stroke-width:2px
-   ```
+```mermaid
+graph TD
+    subgraph "Insuficiencia Cardíaca / Sobrecarga"
+    IC[Fallo de Bomba] --> PVC[↑ Presión Venosa Central / PVC]
+    end
+
+    PVC --> VR[↑ Presión Vena Renal]
+    VR --> Pcap[↑ Presión Capilar Peritubular]
+
+    subgraph "Fenómenos Renales"
+    Pcap --> Edema[Edema Intersticial Renal]
+    Edema --> Pbowman[↑ Presión Cápsula de Bowman]
+    Pbowman -->|"Oposición física al filtrado"| GFR[↓ Tasa de Filtrado Glomerular / FRA]
+    end
+
+    style GFR fill:#f96,stroke:#333,stroke-width:2px
+```
 2. **FRA Parenquimatoso (Intrínseco) [35%]:** Daño estructural renal.
    - *Necrosis Tubular Aguda (NTA):* La más frecuente (85% de las renales). Causada por FRA prerrenal severo/mantenido (Isquémica) o nefrotóxicos (Aminoglucósidos, Contrastes yodados, Mioglobina por rabdomiólisis).
    - *Nefritis Intersticial Aguda (NIA):* Reacción alérgica inmune (Fármacos como betalactámicos o AINEs).

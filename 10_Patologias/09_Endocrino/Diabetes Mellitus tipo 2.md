@@ -141,7 +141,7 @@ graph TD
     A[Diagnóstico DM2] --> B{Estadío CKM / Comorbilidades}
     
     B -->|ECV aterosclerótica<br/>IC<br/>ERC establecidas| C[1a línea: iSGLT2 y/o GLP-1 RA<br/>por indicación CV/renal<br/>independiente de HbA1c]
-    B -->|Sin ECV/IC/ERC<br/>HbA1c <8,5%| D[1a línea: Metformina<br/>+ cambios estilo de vida]
+    B -->|"Sin ECV/IC/ERC<br/>HbA1c <8,5%"| D[1a línea: Metformina<br/>+ cambios estilo de vida]
     B -->|HbA1c ≥9%<br/>sintomática| E[Doble terapia inicial<br/>Metformina + iSGLT2/GLP-1]
     B -->|HbA1c ≥10%<br/>glucemia ≥300<br/>síntomas graves<br/>cetosis| F[Insulina basal<br/>± metformina]
     
@@ -155,7 +155,7 @@ graph TD
     
     J -->|ECV / IC / ERC| K[Añadir iSGLT2 o GLP-1]
     J -->|Obesidad<br/>HbA1c muy alto| L[Añadir GLP-1 RA<br/>o tirzepatida]
-    J -->|ERC-DM2 A2-A3<br/>K<4,8, TFGe>25| M[Añadir Finerenona]
+    J -->|"ERC-DM2 A2-A3<br/>K<4,8, TFGe>25"| M[Añadir Finerenona]
     J -->|Escalado coste/<br/>comodidad| N[Añadir iDPP4 o SU<br/>en ausencia de indicación CV/renal]
     J -->|Hiperglucemia basal<br/>persistente| O[Añadir insulina basal]
     
