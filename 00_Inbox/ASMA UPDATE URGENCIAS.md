@@ -1,3 +1,8 @@
+---
+tags: [inbox, review_needed, neumo, asma]
+description: "Sesión AstraZeneca con apuntes desestructurados + imágenes de pizarra. Convertir con /convert o integrar en Asma - Tratamiento Escalonado.md."
+---
+
 By AstraZeneca. Una sesión en el Servicio de urgencias por Neumólogos del hospital 
 
 [[Asma - Manejo Crónico|Asma]] [[Asma - Crisis Asmática]] [[Asma Grave No Controlada|Asma grave]] 

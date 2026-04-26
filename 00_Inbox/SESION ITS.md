@@ -1,3 +1,8 @@
+---
+tags: [inbox, review_needed, infecciosas, its]
+description: "Sesión clínica ITS — fusionar con `PROA - Infecciones de Transmisión Sexual (ITS).md` que ya cubre el tema de forma más completa."
+---
+
 # Uretritis/Cervicitis
 Ceftriaxona 500mg im monodosis+ doxiclina 7 días/azitro md 1g
 Alergicos Gentamicina 240mg im monodosis+ doxi

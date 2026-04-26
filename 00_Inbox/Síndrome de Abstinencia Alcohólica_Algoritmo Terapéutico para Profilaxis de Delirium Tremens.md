@@ -1,3 +1,10 @@
+---
+aliases: [SAA, Síndrome Abstinencia Alcohólica, Delirium Tremens, Profilaxis DT]
+tags: [psiquiatria, urgencias, patologia, alcohol, abstinencia, review_needed]
+description: Algoritmo terapéutico para profilaxis de delirium tremens — CIWA-Ar, benzodiacepinas, fenobarbital.
+---
+
+# Síndrome de Abstinencia Alcohólica — Algoritmo Terapéutico
 
 ## 1. Estratificación del riesgo
 
