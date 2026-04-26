@@ -1,6 +1,6 @@
 ---
 aliases: [Sepsis, Shock Séptico, Sepsis grave]
-tags: [infecciosas, urgencias, uci, sepsis, índice]
+tags: [infecciosas, urgencias, uci, sepsis, indice]
 ---
 # Sepsis y Shock Séptico
 
