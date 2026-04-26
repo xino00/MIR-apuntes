@@ -113,7 +113,7 @@ last_fact_checked: 2026-04-26
 | **Estatinas** | Inhibe HMG-CoA reductasa → ↑ receptores LDL hepáticos | Atorva, Rosu, Sim, Prava, Lova, Fluva, Pitava | Ver Tabla 6 | Oral, 1×/d | **18-55%** según fármaco/dosis |
 | **Inhibidor absorción** | Bloquea NPC1L1 (transportador esterol) intestinal y biliar | **Ezetimibe** | 10 mg | Oral, 1×/d | **18%** mono · **+25%** sumado a estatina |
 | **PCSK9 mAb** | Anticuerpo monoclonal humano; bloquea PCSK9 circulante → ↓ degradación del receptor LDL | **Alirocumab** · **Evolocumab** | Aliro 75-150 mg c/2 sem o 300 mg c/4 sem · Evo 140 mg c/2 sem o 420 mg/mes | **SC** | **45-64%** (HoFH-LDLR variant: 21-31%) |
-| **Inhibidor PCSK9 (siRNA)** | RNA interference → degrada mRNA PCSK9 hepático | **Inclisirán** | 284 mg | **SC** — inicio + 3 m + cada 6 m | **48-52%** (CVOT en curso) |
+| **Inhibidor PCSK9 (siRNA)** | RNA interference → degrada mRNA PCSK9 hepático | **Inclisirán** | 284 mg | **SC** — inicio + 3 m + cada 6 m | **48-52%** Tabla 5 (CVOT en curso); ver [[Inclisirán]] §6 para datos pivotales (~50% individual / 45,8% pooled placebo-corrected en intolerantes) |
 | **ATP-citrato liasa** | Inhibe la enzima upstream de HMG-CoA reductasa; **profármaco activado solo en hígado** (no efecto muscular) | **Ácido bempedoico** | 180 mg | Oral, 1×/d | **21-24%** mono · **+17-18%** con estatina |
 | **Resinas** | Secuestran ác. biliares, ↑ conversión hepática colesterol→ác. biliares, ↑ receptor LDL | Colestiramina · Colesevelam · Colestipol | Cole 8-16 g · Coleseve 3,75 g · Coles 2-16 g | Oral, 1-2×/d | **10-27%** — limitadas por GI; ↑ TG (evitar si TG ≥300) |
 
