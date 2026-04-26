@@ -186,9 +186,9 @@ El algoritmo concreto del SCA agudo y el LDL-C en el ingreso → ver [[SCA - Man
 > [!info] Datos clave del 2026
 > - **CTT meta-análisis (39 612)**: estatina más intensiva → 15% adicional ↓ eventos vasculares mayores (vs menos intensiva).
 > - **IMPROVE-IT** (post-SCA): simva 40 + ezetimibe vs simva 40 → 2% ARR a 6 a, 6,3% ARR si ≥3 high-risk indicators.
-> - **FOURIER + ODYSSEY OUTCOMES** (ASCVD high-risk en estatina): evolocumab y alirocumab → 1,4-1,6% ARR a 2,2-2,8 a, 15% ARR placebo en ese plazo.
+> - **FOURIER + ODYSSEY OUTCOMES** (ASCVD high-risk en estatina): evolocumab y alirocumab → 1,4-1,6% ARR a 2,2-2,8 a, **~15% tasa de eventos en placebo** en ese plazo.
 > - **FOURIER-OLE** (extensión 6635 sujetos): ↓ MACE en participantes que cambiaron de placebo a evolocumab vs los mantenidos en evolocumab desde inicio. **Sin señal de daño con LDL-C <20 mg/dL**.
-> - **CLEAR Outcomes** (estatina-intolerantes con ASCVD): bempedoico ↓ LDL-C 20%, ARR 1,6% a >3 a, evento placebo >13%. Combo bempedoico + ezetimibe ↓ LDL-C 38%.
+> - **CLEAR Outcomes** (estatina-intolerantes con ASCVD/alto riesgo): bempedoico ↓ LDL-C 20%, ARR 1,6% a >3 a, evento placebo >13% (RRR global 13% en MACE; **RRR 30% en estrato de prevención primaria con DM**, que era el 30% de los pacientes). Combo bempedoico + ezetimibe ↓ LDL-C 38%.
 > - **ORION-10/11**: inclisirán → ↓ LDL-C 50%, MACE OR 0,74 (análisis exploratorio).
 
 ---

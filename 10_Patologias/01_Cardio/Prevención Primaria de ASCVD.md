@@ -83,7 +83,7 @@ flowchart TD
 | 3 | LDL-C ≥190 **sin** ASCVD/FH/FRCV adicionales/aterosclerosis subclínica + estatina máxima → añadir **ezetimibe ± PCSK9 mAb ± bempedoico** para **LDL-C <100 y no-HDL-C <130** | **COR 1, B-NR** |
 | 4 | LDL-C ≥190 **con** HeFH (clínica/genética), FRCV adicionales o calcificación coronaria, sin ASCVD + estatina máxima → añadir **ezetimibe ± PCSK9 mAb ± bempedoico** para **LDL-C <70 y no-HDL-C <100** | **COR 1, B-R** |
 | 5 | LDL-C ≥190 **con ASCVD clínica** + estatina máxima → añadir **ezetimibe ± PCSK9 mAb ± bempedoico** para **LDL-C <55 y no-HDL-C <85** | **COR 1, B-R** |
-| 6 | LDL-C ≥100 **pese a** estatina máxima ± ezetimibe → **inclisirán** razonable (segunda línea PCSK9) | **COR 2a, B-R** |
+| 6 | LDL-C ≥100 **pese a** estatina máxima ± ezetimibe → **inclisirán** razonable como **segunda línea PCSK9i** (CVOT pendientes; AHA 2026 lo aprueba solo para LDL-lowering, aún no para reducción de eventos) | **COR 2a, B-R** |
 
 ### Tabla 15 — Causas secundarias de hipercolesterolemia LDL-C (descartar siempre)
 
@@ -117,7 +117,7 @@ flowchart TD
     D -->|"Con ASCVD clínica"| G["+ Ezetimibe / PCSK9 mAb / bempedoico<br/>obj LDL-C <55, nHDL <85<br/>± Inclisirán (2a)<br/>obj ApoB <55 opcional"]
 ```
 
-### Indicaciones de aféresis de LDL (Liposorber LA-15)
+### Indicaciones de aféresis de LDL (Tabla 16 AHA/ACC 2026 — basadas en FDA-approval del Liposorber® LA-15 System)
 
 | Grupo | Criterio |
 |---|---|
