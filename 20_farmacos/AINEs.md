@@ -1,3 +1,9 @@
+---
+aliases: [AINEs, AINE, Antiinflamatorios No Esteroideos]
+tags: [farmaco, aines, antiinflamatorio, analgesico]
+description: Análisis farmacológico comparativo de AINEs — selectividad COX, perfil cardiovascular, gastrointestinal y renal.
+---
+
 # Análisis Farmacológico Comparativo: Antiinflamatorios No Esteroideos (AINEs)
 
 ### Versión consenso v3 — corregida, ampliada y estratificada por escenario
