@@ -49,7 +49,7 @@ description: "Hub central de urgencias: algoritmos vitales, iones, ácido-base y
 - [[Pericarditis Aguda]]
 - [[TEP - Tromboembolismo Pulmonar]]
 - [[Taponamiento Cardiaco]]
-- [[SCA - Evaluacion Inicial y Clasificacion (ACC-AHA 2025)|SCA - Evaluación Inicial y Clasificación]]
+- [[SCA - Evaluación Inicial y Clasificación]] · [[SCA - Tratamiento Médico]] · [[SCA - Reperfusión y Revascularización]] · [[SCA - Complicaciones y Shock Cardiogénico]]
 - [[Hipertensión Resistente y Crisis Hipertensiva|Crisis Hipertensiva]]
 
 **Neumología**

@@ -32,7 +32,6 @@ description: "Índice de cardiología: hipertensión, insuficiencia cardiaca, SC
 - [[Arritmias]]
 - [[Síncope]]
 - [[Fibrilación Auricular (FA)]]
-- [[Cardiopatía isquémica]]
 - [[Miocardiopatías]]
 - [[Valvulopatías]]
 - [[Endocarditis Infecciosa]]
@@ -42,16 +41,17 @@ description: "Índice de cardiología: hipertensión, insuficiencia cardiaca, SC
 - [[Cardiopatías Congénitas del Adulto]]
 - [[TEP - Tromboembolismo Pulmonar]]
 
-### 🫀 Síndrome Coronario Agudo
+### 🫀 Cardiopatía Isquémica — Síndrome Coronario Crónico
+- [[Cardiopatía Isquémica - Concepto y Clasificación]]
+- [[SCC - Diagnóstico]]
+- [[SCC - Tratamiento]]
 
-- [[Síndrome Coronario Agudo]] ← nota integral de guardia
-
-#### Notas detalladas (ACC-AHA 2025)
-- [[SCA - Evaluacion Inicial y Clasificacion (ACC-AHA 2025)|SCA - Evaluación Inicial y Clasificación]]
-- [[SCA - Tratamiento Medico (ACC-AHA 2025)|SCA - Tratamiento Médico]]
-- [[SCA - Reperfusion y Revascularizacion (ACC-AHA 2025)|SCA - Reperfusión y Revascularización]]
-- [[SCA - Complicaciones y Shock Cardiogenico (ACC-AHA 2025)|SCA - Complicaciones y Shock Cardiogénico]]
-- [[SCA - Manejo Hospitalario y Prevencion Secundaria (ACC-AHA 2025)|SCA - Manejo Hospitalario y Prevención Secundaria]]
+### 🚨 Síndrome Coronario Agudo (Manual 12 Octubre + ACC/AHA 2025)
+- [[SCA - Evaluación Inicial y Clasificación]]
+- [[SCA - Tratamiento Médico]]
+- [[SCA - Reperfusión y Revascularización]]
+- [[SCA - Complicaciones y Shock Cardiogénico]]
+- [[SCA - Manejo Hospitalario y Prevención Secundaria]]
 
 ### 🔢 Escalas y Criterios
 - [[Escala CHA2DS2-VASc y HAS-BLED]]

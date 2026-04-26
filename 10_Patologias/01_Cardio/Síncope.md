@@ -93,7 +93,7 @@ Si el paciente acude por una PTC, responder a:
 
 ### Pruebas complementarias iniciales
 a) **ECG** (obligatorio en todo síncope).
-b) **Análisis de sangre** según sospecha clínica: hemograma, MDM o dímeros D para descartar anemización, [[SCA - Evaluacion Inicial y Clasificacion (ACC-AHA 2025)|SCA]] o [[TEP - Tromboembolismo Pulmonar|TEP]].
+b) **Análisis de sangre** según sospecha clínica: hemograma, MDM o dímeros D para descartar anemización, [[SCA - Evaluación Inicial y Clasificación|SCA]] o [[TEP - Tromboembolismo Pulmonar|TEP]].
 c) **Masaje del seno carotídeo:** en mayores de 40 años. Positivo si pausa ventricular > 3 s o caída de PAS > 50 mmHg. Orienta a origen situacional (síndrome del seno carotídeo). Realizar bajo monitorización con vía venosa y [[Atropina]] disponible.
 d) **Prueba de bipedestación activa:** comparar TA en supino y bipedestación. Positiva si caída sostenida de PAS >= 20 mmHg o PAD >= 10 mmHg, o valores de PAS < 90 mmHg.
 e) **Maniobra de Valsalva:** para desenmascarar síncopes por hipotensión ortostática o de origen neurológico, y sospechar síncope situacional.

@@ -26,8 +26,8 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 
 ## Sección II — Cardiología
 
-- [x] [[Cardiopatía isquémica]]
-- [x] [[Síndrome Coronario Agudo]] (+ 5 notas ACC-AHA 2025)
+- [x] [[Cardiopatía Isquémica - Concepto y Clasificación]] · [[SCC - Diagnóstico]] · [[SCC - Tratamiento]]
+- [x] [[SCA - Evaluación Inicial y Clasificación]] · [[SCA - Tratamiento Médico]] · [[SCA - Reperfusión y Revascularización]] · [[SCA - Complicaciones y Shock Cardiogénico]] · [[SCA - Manejo Hospitalario y Prevención Secundaria]]
 - [x] [[Insuficiencia cardiaca]] / [[Insuficiencia cardiaca aguda|ICA]]
 - [x] [[Manejo Diurético Deterioro Renal ICA]]
 - [x] [[Síndrome Cardiorrenal]]
