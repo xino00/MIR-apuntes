@@ -122,7 +122,10 @@ flowchart TD
 | Diferencial | **Síndrome de quilomicronemia multifactorial (MCS)** — TG ≥1000 con causas combinadas (poligénico + secundarias). Más común que FCS. Test genético para distinguir |
 | Manejo | **Dieta muy baja en grasa (<10-15% calorías)** desde adopción precoz, MCT como alternativa, suplementos vitamina liposoluble · **fibratos/omega-3 son ineficaces** (LPL-dependientes) · **Olezarsén 80 mg SC/mes** (ASO anti-apoC-III) — única terapia FDA-aprobada |
 
-> Olezarsén en FCS: ↓ TG **43,5% vs placebo** a 6 meses; ↓ pancreatitis **rate ratio 0,12 vs placebo** (eventos pooled).
+> Olezarsén en FCS — **dos cifras del mismo source**:
+> - **Tabla 5 AHA**: TG ↓ **30%** absoluto (placebo-corrected estimado **42,5%**).
+> - **Ensayo pivotal de fase 3 a 6 meses** (§4.2.9 supportive text 3): diferencia con placebo **−43,5% (IC 95% −69,1 a −17,9; P<0,001)**.
+> - ↓ pancreatitis **rate ratio 0,12 vs placebo** (eventos pooled).
 
 > [!info] Tool útil para diferencial FCS vs MCS
 > **North American Familial Chylomicronemia Syndrome scoring tool** — orienta probabilidad y necesidad de test genético.
