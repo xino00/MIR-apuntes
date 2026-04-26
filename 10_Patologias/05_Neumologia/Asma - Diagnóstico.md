@@ -1,6 +1,6 @@
 ---
 aliases: [Diagnóstico del Asma, Espirometría asma, FENO asma, Prueba broncodilatadora]
-tags: [neumo, asma, gema, patologia, diagnóstico, espirometría]
+tags: [neumo, asma, gema, patologia, diagnostico, espirometria]
 ---
 # Asma: Diagnóstico
 

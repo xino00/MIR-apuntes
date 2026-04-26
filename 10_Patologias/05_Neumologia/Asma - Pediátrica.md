@@ -1,6 +1,6 @@
 ---
 aliases: [Asma infantil, Asma en niños, Sibilancias recurrentes, Tratamiento asma pediátrico]
-tags: [neumo, asma, gema, patologia, pediatría, pediátrico]
+tags: [neumo, asma, gema, patologia, pediatria, pediatrico]
 ---
 # Asma Pediátrica
 

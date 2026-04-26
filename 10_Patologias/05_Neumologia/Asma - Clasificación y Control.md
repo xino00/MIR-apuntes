@@ -1,6 +1,6 @@
 ---
 aliases: [Control del Asma, ACT, ACQ, Gravedad Asma, Remisión Asma, REMAS]
-tags: [neumo, asma, gema, patologia, clasificación, control]
+tags: [neumo, asma, gema, patologia, clasificacion, control]
 ---
 # Asma: Clasificación, Control y Remisión
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Asma, GEMA 5.5, Asma Crónica]
-tags: [neumo, primaria, asma, gema, crónico]
+tags: [neumo, primaria, asma, gema, cronico]
 ---
 # Asma: Diagnóstico y Manejo Crónico
 
