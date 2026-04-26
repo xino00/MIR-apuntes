@@ -23,6 +23,15 @@ description: "Índice de cardiología: hipertensión, insuficiencia cardiaca, SC
 - [[Hipertensión en Poblaciones Especiales]]
 - [[Hipertensión Resistente y Crisis Hipertensiva]]
 
+### 🩸 Dislipemia y Prevención CV (AHA/ACC 2026)
+- [[Dislipemia - Concepto y Cribado]]
+- [[Estratificación de Riesgo Cardiovascular (PREVENT-ASCVD)]]
+- [[Tratamiento de la Dislipemia]]
+- [[Prevención Primaria de ASCVD]]
+- [[Prevención Secundaria de ASCVD]]
+- [[Hipertrigliceridemia y Lipoproteína(a)]]
+- [[Síntomas Musculares por Estatinas (SAMS)]]
+
 ### 🦠 Patologías Frecuentes
 - [[Insuficiencia cardiaca]]
 - [[Insuficiencia cardiaca aguda]]
@@ -60,3 +69,9 @@ description: "Índice de cardiología: hipertensión, insuficiencia cardiaca, SC
 ---
 ### 🔗 Enlaces
 - [[000_INICIO]]
+
+---
+### 📥 Por clasificar (auto-añadidas por /organize)
+*Reorganizar en las secciones temáticas correctas y borrar este bloque.*
+
+- [[Trombosis Venosa Profunda (TVP)]]

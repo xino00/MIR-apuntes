@@ -41,6 +41,13 @@ description: "Índice farmacológico: 128 fármacos agrupados por clase terapéu
 - [[Edoxabán]]
 - [[Rivaroxabán]]
 
+**Hipolipemiantes (AHA/ACC 2026)**
+- [[Atorvastatina]]
+- [[Rosuvastatina]]
+- [[Ezetimibe]]
+- [[Evolocumab]] *(y alirocumab — PCSK9 mAb)*
+- [[Inclisirán]] *(siRNA anti-PCSK9)*
+
 ---
 
 ## 💉 Antibióticos
@@ -281,3 +288,9 @@ description: "Índice farmacológico: 128 fármacos agrupados por clase terapéu
 ---
 ### 🔗 Enlaces
 - [[000_INICIO]]
+
+---
+### 📥 Por clasificar (auto-añadidas por /organize)
+*Reorganizar en las secciones temáticas correctas y borrar este bloque.*
+
+- [[AINEs]]

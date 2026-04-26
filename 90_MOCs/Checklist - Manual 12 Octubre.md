@@ -134,7 +134,14 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 - [ ] Insuficiencia suprarrenal aguda y crónica
 - [ ] Síndrome de Cushing
 - [ ] Feocromocitoma
-- [ ] Dislipemias
+- [x] Dislipemias — cluster completo (AHA/ACC 2026):
+  - [[Dislipemia - Concepto y Cribado]]
+  - [[Estratificación de Riesgo Cardiovascular (PREVENT-ASCVD)]]
+  - [[Tratamiento de la Dislipemia]]
+  - [[Prevención Primaria de ASCVD]]
+  - [[Prevención Secundaria de ASCVD]]
+  - [[Hipertrigliceridemia y Lipoproteína(a)]]
+  - [[Síntomas Musculares por Estatinas (SAMS)]]
 - [ ] Obesidad — manejo clínico
 - [ ] Trastornos del metabolismo del calcio y fósforo (hiperparatiroidismo)
 - [ ] Hiponatremia endocrina (SIADH) — ver también Nefrología
