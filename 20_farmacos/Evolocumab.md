@@ -41,7 +41,7 @@ La **PCSK9** (proproteína convertasa subtilisina/kexina tipo 9) es una proteín
 - **Síntomas pseudo-gripales:** mialgia, fatiga, nasofaringitis.
 - **Hipersensibilidad / angioedema:** raros (<1%).
 - **Cataratas:** señal débil en estudios — sin causalidad clara.
-- **Cognición:** **EBBINGHAUS** (sub-estudio FOURIER) → sin diferencia neurocognitiva con evolocumab vs placebo a 19 meses.
+- **Cognición:** AHA/ACC 2026 documenta que en FOURIER y FOURIER-OLE los **eventos neurocognitivos fueron similares a placebo** (sub-estudio EBBINGHAUS publicado aparte confirmó ausencia de impacto cognitivo).
 - **DM nuevo:** sin aumento documentado (a diferencia de estatinas).
 - **NO afecta a CK ni transaminasas** clínicamente.
 
@@ -82,10 +82,10 @@ La **PCSK9** (proproteína convertasa subtilisina/kexina tipo 9) es una proteín
 | TG | 10-15% |
 | HDL-C | +5-7% |
 
-> [!info] CVOT clave
-> - **FOURIER** (n=27.564, ASCVD + LDL-C ≥70 en estatina): evolocumab ↓ MACE **15%** a 2,2 a (HR 0,85). LDL-C alcanzado **30 mg/dL mediana**, **sin señal de daño** en LDL-C <20.
-> - **FOURIER-OLE** (extensión 6.635, hasta 7,1 años): **eventos CV menores** en grupos cambiados a evolocumab vs los mantenidos en placebo durante FOURIER → reafirma "más bajo es mejor", duración del beneficio aditiva.
-> - **ODYSSEY OUTCOMES** (n=18.924, post-SCA + LDL-C ≥70): alirocumab ↓ MACE **15%** + ↓ mortalidad total **15%** (post hoc) en LDL-C ≥100.
+> [!info] CVOT clave (datos AHA/ACC 2026 §4.2.6)
+> - **FOURIER + ODYSSEY OUTCOMES** (alto riesgo ASCVD en estatina): a mediana 2,2-2,8 años, **ARR 1,4-1,6%** en endpoint primario con evolocumab/alirocumab vs placebo, con tasa de eventos en placebo ~15%.
+> - **FOURIER-OLE** (extensión open-label, **n=6.635** participantes recibieron evolocumab; **mediana follow-up 5 años**): **eventos CV menores** en pacientes inicialmente en evolocumab vs los cambiados desde placebo — refuerza "más bajo es mejor". Eventos musculares, DM nueva y neurocognitivos similares a placebo en FOURIER y FOURIER-OLE.
+> - **ODYSSEY OUTCOMES post hoc**: cost-effective particularmente con LDL-C >100 mg/dL al iniciar, y ↓ eventos asociado a ↓ Lp(a) en estrato Lp(a) ≥50 mg/dL (P interacción 0,05).
 
 ## 7. Interacciones
 

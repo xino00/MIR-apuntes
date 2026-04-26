@@ -17,7 +17,7 @@ Inhibe competitivamente la **HMG-CoA reductasa**, ↓ síntesis hepática de col
 ## 2. Indicaciones Clínicas Principales
 
 - **[[Prevención Secundaria de ASCVD]]:** alta intensidad **20-40 mg/24h**.
-- **[[Prevención Primaria de ASCVD]]:** alta intensidad si PREVENT-ASCVD ≥10% o factores de muy alto riesgo. **JUPITER**: rosuvastatina 20 mg en hsCRP ≥2 + LDL-C <130 → ↓ MACE 44% — base de la recomendación COR 2a, B-R en borderline + hsCRP ≥2 (ver [[Estratificación de Riesgo Cardiovascular (PREVENT-ASCVD)]]).
+- **[[Prevención Primaria de ASCVD]]:** alta intensidad si PREVENT-ASCVD ≥10% o factores de muy alto riesgo. **JUPITER** (citado por AHA/ACC 2026 §4.2.3.3): rosuvastatina 20 mg en pacientes con hsCRP ≥2 mg/L → reducción de MACE significativa — base de la recomendación COR 2a, B-R para alta intensidad estatina en borderline (3-<5%) + hsCRP ≥2 mg/L en 2 ocasiones (ver [[Estratificación de Riesgo Cardiovascular (PREVENT-ASCVD)]]).
 - **Hipercolesterolemia familiar (HeFH/HoFH):** primera línea junto a ezetimibe ± PCSK9 mAb.
 - **Dislipemia mixta + HiperTG.**
 - **Post-SCA:** **40 mg en las primeras 24 h** del ingreso si no contraindicada (ACC/AHA 2025 SCA).
@@ -60,16 +60,16 @@ Inhibe competitivamente la **HMG-CoA reductasa**, ↓ síntesis hepática de col
 
 ## 6. Eficacia esperada
 
-| Parámetro | Reducción esperada |
+| Parámetro | Reducción esperada (AHA/ACC 2026 Tabla 5-6) |
 |---|---|
-| **LDL-C** | **45-63%** (5 mg ~38%, 10 mg ~46%, 20 mg ~52%, 40 mg ~55-63%) — **mayor potencia mg-por-mg que atorvastatina** |
+| **LDL-C** | **18-55%** según dosis (rango clase) — **alta intensidad (20-40 mg)**: ↓ ≥50%; moderada (5-10 mg): ↓ 30-49% — **rosuvastatina y atorvastatina son las únicas que alcanzan alta intensidad** |
 | no-HDL-C | similar a LDL-C |
-| ApoB | 45-50% |
-| TG | 10-35% |
-| HDL-C | +5-15% (mayor que atorvastatina) |
-| **Lp(a)** | sin reducción significativa (consistente con la clase) |
+| ApoB | aproximadamente paralelo a LDL-C |
+| TG | dosis-dependiente |
+| HDL-C | aumento modesto |
+| **Lp(a)** | **sin reducción significativa**; estatinas pueden ↑ ~1,1 mg/dL leve sin relevancia clínica (AHA/ACC 2026 §4.2.10) |
 
-Reducción ASCVD demostrada en **JUPITER, CORONA, GISSI-HF, ASTEROID, METEOR, SATURN**.
+Reducción ASCVD demostrada en CVOT múltiples — la AHA 2026 cita explícitamente **JUPITER** (rosuvastatina 20 mg en hsCRP ≥2 → ↓ MACE significativo) y CORONA/GISSI-HF (sin diferencia de mortalidad en HF avanzada).
 
 ## 7. Interacciones (Tabla 8 AHA/ACC 2026)
 

@@ -52,10 +52,22 @@ last_fact_checked: 2026-04-26
 | Niños 9-11 años no testados previamente: cribado para identificar **hipercolesterolemia familiar (HF)** y otros trastornos lipídicos primarios | **COR 1, B-NR** |
 | Familiares de 1.er o 2.º grado de ASCVD prematura, hipercolesterolemia severa o HF: **cribado en cascada desde ≥ 2 años** | **COR 2a, B-NR** |
 
-> [!warning] Importante: **edad pediátrica**
-> - Hasta **20% de adolescentes** tienen LDL-C ≥ 130 mg/dL.
-> - **HeFH afecta 1 de cada 250-300** individuos en EE.UU.; el reverse cascade screening (de un caso en menores → familiares) detecta casos ocultos.
-> - El cribado a los **9-11 años** es óptimo: la aterosclerosis subclínica ya puede detectarse a los 8-10 años (intima-media carotídea).
+> [!warning] Cribado pediátrico — por qué importa y por qué a los 9-11 años
+>
+> **Prevalencia en niños y adolescentes (EE.UU.):**
+> - **~20% de adolescentes** tienen **alguna alteración lipídica** (cualquier perfil anormal, no necesariamente LDL-C alto).
+> - **~5% tienen LDL-C ≥ 130 mg/dL** — umbral pediátrico de "alto", equivalente al p95.
+> - **1 de cada 250 niños** tiene **HeFH**; en adultos, 1 de cada 250-300.
+> - **Hasta el 90% de los pacientes con HeFH están sin diagnosticar.**
+>
+> **Por qué cribar exactamente a los 9-11 años (la ventana óptima está acotada por arriba y por abajo):**
+> - **No antes:** la aterosclerosis subclínica (medida por **grosor íntima-media carotídeo**) **ya se puede detectar desde los 8-10 años** → cribar a los 9-11 identifica al niño con dislipemia **antes de que la placa progrese**.
+> - **No después:** en la **pubertad media-tardía**, TC y LDL-C **bajan transitoriamente 10-20%** antes de subir a valores adultos → cribar a los 13-17 años produce **falsos negativos**.
+> - **Catch-up:** si un niño no se cribó a los 9-11, **se puede recuperar el cribado** a otra edad — pero perdiendo la ventana óptima.
+>
+> **"Reverse cascade screening" — qué significa y por qué es importante:**
+> El cribado pediátrico es la puerta de entrada para destapar HeFH familiar oculta. Cuando un niño tiene LDL-C alto, **la cascada va del niño hacia los adultos** (padres, abuelos, tíos, hermanos — 1.er y 2.º grado): de ahí el "reverse" frente al cribado en cascada clásico (que iba del adulto índice hacia los hijos).
+> Identifica a familiares **no diagnosticados** que **ya están en mayor riesgo ASCVD inmediato** que el niño. El cribado en cascada es factible y útil **desde los 2 años** (COR 2a).
 
 ---
 
@@ -114,13 +126,15 @@ last_fact_checked: 2026-04-26
 | Familia con HF, ASCVD prematura o Lp(a) elevada: **cascade testing** en familiares 1.er grado | **COR 1, B-NR** |
 | Laboratorios deben usar **ensayos insensibles a las isoformas apo(a)** y trazables a material de referencia oficial | **COR 1, B-NR** |
 
-### Puntos de corte
+### Puntos de corte (AHA/ACC 2026 §3.4 — Reference Table, datos UK Biobank)
 
-| Lp(a) | Categoría | Riesgo ASCVD |
-|---|---|---|
-| **< 75 nmol/L (~ 30 mg/dL)** | Normal | Riesgo basal |
-| **≥ 125 nmol/L (~ 50 mg/dL)** | Elevada | ↑ ~ 1,4× ASCVD |
-| **≥ 250 nmol/L (~ 100 mg/dL)** | Muy elevada | ↑ ~ 2× ASCVD |
+| Lp(a) (nmol/L) | Lp(a) (mg/dL) | Percentil | ↑ riesgo ASCVD vs mediana |
+|---|---|---|---|
+| **<75** | **<30** | Reference | Riesgo basal (referencia) |
+| **75-124** | **30-49** | — | **1,2×** |
+| **125** | **50** | ~p80 | **1,4×** (~40% más) |
+| **250** | **100** | ~p95 | **~2×** (duplica) |
+| **430** | **180** | ~p99 | **~4×** (≈ HeFH) |
 
 > El ayuno **no es necesario** para medir Lp(a). El test genético **no se recomienda** para uso clínico — la concentración medida es suficiente.
 

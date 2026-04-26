@@ -150,14 +150,17 @@ flowchart TD
 
 ### Puntos de corte y traducción de riesgo
 
-| Lp(a) (nmol/L) | Lp(a) (mg/dL) | Categoría | ↑ riesgo ASCVD vs mediana | Equivalencia |
-|---|---|---|---|---|
-| <75 | <30 | Normal | Riesgo basal | — |
-| **≥125** | **≥50** | **Elevada** (~20% población) | **~1,4×** | Risk enhancer |
-| **~200-250** | **~80-100** | **Muy elevada** | **~2×** | — |
-| **≥430** | **≥180** | **Extremadamente elevada** | **~4×** | **Equivalente a HeFH** |
+> Reference Table AHA/ACC 2026 §3.4 — datos derivados del UK Biobank Study; los percentiles son aproximados para población general.
 
-> Niveles más altos en negros no hispanos. Asociación poblacional muy alta para IAM en el cuartil superior.
+| Lp(a) (nmol/L) | Lp(a) (mg/dL) | Percentil | ↑ riesgo ASCVD vs mediana |
+|---|---|---|---|
+| **<75** | **<30** | Reference | Riesgo basal (referencia) |
+| **75-124** | **30-49** | — | **1,2×** |
+| **125** | **50** | ~p80 | **1,4×** (~40% más) |
+| **250** | **100** | ~p95 | **~2×** (duplica) |
+| **430** | **180** | ~p99 | **~4×** (≈ HeFH) |
+
+> La equivalencia entre nmol/L y mg/dL es **aproximada**. Niveles más altos descritos en personas no-hispanic black. La asociación poblacional para IAM es muy alta en el cuartil superior.
 
 ### Recomendaciones AHA/ACC 2026 (§4.2.10)
 

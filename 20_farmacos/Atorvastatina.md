@@ -51,23 +51,23 @@ Inhibe competitivamente la **HMG-CoA reductasa**, enzima limitante en la síntes
 | **Moderada intensidad** (DM 40-75 sin múltiples FRCV, intolerancia a alta) | **10-20 mg VO/24h** |
 | **Inicio en intolerantes / >75 a / ascendencia este-asiática** | **10 mg VO/24h** y titular |
 
-- **Cualquier hora del día** (vida media 14 h, t½ activa hasta 30 h).
+- **Cualquier hora del día** (t½ 14 h, vía AHA/ACC 2026 Tabla 7).
 - **Sin restricciones con la comida.**
-- **Sin ajuste renal** (eliminación <2% renal) — preferida en ERC avanzada vs rosuvastatina.
-- **Ajuste hepático:** evitar en hepatopatía activa o cirrosis descompensada; **Child-Pugh B-C: contraindicada**.
-- Vida media larga → **eficacia ininterrumpida si se olvida 1 día** (a diferencia de fluvastatina/pravastatina).
+- **Sin ajuste renal** (eliminación <2% renal — Tabla 7) — útil en ERC avanzada (rosuvastatina requiere ajuste si CrCl <30).
+- **Ajuste hepático:** evitar en hepatopatía activa o cirrosis descompensada (ficha técnica CIMA AEMPS).
+- Vida media larga (atorvastatina, pitavastatina y rosuvastatina) → permite dosing en **cualquier hora del día** (AHA/ACC 2026 §4.2.1.1).
 
 ## 6. Eficacia esperada
 
-| Parámetro | Reducción esperada |
+| Parámetro | Reducción esperada (AHA/ACC 2026 Tabla 5-6) |
 |---|---|
-| **LDL-C** | **40-60%** (dosis-dependiente: 10 mg ~37%, 20 mg ~43%, 40 mg ~50%, 80 mg ~55%) |
+| **LDL-C** | **18-55%** según dosis (rango general clase estatina) — **alta intensidad (40-80 mg)**: ↓ ≥50%; moderada (10-20 mg): ↓ 30-49% |
 | no-HDL-C | similar a LDL-C |
-| ApoB | **40-50%** |
-| TG | 10-30% (dosis-dependiente) |
-| HDL-C | +5-10% |
+| ApoB | aproximadamente paralelo a LDL-C |
+| TG | 10-30% (dosis-dependiente; mayor a dosis altas) |
+| HDL-C | aumento modesto |
 
-Reducción ASCVD demostrada en **CVOT múltiples** (PROVE IT-TIMI 22 post-SCA, ASCOT-LLA, MIRACL, REVERSAL, GREACE, etc.).
+Reducción ASCVD demostrada en CVOT múltiples (referenciados en AHA 2026 — la guía cita meta-análisis CTT y el rol de la atorvastatina en prevención primaria y secundaria).
 
 ## 7. Interacciones (Tabla 8 AHA/ACC 2026)
 

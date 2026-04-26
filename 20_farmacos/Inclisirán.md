@@ -68,23 +68,23 @@ Esto permite **dosing solo 2 inyecciones/año tras la carga** — diferencia dec
 
 ## 6. Eficacia esperada
 
-| Parámetro | Reducción esperada |
+| Parámetro | Reducción esperada (AHA/ACC 2026 Tabla 5) |
 |---|---|
-| **LDL-C** | **48-52%** sostenida (placebo-corrected) |
+| **LDL-C** | **48-52%** (rango Tabla 5) — en estudios individuales **~50%** (placebo-corrected) |
 | no-HDL-C | similar a LDL-C |
-| ApoB | 40-50% |
-| **Lp(a)** | ~15-30% (similar PCSK9 mAb) |
+| ApoB | aprox. 40-50% (datos publicados) |
+| **Lp(a)** | ~15-30% (clase efecto vía PCSK9; datos publicados) |
 | TG | 10-15% |
 
-> [!info] CVOT
-> - **ORION-10 / ORION-11** (n=3.660, ASCVD/HeFH/LDL-C elevado): inclisirán **↓ LDL-C 48-52%** a 18 meses, placebo-corrected.
-> - **ORION-9** (HeFH): ↓ LDL-C **48%**.
-> - **Análisis post hoc combinado**: MACE **OR 0,74 (95% CI 0,58-0,94)** en pacientes con ASCVD — sugerente pero no definitivo.
-> - **CVOT en curso (resultados esperados 2026-2027):**
+> [!info] CVOT — datos AHA/ACC 2026 (§4.2.1.2 + §4.2.6)
+> - **ORION-9, -10, -11** combinados: **n = 3.658** pacientes con ASCVD/HeFH/LDL-C elevado en estatina máxima → ↓ LDL-C **~50%** en cada estudio.
+> - **ORION-9 (HeFH)**: 482 pacientes con HeFH → diferencia LDL-C 60 días tras última inyección **~50% favoreciendo inclisirán**.
+> - **Pooled ORION-10 + ORION-11** en pacientes con SAMS / intolerancia a estatinas: ↓ LDL-C placebo-corrected **45,8% (IC 95% −52,2 a −39,4; P<0,0001)**.
+> - **MACE en análisis exploratorio prespecificado** (ORION-10 + ORION-11): **7,1% vs 9,4%, OR 0,74 (IC 95% 0,58-0,94)** — sugerente pero **no diseño primario**.
+> - **CVOT en curso** (resultados esperados **2026 y 2027**):
 >   - **ORION-4** (CV outcomes en ASCVD).
->   - **VICTORION-1 PREVENT** (alto riesgo primaria con ASCVD-equivalent).
->   - **VICTORION-2 PREVENT** (CV outcomes en ASCVD establecida).
-> - Por **falta de CVOT completados a 2026**, AHA/ACC mantiene a inclisirán como **PCSK9i de segunda línea** (COR 2a) — preferible PCSK9 mAb si CVOT-driven.
+>   - **VICTORION 2P** (CV events en ASCVD establecida).
+> - Por **falta de CVOT primarios concluidos a 2026**, AHA/ACC mantiene a inclisirán como **PCSK9i de segunda línea** (COR 2a) — preferible PCSK9 mAb si la decisión es CVOT-driven.
 
 ## 7. Interacciones
 
@@ -101,14 +101,14 @@ Esto permite **dosing solo 2 inyecciones/año tras la carga** — diferencia dec
 | **Adherencia** | Excelente (pocas dosis) | Limitada por frecuencia |
 | **Eficacia LDL-C** | 48-52% | 45-64% (ligeramente más potente) |
 | **CVOT outcomes** | Pendientes | Demostrados (FOURIER, ODYSSEY) |
-| **Coste anual SNS** | ~3.500-4.500 € | ~6.000-7.000 € |
-| **Cobertura** | Médica vs farmacia → dependiendo | Farmacia |
+| **Coste anual** | Inferior por menor frecuencia de dosis | Mayor por dosing frecuente |
+| **Cobertura SNS** | Visado, administración hospitalaria/AP | Visado, dispensación hospitalaria |
 
 ## 9. Disponibilidad y financiación SNS
 
-- **Inclisirán (Leqvio®)**: 284 mg jeringa precargada — financiado SNS con **visado** (ASCVD/HeFH + LDL-C ≥70 pese a estatina máx ± ezetimibe).
-- **Administración hospitalaria** o en consulta de Atención Primaria por profesional sanitario.
-- **Cobertura como medical benefit** (vs PCSK9 mAb como pharmacy benefit) — relevante en ciertos sistemas de salud.
+- **Inclisirán (Leqvio®)**: 284 mg jeringa precargada — financiado SNS con **visado** (ver criterios actualizados en BOT-PLUS o ficha hospitalaria local).
+- **Administración por profesional sanitario** (no auto-inyección) — habitualmente hospitalaria, en algunos centros también AP.
+- Esquema 2 inyecciones/año tras la carga inicial es ventaja sobre PCSK9 mAb si **adherencia o preferencia** del paciente lo requieren.
 
 ## 🔗 Relacionados
 
