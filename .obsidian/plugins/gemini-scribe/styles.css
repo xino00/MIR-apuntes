@@ -117,6 +117,25 @@ If your plugin does not need CSS, delete this file.
 	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
+/* Prompt indicator styling */
+.gemini-scribe-prompt-indicator {
+	background-color: var(--background-modifier-message);
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-s);
+	padding: var(--size-4-2) var(--size-4-3);
+	margin-bottom: var(--size-4-2);
+	font-size: var(--font-ui-small);
+	color: var(--text-accent);
+	display: flex;
+	align-items: center;
+	gap: var(--size-4-2);
+}
+
+.gemini-scribe-prompt-indicator::before {
+	content: '✨';
+	font-size: 1.2em;
+}
+
 .gemini-scribe-chatbox {
 	display: flex;
 	flex-direction: column;
@@ -990,15 +1009,12 @@ If your plugin does not need CSS, delete this file.
 	align-items: center;
 	gap: var(--size-4-2);
 	flex: 1;
-	min-width: 0;
-	overflow: hidden;
 }
 
 .gemini-agent-header-right {
 	display: flex;
 	align-items: center;
 	gap: var(--size-2-1);
-	flex-shrink: 0;
 }
 
 /* Toggle Button */
@@ -1028,7 +1044,7 @@ If your plugin does not need CSS, delete this file.
 .gemini-agent-title-container {
 	display: inline-flex;
 	align-items: center;
-	min-width: 0;
+	min-width: 200px;
 	max-width: 400px;
 }
 
@@ -1060,27 +1076,15 @@ If your plugin does not need CSS, delete this file.
 	width: 100%;
 }
 
-.gemini-agent-project-badge {
+/* Context Badge */
+.gemini-agent-context-badge {
 	font-size: var(--font-ui-smaller);
-	color: var(--text-accent);
+	color: var(--text-muted);
 	background-color: var(--background-primary);
 	border: 1px solid var(--background-modifier-border);
 	padding: 2px var(--size-2-2);
 	border-radius: var(--radius-s);
 	white-space: nowrap;
-	cursor: pointer;
-	display: inline-flex;
-	align-items: center;
-	gap: 2px;
-}
-
-.gemini-agent-project-badge:hover {
-	background-color: var(--background-modifier-hover);
-}
-
-.gemini-agent-project-badge .svg-icon {
-	width: 12px;
-	height: 12px;
 }
 
 /* Icon Buttons */
@@ -1103,6 +1107,182 @@ If your plugin does not need CSS, delete this file.
 .gemini-agent-btn-sm {
 	padding: var(--size-2-1) var(--size-2-2);
 	font-size: var(--font-ui-smaller);
+}
+
+/* Collapsible Context Panel */
+.gemini-agent-context-panel.gemini-agent-context-panel-collapsed {
+	max-height: 0 !important;
+	overflow: hidden;
+	opacity: 0;
+	padding: 0 !important;
+	transition:
+		max-height 0.3s ease,
+		opacity 0.3s ease,
+		padding 0.3s ease;
+	border-bottom: none;
+}
+
+/* Compact Context Controls */
+.gemini-agent-context-controls {
+	display: flex;
+	align-items: center;
+	gap: var(--size-4-3);
+	padding-bottom: var(--size-2-2);
+	border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.gemini-agent-depth-control-inline {
+	display: flex;
+	align-items: center;
+	gap: var(--size-2-1);
+	margin-left: auto;
+}
+
+.gemini-agent-depth-label {
+	font-size: var(--font-ui-small);
+	color: var(--text-muted);
+}
+
+.gemini-agent-depth-input-sm {
+	width: 50px;
+	padding: 2px var(--size-2-1);
+	font-size: var(--font-ui-small);
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-s);
+	background-color: var(--background-primary);
+}
+
+/* Compact Files List */
+.gemini-agent-files-list-compact {
+	padding-top: var(--size-2-2);
+	max-height: 150px;
+	overflow-y: auto;
+}
+
+.gemini-agent-files-list-compact .gemini-agent-file-item {
+	padding: var(--size-2-1) var(--size-2-2);
+	font-size: var(--font-ui-smaller);
+}
+
+/* Context Panel */
+.gemini-agent-context-panel {
+	background-color: var(--background-secondary-alt);
+	border-bottom: 1px solid var(--background-modifier-border);
+	padding: var(--size-4-3);
+	flex-shrink: 0;
+	max-height: 200px;
+	overflow-y: auto;
+	transition:
+		max-height 0.3s ease,
+		opacity 0.3s ease,
+		padding 0.3s ease;
+	opacity: 1;
+}
+
+.gemini-agent-panel-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: var(--size-4-2);
+}
+
+.gemini-agent-panel-header h3 {
+	margin: 0;
+	font-size: var(--font-ui-medium);
+	font-weight: 600;
+	color: var(--text-normal);
+}
+
+/* Files List */
+.gemini-agent-files-list {
+	display: flex;
+	flex-wrap: wrap;
+	gap: var(--size-2-1);
+	margin-bottom: var(--size-4-2);
+	min-height: 32px;
+}
+
+.gemini-agent-empty-state {
+	color: var(--text-faint);
+	font-style: italic;
+	font-size: var(--font-ui-small);
+	padding: var(--size-4-2);
+	text-align: center;
+	width: 100%;
+}
+
+.gemini-agent-file-item {
+	display: inline-flex;
+	align-items: center;
+	gap: var(--size-2-1);
+	background-color: var(--background-primary);
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-m);
+	padding: var(--size-2-1) var(--size-4-2);
+	font-size: var(--font-ui-small);
+	transition: all 0.15s ease;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.gemini-agent-file-item:hover {
+	background-color: var(--background-modifier-hover);
+	border-color: var(--interactive-accent);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.gemini-agent-file-icon {
+	display: flex;
+	align-items: center;
+	color: var(--text-muted);
+	width: 14px;
+	height: 14px;
+}
+
+.gemini-agent-file-icon svg {
+	width: 14px;
+	height: 14px;
+}
+
+.gemini-agent-file-name {
+	color: var(--text-normal);
+	max-width: 200px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.gemini-agent-remove-btn {
+	background: none;
+	border: none;
+	color: var(--text-muted);
+	cursor: pointer;
+	padding: 0;
+	width: 16px;
+	height: 16px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: var(--radius-s);
+	transition: all 0.15s ease;
+	font-size: 16px;
+	line-height: 1;
+}
+
+.gemini-agent-remove-btn:hover {
+	background-color: var(--background-modifier-error);
+	color: var(--text-error);
+}
+
+/* Auto-included active file styling */
+.gemini-agent-file-item-auto {
+	background-color: var(--interactive-accent-hover);
+	border-color: var(--interactive-accent);
+}
+
+.gemini-agent-file-item-auto:hover {
+	background-color: var(--interactive-accent-hover);
+	border-color: var(--interactive-accent);
+	opacity: 0.9;
 }
 
 .gemini-agent-active-badge {
@@ -1398,7 +1578,9 @@ If your plugin does not need CSS, delete this file.
 	overflow-y: auto;
 	padding: var(--size-4-2);
 	position: relative;
-	line-height: 1.6;
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
 }
 
 .gemini-agent-input-rich:focus {
@@ -1412,6 +1594,107 @@ If your plugin does not need CSS, delete this file.
 	color: var(--text-faint);
 	pointer-events: none;
 	position: absolute;
+}
+
+/* File Chips */
+.gemini-agent-file-chip {
+	display: inline-flex;
+	align-items: center;
+	gap: 4px;
+	background-color: var(--interactive-accent);
+	color: var(--text-on-accent);
+	padding: 2px 6px 2px 4px;
+	border-radius: var(--radius-s);
+	font-size: var(--font-ui-smaller);
+	margin: 0 2px;
+	vertical-align: middle;
+	user-select: none;
+	cursor: default;
+}
+
+.gemini-agent-file-chip-icon {
+	display: flex;
+	align-items: center;
+	color: var(--text-on-accent);
+}
+
+.gemini-agent-file-chip-icon svg {
+	width: 12px;
+	height: 12px;
+}
+
+.gemini-agent-file-chip-name {
+	max-width: 150px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.gemini-agent-file-chip-remove {
+	margin-left: 4px;
+	padding: 0 2px;
+	cursor: pointer;
+	opacity: 0.7;
+	font-weight: bold;
+	line-height: 1;
+}
+
+.gemini-agent-file-chip-remove:hover {
+	opacity: 1;
+}
+
+/* Folder Chips */
+.gemini-agent-folder-chip {
+	display: inline-flex;
+	align-items: center;
+	gap: 4px;
+	padding: 4px 8px;
+	background-color: var(--background-secondary-alt);
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 16px;
+	margin: 0 2px;
+	font-size: 13px;
+	vertical-align: middle;
+	user-select: none;
+	max-width: 250px;
+	animation: chipSlideIn 0.2s ease-out;
+}
+
+.gemini-agent-folder-chip-icon {
+	width: 14px;
+	height: 14px;
+	color: var(--text-accent);
+	flex-shrink: 0;
+}
+
+.gemini-agent-folder-chip-icon svg {
+	width: 100%;
+	height: 100%;
+}
+
+.gemini-agent-folder-chip-name {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	color: var(--text-normal);
+	font-weight: 500;
+}
+
+.gemini-agent-folder-chip-remove {
+	margin-left: 4px;
+	cursor: pointer;
+	color: var(--text-muted);
+	font-size: 16px;
+	line-height: 1;
+	padding: 0 2px;
+	border-radius: 50%;
+	transition: all 0.15s ease;
+	opacity: 0.7;
+}
+
+.gemini-agent-folder-chip-remove:hover {
+	opacity: 1;
+	color: var(--text-error);
 }
 
 .gemini-agent-input::placeholder {
@@ -2430,7 +2713,6 @@ If your plugin does not need CSS, delete this file.
 .gemini-agent-confirmation-buttons {
 	display: flex;
 	align-items: center;
-	flex-wrap: wrap;
 	gap: var(--size-4-2);
 	margin-top: var(--size-4-3);
 }
@@ -3316,6 +3598,223 @@ If your plugin does not need CSS, delete this file.
 	word-wrap: break-word;
 }
 
+/* V4 Welcome Modal Styles */
+
+.gemini-v4-welcome-modal {
+	padding: 24px;
+	max-width: 600px;
+}
+
+.gemini-v4-welcome-header {
+	margin: 0 0 20px 0;
+	font-size: 24px;
+	font-weight: 600;
+	color: var(--text-normal);
+	text-align: center;
+}
+
+.gemini-v4-welcome-description {
+	margin-bottom: 24px;
+	text-align: center;
+}
+
+.gemini-v4-welcome-description p {
+	margin: 0;
+	font-size: 15px;
+	color: var(--text-muted);
+	line-height: 1.6;
+}
+
+.gemini-v4-whats-new {
+	margin-bottom: 28px;
+	padding: 20px;
+	background-color: var(--background-secondary);
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 8px;
+}
+
+.gemini-v4-whats-new h3 {
+	margin: 0 0 12px 0;
+	font-size: 16px;
+	font-weight: 600;
+	color: var(--text-normal);
+}
+
+.gemini-v4-whats-new ul {
+	margin: 0;
+	padding-left: 0;
+	list-style: none;
+}
+
+.gemini-v4-whats-new li {
+	margin: 8px 0;
+	padding-left: 24px;
+	position: relative;
+	font-size: 14px;
+	line-height: 1.6;
+	color: var(--text-normal);
+}
+
+.gemini-v4-history-info {
+	margin-bottom: 24px;
+}
+
+.gemini-v4-history-info h3 {
+	margin: 0 0 12px 0;
+	font-size: 16px;
+	font-weight: 600;
+	color: var(--text-normal);
+}
+
+.gemini-v4-history-info p {
+	margin: 0 0 12px 0;
+	font-size: 14px;
+	line-height: 1.6;
+	color: var(--text-muted);
+}
+
+.gemini-v4-archive-box {
+	padding: 16px;
+	background-color: var(--background-primary-alt);
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 6px;
+	margin-top: 12px;
+}
+
+.gemini-v4-archive-box p {
+	margin: 0 0 8px 0;
+	font-size: 14px;
+	font-weight: 500;
+	color: var(--text-normal);
+}
+
+.gemini-v4-archive-box ul {
+	margin: 0;
+	padding-left: 20px;
+	list-style-type: disc;
+}
+
+.gemini-v4-archive-box li {
+	margin: 4px 0;
+	font-size: 13px;
+	color: var(--text-muted);
+}
+
+.gemini-v4-welcome-buttons {
+	display: flex;
+	gap: 12px;
+	justify-content: center;
+	margin: 24px 0 20px 0;
+}
+
+.gemini-v4-welcome-buttons button {
+	padding: 10px 24px;
+	font-size: 14px;
+	font-weight: 500;
+	border-radius: 6px;
+}
+
+.gemini-v4-learn-more {
+	text-align: center;
+	margin-top: 16px;
+	padding-top: 16px;
+	border-top: 1px solid var(--background-modifier-border);
+}
+
+.gemini-v4-learn-more a {
+	color: var(--interactive-accent);
+	text-decoration: none;
+	font-size: 14px;
+	transition: color 0.15s ease;
+}
+
+.gemini-v4-learn-more a:hover {
+	color: var(--interactive-accent-hover);
+	text-decoration: underline;
+}
+
+/* Archive Progress Styles */
+
+.gemini-v4-archive-progress {
+	text-align: center;
+	padding: 40px 20px;
+}
+
+.gemini-v4-archive-progress p {
+	margin: 0;
+	font-size: 15px;
+	color: var(--text-muted);
+}
+
+/* Archive Results Styles */
+
+.gemini-v4-archive-results {
+	margin: 24px 0;
+}
+
+.gemini-v4-archive-stats {
+	padding: 20px;
+	background-color: var(--background-secondary);
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 8px;
+	margin-bottom: 20px;
+}
+
+.gemini-v4-archive-stats p {
+	margin: 8px 0;
+	font-size: 14px;
+	color: var(--text-normal);
+}
+
+.gemini-v4-archive-error {
+	padding: 20px;
+	background-color: var(--background-modifier-error-hover);
+	border: 1px solid var(--background-modifier-error);
+	border-radius: 8px;
+	margin: 20px 0;
+}
+
+.gemini-v4-archive-error p {
+	margin: 0 0 12px 0;
+	font-size: 14px;
+	color: var(--text-normal);
+}
+
+.gemini-v4-archive-error code {
+	display: block;
+	padding: 12px;
+	background-color: var(--background-primary);
+	border-radius: 4px;
+	font-size: 13px;
+	color: var(--text-error);
+	word-wrap: break-word;
+	margin: 12px 0;
+}
+
+.gemini-v4-next-steps {
+	margin: 24px 0;
+}
+
+.gemini-v4-next-steps h3 {
+	margin: 0 0 12px 0;
+	font-size: 16px;
+	font-weight: 600;
+	color: var(--text-normal);
+}
+
+.gemini-v4-next-steps ul {
+	margin: 0;
+	padding-left: 20px;
+	list-style-type: disc;
+}
+
+.gemini-v4-next-steps li {
+	margin: 8px 0;
+	font-size: 14px;
+	line-height: 1.6;
+	color: var(--text-muted);
+}
+
 /* Update Notification Modal Styles */
 
 .gemini-update-notification-modal {
@@ -3910,6 +4409,59 @@ If your plugin does not need CSS, delete this file.
 	font-size: var(--font-ui-small);
 }
 
+/* Image Attachment Preview */
+.gemini-agent-image-preview {
+	display: none;
+	flex-wrap: wrap;
+	gap: 8px;
+	padding: 8px 0;
+}
+
+.gemini-agent-image-thumb {
+	position: relative;
+	width: 60px;
+	height: 60px;
+	border-radius: 6px;
+	overflow: hidden;
+	border: 1px solid var(--background-modifier-border);
+}
+
+.gemini-agent-image-thumb img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.gemini-agent-image-remove {
+	position: absolute;
+	top: 2px;
+	right: 2px;
+	width: 18px;
+	height: 18px;
+	padding: 0;
+	background-color: rgba(0, 0, 0, 0.6);
+	color: white;
+	border: none;
+	border-radius: 50%;
+	font-size: 12px;
+	line-height: 1;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	opacity: 0;
+	transition: opacity 0.15s ease;
+}
+
+.gemini-agent-image-thumb:hover .gemini-agent-image-remove,
+.gemini-agent-image-remove:focus-visible {
+	opacity: 1;
+}
+
+.gemini-agent-image-remove:hover {
+	background-color: var(--text-error);
+}
+
 .gemini-agent-input-dragover {
 	background-color: var(--background-modifier-hover) !important;
 	border-color: var(--interactive-accent) !important;
@@ -3922,151 +4474,6 @@ If your plugin does not need CSS, delete this file.
 
 .gemini-agent-clickable-image:hover {
 	opacity: 0.9;
-}
-
-/* Unified File Shelf */
-.gemini-agent-shelf {
-	display: none;
-	flex-wrap: wrap;
-	gap: 6px;
-	padding: 8px 0;
-}
-
-.gemini-shelf-item {
-	position: relative;
-	display: inline-flex;
-	align-items: center;
-	gap: 4px;
-	border-radius: 6px;
-	border: 1px solid var(--background-modifier-border);
-	background-color: var(--background-primary);
-	overflow: hidden;
-	cursor: default;
-}
-
-.gemini-shelf-item:hover {
-	border-color: var(--interactive-accent);
-}
-
-/* Image thumbnails */
-.gemini-shelf-item-image {
-	width: 60px;
-	height: 60px;
-}
-
-.gemini-shelf-item-image img {
-	width: 100%;
-	height: 100%;
-	object-fit: cover;
-}
-
-/* Non-image file items */
-.gemini-shelf-item-file {
-	padding: 4px 8px;
-	max-width: 180px;
-}
-
-.gemini-shelf-icon {
-	flex-shrink: 0;
-	width: 14px;
-	height: 14px;
-	color: var(--text-muted);
-}
-
-.gemini-shelf-icon svg {
-	width: 14px;
-	height: 14px;
-}
-
-.gemini-shelf-name {
-	font-size: var(--font-ui-smaller);
-	white-space: nowrap;
-	overflow: hidden;
-	text-overflow: ellipsis;
-}
-
-/* Persistent badge (pin icon) */
-.gemini-shelf-badge {
-	flex-shrink: 0;
-	width: 10px;
-	height: 10px;
-	color: var(--text-faint);
-	display: inline-flex;
-	align-items: center;
-}
-
-.gemini-shelf-badge svg {
-	width: 10px;
-	height: 10px;
-}
-
-/* Slide-in animation when items are added */
-@keyframes shelf-slide-in {
-	from {
-		opacity: 0;
-		transform: scale(0.9);
-	}
-	to {
-		opacity: 1;
-		transform: scale(1);
-	}
-}
-
-.gemini-shelf-item {
-	animation: shelf-slide-in 0.15s ease-out;
-}
-
-/* Keyboard focus styling */
-.gemini-shelf-item:focus-visible {
-	outline: 2px solid var(--interactive-accent);
-	outline-offset: 1px;
-}
-
-.gemini-shelf-item:focus-visible .gemini-shelf-remove {
-	opacity: 1;
-}
-
-/* Sent state for binary items */
-.gemini-shelf-item-sent {
-	opacity: 0.5;
-}
-
-/* Remove button */
-.gemini-shelf-remove {
-	position: absolute;
-	top: 2px;
-	right: 2px;
-	width: 16px;
-	height: 16px;
-	padding: 0;
-	background-color: rgba(0, 0, 0, 0.6);
-	color: white;
-	border: none;
-	border-radius: 50%;
-	font-size: 11px;
-	line-height: 1;
-	cursor: pointer;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	opacity: 0;
-	transition: opacity 0.15s ease;
-}
-
-.gemini-shelf-item:hover .gemini-shelf-remove,
-.gemini-shelf-remove:focus-visible {
-	opacity: 1;
-}
-
-.gemini-shelf-remove:hover {
-	background-color: var(--text-error);
-}
-
-/* Touch devices: always show remove button since there's no hover */
-@media (hover: none), (pointer: coarse) {
-	.gemini-shelf-remove {
-		opacity: 1;
-	}
 }
 
 /* Selection Response Modal Styles */
@@ -4267,81 +4674,4 @@ If your plugin does not need CSS, delete this file.
 .modal.gemini-scribe-ask-question-modal .gemini-scribe-submit-button {
 	width: calc(100% - 40px);
 	margin: 16px 20px;
-}
-
-/* Diff View */
-.gemini-diff-view-container {
-	display: flex;
-	flex-direction: column;
-	height: 100%;
-}
-
-.gemini-diff-action-bar {
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
-	padding: 8px 12px;
-	border-bottom: 1px solid var(--background-modifier-border);
-	background-color: var(--background-secondary);
-}
-
-.gemini-diff-file-info {
-	display: flex;
-	align-items: center;
-	gap: 6px;
-	min-width: 0;
-}
-
-.gemini-diff-file-icon {
-	display: flex;
-	align-items: center;
-	color: var(--text-muted);
-}
-
-.gemini-diff-file-path {
-	font-weight: 500;
-	overflow: hidden;
-	text-overflow: ellipsis;
-	white-space: nowrap;
-}
-
-.gemini-diff-new-badge {
-	color: var(--text-muted);
-	font-size: var(--font-ui-smaller);
-	font-style: italic;
-}
-
-.gemini-diff-actions {
-	display: flex;
-	gap: 8px;
-	flex-shrink: 0;
-}
-
-.gemini-diff-btn {
-	display: flex;
-	align-items: center;
-	gap: 4px;
-	padding: 4px 12px;
-	border-radius: var(--radius-s);
-	cursor: pointer;
-	font-size: var(--font-ui-small);
-}
-
-.gemini-diff-btn-icon {
-	display: flex;
-	align-items: center;
-}
-
-.gemini-diff-btn-icon svg {
-	width: 14px;
-	height: 14px;
-}
-
-.gemini-diff-editor {
-	flex: 1;
-	overflow: auto;
-}
-
-.gemini-diff-editor .cm-editor {
-	height: 100%;
 }
