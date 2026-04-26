@@ -1,6 +1,6 @@
 ---
 aliases: [Gasometría, Interpretación Ácido-Base, Anión Gap, Delta Gap]
-tags: [urgencias, uci, fisiología, gasometría, ácido_base]
+tags: [urgencias, uci, fisiologia, gasometria, acido_base]
 ---
 # Trastornos Ácido-Base - 1. Lectura Sistemática (Los 5 Pasos)
 

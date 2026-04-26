@@ -1,6 +1,6 @@
 ---
 aliases: [SDRA, Distrés Respiratorio, ARDS]
-tags: [uci, neumo, urgencias, ventilación_mecánica, crítico]
+tags: [uci, neumo, urgencias, ventilacion_mecanica, critico]
 ---
 # Síndrome de Distrés Respiratorio Agudo (SDRA)
 

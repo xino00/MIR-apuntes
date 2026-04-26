@@ -1,6 +1,6 @@
 ---
 aliases: [Alcalosis Metabólica, Cloro-Sensible, Cloro-Resistente]
-tags: [urgencias, ácido_base, cloro, nefro]
+tags: [urgencias, acido_base, cloro, nefro]
 ---
 # Trastornos Ácido-Base - 3. Alcalosis Metabólica
 

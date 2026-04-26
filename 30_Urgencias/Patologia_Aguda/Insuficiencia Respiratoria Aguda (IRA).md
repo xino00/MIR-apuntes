@@ -1,6 +1,6 @@
 ---
 aliases: [Fallo Respiratorio, Hipoxemia, Hipercapnia]
-tags: [urgencias, neumo, gasometría, ventilación_mecánica]
+tags: [urgencias, neumo, gasometria, ventilacion_mecanica]
 ---
 # Insuficiencia Respiratoria Aguda (IRA)
 

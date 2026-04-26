@@ -8,7 +8,7 @@ tags:
   - cardio
   - SCA
   - TEP
-  - disección_aórtica
+  - diseccion_aortica
 description: "Dolor torácico en urgencias: triaje de las 6 causas mortales (SCA, TEP, SAA, taponamiento, neumotórax, rotura esofágica)"
 ---
 ***Fuente:** Manual 12 de Octubre, Cap. 13.
