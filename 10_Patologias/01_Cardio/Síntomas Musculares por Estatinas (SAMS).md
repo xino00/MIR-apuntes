@@ -127,7 +127,7 @@ flowchart TD
 |---|---|
 | **ASCVD clínica** | **Bempedoico + ezetimibe** (combo CLEAR Outcomes ↓ LDL 38%, ↓ MACE) **+ PCSK9 mAb** si LDL-C aún ≥70 |
 | **ASCVD + PCSK9 mAb no tolerado/obtenido/adhesión** | **Inclisirán** SC c/6 m (alternativa) |
-| **Sin ASCVD + alto riesgo** (PREVENT ≥10%, CAC ≥300, DM ≥65/♂≥60) | **Bempedoico + ezetimibe** y, si no logra obj, **PCSK9 mAb** |
+| **Sin ASCVD + alto riesgo** (PREVENT ≥10% **o** CAC ≥300 AU **o** [♀ ≥65 o ♂ ≥60] **+** DM) | **Bempedoico + ezetimibe** y, si no logra obj, **PCSK9 mAb** |
 | **Sin ASCVD + bajo-borderline** (PREVENT <10%, sin enhancers) | **Ezetimibe ± bempedoico** + lifestyle |
 
 ### 4. Cuándo NO se recomienda discontinuar
@@ -155,7 +155,7 @@ flowchart TD
 > - NND ≈ 33-100 (alta intensidad) por evento DM nuevo a 10 años.
 > - **Beneficio CV supera al riesgo DM** en la inmensa mayoría de pacientes con indicación.
 > - **NO discontinuar** la estatina por riesgo de DM en paciente con indicación clara.
-> - DM inducida por estatina no parece tener peor curso CV que DM "natural".
+> - **El beneficio CV demostrado en CVOTs supera el riesgo de DM nueva**; el riesgo de DM nueva **no es contraindicación** para iniciar estatina (AHA/ACC 2026 §5.1).
 
 ---
 
