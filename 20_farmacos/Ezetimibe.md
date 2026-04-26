@@ -66,8 +66,8 @@ Bloquea selectivamente el transportador **NPC1L1** localizado en el borde en cep
 | + bempedoico | 38% (CLEAR Outcomes en intolerantes) |
 | + PCSK9 mAb | aditivo |
 
-> [!info] IMPROVE-IT (2015)
-> Post-SCA, n=18.144, simva 40 + ezetimibe vs simva 40 sola → **↓ MACE 6,4% (HR 0,936)** a 6 a + ↓ LDL-C absoluto 53,2 vs 69,9 mg/dL. **Demostró que "más bajo es mejor"** y consolidó ezetimibe como segunda línea estándar.
+> [!info] IMPROVE-IT (Cannon et al, NEJM 2015 / AHA/ACC 2026 §4.2.6)
+> Post-SCA, simva 40 + ezetimibe vs simva 40 sola: **ARR 2% en eventos CV** a 6 años (cifra reportada por AHA 2026). El paper original detalla n=18.144 y HR 0,936; ↓ LDL-C absoluto 53,2 vs 69,9 mg/dL. **Demostró que "más bajo es mejor"** y consolidó ezetimibe como segunda línea estándar (base COR 2a, B-R en ASCVD not very high risk).
 
 ## 7. Interacciones
 

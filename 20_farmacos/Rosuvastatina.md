@@ -39,7 +39,7 @@ Inhibe competitivamente la **HMG-CoA reductasa**, ↓ síntesis hepática de col
 - **Hepáticas:** transaminitis rara.
 - **GI:** dispepsia, dolor abdominal.
 - **SNC:** cefalea, insomnio menos prevalente que atorvastatina (hidrofílica).
-- **Renales:** **proteinuria leve transitoria** dosis-dependiente (sin afectar curso ERC) — más frecuente que con otras estatinas.
+- **Renales:** **proteinuria leve transitoria** dosis-dependiente (sin afectar curso ERC) — más frecuente que con otras estatinas (dato de ficha técnica CIMA AEMPS, no específicamente recogido en AHA/ACC 2026).
 - **Metabólicas:** ↑ riesgo DM2 nuevo (similar atorvastatina).
 
 ## 5. Posología y Administración
