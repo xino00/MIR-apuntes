@@ -113,6 +113,8 @@ Quartz renderiza bloques ` ```mermaid ` con mermaid 11.x (estricto). Reglas para
 | `/notes` | Pipeline PDF → múltiples notas de Obsidian |
 | `/dosis` | Consulta rápida de dosis desde fichas de fármacos del vault |
 | `/caso` | Formatear y registrar caso clínico para el portfolio |
+| `/score` | Calcular score clínico (CHA2DS2-VA, Wells, qSOFA, GRACE…) leyendo la definición desde el vault |
+| `/interaccion` | Verificar interacciones farmacológicas cruzando fichas de `20_farmacos/` + fallback CIMA AEMPS |
 
 ### Agentes
 
