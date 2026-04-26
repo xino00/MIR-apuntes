@@ -91,7 +91,7 @@ last_fact_checked: 2026-04-26
 > En adultos sin ASCVD con **riesgo borderline (3% a <5%)** por PREVENT-ASCVD, **considerar risk enhancers** es razonable para personalizar la evaluación y decidir el inicio de LLT como adjunto al estilo de vida.
 
 > [!info] COR 2a, B-R ⭐ Novedad 2026
-> En adultos sin ASCVD con **riesgo borderline (3% a <5%)** por PREVENT-ASCVD, **si hsCRP ≥2 mg/L en 2 ocasiones consecutivas** sin causa identificable subyacente, **estatina de alta intensidad** puede ser útil para reducir eventos ASCVD (basado en JUPITER: RRR 44% MACE).
+> En adultos sin ASCVD con **riesgo borderline (3% a <5%)** por PREVENT-ASCVD, **si hsCRP ≥2 mg/L en 2 ocasiones consecutivas** sin causa identificable subyacente, **estatina de alta intensidad** puede ser útil para reducir eventos ASCVD (basado en JUPITER: ~30-40% RRR en MACE en individuos con hsCRP/Lp(a) elevadas según AHA/ACC 2026 §4.2.10).
 
 ### Tabla 13 — Risk Enhancers (AHA/ACC 2026 p 35)
 
@@ -259,7 +259,7 @@ En Europa, la guía **ESC 2021 sobre prevención CV en la práctica clínica** r
 > - **Trastornos lipídicos genéticos** (HF) o HTA grave/secundaria.
 
 > [!warning] España
-> España está clasificada en la **región de bajo riesgo** según la cartografía OMS de la guía ESC 2021. Las charts a usar son las **SCORE2 low-risk countries**.
+> Según la **cartografía habitual** del WHO usada en ESC 2021 (Figura 4 §3.2), España suele clasificarse en la **región de bajo riesgo CV**, por lo que las charts aplicables serían las **SCORE2 low-risk countries**. Verificar contra la figura específica del PDF antes de usar en una decisión clínica.
 >
 > **Charts y calculadora oficial:** `score2-low-risk.eu` o app **ESC CVD Risk Calculator** (también disponible en `escardio.org`).
 
