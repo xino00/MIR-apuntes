@@ -28,3 +28,26 @@ description: "Índice de digestivo: dolor abdominal, hemorragia digestiva, hepat
 ---
 ### 🔗 Enlaces
 - [[000_INICIO]]
+
+---
+### 📥 Por clasificar (auto-añadidas por /organize)
+*Reorganizar en las secciones temáticas correctas y borrar este bloque.*
+
+- [[Absceso - Drenaje en Urgencias]]
+- [[Colangitis Aguda]]
+- [[Colecistitis Aguda]]
+- [[Coledocolitiasis]]
+- [[Colitis Ulcerosa]]
+- [[Complicaciones de la Cirrosis Hepática]]
+- [[Cólico Biliar]]
+- [[Enfermedad de Crohn]]
+- [[Estreñimiento Agudo]]
+- [[Fisura Anal]]
+- [[Gastroenteritis Aguda (GEA)]]
+- [[Hemorragia Digestiva Alta (HDA)]]
+- [[Hemorragia Digestiva Baja (HDB)]]
+- [[Hemorroides]]
+- [[Hipertransaminasemia]]
+- [[Obstrucción Intestinal]]
+- [[Pancreatitis Aguda]]
+- [[Reflujo Gastroesofágico (RGE)]]

@@ -145,3 +145,9 @@ description: "Hub central de urgencias: algoritmos vitales, iones, ácido-base y
 
 ## 📖 Referencias
 - Manual 12 de Octubre 2022 (9ª ed.) — PDF en `Libros y referencias/`
+
+---
+### 📥 Por clasificar (auto-añadidas por /organize)
+*Reorganizar en las secciones temáticas correctas y borrar este bloque.*
+
+- [[Anafilaxia en Adultos]]

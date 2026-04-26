@@ -22,3 +22,21 @@ description: "Índice de neumología: asma, EPOC, neumonía, insuficiencia respi
 ---
 ### 🔗 Enlaces
 - [[000_INICIO]]
+
+---
+### 📥 Por clasificar (auto-añadidas por /organize)
+*Reorganizar en las secciones temáticas correctas y borrar este bloque.*
+
+- [[Asma - Circunstancias Especiales]]
+- [[Asma - Clasificación y Control]]
+- [[Asma - Definición y Patogenia]]
+- [[Asma - Diagnóstico]]
+- [[Asma - Dispositivos de Inhalación]]
+- [[Asma - Pediátrica]]
+- [[Asma - Tratamiento Escalonado]]
+- [[Asma Grave No Controlada]]
+- [[Broncoespasmo en IRVA]]
+- [[Bronquitis Aguda]]
+- [[EPOC reagudizado]]
+- [[Neumonía Adquirida en la Comunidad (NAC)]]
+- [[Rinitis Alérgica y Rinosinusitis]]

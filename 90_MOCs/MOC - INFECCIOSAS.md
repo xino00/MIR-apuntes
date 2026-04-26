@@ -26,3 +26,10 @@ description: "Índice de infecciosas: sepsis, antibioterapia empírica, PROA e i
 ---
 ### 🔗 Enlaces
 - [[000_INICIO]]
+
+---
+### 📥 Por clasificar (auto-añadidas por /organize)
+*Reorganizar en las secciones temáticas correctas y borrar este bloque.*
+
+- [[Gripe - Síndrome Gripal]]
+- [[Sepsis y Shock Séptico]]
