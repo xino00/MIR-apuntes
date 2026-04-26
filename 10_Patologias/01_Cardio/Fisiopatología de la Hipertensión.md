@@ -1,6 +1,6 @@
 ---
 aliases: [Fisiopatología HTA, Mecanismos de Hipertensión]
-tags: [cardio, patologia, HTA, fisiopatología, urgencias]
+tags: [cardio, patologia, HTA, fisiopatologia, urgencias]
 fuente: "ESC 2024 HTA (ehae178) Figura 1"
 last_fact_checked: 2026-04-20
 ---

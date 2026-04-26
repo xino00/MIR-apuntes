@@ -1,6 +1,6 @@
 ---
 aliases: [Estadios de Hipertensión, Categorías de PA, Clasificación PA ESC 2024]
-tags: [cardio, HTA, gpc, diagnóstico]
+tags: [cardio, HTA, gpc, diagnostico]
 fuente: "ESC 2024 HTA (ehae178)"
 last_fact_checked: 2026-04-20
 ---

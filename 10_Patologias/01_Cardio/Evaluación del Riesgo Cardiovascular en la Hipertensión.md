@@ -1,6 +1,6 @@
 ---
 aliases: [Riesgo CV en HTA, SCORE2, Estratificación de Riesgo, DOMH modificadores, Tabla 4 ESC 2021]
-tags: [cardio, HTA, riesgo_cv, diagnóstico]
+tags: [cardio, HTA, riesgo_cv, diagnostico]
 fuente: "ESC 2024 HTA (ehae178) §6.3.1 + ESC CVD Prevention 2021 (Visseren et al. Eur Heart J 2021;42:3227, DOI 10.1093/eurheartj/ehab484) Tabla 4"
 last_fact_checked: 2026-04-23
 ---

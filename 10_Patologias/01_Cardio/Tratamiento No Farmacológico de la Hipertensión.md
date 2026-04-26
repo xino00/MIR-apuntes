@@ -1,6 +1,6 @@
 ---
 aliases: [Intervención Estilo de Vida HTA, Prevención No Farmacológica, Lifestyle Changes, Diet for HTN]
-tags: [cardio, HTA, crónico, prevención]
+tags: [cardio, HTA, cronico, prevencion]
 fuente: "ESC 2024 HTA (ehae178) §8.2"
 last_fact_checked: 2026-04-20
 ---

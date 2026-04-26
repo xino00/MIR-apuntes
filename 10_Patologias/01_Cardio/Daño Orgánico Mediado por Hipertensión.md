@@ -1,6 +1,6 @@
 ---
 aliases: [DOMH, Complicaciones de Hipertensión, Target Organ Damage]
-tags: [cardio, patologia, HTA, urgencias, diagnóstico]
+tags: [cardio, patologia, HTA, urgencias, diagnostico]
 fuente: "ESC 2024 HTA (ehae178) §6.4 + Figura 12"
 last_fact_checked: 2026-04-20
 ---

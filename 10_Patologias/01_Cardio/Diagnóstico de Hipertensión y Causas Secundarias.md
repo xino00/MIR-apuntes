@@ -1,6 +1,6 @@
 ---
 aliases: [HTA Secundaria, Diagnóstico HTA, Cribado de Hipertensión, Causes of Hypertension]
-tags: [cardio, HTA, urgencias, diagnóstico]
+tags: [cardio, HTA, urgencias, diagnostico]
 fuente: "ESC 2024 HTA (ehae178)"
 last_fact_checked: 2026-04-20
 ---

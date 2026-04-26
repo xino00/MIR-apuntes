@@ -1,6 +1,6 @@
 ---
 aliases: [Medición de PA, Técnica de Medición, MAPA, AMPA, Presión Arterial Sistémica]
-tags: [cardio, HTA, diagnóstico, urgencias]
+tags: [cardio, HTA, diagnostico, urgencias]
 fuente: "ESC 2024 HTA (ehae178) Tabla 5"
 last_fact_checked: 2026-04-20
 ---
