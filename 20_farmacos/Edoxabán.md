@@ -1,6 +1,6 @@
 ---
 aliases: [Edoxabán]
-tags: [farmacología, AEMPS, anticoagulante]
+tags: [farmaco, anticoagulante]
 ---
 # Edoxabán
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Etomidato]
-tags: [farmacología, AEMPS]
+tags: [farmaco]
 ---
 # Etomidato
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Acetazolamida]
-tags: [farmacología, AEMPS]
+tags: [farmaco]
 ---
 # Acetazolamida
 

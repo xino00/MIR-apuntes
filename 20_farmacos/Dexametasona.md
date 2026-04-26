@@ -1,6 +1,6 @@
 ---
 aliases: [Dexametasona, Fortecortin, Dexametasone]
-tags: [farmacología, corticoide, neurología, oncología, urgencias, AEMPS, 12Octubre]
+tags: [farmaco, corticoide, neuro, oncologia, urgencias]
 ---
 # Dexametasona
 

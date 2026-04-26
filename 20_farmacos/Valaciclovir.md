@@ -1,6 +1,6 @@
 ---
 aliases: [Valaciclovir, Valtrex, Zelitrex]
-tags: [farmacología, antiviral, herpes, infecciosas, AEMPS, 12Octubre]
+tags: [farmaco, antiviral, herpes, infecciosas]
 ---
 # Valaciclovir
 

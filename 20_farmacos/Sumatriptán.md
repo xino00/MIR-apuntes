@@ -1,6 +1,6 @@
 ---
 aliases: [Sumatriptán, Imigran]
-tags: [farmacología, triptán, neurología, cefalea, migraña, AEMPS, 12Octubre]
+tags: [farmaco, triptan, neuro, cefalea, migrana]
 ---
 # Sumatriptán
 

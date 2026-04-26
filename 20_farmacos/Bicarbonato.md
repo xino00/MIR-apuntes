@@ -1,6 +1,6 @@
 ---
 aliases: [Bicarbonato]
-tags: [farmacología, AEMPS]
+tags: [farmaco]
 ---
 # Bicarbonato
 

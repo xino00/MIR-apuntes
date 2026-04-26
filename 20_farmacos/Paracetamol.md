@@ -1,6 +1,6 @@
 ---
 aliases: [Paracetamol, Acetaminofén, Efferalgan, Termalgin]
-tags: [farmacología, analgésico, antipirético, urgencias, AEMPS, 12Octubre]
+tags: [farmaco, analgesico, antipiretico, urgencias]
 ---
 # Paracetamol (Acetaminofén)
 

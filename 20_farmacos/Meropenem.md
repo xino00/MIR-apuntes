@@ -1,6 +1,6 @@
 ---
 aliases: [Meropenem, Meronem]
-tags: [farmacología, antibiótica, betalactámico, carbapenémico, AEMPS]
+tags: [farmaco, antibiotica, betalactamico, carbapenemico]
 ---
 # Meropenem
 

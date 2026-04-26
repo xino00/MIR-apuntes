@@ -1,6 +1,6 @@
 ---
 aliases: [Eplerenona, Inspra]
-tags: [farmacología, diurético, cardiología, AEMPS, 12Octubre]
+tags: [farmaco, diuretico, cardio]
 ---
 # Eplerenona
 

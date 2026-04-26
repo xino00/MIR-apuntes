@@ -1,6 +1,6 @@
 ---
 aliases: [Pantoprazol, Pantocal, Anagastra, IBP]
-tags: [farmacología, digestivo, gastroprotector, urgencias, AEMPS, 12Octubre]
+tags: [farmaco, digestivo, gastroprotector, urgencias]
 ---
 # Pantoprazol
 

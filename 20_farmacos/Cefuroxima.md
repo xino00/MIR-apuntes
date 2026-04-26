@@ -1,6 +1,6 @@
 ---
 aliases: [Cefuroxima, Cefuroxima Axetilo]
-tags: [farmacología, antibiótica, betalactámico, cefalosporina, 2generacion, AEMPS]
+tags: [farmaco, antibiotica, betalactamico, cefalosporina, 2generacion]
 ---
 # Cefuroxima
 

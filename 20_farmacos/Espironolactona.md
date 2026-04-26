@@ -1,6 +1,6 @@
 ---
 aliases: [Espironolactona, Aldactone]
-tags: [farmacología, diurético, cardiología, AEMPS, 12Octubre]
+tags: [farmaco, diuretico, cardio]
 ---
 # Espironolactona
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Valsartán, Diovan]
-tags: [farmacología, ARA2, cardiología, HTA, AEMPS]
+tags: [farmaco, ARA2, cardio, HTA]
 ---
 # Valsartán
 

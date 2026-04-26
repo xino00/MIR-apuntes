@@ -1,6 +1,6 @@
 ---
 aliases: [Hidroclorotiazida, HCTZ]
-tags: [farmacología, diurético, tiazida, HTA, AEMPS]
+tags: [farmaco, diuretico, tiazida, HTA]
 ---
 # Hidroclorotiazida
 

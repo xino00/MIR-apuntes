@@ -1,6 +1,6 @@
 ---
 aliases: [Cefepime, Cefepima]
-tags: [farmacología, antibiótica, betalactámico, cefalosporina, 4generacion, AEMPS]
+tags: [farmaco, antibiotica, betalactamico, cefalosporina, 4generacion]
 ---
 # Cefepime
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Magnesio, Sulfato de Magnesio, MgSO4, Sulmetin]
-tags: [farmacología, electrolito, urgencias, cardiología, obstetricia, AEMPS, 12Octubre]
+tags: [farmaco, electrolito, urgencias, cardio, obstetricia]
 ---
 # Sulfato de Magnesio (MgSO₄)
 

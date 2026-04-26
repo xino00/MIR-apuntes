@@ -1,6 +1,6 @@
 ---
 aliases: [Flecainida, Apocard]
-tags: [farmacología, antiarrítmico, cardiología, AEMPS]
+tags: [farmaco, antiarritmico, cardio]
 ---
 # Flecainida
 

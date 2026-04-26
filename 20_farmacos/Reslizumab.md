@@ -1,6 +1,6 @@
 ---
 aliases: [Reslizumab]
-tags: [farmacología, AEMPS, neumología]
+tags: [farmaco, neumo]
 ---
 # Reslizumab
 

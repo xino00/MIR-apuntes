@@ -1,6 +1,6 @@
 ---
 aliases: [Enoxaparina, Clexane, HBPM]
-tags: [farmacología, anticoagulante, cardiología, vascular, cirugía, AEMPS]
+tags: [farmaco, anticoagulante, cardio, vascular, cirugia]
 ---
 # Enoxaparina Sódica (HBPM)
 

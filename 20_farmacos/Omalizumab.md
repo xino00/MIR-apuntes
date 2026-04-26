@@ -1,6 +1,6 @@
 ---
 aliases: [Omalizumab, Xolair]
-tags: [farmacología, biológico, anti-IgE, neumología, alergología, AEMPS, 12Octubre]
+tags: [farmaco, biologico, anti-IgE, neumo, alergologia]
 ---
 # Omalizumab
 

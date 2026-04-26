@@ -1,6 +1,6 @@
 ---
 aliases: [Apixabán]
-tags: [farmacología, AEMPS, anticoagulante]
+tags: [farmaco, anticoagulante]
 ---
 # Apixabán
 

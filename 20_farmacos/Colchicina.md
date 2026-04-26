@@ -1,6 +1,6 @@
 ---
 aliases: [Colchicina]
-tags: [farmacología, AEMPS]
+tags: [farmaco]
 ---
 # Colchicina
 

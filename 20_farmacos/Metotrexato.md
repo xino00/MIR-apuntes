@@ -1,6 +1,6 @@
 ---
 aliases: [Metotrexato, MTX, Metoject, Methofar]
-tags: [farmacología, inmunosupresor, FAME, reumatología, oncología, AEMPS, 12Octubre]
+tags: [farmaco, inmunosupresor, FAME, reuma, oncologia]
 ---
 # Metotrexato (MTX)
 

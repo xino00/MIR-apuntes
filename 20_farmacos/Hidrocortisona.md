@@ -1,6 +1,6 @@
 ---
 aliases: [Hidrocortisona, Actocortina, Solu-Cortef]
-tags: [farmacología, corticoide, urgencias, endocrinología, AEMPS, 12Octubre]
+tags: [farmaco, corticoide, urgencias, endocrino]
 ---
 # Hidrocortisona
 

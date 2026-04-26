@@ -1,6 +1,6 @@
 ---
 aliases: [Amikacina, Amikin]
-tags: [farmacología, antibiótica, aminoglucósido, nefrotoxico, AEMPS]
+tags: [farmaco, antibiotica, aminoglucosido, nefrotoxico]
 ---
 # Amikacina
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Atropina]
-tags: [farmacología, anticolinérgico, urgencias, RCP, AEMPS, 12Octubre]
+tags: [farmaco, anticolinergico, urgencias, RCP]
 ---
 # Atropina
 

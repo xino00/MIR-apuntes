@@ -1,6 +1,6 @@
 ---
 aliases: [Clindamicina, Dalacin]
-tags: [farmacología, antibiótica, lincosamida, anaerobios, AEMPS]
+tags: [farmaco, antibiotica, lincosamida, anaerobios]
 ---
 # Clindamicina
 

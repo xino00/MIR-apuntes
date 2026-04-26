@@ -1,6 +1,6 @@
 ---
 aliases: [Azatioprina]
-tags: [farmacología, AEMPS, inmunosupresor]
+tags: [farmaco, inmunosupresor]
 ---
 # Azatioprina
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Vancomicina, Vancocin]
-tags: [farmacología, antibiótica, glucopéptido, sarm, cdiff, AEMPS]
+tags: [farmaco, antibiotica, glucopeptido, sarm, cdiff]
 ---
 # Vancomicina
 

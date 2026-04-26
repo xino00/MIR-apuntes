@@ -1,6 +1,6 @@
 ---
 aliases: [Rivaroxabán, Xarelto]
-tags: [farmacología, anticoagulante, cardiología, vascular, cirugía, AEMPS]
+tags: [farmaco, anticoagulante, cardio, vascular, cirugia]
 ---
 # Rivaroxabán
 

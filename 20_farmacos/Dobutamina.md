@@ -1,6 +1,6 @@
 ---
 aliases: [Dobutamina]
-tags: [farmacología, inotrópico, urgencias, cardiología, AEMPS]
+tags: [farmaco, inotropico, urgencias, cardio]
 ---
 # Dobutamina
 

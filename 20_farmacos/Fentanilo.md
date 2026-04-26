@@ -1,6 +1,6 @@
 ---
 aliases: [Fentanilo, Durogesic, Abstral, Actiq]
-tags: [farmacología, analgésico, opioide, urgencias, anestesia, oncología, AEMPS, 12Octubre]
+tags: [farmaco, analgesico, opioide, urgencias, anestesia, oncologia]
 ---
 # Fentanilo
 

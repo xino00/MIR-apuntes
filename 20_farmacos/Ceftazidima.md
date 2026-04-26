@@ -1,6 +1,6 @@
 ---
 aliases: [Ceftazidima]
-tags: [farmacología, antibiótica, betalactámico, cefalosporina, antipseudomónica, 3generacion, AEMPS]
+tags: [farmaco, antibiotica, betalactamico, cefalosporina, antipseudomonica, 3generacion]
 ---
 # Ceftazidima
 

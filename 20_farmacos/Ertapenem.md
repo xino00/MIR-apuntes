@@ -1,6 +1,6 @@
 ---
 aliases: [Ertapenem, Invanz]
-tags: [farmacología, antibiótica, betalactámico, carbapenémico, AEMPS]
+tags: [farmaco, antibiotica, betalactamico, carbapenemico]
 ---
 # Ertapenem
 

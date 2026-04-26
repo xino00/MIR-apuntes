@@ -1,6 +1,6 @@
 ---
 aliases: [Amiodarona, Trangorex]
-tags: [farmacología, antiarrítmico, cardiología, AEMPS]
+tags: [farmaco, antiarritmico, cardio]
 ---
 # Amiodarona
 

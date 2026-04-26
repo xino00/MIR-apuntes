@@ -1,6 +1,6 @@
 ---
 aliases: [Metformina, Dianben, Glucophage, Biguanida]
-tags: [farmacología, endocrinología, diabetes, AEMPS, 12Octubre]
+tags: [farmaco, endocrino, diabetes]
 fuente: "Ficha técnica CIMA AEMPS + ADA Standards of Care 2026 + Manual 12 Octubre + UKPDS 34"
 last_fact_checked: 2026-04-23
 ---

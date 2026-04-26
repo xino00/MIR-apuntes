@@ -1,6 +1,6 @@
 ---
 aliases: [Litio, Plenur, Carbolitium]
-tags: [farmacología, estabilizador, psiquiatría, trastorno bipolar, AEMPS, 12Octubre]
+tags: [farmaco, estabilizador, psiquiatria, trastorno bipolar]
 ---
 # Litio (Carbonato de Litio)
 

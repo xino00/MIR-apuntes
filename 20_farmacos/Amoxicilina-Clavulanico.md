@@ -1,6 +1,6 @@
 ---
 aliases: [Amoxicilina/Clavulánico, Amoxicilina-Clavulánico, Amox-Clav, Augmentine]
-tags: [farmacología, antibiótica, betalactámico, penicilinas, AEMPS]
+tags: [farmaco, antibiotica, betalactamico, penicilinas]
 ---
 # Amoxicilina-Clavulánico
 

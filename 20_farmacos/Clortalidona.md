@@ -1,6 +1,6 @@
 ---
 aliases: [Clortalidona, Higrotona]
-tags: [farmacología, diurético, tiazida, cardiología, AEMPS, 12Octubre]
+tags: [farmaco, diuretico, tiazida, cardio]
 ---
 # Clortalidona
 

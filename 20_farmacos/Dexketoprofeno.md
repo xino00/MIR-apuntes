@@ -1,6 +1,6 @@
 ---
 aliases: [Dexketoprofeno, Enantyum, Adolquir]
-tags: [farmacología, analgésico, AINE, urgencias, AEMPS, 12Octubre]
+tags: [farmaco, analgesico, AINE, urgencias]
 ---
 # Dexketoprofeno
 

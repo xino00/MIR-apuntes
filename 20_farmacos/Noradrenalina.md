@@ -1,6 +1,6 @@
 ---
 aliases: [Noradrenalina, Norepinefrina]
-tags: [farmacología, vasopresor, urgencias, cardiología, AEMPS, 12Octubre]
+tags: [farmaco, vasopresor, urgencias, cardio]
 ---
 # Noradrenalina
 

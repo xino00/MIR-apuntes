@@ -1,6 +1,6 @@
 ---
 aliases: [Aspirina]
-tags: [farmacología, AEMPS]
+tags: [farmaco]
 ---
 # Aspirina
 

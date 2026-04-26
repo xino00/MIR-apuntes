@@ -1,6 +1,6 @@
 ---
 aliases: [Valproato, Ácido Valproico, Depakine, Depakote, VPA]
-tags: [farmacología, antiepiléptico, estabilizador, neurología, psiquiatría, AEMPS, 12Octubre]
+tags: [farmaco, antiepileptico, estabilizador, neuro, psiquiatria]
 ---
 # Valproato (Ácido Valproico)
 

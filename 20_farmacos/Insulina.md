@@ -1,6 +1,6 @@
 ---
 aliases: [Insulina, Insulina Rápida, Insulina Basal, Insulina NPH]
-tags: [farmacología, endocrinología, metabolismo, urgencias, AEMPS, 12Octubre]
+tags: [farmaco, endocrino, metabolismo, urgencias]
 ---
 # Insulina
 

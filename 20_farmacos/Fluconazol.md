@@ -1,6 +1,6 @@
 ---
 aliases: [Fluconazol, Diflucan]
-tags: [farmacología, antifúngico, azol, infecciosas, AEMPS, 12Octubre]
+tags: [farmaco, antifungico, azol, infecciosas]
 ---
 # Fluconazol
 

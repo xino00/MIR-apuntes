@@ -1,6 +1,6 @@
 ---
 aliases: [Metronidazol, Flagyl]
-tags: [farmacología, antibiótica, antiprotozoario, anaerobios, AEMPS]
+tags: [farmaco, antibiotica, antiprotozoario, anaerobios]
 ---
 # Metronidazol
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Tocilizumab, RoActemra, Actemra]
-tags: [farmacología, biológico, anti-IL6, reumatología, oncología, COVID, AEMPS, 12Octubre]
+tags: [farmaco, biologico, anti-IL6, reuma, oncologia, COVID]
 ---
 # Tocilizumab
 

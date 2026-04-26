@@ -1,6 +1,6 @@
 ---
 aliases: [Mepolizumab, Nucala]
-tags: [farmacología, biológico, anti-IL5, neumología, reumatología, AEMPS, 12Octubre]
+tags: [farmaco, biologico, anti-IL5, neumo, reuma]
 ---
 # Mepolizumab
 

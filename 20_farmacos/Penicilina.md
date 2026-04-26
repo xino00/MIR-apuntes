@@ -1,6 +1,6 @@
 ---
 aliases: [Penicilina]
-tags: [farmacología, AEMPS, antibiótica]
+tags: [farmaco, antibiotica]
 ---
 # Penicilina
 

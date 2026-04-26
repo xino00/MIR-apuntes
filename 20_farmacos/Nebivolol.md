@@ -1,6 +1,6 @@
 ---
 aliases: [Nebivolol, Lobivon]
-tags: [farmacología, betabloqueante, cardiología, AEMPS, 12Octubre]
+tags: [farmaco, betabloqueante, cardio]
 ---
 # Nebivolol
 

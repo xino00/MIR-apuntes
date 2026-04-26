@@ -1,6 +1,6 @@
 ---
 aliases: [Cloxacilina]
-tags: [farmacología, antibiótica, betalactámico, penicilinas, AEMPS]
+tags: [farmaco, antibiotica, betalactamico, penicilinas]
 ---
 # Cloxacilina
 

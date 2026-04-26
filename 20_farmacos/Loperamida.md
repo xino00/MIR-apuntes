@@ -1,6 +1,6 @@
 ---
 aliases: [Loperamida, Fortasec, Imodium]
-tags: [farmacología, antidiarreico, digestivo, urgencias, AEMPS, 12Octubre]
+tags: [farmaco, antidiarreico, digestivo, urgencias]
 ---
 # Loperamida
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Sacubitrilo/Valsartán, Sacubitril/Valsartan, Entresto, ARNI, INRA]
-tags: [farmacología, cardiología, nefrología, AEMPS, 12Octubre]
+tags: [farmaco, cardio, nefro]
 fuente: "Ficha técnica CIMA AEMPS (Entresto) + ESC HF 2021 + ESC HF Focused Update 2023 + PARADIGM-HF + PARAGON-HF"
 last_fact_checked: 2026-04-23
 ---

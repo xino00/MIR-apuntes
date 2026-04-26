@@ -1,6 +1,6 @@
 ---
 aliases: [Almotriptán]
-tags: [farmacología, AEMPS, neurología]
+tags: [farmaco, neuro]
 ---
 # Almotriptán
 

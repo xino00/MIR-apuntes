@@ -1,6 +1,6 @@
 ---
 aliases: [Adenosina, Adenocor]
-tags: [farmacología, antiarrítmico, urgencias, cardiología, AEMPS]
+tags: [farmaco, antiarritmico, urgencias, cardio]
 ---
 # Adenosina
 

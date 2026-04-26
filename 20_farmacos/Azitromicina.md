@@ -1,6 +1,6 @@
 ---
 aliases: [Azitromicina, Zitromax]
-tags: [farmacología, antibiótica, macrólido, AEMPS]
+tags: [farmaco, antibiotica, macrolido]
 ---
 # Azitromicina
 

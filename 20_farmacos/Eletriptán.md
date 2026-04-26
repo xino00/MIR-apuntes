@@ -1,6 +1,6 @@
 ---
 aliases: [Eletriptán, Relpax]
-tags: [farmacología, antimigrañoso, triptán, neurología, AEMPS]
+tags: [farmaco, antimigranoso, triptan, neuro]
 ---
 # Eletriptán
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Quelantes de potasio, Resinas de intercambio, Patiromer, Ciclosilicato de zirconio, Veltassa, Lokelma, Resincalcio, Resinsodio, Kayexalato]
-tags: [farmacología, nefrología, cardiología, clase, AEMPS]
+tags: [farmaco, nefro, cardio, clase]
 fuente: "Fichas técnicas CIMA AEMPS (Veltassa, Lokelma, Resinsodio/Resincalcio) + UpToDate Hyperkalemia (Causes, Manifestations, Treatment) + DIAMOND trial + OPAL-HK + HARMONIZE + ZS-003"
 last_fact_checked: 2026-04-23
 ---

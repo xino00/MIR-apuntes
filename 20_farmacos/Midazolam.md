@@ -1,6 +1,6 @@
 ---
 aliases: [Midazolam]
-tags: [farmacología, AEMPS]
+tags: [farmaco]
 ---
 # Midazolam
 

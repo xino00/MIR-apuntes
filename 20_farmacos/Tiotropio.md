@@ -1,6 +1,6 @@
 ---
 aliases: [Tiotropio, Spiriva, LAMA]
-tags: [farmacología, neumología, EPOC, broncodilatador, AEMPS, 12Octubre]
+tags: [farmaco, neumo, EPOC, broncodilatador]
 ---
 # Tiotropio
 

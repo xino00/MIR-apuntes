@@ -1,6 +1,6 @@
 ---
 aliases: [Amlodipino, Astudal]
-tags: [farmacología, calcioantagonista, cardiología, HTA, AEMPS]
+tags: [farmaco, calcioantagonista, cardio, HTA]
 ---
 # Amlodipino
 

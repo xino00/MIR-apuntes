@@ -1,6 +1,6 @@
 ---
 aliases: [Adrenalina, Epinefrina]
-tags: [farmacología, vasopresor, inotrópico, urgencias, RCP, AEMPS]
+tags: [farmaco, vasopresor, inotropico, urgencias, RCP]
 ---
 # Adrenalina
 

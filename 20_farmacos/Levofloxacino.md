@@ -1,6 +1,6 @@
 ---
 aliases: [Levofloxacino, Tavanic]
-tags: [farmacología, antibiótica, quinolona, fluoroquinolona, respiratoria, AEMPS]
+tags: [farmaco, antibiotica, quinolona, fluoroquinolona, respiratoria]
 ---
 # Levofloxacino
 

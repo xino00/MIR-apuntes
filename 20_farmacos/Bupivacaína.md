@@ -1,6 +1,6 @@
 ---
 aliases: [Bupivacaína]
-tags: [farmacología, AEMPS]
+tags: [farmaco]
 ---
 # Bupivacaína
 

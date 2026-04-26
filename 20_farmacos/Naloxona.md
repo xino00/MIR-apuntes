@@ -1,6 +1,6 @@
 ---
 aliases: [Naloxona, Narcan]
-tags: [farmacología, urgencias, antídoto, toxicológico, AEMPS, 12Octubre]
+tags: [farmaco, urgencias, antidoto, toxicologico]
 ---
 # Naloxona
 

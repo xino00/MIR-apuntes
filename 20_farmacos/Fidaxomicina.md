@@ -1,6 +1,6 @@
 ---
 aliases: [Fidaxomicina, Dificlir]
-tags: [farmacología, antibiótica, macrocíclico, Clostridioides, AEMPS]
+tags: [farmaco, antibiotica, macrociclico, clostridioides]
 ---
 # Fidaxomicina
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Calcio]
-tags: [farmacología, AEMPS]
+tags: [farmaco]
 ---
 # Calcio
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Ibuprofeno, Nurofen, Espidifen, Dalsy, Bexistar]
-tags: [farmacología, analgésico, AINE, urgencias, reumatología, AEMPS, 12Octubre]
+tags: [farmaco, analgesico, AINE, urgencias, reuma]
 ---
 # Ibuprofeno
 

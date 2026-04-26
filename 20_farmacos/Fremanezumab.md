@@ -1,6 +1,6 @@
 ---
 aliases: [Fremanezumab, Ajovy]
-tags: [farmacología, anti-CGRP, neurología, cefalea, migraña, profilaxis, AEMPS, 12Octubre]
+tags: [farmaco, anti-CGRP, neuro, cefalea, migrana, profilaxis]
 ---
 # Fremanezumab
 

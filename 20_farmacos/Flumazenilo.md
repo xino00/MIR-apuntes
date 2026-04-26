@@ -1,6 +1,6 @@
 ---
 aliases: [Flumazenilo, Anexate]
-tags: [farmacología, urgencias, antídoto, toxicológico, anestesia, AEMPS, 12Octubre]
+tags: [farmaco, urgencias, antidoto, toxicologico, anestesia]
 ---
 # Flumazenilo
 

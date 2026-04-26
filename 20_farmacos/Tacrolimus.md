@@ -1,6 +1,6 @@
 ---
 aliases: [Tacrolimus, Prograf, Advagraf, Envarsus]
-tags: [farmacología, inmunosupresor, calcineurina, trasplante, AEMPS, 12Octubre]
+tags: [farmaco, inmunosupresor, calcineurina, trasplante]
 ---
 # Tacrolimus
 

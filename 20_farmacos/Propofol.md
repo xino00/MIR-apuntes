@@ -1,6 +1,6 @@
 ---
 aliases: [Propofol, Diprivan, Critifol]
-tags: [farmacología, anestesia, sedante, urgencias, UCI, AEMPS, 12Octubre]
+tags: [farmaco, anestesia, sedante, urgencias, UCI]
 ---
 # Propofol
 

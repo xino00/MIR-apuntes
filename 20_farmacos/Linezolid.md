@@ -1,6 +1,6 @@
 ---
 aliases: [Linezolid]
-tags: [farmacología, AEMPS, antibiótica]
+tags: [farmaco, antibiotica]
 ---
 # Linezolid
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Digoxina, Lanicor]
-tags: [farmacología, inotrópico, cardiología, AEMPS]
+tags: [farmaco, inotropico, cardio]
 ---
 # Digoxina
 

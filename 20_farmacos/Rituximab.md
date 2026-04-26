@@ -1,6 +1,6 @@
 ---
 aliases: [Rituximab, Mabthera, Rixathon]
-tags: [farmacología, biológico, antiCD20, reumatología, oncología, AEMPS, 12Octubre]
+tags: [farmaco, biologico, antiCD20, reuma, oncologia]
 ---
 # Rituximab
 

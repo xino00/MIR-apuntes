@@ -1,6 +1,6 @@
 ---
 aliases: [Micofenolato]
-tags: [farmacología, AEMPS, inmunosupresor]
+tags: [farmaco, inmunosupresor]
 ---
 # Micofenolato
 

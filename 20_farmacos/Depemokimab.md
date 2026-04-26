@@ -1,6 +1,6 @@
 ---
 aliases: [Depemokimab, Sompraz, anti-IL5 ultralong]
-tags: [farmacología, biológico, anti-IL5, neumología, AEMPS, 12Octubre]
+tags: [farmaco, biologico, anti-IL5, neumo]
 ---
 # Depemokimab
 

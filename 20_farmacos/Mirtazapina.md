@@ -1,6 +1,6 @@
 ---
 aliases: [Mirtazapina]
-tags: [farmacología, AEMPS, neurología]
+tags: [farmaco, neuro]
 ---
 # Mirtazapina
 

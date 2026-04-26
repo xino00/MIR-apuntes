@@ -1,6 +1,6 @@
 ---
 aliases: [Itraconazol]
-tags: [farmacología, AEMPS, antibiótica]
+tags: [farmaco, antibiotica]
 ---
 # Itraconazol
 

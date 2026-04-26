@@ -1,6 +1,6 @@
 ---
 aliases: [Dupilumab, Dupixent]
-tags: [farmacología, biológico, anti-IL4, anti-IL13, neumología, dermatología, AEMPS, 12Octubre]
+tags: [farmaco, biologico, anti-IL4, anti-IL13, neumo, dermatologia]
 ---
 # Dupilumab
 

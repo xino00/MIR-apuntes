@@ -1,6 +1,6 @@
 ---
 aliases: [Salbutamol, Ventolin, Albuterol, SABA]
-tags: [farmacología, neumología, urgencias, broncodilatador, AEMPS, 12Octubre]
+tags: [farmaco, neumo, urgencias, broncodilatador]
 ---
 # Salbutamol (Albuterol)
 

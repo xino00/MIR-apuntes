@@ -1,6 +1,6 @@
 ---
 aliases: [Ciclosporina, Sandimmun, Neoral]
-tags: [farmacología, inmunosupresor, calcineurina, trasplante, reumatología, AEMPS, 12Octubre]
+tags: [farmaco, inmunosupresor, calcineurina, trasplante, reuma]
 ---
 # Ciclosporina
 

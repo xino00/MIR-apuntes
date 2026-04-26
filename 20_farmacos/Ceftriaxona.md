@@ -1,6 +1,6 @@
 ---
 aliases: [Ceftriaxona, Rocefin]
-tags: [farmacología, antibiótica, betalactámico, cefalosporina, 3generacion, AEMPS]
+tags: [farmaco, antibiotica, betalactamico, cefalosporina, 3generacion]
 ---
 # Ceftriaxona
 

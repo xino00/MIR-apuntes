@@ -1,6 +1,6 @@
 ---
 aliases: [Liraglutida, Victoza, Saxenda]
-tags: [farmacología, endocrinología, cardiología, arGLP1, DM2, obesidad, AEMPS, 12Octubre]
+tags: [farmaco, endocrino, cardio, arGLP1, DM2, obesidad]
 ---
 # Liraglutida
 

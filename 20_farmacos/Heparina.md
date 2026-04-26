@@ -1,6 +1,6 @@
 ---
 aliases: [Heparina, HNF, Heparina Sódica]
-tags: [farmacología, anticoagulante, urgencias, cardiología, vascular, AEMPS]
+tags: [farmaco, anticoagulante, urgencias, cardio, vascular]
 ---
 # Heparina No Fraccionada (HNF)
 

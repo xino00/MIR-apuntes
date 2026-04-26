@@ -1,6 +1,6 @@
 ---
 aliases: [Ciprofloxacino, Baycip]
-tags: [farmacología, antibiótica, quinolona, fluoroquinolona, AEMPS]
+tags: [farmaco, antibiotica, quinolona, fluoroquinolona]
 ---
 # Ciprofloxacino
 

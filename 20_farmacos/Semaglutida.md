@@ -1,6 +1,6 @@
 ---
 aliases: [Semaglutida, Ozempic, Wegovy, Rybelsus, arGLP-1]
-tags: [farmacología, endocrinología, cardiología, arGLP1, DM2, obesidad, AEMPS, 12Octubre]
+tags: [farmaco, endocrino, cardio, arGLP1, DM2, obesidad]
 ---
 # Semaglutida
 

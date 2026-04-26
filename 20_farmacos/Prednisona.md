@@ -1,6 +1,6 @@
 ---
 aliases: [Prednisona, Dacortin]
-tags: [farmacología, corticoide, reumatología, inmunología, AEMPS, 12Octubre]
+tags: [farmaco, corticoide, reuma, inmunologia]
 ---
 # Prednisona
 

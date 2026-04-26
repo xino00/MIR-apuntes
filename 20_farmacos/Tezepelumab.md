@@ -1,6 +1,6 @@
 ---
 aliases: [Tezepelumab, Tezspire]
-tags: [farmacología, biológico, anti-TSLP, neumología, AEMPS, 12Octubre]
+tags: [farmaco, biologico, anti-TSLP, neumo]
 ---
 # Tezepelumab
 

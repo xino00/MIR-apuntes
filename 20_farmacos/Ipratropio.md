@@ -1,6 +1,6 @@
 ---
 aliases: [Ipratropio, Atrovent, SAMA]
-tags: [farmacología, neumología, urgencias, broncodilatador, AEMPS, 12Octubre]
+tags: [farmaco, neumo, urgencias, broncodilatador]
 ---
 # Ipratropio
 

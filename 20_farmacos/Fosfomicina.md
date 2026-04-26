@@ -1,6 +1,6 @@
 ---
 aliases: [Fosfomicina, Monurol]
-tags: [farmacología, antibiótica, fosfomicina, urinario, AEMPS]
+tags: [farmaco, antibiotica, fosfomicina, urinario]
 ---
 # Fosfomicina
 

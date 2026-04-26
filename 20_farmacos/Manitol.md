@@ -1,6 +1,6 @@
 ---
 aliases: [Manitol, Osmofundina]
-tags: [farmacología, neurología, urgencias, diurético, AEMPS, 12Octubre]
+tags: [farmaco, neuro, urgencias, diuretico]
 ---
 # Manitol
 

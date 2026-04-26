@@ -1,6 +1,6 @@
 ---
 aliases: [Metoclopramida, Primperán]
-tags: [farmacología, digestivo, antiemético, neurología, AEMPS, 12Octubre]
+tags: [farmaco, digestivo, antiemetico, neuro]
 ---
 # Metoclopramida
 

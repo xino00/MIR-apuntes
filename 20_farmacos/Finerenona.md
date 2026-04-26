@@ -1,6 +1,6 @@
 ---
 aliases: [Finerenona, Kerendia, ARM no esteroideo, ARM-ns]
-tags: [farmacología, nefrología, cardiología, endocrinología, AEMPS, kdigo]
+tags: [farmaco, nefro, cardio, endocrino, kdigo]
 fuente: "Ficha técnica CIMA AEMPS (Kerendia) + KDIGO 2024 CKD + FIDELIO-DKD + FIGARO-DKD + FIDELITY"
 last_fact_checked: 2026-04-23
 ---

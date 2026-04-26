@@ -1,6 +1,6 @@
 ---
 aliases: [Rizatriptán, Maxalt]
-tags: [farmacología, triptán, neurología, cefalea, migraña, AEMPS, 12Octubre]
+tags: [farmaco, triptan, neuro, cefalea, migrana]
 ---
 # Rizatriptán
 

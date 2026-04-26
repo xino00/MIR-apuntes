@@ -1,6 +1,6 @@
 ---
 aliases: [Ketamina, Ketolar]
-tags: [farmacología, analgésico, sedante, urgencias, anestesia, AEMPS, 12Octubre]
+tags: [farmaco, analgesico, sedante, urgencias, anestesia]
 ---
 # Ketamina
 

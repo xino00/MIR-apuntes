@@ -1,6 +1,6 @@
 ---
 aliases: [Dapagliflozina, Forxiga, iSGLT2]
-tags: [farmacología, endocrinología, cardiología, nefrología, AEMPS, 12Octubre]
+tags: [farmaco, endocrino, cardio, nefro]
 ---
 # Dapagliflozina
 

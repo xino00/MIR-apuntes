@@ -1,6 +1,6 @@
 ---
 aliases: [Naproxeno, Naprosyn, Antalgin]
-tags: [farmacología, analgésico, AINE, reumatología, AEMPS, 12Octubre]
+tags: [farmaco, analgesico, AINE, reuma]
 ---
 # Naproxeno
 

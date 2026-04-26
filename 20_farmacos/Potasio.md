@@ -1,6 +1,6 @@
 ---
 aliases: [Potasio, Cloruro de Potasio, KCl, Suplementos de K+]
-tags: [farmacología, electrolito, urgencias, cardiología, AEMPS, 12Octubre]
+tags: [farmaco, electrolito, urgencias, cardio]
 ---
 # Potasio (Cloruro de Potasio - KCl)
 

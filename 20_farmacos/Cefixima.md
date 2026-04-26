@@ -1,6 +1,6 @@
 ---
 aliases: [Cefixima, Denvar, Cefixime]
-tags: [farmacología, antibiótica, betalactámico, cefalosporina, 3generacion, oral, AEMPS]
+tags: [farmaco, antibiotica, betalactamico, cefalosporina, 3generacion, oral]
 ---
 # Cefixima
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Amitriptilina]
-tags: [farmacología, AEMPS, neurología]
+tags: [farmaco, neuro]
 ---
 # Amitriptilina
 

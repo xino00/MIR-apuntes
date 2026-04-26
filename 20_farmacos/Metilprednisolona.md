@@ -1,6 +1,6 @@
 ---
 aliases: [Metilprednisolona, Solu-Moderin, Urbasón]
-tags: [farmacología, corticoide, urgencias, reumatología, neurología, AEMPS, 12Octubre]
+tags: [farmaco, corticoide, urgencias, reuma, neuro]
 ---
 # Metilprednisolona
 

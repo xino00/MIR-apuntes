@@ -1,6 +1,6 @@
 ---
 aliases: [Propranolol, Sumial]
-tags: [farmacología, betabloqueante, cardiología, digestivo, AEMPS, 12Octubre]
+tags: [farmaco, betabloqueante, cardio, digestivo]
 ---
 # Propranolol
 

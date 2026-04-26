@@ -1,6 +1,6 @@
 ---
 aliases: [Piperacilina/Tazobactam, Piperacilina-Tazobactam, Tazocel]
-tags: [farmacología, antibiótica, betalactámico, antipseudomónica, AEMPS]
+tags: [farmaco, antibiotica, betalactamico, antipseudomonica]
 ---
 # Piperacilina/Tazobactam
 

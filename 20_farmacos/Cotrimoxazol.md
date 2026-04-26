@@ -1,6 +1,6 @@
 ---
 aliases: [Cotrimoxazol, Septrin, Trimetoprima-Sulfametoxazol, TMP-SMX]
-tags: [farmacología, antibiótica, sulfamidas, diamino, AEMPS]
+tags: [farmaco, antibiotica, sulfamidas, diamino]
 ---
 # Cotrimoxazol (Trimetoprima/Sulfametoxazol)
 

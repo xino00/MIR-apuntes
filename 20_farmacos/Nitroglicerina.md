@@ -1,6 +1,6 @@
 ---
 aliases: [Nitroglicerina, Solinitrina]
-tags: [farmacología, vasodilatador, cardiología, urgencias, AEMPS]
+tags: [farmaco, vasodilatador, cardio, urgencias]
 ---
 # Nitroglicerina
 

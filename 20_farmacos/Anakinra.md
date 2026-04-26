@@ -1,6 +1,6 @@
 ---
 aliases: [Anakinra]
-tags: [farmacología, AEMPS, inmunosupresor]
+tags: [farmaco, inmunosupresor]
 ---
 # Anakinra
 

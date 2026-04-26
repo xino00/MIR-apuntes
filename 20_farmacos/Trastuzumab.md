@@ -1,6 +1,6 @@
 ---
 aliases: [Trastuzumab]
-tags: [farmacología, AEMPS]
+tags: [farmaco]
 ---
 # Trastuzumab
 

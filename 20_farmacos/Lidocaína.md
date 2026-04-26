@@ -1,6 +1,6 @@
 ---
 aliases: [Lidocaína, Xilocaína, Lidocaine]
-tags: [farmacología, analgésico, antiarrítmico, urgencias, anestesia, AEMPS, 12Octubre]
+tags: [farmaco, analgesico, antiarritmico, urgencias, anestesia]
 ---
 # Lidocaína
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Hidroxicloroquina, Dolquine, Plaquenil]
-tags: [farmacología, antipalúdico, inmunomodulador, reumatología, AEMPS, 12Octubre]
+tags: [farmaco, antipaludico, inmunomodulador, reuma]
 ---
 # Hidroxicloroquina
 

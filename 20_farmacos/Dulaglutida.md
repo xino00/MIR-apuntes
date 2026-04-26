@@ -1,6 +1,6 @@
 ---
 aliases: [Dulaglutida, Trulicity, arGLP-1]
-tags: [farmacología, endocrinología, arGLP1, DM2, AEMPS, 12Octubre]
+tags: [farmaco, endocrino, arGLP1, DM2]
 ---
 # Dulaglutida
 

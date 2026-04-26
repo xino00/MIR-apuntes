@@ -1,6 +1,6 @@
 ---
 aliases: [Dopamina]
-tags: [farmacología, vasoactivo, urgencias, cardiología, AEMPS]
+tags: [farmaco, vasoactivo, urgencias, cardio]
 ---
 # Dopamina
 

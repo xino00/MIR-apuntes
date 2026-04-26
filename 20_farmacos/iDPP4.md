@@ -1,6 +1,6 @@
 ---
 aliases: [iDPP4, Gliptinas, Inhibidores DPP4, Sitagliptina, Linagliptina, Saxagliptina, Vildagliptina]
-tags: [farmacología, endocrinología, diabetes, clase, AEMPS]
+tags: [farmaco, endocrino, diabetes, clase]
 fuente: "Fichas técnicas CIMA AEMPS (Januvia, Trajenta, Onglyza, Galvus) + ADA Standards of Care 2026 + CVOTs (SAVOR-TIMI 53, TECOS, CARMELINA, CAROLINA)"
 last_fact_checked: 2026-04-23
 ---

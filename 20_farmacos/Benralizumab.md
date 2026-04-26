@@ -1,6 +1,6 @@
 ---
 aliases: [Benralizumab]
-tags: [farmacología, AEMPS, neumología]
+tags: [farmaco, neumo]
 ---
 # Benralizumab
 

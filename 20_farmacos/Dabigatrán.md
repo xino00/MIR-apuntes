@@ -1,6 +1,6 @@
 ---
 aliases: [Dabigatrán]
-tags: [farmacología, AEMPS, anticoagulante]
+tags: [farmaco, anticoagulante]
 ---
 # Dabigatrán
 

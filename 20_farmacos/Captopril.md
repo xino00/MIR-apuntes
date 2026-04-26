@@ -1,6 +1,6 @@
 ---
 aliases: [Captopril, Capoten]
-tags: [farmacología, IECA, cardiología, HTA, AEMPS]
+tags: [farmaco, IECA, cardio, HTA]
 ---
 # Captopril
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Morfina, MST, Sevredol, Oramorph]
-tags: [farmacología, analgésico, opioide, urgencias, oncología, AEMPS, 12Octubre]
+tags: [farmaco, analgesico, opioide, urgencias, oncologia]
 ---
 # Morfina
 

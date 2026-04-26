@@ -1,6 +1,6 @@
 ---
 aliases: [Claritromicina, Klacid]
-tags: [farmacología, antibiótica, macrólido, AEMPS]
+tags: [farmaco, antibiotica, macrolido]
 ---
 # Claritromicina
 

@@ -1,6 +1,6 @@
 ---
 aliases: [Gentamicina, Gevramycin]
-tags: [farmacología, antibiótica, aminoglucósido, nefrotoxico, endocarditis, AEMPS]
+tags: [farmaco, antibiotica, aminoglucosido, nefrotoxico, endocarditis]
 ---
 # Gentamicina
 

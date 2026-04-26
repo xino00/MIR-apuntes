@@ -1,6 +1,6 @@
 ---
 aliases: [Doxiciclina, Vibracina]
-tags: [farmacología, antibiótica, tetraciclina, ITS, atípicos, AEMPS]
+tags: [farmaco, antibiotica, tetraciclina, ITS, atipicos]
 ---
 # Doxiciclina
 

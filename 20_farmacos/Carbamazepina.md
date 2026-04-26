@@ -1,6 +1,6 @@
 ---
 aliases: [Carbamazepina, Tegretol, Carbatrol]
-tags: [farmacología, antiepiléptico, neurología, psiquiatría, neuralgia, AEMPS, 12Octubre]
+tags: [farmaco, antiepileptico, neuro, psiquiatria, neuralgia]
 ---
 # Carbamazepina
 
