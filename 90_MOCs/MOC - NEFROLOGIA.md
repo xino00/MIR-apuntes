@@ -30,6 +30,10 @@ description: "Índice de nefrología: FRA, ERC, trastornos iónicos y ácido-bas
 - [[Prostatitis Aguda]]
 
 ### 🧪 Trastornos Iónicos y Ácido-Base
+- [[Trastornos Ácido-Base - 1. Lectura Sistemática]]
+- [[Trastornos Ácido-Base - 2. Acidosis Metabólica]]
+- [[Trastornos Ácido-Base - 3. Alcalosis Metabólica]]
+- [[Trastornos Ácido-Base - 4. Trastornos Respiratorios]]
 - [[Hiponatremia]]
 - [[Hipernatremia]]
 - [[Hipopotasemia]]
