@@ -1,6 +1,8 @@
 ---
 aliases: [Crisis Asmática, Exacerbación de asma, Status Asthmaticus]
 tags: [neumo, urgencias, asma, gema, broncoespasmo]
+fuente: "GEMA 5.5 (2024)"
+last_fact_checked: 2026-05-19
 ---
 # Asma: Crisis Asmática (Urgencias y Planta)
 
@@ -32,13 +34,13 @@ Valorar FR, FC, Trabajo Respiratorio, SatO2 al aire ambiente y Nivel de concienc
 
 ### 🔵 Crisis Leve-Moderada
 1. **Oxígeno:** Titular para SatO2 de 93-95% (en embarazadas y cardiópatas: 95%).
-2. **SABA (Salbutamol):** Vía inhalatoria o cámara espaciadora. 4-10 pulsaciones cada 20 min durante la primera hora. (La nebulización no es superior a la cámara con pulsaciones múltiples pero sí facilita su administración a pacientes deprimidos).
+2. **SABA (Salbutamol):** Vía inhalatoria o cámara espaciadora. 2-8 pulsaciones (200-800 µg) cada 10-15 min durante la primera hora; nebulización intermitente 2,5-5 mg c/20 min × 1.ª hora; o nebulización continua 10-15 mg/h. (La nebulización no es superior a la cámara con pulsaciones múltiples pero sí facilita su administración a pacientes deprimidos).
 3. **Corticoides Sistémicos (Glucocorticoides):** Fundamentales para frenar la base inflamatoria temprana.
-   - **Prednisona / Prednisolona oral:** 40-50 mg (dosis única precoz, en los primeros 60 mins). Se prolongará de 5-7 días sin necesidad de pauta descendente al alta.
+   - **Prednisona/Prednisolona oral:** 50 mg en dosis única precoz (primeros 60 min), continuar 50 mg/24h × 5-7 días al alta sin pauta descendente. En ingreso puede usarse 20-40 mg c/12 h IV/VO.
 
 ### 🔴 Crisis Grave / Riesgo Vital
 1. **Oxígeno:** Alto flujo. (Las gafas de alto flujo - GNAF pueden ser valiosas).
-2. **Doble Broncodilatación:** SABA + SAMA. (Salbutamol 2,5 - 5 mg + Bromuro de Ipratropio 0,5 mg en nebulización continuada).
+2. **Doble Broncodilatación:** SABA + SAMA. (Salbutamol 2,5 - 5 mg + Bromuro de Ipratropio 0,5 mg en nebulización **c/20 min × 1.ª hora**). Alternativa pMDI + cámara: salbutamol 4-8 puff + ipratropio 4-8 puff c/10-15 min.
 3. **Corticoides Sistémicos IV:** Si hay intolerancia oral, [[Shock]] o extrema gravedad. [[Hidrocortisona]] o [[Metilprednisolona]].
 4. **Magnesio Sulfato IV:** Dosis única de **2 g IV en 20 minutos** en crisis grave que no responde al tratamiento inicial. Tiene potente efecto relajante del músculo liso bronquial.
 5. **Terapias Avanzadas en UCI / Boxes:**

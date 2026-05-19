@@ -1,6 +1,8 @@
 ---
 aliases: [Asma infantil, Asma en niños, Sibilancias recurrentes, Tratamiento asma pediátrico]
 tags: [neumo, asma, gema, patologia, pediatria, pediatrico]
+fuente: "GEMA 5.5 (2024)"
+last_fact_checked: 2026-05-19
 ---
 # Asma Pediátrica
 
@@ -121,7 +123,7 @@ Para lactantes con ≥ 3 episodios de sibilancias al año:
 | Biológico | Diana | Edad mínima EMA | Indicación |
 |---|---|---|---|
 | Omalizumab | IgE | ≥ 6 años | Asma alérgica grave, IgE 75–1.500 UI |
-| Mepolizumab | IL-5 | ≥ 6 años | Asma grave eosinofílica, eos ≥ 150–300/µL |
+| Mepolizumab | IL-5 | ≥ 6 años | Asma grave eosinofílica: Eos ≥ 500/µL o ≥ 300/µL + exacerbaciones; dosis 40 mg/4 sem (6-11 a) o 100 mg/4 sem (≥ 12 a) |
 | Dupilumab | IL-4Rα | ≥ 6 años | Asma grave T2, eos o FENO elevados |
 | Tezepelumab | TSLP | ≥ 12 años | AGNC independiente de fenotipo T2 |
 

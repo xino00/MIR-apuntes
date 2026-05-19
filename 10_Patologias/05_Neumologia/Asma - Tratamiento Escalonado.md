@@ -1,6 +1,8 @@
 ---
 aliases: [Escalones terapéuticos asma, MART asma, GCI asma, Inmunoterapia asma]
 tags: [neumo, asma, gema, patologia, tratamiento, escalones]
+fuente: "GEMA 5.5 (2024)"
+last_fact_checked: 2026-05-19
 ---
 # Asma: Tratamiento de Mantenimiento Escalonado
 
@@ -41,7 +43,7 @@ tags: [neumo, asma, gema, patologia, tratamiento, escalones]
 **Estrategia MART** (Mantenimiento y Rescate con la misma Terapia):
 - [[Budesónida]]/formoterol o [[Beclometasona]]/formoterol
 - Mismo inhalador para mantenimiento Y rescate
-- Máximo rescate: 8–12 pulsaciones/día en adultos
+- Máximo rescate (incluyendo mantenimiento): 12 inhalaciones/día con budesónida/formoterol; 8 inhalaciones/día con beclometasona/formoterol
 
 ### Escalón 4 — Asma grave
 
@@ -68,7 +70,7 @@ tags: [neumo, asma, gema, patologia, tratamiento, escalones]
 | [[Mepolizumab]] | Anti-IL-5 | Asma eosinofílica, eos ≥ 300/µL, ≥ 6 años |
 | Reslizumab | Anti-IL-5 | Asma eosinofílica, eos ≥ 400/µL, ≥ 18 años, IV |
 | Benralizumab | Anti-IL-5Rα | Asma eosinofílica, eos ≥ 300/µL, ≥ 18 años |
-| [[Dupilumab]] | Anti-IL-4Rα | T2 con eos ≥ 150/µL o FENO ≥ 25 ppb, ≥ 6 años |
+| [[Dupilumab]] | Anti-IL-4Rα | T2 con eos ≥ 300/µL o FENO ≥ 50 ppb, o corticodependiente, ≥ 6 años |
 | Tezepelumab | Anti-TSLP | AGNC (T2 y no T2), ≥ 12 años |
 
 **Termoplastia bronquial:** alternativa broncoscópica para asma no T2 o fracaso de biológicos.
@@ -79,7 +81,8 @@ tags: [neumo, asma, gema, patologia, tratamiento, escalones]
 |---|---|---|---|
 | **Budesónida** | 200–400 µg/día | 401–800 µg/día | > 800 µg/día |
 | **Fluticasona propionato** | 100–250 µg/día | 251–500 µg/día | > 500 µg/día |
-| **Beclometasona** | 200–500 µg/día | 501–1.000 µg/día | > 1.000 µg/día |
+| **Beclometasona dipropionato** | 200–500 µg/día | 501–1.000 µg/día | 1.001–2.000 µg/día |
+| **Beclometasona extrafina** | 100–200 µg/día | 201–400 µg/día | > 400 µg/día (1 puff extrafina ≈ 2 puff convencional) |
 | **Ciclesonida** | 80–160 µg/día | 161–320 µg/día | > 320 µg/día |
 
 ## 💉 Inmunoterapia con Alérgenos

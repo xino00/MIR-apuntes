@@ -1,6 +1,8 @@
 ---
 aliases: [Diagnóstico del Asma, Espirometría asma, FENO asma, Prueba broncodilatadora]
 tags: [neumo, asma, gema, patologia, diagnostico, espirometria]
+fuente: "GEMA 5.5 (2024)"
+last_fact_checked: 2026-05-19
 ---
 # Asma: Diagnóstico
 
@@ -33,7 +35,9 @@ Síntomas típicos, variables en intensidad y frecuencia, a menudo peores por la
 ### Prueba broncodilatadora positiva (PBD+)
 
 > [!important] Criterios PBD positiva
-> Aumento del FEV₁ **≥ 12 % Y ≥ 200 mL** respecto al valor basal, 15 min después de 400 µg de salbutamol (4 pulsaciones con cámara)
+> Aumento del FEV₁ **≥ 12 % Y ≥ 200 mL** respecto al valor basal, 15 min después de 400 µg de salbutamol (4 pulsaciones con cámara).
+> 
+> **Criterio alternativo (GEMA 5.5):** aumento ≥ 9 % respecto al valor teórico (útil en FEV₁ basal muy reducido) o ≥ 10 % del teórico (ERS/ATS 2022).
 
 ### Si la espirometría es normal o la PBD es negativa
 
@@ -69,6 +73,9 @@ Marcador de inflamación eosinofílica de la vía aérea:
 | 25–39 ppb | Zona gris, valorar contexto clínico |
 | **≥ 40 ppb** | **Diagnóstico compatible con asma** (adultos) |
 | ≥ 50 ppb | Predice buena respuesta a GCI |
+
+> [!important] Aplicación clínica del umbral ≥ 40 ppb
+> En paciente **sin GCI previo** y con clínica compatible, FENO ≥ 40 ppb apoya el diagnóstico de asma (R2 GEMA 5.5). El umbral pierde valor si el paciente ya recibe GCI (que suprimen FENO).
 
 > [!info] FENO en niños
 > Umbrales diferentes: ≥ 35 ppb sugiere inflamación eosinofílica en escolares.

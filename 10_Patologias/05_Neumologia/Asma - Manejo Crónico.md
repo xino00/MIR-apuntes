@@ -1,6 +1,8 @@
 ---
 aliases: [Asma, GEMA 5.5, Asma Crónica]
 tags: [neumo, primaria, asma, gema, cronico]
+fuente: "GEMA 5.5 (2024)"
+last_fact_checked: 2026-05-19
 ---
 # Asma: Diagnóstico y Manejo Crónico
 
@@ -41,10 +43,10 @@ Todo asma que requiera alta dosis de ICS/LABA para mantenerse controlada debe fe
 1. **Asma T2 (Alérgica o Eosinofílica):** Inflamación mediada por citocinas Th2 (IL-4, IL-5, IL-13). Biomarcadores: FENO elevado (≥ 25 ppb), eosinofilia, IgE.
    - Umbrales de eosinófilos **por biológico** (GEMA 5.5 Tabla 7.5):
      - **Omalizumab** (anti-IgE): IgE 30–1.500 UI/mL + sensibilización a alérgeno perenne; eosinófilos no determinantes.
-     - **Mepolizumab** (anti-IL-5): eos ≥ **300/µL** (o ≥ 150/µL en corticodependientes).
+     - **Mepolizumab** (anti-IL-5): Eos ≥ **500/µL** o ≥ **300/µL** con ≥ 2 exacerbaciones graves o ≥ 1 hospitalización en año previo (≥ 150/µL si corticodependiente con histórico ≥ 300).
      - **Reslizumab** (anti-IL-5): eos ≥ **400/µL**.
      - **Benralizumab** (anti-IL-5Rα): eos ≥ **300/µL**.
-     - **Dupilumab** (anti-IL-4Rα): eos ≥ **150/µL** o FENO ≥ **25 ppb** (o corticodependiente).
+     - **Dupilumab** (anti-IL-4Rα): Eos ≥ **300/µL** o FENO ≥ **50 ppb**, o corticodependiente; en pacientes 150–300 Eos/µL puede plantearse si FENO ≥ 25 ppb.
    - **Tezepelumab (Anti-TSLP):** Actúa *aguas arriba* en la cascada inflamatoria; eficaz en T2 **y no T2** (único con esta indicación).
 2. **Asma No T2:** Neutrofílica o paucigranulocítica, peor respuesta a corticoides basales, más ligada al fenotipo obesa y fumadora crónicas. Terapias limitadas, fuerte apoyo de **Macrólidos a largo plazo ([[Azitromicina]])** o LAMA + Termoplastia bronquial.
   

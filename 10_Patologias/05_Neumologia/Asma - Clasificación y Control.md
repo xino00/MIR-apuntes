@@ -1,6 +1,8 @@
 ---
 aliases: [Control del Asma, ACT, ACQ, Gravedad Asma, Remisión Asma, REMAS]
 tags: [neumo, asma, gema, patologia, clasificacion, control]
+fuente: "GEMA 5.5 (2024)"
+last_fact_checked: 2026-05-19
 ---
 # Asma: Clasificación, Control y Remisión
 
@@ -9,6 +11,9 @@ tags: [neumo, asma, gema, patologia, clasificacion, control]
 ## 📊 Clasificación de Gravedad Inicial (Tabla 2.5 GEMA)
 
 La gravedad se estima **antes de iniciar tratamiento** o se clasifica retrospectivamente según el escalón necesario para mantener el control.
+
+> [!warning] GEMA 5.5 — Cambio metodológico
+> GEMA 5.5 abandona la clasificación clásica por síntomas/función pulmonar y la sustituye por gravedad según escalón terapéutico necesario (Tabla 2.5). La tabla siguiente recoge los criterios clínicos clásicos (GINA tradicional) útiles solo en pacientes naïve sin tratamiento.
 
 | Gravedad | Síntomas diurnos | Síntomas nocturnos | FEV₁/PEF | Variabilidad PEF |
 |---|---|---|---|---|
@@ -68,7 +73,7 @@ Además del control de síntomas, valorar en cada visita:
 
 > [!warning] Factores de riesgo de exacerbaciones graves
 > - ≥ 1 exacerbación grave en el último año
-> - FEV₁ < 60–70 % del predicho
+> - FEV₁ < 60 % del predicho
 > - Uso excesivo de SABA (> 1 cartucho/mes)
 > - Mala técnica inhalatoria o adherencia < 80 %
 > - Tabaquismo activo

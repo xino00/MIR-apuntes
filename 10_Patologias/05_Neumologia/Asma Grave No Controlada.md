@@ -1,6 +1,8 @@
 ---
 aliases: [AGNC, Asma grave, Biológicos asma, Asma refractaria, Fenotipo asma grave]
 tags: [neumo, asma, gema, patologia, grave, biologicos, fenotipo]
+fuente: "GEMA 5.5 (2024)"
+last_fact_checked: 2026-05-19
 ---
 # Asma Grave No Controlada (AGNC)
 
@@ -10,7 +12,7 @@ tags: [neumo, asma, gema, patologia, grave, biologicos, fenotipo]
 
 > [!important] Definición AGNC
 > Asma que persiste **mal controlada** pese a tratamiento en el último año con:
-> - Combinación GCI/LABA a dosis elevadas **+ LAMA** (o requiere GCO de mantenimiento ≥ 6 meses al año, o dosis acumulada > 1 g prednisona/año)
+> - Combinación GCI/LABA a dosis elevadas (escalón 5/6), con o sin LAMA o azitromicina, o requerimiento de GCO de mantenimiento ≥ 6 meses/año o > 1 g acumulado/año
 
 **La falta de control se objetiva por ≥ 1 de:**
 - ACT < 20 o ACQ > 1,5
@@ -98,7 +100,7 @@ Paso 3: Fenotipificar para tratamiento dirigido
 | **Mepolizumab** | Anti-IL-5 (bloquea IL-5 circulante) | ≥ 6 años, eosinofílica, eos ≥ 500/µL o ≥ 300/µL + exacerbaciones | 100 mg SC c/4 semanas (40 mg entre 6–11 años) | Eos sangre ≥ 300/µL |
 | **Reslizumab** | Anti-IL-5 (mismo dominio que IL-5) | ≥ 18 años, eosinofílica, eos ≥ 400/µL | 3 mg/kg IV c/4 semanas | Eos sangre ≥ 400/µL |
 | **Benralizumab** | Anti-IL-5Rα (efecto antieosinófilo directo) | ≥ 18 años, eosinofílica grave, eos ≥ 300/µL | 30 mg SC c/4 semanas (3 dosis), luego c/8 semanas | Eos sangre ≥ 300/µL |
-| **Dupilumab** | Anti-IL-4Rα (bloquea IL-4 e IL-13) | ≥ 6 años, T2 con eos ≥ 150/µL o FENO ≥ 50 ppb; corticodependiente | 400 mg inicial, 200–300 mg SC c/2 semanas | Eos ≥ 150/µL o FENO ≥ 25 ppb |
+| **Dupilumab** | Anti-IL-4Rα (bloquea IL-4 e IL-13) | ≥ 6 años, T2 con Eos ≥ 300/µL o FENO ≥ 50 ppb, o corticodependiente; en Eos 150–300/µL plantear si FENO ≥ 25 ppb | 400 mg inicial, 200–300 mg SC c/2 semanas | Eos ≥ 150/µL o FENO ≥ 25 ppb (respuesta) |
 | **Tezepelumab** | Anti-TSLP (alarma epitelial) | ≥ 12 años, AGNC, ≥ 2 exacerbaciones | 210 mg SC c/4 semanas | T2 Y no T2 (único indicado en no T2) |
 
 ### Algoritmo de selección de biológico (Fig. 7.2 GEMA)
