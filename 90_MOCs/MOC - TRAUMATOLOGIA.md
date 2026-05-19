@@ -32,6 +32,10 @@ description: "Índice de traumatología: lumbalgia, esguinces, fracturas, herida
 ### 🏥 Tórax
 - [[Contusión y Fractura Costal]]
 
+### 🔍 Exploración Física
+- [[Exploración de Rodilla]]
+- [[Exploración de Tobillo y Antepié]]
+
 ### 🔧 Procedimientos y Plantillas
 - [[Heridas y Suturas]]
 - [[Tendinitis - Plantilla General]]
