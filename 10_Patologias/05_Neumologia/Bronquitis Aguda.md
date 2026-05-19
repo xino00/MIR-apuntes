@@ -1,7 +1,9 @@
 ---
 aliases: [Bronquitis aguda, Bronquitis, Tos aguda infecciosa]
 tags: [urgencias, neumo, infecciosas, patologia]
+fuente: "Manual 12 Octubre 2022 (cap. 67)"
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"
+last_fact_checked: 2026-05-19
 ---
 # Bronquitis Aguda
 
@@ -21,7 +23,7 @@ Radiografía de tórax: sin opacidades en parénquima pulmonar; trama bronco-vas
 - No está indicado el antibiótico salvo criterios de sobreinfección o sospecha de neumonía.
 
 **ANTIBIÓTICO SOLO SI:**
-- 1ª ELECCIÓN: Amoxicilina 500mg 1 comprimido cada 8 horas durante 5 días.
+- 1ª ELECCIÓN: Amoxicilina **1 g** 1 comprimido cada 8 horas durante 5 días (la dosis 500 mg/8h es subterapéutica frente a *S. pneumoniae*).
 - SÍNTOMAS GRAVES/COMORBILIDADES/NO MEJORÍA EN 48-72H: Amoxicilina/Clavulánico 875/125mg 1 comprimido cada 8 horas durante 5 días.
 - ALÉRGICOS: Azitromicina 500mg 1 comprimido al día durante 3 días.
 - FRACASO + ALÉRGICOS: Levofloxacino 500mg 1 comprimido al día durante 5 días.
@@ -54,7 +56,7 @@ Clínica y exploración compatibles con bronquitis aguda. No signos de consolida
 No está indicado el antibiótico salvo criterios de sobreinfección o sospecha de neumonía.
 - ANTIBIÓTICO SOLO SI:
 
-1ª ELECCIÓN: Amoxicilina 500mg 1 comprimido cada 8 horas durante 5 días.
+1ª ELECCIÓN: Amoxicilina 1g 1 comprimido cada 8 horas durante 5 días (dosis 500 mg/8h subterapéutica).
 SINTOMAS GRAVES/COMORBILIDADES/NO MEJORÍA EN 48-72H: Amoxicilina/Clavulánico 875/125mg 1 comprimido cada 8 horas durante 5 días.
 ALÉRGICOS: Azitromicina 500mg 1 comprimido al día durante 3 días.
 FRACASO + ALÉRGICOS: Levofloxacino 500mg 1 comprimido al día durante 5 días.
