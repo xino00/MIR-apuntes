@@ -103,7 +103,7 @@ Inventario y mapeo del corpus de guías clínicas en `Libros y referencias/`. Ca
 | Archivo | Año | Sociedad | Notas que valida |
 |---|---|---|---|
 | GPC Trastorno Mental Grave + Sustancias.pdf | 2017 | GPC SNS | Patología dual psiquiátrica + adicciones |
-| Identification and Treatment of AUD.pdf | 2024 | UpToDate | [[Abstinencia alcohólica]], AUD |
+| Identification and Treatment of AUD.pdf | 2024 | UpToDate | Abstinencia alcohólica, AUD |
 | Recognition and Management of Withdrawal Delirium.pdf | 2024 | UpToDate | [[Delirium tremens]], delirium por abstinencia |
 
 **Sin PDF dedicado:** depresión, ansiedad, esquizofrenia, urgencias psiquiátricas. Fallback: Manual + WebFetch SEP.
