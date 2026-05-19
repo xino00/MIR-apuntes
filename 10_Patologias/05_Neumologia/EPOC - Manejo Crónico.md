@@ -1,6 +1,8 @@
 ---
 aliases: [EPOC, Enfermedad Pulmonar Obstructiva Crónica, GOLD 2025, GOLD 2026]
 tags: [neumo, primaria, epoc, gold, cronico]
+fuente: "GOLD 2026"
+last_fact_checked: 2026-05-19
 ---
 # EPOC: Diagnóstico y Manejo Crónico
 
@@ -88,7 +90,7 @@ En GOLD 2026, las intervenciones no farmacológicas son consideradas **terapias 
 2. **Rehabilitación Pulmonar:** Obligatoria en Grupos B y E.
 3. **Vacunación** *(GOLD 2026, Fig. 3.6)*:
    - **Influenza** anual (Evidencia B)
-   - **Neumocócica:** PCV21 o PCV20, una dosis (Evidencia B)
+   - **Neumocócica:** PCV21 (preferida, cubre 84 % de cepas en adultos) o PCV20 (cubre 58 %), una dosis. Si vacunación previa con PCV13/15 + PPSV23, puede revacunarse con PCV21 tras ≥ 5 años (Evidencia B)
    - **VRS** (Virus Sincitial Respiratorio): **≥ 50 años** y/o enfermedad pulmonar o cardíaca crónica (Evidencia A)
    - **Tdap** (tosferina/difteria/tétanos): si no vacunado en adolescencia (Evidencia B)
    - **Herpes Zóster:** **> 50 años** (Evidencia B)

@@ -1,6 +1,8 @@
 ---
 aliases: [Exacerbación EPOC, Broncospasmo agudo EPOC, Ingreso EPOC]
 tags: [neumo, urgencias, hospitalizacion, epoc]
+fuente: "GOLD 2026"
+last_fact_checked: 2026-05-19
 ---
 # EPOC: Exacerbación y Manejo Agudo (Urgencias y Planta)
 
@@ -13,7 +15,7 @@ Una exacerbación de la EPOC es un empeoramiento agudo de los síntomas respirat
 | Gravedad | Disnea (VAS) | FR | FC | SaO₂ | PCR | Gasometría |
 |---|---|---|---|---|---|---|
 | **Leve** (por defecto) | < 5 | < 24/min | < 95 lpm | ≥ 92% en AA | < 10 mg/L | — |
-| **Moderada** (≥ 3 de 5 criterios) | ≥ 5 | ≥ 24/min | ≥ 95 lpm | < 92% en AA | ≥ 10 mg/L | PaO₂ 70-80 mmHg |
+| **Moderada** (≥ 3 de 5 criterios) | ≥ 5 | ≥ 24/min | ≥ 95 lpm | < 92% en AA | ≥ 10 mg/L | PaO₂ 70-80 mmHg (opcional, no criterio) |
 | **Grave** | Como moderada | — | — | — | — | PaO₂ ≤ 60 y/o acidosis (pH < 7.35 + PaCO₂ > 45) |
 
 ## Evaluación Inicial en Urgencias de EPOC Reagudizado
@@ -47,7 +49,7 @@ Una exacerbación de la EPOC es un empeoramiento agudo de los síntomas respirat
 
 ## Antibioticoterapia en la Exacerbación de EPOC
 Se indican antibióticos durante **5 días** (Evidencia B) si hay sospecha sólida de infección bacteriana.
-> **Indicaciones de antibioterapia (GOLD 2026, Fig. 4.6):**
+> **Indicaciones de antibioterapia (GOLD 2026, Fig. 4.6 — criterios Anthonisen ampliados):**
 > El paciente presenta **≥ 2 de los siguientes 4 síntomas**, siempre que uno sea **purulencia del esputo**:
 > 1. Aumento de la disnea
 > 2. **Fiebre**
