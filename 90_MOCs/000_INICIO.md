@@ -17,8 +17,6 @@ tags: [moc]
 > [!danger] Acceso Directo
 > - [[Algoritmo de PCR Avanzada (Soporte Vital Avanzado)|Algoritmo RCP Avanzada]]
 > - [[Sepsis - Abordaje Inicial (SSC 2026)|Sepsis]]
-> - [[Cefaleas - Abordaje Inicial|Cefaleas]]
-> - [[Cefaleas - Situaciones Especiales y Neuralgias]]
 > - [[Shock]]
 > - [[Disnea Aguda - Evaluación Urgente]]
 > - [[Dolor Torácico - Abordaje y Triaje]]

@@ -29,7 +29,10 @@ description: "Hub de urgencias generales: presentaciones sindrómicas transversa
 - [[Vértigo en Urgencias]] — manejo agudo del síndrome vestibular: HINTS, Dix-Hallpike, maniobras Epley
 
 > [!note] Sepsis
-> El bloque de sepsis vive en [[MOC - INFECCIOSAS]] por su raíz etiológica, pero es un síndrome transversal de guardia: [[Sepsis - Abordaje Inicial (SSC 2026)|Sepsis - Abordaje Inicial]] · [[Sepsis - Hemodinámica y Reanimación]] · [[Sepsis - Antiinfecciosos y Soporte Vital]].
+> [[MOC - INFECCIOSAS]]
+> [[Sepsis - Abordaje Inicial (SSC 2026)|Sepsis - Abordaje Inicial]] 
+> · [[Sepsis - Hemodinámica y Reanimación]]
+> · [[Sepsis - Antiinfecciosos y Soporte Vital]].
 
 ---
 
