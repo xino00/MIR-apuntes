@@ -74,15 +74,10 @@ description: "Índice de neurología: ictus, cefaleas, epilepsia, enfermedades n
 
 ---
 
-## 🌀 Otoneurología
-
-- [[Mareo y Vértigo - Abordaje Diagnóstico]] (anamnesis estructurada TiTrATE/ATTEST, clasificación Bárány, diferencial por duración — para consulta y repaso; complementa [[Vértigo en Urgencias]])
-
----
-
 ## 🎯 Otras Urgencias Neurológicas
 
 - [[Vértigo en Urgencias]] (central vs periférico — HINTS, Dix-Hallpike)
+- [[Mareo y Vértigo - Abordaje Diagnóstico]] (anamnesis estructurada TiTrATE/ATTEST, clasificación Bárány, diferencial por duración)
 - [[Síncope Neurológico]] (clasificación, riesgo cardiogénico, ECG obligatorio)
 - [[Síndrome Neuroléptico Maligno]] (fiebre + rigidez + alteración conciencia — dantroleno)
 
