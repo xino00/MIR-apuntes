@@ -1,6 +1,8 @@
 ---
 aliases: [Abordaje anemia, Evaluación anemia adulto, Clasificación anemia]
 tags: [hemato, patologia, urgencias]
+fuente: "UpToDate – Diagnostic approach to anemia in adults (Means & Brodsky, Nov 2025)"
+last_fact_checked: 2026-05-19
 ---
 # Anemia - Abordaje General
 
@@ -16,13 +18,18 @@ tags: [hemato, patologia, urgencias]
 | Varones ≥15 años | < 13 g/dL (Hct < 39%) |
 | Mujeres ≥15 años (no embarazadas) | < 12 g/dL (Hct < 36%) |
 | Mujeres embarazadas (1.er trimestre) | < 11 g/dL |
+| Mujeres embarazadas (2.º trimestre) | < 10,5 g/dL |
+| Mujeres embarazadas (3.er trimestre) | < 11 g/dL |
 
 > [!info] Valores CBC normales en adultos
 > - **MCV:** 82,5 – 98 fL
 > - **MCH:** 27,6 – 33,3 pg
 > - **MCHC:** 32,5 – 35,2 g/dL
 > - **RDW:** 11,4 – 13,5%
-> - **Reticulocitos:** 16–130 ×10³/µL (varones) · 16–98 ×10³/µL (mujeres)
+> - **Reticulocitos:** 16–130 ×10³/µL (varones) · 16–98 ×10³/µL (mujeres) — *en estado estable: ~25.000-100.000/µL (1-2%)*
+
+> [!info] Adultos mayores (>70 años)
+> Los umbrales OMS siguen aplicándose, pero el percentil 5 cae a **11,7 g/dL (♂)** y **10,9 g/dL (♀)**. En pacientes con Hb 12-13 g/dL sintomáticos, evaluar individualmente (no asumir "anemia leve").
 
 **Causas de falsos normales:** tabaquismo (↑Hb por CO), altitud, policitemia vera, hemoconcentración.
 **Causas de falsos bajos:** embarazo (hemodilución fisiológica), entrenamiento de resistencia.

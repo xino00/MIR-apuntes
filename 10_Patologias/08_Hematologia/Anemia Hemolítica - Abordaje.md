@@ -1,6 +1,8 @@
 ---
 aliases: [Hemólisis, Anemia hemolítica, AIHA, Hemolytic anemia]
 tags: [hemato, patologia, urgencias]
+fuente: "UpToDate – Diagnostic approach to anemia in adults (Means & Brodsky, Nov 2025)"
+last_fact_checked: 2026-05-19
 ---
 # Anemia Hemolítica – Abordaje
 

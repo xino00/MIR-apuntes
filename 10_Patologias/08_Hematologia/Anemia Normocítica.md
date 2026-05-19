@@ -1,6 +1,8 @@
 ---
 aliases: [Anemia MCV normal, Normocitosis, Anemia normocrómica normocítica]
 tags: [hemato, patologia]
+fuente: "UpToDate – Diagnostic approach to anemia in adults (Means & Brodsky, Nov 2025) + KDIGO 2024 (Anemia ERC)"
+last_fact_checked: 2026-05-19
 ---
 # Anemia Normocítica (MCV 80-100 fL)
 
@@ -73,7 +75,7 @@ tags: [hemato, patologia]
 
 Dirigido a la causa:
 - **ACD/AI:** ver [[Anemia de Enfermedad Crónica (ACD-AI)]].
-- **ERC:** eritropoyetina (EPO/darbepoyetina); objetivo Hb 10-12 g/dL; hierro IV si ferritina <100 o IST <20%.
+- **ERC:** eritropoyetina (EPO/darbepoyetina) si Hb <10 g/dL sintomática; objetivo Hb 10-11,5 g/dL (KDIGO 2024 — evitar normalización por ↑ mortalidad/IAM/ACV en CHOIR/CREATE/TREAT); hierro IV si ferritina <100 o IST <20%.
 - **Hipotiroidismo:** levotiroxina (la anemia se corrige en meses).
 - **Déficit nutricional:** corregir la deficiencia específica.
 - **PRCA:** según etiología (IVIG si parvovirus; inmunosupresión si autoinmune; extirpación timoma).

@@ -1,6 +1,8 @@
 ---
 aliases: [Microcitosis, Anemia MCV bajo, Anemia hipocrómica]
 tags: [hemato, patologia]
+fuente: "UpToDate – Diagnostic approach to anemia in adults (Means & Brodsky, Nov 2025)"
+last_fact_checked: 2026-05-19
 ---
 # Anemia Microcítica (MCV < 80 fL)
 

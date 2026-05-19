@@ -1,6 +1,8 @@
 ---
 aliases: [ACD, AI, Anemia inflamatoria, Anemia de proceso crónico, ACD/AI]
 tags: [hemato, patologia, reuma, nefro]
+fuente: "UpToDate – Anemia of chronic disease/anemia of inflammation (Camaschella & Weiss, Feb 2026) + KDIGO 2024"
+last_fact_checked: 2026-05-19
 ---
 # Anemia de Enfermedad Crónica / Inflamación (ACD/AI)
 
@@ -51,7 +53,7 @@ ACD/AI es la segunda causa más frecuente de anemia en el mundo. Afecta aproxima
 
 ## 📋 Presentación Clínica
 
-- **Anemia leve a moderada:** Hb habitualmente 10-12 g/dL (leve); 8-10 g/dL (moderada). Hb <8 g/dL en ~20% de casos.
+- **Anemia leve a moderada:** Hb 10-11 g/dL (leve); 8-10 g/dL (moderada). Hb <8 g/dL en ~20% de casos (descartar componente añadido: ferropenia, hemólisis, hemorragia).
 - **Morfología:** normocítica normocrómica en la mayoría; microcítica hipocrómica en <25% (si hay ferropenia coexistente; MCV raramente <70 fL).
 - **Hipoproliferativa:** reticulocitos bajos o inapropiadamente bajos para el grado de anemia. Reticulocitos absolutos frecuentemente <25.000/µL.
 - **Síntomas:** fatiga, intolerancia al esfuerzo; frecuentemente eclipsados por la enfermedad subyacente.
@@ -92,7 +94,7 @@ ACD/AI es la segunda causa más frecuente de anemia en el mundo. Afecta aproxima
 - Ferritina es reactante de fase aguda → puede estar "falsamente normal" incluso con depósitos vacíos.
 - **Ferritina < 30 mcg/L:** ferropenia absoluta (incluso en inflamación).
 - **Ferritina 30-100 mcg/L** en inflamación: posible ferropenia coexistente → considerar sTfR o prueba terapéutica con hierro.
-- **Ferritina > 200 mcg/L** (o > 100 en diálisis): excluye ferropenia con razonable certeza en ACD/AI.
+- **Ferritina > 200 mcg/L** excluye ferropenia con razonable certeza en ACD/AI (en algunos países umbral hasta 400 mcg/L). En diálisis: <500 mcg/L + TSAT <30% como criterio funcional para hierro IV (KDIGO 2024).
 
 ### Prueba terapéutica con hierro
 - Si no se puede distinguir ACD/AI pura de ACD/AI + IDA: dosis de hierro IV (o 2 semanas de hierro oral) → respuesta (↑ reticulocitos, ↑ Hb) sugiere componente ferropénico.
