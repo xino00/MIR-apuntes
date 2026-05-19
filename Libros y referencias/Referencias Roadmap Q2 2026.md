@@ -1,14 +1,21 @@
 ---
 aliases: [Referencias pendientes, Bibliografía roadmap Q2 2026]
-tags: [inbox, referencias, roadmap]
-description: Bibliografía verificada (DOIs + guías oficiales) para los temas bloqueados del roadmap Q2 2026. Generado 2026-04-22.
+tags: [referencias, roadmap, bibliografia]
+description: Bibliografía verificada (DOIs + guías oficiales) para los temas pendientes/bloqueados del roadmap Q2 2026. Generado 2026-04-22, actualizado 2026-05-19.
 ---
 
 # Referencias — Roadmap Q2 2026
 
 Bibliografía para los temas **bloqueados por falta de PDFs** en la hoja de ruta. Cada DOI está verificado con PubMed MCP y cada URL con `WebFetch` (200 OK + título coincidente). Marco `✅ verificado` / `⚠️ no verificado` según procede. Los huecos honestos están marcados como **"No localizo…"**.
 
-Fecha de generación: 2026-04-22.
+Fecha de generación: 2026-04-22. **Actualizado 2026-05-19.**
+
+> [!success] Estado del roadmap (2026-05-19)
+> - **Fase 3 — Quartz site:** ✅ COMPLETADA — sitio en producción en https://mirapuntes.pages.dev
+> - **Fase 4 — Cardiología:** ✅ COMPLETADA — 45+ notas, fact-check aplicado (cardio 2026-04-20, neumo 2026-05-19, hemato 2026-05-19)
+> - **Fase 1 — Psiquiatría:** ⏸ parcial — TB / Quetiapina / Insomnio / TCA / Somatomorfos siguen pendientes de PDFs
+> - **Fase 2 — Úlceras cutáneas:** ⏸ sin empezar
+> - **Fase 5 — Endocrinología:** ⏳ **PRÓXIMA PRIORIDAD** (pre-rotación Cardio junio 2026) — ver sección al final
 
 > [!tip] Flujo sugerido
 > 1. Descargar los PDFs de acceso libre marcados.
@@ -214,7 +221,7 @@ Fecha de generación: 2026-04-22.
 
 ---
 
-## Fase 4 — Cardiología: Cardiopatías Congénitas del Adulto
+## Fase 4 — Cardiología: Cardiopatías Congénitas del Adulto ✅ COMPLETADA
 
 **Guías clínicas**
 - **Baumgartner H, De Backer J, Babu-Narayan SV et al. 2020 ESC Guidelines for ACHD.** *Eur Heart J.* 2021;42(6):563-645. DOI: [10.1093/eurheartj/ehaa554](https://doi.org/10.1093/eurheartj/ehaa554) ✅ (PMID 32860028)
@@ -232,6 +239,102 @@ Fecha de generación: 2026-04-22.
 - **Manual 12 de Octubre** 9.ª ed. — sección Cardiología (decisión inmediata en planta/urgencias).
 
 **Orden sugerido:** Comentario SEC (entrada en ES) → ESC 2020 completa → Braunwald 82-83 → Kaemmerer 2024 si HP.
+
+---
+
+## Fase 5 — Endocrinología ⏳ PRÓXIMA PRIORIDAD (pre-Cardio junio 2026)
+
+> [!info] Contexto
+> Aunque la rotación inminente es Cardiología (junio 2026), endocrino es alta utilidad pre-rotación porque comparte mucha patología transversal (DM/HTA/dislipemia → ya cubiertas; hipotiroidismo, suprarrenal, hiponatremia → no cubiertas y son frecuentes en planta y guardia). Cobertura objetivo antes de junio: DM tipo 2, urgencias endocrinas, hipo/hipertiroidismo, hiponatremia/SIADH.
+
+### 5.1 Diabetes Mellitus tipo 2 — manejo crónico
+
+**Guías clínicas**
+- **ADA Standards of Care in Diabetes 2026** — *Diabetes Care* (anual). DOI cuando se publique el suplemento de enero 2026. ⚠️ Verificar disponibilidad de la edición 2026; provisional usar 2025 ([10.2337/dc25-S001](https://doi.org/10.2337/dc25-S001) y siguientes capítulos).
+  - EN / libre tras 12 meses. Referencia anual. Capítulos 6 (objetivos glucémicos), 9 (farmacoterapia), 10 (CV), 11 (renal).
+- **EASD/ADA Consensus Report on Management of Hyperglycaemia in T2D** — Davies MJ, Aroda VR, Collins BS et al. *Diabetologia.* 2022;65(12):1925-1966. DOI: [10.1007/s00125-022-05787-2](https://doi.org/10.1007/s00125-022-05787-2) ⚠️ verificar PMID.
+  - EN / libre. Algoritmo SGLT2i/GLP-1 RA primera línea cuando ASCVD/IC/ERC.
+- **Estrategia de Diabetes del SNS** — Ministerio Sanidad (revisión 2023). Documento accesible en sanidad.gob.es.
+  - ES / libre. Marco organizativo + objetivos AP.
+
+**Papers pivotales / metaanálisis**
+- **Sattar N et al.** Cardiovascular, mortality and kidney outcomes with GLP-1 RA in T2D: meta-analysis. *Lancet Diabetes Endocrinol.* 2021;9(10):653-662. DOI: [10.1016/S2213-8587(21)00203-5](https://doi.org/10.1016/S2213-8587(21)00203-5)
+  - GLP-1 RA reducen MACE, mortalidad CV y eventos renales.
+- **McGuire DK et al.** Association of SGLT2 inhibitors with cardiovascular and kidney outcomes: meta-analysis. *JAMA Cardiol.* 2021;6(2):148-158. DOI: [10.1001/jamacardio.2020.4511](https://doi.org/10.1001/jamacardio.2020.4511)
+  - SGLT2i reducen IC, mortalidad CV y progresión a ERC terminal.
+
+**Manuales / capítulos**
+- **Manual 12 de Octubre** 9.ª ed. — sección Endocrinología, capítulo DM.
+- **Williams Textbook of Endocrinology** 14.ª ed. (Elsevier, 2020) — cap. 35-36 DM2.
+
+**Orden sugerido:** ADA Standards (capítulos 6/9/10/11) → EASD/ADA Consensus 2022 → Manual 12 Oct.
+
+### 5.2 Urgencias hiperglucémicas: CAD y SHH
+
+**Guías clínicas**
+- **ADA/EASD Consensus on the Management of DKA and HHS in Adults** — Umpierrez GE, Davis GM, ElSayed NA et al. *Diabetes Care.* 2024;47(8):1257-1275. DOI: [10.2337/dci24-0032](https://doi.org/10.2337/dci24-0032)
+  - EN / libre. **Referencia actual.** Sustituye al consenso ADA 2009. Define umbrales pH, AG, β-OHB, fluidoterapia escalonada, insulina IV.
+- **ISPAD Clinical Practice Consensus Guidelines 2022** (cap. DKA en niños/adolescentes) — *Pediatr Diabetes.* 2022. Para pediatría/transición.
+
+**Papers pivotales**
+- **Kitabchi AE et al.** Hyperglycemic crises in adult patients with diabetes (ADA Position Statement). *Diabetes Care.* 2009;32(7):1335-43. DOI: [10.2337/dc09-9032](https://doi.org/10.2337/dc09-9032)
+  - Sigue siendo citada como base histórica aunque desplazada por ADA 2024.
+
+**Notas:** El consenso ADA 2024 redefine criterios (β-hidroxibutirato como gold-standard, no cetonuria), introduce el manejo de **DKA euglucémica** (SGLT2i, embarazo, ayuno).
+
+**Orden sugerido:** ADA/EASD 2024 → Manual 12 Oct para protocolo institucional.
+
+### 5.3 Patología tiroidea (hipo/hipertiroidismo + urgencias)
+
+**Guías clínicas**
+- **2016 ATA Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis** — Ross DS, Burch HB, Cooper DS et al. *Thyroid.* 2016;26(10):1343-1421. DOI: [10.1089/thy.2016.0229](https://doi.org/10.1089/thy.2016.0229)
+  - EN / libre. Graves, nodular tóxico, tiroiditis. Tormenta tiroidea con Burch-Wartofsky.
+- **2014 ATA Guidelines for Hypothyroidism in Adults** — Jonklaas J, Bianco AC, Bauer AJ et al. *Thyroid.* 2014;24(12):1670-1751. DOI: [10.1089/thy.2014.0028](https://doi.org/10.1089/thy.2014.0028)
+  - Levotiroxina, monitorización, embarazo, coma mixedematoso.
+- **ETA Guidelines on Subclinical Hypothyroidism** — Pearce SH et al. *Eur Thyroid J.* 2013;2(4):215-228. DOI: [10.1159/000356507](https://doi.org/10.1159/000356507)
+  - Europea de referencia para hipotiroidismo subclínico.
+- **ETA Guidelines: Management of Graves' Hyperthyroidism** — Kahaly GJ et al. *Eur Thyroid J.* 2018;7(4):167-186. DOI: [10.1159/000490384](https://doi.org/10.1159/000490384)
+
+**Papers pivotales**
+- **Burch HB, Wartofsky L.** Life-threatening thyrotoxicosis: thyroid storm. *Endocrinol Metab Clin North Am.* 1993;22(2):263-77. — Original Burch-Wartofsky score.
+
+**Manuales / capítulos**
+- **Manual 12 de Octubre** 9.ª ed. — Endocrinología, capítulo tiroides + urgencias.
+- **Williams Textbook of Endocrinology** 14.ª ed. — caps. 11-14.
+
+**Orden sugerido:** ATA 2016 (hiper) + ATA 2014 (hipo) → Manual 12 Oct → ETA si hay duda en europea.
+
+### 5.4 Insuficiencia suprarrenal aguda (crisis adrenal)
+
+**Guías clínicas**
+- **Endocrine Society Clinical Practice Guideline: Diagnosis and Treatment of Primary Adrenal Insufficiency** — Bornstein SR, Allolio B, Arlt W et al. *J Clin Endocrinol Metab.* 2016;101(2):364-389. DOI: [10.1210/jc.2015-1710](https://doi.org/10.1210/jc.2015-1710)
+  - EN / libre. Addison, fluidoterapia, hidrocortisona estrés.
+- **ESE/ESPE Guideline on Adrenal Insufficiency (Update)** — Husebye ES et al. *Eur J Endocrinol.* 2021 (revisar update más reciente).
+  - Europea, perspectiva ES.
+
+**Papers pivotales**
+- **Allolio B.** Extensive expertise in endocrinology: Adrenal crisis. *Eur J Endocrinol.* 2015;172(3):R115-R124. DOI: [10.1530/EJE-14-0824](https://doi.org/10.1530/EJE-14-0824)
+  - Revisión clásica del manejo agudo (100 mg hidrocortisona IV + fluidoterapia).
+
+**Manuales:** Manual 12 Oct + Williams Textbook of Endocrinology.
+
+### 5.5 Hiponatremia / SIADH
+
+**Guías clínicas**
+- **European Clinical Practice Guideline on the Diagnostic Approach and Treatment of Hyponatraemia** — Spasovski G, Vanholder R, Allolio B et al. *Eur J Endocrinol.* 2014;170(3):G1-G47. DOI: [10.1530/EJE-13-1020](https://doi.org/10.1530/EJE-13-1020)
+  - ESE/ERA-EDTA/ESICM. Marco europeo. Hipertónica salina, vaptanes, tolvaptán.
+- **2024 update revisión** ⚠️ por confirmar; consultar Werboff/Verbalis update.
+
+**Papers pivotales**
+- **Verbalis JG et al.** Diagnosis, evaluation, and treatment of hyponatremia: expert panel recommendations. *Am J Med.* 2013;126(10 Suppl 1):S1-42. DOI: [10.1016/j.amjmed.2013.07.006](https://doi.org/10.1016/j.amjmed.2013.07.006)
+
+**⚠️ Hueco:** no localizo guía española dedicada — usar marco europeo 2014.
+
+### 5.6 Otras (cobertura "si sobra tiempo")
+
+- **Hipo/hiperpotasemia y otras alteraciones iónicas:** ya cubierto en `30_Urgencias/Ionico_AcidoBase/` — verificar consistencia con la nueva nota de hiponatremia.
+- **Hipo/hipercalcemia:** Endocrine Society + protocolo Manual 12 Oct.
+- **Feocromocitoma / incidentaloma suprarrenal:** Endocrine Society 2014 (Lenders) y AACE.
 
 ---
 
