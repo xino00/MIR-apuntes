@@ -1,7 +1,9 @@
 ---
 aliases: [NAC, Neumonía, Neumonía adquirida en la comunidad, Neumonía comunitaria]
 tags: [urgencias, neumo, infecciosas, patologia]
+fuente: "Manual 12 Octubre 2022 (cap. 67) + SEPAR-SEIMC NAC 2018 + IDSA/ATS CAP 2019"
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md y 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"
+last_fact_checked: 2026-05-19
 ---
 # Neumonía Adquirida en la Comunidad (NAC)
 
@@ -23,11 +25,12 @@ fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencia
 - Escala FINE-PSI
 - Escala CURB-65
 
-**Etiología más frecuente:**
-- M. pneumoniae (16%)
-- S. pneumoniae (14%)
+**Etiología más frecuente** (NAC ambulatoria, datos protocolo FJD):
+- **S. pneumoniae** (14%) — sigue siendo el patógeno bacteriano #1
+- M. pneumoniae (16%) — predomina en epidemias y < 40 años
 - Virus (15%)
 - C. pneumoniae (12%)
+- Legionella (1-5%) — en formas graves
 - Ancianos: H. influenzae
 - EPOC: H. influenzae y Moraxella catarrhalis, bacteriemias por S. pneumoniae
 
@@ -36,9 +39,10 @@ fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencia
 **Antibiótico según perfil clínico:**
 
 Neumonía típica (<65 años, sin comorbilidades, no EPOC):
-- 1ª elección: Amoxicilina 1 g cada 8 h x 5 días
-- Si elevada sospecha de gérmenes atípicos: Azitromicina 500 mg/día x 3 días
-- Alérgicos a betalactámicos: Levofloxacino 500 mg/día x 5 días
+- **1ª elección:** Amoxicilina/Clavulánico 875/125 mg cada 8 h **+ Azitromicina 500 mg/día × 3-5 días** (cobertura de atípicos obligatoria — SEPAR-SEIMC 2018, IDSA/ATS 2019, Manual 12 Oct 2022)
+- **Alternativa monoterapia:** Levofloxacino 500 mg/24h × 5 días (si alergia o sospecha alta de atípicos)
+- **Amoxicilina 1 g/8h sola sin macrólido:** admisible solo en jóvenes < 50 años con baja sospecha de atípicos y comorbilidades nulas; no es esquema preferente.
+- **Alérgicos a betalactámicos:** Levofloxacino 500 mg/día × 5 días
 
 Neumonía atípica / paciente frágil (>65 años, comorbilidades, EPOC, institucionalizados o >3 ciclos de antibiótico en el último año):
 - 1ª elección: Amoxicilina/Clavulánico 875/125 mg cada 8 h x 7 días
@@ -94,9 +98,10 @@ Neumonía adquirida en la comunidad confirmada radiológicamente. No criterios d
 ********Antibiótico según perfil clínico:**
 Neumonía típica
 (<65 años, sin comorbilidades, no EPOC):
-1ª elección: Amoxicilina 1 g cada 8 h x 5 días
-Si elevada sospecha de gérmenes atípicos: Azitromicina 500 mg/día x 3 días
-Alérgicos a betalactámicos: Levofloxacino 500 mg/día x 5 días
+1ª elección: Amoxicilina/Clavulánico 875/125 mg/8h + Azitromicina 500 mg/día × 3-5 días (cobertura atípicos obligatoria)
+Alternativa monoterapia: Levofloxacino 500 mg/24h × 5 días
+Amoxicilina 1 g/8h sola: solo en jóvenes < 50 años sin comorbilidades y baja sospecha atípicos
+Alérgicos a betalactámicos: Levofloxacino 500 mg/día × 5 días
 Neumonía atípica / paciente frágil
 (>65 años, comorbilidades, EPOC, institucionalizados o >3 ciclos de antibiótico en el último año):
 1ª elección: Amoxicilina/Clavulánico 875/125 mg cada 8 h x 7 días
@@ -106,12 +111,13 @@ Alérgicos: Levofloxacino 500 mg/día x 7 días
 
 ## NEUMONÍA ADQUIRIDA EN LA COMUNIDAD
 ### ETIOLOGÍA MÁS FRECUENTE
-M. pneumoniae (16%)
-S. pneumoniae (14%)
+S. pneumoniae (14%) — patógeno bacteriano #1
+M. pneumoniae (16%) — epidemias y < 40 años
 Virus (15%)
 C. pneumoniae (12%)
-Ancianos: H. influenzae.
-EPOC: H. influenzae y Morazella catarrhalis, bacteriemas por S. penumoniae
+Legionella (1-5%) — formas graves
+Ancianos: H. influenzae
+EPOC: H. influenzae y Moraxella catarrhalis, bacteriemias por S. pneumoniae
 ### DIAGNÓSTICO
 SOSPECHA CLÍNCIA: Infección de vias bajas+ fiebre >38ºC, tos expectoración, dolor torácico, disnea, taquipnea, auscultación de ocupación alveolar.
 ANALÍTICA: SatO2, hemograma, bioquímica + función renal, hepática y electrolitos.
