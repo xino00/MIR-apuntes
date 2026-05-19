@@ -1,153 +1,63 @@
 ---
 aliases: [MOC Urgencias, Urgencias]
 tags: [moc, urgencias]
-description: "Hub central de urgencias: algoritmos vitales, iones, ácido-base y urgencias por especialidad"
+description: "Hub de urgencias generales: presentaciones sindrómicas transversales y algoritmos vitales. Para urgencias de una especialidad concreta, abrir su MOC."
 ---
 
 # 🚨 MOC - Urgencias
 
----
-
-## ⚡ Algoritmos y Soporte Vital
-
-- [[Algoritmo de PCR Avanzada (Soporte Vital Avanzado)|RCP Avanzada (SVA)]]
-- [[Shock]]
-- [[Insuficiencia Respiratoria Aguda (IRA)]]
-- [[Síndrome de Distrés Respiratorio Agudo (SDRA)]]
+> Solo presentaciones **transversales** y **algoritmos vitales**.
+> Las urgencias específicas de cada especialidad viven en su MOC correspondiente.
 
 ---
 
-## 🔴 Patología Aguda Cross-Specialty
+## ⚡ Algoritmos vitales / SVA
 
-- [[Dolor Torácico - Abordaje y Triaje]]
-- [[Dolor Torácico - Perfiles Clínicos]]
-- [[Disnea Aguda - Evaluación Urgente]]
-
----
-
-## 🧪 Trastornos Iónicos y Ácido-Base
-
-- [[Trastornos Ácido-Base - 1. Lectura Sistemática]]
-- [[Trastornos Ácido-Base - 2. Acidosis Metabólica]]
-- [[Trastornos Ácido-Base - 3. Alcalosis Metabólica]]
-- [[Trastornos Ácido-Base - 4. Trastornos Respiratorios]]
-- [[Hiponatremia]]
-- [[Hipernatremia]]
-- [[Hipopotasemia]]
-- [[Hiperpotasemia]]
-- [[Trastornos del Calcio y Magnesio]]
+- [[Algoritmo de PCR Avanzada (Soporte Vital Avanzado)|RCP Avanzada (SVA)]] — algoritmo completo de paro cardiorrespiratorio
+- [[Perlas y errores]] — pitfalls y aprendizajes prácticos de guardia
 
 ---
 
-## 🫀 Urgencias por Especialidad
+## 🔴 Presentaciones sindrómicas transversales
 
-**Cardiología**
-- [[Insuficiencia cardiaca aguda]]
-- [[Fibrilación Auricular (FA)]]
-- [[Arritmias]]
-- [[Síncope]]
-- [[Pericarditis Aguda]]
-- [[TEP - Tromboembolismo Pulmonar]]
-- [[Taponamiento Cardiaco]]
-- [[SCA - Evaluación Inicial y Clasificación]] · [[SCA - Tratamiento Médico]] · [[SCA - Reperfusión y Revascularización]] · [[SCA - Complicaciones y Shock Cardiogénico]]
-- [[Hipertensión Resistente y Crisis Hipertensiva|Crisis Hipertensiva]]
+- [[Shock]] — algoritmo unificado (séptico · cardiogénico · hipovolémico · distributivo · obstructivo)
+- [[Dolor Torácico - Abordaje y Triaje]] — triaje inicial, ECG, troponina
+- [[Dolor Torácico - Perfiles Clínicos]] — perfiles isquémico · pleurítico · aórtico · digestivo · osteomuscular
+- [[Disnea Aguda - Evaluación Urgente]] — diferencial cardio vs pulmonar vs metabólica
+- [[Anafilaxia en Adultos]] — reconocimiento, adrenalina IM, observación
+- [[Mareo y Vértigo - Abordaje Diagnóstico]] — anamnesis estructurada TiTrATE/ATTEST, clasificación Bárány
+- [[Vértigo en Urgencias]] — manejo agudo del síndrome vestibular: HINTS, Dix-Hallpike, maniobras Epley
 
-**Neumología**
-- [[Asma - Crisis Asmática]]
-- [[EPOC - Exacerbación y Manejo Agudo]]
-
-**Digestivo**
-- [[01_Dolor_Abdominal_Generalidades_y_Causas|Dolor Abdominal - Generalidades y Causas]]
-- [[02_Dolor_Abdominal_Anamnesis_y_Exploracion|Dolor Abdominal - Anamnesis y Exploración]]
-- [[03_Dolor_Abdominal_Pruebas_Complementarias|Dolor Abdominal - Pruebas Complementarias]]
-- [[04_Dolor_Abdominal_Manejo_y_Tratamiento|Dolor Abdominal - Manejo y Tratamiento]]
-
-**Nefrología**
-- [[Fracaso Renal Agudo (FRA)]]
-- [[ITU - Abordaje Inicial y Cistitis]]
-- [[Pielonefritis Aguda]]
-- [[Prostatitis Aguda]]
-
-**Infecciosas**
-- [[Sepsis - Abordaje Inicial (SSC 2026)|Sepsis - Abordaje Inicial]]
-- [[Sepsis - Hemodinámica y Reanimación]]
-- [[Sepsis - Antiinfecciosos y Soporte Vital]]
-
-**Neurología**
-- [[Ictus Isquémico]] (Código Ictus)
-- [[Hemorragia Intracerebral]]
-- [[Hemorragia Subaracnoidea]]
-- [[Trombosis Venosa Cerebral]]
-- [[TCE Grave]]
-- [[Status Epiléptico]]
-- [[Meningitis y Encefalitis]]
-- [[Crisis Miasténica]]
-- [[Síndrome de Guillain-Barré]]
-- [[Coma y Bajo Nivel de Conciencia]]
-- [[Hipertensión Intracraneal]]
-- [[Encefalopatías Metabólicas y Tóxicas]]
-- [[Síndrome Confusional Agudo]]
-- [[Vértigo en Urgencias]]
-- [[Síncope Neurológico]]
-- [[Brote de Esclerosis Múltiple]]
-- [[Mielopatías Agudas]]
-- [[Síndrome Neuroléptico Maligno]]
-- [[Cefaleas - Abordaje Inicial]]
-- [[Cefaleas - Situaciones Especiales y Neuralgias]]
-
-**Endocrinología**
-- [[Cetoacidosis Diabética (CAD)]]
-- [[Síndrome Hiperglucémico Hiperosmolar (SHH)]]
-- [[Hiperglucemia Simple]]
-
-**ORL**
-- [[Epistaxis]]
-- [[Faringoamigdalitis Aguda]]
-- [[Odontalgia y Flemón Dental]]
-- [[Otitis Media Aguda (OMA)]]
-- [[Laringitis Aguda]]
-
-**Urología**
-- [[Cólico Renoureteral]]
-- [[Retención Aguda de Orina (RAO)]]
-- [[Escroto Agudo y Orquiepididimitis]]
-- [[Hematuria]]
-
-**Traumatología**
-- [[Esguince de Tobillo]]
-- [[Lumbalgia]]
-- [[Lumbociática]]
-- [[Gonalgia y Lesión Ligamentosa de Rodilla]]
-- [[Contusión y Fractura Costal]]
-- [[Heridas y Suturas]]
-
-**Dermatología**
-- [[Urticaria Aguda]]
-- [[Herpes Zóster]]
-- [[Sarna - Escabiosis]]
-
-**Psiquiatría**
-- [[Agitacion Psicomotriz en Urgencias|Agitación Psicomotriz en Urgencias]]
-- [[Intento Autolitico - Valoracion y Manejo|Intento Autolítico - Valoración y Manejo]]
-- [[Psicosis Aguda y Esquizofrenia]]
-- [[Delirium Tremens y Abstinencia Alcoholica|Delirium Tremens y Abstinencia Alcohólica]]
-- [[Crisis de Ansiedad]]
+> [!note] Sepsis
+> El bloque de sepsis vive en [[MOC - INFECCIOSAS]] por su raíz etiológica, pero es un síndrome transversal de guardia: [[Sepsis - Abordaje Inicial (SSC 2026)|Sepsis - Abordaje Inicial]] · [[Sepsis - Hemodinámica y Reanimación]] · [[Sepsis - Antiinfecciosos y Soporte Vital]].
 
 ---
 
-## 🦴 Exploración Física
+## 📍 Acceso rápido a MOCs de especialidad
 
-- [[Exploración de Rodilla]]
-- [[Exploración de Tobillo y Antepié]]
-- [[Perlas y errores]]
+Para urgencias específicas de una especialidad, abrir directamente su MOC:
+
+[[MOC - CARDIOLOGIA]] · [[MOC - NEUMOLOGIA]] · [[MOC - INFECCIOSAS]] · [[MOC - NEUROLOGIA]] · [[MOC - DIGESTIVO]] · [[MOC - NEFROLOGIA]] · [[MOC - ENDOCRINO]] · [[MOC - ORL]] · [[MOC - UROLOGIA]] · [[MOC - TRAUMATOLOGIA]] · [[MOC - DERMATOLOGIA]] · [[MOC - PSIQUIATRIA]] · [[MOC - HEMATOLOGIA]] · [[MOC - REUMATOLOGIA]]
+
+Adicionalmente: [[MOC - FARMACOS]] (fármacos por clase terapéutica).
+
+> [!tip] Trastornos iónicos y ácido-base
+> Las notas de hipo/hiperNa, K, Ca/Mg y trastornos ácido-base están agrupadas en [[MOC - NEFROLOGIA]] aunque sean uso cotidiano de guardia.
+
+---
+
+## 📋 Sindrómicas pendientes (roadmap)
+
+Presentaciones transversales que el vault aún no cubre como nota sindrómica única (existen notas relacionadas pero falta consolidación):
+
+- **Síncope transversal** — actualmente: [[Síncope]] (cardio) + [[Síncope Neurológico]]
+- **Cefalea aguda en urgencias** — actualmente: [[Cefaleas - Abordaje Inicial]] + [[CEFALEA con signos de alarma]]
+- **Abdomen agudo** — actualmente: 4 notas Dolor Abdominal en [[MOC - DIGESTIVO]]
+- **Fiebre sin foco en urgencias** — no cubierto
+- **Hemorragia digestiva alta/baja** — existe parcial en digestivo
 
 ---
 
 ## 📖 Referencias
-- Manual 12 de Octubre 2022 (9ª ed.) — PDF en `Libros y referencias/`
 
----
-### 📥 Por clasificar (auto-añadidas por /organize)
-*Reorganizar en las secciones temáticas correctas y borrar este bloque.*
-
-- [[Anafilaxia en Adultos]]
+- Manual 12 de Octubre 2022 (9ª ed.) — `Libros y referencias/01_General/Manual 12 Octubre 2022.pdf`
