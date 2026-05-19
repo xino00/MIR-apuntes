@@ -245,7 +245,6 @@ Fecha de generación: 2026-04-22.
 
 ## Manuales sin ISBN verificado
 
-- **AMIR Psiquiatría** — ISBN variable por edición; verificar al comprar (Casa del Libro / Amazon).
 - **Manual 12 de Octubre 9ª ed.** — ISBN 978-84-09-38572-8 ⚠️ **confirmar en el ejemplar físico del vault** antes de citar externamente.
 
 ---
