@@ -53,6 +53,9 @@ Manual_Urgencias_neurologicas_2023_DIGITAL.pdf
 # Herramientas binarias locales (no versionadas)
 xpdf/
 
+# Markdown extraído de PDFs de referencia (cache local para grep/Read de Claude — el PDF es la fuente de verdad en LFS)
+Libros y referencias/**/*.md
+
 # Temporary text files
 *.txt
 !.github/robots.txt
