@@ -143,17 +143,17 @@ La pérdida de conocimiento se produce por **caída de la PA** (debida a bajo ga
 
 **Características del episodio según etiología:**
 
-| | Reflejo | Ortostático | Cardíaco |
-|---|---|---|---|
-| **Posición** | Bipedestación | Bipedestación | Decúbito o sentado |
-| **Actividad** | Cuello, micción, defecación, tos | Cambio postural reciente (< 5 min) | Esfuerzo o reposo |
-| **Ambiente** | Mal ventilados, calurosos, abarrotados, estrés | Posprandial | — |
-| **Pródromos** | Calor, náuseas, visión borrosa, mareo | Debilidad | Palpitaciones, dolor torácico **o sin pródromos** |
-| **Caída** | Apoyo (manos/rodillas) | Apoyo (manos/rodillas) | **Brusca** (traumatismo frecuente) |
-| **Color piel** | Palidez y rubor | — | — |
-| **Duración** | Segundos a minutos | — | — |
-| **Movimientos** | Mioclonías, relajación esfínteres | — | — |
-| **Recuperación** | Completa y precoz | — | — |
+|                  | Reflejo vasovagal                              | Ortostático                        | Cardíaco                                          |
+| ---------------- | ---------------------------------------------- | ---------------------------------- | ------------------------------------------------- |
+| **Posición**     | Bipedestación                                  | Bipedestación                      | Decúbito o sentado                                |
+| **Actividad**    | Cuello, micción, defecación, tos               | Cambio postural reciente (< 5 min) | Esfuerzo o reposo                                 |
+| **Ambiente**     | Mal ventilados, calurosos, abarrotados, estrés | Posprandial                        | —                                                 |
+| **Pródromos**    | Calor, náuseas, visión borrosa, mareo          | Debilidad                          | Palpitaciones, dolor torácico **o sin pródromos** |
+| **Caída**        | Apoyo (manos/rodillas)                         | Apoyo (manos/rodillas)             | **Brusca** (traumatismo frecuente)                |
+| **Color piel**   | Palidez y rubor                                | —                                  | —                                                 |
+| **Duración**     | Segundos a minutos                             | —                                  | —                                                 |
+| **Movimientos**  | Mioclonías, relajación esfínteres              | —                                  | —                                                 |
+| **Recuperación** | Completa y precoz                              | —                                  | —                                                 |
 
 ### Pruebas complementarias iniciales
 

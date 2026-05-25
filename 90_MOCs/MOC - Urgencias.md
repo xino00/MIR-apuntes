@@ -44,8 +44,6 @@ Para urgencias específicas de una especialidad, abrir directamente su MOC:
 
 Adicionalmente: [[MOC - FARMACOS]] (fármacos por clase terapéutica).
 
-> [!tip] Trastornos iónicos y ácido-base
-> Las notas de hipo/hiperNa, K, Ca/Mg y trastornos ácido-base están agrupadas en [[MOC - NEFROLOGIA]] aunque sean uso cotidiano de guardia.
 
 ---
 
