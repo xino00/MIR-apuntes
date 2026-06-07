@@ -21,7 +21,7 @@ aliases:
 
 ### Recomendaciones Clave:
 - **Cobertura Empírica Dirigida:** Limitar la cobertura frente a multirresistentes (MDR) (ej. *MRSA*, *Cándida*, Anaerobios) **sólo a pacientes con factores de riesgo** evidentes (hospitalización prolongada, inmunosupresión, etc.).
-- **Infusión de Betalactámicos (Rec. 33, Revisada ⬆):** **Recomendación FUERTE** (evidencia moderada, ensayo BLING III) para la **infusión prolongada / continua** de los betalactámicos tras administrar la dosis de carga inicial. Reduce mortalidad a corto plazo (RR 0.91; 25 muertes menos por cada 1000 pacientes). Priorizar en betalactámicos de vida media corta (piperacilina-tazobactam, carbapenems).
+- **Infusión de Betalactámicos (Rec. 33, Revisada ⬆):** **Recomendación FUERTE** (evidencia moderada, ensayo BLING III) para la **infusión prolongada / continua** de los betalactámicos tras administrar la dosis de carga inicial. Reduce mortalidad a corto plazo (RR 0.91; 25 muertes menos por cada 1000 pacientes). Priorizar en betalactámicos de vida media corta (piperacilina-tazobactam, carbapenems). ADJUNTAR AQUI FOTO
 - **Desescalamiento (Rec. 36):** **Recomendación fuerte:** Desescalar los antibióticos en cuanto se disponga de la confirmación microbiológica y antibiograma. También desescalar si no se aíslan patógenos y el paciente mejora (Rec. 37).
 - **Biomarcadores:** La Procalcitonina (PCT) se reserva, junto a la clínica, para guiar la **suspensión** de la terapia, no para el inicio (Rec. 40).
 
@@ -38,6 +38,7 @@ aliases:
 - **Tests Rápidos Patógeno-Específicos (Rec. 31, NUEVA):** Se sugiere usar tests diagnósticos rápidos (PCR molecular, paneles sindrómicos, detección de resistencias) **caso a caso** en pacientes seleccionados, según clínica, patógenos locales, estacionalidad y guías de stewardship.
 - **Biomarcadores de Cándida (Rec. 32, NUEVA):** Se sugiere **en contra** de usar (1,3)-β-D-glucano para guiar el **inicio** de antifúngico empírico.
 - **Biomarcadores de Cándida para suspensión (Rec. 38, NUEVA):** Se sugiere **en contra** de usar biomarcadores de Cándida para guiar la **suspensión** del antifúngico empírico.
+- **BUSCAR Cultivos previos**
 
 ### Antibioterapia Empírica — Protocolo 12 de Octubre (Foco desconocido)
 
