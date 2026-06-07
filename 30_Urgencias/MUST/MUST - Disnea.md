@@ -1,8 +1,8 @@
 ---
 tags: [urgencias, must, guardia, disnea]
 aliases: [MUST Disnea, Disnea guardia R1]
-fuente: "Manual 12 de Octubre 2022 (cap. 22 y 13) + notas del vault"
-fecha: 2026-06-07
+fuente: "Manual 12 de Octubre 2022 (cap. 22 y 13) + guías ESC (IC, TEP) + notas del vault"
+fecha: 2026-06-08
 ---
 MUST DISNEA — URGENCIAS
 
@@ -97,9 +97,9 @@ Pide de entrada (indicadas en la gran mayoría de las disneas agudas):
 - Analítica con hemograma y bioquímica: anemia, función renal, iones, glucosa; TSH si sospecha tiroidea.
 
 Biomarcadores dirigidos por la sospecha:
-- Péptidos natriuréticos (BNP / NT-proBNP) si sospechas insuficiencia cardíaca. Orientación en IC aguda (Manual 12 Octubre, tabla 3): NT-proBNP < 300 pg/ml hace la IC improbable; probable si > 450 (menor de 50 años), > 900 (50-70 años) o > 1.800 (mayor de 70 años). BNP < 100 improbable, > 400 probable. En obesidad los puntos de corte bajan en torno a un 50%.
+- Péptidos natriuréticos (BNP / NT-proBNP) si sospechas insuficiencia cardíaca. Rule-out en IC aguda: NT-proBNP < 300 pg/ml o BNP < 100 hacen la IC improbable. Rule-in por edad (ESC 2021, solo para NT-proBNP): probable si > 450 (< 50 años), > 900 (50-75 años) o > 1.800 (> 75 años). En contexto NO agudo (consulta, atención primaria) los cortes de rule-out son más bajos: NT-proBNP < 125 o BNP < 35. En obesidad los puntos de corte bajan en torno a un 50%.
 - Troponinas si sospechas SCA (seriadas; un valor normal aislado no lo excluye).
-- Dímero-D solo si la probabilidad de TEP es baja-intermedia (alto valor predictivo negativo). Si la probabilidad es alta, no lo pidas: ve directo a angio-TC.
+- Dímero-D solo si la probabilidad de TEP es baja-intermedia (alto valor predictivo negativo); en > 50 años usa el corte ajustado a edad (edad x 10 ng/ml) en lugar del fijo de 500. Si la probabilidad es alta, no lo pidas: ve directo a angio-TC.
 
 Imagen y segundo nivel según orientación:
 - Ecografía clínica a pie de cama (POCUS): rápida; útil para IC (líneas B), derrame, neumotórax y TEP (sobrecarga derecha).
@@ -118,4 +118,5 @@ ORIENTACIÓN RÁPIDA (asociaciones de alto rendimiento):
 FUENTES CONSULTADAS
 - Manual de Diagnóstico y Terapéutica Médica, Hospital Universitario 12 de Octubre, 9.a edición (2022): capítulo 22 "Disnea e insuficiencia respiratoria. SDRA" (tipos de disnea, signos de gravedad tabla 2, causas de disnea aguda tabla 1, pruebas complementarias y puntos de corte de péptidos natriuréticos tabla 3) y capítulo 13 (para el solapamiento con dolor torácico).
 - Nota del vault "Disnea Aguda - Evaluación Urgente" (basada en el mismo manual).
+- Actualización 2026 contrastada con guías: cortes de péptidos natriuréticos y bandas de edad (ESC 2021 insuficiencia cardíaca); dímero-D ajustado a edad en TEP (ESC 2019 / AHA-ACC 2026 embolia pulmonar).
 - Nota docente para R1 de guardia. No sustituye el juicio clínico ni los protocolos del centro.

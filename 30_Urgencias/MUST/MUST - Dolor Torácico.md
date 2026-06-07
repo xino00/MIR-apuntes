@@ -1,8 +1,8 @@
 ---
 tags: [urgencias, must, guardia, cardio]
 aliases: [MUST Dolor Torácico, Dolor torácico guardia R1]
-fuente: "Manual 12 de Octubre 2022 (cap. 13) + notas del vault"
-fecha: 2026-06-07
+fuente: "Manual 12 de Octubre 2022 (cap. 13) + guías ESC/ACC-AHA (SCA, TEP, aorta) + notas del vault"
+fecha: 2026-06-08
 ---
 MUST DOLOR TORÁCICO — URGENCIAS
 
@@ -94,11 +94,12 @@ ANTECEDENTES Y MEDICACIÓN (mira la historia y la receta electrónica)
 
 De entrada:
 - ECG de 12 derivaciones en menos de 10 minutos (ya hecho en el filtro). Amplía a derivaciones derechas (V3R-V4R) y posteriores (V7-V9) si sospechas infarto inferior o posterior. Un ECG normal NO excluye el SCA (hasta un 5%).
-- Marcadores de daño miocárdico (troponinas), seriados según la sospecha y los hallazgos del ECG. Un único valor normal precoz no descarta: hay que ver la curva.
+- Marcadores de daño miocárdico (troponinas): con troponina ultrasensible (hs-cTn) usa el algoritmo seriado 0/1 h (alternativa 0/2 h) valorando el valor basal y su variación (delta) para descartar o confirmar el infarto; con troponina convencional, el segundo control a las 3-6 h. Un único valor normal muy precoz no descarta.
 - Radiografía de tórax: aporta datos útiles en hasta el 20% (ensanchamiento mediastínico en el aórtico; neumotórax; condensación; derrame; cardiomegalia "en tetera" si hay derrame pericárdico).
 
 Dirigidas por la sospecha:
-- Dímero-D y angio-TC: para TEP o síndrome aórtico agudo según la probabilidad clínica (escalas de Wells o Geneva). La angio-TC de aorta es la prueba de elección en la sospecha de disección.
+- TEP: estima la probabilidad con Wells o Geneva. Si es baja/intermedia, pide dímero-D con el punto de corte ajustado a edad (edad x 10 ng/ml en > 50 años): por debajo de él se descarta TEP sin angio-TC. Si la probabilidad es alta, angio-TC directa.
+- Síndrome aórtico (disección): estratifica con el ADD-RS, que suma 1 punto por cada categoría con al menos un ítem presente: (1) condición de riesgo (Marfan u otra conectivopatía, antecedente familiar de enfermedad aórtica, valvulopatía aórtica, manipulación aórtica reciente, aneurisma conocido); (2) dolor de inicio brusco, intensidad severa o desgarrador; (3) déficit de pulso o asimetría de PAS, hipotensión o shock, o (solo si acompañan al dolor) un soplo de insuficiencia aórtica nuevo o un déficit neurológico focal. ADD-RS >= 2: angio-TC de aorta sin demora (prueba de elección). ADD-RS < 2: dímero-D + radiografía de tórax (un dímero-D < 500 ng/ml hace la disección improbable).
 - Ecocardiograma o POCUS: si hay inestabilidad o el diagnóstico es incierto, busca taponamiento, TEP masivo (sobrecarga derecha), disfunción ventricular o disección.
 
 PISTAS DE ECG Y RADIOGRAFÍA POR CAUSA (Manual 12 Octubre, tabla 1):
@@ -119,4 +120,5 @@ ORIENTACIÓN RÁPIDA POR PERFIL:
 FUENTES CONSULTADAS
 - Manual de Diagnóstico y Terapéutica Médica, Hospital Universitario 12 de Octubre, 9.a edición (2022): capítulo 13 "Dolor torácico. Síncope" (evaluación inicial y datos de gravedad, figura 1; perfiles clínicos, tablas 2 y 3; ECG y radiografía por causa, tabla 1).
 - Notas del vault "Dolor Torácico - Abordaje y Triaje" y "Dolor Torácico - Perfiles Clínicos" (basadas en el mismo manual).
+- Actualización 2026 contrastada con guías: troponina ultrasensible 0/1 h-0/2 h (ESC 2023 SCA; ACC/AHA 2025 SCA, Circulation 2025;151:e771); dímero-D ajustado a edad en TEP (ESC 2019 / AHA-ACC 2026 embolia pulmonar); ADD-RS para el síndrome aórtico (ESC 2024 enfermedad arterial periférica y aórtica).
 - Nota docente para R1 de guardia. No sustituye el juicio clínico ni los protocolos del centro.
