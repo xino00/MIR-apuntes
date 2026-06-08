@@ -1,122 +1,65 @@
----
-tags: [urgencias, must, guardia, disnea]
-aliases: [MUST Disnea, Disnea guardia R1]
-fuente: "Manual 12 de Octubre 2022 (cap. 22 y 13) + guías ESC (IC, TEP) + notas del vault"
-fecha: 2026-06-08
----
-MUST DISNEA — URGENCIAS
+DISNEA EN GUARDIA — GUÍA RÁPIDA PARA EL R1
 
-Documento docente para el R1 de guardia. Enfoque: valoración del paciente ESTABLE (anamnesis dirigida y orientación diagnóstica), una vez descartada la inestabilidad. El manejo terapéutico y el paciente inestable van por otra vía (box vital).
+Primero asegura vía aérea, oxigenación y ventilación; el diagnóstico exacto viene después. Esta guía te orienta con el paciente que respira pero está sintomático, y te dice cuándo el caso se te escapa de las manos.
 
 
-1. FILTRO DE INESTABILIDAD (CUÁNDO SALIR CORRIENDO A BUSCAR AL ADJUNTO)
+CUÁNDO AVISAR YA AL ADJUNTO O RESIDENTE MAYOR
 
-Antes de ninguna anamnesis: una mirada de 10 segundos + constantes. Si CUALQUIERA de estos signos está presente, el paciente NO es "estable": avisa al adjunto e inicia la alerta de vitales de inmediato. No te quedes solo con él.
-
-Constantes y signos vitales:
+Una mirada de 10 segundos y las constantes. Avisa de inmediato, y no te quedes solo con el paciente, si hay:
 - SpO2 < 90% pese a oxígeno, o desaturación progresiva.
-- FR > 30 rpm (taquipnea; > 40 rpm es extrema) o FR < 10 rpm (bradipnea por agotamiento).
-- PAS < 90 mmHg (hipotensión) o crisis hipertensiva extrema.
-- Taquicardia o bradicardia mal toleradas.
-
-Trabajo respiratorio y mecánica:
-- Uso de musculatura accesoria, tiraje, respiración abdominal paradójica.
-- Habla entrecortada (no completa frases) o intolerancia al decúbito (no puede tumbarse).
-- Cianosis central, diaforesis, mala perfusión periférica.
-
-Neurológico:
-- Alteración del nivel de consciencia: agitación (hipoxia) o somnolencia/obnubilación (hipercapnia), confusión.
-
-Contexto de alarma inmediata:
-- Estridor o sospecha de obstrucción de vía aérea superior (angioedema, anafilaxia, cuerpo extraño): emergencia de vía aérea, pide ayuda ya.
-- Dolor torácico o síncope que acompañan a la disnea.
-
-Regla práctica: disnea + cualquiera de estos datos = paciente de BOX VITAL. Tu MUST de "paciente estable" empieza solo cuando has descartado todo lo anterior.
+- FR > 30 rpm (taquipnea extrema si > 40) o FR < 10 rpm (agotamiento).
+- PAS < 90 mmHg o crisis hipertensiva extrema.
+- Trabajo respiratorio intenso: musculatura accesoria, respiración abdominal paradójica, habla entrecortada, no tolera el decúbito.
+- Cianosis central, mala perfusión, o alteración del nivel de consciencia (agitación hipóxica o somnolencia hipercápnica).
+- Estridor o sospecha de obstrucción de la vía aérea alta (angioedema, anafilaxia, cuerpo extraño): emergencia de vía aérea, pide ayuda ya.
+- Dolor torácico o síncope acompañando a la disnea.
 
 
-2. ANAMNESIS DIRIGIDA AL PACIENTE ESTABLE (EL ARTE DE PREGUNTAR)
+QUÉ PREGUNTAR
 
-Objetivo: en pocas preguntas, inclinar la balanza hacia cardíaco / pulmonar / pleural-mecánico / metabólico-tóxico / psicógeno.
-
-CRONOLOGÍA Y PERFIL TEMPORAL
-- ¿Desde cuándo? ¿Apareció en segundos, minutos, horas o días?
-  - Súbita (segundos-minutos): orienta a TEP, neumotórax, edema agudo de pulmón, arritmia o aspiración/cuerpo extraño.
-  - Horas-días: orienta a infección respiratoria, EPOC o asma agudizados, derrame, insuficiencia cardíaca.
-  - Más de 4-8 semanas: pensar en disnea crónica (anemia, intersticial, derrame, etc.) o crónica reagudizada.
-- ¿Es la primera vez o ya le ha pasado? ¿Cómo se resolvió? La recurrencia orienta a asma/EPOC/IC conocidas.
-- ¿Es continua o en crisis? ¿Empeora a lo largo del día?
-
-CARACTERÍSTICAS DEL SÍNTOMA (la postura y los desencadenantes son muy rentables en disnea)
-- ¿Empeora al tumbarse, ortopnea? ¿Cuántas almohadas usa para dormir? Orienta a insuficiencia cardíaca o parálisis diafragmática.
-- ¿Se despierta de noche ahogado y tiene que sentarse, disnea paroxística nocturna? Típico (no exclusivo) de IC.
-- ¿Aparece al agacharse a ponerse los zapatos, bendopnea? Sugiere presiones de llenado altas en IC avanzada.
-- ¿Empeora de pie y mejora tumbado, platipnea? Orienta a shunt derecha-izquierda o síndrome hepatopulmonar.
-- ¿Solo en decúbito de un lado, trepopnea? Derrame unilateral o parálisis diafragmática.
-- Relación con el esfuerzo: ¿en reposo o solo al caminar? Cuantifica (cuántos metros o pisos aguanta; escalas mMRC o NYHA).
-- ¿Pitos o sibilancias audibles? Orienta a obstrucción bronquial (asma, EPOC).
-
-SÍNTOMAS ACOMPAÑANTES INDISPENSABLES (revisión por sistemas dirigida)
-- Dolor torácico: pleurítico (TEP, neumotórax, neumonía) frente a opresivo (SCA, equivalente anginoso).
-- Tos y expectoración: purulenta con fiebre = infección; rosada y espumosa = edema agudo de pulmón; hemoptisis = TEP, neoplasia o infección.
-- Fiebre y escalofríos: neumonía, infección respiratoria.
-- Ortopnea + edemas en piernas + nicturia: insuficiencia cardíaca.
-- Dolor e hinchazón de UNA pierna: sospecha de TVP (apoya TEP).
-- Palpitaciones: arritmia.
-- Ansiedad, parestesias peribucales y en manos, suspiros: orienta a hiperventilación (siempre diagnóstico de exclusión).
-- Astenia intensa, palidez, sangrado: anemia aguda.
-
-ANTECEDENTES Y MEDICACIÓN (mira la historia y la receta electrónica)
-- Cardiopatía conocida, insuficiencia cardíaca, fibrilación auricular, valvulopatía, cardiopatía isquémica.
-- EPOC, asma, tabaquismo (paquetes-año), exposición ocupacional, oxigenoterapia domiciliaria.
-- Enfermedad tromboembólica previa, cáncer, cirugía o inmovilización reciente, viaje largo (riesgo de TEP).
-- Insuficiencia renal, diabetes (cetoacidosis), anemia, patología tiroidea.
-- Fármacos: diuréticos (¿los toma?, ¿los ha dejado?), betabloqueantes, adherencia al inhalador, anticoagulación.
-- Posible exposición a monóxido de carbono (braseros, estufas, calderas), sobre todo si hay varios convivientes afectados o cefalea asociada.
+La meta es orientar hacia cardíaco, pulmonar, pleural-mecánico, metabólico o psicógeno.
+- Tiempo: súbita en segundos-minutos orienta a TEP, neumotórax, edema agudo de pulmón, arritmia o cuerpo extraño; en horas-días, a infección respiratoria, EPOC o asma agudizados, derrame o insuficiencia cardíaca. ¿Es la primera vez o ya le ha pasado?
+- Postura y esfuerzo (muy rentables): ¿empeora al tumbarse (ortopnea) o se despierta de noche ahogado y tiene que sentarse (disnea paroxística nocturna)? Orienta a insuficiencia cardíaca. ¿Cuánto esfuerzo aguanta? ¿Oye pitos? Orienta a broncoespasmo.
+- Síntomas acompañantes: dolor pleurítico (TEP, neumotórax, neumonía); tos con fiebre y esputo purulento (infección) o esputo rosado y espumoso (edema agudo de pulmón); hemoptisis (TEP, neoplasia, infección); dolor e hinchazón de UNA pierna (TVP, que apoya TEP); ortopnea con edemas y nicturia (insuficiencia cardíaca); ansiedad con parestesias y suspiros (hiperventilación, siempre por exclusión).
+- Antecedentes y medicación: cardiopatía, IC, fibrilación auricular, EPOC, asma, tabaquismo, oxigenoterapia domiciliaria, enfermedad tromboembólica o cáncer, diabetes (cetoacidosis), anemia, insuficiencia renal. ¿Toma o ha dejado diuréticos, inhaladores o anticoagulación? Posible exposición a monóxido de carbono (braseros, varios convivientes con cefalea). Revisa la receta electrónica.
 
 
-3. EXPLORACIÓN FÍSICA FOCALIZADA (menos de 2 minutos)
+QUÉ EXPLORAR (menos de 2 minutos)
 
-Recuerda: la exploración tiene sensibilidad y especificidad limitadas; un examen normal NO descarta enfermedad.
-- Inspección: patrón y FR contando 30 segundos, trabajo respiratorio, cianosis, ingurgitación yugular (IC, taponamiento, cor pulmonale).
-- Auscultación pulmonar:
-  - Sibilancias espiratorias difusas: asma o EPOC.
-  - Crepitantes bibasales: edema agudo de pulmón o IC; si son focales con fiebre, neumonía.
-  - Hipofonesis unilateral con matidez: derrame pleural. Hipofonesis con timpanismo: neumotórax.
-- Auscultación cardíaca: ritmo (arritmia), soplos (valvulopatía), tercer ruido o galope (IC), roce.
-- Miembros inferiores: edemas simétricos con fóvea (IC) frente a empastamiento unilateral doloroso (TVP).
-- Piel y perfusión: relleno capilar, frialdad, sudoración.
-- Si sospecha de vía aérea alta: mirar orofaringe, úvula y cuello (angioedema).
+Recuerda: una exploración normal NO descarta enfermedad.
+- Cuenta la FR durante 30 segundos; mira el trabajo respiratorio, la cianosis y la ingurgitación yugular (IC, taponamiento, cor pulmonale).
+- Auscultación pulmonar: sibilancias espiratorias difusas (asma o EPOC); crepitantes bibasales (edema agudo de pulmón o IC) o focales con fiebre (neumonía); hipofonesis unilateral con matidez (derrame) o con timpanismo (neumotórax).
+- Auscultación cardíaca: ritmo (arritmia), soplos, tercer ruido o galope (IC).
+- Piernas: edemas simétricos con fóvea (IC) frente a empastamiento unilateral doloroso (TVP).
+- Si sospechas vía aérea alta: mira orofaringe, úvula y cuello (angioedema).
 
 
-4. PRUEBAS DE PRIMER NIVEL Y SOSPECHAS DIAGNÓSTICAS
+QUÉ PRUEBAS PEDIR
 
-Pide de entrada (indicadas en la gran mayoría de las disneas agudas):
-- Pulsioximetría y gasometría (arterial o venosa): hipoxemia, hipercapnia y estado ácido-base. Una acidosis metabólica con disnea y pulmón limpio orienta a cetoacidosis, sepsis o intoxicación.
-- ECG de 12 derivaciones: arritmia, isquemia (SCA como equivalente anginoso) y, en el TEP, lo más frecuente es la taquicardia sinusal; los signos de sobrecarga derecha (S1Q3T3, T negativas de V1 a V4) aparecen solo en los casos graves, así que un ECG sin ellos no descarta TEP. Si el ECG es completamente normal y el BNP/NT-proBNP es bajo, el origen cardíaco es improbable.
-- Radiografía de tórax: condensación (neumonía), redistribución/líneas B/derrame (IC), neumotórax, masa. Una radiografía normal NO excluye TEP, asma grave ni acidosis.
-- Analítica con hemograma y bioquímica: anemia, función renal, iones, glucosa; TSH si sospecha tiroidea.
-
-Biomarcadores dirigidos por la sospecha:
-- Péptidos natriuréticos (BNP / NT-proBNP) si sospechas insuficiencia cardíaca. Rule-out en IC aguda: NT-proBNP < 300 pg/ml o BNP < 100 hacen la IC improbable. Rule-in por edad (ESC 2021, solo para NT-proBNP): probable si > 450 (< 50 años), > 900 (50-75 años) o > 1.800 (> 75 años). En contexto NO agudo (consulta, atención primaria) los cortes de rule-out son más bajos: NT-proBNP < 125 o BNP < 35. En obesidad los puntos de corte bajan en torno a un 50%.
-- Troponinas si sospechas SCA (seriadas; un valor normal aislado no lo excluye).
-- Dímero-D solo si la probabilidad de TEP es baja-intermedia (alto valor predictivo negativo); en > 50 años usa el corte ajustado a edad (edad x 10 ng/ml) en lugar del fijo de 500. Si la probabilidad es alta, no lo pidas: ve directo a angio-TC.
-
-Imagen y segundo nivel según orientación:
-- Ecografía clínica a pie de cama (POCUS): rápida; útil para IC (líneas B), derrame, neumotórax y TEP (sobrecarga derecha).
-- Angio-TC torácica o gammagrafía de ventilación/perfusión: confirmación de TEP.
-- Espirometría con test broncodilatador (en circuito no urgente): patrón obstructivo reversible (asma) frente a no reversible (EPOC).
-
-ORIENTACIÓN RÁPIDA (asociaciones de alto rendimiento):
-- Súbita + dolor pleurítico + factores de riesgo: TEP o neumotórax.
-- Ortopnea + crepitantes + edemas + NT-proBNP alto: insuficiencia cardíaca o edema agudo de pulmón.
-- Sibilancias + antecedente de asma/EPOC + desencadenante: broncoespasmo.
-- Fiebre + tos + condensación: neumonía.
-- Gasometría con acidosis metabólica y pulmón limpio: cetoacidosis, sepsis o tóxicos.
-- Todo normal + perfil ansioso + parestesias: hiperventilación (diagnóstico de exclusión).
+- Pulsioximetría y gasometría (arterial o venosa): hipoxemia, hipercapnia y estado ácido-base. Una acidosis metabólica con el pulmón limpio orienta a cetoacidosis, sepsis o tóxicos.
+- ECG de 12 derivaciones: arritmia, isquemia (SCA como equivalente anginoso). En el TEP lo más frecuente es la taquicardia sinusal; los signos de sobrecarga derecha (S1Q3T3, T negativas de V1 a V4) aparecen solo en casos graves, así que su ausencia no descarta TEP.
+- Radiografía de tórax: condensación (neumonía), líneas B, derrame o redistribución (IC), neumotórax, masa. Una radiografía normal NO excluye TEP, asma grave ni acidosis.
+- Analítica con hemograma y bioquímica (anemia, función renal, iones, glucosa; TSH si procede).
+- Péptidos natriuréticos si sospechas IC: rule-out agudo NT-proBNP < 300 o BNP < 100. Rule-in por edad (ESC 2021, solo NT-proBNP): > 450 (< 50 años), > 900 (50-75 años) o > 1.800 (> 75 años). En obesidad los cortes bajan en torno a un 50%.
+- TEP: probabilidad con Wells o Geneva; si es baja o intermedia, dímero-D con el corte ajustado a edad (edad x 10 ng/ml en mayores de 50 años): por debajo descarta TEP sin imagen. Si es alta, angio-TC directa.
+- Ecografía a pie de cama (POCUS) si está disponible (líneas B en IC, derrame, neumotórax, TEP con sobrecarga derecha). Espirometría con test broncodilatador, en circuito no urgente (asma reversible frente a EPOC).
 
 
-FUENTES CONSULTADAS
-- Manual de Diagnóstico y Terapéutica Médica, Hospital Universitario 12 de Octubre, 9.a edición (2022): capítulo 22 "Disnea e insuficiencia respiratoria. SDRA" (tipos de disnea, signos de gravedad tabla 2, causas de disnea aguda tabla 1, pruebas complementarias y puntos de corte de péptidos natriuréticos tabla 3) y capítulo 13 (para el solapamiento con dolor torácico).
-- Nota del vault "Disnea Aguda - Evaluación Urgente" (basada en el mismo manual).
-- Actualización 2026 contrastada con guías: cortes de péptidos natriuréticos y bandas de edad (ESC 2021 insuficiencia cardíaca); dímero-D ajustado a edad en TEP (ESC 2019 / AHA-ACC 2026 embolia pulmonar).
-- Nota docente para R1 de guardia. No sustituye el juicio clínico ni los protocolos del centro.
+TRATAMIENTO INICIAL (mientras valoras o avisas)
+
+Medidas generales: incorpora al paciente, monitoriza, coge vía y extrae analítica/gasometría, y pon oxígeno para una SpO2 de al menos 90-94% (objetivo 88-92% si es EPOC o retenedor de CO2).
+
+Según la sospecha:
+- Broncoespasmo (asma o EPOC): salbutamol nebulizado 2,5-5 mg + bromuro de ipratropio 0,5 mg, repetible cada 20 minutos la primera hora (o salbutamol en cámara, 4-8 pulsaciones). Corticoide sistémico precoz: prednisona 40-50 mg por vía oral (o equivalente IV si no tolera). En la crisis asmática grave que no responde, sulfato de magnesio 2 g IV en 20 minutos.
+- Edema agudo de pulmón / insuficiencia cardíaca: sienta al paciente, oxígeno o VMNI si lo precisa, y furosemida IV en bolo lento (20-40 mg si es de novo; 1-2 veces su dosis oral diaria si ya la tomaba). Si la PAS es mayor de 110 mmHg, nitroglicerina (sublingual 0,4 mg o en perfusión IV); evítala si la PAS es menor de 90 mmHg o hay estenosis aórtica severa. NO uses morfina de rutina.
+- TEP de alta sospecha: oxígeno y, con el adjunto, anticoagulación con enoxaparina 1 mg/kg cada 12 h SC (1 mg/kg cada 24 h si FG < 30 ml/min), si no hay contraindicación, mientras confirmas con imagen.
+- Anafilaxia (disnea con urticaria/angioedema o tras un alérgeno): adrenalina 0,5 mg IM en la cara anterolateral del muslo (concentración 1 mg/ml, 1:1000), repetible cada 5-15 minutos; no la retrases dando antes corticoide o antihistamínico (son solo coadyuvantes). Coloca al paciente en decúbito con las piernas elevadas, oxígeno y fluidos. Es box vital: avisa.
+- Neumonía: oxígeno e inicia antibiótico empírico precoz según el protocolo del centro y la gravedad (CURB-65); no lo demores si hay datos de sepsis.
+- Neumotórax a tensión: emergencia de procedimiento (descompresión). Avisa de inmediato.
+
+Y recuerda: la disnea por ansiedad o hiperventilación es siempre un diagnóstico de exclusión.
+
+
+FUENTES (para el residente; puedes borrar este bloque antes de compartir)
+- Manual 12 de Octubre 2022, cap. 22 y 15; notas y fichas de fármacos del vault.
+- Guías: ESC 2021/2023 insuficiencia cardíaca (NT-proBNP, furosemida, nitroglicerina); GEMA 5.5 asma y GOLD 2026 EPOC (salbutamol, ipratropio, corticoide, oxígeno); ESC 2019 / AHA 2026 TEP (dímero-D ajustado a edad); GALAXIA 2022 anafilaxia (adrenalina).
