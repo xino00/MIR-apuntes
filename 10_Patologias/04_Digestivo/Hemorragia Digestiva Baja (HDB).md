@@ -2,8 +2,9 @@
 aliases: [HDB, Hemorragia digestiva baja, Hematoquecia, Rectorragia, Oakland Score]
 tags: [urgencias, digestivo, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"
-fuente: "Manual 12 Octubre 2022, cap. 36 HDA/HDB (p. 523)"
-last_fact_checked: 2026-04-21
+fuente: "Manual 12 Octubre 2022, cap. 36 HDA/HDB (p. 521-525) + ESGE 2021 (HDB)"
+last_fact_checked: 2026-06-08
+fuentes_guia: ["ESGE 2021 - Acute Lower GI Bleeding"]
 ---
 # Hemorragia Digestiva Baja (HDB)
 
@@ -90,10 +91,28 @@ Por debajo del ángulo de Treiz (intestino delgado y colon). Asocian menor morta
 
 ### Diagnóstico y Tratamiento Definitivo
 
-> [!todo] Pendiente de ampliar con BSG 2019 / ESGE 2021
-> Al añadir los PDFs a `Libros y referencias/10_Digestivo/`, desarrollar: **índice de shock >1** como criterio de inestabilidad; **inestable → Angio-TC** (→ embolización arterial); **estable → colonoscopia** (→ hemostasia endoscópica); cápsula endoscópica/enteroscopia en sangrado de origen incierto.
->
-> El Manual 12 Octubre ya cubre este algoritmo (cap. 36, Figura 4); avísame si prefieres que lo redacte ya desde el Manual sin esperar a las guías.
+El manejo se decide según la estabilidad hemodinámica. Fuentes: Manual cap. 36 (Figura 4) + ESGE 2021.
+
+**Criterio de inestabilidad:** hipotensión arterial o **índice de shock (FC/TA) > 1**.
+
+**Paciente INESTABLE (pese a reanimación) → Angio-TC** como prueba inicial:
+- Lo más rápido y menos invasivo; localiza el sangrado en tracto alto, medio o bajo y no precisa preparación. Buena rentabilidad con débito **>0,3-1 ml/min**.
+- Si hay sangrado activo → **embolización por arteriografía** (preferiblemente en los primeros **60 min** tras localizarlo).
+- Si no se localiza el punto → valorar **gastroscopia** (alta sospecha de HDA) o colonoscopia.
+
+**Paciente ESTABLE con sangrado MAYOR (Oakland >8) → Colonoscopia** (prueba inicial, diagnóstica y terapéutica):
+- Durante el ingreso, **no necesariamente <24 h** (la colonoscopia urgente no reduce mortalidad ni resangrado). Considerar **<24 h** si datos de alto riesgo + sangrado activo.
+- Requiere **preparación intestinal** adecuada (los enemas reducen el rendimiento diagnóstico).
+- Si hay estigmas de sangrado reciente (sangrado activo, vaso visible o coágulo adherido) → **hemostasia endoscópica** (sin tratar, resangrado >60%).
+- Intubar el **íleon terminal** para descartar origen en tramos superiores.
+
+**Paciente ESTABLE con sangrado MENOR (Oakland ≤8) → Alta + colonoscopia ambulatoria**, idealmente en **2 semanas** si >50 años o sospecha de malignidad (el cáncer colorrectal causa el 6-17% de las HDB).
+
+#### Hemorragia de origen incierto / intestino delgado
+Tras gastroscopia y colonoscopia normales → "sangrado potencial de intestino delgado". Causa más frecuente: **angiodisplasias**.
+- **Cápsula endoscópica**: prueba de 1ª elección (mejor <2 semanas, idealmente <48-72 h).
+- **Enteroscopia**: si contraindicación de cápsula (sospecha de estenosis), hemorragia masiva o cirugía con bypass.
+- **Entero-TC** (lesiones inflamatorias/vasculares/tumorales), **Angio-TC** (útil en inestabilidad) y **gammagrafía con hematíes marcados** (sensible pero solo orienta el área).
 
 ## Plantilla de Guardia
 

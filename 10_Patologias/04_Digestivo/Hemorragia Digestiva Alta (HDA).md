@@ -2,9 +2,9 @@
 aliases: [HDA, Hemorragia digestiva alta, Hematemesis, Melenas, Blatchford, Úlcera péptica]
 tags: [urgencias, digestivo, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"
-fuente: "Manual 12 Octubre 2022, cap. 36 HDA/HDB (p. 508-523) + ACG 2021 + ESGE 2021"
-last_fact_checked: 2026-04-21
-fuentes_guia: ["ACG 2021 - Upper GI and Ulcer Bleeding", "ESGE 2021 - NVUGIH Update", "Lau et al. NEJM 2007"]
+fuente: "Manual 12 Octubre 2022, cap. 36 HDA/HDB (p. 508-523) + ACG 2021 + ESGE 2021 + Baveno VII 2022 (HTP) + ACG-CAG 2022 (anticoagulación)"
+last_fact_checked: 2026-06-08
+fuentes_guia: ["ACG 2021 - Upper GI and Ulcer Bleeding", "ESGE 2021 - NVUGIH Update", "Baveno VII 2022 - Portal Hypertension", "ACG-CAG 2022 - Anticoagulants in GI Bleeding"]
 ---
 # Hemorragia Digestiva Alta (HDA)
 
@@ -141,24 +141,44 @@ La endoscopia urgente (<12h) o emergente (<3h) NO ofrece beneficio sobre la mort
 
 ### HEMORRAGIA DIGESTIVA ALTA POR HTP
 
-> [!todo] Pendiente de ampliar con Baveno VII (2022)
-> Al añadir el PDF de Baveno VII a `Libros y referencias/10_Digestivo/`, completar: clasificación Child-Pugh, indicación de **TIPS preventivo <72 h** (Child B con sangrado activo / Child C), y profilaxis primaria y secundaria de la hemorragia variceal.
+Manejo del cirrótico con sospecha de sangrado por hipertensión portal (varices esofágicas/gástricas). Fuentes: Manual cap. 36 + Baveno VII 2022.
 
-**Manejo específico en cirrótico con sospecha de sangrado por HTP** (Manual cap. 36 p.517-518):
+#### Manejo agudo
 
-**1. Vasoactivos — iniciar inmediatamente ante la sospecha** (sin esperar endoscopia), mantener **5 días** para evitar resangrado precoz:
-- **Terlipresina** 2 mg/4 h IV hasta 48 h tras control, después 1 mg/4 h hasta completar 5 días.
-- **Somatostatina** (alternativa): bolo 0,25 mg + perfusión 250-500 µg/h × 5 días.
+**1. Reanimación y transfusión restrictiva** — objetivo **Hb 7-8 g/dl** (transfundir de más aumenta la presión portal y el resangrado). NO corregir la coagulación de rutina: **no usar plasma fresco, factor VIIa ni ácido tranexámico** (Baveno VII). Mantener fibrinógeno >120 mg/dl; plaquetas solo si <50.000.
 
-**2. Profilaxis antibiótica × 7 días** (translocación bacteriana, reduce infecciones y resangrado):
-- **Ceftriaxona 1 g/24 h IV × 7 días** (cirrosis avanzada, profilaxis previa con quinolonas o alta tasa de resistencia local).
-- **Norfloxacino 400 mg/12 h VO × 7 días** (resto de pacientes).
+**2. Vasoactivos — iniciar inmediatamente ante la sospecha** (sin esperar a la endoscopia), mantener **2-5 días** para evitar el resangrado precoz:
+- **Terlipresina** 2 mg/4 h IV hasta 48 h tras el control, después 1 mg/4 h. Vigilar **hiponatremia** (sobre todo con función hepática conservada).
+- **Somatostatina** (alternativa): bolo 0,25 mg + perfusión 250-500 µg/h.
+- **Octreótido** (alternativa): bolo 50 µg + perfusión 50 µg/h.
 
-**3. Endoscopia <12 h** tras estabilización → ligadura con bandas elásticas (varices esofágicas) o cianocrilato (varices gástricas).
+**3. Profilaxis antibiótica desde el ingreso × 7 días** (reduce infecciones, resangrado y mortalidad):
+- **Ceftriaxona 1 g/24 h IV** (cirrosis avanzada, profilaxis previa con quinolonas o alta resistencia local).
+- **Norfloxacino 400 mg/12 h VO** (resto de pacientes).
 
-**4. Procinético pre-endoscopia**: **eritromicina 250 mg IV** infundida en 30-120 min, 30-120 min antes de la endoscopia (mejora visualización, no hay evidencia consistente de mejoría en outcomes clínicos).
+**4. Endoscopia <12 h** tras estabilización (antes si inestable), en UCI/cuidados intermedios:
+- **Eritromicina 250 mg IV** 30-120 min antes (procinético, mejora la visualización).
+- **Varices esofágicas → ligadura con bandas.** **Varices gástricas aisladas (IGV)/GOV2 → cianocrilato** (GOV1: ligadura o cianocrilato).
+- Si se inició IBP empírico, **suspenderlo tras la endoscopia** salvo indicación firme.
 
-**5. Fracaso del tratamiento endoscópico**: valorar TIPS o sonda de balón (Sengstaken-Blakemore) como puente. Consultar Digestivo/Radiología intervencionista urgente.
+**5. Encefalopatía**: lactulosa (oral o en enemas) para acelerar la eliminación de sangre del tubo digestivo y prevenir/tratar la encefalopatía.
+
+#### TIPS (derivación portosistémica percutánea, PTFE-cubierto)
+
+- **TIPS preventivo ("pre-emptive") en <72 h (idealmente <24 h)** — en sangrado por varices esofágicas/GOV1/GOV2 que cumpla **cualquiera** de (Baveno VII 6.27):
+  - **Child-Pugh C <14 puntos** (C10-13), o
+  - **Child-Pugh B >7 puntos con sangrado activo** en la endoscopia inicial, o
+  - HVPG >20 mmHg en el momento del sangrado.
+  - *ACLF, encefalopatía o hiperbilirrubinemia al ingreso NO contraindican el TIPS preventivo.*
+- **TIPS de rescate** (salvage): fracaso del tratamiento farmacológico + endoscópico combinado.
+- **Puente al TIPS** en sangrado refractario: prótesis esofágica autoexpandible (SEMS) o sonda de balón (Sengstaken-Blakemore) — el SEMS es igual de eficaz y más seguro.
+- **TIPS probablemente fútil** si Child-Pugh ≥14, MELD >30 o lactato >12 mmol/l, salvo trasplante a corto plazo.
+- Consultar **Digestivo / Radiología intervencionista** urgente.
+
+#### Profilaxis tras el episodio
+
+- **Secundaria (1ª línea): NSBB o carvedilol + ligadura endoscópica (EVL).** Si resangra pese a ello → **TIPS** (Baveno VII 7.8-7.9).
+- **Primaria** (varices de alto riesgo): **carvedilol o NSBB** preferidos sobre la ligadura; **EVL** si contraindicación/intolerancia a NSBB (Baveno VII 5.19, 7.6).
 
 ## 🔗 Relacionados
 - [[Hemorragia Digestiva Baja (HDB)]]
