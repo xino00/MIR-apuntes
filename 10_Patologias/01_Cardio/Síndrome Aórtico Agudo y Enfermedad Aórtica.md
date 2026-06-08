@@ -57,7 +57,7 @@ Engloba tres entidades:
 > - **Shock:** hipovolémico (rotura), cardiogénico (isquemia miocárdica o IAo aguda), obstructivo (taponamiento)
 
 > [!warning] Manifestaciones isquémicas
-> - **[[Síndrome Coronario Agudo|SCA]]:** infrecuente (10%), compresión coronaria por luz falsa. ECG indistinguible de IAM tipo 1 → riesgo de administrar antiagregantes
+> - **[[SCA - Evaluación Inicial y Clasificación|SCA]]:** infrecuente (10%), compresión coronaria por luz falsa. ECG indistinguible de IAM tipo 1 → riesgo de administrar antiagregantes
 > - **Alteraciones neurológicas** (30%): ACV, ictus isquémicos transitorios, paraplejia, neuropatía isquémica periférica
 > - **Isquemia intestinal:** exploración anodina, acidosis metabólica con hiperlactacidemia (40%). Fístulas aortoesofágica/aortoentérica
 > - **Fallo renal agudo:** disección de arterias renales o hipoperfusión
@@ -76,7 +76,7 @@ Engloba tres entidades:
 > **Interpretación:** **ADD-RS ≤1 + D-dímero negativo (<500 ng/mL)** → probabilidad pretest muy baja → la angio-TC **puede diferirse** con seguridad. **ADD-RS ≥2** → angio-TC urgente **independientemente del D-dímero**.
 
 **Algoritmo diagnóstico:** Dolor torácico súbito, lancinante y/o migratorio →
-1. **ECG** → descartar [[Síndrome Coronario Agudo|SCA]]
+1. **ECG** → descartar [[SCA - Evaluación Inicial y Clasificación|SCA]]
 2. **Calcular ADD-RS + analítica** con dímero D (regla de exclusión solo si ADD-RS ≤1)
 3. **Examen físico** → asimetría de pulsos, soplo diastólico aórtico
 4. **Rx tórax** → signos inespecíficos (ensanchamiento mediastínico, cardiomegalia)

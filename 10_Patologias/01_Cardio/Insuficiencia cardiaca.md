@@ -52,7 +52,7 @@ La clasificación central de la ICC se fundamenta en la ecocardiografía (FEVI) 
 
 ### Causas de elevación de PN (ESC HF 2021 Tabla 7)
 
-**Cardíacas:** IC, [[Síndrome Coronario Agudo]], [[TEP - Tromboembolismo Pulmonar]], miocarditis, HVI, miocardiopatía hipertrófica/restrictiva, [[Valvulopatías]], cardiopatía congénita, taquiarritmias auriculares/ventriculares, contusión cardíaca, cardioversión / descarga de DAI, cirugía cardíaca, [[Hipertensión Pulmonar]].
+**Cardíacas:** IC, [[SCA - Evaluación Inicial y Clasificación|Síndrome Coronario Agudo]], [[TEP - Tromboembolismo Pulmonar]], miocarditis, HVI, miocardiopatía hipertrófica/restrictiva, [[Valvulopatías]], cardiopatía congénita, taquiarritmias auriculares/ventriculares, contusión cardíaca, cardioversión / descarga de DAI, cirugía cardíaca, [[Hipertensión Pulmonar]].
 
 **No cardíacas:** edad avanzada, ictus isquémico, hemorragia subaracnoidea, **disfunción renal**, disfunción hepática (cirrosis con ascitis), síndrome paraneoplásico, EPOC, infecciones graves (neumonía, sepsis), quemaduras graves, [[Anemia Ferropénica]], tirotoxicosis, cetoacidosis diabética.
 

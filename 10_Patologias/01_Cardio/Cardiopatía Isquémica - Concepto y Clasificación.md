@@ -26,7 +26,7 @@ La EAC es un **proceso crónico, progresivo, que puede desestabilizarse en cualq
 | Forma | Fisiopatología | Manifestación clínica habitual |
 |---|---|---|
 | **Síndrome Coronario Crónico (SCC)** | Estrechamiento progresivo por **placa fija de ateroma** asentada en la pared. Limita parcialmente el flujo. Puede ser silente o sintomático. | Angina de pecho **estable** |
-| **[[Síndrome Coronario Agudo]] (SCA)** | Inestabilización de la enfermedad coronaria por **ulceración / fisura / erosión** de la placa de ateroma o **disección coronaria** → trombo intraluminal. | AI / IAMSEST / IAMCEST |
+| **[[SCA - Evaluación Inicial y Clasificación|Síndrome Coronario Agudo]] (SCA)** | Inestabilización de la enfermedad coronaria por **ulceración / fisura / erosión** de la placa de ateroma o **disección coronaria** → trombo intraluminal. | AI / IAMSEST / IAMCEST |
 
 Ver desarrollo del SCA en [[SCA - Evaluación Inicial y Clasificación]].
 
