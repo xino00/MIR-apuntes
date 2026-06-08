@@ -47,13 +47,13 @@ QUÉ PRUEBAS PEDIR
 
 TRATAMIENTO INICIAL (mientras valoras o avisas)
 
-Medidas generales: incorpora al paciente, monitoriza, coge vía y extrae analítica/gasometría, y pon oxígeno para una SpO2 de al menos 90-94% (objetivo 88-92% si es EPOC o retenedor de CO2).
+Medidas generales: incorpora al paciente, monitoriza, coge vía y extrae analítica/gasometría, haz una glucemia capilar inmediata, y pon oxígeno con objetivo de SpO2 94-98% (88-92% si es EPOC o retenedor de CO2).
 
 Según la sospecha:
-- Broncoespasmo (asma o EPOC): salbutamol nebulizado 2,5-5 mg + bromuro de ipratropio 0,5 mg, repetible cada 20 minutos la primera hora (o salbutamol en cámara, 4-8 pulsaciones). Corticoide sistémico precoz: prednisona 40-50 mg por vía oral (o equivalente IV si no tolera). En la crisis asmática grave que no responde, sulfato de magnesio 2 g IV en 20 minutos.
+- Broncoespasmo (asma o EPOC): salbutamol nebulizado 2,5-5 mg + bromuro de ipratropio 0,5 mg, repetible cada 20 minutos la primera hora (o salbutamol en cámara, 4-8 pulsaciones). Corticoide sistémico precoz: prednisona 40-50 mg por vía oral (o, si no tolera, metilprednisolona 40-60 mg IV o hidrocortisona 100-200 mg IV). En la crisis asmática grave que no responde, sulfato de magnesio 2 g IV en 20 minutos. En la agudización de EPOC: antibiótico si cumple criterios de Anthonisen (≥ 2 de aumento de disnea, del volumen o de la purulencia del esputo; sobre todo si hay purulencia), y valora VMNI precoz —con el adjunto— si hay insuficiencia respiratoria hipercápnica (pH < 7,35 con hipercapnia).
 - Edema agudo de pulmón / insuficiencia cardíaca: sienta al paciente, oxígeno o VMNI si lo precisa, y furosemida IV en bolo lento (20-40 mg si es de novo; 1-2 veces su dosis oral diaria si ya la tomaba). Si la PAS es mayor de 110 mmHg, nitroglicerina (sublingual 0,4 mg o en perfusión IV); evítala si la PAS es menor de 90 mmHg o hay estenosis aórtica severa. NO uses morfina de rutina.
 - TEP de alta sospecha: oxígeno y, con el adjunto, anticoagulación con enoxaparina 1 mg/kg cada 12 h SC (1 mg/kg cada 24 h si FG < 30 ml/min), si no hay contraindicación, mientras confirmas con imagen.
-- Anafilaxia (disnea con urticaria/angioedema o tras un alérgeno): adrenalina 0,5 mg IM en la cara anterolateral del muslo (concentración 1 mg/ml, 1:1000), repetible cada 5-15 minutos; no la retrases dando antes corticoide o antihistamínico (son solo coadyuvantes). Coloca al paciente en decúbito con las piernas elevadas, oxígeno y fluidos. Es box vital: avisa.
+- Anafilaxia (disnea con urticaria/angioedema o tras un alérgeno): adrenalina 0,5 mg IM en la cara anterolateral del muslo (concentración 1 mg/ml, 1:1000), repetible cada 5-15 minutos; la adrenalina IV en perfusión queda reservada a la anafilaxia refractaria y exige monitorización. No la retrases dando antes corticoide o antihistamínico (son solo coadyuvantes). Coloca al paciente en decúbito con las piernas elevadas, oxígeno y fluidos. Es box vital: avisa.
 - Neumonía: oxígeno e inicia antibiótico empírico precoz según el protocolo del centro y la gravedad (CURB-65); no lo demores si hay datos de sepsis.
 - Neumotórax a tensión: emergencia de procedimiento (descompresión). Avisa de inmediato.
 
