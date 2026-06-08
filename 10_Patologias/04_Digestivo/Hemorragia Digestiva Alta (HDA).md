@@ -25,12 +25,41 @@ Hemorragia por encima del ángulo de Treitz. Se manifiesta en forma de:
 Las causas más frecuentes son la úlcera péptica, erosiones mucosas, síndrome Mallory Weiss (vómitos), neoplasias, esofagitis péptica, angiodisplasias.
 
 ### Estratificación de Riesgo
-Escala **Glasgow Blatchford Score (GBS)**, valora riesgo preendoscópico.
-**=< 1 punto → Endoscopia ambulatoria.**
 
-**Clasificación de Forrest** (endoscópica, úlcera péptica) — determina la necesidad de IBP a dosis altas × 72 h:
-- **Alto riesgo:** Ia (sangrado arterial activo), Ib (sangrado en sábana), IIa (vaso visible no sangrante), IIb (coágulo adherido no tratado)
-- **Bajo riesgo:** IIc (mancha de hematina), III (base de fibrina limpia) → IBP oral estándar
+**Glasgow Blatchford Score (GBS)** — escala preendoscópica de elección (mayor sensibilidad para predecir transfusión, hospitalización e intervención que Rockall/AIMS65). **0-1 puntos → manejo ambulatorio.**
+
+| Parámetro | Valor | Puntos |
+|---|---|---|
+| **TAS (mmHg)** | 100-109 | 1 |
+| | 90-99 | 2 |
+| | <90 | 3 |
+| **BUN (mg/dl)** | 18,2 – <22,4 | 2 |
+| | 22,4 – <28 | 3 |
+| | 28 – <70 | 4 |
+| | ≥70 | 6 |
+| **Hb hombres (g/dl)** | 12 – 12,9 | 1 |
+| | 10 – 11,9 | 3 |
+| | <10 | 6 |
+| **Hb mujeres (g/dl)** | 10 – 11,9 | 1 |
+| | <10 | 6 |
+| **FC ≥100 lpm** | | 1 |
+| **Melenas** | | 1 |
+| **Síncope** | | 2 |
+| **Enfermedad hepática** | | 2 |
+| **Insuficiencia cardíaca** | | 2 |
+
+*Los valores por debajo del primer umbral de cada parámetro puntúan 0.*
+
+**Clasificación de Forrest** (endoscópica, úlcera péptica) — define el riesgo de recidiva y la necesidad de IBP a dosis altas:
+
+| Forrest | Estado | Hallazgo | Recidiva | Manejo |
+|---|---|---|---|---|
+| **Ia** | Activo | En chorro (jet) | 55% | Tto. endoscópico combinado + IBP dosis altas ×72 h |
+| **Ib** | Activo | Babeante / en sábana | 55% | Tto. endoscópico combinado + IBP dosis altas ×72 h |
+| **IIa** | Reciente | Vaso visible no sangrante | 43% | Tto. endoscópico combinado + IBP dosis altas ×72 h |
+| **IIb** | Reciente | Coágulo adherido | 22% | Retirar coágulo → tto. endoscópico si Ia/Ib/IIa subyacente; IBP altas |
+| **IIc** | Inactivo | Mancha de hematina | 10% | IBP oral estándar |
+| **III** | Inactivo | Fondo fibrinoso (base limpia) | 5% | IBP oral estándar |
 
 ## Tratamiento
 
@@ -112,6 +141,9 @@ La endoscopia urgente (<12h) o emergente (<3h) NO ofrece beneficio sobre la mort
 
 ### HEMORRAGIA DIGESTIVA ALTA POR HTP
 
+> [!todo] Pendiente de ampliar con Baveno VII (2022)
+> Al añadir el PDF de Baveno VII a `Libros y referencias/10_Digestivo/`, completar: clasificación Child-Pugh, indicación de **TIPS preventivo <72 h** (Child B con sangrado activo / Child C), y profilaxis primaria y secundaria de la hemorragia variceal.
+
 **Manejo específico en cirrótico con sospecha de sangrado por HTP** (Manual cap. 36 p.517-518):
 
 **1. Vasoactivos — iniciar inmediatamente ante la sospecha** (sin esperar endoscopia), mantener **5 días** para evitar resangrado precoz:
@@ -130,3 +162,8 @@ La endoscopia urgente (<12h) o emergente (<3h) NO ofrece beneficio sobre la mort
 
 ## 🔗 Relacionados
 - [[Hemorragia Digestiva Baja (HDB)]]
+- [[Pantoprazol]]
+- [[Ceftriaxona]]
+- [[Complicaciones de la Cirrosis Hepática]]
+- [[MOC - DIGESTIVO|MOC - Digestivo]]
+- [[MOC - Urgencias]]

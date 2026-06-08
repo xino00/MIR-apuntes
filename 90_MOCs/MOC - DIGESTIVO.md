@@ -19,8 +19,10 @@ description: "Índice de digestivo: dolor abdominal, hemorragia digestiva, hepat
 - [[05_Dolor_Abdominal_Cronico|Dolor Abdominal Crónico]]
 
 ### 🦠 Patologías Frecuentes
+- [[Hemorragia Digestiva Alta (HDA)]]
+- [[Hemorragia Digestiva Baja (HDB)]]
+
 *Por crear:*
-- Hemorragia Digestiva Alta y Baja
 - Pancreatitis Aguda
 - Cirrosis y Descompensaciones
 - EII - Brote Agudo
@@ -44,8 +46,6 @@ description: "Índice de digestivo: dolor abdominal, hemorragia digestiva, hepat
 - [[Estreñimiento Agudo]]
 - [[Fisura Anal]]
 - [[Gastroenteritis Aguda (GEA)]]
-- [[Hemorragia Digestiva Alta (HDA)]]
-- [[Hemorragia Digestiva Baja (HDB)]]
 - [[Hemorroides]]
 - [[Hipertransaminasemia]]
 - [[Obstrucción Intestinal]]

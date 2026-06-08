@@ -28,14 +28,43 @@ Por debajo del ángulo de Treiz (intestino delgado y colon). Asocian menor morta
 - Estancia en UCI: úlceras rectales
 
 ### Etiología
-Las causas más frecuentes son la hemorragia diverticular, colitis isquémica, neoplasia rectal, hemorroides, sangrado postpolipectomía, angiodisplasias.
+- **Frecuentes:** hemorragia diverticular, colitis isquémica, neoplasia colorrectal, hemorroides y patología anal benigna, sangrado pospolipectomía, angiodisplasias.
+- **Menos frecuentes:** enfermedad inflamatoria intestinal (EII), colitis infecciosa, colopatía por AINE, proctitis rádica, úlceras rectales, lesión de Dieulafoy.
 
 ### Estratificación de Riesgo
-Escala de Oakland para decidir estudio ambulatorio o hospitalario.
-- <8 puntos = Sangrado menor → Estudio ambulatorio en las 2 semanas siguientes
-- **>8 puntos = Sangrado mayor → Estudio hospitalario**
-- No se ha demostrado que la endoscopia urgente (<24h) disminuya la mortalidad
-- Calculadora: Oakland Score for Safe Discharge After Lower GI Bleed
+
+**Escala de Oakland** (validada específicamente en HDB estable) para decidir estudio ambulatorio u hospitalario:
+- **≤8 puntos = Sangrado menor → estudio ambulatorio** en las 2 semanas siguientes
+- **>8 puntos = Sangrado mayor → estudio hospitalario**
+- No se ha demostrado que la endoscopia urgente (<24 h) disminuya la mortalidad
+- Calculadora: *Oakland Score for Safe Discharge After Lower GI Bleed* (MDCalc)
+
+| Parámetro | Valor | Puntos |
+|---|---|---|
+| **Edad (años)** | <40 | 0 |
+| | 40-69 | 1 |
+| | ≥70 | 2 |
+| **Sexo** | Mujer | 0 |
+| | Hombre | 1 |
+| **Ingreso previo por HDB** | No | 0 |
+| | Sí | 1 |
+| **Tacto rectal** | Sin sangre | 0 |
+| | Con sangre | 1 |
+| **FC (lpm)** | <70 | 0 |
+| | 70-89 | 1 |
+| | 90-109 | 2 |
+| | ≥110 | 3 |
+| **TAS (mmHg)** | <90 | 5 |
+| | 90-119 | 4 |
+| | 120-129 | 3 |
+| | 130-159 | 2 |
+| | ≥160 | 0 |
+| **Hemoglobina (g/dl)** | <7 | 22 |
+| | 7-8,9 | 17 |
+| | 9-10,9 | 13 |
+| | 11-12,9 | 8 |
+| | 13-15,9 | 4 |
+| | ≥16 | 0 |
 
 ## Tratamiento
 
@@ -58,6 +87,13 @@ Escala de Oakland para decidir estudio ambulatorio o hospitalario.
   - Sintrom: INR <2.5 antes de la endoscopia. Vitamina K 5-10 mg IV (estable HD) o CPC + vit K (inestabilidad HD)
   - ACOd: su efecto desaparece en las 12-24h siguientes a la suspensión
   - Antiagregantes: suspender. Si doble antiagregación, mantener AAS a dosis bajas
+
+### Diagnóstico y Tratamiento Definitivo
+
+> [!todo] Pendiente de ampliar con BSG 2019 / ESGE 2021
+> Al añadir los PDFs a `Libros y referencias/10_Digestivo/`, desarrollar: **índice de shock >1** como criterio de inestabilidad; **inestable → Angio-TC** (→ embolización arterial); **estable → colonoscopia** (→ hemostasia endoscópica); cápsula endoscópica/enteroscopia en sangrado de origen incierto.
+>
+> El Manual 12 Octubre ya cubre este algoritmo (cap. 36, Figura 4); avísame si prefieres que lo redacte ya desde el Manual sin esperar a las guías.
 
 ## Plantilla de Guardia
 
@@ -108,3 +144,5 @@ Calculadora: Oakland Score for Safe Discharge After Lower GI Bleed
 
 ## 🔗 Relacionados
 - [[Hemorragia Digestiva Alta (HDA)]]
+- [[MOC - DIGESTIVO|MOC - Digestivo]]
+- [[MOC - Urgencias]]
