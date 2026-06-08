@@ -1,155 +1,154 @@
 ---
 aliases: [SCC Tratamiento, Tratamiento SCC, Tratamiento Síndrome Coronario Crónico, Tratamiento Cardiopatía Isquémica Crónica, Antianginosos]
 tags: [cardio, patologia]
-fuente: "Manual 12 Octubre 2022 cap. 17 §3.6-3.7 — Cardiopatía Isquémica (Guisasola, Ibarra, Martín Asenjo)"
-last_fact_checked: 2026-04-26
+fuente: "Guía ESC 2024 SCC §4 (Vrints et al., Eur Heart J 2024; doi:10.1093/eurheartj/ehae177; trad. SEC) + Manual 12 Octubre 2022 cap. 17"
+last_fact_checked: 2026-06-08
 ---
 
 # Síndrome Coronario Crónico — Tratamiento
 
-El objetivo es tanto el **control de síntomas** como la **mejoría del pronóstico**, y se apoya en tres pilares fundamentales:
-
-1. Estilo de vida saludable.
-2. Tratamiento médico específico (antianginosos + antitrombóticos + estatinas).
-3. Revascularización coronaria cuando esté indicada.
+Dos objetivos paralelos: **controlar los síntomas** (antianginosos) y **prevenir eventos / mejorar el pronóstico** (antitrombóticos, hipolipemiantes, iSGLT2/GLP-1, colchicina, revascularización), sobre una base de **estilo de vida** y control de FRCV.
 
 ---
 
-## 1. Estilo de vida saludable
+## 1. 🏃 Estilo de vida y control de factores de riesgo
 
-Reduce la incidencia de eventos vasculares y la mortalidad por CI tanto en prevención primaria como secundaria. Es **crucial el trabajo multidisciplinar** con la implicación del médico y enfermería de Atención Primaria.
-
-> [!info] Tabla 5 — Factores higiénico-dietéticos en el SCC
->
+> [!info] Intervenciones clave (ESC 2024)
 > | Factor | Recomendación |
 > |---|---|
-> | **Cese del hábito tabáquico** | Preguntar, aconsejar, intervenir y vigilar. Puede estar indicada la **terapia farmacológica** |
-> | **Dieta saludable** | Rica en fruta, vegetales, legumbres, fibra, pescado y frutos secos. Pobre en harinas y azúcares refinados y grasas saturadas |
-> | **Limitación del consumo de alcohol** | **< 100 g/semana** y **< 15 g/día** |
-> | **Actividad física** | **30-60 min/día** de actividad física de intensidad moderada |
-> | **Control del peso** | Mantener el IMC en **20-25** |
-> | **Rehabilitación cardíaca** | Programa de ejercicio físico adaptado, educación sobre FRCV y apoyo psicosocial |
-> | **Adherencia terapéutica** | Evitar la polifarmacia. Promoción y controles de adherencia de forma interdisciplinar |
-> | **Vacunación anual de la gripe** | En **todos** los pacientes con SCC. De especial importancia en los ancianos |
+> | **Tabaquismo** | Preguntar, aconsejar, intervenir, vigilar; terapia farmacológica si procede |
+> | **Dieta** | Rica en fruta, vegetales, legumbres, fibra, pescado y frutos secos; pobre en azúcares/harinas refinadas y grasas saturadas |
+> | **Alcohol** | < 100 g/semana |
+> | **Ejercicio** | **150–300 min/sem** de intensidad moderada **o** 75–150 min/sem vigorosa + reducir el sedentarismo (clase **I**) |
+> | **Peso** | IMC 20–25 |
+> | **Rehabilitación cardiaca** | Programa de ejercicio + educación + apoyo psicosocial; considerar **rehabilitación domiciliaria y mHealth (apps)** para adherencia (IIa) |
+> | **Salud mental** | Cribar y tratar depresión/ansiedad |
+> | **Vacunación** | Antigripal anual en todos |
 
 ---
 
-## 2. Tratamiento médico específico
+## 2. 💊 Medicación antianginosa (control de síntomas)
 
-### 2.1. Fármacos antianginosos
+> [!tip] Estrategia ESC 2024 — adaptar al paciente
+> No hay evidencia de superioridad entre antianginosos para los síntomas, y **solo los betabloqueantes mejoran el pronóstico** (durante el 1.er año tras IAM). La selección se adapta al **perfil hemodinámico** (TA, FC), **comorbilidades** (IC), **fisiopatología** de la isquemia (obstructiva / vasoespástica / microvascular), interacciones y preferencias. Inicio con **BB y/o BCC**; añadir 2.ª línea o combinar según respuesta.
 
-> No hay evidencia clara de por cuál empezar o de si es mejor comenzar con monoterapia o doble terapia. La decisión depende de las características del paciente y de la experiencia del facultativo.
+> [!info] Qué fármaco según la condición (Figura 9)
+> | Fármaco | Preferente en | Evitar en |
+> |---|---|---|
+> | **Betabloqueantes** | EAC obstructiva, disfunción microvascular, HTA, FA, **IC-FEr** | Síndrome del seno enfermo; angina **vasoespástica** |
+> | **BCC dihidropiridínicos** (amlodipino) | EAC obstructiva, microvascular, HTA, **angina vasoespástica** | — |
+> | **BCC no DHP** (diltiazem, verapamilo) | EAC obstructiva, angina vasoespástica, FA | **IC-FEr**, síndrome del seno enfermo |
+> | **Nitratos / nicorandil** | EAC obstructiva, angina vasoespástica | — |
+> | **Ranolazina** | EAC obstructiva; útil en MCH | — |
+> | **Trimetazidina** | EAC obstructiva (compatible con IC-FEr) | — |
+> | **Ivabradina** | EAC obstructiva, **IC-FEr** | FA, síndrome del seno enfermo |
 
-**Opciones de inicio:**
+> [!warning] Ivabradina — restricciones ESC 2024
+> - Considerar (IIa) solo si **FEVI < 40 % + IC** con control inadecuado de síntomas (o inicial en casos seleccionados).
+> - **No** usar si **FEVI > 40 % sin IC clínica** (clase III).
+> - **No** combinar con **BCC no DHP** ni otros inhibidores potentes del CYP3A4 (clase III).
 
-- **Betabloqueante (BB)** en monoterapia.
-- **Antagonista del calcio (ACa)** en monoterapia.
-- **BB + ACa** (preferiblemente dihidropiridínico).
-- **BB y/o ACa + antianginoso de 2.ª línea** (vigilar tolerancia: bradicardia, hipotensión, mareo, cefalea, etc.).
+#### Antianginosos de 1.ª línea (dosis)
 
-**Reglas de selección por situación clínica:**
-
-| Situación | Fármaco preferente |
-|---|---|
-| **FC < 50 lpm** | ACa **dihidropiridínico** como primera opción. **Evitar ivabradina.** |
-| **FEVI deprimida** | **BB** como primera opción |
-| **Hipotensión arterial basal** | Ajustar dosis de BB y de ACa **dihidropiridínico**; **evitar los no dihidropiridínicos** |
-
-#### Tabla 6 — Antianginosos de 1.ª línea
-
-| Grupo | Fármaco | Dosis habituales | Consideraciones / contraindicaciones |
+| Grupo | Fármaco | Dosis | Notas / CI |
 |---|---|---|---|
-| **BB cardioselectivos** | Bisoprolol v.o. | Inicio 2,5-5 mg/24h → 5-10 mg/24h | Especialmente útiles si antecedente de SCA o FEVI disminuida. Elegir cardioselectivo. Ajuste en IR e IH. **CI:** asma, bloqueos AV, angina vasoespástica, ACa no DHP |
-| | Atenolol v.o. | 25-50 mg/24h → 25-100 mg/24h | Ajuste IR |
-| | Nebivolol v.o. | 1,25 mg/24h → 5 mg/24h | |
-| | Metoprolol v.o. | 25-100 mg/12h → 100-200 mg/24h | |
-| **BB no cardioselectivos** | Carvedilol v.o. | 12,5 mg/12h | Suspender si broncoespasmo |
-| **ACa no DHP** | Verapamilo v.o. | 240-360 mg/24h → 240-480 mg/24h | Especialmente útiles en angina vasoespástica y en taquicardia por cocaína/anfetaminas. Ajuste IR. **CI:** disfunción sistólica del VI (riesgo de IC y descompensación). **No asociar a BB.** |
-| | Diltiazem v.o. | 180-360 mg/24h → 180-360 mg/24h | |
-| **ACa DHP** | Amlodipino v.o. | 5 mg/24h → 5-10 mg/24h | Especialmente útiles en HTA. Edema en MMII como efecto adverso frecuente |
-| | Nifedipino v.o. | 10 mg/8h → 10-20 mg/24h | |
-| | Nifedipino de liberación retardada v.o. | 20 mg/12h → 20-60 mg/24h | |
-| | Nicardipino v.o. | 20 mg/8h → 30 mg/8h | Ajuste IR e IH |
-| **Nitratos de acción corta** | NTG sublingual | 1 comp o 2 puffs antes del ejercicio o si no cede el dolor a los 3 min, hasta 3 dosis/15 min | **Antianginoso de rescate.** Efecto inmediato (< 1 min) |
+| **BB cardioselectivos** | Bisoprolol | 2,5–5 → 5–10 mg/24h | Útiles tras SCA o con FEVI baja. **CI:** asma, bloqueos AV, **angina vasoespástica** |
+| | Atenolol | 25–50 → 25–100 mg/24h | Ajuste IR |
+| | Nebivolol | 1,25 → 5 mg/24h | |
+| | Metoprolol | 25–100 mg/12h | |
+| **ACa no DHP** | Verapamilo | 240–480 mg/24h | Útil en vasoespástica/FA. **CI:** disfunción sistólica VI. **No** asociar a BB |
+| | Diltiazem | 180–360 mg/24h | |
+| **ACa DHP** | Amlodipino | 5 → 5–10 mg/24h | Útil en HTA; edema en MMII |
+| | Nifedipino retard | 20 mg/12h → 20–60 mg/24h | |
+| **Nitrato de rescate** | NTG sublingual | 1 comp / 2 puffs, hasta 3 dosis/15 min | Efecto < 1 min |
 
-#### Tabla 6 — Antianginosos de 2.ª línea (cuando los de 1.ª línea son insuficientes)
+#### Antianginosos de 2.ª línea
 
-| Grupo | Fármaco | Dosis | Consideraciones / contraindicaciones |
-|---|---|---|---|
-| **Nitratos de acción prolongada** | NTG parches | 5 mg/24h (1 parche) | Desarrollan **tolerancia**: precisan periodos libres de fármaco (10/14h entre recambios). Cefalea frecuente. Hipotensión arterial como efecto adverso |
-| | Dinitrato de isosorbida v.o. | 5 mg/4h → 5 mg/8-12h | |
-| | Mononitrato de isosorbida v.o. | 10 mg/12h → 20 mg/8-12h | |
-| **Ivabradina** v.o. | | 2,5-5 mg/12h → 5-7,5 mg/12h (máx. 7,5 mg/12h) | Apoyo a BB si hay ineficacia o intolerancia. **CI:** FC < 70 lpm, paciente no en ritmo sinusal |
-| **Nicorandil** v.o. | | 5-10 mg/12h → 10 mg/12h | |
-| **Ranolazina** v.o. | | 375 mg/12h → 500 mg/12h (máx. 750 mg/12h) | Inhibidor de corriente de sodio. Ajuste IR. **CI:** FG < 60 mL/min, IH grave |
-| **Trimetazidina** v.o. | | 20 mg/8h | Protector de la membrana celular. Ajuste IR e IH. **CI:** FG < 60 mL/min |
+| Fármaco | Dosis | Notas / CI |
+|---|---|---|
+| **Nitratos prolongados** | Mononitrato isosorbida 20 mg/8–12h; NTG parche 5 mg/24h | **Tolerancia** → periodo libre 10–14 h; cefalea |
+| **Ranolazina** | 375 → 500 mg/12h (máx 750) | Ajuste IR. **CI:** FG < 60, IH grave |
+| **Nicorandil** | 5–10 → 10 mg/12h | |
+| **Trimetazidina** | 20 mg/8h | **CI:** FG < 60 |
+| **Ivabradina** | 2,5–5 → 5–7,5 mg/12h | Ver restricciones arriba |
 
-> Para dosificación detallada (titulación, ajuste por función renal, interacciones) ver fichas individuales en `20_farmacos/` ([[Bisoprolol]], [[Atenolol]], [[Carvedilol]], [[Amlodipino]], [[Verapamilo]], [[Diltiazem]], [[Ivabradina]], [[Ranolazina]], [[Nitroglicerina]]).
-
-### 2.2. Fármacos que previenen ECV (antitrombóticos)
-
-> Se inicia antiagregación en monoterapia desde el momento del diagnóstico y se mantiene de **forma indefinida**.
-
-| Escenario | Pauta antitrombótica |
-|---|---|
-| **SCC sin ICP previa** | **AAS 100 mg/día** v.o. de forma indefinida (en monoterapia). Si alergia o intolerancia: **Clopidogrel 75 mg/día**. |
-| **SCC + ICP electiva** | **DAPT** (AAS 100 mg/día + Clopidogrel 75 mg/día) durante **6 meses** tras el procedimiento. Posteriormente AAS 100 mg/día indefinido. |
-| **SCC + indicación de anticoagulación crónica por otro motivo** | Mantener tto anticoagulante en lugar de antiagregante. En caso de ICP: **DAPT solo 1 semana periprocedimiento**, manteniendo anticoagulante + AAS 100 mg/día durante 6 meses; luego solo el anticoagulante de forma indefinida. |
-
-**Estatinas a dosis altas** (atorvastatina 80 mg/día o rosuvastatina 20-40 mg/día) en todos los pacientes con SCC para alcanzar **LDL < 55 mg/dL** (ver objetivo de LDL en §4 — Seguimiento).
+> Dosificación detallada, ajuste renal e interacciones en `20_farmacos/` ([[Bisoprolol]], [[Atenolol]], [[Amlodipino]], [[Verapamilo]], [[Diltiazem]], [[Ivabradina]], [[Ranolazina]], [[Nitroglicerina]]).
 
 ---
 
-## 3. Revascularización coronaria
+## 3. 🛡️ Prevención de eventos
 
-> Se recogen las principales indicaciones en la Tabla 7. No obstante, se debe considerar en todo paciente con SCC y estenosis localizadas en vasos grandes que originen un gradiente de presión significativo.
+### 3.1 Antitrombóticos
 
-### Tabla 7 — Indicaciones de revascularización en SCC
-
-| Categoría | Situación |
+| Escenario | Pauta ESC 2024 |
 |---|---|
-| **Con fines pronósticos** | Enfermedad del **tronco común izquierdo** |
-| | Enfermedad de la **arteria descendente anterior proximal** |
-| | Enfermedad de **2 o 3 vasos acompañada de disfunción del VI (FEVI ≤ 35%)** |
-| | **Solo una arteria permeable** con estenosis significativa |
-| | **Área de isquemia detectada en pruebas funcionales > 10% del VI** |
-| **Síntomas** | Persistencia de **angina limitante pese al tratamiento médico óptimo** |
+| **Monoterapia (basal)** | **AAS 75–100 mg/día** indefinida **o** **Clopidogrel 75 mg/día** — *alternativa segura y eficaz al AAS en monoterapia, también clase **I A** (a considerar especialmente si IM o ICP previa)*. Tras CABG → AAS (I A). Sin IM/revasc pero EAC obstructiva significativa → AAS (I B) |
+| **Post-ICP electiva** | **TAPD** (AAS + clopidogrel) **6 meses** = estándar (I A). Si **alto riesgo hemorrágico** sin alto riesgo isquémico → suspender TAPD a **1–3 meses** y seguir con un solo antiagregante (I A) |
+| **Con indicación de anticoagulación (p. ej. FA)** | A largo plazo **ACOD en monoterapia** (I). Tras ICP: cese precoz de AAS (≤ 1 sem) + **ACO + clopidogrel** hasta 6 meses (riesgo isquémico no alto) o 12 meses (alto), luego ACO solo (I A). AAS hasta 1 mes si alto riesgo trombótico (IIa) |
 
-### ICP vs CABG (cirugía de derivación aortocoronaria)
+Considerar **IBP** para gastroprotección en doble terapia o riesgo hemorrágico.
 
-La revascularización coronaria se puede realizar mediante **intervención coronaria percutánea (ICP)** o **cirugía de derivación aortocoronaria (CABG / bypass)**. En casos complejos hay que presentar al paciente en **Heart Team** (cirujanos cardíacos, cardiólogos, hemodinamistas) para decidir la actitud de forma consensuada.
+### 3.2 Hipolipemiantes
 
-> [!info] Tabla 8 — Factores que influyen en la decisión ICP vs CABG
->
+> [!tip] Objetivo cLDL
+> **cLDL < 55 mg/dL (< 1,4 mmol/L) Y reducción ≥ 50 %** del basal (clase **I A**).
+
+- **Estatina a dosis máxima tolerada** (atorvastatina 80, rosuvastatina 20–40).
+- Si no se alcanza objetivo → **+ ezetimiba**; si persiste o hay intolerancia a estatinas → **+ ácido bempedoico**.
+
+### 3.3 IECA / ARA / ARNI
+
+- IECA en SCC con HTA, IC, diabetes o ERC.
+- **Sacubitrilo/valsartán (ARNI)** sustituye a IECA/ARA en **SCC + IC-FEr** para reducir hospitalización y muerte por IC (clase **I B**).
+
+### 3.4 iSGLT2 y agonistas GLP-1 *(novedad)*
+
+- **iSGLT2** en **DM2 + SCC** → reducen complicaciones cardiovasculares, **independientemente de la HbA1c** y del resto del tratamiento (clase **I A**).
+- **Semaglutida (GLP-1)** en **SCC sin diabetes pero con sobrepeso/obesidad (IMC ≥ 27)** → reduce muerte CV, IM e ictus (clase **IIa B**).
+
+### 3.5 Antiinflamatorios — colchicina *(novedad)*
+
+- **Colchicina 0,5 mg/día** en SCC con EAC aterosclerótica → reduce IM, ictus y necesidad de revascularización (clase **IIa A**; evidencia COLCOT y LODOCO2).
+
+---
+
+## 4. 🔧 Revascularización coronaria
+
+> Indicada por **síntomas** (angina limitante pese a tratamiento médico óptimo) y/o por **pronóstico** (tronco común, DA proximal, multivaso con FEVI ≤ 35 %, isquemia extensa). Decisión por **equipo cardiológico (Heart Team)**, centrada en el paciente, usando el **score SYNTAX**.
+
+| Situación | Recomendación |
+|---|---|
+| **Tronco común izquierdo** | **CABG** mejora supervivencia y es el modo preferido (I A). **ICP** alternativa si **SYNTAX ≤ 22** (I A) o complejidad intermedia 23–32 (IIa A) |
+| **IC + FEVI ≤ 35 % (sospecha de EAC obstructiva)** | Coronariografía invasiva para mejorar el pronóstico de la CABG (I B); valorar **viabilidad** |
+| **SCC + IC** | Integrar en programa multidisciplinar (I A); elegir revascularización vs tratamiento médico tras evaluación del equipo cardiológico |
+| **Guía del procedimiento** | **IVUS/OCT** en lesiones complejas, tronco, bifurcaciones (I A); **RFF/iFR** para guiar la lesión a tratar en multivaso (I A) |
+| **Tipo de stent** | **Stents farmacoactivos** de elección |
+
+> [!info] Factores ICP vs CABG
 > | | **ICP** | **CABG** |
 > |---|---|---|
-> | **Aspectos clínicos** | Comorbilidad importante, edad avanzada y fragilidad. Condiciones que afectan al proceso de rehabilitación | Diabetes mellitus. FEVI ≤ 35%. Contraindicación para doble antiagregación. Reestenosis de stent difusa y recurrente |
-> | **Aspectos técnicos** | **SYNTAX 0-22**. Probabilidad alta de incompleta revascularización con CABG. Deformación torácica y escoliosis grave. Secuelas de radiación torácica. Aorta "en porcelana" | **SYNTAX ≥ 23**. Probabilidad alta de revascularización incompleta con ICP. Calcificación coronaria extensa que dificulta la ICP. Indicación para otra cirugía cardíaca o aórtica concomitante |
->
-> *El score SYNTAX valora la dificultad de la revascularización percutánea en función de la anatomía coronaria estudiada por coronariografía.*
-
-> En caso de realizar ICP, son de elección los **stents farmacoactivos** frente a los convencionales.
+> | **Clínicos** | Comorbilidad, edad avanzada, fragilidad | Diabetes, FEVI ≤ 35 %, CI para doble antiagregación |
+> | **Técnicos** | **SYNTAX 0–22**, aorta "en porcelana", secuelas de radiación | **SYNTAX ≥ 23**, calcificación extensa, otra cirugía cardiaca concomitante |
 
 ---
 
-## 4. Seguimiento del SCC
+## 5. 🎯 Seguimiento y objetivos de FRCV
 
-El SCC por sí mismo implica un muy alto **riesgo cardiovascular a 5-10 años**, por lo que conviene realizar un seguimiento estrecho y asegurar un buen control de los FRCV. Además, es necesario monitorizar tanto la **adherencia** como la **tolerancia** y **eficacia** del tratamiento.
+El SCC implica **muy alto riesgo cardiovascular**: seguimiento estrecho de adherencia, tolerancia y eficacia. Favorecer **combinaciones a dosis fijas** y **mHealth** para la adherencia.
 
-> [!info] Tabla 9 — Objetivos de control de los FRCV en el SCC
->
+> [!info] Objetivos de control
 > | FRCV | Objetivo |
 > |---|---|
-> | **Tensión arterial** | TAS 120-140 mmHg / TAD 70-80 mmHg |
-> | **LDL** | **< 55 mg/dL** |
-> | **HbA1c** (en diabéticos) | **< 7%** |
+> | **Presión arterial** | TAS 120–140 / TAD 70–80 mmHg |
+> | **cLDL** | **< 55 mg/dL** + reducción ≥ 50 % |
+> | **HbA1c** (diabéticos) | < 7 % |
 
 ---
 
 ## Notas hermanas
 
-- [[Cardiopatía Isquémica - Concepto y Clasificación]] — clínica, CCS.
-- [[SCC - Diagnóstico]] — algoritmo de pasos 1-5, PPT, pruebas no invasivas.
-- [[SCA - Tratamiento Médico]] — antiagregación y anticoagulación en fase aguda.
-- [[SCA - Manejo Hospitalario y Prevención Secundaria]] — DAPT post-SCA, GDMT.
+- [[Cardiopatía Isquémica - Concepto y Clasificación]] — concepto, clínica, CCS.
+- [[SCC - Diagnóstico]] — estrategia paso a paso y estratificación de riesgo.
+- [[SCC - Probabilidad Pretest (PPT)]] · [[SCC - ANOCA e INOCA]].
+- [[SCA - Tratamiento Médico]] · [[SCA - Manejo Hospitalario y Prevención Secundaria]] — fase aguda y prevención secundaria post-SCA.
 - [[MOC - CARDIOLOGIA]]

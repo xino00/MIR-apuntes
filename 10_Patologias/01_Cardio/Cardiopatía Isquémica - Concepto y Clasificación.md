@@ -1,8 +1,8 @@
 ---
 aliases: [Cardiopatía isquémica, Cardiopatía Isquémica, CI, Angina, Angina de Pecho, Síndrome Coronario Crónico, SCC]
 tags: [cardio, patologia]
-fuente: "Manual 12 Octubre 2022 cap. 17 — Cardiopatía Isquémica (Guisasola, Ibarra, Martín Asenjo)"
-last_fact_checked: 2026-04-26
+fuente: "Guía ESC 2024 SCC §2 (Vrints et al., Eur Heart J 2024; doi:10.1093/eurheartj/ehae177; trad. SEC) + Manual 12 Octubre 2022 cap. 17"
+last_fact_checked: 2026-06-08
 ---
 
 # Cardiopatía Isquémica — Concepto y Clasificación
@@ -10,6 +10,14 @@ last_fact_checked: 2026-04-26
 **Concepto clave:** la cardiopatía isquémica (CI) es el cuadro clínico que aparece cuando el aporte de oxígeno miocárdico es menor que la demanda. La causa más frecuente es la **enfermedad arterial coronaria (EAC)**, que consiste en la formación de placas de ateroma en las arterias coronarias que obstruyen su luz y limitan el flujo coronario.
 
 La EAC es un **proceso crónico, progresivo, que puede desestabilizarse en cualquier momento** y poner en peligro la vida del paciente.
+
+> [!info] Modelo fisiopatológico actual (ESC 2024)
+> La ESC 2024 amplía el modelo clásico de "estenosis fija que limita el flujo" a uno **dinámico**: la isquemia del SCC puede deberse a alteraciones **estructurales o funcionales** a nivel **macro y microvascular**.
+> - **Macrovascular:** estenosis fija focal, aterosclerosis difusa, puente miocárdico, anomalías congénitas, **vasoespasmo epicárdico**.
+> - **Microvascular:** disfunción microvascular coronaria (presente en todo el espectro del SCC) → [[SCC - ANOCA e INOCA|ANOCA/INOCA]].
+> - **Extracoronario:** anemia, taquicardia, HVI/fibrosis pueden contribuir.
+>
+> Por eso un paciente puede tener angina e isquemia **sin estenosis obstructiva**, y distintos mecanismos coexistir.
 
 ---
 
@@ -21,6 +29,20 @@ La EAC es un **proceso crónico, progresivo, que puede desestabilizarse en cualq
 | **[[Síndrome Coronario Agudo]] (SCA)** | Inestabilización de la enfermedad coronaria por **ulceración / fisura / erosión** de la placa de ateroma o **disección coronaria** → trombo intraluminal. | AI / IAMSEST / IAMCEST |
 
 Ver desarrollo del SCA en [[SCA - Evaluación Inicial y Clasificación]].
+
+---
+
+## Presentaciones clínicas del SCC (ESC 2024)
+
+El SCC no es una sola enfermedad sino un **espectro**. La guía reconoce 5 escenarios de presentación (Figura 1):
+
+1. **Angina/isquemia de esfuerzo con EAC obstructiva** (la forma "clásica").
+2. **Angina/isquemia sin obstrucción** → [[SCC - ANOCA e INOCA|ANOCA/INOCA]] (anomalías vasomotoras epicárdicas o disfunción microvascular).
+3. **Fase estabilizada tras un SCA, ICP o CABG.**
+4. **Disfunción del VI / insuficiencia cardiaca de origen isquémico.**
+5. **Asintomáticos** con pruebas anatómicas o funcionales anormales (hallazgo en cribado de riesgo o incidental).
+
+> El curso es **variable e impredecible**: un mismo paciente puede transitar entre formas de SCC y [[SCA - Evaluación Inicial y Clasificación|SCA]] a lo largo de su vida. En **mujeres** son más frecuentes los síntomas no anginosos (disnea, fatiga) y la angina microvascular.
 
 ---
 
@@ -37,6 +59,13 @@ La EAC se presenta clásicamente como angina de pecho típica, aunque otras enti
 > | **Irradiación** | Epigastrio, mandíbula, hombros, brazos, muñecas, dedos y espalda (región interescapular) |
 > | **Relación con la postura** | Generalmente no se modifica al cambiar de postura. En ocasiones puede empeorar al tumbarse (por aumento del retorno venoso al corazón) |
 > | **Síntomas asociados** | Disnea (de mal pronóstico, indica compromiso respiratorio secundario). Cortejo vegetativo: diaforesis, náuseas/vómitos, malestar abdominal inespecífico, mareo |
+
+> [!tip] Terminología ESC 2024 — de "típica/atípica" a puntos
+> La ESC 2024 sustituye la clasificación cualitativa por una **escala de puntos** (0–3) que alimenta la probabilidad pretest, e incorpora la **disnea de esfuerzo** como equivalente anginoso:
+> - **3 características** (opresión retroesternal/irradiada + desencadenada por esfuerzo/estrés + cede con reposo/nitratos < 5 min) = angina **típica** (3 puntos).
+> - **2 de 3** = angina **atípica** (2 puntos); **0–1** = síntomas no anginosos.
+>
+> Modelo completo y tablas → [[SCC - Probabilidad Pretest (PPT)]].
 
 ---
 
@@ -87,7 +116,9 @@ Equivalentes anginosos atípicos frecuentes: disnea aislada, síncope, epigastra
 
 ## Notas hermanas
 
-- [[SCC - Diagnóstico]] — algoritmo de pasos 1-5 (síntomas, FRCV, pruebas básicas, PPT, prueba definitiva).
-- [[SCC - Tratamiento]] — antianginosos, antitrombóticos, revascularización electiva, objetivos FRCV.
+- [[SCC - Probabilidad Pretest (PPT)]] — modelo RF-CL / CACS-CL y umbrales de decisión.
+- [[SCC - Diagnóstico]] — estrategia paso a paso ESC 2024 y estratificación de riesgo.
+- [[SCC - ANOCA e INOCA]] — angina/isquemia sin obstrucción coronaria.
+- [[SCC - Tratamiento]] — antianginosos, prevención de eventos, revascularización, objetivos FRCV.
 - [[SCA - Evaluación Inicial y Clasificación]] — fisiopatología SCA, ECG, troponinas, estratificación.
 - [[MOC - CARDIOLOGIA]]

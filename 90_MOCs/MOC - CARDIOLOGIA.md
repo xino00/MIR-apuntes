@@ -54,9 +54,11 @@ description: "Índice de cardiología: hipertensión, insuficiencia cardiaca, SC
 - [[Cardiopatías Congénitas del Adulto]]
 - [[TEP - Tromboembolismo Pulmonar]]
 
-### 🫀 Cardiopatía Isquémica — Síndrome Coronario Crónico
+### 🫀 Cardiopatía Isquémica — Síndrome Coronario Crónico (Guía ESC 2024)
 - [[Cardiopatía Isquémica - Concepto y Clasificación]]
+- [[SCC - Probabilidad Pretest (PPT)]]
 - [[SCC - Diagnóstico]]
+- [[SCC - ANOCA e INOCA]]
 - [[SCC - Tratamiento]]
 
 ### 🚨 Síndrome Coronario Agudo (Manual 12 Octubre + ACC/AHA 2025)
