@@ -1,6 +1,6 @@
 ---
 tags: [referencia, indice, biblioteca]
-fecha_actualizacion: 2026-04-20
+fecha_actualizacion: 2026-06-08
 description: "Inventario de PDFs y guías clínicas del vault organizado por especialidad"
 ---
 
@@ -34,16 +34,22 @@ Inventario y mapeo del corpus de guías clínicas en `Libros y referencias/`. Ca
 |---|---|---|---|
 | Manual 12 Octubre 2022.pdf | 2022 | H 12 Octubre | Fallback transversal todas las especialidades |
 
-### 02_Cardiologia/  (15 guías · cobertura 100% Cardio)
+### 02_Cardiologia/  (guías ESC/ACC-AHA + consensos · cobertura 100% Cardio)
+
+> Esquema de nombres unificado `<Sociedad> <Año> - <Tema>.pdf`. Sufijo `(ES)`/`(EN)` cuando se conservan original inglés y traducción SEC. La ESC 2015 - Pericardio quedó **sustituida** por la ESC 2025 (Miocarditis y Pericarditis) y se eliminó del corpus.
 
 | Archivo | Año | Sociedad | Notas que valida |
 |---|---|---|---|
 | ACC-AHA 2025 - SCA.pdf | 2025 | ACC/AHA/ACEP/NAEMSP/SCAI | [[Síndrome Coronario Agudo]], [[SCA - Tratamiento Medico (ACC-AHA 2025)]], [[SCA - Evaluación Inicial]], [[SCA - Reperfusión]], [[SCA - Manejo Hospitalario]], [[SCA - Complicaciones y Shock]], [[Cardiopatía isquémica]] |
+| ACC-AHA 2026 - Dislipemia/ (2 partes) | 2026 | ACC/AHA | [[Dislipemia - Concepto y Cribado]], [[Tratamiento de la Dislipemia]], [[Prevención Primaria de ASCVD]], [[Prevención Secundaria de ASCVD]], [[Hipertrigliceridemia y Lipoproteína(a)]], [[Síntomas Musculares por Estatinas (SAMS)]] |
+| AHA 2023 - Sindrome CRM (advisory).pdf | 2023 | AHA (Ndumele et al) | [[Síndrome Cardiovascular-Renal-Metabólico]] |
+| AHA 2023 - Sindrome CRM (sinopsis).pdf | 2023 | AHA (Ndumele et al) | [[Síndrome Cardiovascular-Renal-Metabólico]] |
 | AHA 2026 - TEP.pdf | 2026 | AHA/ACC | [[TEP - Tromboembolismo Pulmonar]] |
-| ESC 2015 - Pericardio.pdf | 2015 | ESC | [[Pericarditis Aguda]], [[Taponamiento Cardiaco]] |
-| ESC 2018 - Sincope.pdf | 2018 | ESC | [[Síncope]] |
+| ESC 2018 - Sincope (EN).pdf | 2018 | ESC | [[Síncope]] (original inglés) |
+| ESC 2018 - Sincope (ES).pdf | 2018 | ESC / SEC | [[Síncope]] (traducción SEC) |
 | ESC 2020 - Cardiopatias Congenitas Adulto.pdf | 2020 | ESC | [[Cardiopatías Congénitas del Adulto]] |
 | ESC 2021 - Insuficiencia Cardiaca.pdf | 2021 | ESC | [[Insuficiencia cardiaca]], [[Insuficiencia cardiaca aguda]], [[Manejo Diurético Deterioro Renal ICA]], [[Síndrome Cardiorrenal]] |
+| ESC 2021 - Prevencion CV.pdf | 2021 | ESC | Prevención cardiovascular en la práctica clínica |
 | ESC 2022 - Arritmias Ventriculares y MSC.pdf | 2022 | ESC | [[Arritmias]] (parte ventricular) |
 | ESC 2023 - Endocarditis.pdf | 2023 | ESC | [[Endocarditis Infecciosa]] |
 | ESC 2023 - IC Focused Update.pdf | 2023 | ESC | [[Insuficiencia cardiaca]] (SGLT2i en HFmrEF/HFpEF) |
@@ -51,8 +57,11 @@ Inventario y mapeo del corpus de guías clínicas en `Libros y referencias/`. Ca
 | ESC 2024 - Fibrilacion Auricular.pdf | 2024 | ESC/EACTS | [[Fibrilación Auricular (FA)]], [[Escala CHA2DS2-VASc y HAS-BLED]] |
 | ESC 2024 - HTA.pdf | 2024 | ESC | [[Tratamiento Farmacológico de la Hipertensión]], [[HTA - Clasificación PA]], [[HTA - Resistente]], [[HTA - Riesgo Cardiovascular]], [[HTA - Daño Orgánico]], [[HTA - Diagnóstico y Causas Secundarias]], [[HTA - Fisiopatología]], [[HTA - Poblaciones Especiales]], [[HTA - Medición PA]], [[HTA - Tratamiento No Farmacológico]] |
 | ESC 2024 - PAD y Aorta.pdf | 2024 | ESC | [[Síndrome Aórtico Agudo y Enfermedad Aórtica]] |
-| ESC 2025 - Miocarditis y Pericarditis.pdf | 2025 | ESC | [[Pericarditis Aguda]], [[Taponamiento Cardiaco]] (focused update) |
+| ESC 2025 - Miocarditis y Pericarditis (ES).pdf | 2025 | ESC / SEC | [[Miocarditis]], [[Pericarditis Aguda]], [[Taponamiento Cardiaco]], [[Síndrome Inflamatorio Miopericárdico (SIMP)]], [[Pericarditis Constrictiva]], [[Derrame Pericárdico]] (traducción SEC, **fuente primaria**) |
+| ESC 2025 - Miocarditis y Pericarditis (EN).pdf | 2025 | ESC | Mismas notas que la versión ES (original inglés) |
 | ESC-EACTS 2025 - Valvulopatias.pdf | 2025 | ESC/EACTS | [[Valvulopatías]] |
+| HFA 2019 - HFpEF (PEFF).pdf | 2019 | HFA-ESC (Pieske et al) | [[Insuficiencia cardiaca]] (diagnóstico IC-FEp, algoritmo HFA-PEFF) |
+| Reddy 2018 - Score H2FPEF.pdf | 2018 | Mayo Clinic (Reddy et al) | [[Insuficiencia cardiaca]] (score H2FPEF) |
 
 ### 03_Nefrologia/  (4 guías)
 
