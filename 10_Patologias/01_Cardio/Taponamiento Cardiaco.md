@@ -1,16 +1,16 @@
 ---
 aliases: [Taponamiento Pericárdico, TC]
 tags: [urgencias, cardio, patologia, criticos]
-fuente: "ESC 2015 Pericardial Diseases (ehv318) + Manual 12 Octubre 2022 cap. 19"
-last_fact_checked: 2026-04-20
+fuente: "ESC 2025 Miocarditis y Pericarditis (cap. 11.8, Tabla 8, Figura 12) + Manual 12 Octubre 2022 cap. 19"
+last_fact_checked: 2026-06-08
 ---
 # Taponamiento Cardíaco
 
-**Fuente:** ESC 2015 Pericardial Diseases + Manual 12 de Octubre, Cap. 19.
+**Fuente:** ESC 2025 Myocarditis & Pericarditis + Manual 12 de Octubre, Cap. 19.
 **Concepto clave:** Es una emergencia médica. Aparece cuando el derrame pericárdico produce una elevación aguda de la presión intrapericárdica de tal magnitud que SUPERA la presión de llenado de las cavidades cardíacas. Esto impide su correcto llenado diastólico (especialmente cavidades derechas), bajando críticamente el gasto cardíaco y provocando colapso circulatorio progresivo.
 
 ## 📋 Cuadro Clínico y Fisiopatológico
-La velocidad de instauración del líquido es el determinante principal (derrames muy pequeños pero hiperagudos tamponarán, mientras que el saco se distiende ante volúmenes masivos de acumulación lentamente progresiva). Etiologías principales: **Neoplásica, Purulenta (Bacteriana)**, Postcirugía Cardíaca, IAM (Rotura pared libre), Disección Aórtica (Tipo A).
+La velocidad de instauración del líquido es el determinante principal (derrames muy pequeños pero hiperagudos tamponarán, mientras que el saco se distiende ante volúmenes masivos de acumulación lentamente progresiva). Etiologías (ESC 2025, Tabla 8) — **comunes por orden de frecuencia: neoplasia/malignidad, iatrogénica/traumatismo, pericarditis y tuberculosis** (1ª causa en países en vías de desarrollo); menos frecuentes: enfermedades del colágeno (LES, AR, esclerodermia), síndrome de daño pericárdico, IAM (rotura de pared libre), disección aórtica (tipo A), uremia, infección bacteriana y neumopericardio.
 
 - **Tríada de Beck (Signos Clásicos):**
   1. Hipotensión arterial (Severa / [[Shock]] Cardiogénico).
@@ -34,8 +34,16 @@ El tratamiento curativo implica evacuar el líquido para re-expandir el corazón
 2. **Lo que NUNCA se debe dar:** Diuréticos y/o Vasodilatadores **(ESTRICTAMENTE CONTRAINDICADOS)** ya que dependen totalmente de altas presiones venosas para el llenado y causarían un paro cardíaco circulatorio repentino.
 3. **Pericardiocentesis Urgente:** (Drenaje percutáneo, guiado por Fluoroscopia/ETT) o *Ventana Pericárdica Quirúrgica* (indicada primariamente en Disección Tipo A, Traumatismos Graves o Rotura miocárdica). El catéter suele mantenerse hasta un débito inferior a 25 ml/día.
 
+> [!tip] Triaje ESC 2025 — ¿drenar ya o diferir? (Figura 12)
+> Ante un taponamiento confirmado, la guía propone una **puntuación acumulativa** que combina etiología (malignidad o TB +2…), presentación clínica (ortopnea +3, disnea/taquipnea +1, pulso paradójico > 10 mmHg +1, hipotensión PAS < 95 +0,5…) e imagen (derrame circunferencial grande +3, VCI dilatada no colapsada +1,5, colapso de VD +1,5, colapso de AI +2, corazón oscilante +1…).
+> - **≥ 6 puntos en ≥ 2 categorías → pericardiocentesis con drenaje.** Si **mejora** → seguimiento ambulatorio; si **no mejora** → ventana pericárdica.
+> - **< 6 puntos → posponer la pericardiocentesis** y dar **tratamiento antiinflamatorio empírico** (la mayoría del peso clínico recae en derrames inflamatorios sin compromiso hemodinámico franco).
+> *El juicio clínico y la inestabilidad hemodinámica priman: un taponamiento con shock se drena sin esperar a sumar puntos.*
+
 ### 🔗 Enlaces / Bibliografía
+- [[Derrame Pericárdico]]
 - [[Pericarditis Aguda]]
+- [[Síndrome Inflamatorio Miopericárdico (SIMP)]]
 - [[Insuficiencia cardiaca aguda]]
 - [[Arritmias]]
 - *Manual de diagnóstico y terapéutica médica Hospital 12 de Octubre, 9º ed. 2022. Cap. 19.*

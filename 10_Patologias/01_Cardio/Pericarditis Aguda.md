@@ -1,12 +1,12 @@
 ---
-aliases: [Pericarditis, PA, SIMP]
+aliases: [Pericarditis, Pericarditis aguda, PA]
 tags: [urgencias, cardio, patologia]
-fuente: "ESC 2025 Miocarditis y Pericarditis + ESC 2015 Pericardio + Manual 12 Octubre 2022 cap. 19"
-last_fact_checked: 2026-04-20
+fuente: "ESC 2025 Miocarditis y Pericarditis + Manual 12 Octubre 2022 cap. 19"
+last_fact_checked: 2026-06-08
 ---
 # Pericarditis Aguda
 
-**Fuente:** ESC 2025 Myocarditis & Pericarditis + ESC 2015 Pericardial Diseases + Manual 12 de Octubre, Cap. 19.
+**Fuente:** ESC 2025 Myocarditis & Pericarditis + Manual 12 de Octubre, Cap. 19.
 
 > [!info] Nueva nomenclatura ESC 2025 — SIMP
 > La guía **ESC 2025 (Myocarditis and Pericarditis)** introduce el concepto **SIMP (Síndrome Inflamatorio MioPericárdico)** cuando hay **solapamiento** entre miocarditis y pericarditis (miopericarditis / perimiocarditis), unificando la nomenclatura y el algoritmo diagnóstico-terapéutico.
@@ -43,6 +43,10 @@ El curso habitual es benigno si se trata correctamente. *La falta de reposo o ab
    - Indicados cuando la pericarditis recurre a pesar de AINEs + colchicina y ya depende de corticoides, o cuando la retirada del corticoide produce recidiva inmediata. Permiten retirar el corticoide y reducir recurrencias.
 
 ### 🔗 Enlaces / Bibliografía
+- [[Síndrome Inflamatorio Miopericárdico (SIMP)]]
+- [[Miocarditis]]
+- [[Derrame Pericárdico]]
+- [[Pericarditis Constrictiva]]
 - [[Taponamiento Cardiaco]]
 - [[MOC - CARDIOLOGIA]]
 - *Manual de diagnóstico y terapéutica médica Hospital 12 de Octubre, 9º ed. 2022. Cap. 19.*
