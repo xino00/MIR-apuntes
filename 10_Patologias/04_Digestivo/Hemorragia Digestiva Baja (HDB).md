@@ -2,9 +2,9 @@
 aliases: [HDB, Hemorragia digestiva baja, Hematoquecia, Rectorragia, Oakland Score]
 tags: [urgencias, digestivo, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"
-fuente: "Manual 12 Octubre 2022, cap. 36 HDA/HDB (p. 521-525) + ESGE 2021 (HDB)"
+fuente: "Manual 12 Octubre 2022, cap. 36 HDA/HDB (p. 521-525) + ESGE 2021 (HDB) + ACG 2023 (HDB)"
 last_fact_checked: 2026-06-08
-fuentes_guia: ["ESGE 2021 - Acute Lower GI Bleeding"]
+fuentes_guia: ["ESGE 2021 - Acute Lower GI Bleeding", "ACG 2023 - Acute Lower GI Bleeding (Sengupta)"]
 ---
 # Hemorragia Digestiva Baja (HDB)
 
@@ -91,7 +91,7 @@ Por debajo del ángulo de Treiz (intestino delgado y colon). Asocian menor morta
 
 ### Diagnóstico y Tratamiento Definitivo
 
-El manejo se decide según la estabilidad hemodinámica. Fuentes: Manual cap. 36 (Figura 4) + ESGE 2021.
+El manejo se decide según la estabilidad hemodinámica. Fuentes: Manual cap. 36 (Figura 4) + ESGE 2021 + ACG 2023.
 
 **Criterio de inestabilidad:** hipotensión arterial o **índice de shock (FC/TA) > 1**.
 
@@ -103,7 +103,7 @@ El manejo se decide según la estabilidad hemodinámica. Fuentes: Manual cap. 36
 **Paciente ESTABLE con sangrado MAYOR (Oakland >8) → Colonoscopia** (prueba inicial, diagnóstica y terapéutica):
 - Durante el ingreso, **no necesariamente <24 h** (la colonoscopia urgente no reduce mortalidad ni resangrado). Considerar **<24 h** si datos de alto riesgo + sangrado activo.
 - Requiere **preparación intestinal** adecuada (los enemas reducen el rendimiento diagnóstico).
-- Si hay estigmas de sangrado reciente (sangrado activo, vaso visible o coágulo adherido) → **hemostasia endoscópica** (sin tratar, resangrado >60%).
+- Si hay estigmas de sangrado reciente (sangrado activo, vaso visible o coágulo adherido) → **hemostasia endoscópica** — clips, ligadura con banda o coagulación (sin tratar, resangrado >60%).
 - Intubar el **íleon terminal** para descartar origen en tramos superiores.
 
 **Paciente ESTABLE con sangrado MENOR (Oakland ≤8) → Alta + colonoscopia ambulatoria**, idealmente en **2 semanas** si >50 años o sospecha de malignidad (el cáncer colorrectal causa el 6-17% de las HDB).
@@ -113,6 +113,20 @@ Tras gastroscopia y colonoscopia normales → "sangrado potencial de intestino d
 - **Cápsula endoscópica**: prueba de 1ª elección (mejor <2 semanas, idealmente <48-72 h).
 - **Enteroscopia**: si contraindicación de cápsula (sospecha de estenosis), hemorragia masiva o cirugía con bypass.
 - **Entero-TC** (lesiones inflamatorias/vasculares/tumorales), **Angio-TC** (útil en inestabilidad) y **gammagrafía con hematíes marcados** (sensible pero solo orienta el área).
+
+### Manejo de antitrombóticos (ACG 2023)
+
+**Reversión en fase aguda** (solo si sangrado potencialmente mortal; la mayoría no la precisa):
+- **AVK (Sintrom/warfarina):** si hace falta revertir, **complejo protrombínico de 4 factores (4F-CCP) preferible al plasma** (revierte el INR más rápido) + vitamina K. La hemostasia endoscópica es segura con **INR ≤2,5**.
+- **ACOD:** revertir solo si no responde a la reanimación y al cese del fármaco; **idarucizumab** (dabigatrán) o **andexanet alfa** (apixabán/rivaroxabán) si la última toma fue <24 h.
+- **Plaquetas:** mantener **>30.000** (**>50.000** si se prevé procedimiento endoscópico). Sin beneficio de la transfusión rutinaria de plaquetas en antiagregados.
+- **NO usar ácido tranexámico** (sin beneficio y posible aumento de eventos tromboembólicos).
+
+**Reanudación tras el cese del sangrado:**
+- **Anticoagulación: reiniciar** — su reanudación reduce el tromboembolismo y la mortalidad.
+- **AAS en prevención secundaria** (enfermedad CV establecida): continuar/reanudar pronto. **AAS en prevención primaria:** suspender.
+- **AINE no-aspirina:** suspender tras una hemorragia diverticular.
+- **P2Y12 (clopidogrel…):** decisión multidisciplinar; reanudar pronto si hay stent coronario reciente (<1 año).
 
 ## Plantilla de Guardia
 
