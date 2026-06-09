@@ -1,6 +1,6 @@
 ---
 aliases: [Medicamentos HTA, Fármacos Antihipertensivos, IECA, ARA2, BCC, Tiazidas]
-tags: [cardio, HTA, farmaco]
+tags: [cardio, hta, farmaco]
 fuente: "ESC 2024 HTA (ehae178) Tablas 3-4 + §9.8"
 last_fact_checked: 2026-04-20
 ---

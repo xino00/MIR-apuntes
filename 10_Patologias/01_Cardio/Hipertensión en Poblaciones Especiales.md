@@ -1,6 +1,6 @@
 ---
 aliases: [HTA en Poblaciones Especiales, HTA Embarazo, HTA Ancianos, HTA Diabetes, HTA ERC]
-tags: [cardio, HTA, cronico]
+tags: [cardio, hta, cronico]
 fuente: "ESC 2024 HTA (ehae178) + CHAP trial (NEJM 2022)"
 last_fact_checked: 2026-04-20
 ---

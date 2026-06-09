@@ -1,6 +1,6 @@
 ---
 aliases: [Formoterol, Oxis, Foradil, LABA]
-tags: [farmaco, neumo, EPOC, asma, broncodilatador]
+tags: [farmaco, neumo, epoc, asma, broncodilatador]
 ---
 # Formoterol
 

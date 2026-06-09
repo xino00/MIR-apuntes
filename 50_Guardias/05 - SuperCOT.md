@@ -1,5 +1,5 @@
 ---
-tags: [plantilla, guardia, COT]
+tags: [plantilla, guardia, cot]
 ---
 
 APUNTES TRAUMATOLOGÍA

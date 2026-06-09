@@ -1,6 +1,6 @@
 ---
 aliases: [HTA Resistente, Hipertensión Refractaria, Crisis Hipertensiva, Emergencia Hipertensiva, Urgencia Hipertensiva, HTA Maligna]
-tags: [cardio, HTA, urgencias]
+tags: [cardio, hta, urgencias]
 fuente: "ESC 2024 HTA + Manual 12 Octubre 2022 (cap. 14)"
 last_fact_checked: 2026-04-20
 ---

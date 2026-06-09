@@ -1,5 +1,5 @@
 ---
-tags: [plantilla, guardia, COT, rehabi]
+tags: [plantilla, guardia, cot, rehabi]
 ---
 
 PLANTILLAS COT ALEX REHABI

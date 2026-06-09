@@ -1,5 +1,5 @@
 ---
-tags: [plantilla, guardia, COT, trauma]
+tags: [plantilla, guardia, cot, trauma]
 ---
 
 Unión de superCOT (pendiente revisar)+ COT alex rhb (hecho) + COT regi  (hecho)

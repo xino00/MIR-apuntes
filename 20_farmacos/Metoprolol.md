@@ -1,6 +1,6 @@
 ---
 aliases: [Metoprolol, Beloc]
-tags: [farmaco, betabloqueante, cardio, HTA]
+tags: [farmaco, betabloqueante, cardio, hta]
 ---
 # Metoprolol
 

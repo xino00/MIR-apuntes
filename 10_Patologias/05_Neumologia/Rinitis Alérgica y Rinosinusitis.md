@@ -1,6 +1,6 @@
 ---
 aliases: [Rinitis alérgica, Rinoconjuntivitis alérgica, Rinoconjuntivitis estacional, SAR, Polinosis, Rinosinusitis crónica, Poliposis nasal, RSCcPN, EREA]
-tags: [neumo, asma, gema, aria, patologia, rinitis, rinoconjuntivitis, rinosinusitis, urgencias, ORL]
+tags: [neumo, asma, gema, aria, patologia, rinitis, rinoconjuntivitis, rinosinusitis, urgencias, orl]
 ---
 # Rinitis Alérgica y Rinosinusitis Asociadas al Asma
 

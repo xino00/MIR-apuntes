@@ -1,6 +1,6 @@
 ---
 aliases: [Bisoprolol, Emconcor]
-tags: [farmaco, betabloqueante, cardio, HTA]
+tags: [farmaco, betabloqueante, cardio, hta]
 ---
 # Bisoprolol
 
