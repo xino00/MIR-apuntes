@@ -1,46 +1,82 @@
 ---
 aliases: [Metronidazol, Flagyl]
-tags: [farmaco, antibiotica, antiprotozoario, anaerobios]
+tags: [farmaco, antibiotico, infecciosas, digestivo]
+last_fact_checked: 2026-06-09
 ---
 # Metronidazol
 
-**Clase:** Antibacteriano sistémico y Antiprotozoario (Nitroimidazol inactivo activable).
-**Fuente:** Ficha Técnica CIMA AEMPS.
+**Clase:** Nitroimidazol. Antibacteriano frente a anaerobios estrictos + antiprotozoario (Trichomonas, Giardia, Entamoeba). Bactericida.
+**Fuente:** Manual 12 de Octubre 2022 + Ficha Técnica CIMA AEMPS (Metronidazol Normon 250 mg comprimidos, nº registro 62223; solución 5 mg/ml para perfusión, nº registro 62224).
 
-## 1. Mecanismo de Acción
-Bactericida muy peculiar. Es un profármaco que, en un ambiente estrictamente reductor libre de oxígeno intracelular, es reducido a metabolitos tóxicos libres reactivos radiculares interconectores general destruccionales para la cadena central intrínseca genómica hélicoidal del ADN y rotura aguda letal hebral bacteriana en 1/2 h letal. **ESPECTRO:** Exclusivo e implacable contra **Bacterias Anaerobias estrictas** (Bacteroides, Clostridium, Prevotella) y múltiples **Protozoos** parasitorios asintomáticos luminales sistémicos generales causales amebianos (Trichomonas, Giardia, Entamoeba histolytica). (NO cubre ningún patógeno aerobio).
+> **Presentaciones (CIMA):** comprimidos de 250 mg v.o. y solución para perfusión 5 mg/ml i.v. La marca histórica es Flagyl. Biodisponibilidad oral excelente (90-100%): siempre que tolere la v.o., usar oral (PROA - Otros Antimicrobianos).
+
+## 1. Posología y Administración
+
+| Indicación | Dosis | Vía | Frecuencia / Duración |
+|---|---|---|---|
+| Infección anaerobia / intraabdominal (en combinación) | 500 mg | i.v. o v.o. | cada 8 h (Manual p. 1098) |
+| **C. difficile** — 2.ª línea (1.ª = vancomicina v.o.) | 500 mg | v.o. | cada 8 h, 10 días (Manual p. 1107) |
+| C. difficile fulminante / con íleo (añadido a vancomicina) | 500 mg | i.v. | cada 8 h (Manual p. 1107) |
+| **Tricomoniasis** | 2 g dosis única **o** 500 mg/12 h × 7 días | v.o. | DU o 7 días (Manual p. 1035) |
+| **Vaginosis bacteriana** | 500 mg/12 h × 7 días **o** gel vaginal 0,75% 5 g/24 h × 5 días | v.o. / vaginal | (Manual p. 1035; PROA ITS) |
+| **Giardiasis** | 250 mg | v.o. | cada 8 h, 5 días (Manual p. 476) |
+| **Amebiasis** (Entamoeba histolytica) | 500-750 mg | v.o. | cada 8 h, 7 días (Manual p. 476) |
+| Absceso hepático amebiano (extraluminal) | 750 mg | v.o./i.v. | cada 8 h, 7-10 días + luminal posterior (Manual p. 1212) |
+| EIP ambulatoria (con ceftriaxona + doxiciclina) | 500 mg | v.o. | cada 12 h, 14 días (Manual p. 1035) |
+
+> El tratamiento del **absceso amebiano** y de la **amebiasis** requiere asociar después un fármaco luminal quisticida (paromomicina o yodoquinol) para erradicar los quistes (Manual p. 1212). En la **tricomoniasis** tratar siempre a la pareja sexual.
+
+**Ajuste renal:** **no requiere ajuste** (CIMA: los datos limitados no indican necesidad de reducir la dosis; PROA - Otros Antimicrobianos).
+**Ajuste hepático:**
+- PROA - Otros Antimicrobianos: Child-Pugh A y B sin cambios; **Child-Pugh C → reducir la dosis a la MITAD**.
+- CIMA (insuficiencia hepática grave): reducir la dosis diaria total a **un tercio**, administrada en dosis única diaria.
+
+**Duración:** salvo indicaciones concretas (CDI 10 días, amebiasis, etc.), la FT recomienda **no superar los 10 días** de tratamiento continuado por riesgo de neurotoxicidad (CIMA).
 
 ## 2. Indicaciones Clínicas Principales
-Tratamiento ideal en escenarios cavitados, ginecológicos, abdominales o colonoscópicos empíricos extraintestinales / intestinales:
-- Endometritis, **[[Enfermedad Inflamatoria Pélvica]]** en combinación intravenosa u oral al régimen ITS y abscesos tubo-ováricos pélvicos. Infecciones del útero posparto y posquirúrgico ginecológico abdominal mixto severo de riesgo fecal diseminado pélvico colónico pre resectado intra quirúrgico en pared de herida isquémica posoperatoria abdominal purulenta ([[Ceftriaxona]] + Metronidazol indispensable general empírico extra). Ver: [[PROA - Infecciones de Transmisión Sexual (ITS)]].
-- Tricomoniasis vulvovaginal / uretral asintomática genital masculina/femenina (Cervicitis / Vaginitis en Fresa aguda). 
-- Infección parasitaria (Amebiasis extraintestinal hepática abscesual asintomática dolorosa / Giardiasis aguda).
-- Acné rosácea focal demomediada extra e infecciones periodontales odontogénicas orales masivas no tratables purulentas (Alternativo [[Amoxicilina]] o en uniones empíricas mixtas). En C. Difficile es 2a opción a [[Vancomicina]] extra colónica general sistémica IV si ileo obstructivo genérico intercurrente oral imposible agudo.
+
+- **Anaerobios estrictos** (Bacteroides, Clostridium, Prevotella, Fusobacterium): pieza fija de la cobertura **intraabdominal** asociado a un betalactámico/cefalosporina (p. ej. [[Ceftriaxona]] + metronidazol en peritonitis, diverticulitis complicada y absceso hepático de origen entérico) (Manual cap. 73, p. 1098-1102).
+- **Infección por *Clostridioides difficile* (CDI):** alternativa de **2.ª línea** (500 mg/8 h v.o. 10 días) cuando no hay vancomicina oral ni fidaxomicina; añadido i.v. a la vancomicina en la colitis **fulminante** o con íleo (Manual p. 1107).
+- **Tricomoniasis** y **vaginosis bacteriana** (de elección; en embarazo/VIH preferir 500 mg/12 h 7 días) (Manual p. 1035; [[PROA - Infecciones de Transmisión Sexual (ITS)]]).
+- **Enfermedad inflamatoria pélvica (EIP)** en combinación con ceftriaxona + doxiciclina (Manual p. 1035; PROA ITS).
+- **Protozoos intestinales:** giardiasis y amebiasis (intestinal y extraintestinal/hepática) (Manual p. 476, 1212).
+- Componente anaerobio en **infecciones del SNC** por contigüidad (absceso cerebral odontógeno/sinusal, empiema) asociado a cefalosporina (Manual p. 1082-1084).
+
+> **No cubre patógenos aerobios** (ni grampositivos ni gramnegativos aerobios): siempre se asocia a otro antibiótico para cubrir la flora aerobia en infecciones polimicrobianas.
 
 ## 3. Contraindicaciones y Precauciones
-- **Ajuste Hepático Exclusivo (OJO):** Child PUGH-C agudo cirrótico general persistente prolonga radical su metabolismo lento e incrementa encefalopatías agudas pre-comatosas hepáticas asintomáticas reversibles no advertibles; requiere rebaja basal universal del 50%. (Ver: [[PROA - Otros Antimicrobianos]]). RIÑÓN= Irrelevante (Asintomático general a la ERC no requiere bajadas sistémicas empíricas).  
-- **Embarazo 1r Trimestre Mutagénico:** Teórico abortifaciente o defectos general teratogénicos inespecíficos por lesión en el ADN estructural celular organogénico inicial fetal (Lactancia sabor amargo excretado transitorio no evaluable nocivo masivo diarrea lactante menor asintomático colónico lactogénico purificador al día pos la única toma de 2 gramos final transitoria en tricomoniasis aguda letaloide simple intercurrente extra).
+
+**Contraindicaciones (CIMA):**
+- Hipersensibilidad al metronidazol u otros derivados 5-nitroimidazol o a los excipientes.
+- **Primer trimestre del embarazo.**
+
+**Precauciones:**
+- **Alcohol — efecto antabús (disulfiram-like):** NO consumir alcohol durante el tratamiento ni hasta **al menos 48 h** después de la última dosis (CIMA; la práctica habitual amplía a 48-72 h). Reacción con rubor, náuseas/vómitos, taquicardia y cefalea.
+- **Embarazo:** contraindicado en el 1.er trimestre; en 2.º-3.er trimestre solo si el beneficio supera el riesgo (CIMA).
+- **Lactancia:** se excreta en leche en concentraciones similares al plasma → **no usar durante la lactancia**; si es imprescindible la pauta de 2 g en dosis única, suspender la lactancia ese día (CIMA).
+- **Tratamientos prolongados / neurotoxicidad:** no exceder 10 días por riesgo de neuropatía periférica; vigilar clínica neurológica en ciclos largos (CIMA).
+- **Insuficiencia hepática:** reducir dosis (ver sección 1).
 
 ## 4. Reacciones Adversas (RAM) Frecuentes
-- **Efecto ANTABÚS (Disulfiram-Like mortaloide de emesis violenta aguda isquémica extra taquicardial vasomotora masiva sistémica aguda etílica transitoria persistente neurológica o síncope general rubicundo transpirativo de angustia mortal):** Jamás ingerir bebida / excipiente del etanol intra o <48h/72h finalizado el esquema posológico del antibiótico metronidazólico.
-- Neuritis Periférica (Parestesias adormecidas terminales) / Convulsiones por acumulación hepatoencefalopática general de encefalograma lento epiléptico neurológico disociante reversible letaloide simple.
-- Orina Rojo parda transitoria benigna asintomática espectral urológica cromática exógena metabólica urinaria general en el uréter no obstructiva limpia asintomática persistente a la interrupción masiva medicamentosa intra renal vesical exógena de metabolización azo pre tinte. 
-- Gusto inmensamente **metálico insoportable persistente pos-toma salivar de regusto ácido inespecífico nauseoso en el estomago vacío** letaloide diario (frecuente en 1 de 10 o boca seca de algodoncillo general transitorio).
 
-## 5. Posología y Administración
-| Indicación | Dosis | Vía | Frecuencia |
-|---|---|---|---|
-| Infección anaerobia grave (abdominal, gin.) | 500 mg | IV (30 min) | Cada 8h |
-| Vaginitis / Tricomoniasis | 500 mg | VO | Cada 12h x 7 días (o 2g dosis única) |
-| Giardiasis / Amebiasis | 250-500 mg | VO | Cada 8h x 5-10 días |
-| CDI (2ª línea si íleo) | 500 mg | IV | Cada 8h |
+- **Sabor metálico** y otras alteraciones del gusto (disgeusia) — muy característico (CIMA).
+- **Digestivas:** náuseas, vómitos; glositis y estomatitis; superinfección por *Candida* (CIMA).
+- **Neuropatía sensitiva periférica** (parestesias) en tratamientos prolongados; raramente convulsiones / encefalopatía (CIMA).
+- **Coloración oscura/rojo-parda de la orina** — benigna y reversible (CIMA).
+- **Reacción tipo disulfiram** con alcohol (ver Precauciones).
 
-**Ajuste Renal:** Sin ajuste. **Ajuste Hepático (Child-C):** Reducir dosis 50%.  
+## 5. Mecanismo de Acción
 
-> [!warning] Efecto antabús
-> Prohibido el alcohol durante el tratamiento Y hasta 48-72h después de la última dosis. Produce una reacción violenta (rubor, vómitos, taquicardia, síncope).
+Profármaco que, en el medio anaerobio/reductor del microorganismo, es reducido a radicales nitrosos reactivos. Estos radicales **forman aductos con las bases del ADN, provocando la ruptura de la cadena de ADN y la muerte celular** (CIMA). Esta activación requiere un potencial redox bajo, lo que explica que solo sea activo frente a **anaerobios estrictos** y **protozoos** (Trichomonas, Giardia, Entamoeba) y carezca de actividad sobre aerobios.
 
 ## 🔗 Relacionados
-- [[PROA - Otros Antimicrobianos]]
+- [[Vancomicina]]
 - [[Clindamicina]]
-- [[Infección por Clostridioides difficile (CDI)]]
+- [[Ceftriaxona]]
+- [[Doxiciclina]]
+- [[PROA - Otros Antimicrobianos]]
+- [[PROA - Infecciones Gastrointestinales]]
+- [[PROA - Infecciones de Transmisión Sexual (ITS)]]
+- [[MOC - FARMACOS]]
+- [[MOC - INFECCIOSAS]]
+- [[000_INICIO]]

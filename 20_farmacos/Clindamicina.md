@@ -1,47 +1,67 @@
 ---
 aliases: [Clindamicina, Dalacin]
-tags: [farmaco, antibiotica, lincosamida, anaerobios]
+tags: [farmaco, antibiotico, infecciosas]
+last_fact_checked: 2026-06-09
 ---
 # Clindamicina
 
-**Clase:** Antibiótico Lincosamida.
-**Fuente:** Ficha Técnica CIMA AEMPS.
+**Clase:** Antibiótico lincosamida. Activo frente a grampositivos (incluido SARM comunitario) y anaerobios; añade actividad **antitoxina** en infecciones por *S. pyogenes* y *S. aureus*. No cubre gramnegativos aerobios.
+**Fuente:** Manual 12 de Octubre 2022 + Ficha Técnica CIMA AEMPS (Dalacin 300 mg cápsulas duras, nº registro 58783) + PROA FJD.
 
-## 1. Mecanismo de Acción
-Bacteriostático intrínseco (bactericida frente a ciertas cepas sensibles en alta concentración). Inhibe la síntesis proteica uniéndose fuertemente al sitio 50S del ribosoma bacteriano. Su espectro clínico es célebre por su inmensa cobertura frente a **Streptococcus pyogenes**, **Staphylococcus aureus** spp. (incluyendo meticilin-resistentes comunitarios o SARM) y espléndido contra **Anaerobios** (incluyendo Bacteroides fragilis, Fusobacterium, patógenos orales y pélvicos). Actividad notable como inhibidor de toxinas bacterianas del grupo clostridial/staphilóccico (Síndrome de [[Shock]] Tóxico). Carece de actividad frente a cualquier Gram negativo aerobio.
+## 1. Posología y Administración
+
+| Indicación | Dosis | Vía | Frecuencia / Duración |
+|---|---|---|---|
+| Dosis estándar oral | 300-450 mg | v.o. | cada 6-8 h (Manual p. 395; rango CIMA 600-1.800 mg/día) |
+| Dosis estándar i.v. (infección grave) | 600 mg | i.v. | cada 8 h (Manual p. 395 / p. 1043) |
+| Infección grave / SARM, actividad antitoxina máxima | 900 mg | i.v. | cada 8 h (Manual: shock tóxico estafilocócico p. 1047) |
+| Infección de piel por SARM comunitario | 300-450 mg | v.o. | cada 8 h (PROA Piel y Partes Blandas; Manual p. 1043) |
+| Fascitis necrotizante / gangrena gaseosa (antitoxina, asociada a otro AB) | 600 mg | i.v. | cada 8 h (Manual p. 1047) |
+| Shock tóxico estreptocócico/estafilocócico (antitoxina) | 600-900 mg | i.v. | cada 8 h (Manual p. 1046-1047) |
+| Faringoamigdalitis por *S. pyogenes* en alérgicos a betalactámicos | 300 mg | v.o. | cada 8 h, 5 días (PROA FJD). *Discordancia: Manual 12 Oct p. 124 indica 300 mg/6 h × 10 días; en guardia FJD prevalece el PROA local* |
+| Neumonía aspirativa / absceso pulmonar (alérgicos, anaerobios) | 600 mg | i.v. | cada 6-8 h (Manual p. 998) |
+| Profilaxis de endocarditis en alérgicos (procedimiento dental) | 600 mg | v.o. | dosis única (Manual p. 988) |
+
+> Dosis máxima diaria 1.800 mg repartida en 2-4 tomas (CIMA). Como antitoxina (fascitis, shock tóxico) se mantiene asociada a un betalactámico/antiestafilocócico hasta que el paciente esté desbridado y hemodinámicamente estable (Manual p. 1046-1047).
+
+**Administración:** las cápsulas se toman **con un vaso lleno de agua y al menos 30 minutos antes de tumbarse** para evitar úlcera/esofagitis por irritación esofágica; pueden tomarse con o sin alimentos sin afectar significativamente la absorción (CIMA). La forma i.v. se administra en perfusión, no en bolo rápido (CIMA).
+**Ajuste renal:** **no precisa ajuste** (eliminación predominantemente hepato-biliar) (CIMA; PROA Quinolonas y Macrólidos).
+**Ajuste hepático:** **no precisa ajuste** según ficha técnica; en cirrosis descompensada (Child-Pugh C) el PROA local recomienda evitar dosis altas prolongadas (CIMA; PROA Quinolonas y Macrólidos).
 
 ## 2. Indicaciones Clínicas Principales
-Tratamiento ideal en escenarios sistémicos graves donde se presume multiresistencia extra-hospitalaria o participación de toxinas formadoras necrotizantes:
-- **[[Celulitis]] y Piel/Partes blandas:** Alternativa potentísima a beta-lactámicos en infecciones severas (Fascitis necrotizante, Síndrome de Shock Tóxico estreptocócico o Abscesos supurativos no purulentos SARM). Ver: [[PROA - Infecciones de Piel y Partes Blandas]].
-- Osteomielitis crónica severa por su gigantesca penetración ósea. 
-- Neumonías anaeróbicas u orales aspirativas en alérgicos severos tipo 1 a betalactámicos. Infecciones dentales de alta virulencia severa. Vaginosis bacterianas inespecíficas.
+- **Infecciones de piel y partes blandas:** alternativa a betalactámicos y opción frente a **SARM comunitario** (con factores de riesgo: hospitalización o antibioterapia en 3 meses, deportes de contacto, UDVP) (PROA Piel y Partes Blandas; Manual p. 1043).
+- **Infecciones necrotizantes y mediadas por toxinas:** se añade por su **actividad antitoxina** en **fascitis necrotizante**, **gangrena gaseosa** y **síndrome de shock tóxico** estreptocócico/estafilocócico, asociada siempre a otro antibiótico de cobertura (Manual p. 1046-1047).
+- **Faringoamigdalitis estreptocócica en alérgicos a betalactámicos** (PROA FJD; ver [[Faringoamigdalitis Aguda]]).
+- **Infecciones odontógenas** y profilaxis de endocarditis en alérgicos (Manual; CIMA).
+- **Infecciones por anaerobios:** neumonía aspirativa, absceso pulmonar (Manual p. 998; CIMA).
+- **Ginecológicas:** vaginosis bacteriana, enfermedad inflamatoria pélvica (asociada a otros agentes) (CIMA; Manual EIP).
 
 ## 3. Contraindicaciones y Precauciones
-- **Ajuste Renal NULO:** Resulta un antibiótico exquisitamente ajeno al riñón por lo que mantiene la dosis endovenosa y oral en Insuficiencias extremas al 100% de la fuerza. **(Ajuste renal: Nulo)**. ([[PROA - Quinolonas y Macrólidos]]).
-- **Embarazo Prevenible:** Solo valorar frente al riesgo-beneficio, excretado leche láctea total causando diarreas en lactantes de alto contagio sistémico pediátrico en curso y disbiosis general.
-- Hepatopatías (Insuficiencia hepática Child-C grave obligatoria revalorar o dosimétricamente acortar al doble el ciclo).
-- Su uso IV en bolo rápido sistémico puede desembocar en una fuerte parada o fibrilación cardíaca severa bradicárdica arrítmica isquémica (Siempre perfusión continua diluída al gotero IV < 30mg/min).
+- **Hipersensibilidad** a clindamicina, a **lincomicina** o a algún excipiente (CIMA).
+- **Antecedentes de colitis asociada a antibióticos** (CIMA).
+- **Diarrea durante o tras el tratamiento:** suspender de inmediato y descartar **colitis por *C. difficile*** (CIMA). NO administrar antiperistálticos.
+- **Bloqueo neuromuscular:** puede potenciar el efecto de los **bloqueantes neuromusculares** (precaución en quirófano/anestesia) (CIMA).
+- **Reacciones cutáneas graves:** suspender ante cualquier exantema (riesgo de DRESS, SJS, NET, AGEP) (CIMA).
+- **Embarazo y lactancia:** usar solo si es claramente necesario; se excreta en leche materna (CIMA). El Manual la incluye entre los antibióticos aceptables en gestación (Manual, tabla de antimicrobianos en el embarazo p. 955).
 
 ## 4. Reacciones Adversas (RAM) Frecuentes
-- **Clostridioides (Riesgo Top 1 Mundial):** Posee la corona global en desarrollo explosivo letal de *Colitis pseudomembranosa / Diarrea por C. difficile*. Suspensión terapéutica prioritaria de detectarse heces disentéricas severas inespecíficas tras 24/48h pre o post tratamiento general.
-- Disgeusia transitoria metálica, náuseas gastroesofágicas o vómitos aislados sistémicos de la infusión (vía oral se recomienda con vaso grande agua plena por riesgo altísimo irritativo de úlcera esofágica de decúbito).
-- Paradas alérgicas eosinofílicas (Síndrome de DRESS diseminado general mortal letaloide o NET - Necrolisis tóxica cutánea descamativa severa inespecífica medicamentosa cruzada general al macrólido [[Azitromicina]] severo general reversible precoz).
+- **Colitis por *Clostridioides difficile* / colitis pseudomembranosa:** RAM clave de la clindamicina — es de los antibióticos con **mayor riesgo** de inducirla. Sospechar ante diarrea profusa durante o hasta semanas después del tratamiento; suspender y solicitar toxina/PCR (CIMA; Manual cap. 73).
+- **Digestivas:** diarrea y dolor abdominal (frecuentes); náuseas y vómitos (poco frecuentes) (CIMA).
+- **Esofágicas:** irritación, esofagitis o úlcera esofágica si no se toma con suficiente agua y erguido (CIMA).
+- **Cutáneas:** exantema; reacciones graves raras pero potencialmente mortales — **DRESS, síndrome de Stevens-Johnson (SJS), necrólisis epidérmica tóxica (NET) y pustulosis exantemática aguda generalizada (AGEP)** (CIMA).
+- **Otras:** alteración del gusto (sabor metálico), elevación de transaminasas (CIMA).
 
-## 5. Posología y Administración
-| Indicación | Dosis | Vía | Frecuencia |
-|---|---|---|---|
-| Infección piel/partes blandas (SARM) | 300-450 mg | VO | Cada 8h |
-| Fascitis necrotizante / Shock Tóxico | 600-900 mg | IV (30-60 min) | Cada 8h |
-| Osteomielitis / Artritis séptica | 300-600 mg | VO o IV | Cada 6-8h |
-| Neumonía aspirativa | 300-600 mg | IV | Cada 6-8h |
-
-**Ajuste Renal:** Sin ajuste (excrección biliar y hepática dominante, no renal).  
-**Ajuste Hepático:** Reducir dosis en insuficiencia hepática grave (Child-C).
-
-> [!caution] Riesgo Elevado de *C. difficile*
-> Es el antibiótico con mayor incidencia relativa de colitis por C. difficile. Suspender y solicitar toxina si hay diarrea profusa.
+## 5. Mecanismo de Acción
+Antibiótico **lincosamida**. Inhibe las primeras etapas de la síntesis proteica bacteriana uniéndose a la **subunidad 50S** del ribosoma. Acción **fundamentalmente bacteriostática** (bactericida frente a algunas cepas a concentraciones altas). Reduce además la producción de **exotoxinas** bacterianas, base de su uso en infecciones mediadas por toxinas (fascitis necrotizante, shock tóxico) (CIMA; Manual p. 1046).
 
 ## 🔗 Relacionados
+- [[Faringoamigdalitis Aguda]]
 - [[PROA - Infecciones de Piel y Partes Blandas]]
+- [[PROA - Quinolonas y Macrólidos]]
+- [[Cotrimoxazol]]
 - [[Vancomicina]]
-- [[Infección por Clostridioides difficile (CDI)]]
+- [[Linezolid]]
+- [[Metronidazol]]
+- [[MOC - FARMACOS]]
+- [[MOC - INFECCIOSAS]]
+- [[000_INICIO]]
