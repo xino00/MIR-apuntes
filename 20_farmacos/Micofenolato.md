@@ -4,7 +4,7 @@ tags: [farmaco, inmunosupresor]
 ---
 # Micofenolato
 
-**Clase:** Fármaco. Ver tasgs.
+**Clase:** Inmunosupresor (inhibidor de la inosina-monofosfato deshidrogenasa)
 **Fuente:** Ficha Técnica CIMA AEMPS y Manual 12 de Octubre.
 
 ## 1. Mecanismo de Acción

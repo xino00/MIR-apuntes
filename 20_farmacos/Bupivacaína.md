@@ -4,7 +4,7 @@ tags: [farmaco]
 ---
 # Bupivacaína
 
-**Clase:** Fármaco. Ver tasgs.
+**Clase:** Anestésico local tipo amida
 **Fuente:** Ficha Técnica CIMA AEMPS y Manual 12 de Octubre.
 
 ## 1. Mecanismo de Acción

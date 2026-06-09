@@ -4,7 +4,7 @@ tags: [farmaco]
 ---
 # Colchicina
 
-**Clase:** Fármaco. Ver tasgs.
+**Clase:** Antiinflamatorio antigotoso (alcaloide; inhibidor de la polimerización de la tubulina)
 **Fuente:** Ficha Técnica CIMA AEMPS y Manual 12 de Octubre.
 
 ## 1. Mecanismo de Acción

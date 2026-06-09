@@ -4,7 +4,7 @@ tags: [farmaco, inmunosupresor]
 ---
 # Azatioprina
 
-**Clase:** Fármaco. Ver tasgs.
+**Clase:** Inmunosupresor (análogo de las purinas; profármaco de 6-mercaptopurina)
 **Fuente:** Ficha Técnica CIMA AEMPS y Manual 12 de Octubre.
 
 ## 1. Mecanismo de Acción

@@ -4,7 +4,7 @@ tags: [farmaco, neumo]
 ---
 # Benralizumab
 
-**Clase:** Fármaco. Ver tasgs.
+**Clase:** Anticuerpo monoclonal anti-receptor de IL-5 (biológico)
 **Fuente:** Ficha Técnica CIMA AEMPS y Manual 12 de Octubre.
 
 ## 1. Mecanismo de Acción

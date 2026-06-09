@@ -4,7 +4,7 @@ tags: [farmaco]
 ---
 # Bicarbonato
 
-**Clase:** Fármaco. Ver tasgs.
+**Clase:** Alcalinizante sistémico (bicarbonato sódico)
 **Fuente:** Ficha Técnica CIMA AEMPS y Manual 12 de Octubre.
 
 ## 1. Mecanismo de Acción

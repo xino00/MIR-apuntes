@@ -4,7 +4,7 @@ tags: [farmaco, neuro]
 ---
 # Almotriptán
 
-**Clase:** Fármaco. Ver tasgs.
+**Clase:** Triptán (agonista selectivo de los receptores 5-HT1B/1D)
 **Fuente:** Ficha Técnica CIMA AEMPS y Manual 12 de Octubre.
 
 ## 1. Mecanismo de Acción

@@ -4,7 +4,7 @@ tags: [farmaco]
 ---
 # Trastuzumab
 
-**Clase:** Fármaco. Ver tasgs.
+**Clase:** Anticuerpo monoclonal anti-HER2 (antineoplásico)
 **Fuente:** Ficha Técnica CIMA AEMPS y Manual 12 de Octubre.
 
 ## 1. Mecanismo de Acción

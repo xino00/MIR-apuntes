@@ -4,7 +4,7 @@ tags: [farmaco, neuro]
 ---
 # Amitriptilina
 
-**Clase:** Fármaco. Ver tasgs.
+**Clase:** Antidepresivo tricíclico
 **Fuente:** Ficha Técnica CIMA AEMPS y Manual 12 de Octubre.
 
 ## 1. Mecanismo de Acción

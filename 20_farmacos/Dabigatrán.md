@@ -4,7 +4,7 @@ tags: [farmaco, anticoagulante]
 ---
 # Dabigatrán
 
-**Clase:** Fármaco. Ver tasgs.
+**Clase:** Anticoagulante Oral Directo (ACOD) — inhibidor directo de la trombina (IIa)
 **Fuente:** Ficha Técnica CIMA AEMPS y Manual 12 de Octubre.
 
 ## 1. Mecanismo de Acción

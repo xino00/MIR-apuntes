@@ -4,7 +4,7 @@ tags: [farmaco, inmunosupresor]
 ---
 # Anakinra
 
-**Clase:** Fármaco. Ver tasgs.
+**Clase:** Antagonista del receptor de la IL-1 (biológico / FAME)
 **Fuente:** Ficha Técnica CIMA AEMPS y Manual 12 de Octubre.
 
 ## 1. Mecanismo de Acción

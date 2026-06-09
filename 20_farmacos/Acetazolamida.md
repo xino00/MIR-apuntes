@@ -4,7 +4,7 @@ tags: [farmaco]
 ---
 # Acetazolamida
 
-**Clase:** Fármaco. Ver tasgs.
+**Clase:** Inhibidor de la anhidrasa carbónica (diurético)
 **Fuente:** Ficha Técnica CIMA AEMPS y Manual 12 de Octubre.
 
 ## 1. Mecanismo de Acción

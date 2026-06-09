@@ -4,7 +4,7 @@ tags: [farmaco, anticoagulante]
 ---
 # Edoxabán
 
-**Clase:** Fármaco. Ver tasgs.
+**Clase:** Anticoagulante Oral Directo (ACOD) — inhibidor directo del factor Xa
 **Fuente:** Ficha Técnica CIMA AEMPS y Manual 12 de Octubre.
 
 ## 1. Mecanismo de Acción

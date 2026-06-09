@@ -4,7 +4,7 @@ tags: [farmaco]
 ---
 # Midazolam
 
-**Clase:** Fármaco. Ver tasgs.
+**Clase:** Benzodiacepina de acción corta
 **Fuente:** Ficha Técnica CIMA AEMPS y Manual 12 de Octubre.
 
 ## 1. Mecanismo de Acción

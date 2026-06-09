@@ -4,7 +4,7 @@ tags: [farmaco, neuro]
 ---
 # Mirtazapina
 
-**Clase:** Fármaco. Ver tasgs.
+**Clase:** Antidepresivo noradrenérgico y serotoninérgico específico (NaSSA)
 **Fuente:** Ficha Técnica CIMA AEMPS y Manual 12 de Octubre.
 
 ## 1. Mecanismo de Acción

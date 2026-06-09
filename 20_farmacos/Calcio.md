@@ -4,7 +4,7 @@ tags: [farmaco]
 ---
 # Calcio
 
-**Clase:** Fármaco. Ver tasgs.
+**Clase:** Electrolito / catión (sales: gluconato cálcico, cloruro cálcico)
 **Fuente:** Ficha Técnica CIMA AEMPS y Manual 12 de Octubre.
 
 ## 1. Mecanismo de Acción
