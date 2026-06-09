@@ -1,6 +1,7 @@
 ---
 aliases: [PNA, Pielonefritis]
 tags: [urgencias, infecciosas, nefro, uro]
+last_fact_checked: 2026-06-09
 ---
 # Pielonefritis Aguda (PNA)
 
@@ -68,7 +69,7 @@ Indicada si:
 | **Ajuste con antibiograma** | Ciprofloxacino o cotrimoxazol | Según sensibilidad |
 
 - **Duración total: 7 días**
-- Las cefalosporinas orales de 3.ª generación no son ideales para parénquima renal → de ahí el puenteo IV hasta el antibiograma
+- La 1.ª dosis IV de ceftriaxona asegura concentraciones iniciales altas en el parénquima renal; la **cefixima oral es continuación adecuada** hasta completar los 7 días (pauta PROA FJD). Ajustar con el antibiograma (ciprofloxacino o cotrimoxazol si son sensibles).
 
 ### 4.2. Hospitalario — ITU complicada sin sepsis, sin riesgo de multirresistentes
 

@@ -1,6 +1,7 @@
 ---
 aliases: [Prostatitis bacteriana aguda]
 tags: [urgencias, infecciosas, uro]
+last_fact_checked: 2026-06-09
 ---
 # Prostatitis Aguda Bacteriana
 
@@ -83,10 +84,9 @@ tags: [urgencias, infecciosas, uro]
 | **[[Cotrimoxazol]]** (alternativa) | 800/160 mg cada 12h oral |
 | *Alergia/multirresistentes:* Fosfomicina oral | 500 mg/8h |
 
-### 5.3. Duración (PROA FJD)
-- **Prostatitis no complicada: 2 semanas**
-- **Complicada o síntomas persistentes: 3-4 semanas**
-- El Manual 12 de Octubre recomienda 4 semanas para todas, para prevenir cronificación
+### 5.3. Duración — discordancia de fuentes
+- **PROA FJD (prevalece en guardia):** no complicada **2 semanas** (desde la 1.ª dosis de ceftriaxona); complicada, síntomas persistentes o absceso **3-4 semanas**.
+- **Manual 12 Octubre:** **4 semanas en todas** ("la duración total del tratamiento debe ser de 4 semanas, evitando así la recaída y el desarrollo de prostatitis crónica"). Valorar pauta larga si mala evolución o factores de riesgo de cronificación.
 
 ### 5.4. Medidas adicionales
 - **Retención urinaria:** preferir **cistostomía suprapúbica** sobre sondaje vesical (riesgo de bacteriemia con sonda). Si sondaje imprescindible, por urólogo

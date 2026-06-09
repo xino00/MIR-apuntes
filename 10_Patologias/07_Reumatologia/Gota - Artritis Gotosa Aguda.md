@@ -3,7 +3,7 @@ aliases: [Gota, Artritis gotosa, Hiperuricemia, Tofos, Colchicina]
 tags: [urgencias, reuma, patologia]
 fuente_original: "Extraído de 50_Guardias/01 - Plantilla Curas y Traumatología Menor.md"
 fuente: "Manual 12 Octubre 2022, cap. 91 (Artritis. Espondiloartritis. Lumbalgia), apartado 1.4.1 Gota"
-last_fact_checked: 2026-04-21
+last_fact_checked: 2026-06-09
 guias_por_contrastar: ["ACR 2020 Gout Management Guideline (colchicina baja dosis 1,2 + 0,6 mg, decisión de iniciar alopurinol durante crisis aguda)"]
 ---
 # Gota - Artritis Gotosa Aguda
@@ -42,8 +42,8 @@ Radiografía: no lesiones óseas agudas (valorar tofos/erosiones en casos cróni
 
 **Colchicina** (si no mejora con AINEs o como alternativa):
 - Dosis inicial 1 mg. Repetir dosis en 1-2 h si el dolor persiste.
-- Dosis máx. en 24 h: 2 mg. Dosis máx en 96 h: 6 mg.
-- Se puede continuar la administración hasta 4 días seguidos sin superar la dosis total acumulada de 6 mg durante los 4 días.
+- Dosis máx. en 24 h: **2 mg** (coinciden ficha técnica CIMA y Manual 12 Oct).
+- Dosis máx. acumulada por episodio: **6 mg en 4 días** (ficha técnica CIMA: "hasta un máximo de 4 días seguidos con una dosis total acumulada de 6 mg"; tras ello, ≥3 días de lavado). *Nota: el Manual 12 Oct formula el tope como "sin exceder 2 mg/día un máx. de 4 días" — en la práctica manda el tope acumulado de 6 mg de la ficha técnica.*
 - El efecto secundario más común es la diarrea.
 - **Antes de prescribir colchicina el médico debe descartar alteración de la función renal del paciente. Se necesitará un ajuste de la dosis en los casos de insuficiencia renal moderada (Clcr 30-50 ml/min). En caso de Clcr < 30ml/min está contraindicado su uso.**
 

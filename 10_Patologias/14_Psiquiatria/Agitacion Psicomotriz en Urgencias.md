@@ -3,6 +3,7 @@ tags:
   - patologia
   - psiquiatria
   - urgencias
+last_fact_checked: 2026-06-09
 aliases:
   - Agitación Psicomotriz
   - Agitación en Urgencias
@@ -88,7 +89,7 @@ Son de elección los de **segunda generación**, con menos efectos secundarios y
 | **Haloperidol** | 5 mg (100 mg/24 h) | vo, sc, iv | Riesgo de sintomatología extrapiramidal, prolongación de QTc (iv y a altas dosis), hipotensión y ortostatismo (sobre todo en IC). Ajustar dosis en IR e IH. Contraindicado en demencia por cuerpos de Lewy; precaución en trastorno respiratorio. Puede incrementar el efecto de fármacos antihipertensivos |
 | **Olanzapina** | 5-10 mg (20 mg/24 h) | vo, im | Riesgo de hiperglucemia e hipotensión (en IC). Ajustar dosis en IH y en la renal si se usa im. En ancianos o pacientes con IR, iniciar a 2,5-5 mg. Contraindicada en inestabilidad clínica; precaución en HBP, glaucoma de ángulo cerrado e íleo paralítico. Puede incrementar el efecto de fármacos antihipertensivos |
 | **Aripiprazol** | 5-10 mg (30 mg/24 h) | vo, im | Indicado en ancianos; no alarga el QTc y tiene menor efecto sedante. Riesgo de **acatisia** (principal efecto secundario) y de hipotensión. No precisa ajuste de dosis en IR o IH |
-| **Risperidona** | 1-2 mg (6 mg/24 h) | vo | Riesgo de hiperglucemia, hipotensión y ortostatismo (IC) y sintomatología extrapiramidal. Ajustar dosis en IR e IH. Puede incrementar el efecto de fármacos antihipertensivos |
+| **Risperidona** | 1-2 mg (6 mg/24 h). **En ancianos iniciar a 0,25-0,5 mg** (Manual Tabla 9) | vo | Riesgo de hiperglucemia, hipotensión y ortostatismo (IC) y sintomatología extrapiramidal. Ajustar dosis en IR e IH. Puede incrementar el efecto de fármacos antihipertensivos |
 
 > [!warning] Olanzapina IM + BDZ parenteral
 > La administración intramuscular concomitante de olanzapina y BDZ **no está recomendada**. Se debe administrar la BDZ intramuscular como mínimo **1 hora después**.

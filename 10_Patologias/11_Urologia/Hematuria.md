@@ -1,6 +1,7 @@
 ---
 aliases: [Hematuria, Sangre en orina, Hematuria macroscópica, Hematuria microscópica]
 tags: [urgencias, uro, patologia]
+last_fact_checked: 2026-06-09
 fuente_original: "Extraído de 50_Guardias/01 - Plantilla Curas y Traumatología Menor.md y 03 - Ayudas Boxes.md"
 ---
 # Hematuria
@@ -68,7 +69,7 @@ Protocolo Qualios FJD:
 **HEMATURIA SIN COÁGULOS**
 NO es subsidiaria de sondaje vesical +/- lavado vesical continuo.
 Forzar diuresis con SSF o ingesta hídrica + Vigilancia hasta aclarado.
-En cuanto aclare: ALTA con cita en Urología.
+En cuanto aclare: ALTA con cita en Urología **en <15 días, previa realización de** (protocolo HUFJD_09.00P003): ecografía abdominal y de aparato urinario + citología de orina + analítica de control si anemización.
 **HEMATURIA CON COÁGULOS**
 Comprobar que no esté en RAO (palpar globo vesical / eco)
 Sondaje vesical de 3 vías (20-24FG) + Lavados manuales (extracción de coágulos) + Lavado vesical continuo.
@@ -99,7 +100,7 @@ A todos analítica sanguínea completa (hemograma + BQ + coagulación). Repetir 
 **HEMATURIA SIN COÁGULOS**
 NO es subsidiaria de sondaje vesical +/- lavado vesical continuo.
 Forzar diuresis con SSF o ingesta hídrica + Vigilancia hasta aclarado.
-En cuanto aclare: ALTA con cita en Urología.
+En cuanto aclare: ALTA con cita en Urología **en <15 días, previa realización de** (protocolo HUFJD_09.00P003): ecografía abdominal y de aparato urinario + citología de orina + analítica de control si anemización.
 **HEMATURIA CON COÁGULOS**
 Comprobar que no esté en RAO (palpar globo vesical / eco)
 Sondaje vesical de 3 vías (20-24FG) + Lavados manuales (extracción de coágulos) + Lavado vesical continuo.

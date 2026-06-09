@@ -3,6 +3,7 @@ tags:
   - patologia
   - psiquiatria
   - urgencias
+last_fact_checked: 2026-06-09
 aliases:
   - Crisis de Ansiedad
   - Crisis de Pánico
@@ -89,7 +90,7 @@ En la Urgencia **no se recomienda iniciar tratamientos a largo plazo** ya que el
 > [!danger] Contraindicaciones de las BDZ
 > **Absolutas:** Miastenia gravis, glaucoma de ángulo estrecho, síndrome de apnea/hipopnea obstructiva del sueño, insuficiencia respiratoria grave
 >
-> **Relativas:** Insuficiencia hepática grave, insuficiencia renal, embarazo y lactancia, cuadro confusional, adicción a tóxicos
+> **Relativas:** Insuficiencia respiratoria leve-moderada (Manual 12 Oct cap. 11 Tabla 2), insuficiencia hepática grave, insuficiencia renal, embarazo y lactancia, cuadro confusional, adicción a tóxicos
 
 ### Otros fármacos (ansiedad resistente o contraindicación de BDZ)
 

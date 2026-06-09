@@ -3,7 +3,7 @@ aliases: [HDB, Hemorragia digestiva baja, Hematoquecia, Rectorragia, Oakland Sco
 tags: [urgencias, digestivo, patologia]
 fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"
 fuente: "Manual 12 Octubre 2022, cap. 36 HDA/HDB (p. 521-525) + ESGE 2021 (HDB) + ACG 2023 (HDB)"
-last_fact_checked: 2026-06-08
+last_fact_checked: 2026-06-09
 fuentes_guia: ["ESGE 2021 - Acute Lower GI Bleeding", "ACG 2023 - Acute Lower GI Bleeding (Sengupta)"]
 ---
 # Hemorragia Digestiva Baja (HDB)
@@ -35,7 +35,7 @@ Por debajo del ángulo de Treiz (intestino delgado y colon). Asocian menor morta
 ### Estratificación de Riesgo
 
 **Escala de Oakland** (validada específicamente en HDB estable) para decidir estudio ambulatorio u hospitalario:
-- **≤8 puntos = Sangrado menor → estudio ambulatorio** en las 2 semanas siguientes
+- **≤8 puntos = Sangrado menor → alta y estudio ambulatorio** SOLO si además el sangrado se ha **autolimitado** y **no hay otros criterios de ingreso**; colonoscopia ambulatoria idealmente en las **2 semanas** siguientes (Manual 12 Oct: "si el sangrado se ha autolimitado y en ausencia de otros criterios de ingreso, el paciente puede ser dado de alta con colonoscopia ambulatoria, idealmente en las 2 semanas posteriores"). La puntuación por sí sola no decide el alta.
 - **>8 puntos = Sangrado mayor → estudio hospitalario**
 - No se ha demostrado que la endoscopia urgente (<24 h) disminuya la mortalidad
 - Calculadora: *Oakland Score for Safe Discharge After Lower GI Bleed* (MDCalc)
