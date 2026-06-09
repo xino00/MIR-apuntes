@@ -17,6 +17,12 @@ description: "Hub de urgencias generales: presentaciones sindrómicas transversa
 > Texto plano, estructura fija: **cuándo avisar · qué preguntar · explorar · pruebas · tratamiento con dosis**. Pensadas para consultar y compartir en guardia.
 > - [[MUST - Disnea]]
 > - [[MUST - Dolor Torácico]]
+> - [[MUST - Síncope]]
+> - [[MUST - Fiebre sin Foco]]
+> - [[MUST - Dolor Abdominal]]
+> - [[MUST - Cefalea]]
+> - [[MUST - Mareo y Vértigo]]
+> - [[MUST - Agitación Psicomotriz]]
 
 ---
 
