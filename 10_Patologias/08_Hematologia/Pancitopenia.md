@@ -14,7 +14,7 @@ tags: [hemato, patologia, urgencias]
 > [!danger] Pancitopenia = Emergencia hasta demostrar lo contrario
 > - **Blastos en sangre periférica** → leucemia aguda → ingreso urgente, oncohematología.
 > - **Esquistocitos + trombocitopenia** → TMA (TTP, HUS, DIC) → plasmaféresis en TTP.
-> - **Pancitopenia + fiebre + ferritina muy alta (>500-10.000) + esplenomegalia** → síndrome hemofagocítico (HLH/MAS) → ver [[Sdme Hemofagocitico]].
+> - **Pancitopenia + fiebre + ferritina muy alta (>500-10.000) + esplenomegalia** → síndrome hemofagocítico (HLH/MAS) → ver [[Síndrome Hemofagocítico]].
 > - **Formas linfoides atípicas** (células peludas, linfocitos grandes granulares, prolinfocitos) → neoplasias linfoides.
 > - **Pancitopenia grave + hipoplasia medular** → aplasia medular → ingreso + ATG/ciclosporina ± trasplante.
 
@@ -30,7 +30,7 @@ tags: [hemato, patologia, urgencias]
 | **Neoplasias hematológicas** | Leucemia aguda (LMA, LLA), MDS, linfoma con infiltración medular, mieloma múltiple, mielofibrosis |
 | **Infiltración medular** | Metástasis de tumores sólidos, leucemia/linfoma, granulomas (TBC, sarcoidosis) |
 | **Infecciones graves** | Sepsis (especialmente clostridios, malaria), VIH, CMV, EBV, leishmaniasis visceral, parvovirus B19 |
-| **Síndrome hemofagocítico** | HLH primario (niños) o secundario a infección, malignidad, enf. reumática → [[Sdme Hemofagocitico]] |
+| **Síndrome hemofagocítico** | HLH primario (niños) o secundario a infección, malignidad, enf. reumática → [[Síndrome Hemofagocítico]] |
 | **Déficit nutricional grave** | B12, folato, cobre (especialmente en ancianos) |
 | **Hiperesplenismo** | Cirrosis + esplenomegalia; secuestro esplénico (pancitopenia moderada, MCV puede estar ↑) |
 | **Autoinmune** | LES (especialmente citopenias autoinmunes), LLC avanzada |
@@ -109,6 +109,6 @@ Dirigido a la causa. Resumen de urgencias:
 
 - [[Anemia - Abordaje General]]
 - [[Anemia Hemolítica - Abordaje]]
-- [[Sdme Hemofagocitico]]
+- [[Síndrome Hemofagocítico]]
 - [[MOC - HEMATOLOGIA]]
 - *UpToDate: Diagnostic approach to anemia in adults. Nov 2025.*

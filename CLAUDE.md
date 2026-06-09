@@ -4,6 +4,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
+Vault con ~203 notas de patología (`10_Patologias/`, 14 especialidades incluida Psiquiatría), ~143 fichas de fármacos (`20_farmacos/`) y ~22 notas de urgencias (`30_Urgencias/`).
+
 This is an Obsidian medical notes vault using wikilinks (`[[Note Name]]`). When creating or editing notes, always use wikilink syntax for internal links, never standard markdown links. Ensure YAML frontmatter never contains raw wikilinks — use plain text or quoted strings in frontmatter fields.
 
 ## Contexto
@@ -17,17 +19,18 @@ Vault de Obsidian de un residente de Medicina de Familia en Madrid. Rotaciones p
   01_Cardio/            02_Neuro/       03_Infecciosas/   04_Digestivo/
   05_Neumologia/        06_Nefrologia/  07_Reumatologia/  08_Hematologia/
   09_Endocrino/         10_ORL/         11_Urologia/      12_Traumatologia/
-  13_Dermatologia/
+  13_Dermatologia/      14_Psiquiatria/
 
-20_farmacos/            ~128 fichas de fármacos (una por archivo)
+20_farmacos/            ~143 fichas de fármacos (una por archivo)
 
-30_Urgencias/           ~26 notas — hub central de guardia
+30_Urgencias/           ~22 notas — hub central de guardia
   Patologia_Aguda/      Shock, SDRA, IRA, Dolor torácico, Disnea
   Ionico_AcidoBase/     Iones, equilibrio ácido-base
   Exploracion_Fisica/   Exploración de Rodilla, Tobillo y Antepié
+  MUST/                 Guías de actuación de guardia para R1 (texto plano)
 
 50_Guardias/            Plantillas y registros de guardia
-90_MOCs/                Índices de navegación (15 MOCs + checklist)
+90_MOCs/                Índices de navegación (16 MOCs + checklist)
 
 00_Inbox/               Notas entrantes sin clasificar (incluye stubs y recordatorios)
 assets/                 Attachments pegados desde Obsidian (PXL_*.jpg, pastes)
@@ -56,6 +59,7 @@ El **MOC - Urgencias** actúa como vista transversal: agrega las urgencias de ca
 | `MOC - UROLOGIA`      | Urología                         |
 | `MOC - TRAUMATOLOGIA` | Traumatología                    |
 | `MOC - DERMATOLOGIA`  | Dermatología                     |
+| `MOC - PSIQUIATRIA`   | Psiquiatría                      |
 | `MOC - FARMACOS`      | Fármacos (por clase terapéutica) |
 | `MOC - Urgencias`     | Hub transversal de urgencias     |
 
@@ -71,7 +75,8 @@ Tags canónicos (lowercase, sin acentos, forma corta):
 |---|---|
 | `cardio`, `neuro`, `neumo`, `nefro`, `reuma`, `hemato` | Especialidades médicas |
 | `endocrino`, `orl`, `uro`, `trauma`, `dermato` | Especialidades quirúrgicas/mixtas |
-| `infecciosas`, `digestivo` | Sin abreviar |
+| `infecciosas`, `digestivo`, `psiquiatria` | Sin abreviar |
+| `hta`, `epoc`, `cot` | Áreas/subtemas (lowercase) |
 | `urgencias` | Nota relevante para guardia |
 | `patologia` | Nota de patología (no fármaco) |
 | `farmaco` | Nota de fármaco |
@@ -82,13 +87,14 @@ Formato YAML: `tags: [urgencias, cardio, patologia]` (inline) o multi-línea con
 
 ## Note Creation Conventions
 
-When creating medical Obsidian notes, follow this structure:
-1. YAML frontmatter: `aliases`, `tags` (canonical), optional `description`
-2. Definición
-3. Etiología
-4. Diagnóstico
-5. Tratamiento
-6. Links to related hub/MOC notes (`[[000_INICIO]]`, `[[MOC - ESPECIALIDAD]]`)
+YAML frontmatter siempre primero: `aliases`, `tags` (canónicos), opcional `description`, y `last_fact_checked: YYYY-MM-DD` si la nota se ha verificado contra una guía. Cerrar con enlaces al hub/MOC (`[[000_INICIO]]`, `[[MOC - ESPECIALIDAD]]`).
+
+**Estructura del cuerpo — pragmática, no rígida.** La mayoría de las notas siguen la estructura de su **guía-fuente** (p. ej. la ESC 2018 para el síncope), no un molde fijo. El esqueleto Definición / Etiología / Diagnóstico / Tratamiento es una *referencia por defecto* para notas nuevas sin una guía que imponga otro orden; no fuerces notas existentes a él. Prioridades reales del vault:
+
+- **Lo accionable arriba.** En notas largas (>200 líneas) y de urgencias, empezar con un callout `> [!danger] ⚡ Guardia` (acción inmediata, dosis clave, criterio de ingreso/alta) antes de la teoría.
+- **Fichas de fármacos (`20_farmacos/`): Posología primero.** Orden: 1. Posología y Administración → 2. Indicaciones → 3. Contraindicaciones → 4. RAM → 5. Mecanismo → 🔗 Relacionados. La dosis es el 90 % de las consultas en guardia; no enterrarla bajo el mecanismo.
+- **Dosis con atribución de fuente** entre paréntesis: `(Manual p. X)` o `(CIMA)`.
+- **MUST (`30_Urgencias/MUST/`): texto plano puro** (sin frontmatter, sin wikilinks, sin callouts) — son guías para compartir con otros R1; no "corregir" su falta de frontmatter.
 
 Use the `/newnote` skill for guided note creation — it handles folder routing, frontmatter, MOC updates, and git commit.
 

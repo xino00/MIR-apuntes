@@ -158,7 +158,7 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 - [x] [[Anemia Hemolítica - Abordaje|Anemia hemolítica]]
 - [x] [[Anemia de Enfermedad Crónica (ACD-AI)|Anemia de enfermedad crónica]]
 - [x] [[Pancitopenia]]
-- [x] [[Sdme Hemofagocitico|Síndrome hemofagocítico]]
+- [x] [[Síndrome Hemofagocítico|Síndrome hemofagocítico]]
 - [ ] Leucemias agudas (LMA, LLA)
 - [ ] Leucemia linfática crónica (LLC)
 - [ ] Leucemia mieloide crónica (LMC)

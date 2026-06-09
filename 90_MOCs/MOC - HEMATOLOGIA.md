@@ -15,7 +15,7 @@ description: "Índice de hematología: anemias, coagulación, anticoagulantes y 
 > [!danger] Emergencias hematológicas
 > - [[Pancitopenia]] — blastos, TMA, HLH
 > - [[Anemia Hemolítica - Abordaje]] — esquistocitos → TTP/SHU/DIC
-> - [[Sdme Hemofagocitico]] — ferritina muy alta + fiebre + esplenomegalia
+> - [[Síndrome Hemofagocítico]] — ferritina muy alta + fiebre + esplenomegalia
 
 ---
 

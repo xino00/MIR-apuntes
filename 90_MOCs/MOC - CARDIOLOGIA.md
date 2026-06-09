@@ -53,6 +53,7 @@ description: "Índice de cardiología: hipertensión, insuficiencia cardiaca, SC
 - [[Síndrome Aórtico Agudo y Enfermedad Aórtica|Síndrome Aórtico Agudo / Aneurismas / EAP]]
 - [[Cardiopatías Congénitas del Adulto]]
 - [[TEP - Tromboembolismo Pulmonar]]
+- [[Trombosis Venosa Profunda (TVP)]]
 
 ### 🫀 Cardiopatía Isquémica — Síndrome Coronario Crónico (Guía ESC 2024)
 - [[Cardiopatía Isquémica - Concepto y Clasificación]]
@@ -75,9 +76,3 @@ description: "Índice de cardiología: hipertensión, insuficiencia cardiaca, SC
 ---
 ### 🔗 Enlaces
 - [[000_INICIO]]
-
----
-### 📥 Por clasificar (auto-añadidas por /organize)
-*Reorganizar en las secciones temáticas correctas y borrar este bloque.*
-
-- [[Trombosis Venosa Profunda (TVP)]]

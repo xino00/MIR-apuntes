@@ -126,5 +126,5 @@ last_fact_checked: 2026-05-19
 - [[Anemia - Abordaje General]]
 - [[Pancitopenia]]
 - [[MOC - HEMATOLOGIA]]
-- [[Sdme Hemofagocitico]]
+- [[Síndrome Hemofagocítico]]
 - *UpToDate: Diagnostic approach to anemia in adults. Nov 2025.*

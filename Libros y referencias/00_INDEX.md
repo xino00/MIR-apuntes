@@ -79,7 +79,7 @@ Inventario y mapeo del corpus de guías clínicas en `Libros y referencias/`. Ca
 | GEMA 5.5.pdf | 2024 | SEPAR/SEAIC | [[Asma - Clasificación y Control]], asma aguda y crónica |
 | GOLD 2026.pdf | 2025 | GOLD | EPOC estable, exacerbaciones |
 
-**Sin PDF dedicado:** TBC, neumonías (CAP/HAP), derrame pleural, hemoptisis (ver también `09_Urgencias_FJD/HEMOPTISIS PROCEDIMIENTO.pdf`). Fallback: Manual + WebFetch SEPAR.
+**Sin PDF dedicado:** TBC, neumonías (CAP/HAP), derrame pleural. Hemoptisis cubierta por `09_Urgencias_FJD/HEMOPTISIS PROCEDIMIENTO.pdf`. Fallback: Manual + WebFetch SEPAR.
 
 ### 05_Infecciosas/  (4 guías)
 
@@ -134,13 +134,18 @@ Inventario y mapeo del corpus de guías clínicas en `Libros y referencias/`. Ca
 | SUJECION FISICA.pdf | Procedimiento | Contención mecánica en urgencias |
 | SUMISION QUIMICA FJD.pdf | Procedimiento | Sumisión química / agitación |
 
-### 10_Digestivo/  (1 guía)
+### 10_Digestivo/  (6 guías)
 
 | Archivo | Año | Sociedad | Notas que valida |
 |---|---|---|---|
-| ACG 2021 - HDA y Ulcera.pdf | 2021 | ACG (Laine et al, Am J Gastroenterol 2021;116:899-917) | [[Hemorragia Digestiva Alta (HDA)]] (Glasgow-Blatchford, transfusión Hb 7 g/dL, eritromicina pre-endoscopia, terapia endoscópica, IBP dosis altas 72h) |
+| ACG 2021 - HDA y úlcera.pdf | 2021 | ACG (Laine et al, Am J Gastroenterol 2021;116:899-917) | [[Hemorragia Digestiva Alta (HDA)]] (Glasgow-Blatchford, transfusión Hb 7 g/dL, eritromicina pre-endoscopia, terapia endoscópica, IBP dosis altas 72h) |
+| ESGE 2021 - HDA no varicosa.pdf | 2021 | ESGE | [[Hemorragia Digestiva Alta (HDA)]] (manejo endoscópico no varicoso) |
+| ACG 2023 - HDB.pdf | 2023 | ACG (Sengupta et al) | [[Hemorragia Digestiva Baja (HDB)]] (Oakland, colonoscopia ambulatoria) |
+| ESGE 2021 - HDB.pdf | 2021 | ESGE | [[Hemorragia Digestiva Baja (HDB)]] |
+| Baveno VII 2022 - HTP.pdf | 2022 | Baveno VII | Hipertensión portal, profilaxis de varices, betabloqueantes no selectivos |
+| ACG-CAG 2022 - Anticoagulación en HD.pdf | 2022 | ACG/CAG | Manejo de anticoagulación/antiagregación en hemorragia digestiva |
 
-**Sin PDF dedicado (pendiente):** HDB, EII, cirrosis y complicaciones, pancreatitis, colangitis. Fallback: Manual + AEG/SEPD/Baveno VII.
+**Sin PDF dedicado (pendiente):** EII, pancreatitis. Colangitis y cirrosis cubiertas por Manual + Baveno VII. Fallback: Manual + AEG/SEPD.
 
 #### ORL (subcarpeta `09_Urgencias_FJD/ORL/`)
 
@@ -161,7 +166,7 @@ Inventario y mapeo del corpus de guías clínicas en `Libros y referencias/`. Ca
 
 | Especialidad | Fallback primario | Fallback web (sociedad) |
 |---|---|---|
-| Digestivo (parcial, falta HDB/EII/cirrosis) | Manual 12 Oct cap GI + `10_Digestivo/ACG 2021 - HDA y Ulcera.pdf` (solo HDA) | AEG, SEPD, ESGE, Baveno VII |
+| Digestivo (falta EII/pancreatitis) | Manual 12 Oct cap GI + 6 PDFs en `10_Digestivo/` (HDA, HDB, HTP/Baveno VII, anticoagulación en HD) | AEG, SEPD, ESGE, Baveno VII |
 | Reumatología | Manual 12 Oct cap Reuma | SER, EULAR, ACR |
 | Dermatología | Manual 12 Oct cap Derma | AEDV, EADV |
 | Endocrinología | Manual 12 Oct cap Endo | SEEN, ADA, ATA, ESMO |
