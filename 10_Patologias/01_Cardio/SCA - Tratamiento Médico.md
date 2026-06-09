@@ -7,6 +7,13 @@ last_fact_checked: 2026-04-26
 
 # Síndrome Coronario Agudo — Tratamiento Médico
 
+> [!danger] ⚡ Guardia
+> **SCA confirmado → paquete farmacológico inmediato, EN PARALELO a la reperfusión.**
+> - **Acción inmediata:** **AAS + P2Y12 + anticoagulación parenteral + estatina alta intensidad**; analgesia con NTG/morfina si dolor.
+> - **Dosis clave:** **AAS carga 162-325 mg masticada** (NO entérica) → 75-100 mg/día · **Ticagrelor 180 mg** o **prasugrel 60 mg** si ICP · **clopidogrel** si fibrinólisis o no disponibles · **HNF 60 UI/kg (máx 4000) + 12 UI/kg/h** · **NTG SL 0,3-0,4 mg/5 min hasta 3 dosis** · **morfina 2-4 mg IV** si refractario.
+> - **Después (< 24 h, tras estabilizar):** **BB oral** si sin contraindicaciones; **IECA/ARA-II** si FEVI ≤ 40% / HTA / DM / STEMI anterior.
+> - **NO:** prasugrel si **ictus/AIT previo** (contraindicado); **AINE** (salvo AAS); nitratos si **TAS < 90**, IAM de VD o tras inhibidor PDE5; O₂ rutinario si **SpO₂ ≥ 90%**.
+
 Este es el bloque farmacológico inicial que se aplica **en paralelo** a la decisión de reperfusión / revascularización (ver [[SCA - Reperfusión y Revascularización]]). Para evaluación inicial, ECG y triage ver [[SCA - Evaluación Inicial y Clasificación]].
 
 ---

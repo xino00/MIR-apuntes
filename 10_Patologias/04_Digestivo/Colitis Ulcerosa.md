@@ -7,6 +7,15 @@ last_fact_checked: 2026-04-21
 ---
 # Colitis Ulcerosa
 
+> [!danger] ⚡ Guardia
+> **Brote GRAVE de CU (gravedad por Truelove-Witts/Mayo) → ingreso y corticoide IV.**
+> - **Acción inmediata:** analítica con RFA/coagulación/electrolitos + coprocultivo, toxina **C. difficile** y **calprotectina**; **Rx abdomen en bipedestación** (descartar megacolon).
+> - **Dosis clave:** **Prednisona 1 mg/kg/d IV (máx 60 mg/d)** + **Enoxaparina 40 mg/d** (a todos los ingresados, incluso con sangrado).
+> - **Megacolon tóxico:** colon transverso **≥6 cm** (Jalan) + toxicidad sistémica → Cirugía General + ATB amplio espectro + NPT → **colectomía urgente si no mejora en 72 h**. Perforación o hemorragia masiva → cirugía urgente.
+> - **Corticorresistencia** (sin respuesta tras **3 días** de corticoide IV) → rectoscopia sin preparación (biopsia, descartar CMV).
+> - **Ingreso/derivar:** ingresa brote severo, no respuesta a tto ambulatorio, intolerancia oral o complicación; si NO cumple → **consultas de EICI en 24-72 h sin cita (8:00-13:30)**.
+> - **NO:** AINEs, antidiarreicos ni anticolinérgicos; NO colonoscopia/enema opaco ni preparación intestinal VO.
+
 > [!warning] 🚨 Signos de Alarma
 > - Megacolon tóxico: dilatación de colon transverso ≥6 cm (criterios de Jalan) + síntomas de toxicidad sistémica → cirugía urgente si no mejora en 72h
 > - Perforación → cirugía urgente

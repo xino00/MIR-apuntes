@@ -7,6 +7,13 @@ last_fact_checked: 2026-04-23
 
 # Diabetes Mellitus tipo 2 (DM2)
 
+> [!danger] ⚡ Guardia
+> **Crónica: no es urgencia, pero ten claros objetivos + escalón.**
+> - **Objetivo HbA1c:** general **< 7 %**; joven sin comorbilidad **< 6,5 %**; anciano frágil / esperanza de vida corta **< 8 %**.
+> - **1er escalón:** **Metformina** + estilo de vida si **sin ECV/IC/ERC**.
+> - **iSGLT2 / ar-GLP-1 / finerenona:** indicados en **ECV, IC o ERC** de forma **INDEPENDIENTE de la HbA1c**.
+> - **NO:** esperar a que falle metformina para iniciar iSGLT2/GLP-1 si hay ECV/IC/ERC — van con o antes.
+
 **Concepto clave:** Trastorno metabólico crónico caracterizado por **hiperglucemia** secundaria a **resistencia periférica a la insulina** + **disfunción progresiva de la célula β pancreática**. Representa el **90-95 %** de todos los casos de diabetes. Se asocia fuertemente con obesidad visceral, síndrome metabólico y [[Síndrome Cardiovascular-Renal-Metabólico]].
 
 ## 1. Criterios Diagnósticos

@@ -7,6 +7,14 @@ last_fact_checked: 2026-04-20
 ---
 # Endocarditis Infecciosa
 
+> [!danger] ⚡ Guardia
+> **Sospechar ante soplo nuevo, embolia o sepsis de origen desconocido, o fiebre + material protésico/valvulopatía/UDVP.**
+> - **Acción inmediata:** **3 juegos de hemocultivos** (10 ml c/u, venopunciones distintas, intervalos de 30 min) **ANTES** del antibiótico + **ETT** (primera línea en toda sospecha).
+> - **Dosis clave (empírico, H. 12 Oct, sin alergia):** **Daptomicina 10 mg/kg/24 h + ampicilina 2 g/4 h + ceftriaxona 2 g/12 h**. Alergia a betalactámicos: daptomicina 10 mg/kg/24 h + gentamicina 3 mg/kg/24 h.
+> - **Dx:** criterios de **Duke (ESC 2023)** → definitiva = 2 mayores, o 1 mayor + ≥3 menores, o 5 menores.
+> - **Cirugía urgente (Endocarditis Team):** emergencia <24 h (IAo/IM aguda con EAP refractario o shock; fístula); urgente 3-5 días (IC, infección no controlada/absceso, vegetación ≥10 mm + embolismo).
+> - **NO:** iniciar rifampicina el día 1 (retrasar 3-5 días tras aclarar bacteriemia); **NO** anticoagular/antiagregar de novo; **NO** clindamicina en profilaxis dental.
+
 **Fuente:** Manual 12 de Octubre, Cap. 66.
 **Actualización:** ESC 2023 Guidelines for the Management of Endocarditis (Eur Heart J 2023;44:3948-4042).
 **Concepto clave:** Infección del endocardio valvular o mural, de los grandes vasos intratorácicos o de dispositivos intracardíacos. Incidencia 3-7 casos/100.000 personas/año. Mortalidad hospitalaria del 15-30% a pesar del tratamiento.

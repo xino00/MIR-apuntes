@@ -14,6 +14,14 @@ fuente: "Fife TD. Approach to the history and evaluation of vertigo and dizzines
 fecha: 2026-05-20
 ---
 
+> [!danger] ⚡ Guardia
+> **Mareo/vértigo: lo que mata es la causa CENTRAL (ictus vertebrobasilar). Pregunta CRONOLOGÍA + DESENCADENANTES, no "¿cómo lo describe?".**
+> - **Acción inmediata:** descartar centralidad → **focalidad** (diplopía, disartria, disfagia, hemiparesia, dismetría/ataxia), **HI normal** con nistagmo espontáneo, **nistagmo que cambia de dirección/gaze-evoked**, **skew**, **downbeating**.
+> - **VPPB:** desencadenado por giro cefálico, dura **<1 min**; **Dix-Hallpike** + (nistagmo upbeating-torsional) confirma canal posterior. Menière 30 min-12 h; neuritis días-semanas continuo.
+> - **Neuroimagen urgente:** ante focalidad / HINTS central / cefalea occipital intensa (RM/angio). TC craneal aislado en mareo puro = rentabilidad casi nula.
+> - **Urgencias / derivar:** SVA central, cefalea occipital intensa (disección vertebral), cefalea en trueno (HSA), 1.er episodio en añoso con FRCV → urgencias. Maniobras Epley/Semont y dosis farmacológica → ver [[Vértigo en Urgencias]].
+> - **NO:** anclar el diagnóstico en la descripción del paciente ("vértigo/presíncope/desequilibrio") → genera más errores que la cronología.
+
 ## Definición
 
 El mareo es un motivo de consulta muy frecuente (prevalencia vital 17-30 %; 7,4 % de causa vestibular). El pico de edad está entre los **51-70 años**, no por encima de 70 como se asume habitualmente. Aproximadamente la **mitad de los pacientes** con mareo tiene una causa **no vestibular**, y **~1 de cada 6 presenta dos causas simultáneas** (p. ej., migraña vestibular + VPPB).

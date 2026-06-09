@@ -10,6 +10,14 @@ description: "Sepsis y shock séptico: criterios SOFA/qSOFA, bundles de la prime
 ---
 # Sepsis y [[Shock]] Séptico
 
+> [!danger] ⚡ Guardia
+> **Sepsis = infección + ∆SOFA ≥ 2. Shock séptico = vasopresores para TAM ≥ 65 + lactato > 2 mmol/L.**
+> - **Acción inmediata (bundle ≤ 1h):** medir **lactato** + **2 hemocultivos ANTES de ATB** + **antibiótico empírico** precoz + **fluidos 30 mL/kg** cristaloides si hipotensión/lactato elevado.
+> - **Dosis clave:** cristaloides **30 mL/kg** (en IMC > 30, calcular sobre peso ajustado/ideal). Empírica frecuente: **Ceftriaxona 2 g IV/24h** (+ Azitromicina, Metronidazol o Gentamicina según foco).
+> - **Vasopresor:** **Noradrenalina** 1ª línea (vía periférica precoz) si persiste hipotensión; Vasopresina 2ª línea.
+> - **UCI/derivar:** avisar si ≥ 1 disfunción orgánica (TAS < 100 o TAM < 65, lactato > 2, PaO₂/FiO₂ < 300, GCS < 12, plaq < 100.000, Cr > 2, Bili > 2). Ingreso en las primeras 6 h si hay indicación.
+> - **NO:** confirmar ni descartar sepsis con un único biomarcador ni con qSOFA aislado (cribado con NEWS/NEWS2/MEWS/SIRS).
+
 **Fecha de revisión:** 25/03/2026
 **Etiquetas:** #patologia #infecciosas #urgencias #Sepsis3 #SSC2026
 

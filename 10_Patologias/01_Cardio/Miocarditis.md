@@ -6,6 +6,15 @@ last_fact_checked: 2026-06-08
 ---
 # Miocarditis
 
+> [!danger] ⚡ Guardia
+> **Sospecha: dolor torácico + troponina elevada + cambios ECG en joven, tras viriasis/gastroenteritis reciente (días-semanas antes); puede simular SCA con coronarias normales.**
+> - **Acción inmediata:** 1ª línea (Clase I) historia, ECG, **ETT**, Rx tórax, laboratorio (troponina, NT-proBNP, PCR). **Descartar SCA/EAC obstructiva** (coronariografía o TC coronaria).
+> - **Imagen clave:** **RMC** = prueba clave no invasiva (Lake Louise; mayor precisión en las **primeras 2 semanas**). **BEM (Clase I)** si riesgo alto/inestabilidad.
+> - **Ingreso:** ingreso en planta/UCI (Clase I); si **troponina elevada** en ambulatorio → derivar al hospital.
+> - **Fulminante (avisar):** shock cardiogénico → **inotrópicos/vasopresores** ± **asistencia circulatoria mecánica (ACM)** + **BEM precoz**; derivar a centro terciario.
+> - **Riesgo alto:** FEVI **< 40%** · RTG extenso · FV/TV mantenida · BAV de grado alto · síncope/parada.
+> - **NO:** no implantar **DAI en la fase aguda** (esperar **3-6 meses**, salvo MCG/sarcoidosis); un **ECG normal NO excluye** miocarditis.
+
 **Fuente:** ESC 2025 Myocarditis & Pericarditis + Manual 12 de Octubre, Cap. 19.
 
 > [!info] Concepto SIMP (ESC 2025)

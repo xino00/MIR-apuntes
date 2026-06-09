@@ -8,6 +8,13 @@ last_fact_checked: 2026-04-20
 
 # Síndrome Aórtico Agudo y Enfermedad Aórtica
 
+> [!danger] ⚡ Guardia
+> **Dolor torácico/abdominal súbito, lancinante y migratorio + asimetría de pulsos → sospecha SAA.**
+> - **Acción inmediata:** **angio-TC de aorta** (prueba de elección); ECG para descartar SCA.
+> - **Dosis clave:** **labetalol** (1.ª elección) 50 mg en 1 min, repetir en 5 min, máx. 200 mg → objetivo **TAS < 120, TAM < 80, FC < 60 lpm**. Analgesia: **cloruro mórfico 3-5 mg i.v./30 min**. Si hipotensión: noradrenalina + ETT urgente.
+> - **Ingreso:** **siempre UCI.** **Tipo A → cirugía urgente** (afecta aorta ascendente). Tipo B no complicada → tratamiento médico.
+> - **NO:** antiagregantes (el ECG puede ser indistinguible de IAM tipo 1; betabloqueo ANTES que vasodilatador para controlar FC).
+
 **Fuente:** ESC 2024 Aortic and Peripheral Arterial Diseases + Manual 12 de Octubre, Cap. 20, pp. 304-317.
 
 ---

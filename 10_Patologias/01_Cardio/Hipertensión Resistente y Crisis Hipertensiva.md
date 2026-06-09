@@ -6,6 +6,14 @@ last_fact_checked: 2026-04-20
 ---
 # Hipertensión Resistente y Crisis Hipertensiva
 
+> [!danger] ⚡ Guardia
+> **Emergencia (PA ≥180/110 ESC o >180/120 H12O CON daño de órgano) → IV + UCI. Sin DOMH → oral + ambulatorio.**
+> - **Acción inmediata:** confirma DOMH (oftalmoscopia si PA >180/110). Con DOMH: fármaco **IV**. Sin DOMH: descartar dolor/ansiedad, **lorazepam 1-2 mg VO**, repetir PA en 15-30 min.
+> - **Objetivo descenso:** ↓ **PAM 10-15 %** en 1-2 h (máx 20-25 % según órgano). Excepciones agresivas: disección aórtica y EAP.
+> - **Dosis IV clave:** **labetalol** bolo 20 mg (ESC)/50 mg (H12O) · **urapidilo** bolo 25 mg IV · **nitroprusiato** perfusión 50 mg/500 ml a 10-30 ml/h (no >24-48 h).
+> - **Derivar/ingreso:** emergencia → ingreso UCI; PA mal controlada → objetivo <210/120 en 2-3 h y alta ambulatoria.
+> - **NO:** bajar PAM >25 % en 24 h (isquemia cerebral/coronaria) · **NO nifedipino sublingual** (efecto impredecible).
+
 **Fuentes:** Guía ESC 2024 sobre PA elevada e hipertensión | Manual H12 de Octubre 2022 (9.ª ed., cap. 14).
 **Concepto clave:** La HTA resistente (PA elevada a pesar de ≥3 fármacos específicos a dosis máximas) requiere excluir pseudorresistencia y causas secundarias. Las crisis hipertensivas (emergencias con DOMH vs. PA mal controlada sin DOMH) son situaciones agudas con objetivos de reducción controlada.
 

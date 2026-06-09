@@ -8,6 +8,14 @@ last_fact_checked: 2026-04-20
 
 # Hipertensión Pulmonar (HP)
 
+> [!danger] ⚡ Guardia
+> **Sospechar ante disnea de esfuerzo inexplicada (síntoma más frecuente) + refuerzo del 2.º tono / congestión derecha.**
+> - **Cribado/sospecha:** **ETT** es la prueba fundamental → **VmáxRT > 3,4 m/s = probabilidad ALTA**. Cribar siempre en **esclerosis sistémica**, cirrosis candidata a trasplante y portadores **BMPR-2**.
+> - **Descompensación de IC derecha:** **diuréticos** para congestión, pero sin deplecionar el VD; **O₂** domiciliario si **pO₂ < 60 mmHg**.
+> - **NO suspender prostaciclinas i.v.** (epoprostenol/treprostinil/iloprost) → efecto rebote con fallo agudo del VD.
+> - **Derivar a centro de referencia:** HPTEC (gammagrafía V/Q, no angio-TC), EVOP/HCP, embarazo con HP, grupos 2-3 con HP desproporcionada (VRT > 3,4 m/s).
+> - **NO:** en Eisenmenger/HP del grupo 3 el **O₂ no corrige la hipoxemia**; evitar vasodilatadores sistémicos.
+
 **Fuente:** ESC/ERS 2022 Pulmonary Hypertension + Manual 12 de Octubre, Cap. 21, pp. 318-331.
 
 ## Definición

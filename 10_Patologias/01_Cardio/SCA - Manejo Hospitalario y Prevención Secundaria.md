@@ -7,6 +7,14 @@ last_fact_checked: 2026-04-26
 
 # Síndrome Coronario Agudo — Manejo Hospitalario y Prevención Secundaria
 
+> [!danger] ⚡ Guardia
+> **Post-SCA: ingreso (UCIC vs telemetría) + paquete GDMT al alta.**
+> - **Acción inmediata:** **UCIC** si angina persistente, **inestabilidad hemodinámica**, arritmias no controladas, reperfusión subóptima o **shock**. Estables sin isquemia/arritmia/congestión → telemetría/intermedios. **FEVI** antes del alta.
+> - **DAPT:** **AAS 75-100 mg/d + P2Y12** (ticagrelor/prasugrel/clopidogrel) **≥ 12 meses** salvo alto riesgo de sangrado (ARC-HBR).
+> - **4 patas prevención 2ª:** estatina alta intensidad (**atorva 40-80 / rosuva 20-40**, LDL **< 55 mg/dL**) · **IECA/ARA-II** (FEVI ≤ 40%, HTA, DM, STEMI anterior) · **betabloqueante** desde las primeras **24 h** tras estabilización · **MRA** si FEVI ≤ 40% + IC/DM. Añadir **iSGLT2** si FEVI ≤ 40% o DM2 alto riesgo.
+> - **Otros al alta:** **IBP** si DAPT + riesgo GI o ACO · **NTG sublingual** · **vacuna gripal anual** · derivar a **rehabilitación cardíaca** pre-alta.
+> - **NO:** de-escalar la estatina aunque el LDL baje mucho (beneficio sostenido). Si ACO concomitante → **suspender AAS 1-4 sem** y mantener clopidogrel + ACO.
+
 Tras la fase aguda (evaluación, antitrombóticos, reperfusión y manejo de complicaciones), el ingreso continúa con **monitorización en UCIC**, **inicio o titulación de GDMT** y **planificación del alta** con prevención secundaria estructurada. Para la fase aguda ver [[SCA - Tratamiento Médico]] y [[SCA - Reperfusión y Revascularización]].
 
 ---

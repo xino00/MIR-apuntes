@@ -7,6 +7,14 @@ last_fact_checked: 2026-05-20
 
 # Síncope
 
+> [!danger] ⚡ Guardia
+> **PTC brusca con recuperación espontánea y completa. La clave es el TRIAJE de riesgo.**
+> - **Acción inmediata:** **ECG 12 derivaciones SIEMPRE** + **TA en supino y bipedestación** (criterios HO: caída **PAS ≥ 20**, **PAD ≥ 10** o **PAS < 90** con síntomas).
+> - **Red flags (Tabla 6):** dolor torácico/disnea, síncope en esfuerzo o supino, palpitaciones previas, cardiopatía/FEVI baja, PAS < 90, bradicardia < 40, soplo no estudiado, ECG patológico (BAV Mobitz II/3.º, TV, Brugada tipo 1, QTc > 460 ms).
+> - **Dosis clave (no para guardia, son crónicas):** HO → **midodrina 2,5-10 mg/8 h**, **fludrocortisona 0,1-0,3 mg/día**.
+> - **Ingreso/alta:** **bajo riesgo + ECG normal + pródromos típicos** → alta (consulta US si recurrente); **ni alto ni bajo** → observación SU 6-24 h con telemetría; **cualquier alto riesgo** → ingreso (Tabla 7).
+> - **NO:** **betabloqueantes en síncope reflejo** (Clase III, sin eficacia y agravan bradicardia en SSC).
+
 **Fuente:** Guía ESC 2018 sobre el diagnóstico y el tratamiento del síncope (Brignole, Moya et al.; Rev Esp Cardiol. 2018;71(10):837.e1-e92) + Manual de Diagnóstico y Terapéutica Médica del Hospital 12 de Octubre, 9.ª ed. 2022, cap. 13.
 
 **Concepto clave:** El **síncope** se define como una pérdida transitoria del conocimiento (PTC) debida a hipoperfusión cerebral, caracterizada por un **inicio rápido, duración corta y recuperación espontánea, completa y precoz**. Es un subgrupo dentro de la PTC, junto con los ataques epilépticos, la PTC psicogénica y causas raras (AIT vertebrobasilar, HSA, robo de la subclavia, ataques anóxicos cianóticos). El síncope supone el **1-3% de las visitas a urgencias**; el 20% de la población tendrá al menos un episodio sincopal a lo largo de la vida; **alrededor del 10% de los pacientes con síncope atendidos en urgencias sufren un evento adverso en los 7-30 días posteriores**, casi la mitad después del alta.
