@@ -1,4 +1,5 @@
 ---
+aliases: [Criterios de Framingham, Framingham IC, Criterios diagnósticos de insuficiencia cardíaca, Framingham insuficiencia cardiaca]
 tags: [cardio, patologia]
 fuente: "McKee PA et al, NEJM 1971;285:1441-1446 (contextualizado con ESC HF 2021)"
 last_fact_checked: 2026-04-20

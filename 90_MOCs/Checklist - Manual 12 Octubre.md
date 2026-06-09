@@ -405,4 +405,18 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 
 ---
 
+## 🔍 Política de verificación (`last_fact_checked`)
+
+Para saber de un vistazo qué notas están contrastadas contra su guía-fuente:
+
+- Toda nota verificada lleva en el frontmatter `last_fact_checked: YYYY-MM-DD`.
+- **Cobertura actual:** ~109/203 patologías (~54 %) y la mayoría de fármacos de guardia. Urgencias y guías MUST se auditan por separado (proceso OpenEvidence).
+- **Objetivo:** verificar por especialidad antes de cada rotación; re-chequear las notas modificadas (la fecha caduca con cada edición clínica).
+- **Antes de publicar:** correr `scripts/check-calidad.sh` (detecta wikilinks en YAML que rompen Quartz y texto corrupto del generador).
+
+> [!warning] Lección del lote corrupto (jun 2026)
+> Un lote antiguo de fichas de fármacos se generó con texto agramatical ("craso", "Ver tasgs", dosis ilegibles). Se reescribieron 11 fichas contra Manual + CIMA. `check-calidad.sh` vigila que no vuelva a colarse.
+
+---
+
 *Volver a [[000_INICIO]] · [[MOC - Urgencias]]*

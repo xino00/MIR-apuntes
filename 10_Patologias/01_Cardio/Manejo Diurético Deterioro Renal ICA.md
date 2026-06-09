@@ -1,4 +1,5 @@
 ---
+aliases: [Manejo diurético en ICA, Diuréticos en insuficiencia cardíaca aguda, Resistencia a diuréticos, Síndrome cardiorrenal ICA, ADVOR, Deterioro renal ICA]
 tags: [urgencias, cardio, nefro, patologia]
 title: Manejo del Tratamiento Diurético y Deterioro Renal en ICA
 fuente: "ESC HF 2021 (ehab368) §11.3 + Focused Update 2023 (ehad195 — ADVOR, EMPULSE)"
