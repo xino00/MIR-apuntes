@@ -1,40 +1,57 @@
 ---
 aliases: [Nebivolol, Lobivon]
-tags: [farmaco, betabloqueante, cardio]
+tags: [farmaco, betabloqueante, cardio, hta]
+last_fact_checked: 2026-06-09
 ---
 # Nebivolol
 
-**Clase:** Beta-bloqueante adrenérgico altamente cardioselectivo ($\beta$-1) vasodilatador (Tercera generación).
-**Fuente:** Ficha Técnica CIMA AEMPS y Manual 12 de Octubre.
+**Clase:** Betabloqueante cardioselectivo (β1) con vasodilatación mediada por óxido nítrico (tercera generación).
+**Fuente:** Manual 12 de Octubre 2022 + Ficha Técnica CIMA AEMPS.
 
-## 1. Mecanismo de Acción
+## 1. Posología y Administración
 
-Posee un mecanismo de acción dual único en la familia de betabloqueantes. Por un lado, es el antagonista más selectivo y potente de los receptores adrenérgicos $\beta$-1 (cardioselectivo), disminuyendo la frecuencia cardíaca y reduciendo la isquemia miocárdica. Por otro lado, interactúa con la vía L-Arginina/Óxido Nítrico (NO) en el endotelio vascular promoviendo su liberación fisiológica, provocando una **vasodilatación general sistémica**, lo que reduce la resistencia vascular periférica (un rasgo ausente en betabloqueantes clásicos).
+| Indicación | Dosis | Vía | Frecuencia / Titulación |
+|---|---|---|---|
+| Hipertensión esencial | 5 mg | VO | 1 vez/día. Efecto a las 1-2 sem, óptimo a las 4 sem (CIMA) |
+| Hipertensión en >65 años | 2,5 mg (inicio) | VO | 1 vez/día (CIMA) |
+| IC crónica estable (≥70 años) | 1,25 → 2,5 → 5 → 10 mg | VO | Titular subiendo a intervalos de 1-2 semanas según tolerancia; máx. 10 mg/día (CIMA) |
+| Profilaxis de migraña | 2,5-10 mg | VO | cada 24 h (Manual p. 941) |
+
+**Ajuste renal:** Insuficiencia renal → iniciar a 2,5 mg/día; subir a 5 mg si es necesario. Sin experiencia en insuficiencia renal grave (creatinina ≥250 µmol/L) (CIMA).
+
+**Ajuste hepático:** Contraindicado en insuficiencia hepática (CIMA).
 
 ## 2. Indicaciones Clínicas Principales
 
-- **Hipertensión Arterial (HTA):** Altamente recomendado cuando la HTA se acompaña de disfunción eréctil precoz o arteriopatía periférica isquémica, puesto que al actuar vasodilatando mejora severamente estos perfiles letales.
-- **[[Insuficiencia cardiaca]] Crónica (HFrEF y HFmrEF):** Es uno de los cuatro Betabloqueantes aprobados unánimemente y recomendados por las Guías de Insuficiencia Cardiaca (junto con Carvedilol, Bisoprolol, Metoprolol) para reducir morbimortalidad en pacientes sintomáticos (especialmente ancianos > 70 años) estables frente a sobrecargas severas de volumen.
+- **Hipertensión Arterial (HTA):** Tratamiento de la hipertensión esencial. Su componente vasodilatador (NO-mediado) reduce la resistencia vascular periférica, rasgo ausente en los betabloqueantes clásicos.
+- **[[Insuficiencia cardiaca]] Crónica:** Tratamiento de la IC crónica estable de leve a moderada en pacientes ≥70 años, añadido a la terapia estándar (CIMA). Es uno de los betabloqueantes con evidencia en IC junto con Carvedilol, [[Bisoprolol]] y [[Metoprolol]].
+- **Profilaxis de migraña:** Recogido entre los betabloqueantes de uso preventivo de la migraña (Manual p. 941).
 
 ## 3. Contraindicaciones y Precauciones
 
-- **Cardiovasculares y Electromecánicas:** Insuficiencia cardíaca aguda descompensada rápida general, choque cardiogénico profundo, síndrome del seno enfermo letal general sin marcapasos, y bloqueos AV de 2º y 3º grado. Bradicardia letal basal severa (<60 lpm profunda general).
-- **Hígado sistémico puro letal o respiratorios absolutos prolongados:** Insuficiencia severa hepática de Child-Pugh C craso y Asma exacerbada sistémica (aunque sea el más B-1 selectivo las dosis plenas altas tocan crónicamente los B2).
+- **Cardiovasculares:** Insuficiencia cardiaca aguda, shock cardiogénico o episodios de descompensación que requieran inotrópicos IV; bradicardia (<60 lpm); hipotensión (PAS <90 mmHg); enfermedad / bloqueo seno-auricular y bloqueo AV de 2.º y 3.er grado sin marcapasos.
+- **Respiratorias:** Broncoespasmo y asma bronquial (pese a su cardioselectividad).
+- **Metabólico-endocrinas:** Acidosis metabólica; feocromocitoma no tratado.
+- **Otras:** Insuficiencia hepática; alteraciones graves de la circulación periférica; hipersensibilidad al principio activo.
 
 ## 4. Reacciones Adversas (RAM) Frecuentes
 
-- **SNC y Vasculares Sistémicos Temporales:** Cefalea general transitoria, letargia profunda, bradicardias generales prolongadas basales sintomáticas (Menos incidencia en Disfunción Eréctil que otros BB por el óxido nítrico endotelial selectivo compensado general masivo).
-- **Gastrointestinal metabólico:** Edema leve inicial por caída periférica u o cuadros digestivos agudos diarreas transitorias a general leves adaptables.
+(≥1/100 a <1/10, según CIMA)
 
-## 5. Posología y Administración
+- **Cardiovasculares:** Bradicardia, hipotensión, edema.
+- **SNC:** Cefalea, vértigo.
+- **Respiratorias:** Disnea.
+- **Gastrointestinales:** Náuseas, estreñimiento, diarrea.
+- **Dermatológicas:** Prurito, rash eritematoso.
+- **Otras:** Cansancio, impotencia.
 
-- **Hipertensión Arterial:**
-  - **Dosis única plena de 5 mg al día (un comprimido general completo).** El efecto hipotensor total en la resistencia vascular puede tardar en establecer su acción estable general sistémica pura basal tardiamente de 1 o 2 semanas hasta un mes. En general crónicos pacientes ancianos sistémicos basales agudizados con TFG reducida se inicia a medias basales un **2.5 mg/día**.
-- **Insuficiencia Cardiaca Crónica:** 
-  - Inicio de profiláctico gradual intensificado (Titulación lentificada aguda de guía clínica) con masivos controles. Se inicia a **1.25 mg una vez al día**.
-  - Aumentar drásticamente según tolerancia cardíaca progresiva la dosis hasta los **2.5 mg/día**, después a **5 mg/día**, hasta alcanzar la exigible máxima dosis diana letal de supervivencia clínica masiva de **10 mg/día**.
+## 5. Mecanismo de Acción
+
+Posee un mecanismo de acción dual. Por un lado es un antagonista selectivo y potente de los receptores adrenérgicos β1 (cardioselectivo), disminuyendo la frecuencia cardiaca y el consumo miocárdico de oxígeno. Por otro lado interactúa con la vía L-Arginina/Óxido Nítrico (NO) en el endotelio vascular favoreciendo su liberación, lo que provoca vasodilatación sistémica y reduce la resistencia vascular periférica (rasgo ausente en los betabloqueantes clásicos).
 
 ## 🔗 Relacionados
-- [[HTA - Hipertensión Arterial]]
 - [[Insuficiencia cardiaca]]
+- [[Tratamiento Farmacológico de la Hipertensión]]
+- [[Fibrilación Auricular (FA)]]
 - [[Metoprolol]]
+- [[Bisoprolol]]
