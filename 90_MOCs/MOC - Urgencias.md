@@ -11,6 +11,15 @@ description: "Hub de urgencias generales: presentaciones sindrómicas transversa
 
 ---
 
+## 🟢 Guías rápidas de guardia (MUST)
+
+> [!tip] Para el R1 en puerta — formato de 30 segundos
+> Texto plano, estructura fija: **cuándo avisar · qué preguntar · explorar · pruebas · tratamiento con dosis**. Pensadas para consultar y compartir en guardia.
+> - [[MUST - Disnea]]
+> - [[MUST - Dolor Torácico]]
+
+---
+
 ## ⚡ Algoritmos vitales / SVA
 
 - [[Algoritmo de PCR Avanzada (Soporte Vital Avanzado)|RCP Avanzada (SVA)]] — algoritmo completo de paro cardiorrespiratorio
