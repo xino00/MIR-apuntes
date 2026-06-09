@@ -1,6 +1,7 @@
 ---
 aliases: [Magnesio, Sulfato de Magnesio, MgSO4, Sulmetin]
 tags: [farmaco, electrolito, urgencias, cardio, obstetricia]
+last_fact_checked: 2026-06-09
 ---
 # Sulfato de Magnesio (MgSO₄)
 
@@ -21,7 +22,7 @@ El magnesio es el segundo catión intracelular más abundante. Actúa como cofac
 ## 3. Contraindicaciones y Precauciones
 
 - **Bloqueos AV de alto grado** (2º-3º) sin marcapasos, ya que puede empeorar la bradicardia y la conducción AV.
-- **Insuficiencia renal severa (TFG < 30 mL/min):** Se acumula con facilidad prodiendo toxicidad muscular y respiratoria por excreción exclusivamente renal.
+- **Insuficiencia renal severa (TFG < 30 mL/min):** Se acumula con facilidad produciendo toxicidad muscular y respiratoria por excreción exclusivamente renal.
 - **Miastenia Gravis:** Potencia el bloqueo neuromuscular y puede precipitar una crisis miasténica grave.
 
 ## 4. Reacciones Adversas (RAM) Frecuentes
@@ -36,6 +37,7 @@ El magnesio es el segundo catión intracelular más abundante. Actúa como cofac
 
 - **Torsades de Pointes (Urgencia Arrítmica):**
   - Bolo IV de **2 g de MgSO₄** (1 ampolla de 1.5 g o dosis equivalente) diluidos en 100 mL SF, administrados en 5-15 minutos. Repetir en 10-15 min si no hay respuesta.
+  - **Tras el bolo: perfusión de mantenimiento 200-300 mg/h durante 4-8 h** (Manual 12 Octubre 2022, p. 229, apdo. 1.6.2.1 Torsades de pointes: "sulfato de magnesio 1-2 g i.v. en 10 min, seguido de perfusión de 200-300 mg/h durante 4-8 h").
 - **Eclampsia (Crisis Convulsiva):**
   - Protocolo Zuspan: Bolo IV de **4-6 g** en 20 min + perfusión de **1-2 g/hora** hasta 24h posparto.
   - Controlar diuresis (> 25 mL/h), frecuencia respiratoria (> 12 rpm) y reflejo rotuliano antes de cada dosis.

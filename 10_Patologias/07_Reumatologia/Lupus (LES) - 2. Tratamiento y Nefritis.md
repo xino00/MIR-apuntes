@@ -2,7 +2,7 @@
 aliases: [Nefritis Lúpica, Tratamiento LES, Brote lúpico]
 tags: [reuma, patologia, farmaco]
 fuente: "Manual 12 Octubre 2022, cap. 92 (Conectivopatías), apartado 1 (tratamiento LES y nefritis lúpica)"
-last_fact_checked: 2026-04-21
+last_fact_checked: 2026-06-09
 guias_por_contrastar:
   - "EULAR 2019 LES update (Fanouriakis et al. Ann Rheum Dis 2019;78:736-745)"
   - "KDIGO 2024 Glomerular Diseases, cap. 9 (Lupus Nephritis)"
@@ -53,7 +53,7 @@ Está compuesto de dos fases crueles y taxativas, **Inducción** y **Mantenimien
 
 > [!important] 1. Fase de Inducción Lúpica Salvadora
 > Objetivo: Apagar el daño inflamatorio renal activo de inmediato (3 a 6 meses).
-> - **Corticoides a Megadosis** (Pulsos de *[[Metilprednisolona]]* I.V. 500-1000 mg tres días + pauta descendente severa oral rápida).
+> - **Corticoides a Megadosis** (Pulsos de *[[Metilprednisolona]]* I.V. **250-500 mg × 3 días**, seguidos de prednisona 20-30 mg/día en pauta descendente; alternativa: prednisona 1 mg/kg/día — Manual 12 Oct cap. 92 tabla 2 p. 1396).
 >   **+ Añadir SIEMPRE Inmunosupresor Base Agresivo:**
 > - **Ciclofosfamida i.v.** (Protocolo **Eurolupus**: 500 mg i.v. quincenal × 6-12 ciclos + MPD 125 mg/pulso) — **considerada 1ª elección en Manual 12 Oct cap. 92 tabla 2 p. 1396**. Dosis bajas acumuladas (seguridad vesical/ovárica). **O**
 > - **Micofenolato (MMF) 2-3 g/día + GC** — priorizado por EULAR 2019 para evitar toxicidad gonadal, especialmente en pacientes en edad fértil.

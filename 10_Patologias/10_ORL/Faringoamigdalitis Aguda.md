@@ -2,6 +2,7 @@
 aliases: [Faringoamigdalitis, Amigdalitis, Faringitis, Angina, Strep throat, Criterios Centor]
 tags: [urgencias, orl, infecciosas, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"
+last_fact_checked: 2026-06-09
 ---
 # Faringoamigdalitis Aguda
 
@@ -19,10 +20,13 @@ fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencia
 ## Tratamiento
 
 **ATB si ≥3 criterios Centor (según PROA):**
-- 1ª ELECCIÓN: Penilevel 500 mg 1 comprimido cada 12 horas durante 10 días.
+- 1ª ELECCIÓN: Penilevel (fenoximetilpenicilina) 500 mg 1 comprimido cada 12 horas durante 10 días.
 - 2ª ELECCIÓN: Amoxicilina 500 mg 1 comprimido cada 8 horas durante 5-7 días.
 - ALÉRGICOS: Clindamicina 300 mg 1 comprimido cada 8 horas durante 5 días.
 - RECURRENCIAS/FALLO TTO: Amoxicilina/Clavulánico 500/125 mg 1 comprimido cada 8 horas durante 7 días.
+
+> [!warning] Discordancia de fuentes (duración de amoxicilina)
+> El **PROA FJD** (fuente de esta pauta) indica amoxicilina **5-7 días**; el **Manual 12 Octubre 2022** (p. 124, apdo. 3.2.2 Faringoamigdalitis aguda) indica "amoxicilina 500 mg/8 h v.o. durante **10 días** o fenoximetilpenicilina 500 mg/8-12 h v.o. durante 10 días". En guardia FJD prevalece el PROA local; si el objetivo es erradicación de S. pyogenes (fiebre reumática, recurrencias), el estándar clásico son 10 días.
 
 ## Plantilla de Guardia
 
