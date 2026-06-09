@@ -1,43 +1,76 @@
 ---
-aliases: [Heparina, HNF, Heparina Sódica]
-tags: [farmaco, anticoagulante, urgencias, cardio, vascular]
+aliases: [Heparina, HNF, Heparina Sódica, Heparina No Fraccionada, Heparina Sódica Rovi]
+tags: [farmaco, anticoagulante, urgencias, cardio, hemato]
+last_fact_checked: 2026-06-09
 ---
 # Heparina No Fraccionada (HNF)
 
-**Clase:** Anticoagulante inyectable directo de acción rápida (Activador de Antitrombina III).
-**Fuente:** Ficha Técnica CIMA AEMPS y Manual 12 de Octubre.
+**Clase:** Anticoagulante parenteral de acción rápida; potenciador de la antitrombina (inhibe trombina [IIa] y factor Xa).
+**Fuente:** Manual 12 de Octubre 2022 (cap. 30 Enfermedad tromboembólica venosa; cap. 83 Trastornos de la serie plaquetaria; cap. 87 Trastornos de la hemostasia. Anticoagulación) + Ficha Técnica CIMA AEMPS (Heparina Sódica Rovi).
 
-## 1. Mecanismo de Acción
+## 1. Posología y Administración
 
-Inhibe los mecanismos normales de la coagulación uniéndose a la **Antitrombina III (AT-III)** endógena y potenciando exponencialmente (hasta 1000 veces) su capacidad inhibitoria natural. El gran complejo heparina-AT-III resultante se encarga de inactivar a una enorme velocidad los proteasas de la cascada intrínseca, fundamentalmente la **Trombina (Factor IIa)** y el **Factor Xa** activo (en una relación equilibrada 1:1), interrumpiendo tempranamente la vía fibrilar letal. Impide la formación masiva de los grandes coágulos de fibrina insolubles y evita la extensión patológica de uno preformado.
+| Indicación | Dosis | Vía | Frecuencia / Monitorización |
+|---|---|---|---|
+| Bolo inicial de carga (ETV de alto riesgo, isquemia arterial aguda, anticoagulación urgente) | **80 UI/kg** | i.v. directo | dosis única; sólo si se requiere efecto anticoagulante inmediato (Manual p. 314, 1330) |
+| Perfusión de mantenimiento | **18 UI/kg/h** | i.v. perfusión continua | ajustar ritmo según TTPa (Manual p. 314, 1330) |
+| Profilaxis ETV — riesgo bajo/moderado | 5.000 UI | s.c. | cada 12 h (Manual p. 431) |
+| Profilaxis ETV — riesgo alto | 5.000 UI | s.c. | cada 8 h (Manual p. 431) |
+
+> Bolo de SCA: algunas guías de síndrome coronario agudo emplean bolos de **60-70 UI/kg**; en el vault sólo está respaldada la cifra de **80 UI/kg** (Manual). El bolo de 60-70 UI/kg queda **pendiente de fuente en el vault**.
+
+**Preparación práctica de la perfusión:** 24.000 UI en 500 ml de suero glucosado al 5%, a pasar a 18 UI/kg/h (ajustando el ritmo al peso) (Manual p. 1330).
+
+**Monitorización (TTPa):** objetivo terapéutico **TTPa 1,5-2,5 veces el control basal**. Primer control a las 6 h de iniciar la perfusión y repetir cada 6 h hasta alcanzar el rango; después, ajuste diario (Manual p. 1330).
+
+**Ajuste de dosis según TTPa (tabla 13, Manual p. 1330):**
+
+| TTPa (s) | Cambio en perfusión | Otras medidas | Próximo control |
+|---|---|---|---|
+| < 39 | +3 ml/h | bolo 80 UI/kg | 6 h |
+| 39-45 | +2 ml/h | bolo 40 UI/kg | 6 h |
+| 46-70 (rango) | sin cambios | — | 24 h |
+| 71-90 | −2 ml/h | — | 6 h |
+| > 90 | −3 ml/h | detener la perfusión 1 h | 6 h |
+
+**Ajuste renal — ventaja de la HNF:** no precisa ajuste por aclaramiento renal y es el anticoagulante parenteral de elección frente a HBPM y ACOD en **insuficiencia renal grave (FG < 30 ml/min) y hemodiálisis**, ya que las HBPM se eliminan por vía urinaria y no se recomiendan con filtrados < 30 ml/min (Manual p. 423, 1331).
+
+**Antídoto — sulfato de protamina (Manual p. 1334):**
+- Detener primero la perfusión de heparina.
+- Hemorragia vital tras **bolo i.v. reciente**: **1 mg de protamina por cada 100 UI de HNF** administradas (precaución en alérgicos al pescado). Si han pasado **30 min**, reducir la dosis de protamina a la mitad.
+- Si la HNF se administra en **perfusión continua**: pautar **20 mg de protamina**.
+- Control de TTPa a los 15 min; se puede repetir hasta que cese el sangrado o se corrija el TTPa, **sin sobrepasar 100 mg**.
 
 ## 2. Indicaciones Clínicas Principales
 
-- **Enfermedad Tromboembólica Venosa (ETV):** Sigue siendo de recomendación universal y primera elección de base en el tratamiento agudo del **Tromboembolismo Pulmonar masivo agudo con inestabilidad hemodinámica** del paciente (shock), fundamentalmente porque carece de eliminación renal y es el único trombolítico inmediatamente revertible de la familia ante cirugías emergentes.
-- **Cardiopatía Isquémica Extracorpórea:** Sustento obligatorio en Intervencionismo Coronario Percutáneo primario masivo en Laboratorio de Hemodinámica en IAM urgente (SCACEST).
-- **Circuitos Vasculares Protésicos o Extracorpóreos:** Prevención intensiva estricta de la coagulación basal severa en Cirugías mayores con bomba cardiopulmonar CEC (Circulación Extracorpórea) o hemodiálisis.
+- **Enfermedad tromboembólica venosa (ETV):** TEP de alto riesgo (inestabilidad hemodinámica) previo a la fibrinólisis, y fase aguda de la ETV cuando hay **alto riesgo de sangrado** o **insuficiencia renal grave**, porque su efecto se puede interrumpir más rápido que con HBPM al tener una vida media más corta (Manual p. 423).
+- **Isquemia arterial aguda:** anticoagulación inmediata al establecer el diagnóstico (bolo + perfusión) (Manual p. 314).
+- **Síndrome coronario agudo / intervencionismo coronario percutáneo (ICP):** anticoagulación periprocedimiento (ver [[SCA - Tratamiento Médico]] y [[SCA - Reperfusión y Revascularización]]).
+- **Circuitos extracorpóreos:** circulación extracorpórea (CEC) y hemodiálisis.
 
 ## 3. Contraindicaciones y Precauciones
 
-- **Alto Riesgo Quirúrgico o Hemorrágico Activo:** Pacientes con trauma cefálico activo severo general o endocarditis sistémica; pacientes recien intervenidos de cirugías invasivas severas neurales, oculares o con punciones intraoculares; úlcera aguda masivamente sangrante y varices esofágicas no tratadas.
-- **Inmunológicas:** **Contraindicación letal Absoluta** la existencia de historia pasada confirmada clincamente de Trombocitopenia Inmune Inducida por Heparina (T.I.H. tipo II por anticuerpos severos tipo IgG generalizados destructivos PF4-Heparina).
-- **Beneficio Clínico Extra:** Al ser excretada extracelularmente por células endoteliales y retículo endoteliales, no exige la drástica caída a un aclaramiento renal normal, volviendola totalmente indicada libre en casos de diálisis pura insuficiencia renal total.
+- **Hemorragia activa o alto riesgo hemorrágico:** sangrado activo, cirugía reciente neuroquirúrgica/ocular, traumatismo craneal, úlcera péptica sangrante, varices esofágicas no tratadas.
+- **Antecedente de trombocitopenia inducida por heparina (TIH) tipo II:** contraindicación por el riesgo protrombótico inmunomediado (ver RAM y cap. 83 del Manual, p. 1272).
+- **Precaución:** punción lumbar/anestesia neuroaxial reciente, endocarditis, insuficiencia hepática grave.
 
 ## 4. Reacciones Adversas (RAM) Frecuentes
 
-- **Sanguíneas Sistémicas:** Fenómenos isquémicos generales de hemorragias masivas a disociaciones clínicas letales de punciones o post quirurgicas locales severas (su altísimo nivel basal de TTPA es predictor general masivo).
-- **Inmuno Trombóticas Paradójicas:** Exige puramente un seguimiento intenso y letal general en analítica del recuento global plaquetario porque induce crónicamente Trombocitopenias (T.I.H.). Tipo I benigna, leve y no inmune en pocos días; y Tipo II inmune masivamente profunda general letal y rápida y muy crónicamente protrombótica agresiva el séptimo día a nivel craso de coagulación vascular diseminada intravascular con necrosis letales orgánicas irreversibles.
-- **Densidad Basal Ósea y Iones:** Severa osteoporosis demostrada clara asímil general o hiperpotasemia transitoria o elevación pura enzimática local general hepática (GOT/GPT) de rápida curación natural a la retirada.
+- **Hemorragia:** complicación principal del tratamiento (Manual p. 1330).
+- **Trombocitopenia inducida por heparina (TIH):** se distinguen dos tipos (Manual p. 1272):
+  - **Tipo I:** por acción directa de la heparina sobre las plaquetas. Es **leve, no inmune**, sin riesgo de trombosis y **no obliga a suspender** la heparina.
+  - **Tipo II:** **inmunomediada** (autoanticuerpo frente al complejo factor plaquetario 4 [PF4]-heparina). Es clínicamente significativa y **paradójicamente protrombótica** (trombosis venosa 17-55 %, arterial 3-10 %, necrosis cutánea). El nadir plaquetario aparece típicamente entre los **días 5 y 10** tras la exposición (o de forma inmediata si hubo heparina en los 100 días previos). Es más frecuente con HNF a dosis terapéuticas y obliga a **suspender toda heparina**.
+- **Otras:** osteopenia/osteoporosis con uso prolongado, citólisis hepática (elevación de transaminasas), hiperpotasemia, reacciones alérgicas y urticaria (Manual p. 1330).
 
-## 5. Posología y Administración
+## 5. Mecanismo de Acción
 
-- **Vía y Monitorización Obligatoria:** Exclusivamente por infusión en vena profunda central, o intraparietal a bomba regulable monitorizada muy continua. Exige una revisión perpetua y corrección milimétrica de ajuste analítico por sustrato del indicador basal hemostásico **T.T.P.A (mantener estrictamente siempre a entre 1.5 y 2.5 el basal original de control basal absoluto del normal testigo de laboratorio)**.
-- **Dosis en Eventos Tromboembólicos Agudos o Cardíacos:**
-  - Dosis Ataque / Bolo Intravenoso Directo Rápido: **60 a 80 UI / kg** basales en urgencias puramente sistémicas.
-  - Ajuste Perfusión intravenosa progresiva y continua de Mantenimiento Inicial: a **18 UI / kg de peso por hora**.
-- **Antídoto:** Su acción puede anular de inmediato la dosis letal con inyección clínica urgente letal basal a controlada profunda continua por medio de de base antagónica rápida profunda o Sulfato puro masivo de recolección de infusión de a general profunda llamada inyección **Protamina de puramente sal Sulfato** basal por vía general IV.
+Se une a la **antitrombina** y potencia de forma marcada su efecto inhibidor sobre la **trombina (factor IIa)** y los factores **IXa, Xa, XIa y XIIa**, frenando la cascada de la coagulación e impidiendo la formación de fibrina. Por vía intravenosa el efecto anticoagulante es **inmediato**, con una vida media corta (entre 30 min y 3 h), lo que permite revertir rápidamente la anticoagulación (Manual p. 1330).
 
 ## 🔗 Relacionados
-- [[SCA - Síndrome Coronario Agudo]]
-- [[Fibrilación Auricular (FA)]]
 - [[Enoxaparina]]
+- [[TEP - Tromboembolismo Pulmonar]]
+- [[Fibrilación Auricular (FA)]]
+- [[SCA - Tratamiento Médico]]
+- [[MOC - FARMACOS]]
+- [[MOC - CARDIOLOGIA]]
+- [[000_INICIO]]
