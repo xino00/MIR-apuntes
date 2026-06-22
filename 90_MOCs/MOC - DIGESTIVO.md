@@ -22,6 +22,10 @@ description: "Índice de digestivo: dolor abdominal, hemorragia digestiva, hepat
 - [[Hemorragia Digestiva Alta (HDA)]]
 - [[Hemorragia Digestiva Baja (HDB)]]
 
+### 🫀 Hepatología
+- [[MASLD - Esteatosis Hepática Metabólica]] (esteatosis hepática metabólica, antes NAFLD/EHGNA — cribado de fibrosis con FIB-4)
+- [[Hipertransaminasemia]]
+
 *Por crear:*
 - Pancreatitis Aguda
 - Cirrosis y Descompensaciones

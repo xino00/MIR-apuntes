@@ -20,7 +20,9 @@ description: "Índice de endocrinología: emergencias glucémicas, cetoacidosis 
 - [[Hiperglucemia Simple]]
 
 ### 🔄 Síndromes Cardio-Renal-Metabólicos
-- [[Síndrome Cardiovascular-Renal-Metabólico]]
+- [[Síndrome Cardiovascular-Renal-Metabólico]] (HUB — Guía CKM 2026: estadiaje 0-4, PREVENT, manejo por estadios)
+- [[Obesidad (manejo CKM)]] (estadio 1 CKM: estilo de vida, GLP-1, cirugía bariátrica, post-diabetes gestacional)
+- [[MASLD - Esteatosis Hepática Metabólica]] (componente hepático del CKM — cribado FIB-4)
 
 ---
 ### 🔗 Enlaces
