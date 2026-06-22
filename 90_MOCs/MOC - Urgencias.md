@@ -19,6 +19,7 @@ description: "Hub de urgencias generales: presentaciones sindrómicas transversa
 > - [[MUST - Dolor Torácico]]
 > - [[MUST - Síncope]]
 > - [[MUST - Fiebre sin Foco]]
+> - [[MUST - Sepsis]]
 > - [[MUST - Dolor Abdominal]]
 > - [[MUST - Cefalea]]
 > - [[MUST - Mareo y Vértigo]]

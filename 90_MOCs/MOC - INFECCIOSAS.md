@@ -5,6 +5,7 @@ description: "Índice de infecciosas: sepsis, antibioterapia empírica, PROA e i
 # 🦠 Enfermedades Infecciosas
 
 > [!danger] ⚡ Urgencias / Algoritmos Vitales
+> - [[MUST - Sepsis]] — tarjeta rápida de guardia (R1 en puerta)
 > - [[Sepsis - Abordaje Inicial (SSC 2026)|Sepsis - Abordaje Inicial]]
 > - [[Sepsis - Hemodinámica y Reanimación]]
 > - [[Sepsis - Antiinfecciosos y Soporte Vital]]
