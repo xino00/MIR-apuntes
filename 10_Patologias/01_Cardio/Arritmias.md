@@ -58,7 +58,7 @@ El primer paso es diferenciar entre complejo QRS estrecho vs QRS ancho (tratar s
     - **Marcapasos (MCP) Transcutáneo:** Iniciar a la máxima salida y asegurar captura.
     - **Perfusión Inotrópica / Cronotrópica:**
         - Isoproterenol: **1 mg en 250 cc SSF**.
-        - [[Dopamina]]: **2-10 μg/kg/h** (De elección si sospecha isquemia miocárdica).
+        - [[Dopamina]]: **2-10 μg/kg/min** (De elección si sospecha isquemia miocárdica).
 3. **Paso final:** Implante de MCP Transvenoso Transitorio por Cardiología/Intensivos.
 
 ### 🔗 Enlaces / Bibliografía
