@@ -72,8 +72,8 @@ PIEL
 4- QUÉ PRUEBAS PEDIR
 
 - La mayoría de las cefaleas primarias NO requieren ninguna prueba: el diagnóstico es clínico.
-- TC craneal urgente sin contraste si hay cualquier bandera roja: trueno, focalidad, crisis, papiledema, >50 de novo, inmunodepresión o traumatismo. Hazla en general antes de la punción lumbar. Sensibilidad para HSA 93-100 % en las primeras 6 h, cae al 85-90 % a las 72 h y al 50 % a la semana.
-- Punción lumbar: obligatoria si sospechas meningitis (citobioquímica, glucorraquia, proteínas, lactato, Gram, cultivos y PCR múltiple). Y si el TC es normal pero persiste la sospecha de hemorragia subaracnoidea, la PL buscando xantocromía (realizada ≥6-12 h tras el inicio) sigue siendo necesaria: un TC normal NO descarta la HSA. NO retrases el antibiótico ni la dexametasona por esperar a la PL o al TC.
+- TC craneal urgente sin contraste si hay cualquier bandera roja: trueno, focalidad, crisis, papiledema, >50 de novo, inmunodepresión o traumatismo. Hazla en general antes de la punción lumbar. Sensibilidad para HSA cercana al 98-100 % en las primeras 6 h (con TC moderno y lectura experta); disminuye de forma progresiva con las horas y cae a ~50 % hacia los 5-7 días, por lo que fuera de la ventana precoz un TC normal NO descarta la HSA.
+- Punción lumbar: obligatoria si sospechas meningitis (citobioquímica, glucorraquia, proteínas, lactato, Gram, cultivos y PCR múltiple). Y si el TC es normal pero persiste la sospecha de hemorragia subaracnoidea, la PL buscando xantocromía (realizada ≥6 h, idealmente ≥12 h, tras el inicio —cuando la xantocromía ya se ha formado—) sigue siendo necesaria: un TC normal NO descarta la HSA. NO retrases el antibiótico ni la dexametasona por esperar a la PL o al TC.
 - Analítica: hemograma, bioquímica con iones y función renal, coagulación. Hemocultivos (×2) antes del antibiótico si fiebre. Glucemia capilar siempre.
 - VSG y PCR si sospechas arteritis de células gigantes; pídelas, pero NO esperes al resultado para empezar el corticoide. En la ACG la VSG suele ser de triple cifra (>80-100 mm/h) con trombocitosis y anemia de trastorno crónico.
 - Dímero-D si sospechas trombosis venosa cerebral (VPN alto; si normal con baja sospecha, reduce la probabilidad). Confirmación con angio-TC venoso o venografía-RM.
@@ -113,12 +113,12 @@ A. CEFALEA TENSIONAL O INESPECÍFICA LEVE
 B. CRISIS DE MIGRAÑA
 - AINE o paracetamol a las dosis anteriores (naproxeno 500-1000 mg VO, ibuprofeno 400-600 mg VO, dexketoprofeno 25 mg VO / 50 mg IV, o paracetamol 1 g) + metoclopramida 10 mg IV en bolo lento de ≥3 min (controla el dolor y la náusea); rehidrata con suero si hay vómitos.
 - Si no responde al AINE: sumatriptán 6 mg SC (o 50-100 mg VO; repetir a las 2 h, máximo 12 mg/24 h SC o 200 mg/24 h VO). Alternativas VO: rizatriptán 10 mg liofilizado, eletriptán 20-40 mg, almotriptán 12,5 mg.
-- ANTES del triptán comprueba que no haya cardiopatía isquémica, enfermedad cerebrovascular o vascular periférica, HTA no controlada ni embarazo, y que no haya tomado un ergótico u otro triptán en las últimas 24 h: en esos casos está CONTRAINDICADO y tratas solo con AINE + antiemético. En paciente con riesgo cardiovascular puede valorarse lasmiditán 50-200 mg VO (sin efecto vasoconstrictor; máximo 1 dosis/24 h, produce mareo) como alternativa donde esté disponible.
-- ESTATUS MIGRAÑOSO (crisis >72 h pese a tratamiento): suero salino + metoclopramida 10 mg IV, y añade dexametasona 10 mg IV (rango 4-24 mg; reduce la recurrencia precoz) + ketorolaco 30 mg IV + sumatriptán 6 mg SC si no se ha usado en 24 h. Alternativa: valproato sódico 400-1000 mg IV. Opción no farmacológica útil (también en embarazo): bloqueo del nervio occipital mayor con lidocaína/bupivacaína.
+- ANTES del triptán comprueba que no haya cardiopatía isquémica, enfermedad cerebrovascular o vascular periférica, HTA no controlada ni embarazo, y que no haya tomado un ergótico u otro triptán en las últimas 24 h: en esos casos está CONTRAINDICADO y tratas solo con AINE + antiemético. En paciente con riesgo o contraindicación cardiovascular puede valorarse lasmiditán 50-200 mg VO (agonista 5-HT1F, sin efecto vasoconstrictor; máximo 1 dosis/24 h, produce mareo/somnolencia: no conducir) o rimegepant 75 mg VO (único gepante —antagonista del CGRP— disponible en España para la crisis aguda, sin contraindicación cardiovascular), donde estén disponibles.
+- ESTATUS MIGRAÑOSO (crisis >72 h pese a tratamiento): suero salino + metoclopramida 10 mg IV (alternativa antidopaminérgica con efecto sedante: clorpromazina 12,5 mg IV, con ECG y bolo de fluidos previos por hipotensión/QT), y añade dexametasona 8 mg IV (cifra de referencia de la SEN; dosis mayores no han mostrado más eficacia; reduce la recurrencia precoz) + ketorolaco 30 mg IV + sumatriptán 6 mg SC si no se ha usado en 24 h. Alternativa: valproato sódico 400-1000 mg IV. Opción no farmacológica útil (también en embarazo): bloqueo del nervio occipital mayor con lidocaína/bupivacaína.
 
 C. CEFALEA EN RACIMOS / TRIGÉMINO-AUTONÓMICAS
 - Oxígeno al 100 % a 12-15 l/min con mascarilla con reservorio durante 15-20 min (efectividad >70 %) + sumatriptán 6 mg SC (vía de elección por rapidez; máximo 2 dosis/día, con las mismas contraindicaciones cardiovasculares del apartado B). Alternativa si se quiere evitar la inyección: zolmitriptán nasal 5 mg.
-- Tratamiento de transición/puente que puede pautarse para abortar el racimo: prednisona 60 mg/día VO durante 3-5 días con pauta descendente (reducir 10 mg cada 3 días; no prolongar >3 semanas), y/o bloqueo del nervio occipital mayor (GON) con anestésico local + corticoide.
+- Tratamiento de transición/puente que puede pautarse para abortar el racimo: prednisona 60-100 mg/día VO durante 5 días, con descenso posterior de 10-20 mg cada 3 días (puede iniciarse a dosis más baja según el paciente; no prolongar más de 3 semanas ni repetir más de 2 veces al año) (SEN 2026), y/o bloqueo del nervio occipital mayor (GON) con anestésico local + corticoide depot (indicado si ≥2 ataques/día; repetible a las 48-72 h, máximo 3 intentos).
 - El preventivo de fondo (verapamilo, con ECG previo por riesgo de bloqueo AV) lo pauta Neurología; no se inicia en la guardia.
 
 D. ARTERITIS DE CÉLULAS GIGANTES (ARTERITIS DE LA TEMPORAL)
@@ -140,7 +140,7 @@ Confírmala con TC (y PL con xantocromía si TC normal y sospecha alta). En cuan
 
 F. MENINGITIS (BACTERIANA AGUDA) Y ENCEFALITIS
 URGENCIA MÉDICA: inicia el tratamiento empírico en <1 hora. NO lo demores por esperar al TC o a la PL (si la PL se va a retrasar por contraindicación, extrae hemocultivos y trata). Orden práctico: dexametasona inmediatamente antes o junto con la primera dosis de antibiótico.
-- DEXAMETASONA 0,15 mg/kg IV cada 6 h durante 4 días, administrada previa o concomitante al antibiótico (reduce secuelas, sobre todo sordera, en neumococo). Mantenla solo si se confirma neumococo.
+- DEXAMETASONA 0,15 mg/kg IV cada 6 h durante 4 días, administrada previa o concomitante al antibiótico (reduce secuelas, sobre todo sordera, en neumococo). Mantenla solo si se confirma neumococo; suspéndela si se confirma Listeria u otro patógeno distinto (en la meningitis por Listeria no aporta beneficio y puede ser perjudicial).
 - ANTIBIOTERAPIA EMPÍRICA IV según el perfil:
   → Adulto <50 años, sin factores de riesgo: ceftriaxona 2 g IV cada 12 h + vancomicina 15-20 mg/kg IV cada 8-12 h.
   → >50 años, embarazo, alcoholismo o inmunodepresión (cobertura de Listeria): añade ampicilina 2 g IV cada 4 h al esquema anterior (ceftriaxona + vancomicina + ampicilina).
@@ -162,7 +162,7 @@ Sospéchala en mujer joven, anticonceptivos, embarazo/puerperio, trombofilia, o 
 H. HIPERTENSIÓN INTRACRANEAL (Y HTIC IDIOPÁTICA / PSEUDOTUMOR CEREBRI)
 - MEDIDAS GENERALES de HTIC (aplican a cualquier causa): cabecero a 30° con cabeza en línea media; evitar hipotensión (mantener PPC ≥60 mmHg); normocapnia; tratar fiebre y dolor; usar suero salino (NO glucosado/hipoosmolar).
 - HTIC IDIOPÁTICA (papiledema + cefalea + diplopía VI en mujer joven obesa, neuroimagen sin masa, PL con presión >250 mmH₂O): acetazolamida 250-500 mg VO cada 12 h (máximo 1000 mg/día; inhibe la producción de LCR), pérdida de peso, y PL evacuadora terapéutica si hay amenaza visual. Derivación lumboperitoneal o fenestración de la vaina del nervio óptico solo en casos graves/refractarios (no en la guardia).
-- HTIC POR EFECTO MASA / EDEMA VASOGÉNICO PERITUMORAL: dexametasona, carga 4-16 mg IV → mantenimiento 4-16 mg/día (sin efecto mineralocorticoide, vida media larga). En herniación inminente, bolo 40-100 mg IV; puede potenciarse con furosemida 20 mg IV.
+- HTIC POR EFECTO MASA / EDEMA VASOGÉNICO PERITUMORAL: dexametasona, carga 10 mg IV → mantenimiento 4-16 mg/día (sin efecto mineralocorticoide, vida media larga). Es útil para el edema vasogénico peritumoral pero NO para la herniación aguda: tarda horas en actuar, así que ante herniación inminente lo prioritario es la osmoterapia (ver abajo), no el corticoide.
 - HERNIACIÓN INMINENTE / HTIC REFRACTARIA (signos: tríada de Cushing —bradicardia + HTA + alteración respiratoria—, anisocoria, deterioro de consciencia): agentes hiperosmolares — manitol 20 % 0,5-2 g/kg IV en 15-30 min (osmolaridad objetivo <320 mOsm/L) o suero salino hipertónico 3 % 100-250 mL IV en 10-20 min (preferible si hipotensión). Hiperventilación a pCO₂ 30-35 mmHg solo como puente máximo 30 min. AVISA a Neurocirugía y UCI (evacuación/craniectomía/DVE según causa).
 
 GLAUCOMA AGUDO DE ÁNGULO CERRADO
@@ -175,9 +175,16 @@ Ojo rojo doloroso, midriasis media arreactiva, córnea turbia, halos y visión b
 - Tratamiento DEFINITIVO: iridotomía periférica con láser por Oftalmología (y profiláctica en el ojo contralateral).
 
 
+OTRAS CAUSAS DE CEFALEA EN TRUENO (si la HSA se ha descartado)
+Si el TC y la PL no muestran HSA pero la cefalea fue en trueno, piensa en estas tres entidades y avisa:
+- Disección arterial cervical (carótida o vertebral): cefalea o cervicalgia de inicio brusco (a veces en trueno), unilateral —temporal-frontal en la carotídea, occipital y cervical posterior en la vertebral—, a menudo con síndrome de Horner doloroso, amaurosis fugax, acúfeno pulsátil o paresia de pares craneales. Más frecuente en jóvenes y migrañosos; a veces tras traumatismo o manipulación cervical. Diagnóstico: angio-TC o angio-RM (RM con secuencias de supresión grasa). Tratamiento: antiagregación o anticoagulación durante 3-6 meses (individualizado según el riesgo isquémico/hemorrágico), control de TA y aviso a Neurología (SEN 2026).
+- Síndrome de vasoconstricción cerebral reversible (SVCR): cefalea en trueno RECURRENTE a lo largo de días a 2 semanas, desencadenada por Valsalva, ejercicio, actividad sexual o la ducha; típica en el puerperio o tras simpaticomiméticos/serotoninérgicos. EVITA los vasoconstrictores (triptanes, ergóticos, descongestionantes nasales, cocaína/cannabis); nimodipino y control de TA; suele ser autolimitado en 1-3 meses. Diagnóstico diferencial con la HSA y la vasculitis del SNC (SEN 2026).
+- Apoplejía hipofisaria: cefalea súbita retroorbitaria o frontal intensa + oftalmoplejía o defecto campimétrico (compresión quiasmática), a menudo con náuseas y bajo nivel de consciencia. Riesgo de insuficiencia suprarrenal aguda: hidrocortisona 100 mg IV sin demora, RM selar urgente y aviso a Neurocirugía y Endocrinología.
+
+
 6- PERLAS PARA NO OLVIDAR
 
-🔑 Cefalea en trueno = HSA hasta que se demuestre lo contrario. TC urgente y, si es normal con sospecha persistente, PL con xantocromía (≥6 h). Un TC normal no la descarta. Una vez confirmada: reposo, TAS <160, nimodipino 60 mg/4 h × 21 días, analgesia SIN AINEs y Neurocirugía urgente para ocluir el aneurisma en 24-72 h.
+🔑 Cefalea en trueno = HSA hasta que se demuestre lo contrario. TC urgente y, si es normal con sospecha persistente, PL con xantocromía (≥12 h). Un TC normal no la descarta. Una vez confirmada: reposo, TAS <160, nimodipino 60 mg/4 h × 21 días, analgesia SIN AINEs y Neurocirugía urgente para ocluir el aneurisma en 24-72 h.
 
 🔑 Meningitis: dexametasona 0,15 mg/kg/6 h justo antes o con el antibiótico, y ceftriaxona 2 g/12 h + vancomicina ya. Añade ampicilina 2 g/4 h si >50 años, embarazo, alcoholismo o inmunodepresión (Listeria). El antibiótico NO espera al TC ni a la PL: el retraso es lo que mata.
 

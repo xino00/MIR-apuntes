@@ -9,7 +9,7 @@ Toma constantes y haz un ECG en los primeros 10 minutos. Mirada rápida de 10 se
 - PAS >180 mmHg o PAD >110 mmHg (hipertensión arterial extrema), sobre todo si sospechas síndrome aórtico.
 - FR >30 o <10 rpm, o SpO2 <90%.
 - Bajo nivel de consciencia o focalidad neurológica (la disección que ocluye carótidas da ictus; el TEP masivo, síncope).
-- ECG con elevación del ST (SCACEST): avisa a la Unidad Coronaria / Hemodinámica de inmediato (Código Infarto). Un bloqueo de rama izquierda u otra alteración que no estuviera en electros previos también es bandera roja: compara SIEMPRE con los ECG antiguos para confirmar que el cambio es nuevo. Ante un BRI con clínica isquémica, los criterios de Sgarbossa aumentan la especificidad de oclusión coronaria aguda.
+- ECG con elevación del ST (SCACEST): avisa a la Unidad Coronaria / Hemodinámica de inmediato (Código Infarto). Un bloqueo de rama izquierda u otra alteración que no estuviera en electros previos también es bandera roja: compara SIEMPRE con los ECG antiguos para confirmar que el cambio es nuevo. Ante un BRI con clínica isquémica, los criterios de Sgarbossa (mejor los modificados de Smith: ST discordante ≥1 mm con ratio ST/S ≥0,25) aumentan la especificidad de oclusión coronaria aguda.
 - Dolor desgarrador y migratorio a la espalda + asimetría de pulsos o diferencia de TA entre brazos → síndrome aórtico: avisa a cirugía cardiovascular / UCI.
 - Tríada de Beck (ingurgitación yugular + hipotensión + tonos apagados) → taponamiento cardíaco: es procedimiento, avisa ya.
 - Hipofonesis unilateral + timpanismo + disnea extrema + desviación traqueal → neumotórax a tensión: descomprime sin esperar a la radiografía.
@@ -48,10 +48,10 @@ Regla de oro: ante sospecha de causa potencialmente mortal, sospecha y avisa; no
 - Hemoptisis → TEP.
 
 5. ANTECEDENTES Y FACTORES DE RIESGO
-- FRCV (HTA, DM, dislipemia, tabaco, antecedentes familiares). Ojo al perfil atípico (mujer, anciano, diabético: equivalentes anginosos sin dolor típico; hasta el 80% de presentaciones de SCA pueden ser atípicas).
+- FRCV (HTA, DM, dislipemia, tabaco, antecedentes familiares). Ojo al perfil atípico (mujer, anciano, diabético: equivalentes anginosos sin dolor típico; las presentaciones atípicas son ~30-40% del global y más frecuentes en estos subgrupos).
 - Riesgo de TEP: cáncer activo, inmovilización o cirugía reciente (<4 semanas), trombosis previa, anticonceptivos/estrógenos, embarazo/puerperio.
 - Riesgo aórtico: HTA mal controlada (principal FR), Marfan u otra conectivopatía, válvula aórtica bicúspide, aneurisma conocido, cocaína/anfetaminas, manipulación aórtica reciente.
-- Toma de anticoagulantes/antiagregantes (condiciona fibrinólisis y reversión), e inhibidores de PDE5 (sildenafilo/tadalafilo) en las últimas 24-48 h (contraindican nitratos).
+- Toma de anticoagulantes/antiagregantes (condiciona fibrinólisis y reversión), e inhibidores de PDE5 (sildenafilo/vardenafilo 24 h, tadalafilo 48 h) recientes (contraindican nitratos).
 - Revisa la receta electrónica.
 
 
@@ -72,7 +72,7 @@ AUSCULTACIÓN PULMONAR
 
 INSPECCIÓN Y PALPACIÓN
 - Ingurgitación yugular + hipotensión + tonos apagados (tríada de Beck) → taponamiento cardíaco.
-- Pulso paradójico (caída de PAS >10 mmHg en inspiración) → taponamiento (prácticamente patognomónico en contexto).
+- Pulso paradójico (caída de PAS >10 mmHg en inspiración) → taponamiento (muy sugestivo en el contexto adecuado; también aparece en asma grave, EPOC y TEP masivo).
 - Palpa la pared torácica: si reproduce exactamente el dolor, orienta a osteomuscular (Tietze).
 - Piernas: signos de TVP (edema unilateral, dolor) apoyan el TEP.
 - Piel: vesículas de herpes zóster siguiendo un dermatoma; enfisema subcutáneo o crepitación con el latido (signo de Hamman) en la rotura esofágica.
@@ -95,7 +95,7 @@ Escalas de probabilidad clínica
 - HEART (dolor torácico en urgencias): History, ECG, Age, Risk factors, Troponina (0-2 cada uno). 0-3 = bajo riesgo (MACE ~1,7%, valorar alta precoz); 4-6 = riesgo intermedio (observación + troponina seriada); ≥7 = alto riesgo (ingreso, estrategia invasiva).
 - GRACE / TIMI (SCA ya diagnosticado): estratifican el riesgo y marcan el momento del cateterismo en el SCASEST. GRACE >140 (o TIMI alto) = alto riesgo → coronariografía <24 h; muy alto riesgo (inestabilidad, IC/shock, arritmia maligna, dolor refractario) → <2 h. La estrategia la decide cardiología, pero el GRACE orienta la urgencia.
 - Wells / Geneva (TEP): si probabilidad baja o intermedia, dímero-D con corte ajustado a edad (edad × 10 ng/ml en >50 años) descarta TEP sin angio-TC. Si alta, angio-TC directa. Regla PERC: solo si probabilidad muy baja (<15%), los 8 criterios negativos descartan TEP sin más pruebas.
-- Sgarbossa (BRI o marcapasos con clínica isquémica): ST concordante ≥1 mm, descenso ST ≥1 mm en V1-V3, o ST discordante desproporcionado ≥5 mm (Smith-modificado) → sugiere oclusión coronaria.
+- Sgarbossa (BRI o marcapasos con clínica isquémica): ST concordante ≥1 mm, descenso ST ≥1 mm en V1-V3, o ST discordante desproporcionado (≥5 mm en los criterios ORIGINALES; en los de Smith-MODIFICADOS —más sensibles— ST elevado ≥1 mm con ratio ST/onda S ≥0,25) → sugiere oclusión coronaria.
 - ADD-RS (síndrome aórtico): suma 1 punto por cada categoría con ≥1 criterio (condición predisponente / dolor de características aórticas / hallazgos exploratorios; máx. 3). ADD-RS ≤1 + dímero-D negativo (<500 ng/ml) → puede diferirse la angio-TC. ADD-RS ≥2 → angio-TC urgente independientemente del dímero-D.
 
 ⚠ TRAMPAS COMUNES
@@ -147,7 +147,7 @@ Fuente: nota del vault "Síndrome Aórtico Agudo y Enfermedad Aórtica" (ESC 202
 - El BETABLOQUEANTE IV va SIEMPRE PRIMERO (control de frecuencia antes que de tensión, para no propagar el flap con la taquicardia refleja). Objetivos: FC <60 lpm, PAS 100-120 mmHg (TAM <80 mmHg), vigilando perfusión distal y diuresis.
   * Labetalol (1.ª elección): bolo 50 mg IV en 1 min, repetible a los 5 min, hasta máx. 200 mg. Perfusión: 250 mg en 250 ml SSF, inicio 1 mg/min (60 ml/h), máx. 600 ml/h.
   * Esmolol (2.ª elección; contraindicado en IC y bradicardia): bolo 80 mg IV en 1 min; perfusión 2,5 g/250 ml, inicio 50 µg/kg/min, máx. 300 µg/kg/min. Útil por su vida media ultracorta.
-- Si tras el betabloqueo la TA sigue alta, AÑADE un vasodilatador (nunca en solitario): nitroprusiato 0,5-10 µg/kg/min, o urapidilo. Si el betabloqueante está contraindicado, diltiazem (bolo 0,25 mg/kg en 2 min; perfusión 10 ml/h, máx. 15 mg/h).
+- Si tras el betabloqueo la TA sigue alta, AÑADE un vasodilatador (nunca en solitario): nitroprusiato 0,5-10 µg/kg/min, o urapidilo. Si el betabloqueante está contraindicado, diltiazem (bolo 0,25 mg/kg en 2 min; perfusión 100 mg/100 ml: 10 ml/h = 10 mg/h, máx. 15 mg/h).
 - Si HIPOTENSIÓN/shock (sospecha de rotura, taponamiento o IAo aguda): noradrenalina en perfusión (16 mg en 250 ml SG5% a 10 ml/h; 0,1-1 µg/kg/min) + ETT urgente. Cruza y reserva hemoderivados.
 - ANALGESIA: cloruro mórfico 3-5 mg IV cada 30 min hasta control del dolor (el dolor dispara la TA y la FC). Lorazepam 1 mg VO si ansiedad.
 - DESTINO: todos a UCI. Tipo A (afecta aorta ascendente) → cirugía cardiovascular urgente/emergente. Tipo B no complicada → tratamiento médico. Avisa a cirugía cardiovascular / UCI ya.
@@ -159,7 +159,7 @@ Fuente: nota del vault "TEP - Tromboembolismo Pulmonar" (AHA/ACC 2026 + Manual 1
   * Enoxaparina 1 mg/kg/12 h SC (o 1,5 mg/kg/24 h SC); reduce a 1 mg/kg/24 h si FG <30 ml/min. Es la de elección en el TEP estable.
   * HNF IV (bolo 80 UI/kg + perfusión 18 UI/kg/h, ajustada a aPTT) si hay inestabilidad extrema, fallo renal grave, o se prevé fibrinólisis/procedimiento inminente (es reversible y de vida media corta).
 - TEP DE ALTO RIESGO (hipotensión persistente PAS <90 o shock — categoría E): activa el PERT (Pulmonary Embolism Response Team) si existe y valora terapia de reperfusión con UCI:
-  * FIBRINÓLISIS SISTÉMICA: alteplasa 100 mg IV en 2 h (o régimen acelerado 0,6 mg/kg en 15 min, máx. 50 mg, en parada inminente). Es el tratamiento de elección del TEP de alto riesgo si no hay contraindicación hemorrágica mayor.
+  * FIBRINÓLISIS SISTÉMICA: alteplasa 100 mg IV en 2 h (o régimen acelerado 0,6 mg/kg en 15 min, máx. 50 mg, en parada inminente). Es una opción razonable de reperfusión en el TEP de alto riesgo (AHA/ACC 2026 la clasifica COR 2a, junto a la trombólisis dirigida por catéter, la trombectomía mecánica o la embolectomía), si no hay contraindicación hemorrágica mayor.
   * Si la fibrinólisis está contraindicada o fracasa: trombólisis dirigida por catéter, trombectomía mecánica percutánea o embolectomía quirúrgica.
 - Avisa al adjunto/UCI. En el TEP inestable la prueba inicial es el ETT (sobrecarga de VD; además excluye taponamiento).
 

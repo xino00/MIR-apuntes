@@ -1,6 +1,48 @@
 # Prompts para auditar las guías MUST con OpenEvidence
 
-Copia uno de los bloques de abajo y pégalo **entero** en OpenEvidence (mejor de uno en uno). Cada bloque ya incluye el texto ACTUAL y ampliado de la guía, así que no tienes que pegar nada más. Si quieres que conteste solo lo esencial, añade al final: «Resume en los 5 cambios más importantes».
+**Forma recomendada:** usa el _prompt base_ de aquí abajo y, debajo de su última línea, pega el texto ACTUAL de la guía (ábrela en `MUST - X.md` y cópiala). Así nunca auditas una versión vieja. Si quieres respuesta corta, añade al final: «Resume en los 5 cambios más importantes».
+
+⚠️ Los bloques por-guía que vienen después (Prompt 1, 2, 3…) incrustan una COPIA del texto que puede haber quedado desactualizada tras las últimas correcciones (p. ej. Agitación y Cefalea ya corregidas). Se refrescan al cerrar el ciclo de auditoría; mientras tanto, fíate del prompt base + el texto vivo de la nota.
+
+---
+
+## Prompt base (reutilizable)
+
+Pega este bloque y, justo debajo, el texto de la MUST que toque:
+
+```
+Actúa como médico adjunto de Urgencias revisando una ficha de actuación rápida ("MUST")
+destinada a un residente de primer año (R1) en un servicio de Urgencias en España. La ficha
+es deliberadamente texto plano y orientada a la acción (qué hacer, qué dosis, cuándo avisar):
+NO cambies su formato ni la reescribas entera; solo audita su contenido clínico.
+
+Revisa su exactitud frente a la evidencia y las guías vigentes, con atención especial a:
+- Dosis: fármaco, dosis, vía, frecuencia, dosis máxima y ajustes.
+- Umbrales y puntos de corte (constantes, escalas, criterios de gravedad).
+- Elección de fármacos, alternativas y contraindicaciones.
+- Banderas rojas / criterios de aviso al adjunto.
+- Ventanas de tiempo y criterios de ingreso, alta o derivación.
+
+Devuelve la revisión PUNTO POR PUNTO. Para cada hallazgo indica:
+  1. Qué dice la ficha.
+  2. Clasifícalo: correcto / necesita matiz / error / laguna.
+  3. La corrección concreta, con cifras.
+  4. La fuente, con referencia (guía y año).
+
+Reglas:
+- No suavices los errores: si una dosis, vía, intervalo o umbral es incorrecto o peligroso,
+  dilo claramente y marca su prioridad.
+- Cuando exista una guía española o europea de referencia para el tema (p. ej. SEN en
+  cefaleas/ictus, SEMICYUC, ESC, SEPAR, GeSIDA, Surviving Sepsis Campaign), cítala; y si tu
+  recomendación difiere de ella, dilo de forma EXPLÍCITA y explica por qué. Distingue siempre
+  el estándar consolidado de la práctica local o de la evidencia débil.
+- Si no estás seguro de una cifra, dilo; no rellenes huecos con valores sin respaldo.
+- Al final, enumera las lagunas importantes (entidades, pasos o dosis que faltan) y da un
+  veredicto global de seguridad de la ficha.
+
+Texto de la MUST a revisar:
+[PEGA AQUÍ EL TEXTO]
+```
 
 ---
 
