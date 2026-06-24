@@ -21,7 +21,7 @@ aliases:
 
 ### Recomendaciones Clave:
 - **Cobertura Empírica Dirigida:** Limitar la cobertura frente a multirresistentes (MDR) (ej. *MRSA*, *Cándida*, Anaerobios) **sólo a pacientes con factores de riesgo** evidentes (hospitalización prolongada, inmunosupresión, etc.).
-- **Infusión de Betalactámicos (Rec. 33, Revisada ⬆):** **Recomendación FUERTE** (evidencia moderada, ensayo BLING III) para la **infusión prolongada / continua** de los betalactámicos tras administrar la dosis de carga inicial. Reduce mortalidad a corto plazo (RR 0.91; 25 muertes menos por cada 1000 pacientes). Priorizar en betalactámicos de vida media corta (piperacilina-tazobactam, carbapenems). ADJUNTAR AQUI FOTO
+- **Infusión de Betalactámicos (Rec. 33, Revisada ⬆):** **Recomendación FUERTE** (evidencia moderada, ensayo BLING III) para la **infusión prolongada / continua** de los betalactámicos tras administrar la dosis de carga inicial. Reduce mortalidad a corto plazo (RR 0.91; 25 muertes menos por cada 1000 pacientes). Priorizar en betalactámicos de vida media corta (piperacilina-tazobactam, carbapenems). 
 - **Desescalamiento (Rec. 36):** **Recomendación fuerte:** Desescalar los antibióticos en cuanto se disponga de la confirmación microbiológica y antibiograma. También desescalar si no se aíslan patógenos y el paciente mejora (Rec. 37).
 - **Biomarcadores:** La Procalcitonina (PCT) se reserva, junto a la clínica, para guiar la **suspensión** de la terapia, no para el inicio (Rec. 40).
 
