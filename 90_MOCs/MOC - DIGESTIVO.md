@@ -25,6 +25,7 @@ description: "Índice de digestivo: dolor abdominal, hemorragia digestiva, hepat
 ### 🫀 Hepatología
 - [[MASLD - Esteatosis Hepática Metabólica]] (esteatosis hepática metabólica, antes NAFLD/EHGNA — cribado de fibrosis con FIB-4)
 - [[Hipertransaminasemia]]
+- [[Hepatitis Virales (A-E)]] (ver Infecciosas)
 
 *Por crear:*
 - Pancreatitis Aguda

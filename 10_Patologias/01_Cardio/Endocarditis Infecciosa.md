@@ -332,12 +332,19 @@ Solo recomendada en pacientes de **alto riesgo** (ESC 2023, Recommendation Table
 - **Mayor riesgo de recurrencia en el primer año** (2-9%): seguimiento clínico estrecho
 - **Factores de riesgo de recaída:** ATB inadecuada (dosis, duración, agente), microorganismos resistentes, prótesis valvular, infección persistente de foco (absceso), UDVP, mala higiene oral, hemodiálisis crónica
 
-## Infección endovascular (prótesis vasculares)
+## Infección endovascular (prótesis vasculares) — Manual cap. 66 §2
 
-Afecta a prótesis endovasculares aórticas o arteriales periféricas y al *bypass* axilofemoral. Mortalidad del 10-25%/mes y del 50%/año.
-- **Etiología:** *S. aureus* (20-53%), enterobacterias (14-41%), polimicrobianas hasta en un 20% si acceso inguinal.
-- **Diagnóstico:** HC + **18F-FDG PET-TC** (altamente sensible y específica para diagnóstico y monitorización).
-- **Tratamiento:** Antibioterapia empírica (daptomicina 10 mg/kg/24 h i.v. o vancomicina 15-20 mg/kg/8 h i.v. con [[Meropenem]] 1 g/8 h i.v. o [[Piperacilina-Tazobactam]] 4,5 g/8 h i.v.) + recambio del material protésico si es posible.
+Afecta a prótesis endovasculares aórticas o arteriales periféricas y al *bypass* axilofemoral. **Mortalidad del 10-25%/mes y del 50%/año**; riesgo de amputación del 4-14%. La adquisición es más frecuente **en el momento de la intervención** (también hematógena, por contigüidad o por fístula al tubo digestivo).
+
+- **Etiología:** *S. aureus* (20-53%, más en infecciones precoces), enterobacterias (14-41%, más en acceso inguinal; **polimicrobianas hasta 20%**), ECN (15%), *P. aeruginosa*, *Streptococcus*/*Enterococcus* (10-15%), anaerobios (5%), *Candida* (1-2%). Con **HC negativos → plantear *Coxiella burnetii* (fiebre Q crónica)**.
+- **Clínica:** fiebre/síndrome constitucional; isquemia aguda por émbolos sépticos; fístulas **aortoentéricas** (HDA) o **aortobronquiales** (hemoptisis).
+- **Diagnóstico:** HC + cultivo de exudado/líquido periprotésico + **18F-FDG PET-TC** (altamente sensible y específica, útil para monitorizar respuesta). TC: gas persistente > 7-10 días o colección periprotésica a las 6-8 semanas.
+- **Tratamiento antibiótico empírico:** daptomicina 10 mg/kg/24 h **o** [[Vancomicina]] 15-20 mg/kg/8 h **+** [[Meropenem]] 1 g/8 h **o** [[Piperacilina-Tazobactam]] 4,5 g/8 h IV; ajustar al aislamiento.
+- **Recambio del material protésico** (precoz, con cirujano vascular) si: sepsis/EI concomitante/inestabilidad, tromboflebitis supurativa o propagación del trombo, **bacteriemia de brecha (72 h)**, o infección por ***S. aureus*, *P. aeruginosa*, BGN-MR, *C. burnetii* o *Candida***.
+- **Duración:** con retirada completa, **7-14 días IV** (mínimo 14 si *S. aureus*) → oral según antibiograma (preferir **levofloxacino + rifampicina**) hasta completar **6 semanas**. Sin retirada → **tratamiento supresivo crónico** (rifampicina + levofloxacino, o cotrimoxazol/linezolid), valorando suspender a los 6-8 meses si asintomático.
+
+> [!info] Infección vascular por *Coxiella burnetii* (fiebre Q crónica)
+> Sospechar ante infección endovascular con **HC negativos** + ambiente epidemiológico (medio rural, ganado). **Serología (fases I y II)** como primera prueba; PCR (E 100%); PET-TC. **Tratamiento: doxiciclina 100 mg/12 h + hidroxicloroquina 200 mg/8 h, mínimo 18-24 meses** (experto en infecciosas) + retirar el material protésico (baja esterilización con ATB).
 
 ---
 ### Enlaces

@@ -36,6 +36,9 @@ description: "Índice de traumatología: lumbalgia, esguinces, fracturas, herida
 - [[Exploración de Rodilla]]
 - [[Exploración de Tobillo y Antepié]]
 
+### 🦠 Infección osteoarticular
+- [[Osteomielitis y Artritis Séptica]] (ver Infecciosas)
+
 ### 🔧 Procedimientos y Plantillas
 - [[Heridas y Suturas]]
 - [[Tendinitis - Plantilla General]]

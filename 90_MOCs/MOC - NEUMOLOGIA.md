@@ -37,6 +37,8 @@ description: "Índice de neumología: asma, EPOC, neumonía, insuficiencia respi
 - [[Asma Grave No Controlada]]
 - [[Broncoespasmo en IRVA]]
 - [[Bronquitis Aguda]]
+- [[COVID-19]]
 - [[EPOC reagudizado]]
 - [[Neumonía Adquirida en la Comunidad (NAC)]]
 - [[Rinitis Alérgica y Rinosinusitis]]
+- [[Tuberculosis]]
