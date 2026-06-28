@@ -16,7 +16,7 @@ Mirada rápida de 10 segundos — avisa, sin quedarte solo, si detectas cualquie
 - Intento autolítico de alta letalidad o ideación suicida estructurada subyacente a la agitación.
 - Fracaso de la contención verbal y farmacológica.
 
-Regla de oro: el primer episodio de agitación en un adulto mayor o sin antecedentes psiquiátricos es orgánico mientras no se demuestre lo contrario. Glucemia capilar a todos, siempre, y tiamina ANTES que glucosa en el alcohólico.
+Regla de oro: el primer episodio de agitación en un adulto mayor o sin antecedentes psiquiátricos es orgánico mientras no se demuestre lo contrario. Glucemia capilar a todos, siempre, y en el alcohólico tiamina antes o junto con la glucosa (no des glucosa sola y repetida sin tiamina).
 
 
 2- QUÉ PREGUNTAR (anamnesis dirigida, <3 minutos)
@@ -31,7 +31,7 @@ Pregunta al paciente y, sobre todo, a los acompañantes (a menudo el paciente no
 - Un PRIMER episodio en un adulto mayor obliga a descartar causa orgánica. Ojo a la agitación MIXTA: paciente psiquiátrico conocido (o con deterioro cognitivo / retraso mental) descompensado por un evento somático.
 
 3. TÓXICOS
-- Consumo o abstinencia de alcohol (¿cuándo fue la última ingesta? La abstinencia arranca a las 6-12 h, las convulsiones a las 24-48 h y el delirium tremens a las 48-72 h).
+- Consumo o abstinencia de alcohol (¿cuándo fue la última ingesta? La abstinencia arranca a las 6-24 h, las convulsiones a las 24-48 h y el delirium tremens a las 48-72 h, con el inicio más frecuente a las 72-96 h según ASAM).
 - Consumo de estimulantes (cocaína, anfetaminas, alucinógenos) → agitación + midriasis + taquicardia + HTA + hipertermia.
 - Abstinencia de benzodiacepinas u otros depresores del SNC.
 
@@ -90,14 +90,14 @@ Escalas de probabilidad clínica
 - RASS (Richmond Agitation-Sedation Scale): cuantifica el nivel de agitación/sedación de +4 (combativo, violento) a -5 (no despertable); 0 = alerta y tranquilo. Úsala para titular la contención y monitorizar tras medicar (objetivo: paciente tranquilo y despertable, no estuporoso). RASS −3 a −5 tras medicar = sobresedación, busca causa.
 - 4AT / CAM (cribado de delirium): el CAM exige inicio agudo + curso fluctuante Y inatención, MÁS pensamiento desorganizado O alteración del nivel de consciencia → delirium probable. El 4AT (alerta, orientación con AMT-4, atención con meses al revés, cambio agudo/fluctuante) ≥4 sugiere delirium.
 - Criterios de organicidad: alteración de consciencia, desorientación, curso fluctuante, empeoramiento nocturno, alucinaciones visuales, edad avanzada, ausencia de antecedentes psiquiátricos, constantes o exploración anormales.
-- CIWA-Ar (Clinical Institute Withdrawal Assessment for Alcohol, revisada — para la abstinencia alcohólica): 10 ítems (náuseas/vómitos, temblor, sudoración, ansiedad, agitación, alteraciones táctiles, auditivas y visuales, cefalea, orientación), 0-7 cada uno salvo orientación 0-4. Total 0-67. Interpretación: <8 = leve (suele no precisar fármaco); 8-15 = moderada (responde a dosis modestas de BDZ); >15 = grave (riesgo de convulsiones y delirium tremens, especialmente si TAS >150 o FC >100). Es la escala que guía la pauta de benzodiacepina "según síntomas".
+- CIWA-Ar (Clinical Institute Withdrawal Assessment for Alcohol, revisada — para la abstinencia alcohólica): 10 ítems (náuseas/vómitos, temblor, sudoración, ansiedad, agitación, alteraciones táctiles, auditivas y visuales, cefalea, orientación), 0-7 cada uno salvo orientación 0-4. Total 0-67. Interpretación: <8 = leve (suele no precisar fármaco); 8-15 = moderada (responde a dosis modestas de BDZ); >15 = grave (riesgo de convulsiones y delirium tremens, especialmente si TAS >150 o FC >100). Los cortes varían entre fuentes (otras usan 10 / 10-18 / ≥19) y no hay rangos validados universalmente: prima el juicio clínico. Es la escala que guía la pauta de benzodiacepina "según síntomas".
 
 ⚠ TRAMPAS COMUNES
 - Agitación aguda en anciano o sin antecedentes psiquiátricos = ORGÁNICA hasta que se demuestre lo contrario. No la etiquetes de "psiquiátrica" por comodidad ni la sedes sin descartar lo somático.
 - Las benzodiacepinas EMPEORAN el delirium orgánico (lo prolongan y agravan)... SALVO en la abstinencia alcohólica o de sedantes y en la intoxicación por estimulantes, donde SON el fármaco de elección. Sé estricto con esta distinción: es el error de manejo más frecuente.
 - No des un antipsicótico sin mirar el QTc, y no combines fármacos que lo prolonguen sin un ECG. Corrige antes la hipopotasemia y la hipomagnesemia.
 - Haloperidol está CONTRAINDICADO en enfermedad de Parkinson y en demencia por cuerpos de Lewy (empeora el parkinsonismo y puede desencadenar un cuadro grave): usa un atípico (quetiapina).
-- En el alcohólico, la TIAMINA va ANTES que la glucosa (la glucosa sin tiamina precipita la encefalopatía de Wernicke).
+- En el alcohólico desnutrido, da TIAMINA antes o a la vez que la glucosa (la glucosa repetida sin tiamina puede precipitar una encefalopatía de Wernicke); pero no retrases la corrección de una hipoglucemia sintomática por buscar la tiamina (ASAM 2020: pueden administrarse simultáneamente).
 - El haloperidol como monoterapia en la abstinencia alcohólica es un error: baja el umbral convulsivo y no trata la hiperactividad gabaérgica. Es solo ADYUVANTE a la benzodiacepina.
 - Hipoactivo no es "tranquilo y estable": el delirium hipoactivo (~50%, el más frecuente) se infradiagnostica como depresión y tiene PEOR pronóstico. No todo lo orgánico se agita.
 - La agitación que aparece o empeora TRAS un antipsicótico puede ser acatisia (no más psicosis): subir la dosis lo empeora. Y la rigidez + fiebre tras antipsicótico es un síndrome neuroléptico maligno hasta que se descarte.
@@ -108,7 +108,7 @@ Escalas de probabilidad clínica
 MEDIDAS GENERALES DE SOPORTE
 - SEGURIDAD PRIMERO: área privada y libre de objetos-arma, distancia de seguridad, vía de salida a tu espalda, personal de apoyo/seguridad presente. Nunca a solas.
 - El primer paso terapéutico SIEMPRE es la CONTENCIÓN VERBAL (desescalada): contacto ocular sin sostenerlo fijamente, tono bajo pero firme, una sola persona lidera la comunicación, interésate por el problema y ofrece ayuda. Especialmente útil en la agitación orgánica (en la que se altera la comprensión). El objetivo es CALMAR, no SEDAR.
-- CORRIGE LO TRATABLE de inmediato: glucemia capilar a todos. Si sospechas alcoholismo o encefalopatía de Wernicke, TIAMINA 100 mg IV o IM ANTES de dar glucosa; después corrige la hipoglucemia. Oxígeno si SpO2 baja.
+- CORRIGE LO TRATABLE de inmediato: glucemia capilar a todos. Si sospechas alcoholismo o encefalopatía de Wernicke, administra TIAMINA (antes o a la vez que la glucosa; no retrases una hipoglucemia sintomática por ella — dosis estratificadas en el apartado C) y corrige la hipoglucemia. Oxígeno si SpO2 baja.
 - OFRECE SIEMPRE LA MEDICACIÓN POR VÍA ORAL PRIMERO (construye alianza y evita la contención física); reserva la parenteral para cuando la rechace o sea inviable.
 - Espera al menos 1 hora antes de repetir la dosis de un antipsicótico. Vigila el QTc antes y después de medicar. Ten a mano biperideno (distonía aguda) y flumazenilo (no de rutina; solo si sobresedación grave por BDZ y sin riesgo convulsivo).
 
@@ -135,10 +135,10 @@ Lo prioritario es IDENTIFICAR Y TRATAR LA CAUSA (la mnemotecnia FIND ME: Fármac
 C. ABSTINENCIA ALCOHÓLICA / DELIRIUM TREMENS
 Aquí la BENZODIACEPINA SÍ es de elección (es la piedra angular: repone el tono gabaérgico). Objetivo: sedación ligera con el paciente DESPERTABLE, monitorizando constantes cada 15-30 min hasta que el cuadro ceda (~3 días). Guíate por la CIWA-Ar (pauta "según síntomas", que reduce dosis y duración frente a la pauta fija, siempre que puedas monitorizar con frecuencia).
 
-TIAMINA antes que glucosa (prevención de Wernicke):
-- Hospitalizado, profilaxis: 500 mg IV 1-2 veces/día durante 3 días.
-- Sospecha de encefalopatía de Wernicke: 500 mg IV 3 veces/día durante 5 días + multivitamínicos.
-- (Profilaxis ambulatoria leve: 100 mg/día VO 3-5 días.)
+TIAMINA (prevención de Wernicke; dásela antes o a la vez que la glucosa, sin retrasar la corrección de una hipoglucemia sintomática). Estratifica la dosis por riesgo:
+- Profilaxis estándar (bebedor sin desnutrición ni clínica de Wernicke): 100 mg IV/IM al día durante 3-5 días (ASAM 2020). Ambulatoria leve: 100 mg/día VO.
+- Alto riesgo (desnutrición, vómitos de repetición, hepatopatía, abstinencia grave/DT): 250-500 mg IV al día.
+- Sospecha o confirmación de encefalopatía de Wernicke (confusión + ataxia + oftalmoplejía): 500 mg IV cada 8 h durante 2-3 días, luego descenso + multivitamínicos.
 
 BENZODIACEPINA (elegir según función hepática):
 - Diazepam (vida media larga, metabolitos activos; eficaz pero riesgo de acumulación/encefalopatía en hepatopatía avanzada):
@@ -158,7 +158,7 @@ D. INTOXICACIÓN POR ESTIMULANTES (cocaína, anfetaminas)
 Cuadro de agitación + hiperactividad simpática (taquicardia, HTA, midriasis, hipertermia, diaforesis).
 - BENZODIACEPINA de elección (controla agitación, taquicardia, HTA e hipertermia y baja el riesgo convulsivo): diazepam 2,5-10 mg VO o IV (repetir según respuesta) o lorazepam 1-4 mg IV/IM/VO; midazolam IM/IV si se necesita una vía rápida.
 - EVITA los antipsicóticos como primera línea (bajan el umbral convulsivo, alteran la termorregulación y prolongan el QTc); resérvalos como adyuvante si hay psicosis franca pese a BDZ adecuada.
-- EVITA los betabloqueantes en cocaína (riesgo clásico de estimulación alfa sin oposición e HTA paradójica).
+- EVITA los betabloqueantes PUROS en cocaína (riesgo clásico de estimulación alfa sin oposición e HTA paradójica; hoy se considera menor de lo que se creía y es tema discutido). Controla primero con benzodiacepina; si aun así precisas bajar TA/FC, el labetalol —que asocia bloqueo alfa— puede considerarse (ASAM/AAAP 2024).
 - Medidas físicas de enfriamiento si hipertermia; sueroterapia; vigila CK (rabdomiólisis) y el ECG.
 
 E. CONTENCIÓN MECÁNICA (inmovilización terapéutica)
@@ -185,7 +185,7 @@ Vigila SIEMPRE el QTc antes y después de cualquier antipsicótico (haloperidol,
 
 🔑 Abstinencia alcohólica: BENZODIACEPINA guiada por CIWA-Ar (lorazepam si hepatopatía, diazepam si no) + tiamina + sueroterapia + corregir K y Mg. El haloperidol solo como adyuvante, nunca solo (baja el umbral convulsivo).
 
-🔑 Tiamina ANTES que la glucosa en el alcohólico, para no precipitar una encefalopatía de Wernicke.
+🔑 Tiamina antes o junto con la glucosa en el alcohólico desnutrido (no des glucosa sola sin tiamina), pero sin retrasar una hipoglucemia sintomática. Profilaxis estándar 100 mg/día IV; Wernicke 500 mg/8 h IV.
 
 🔑 Mide el QTc antes y después de dar un antipsicótico, corrige antes K y Mg. Y recuerda: haloperidol FUERA en Parkinson y en demencia por cuerpos de Lewy (usa quetiapina).
 

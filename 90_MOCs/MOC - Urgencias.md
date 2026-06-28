@@ -24,6 +24,7 @@ description: "Hub de urgencias generales: presentaciones sindrómicas transversa
 > - [[MUST - Cefalea]]
 > - [[MUST - Mareo y Vértigo]]
 > - [[MUST - Agitación Psicomotriz]]
+> - [[MUST - Síndrome Confusional Agudo]]
 
 ---
 

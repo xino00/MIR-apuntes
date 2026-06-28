@@ -13,6 +13,7 @@ description: "Índice de dermatología: urticaria, herpes zóster y sarna"
 ### 🩺 Infecciones Cutáneas
 - [[Herpes Zóster]]
 - [[Sarna - Escabiosis]]
+- [[Úlceras por Presión]] (ver Infecciosas)
 
 ### 🔴 Reacciones Cutáneas
 - [[Urticaria Aguda]]

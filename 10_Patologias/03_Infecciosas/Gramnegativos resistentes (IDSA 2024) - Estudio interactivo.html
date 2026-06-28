@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gramnegativos resistentes · IDSA 2024 — Estudio interactivo</title>
+<style>
+  :root{
+    --bg:#faf7f2; --panel:#fffdfa; --ink:#2b2622; --muted:#7a7066;
+    --line:#e7ddd0; --accent:#c96442; --accent2:#3b7a6f; --accent3:#7c5cbf;
+    --warn:#b4541f; --good:#2f7a4f; --bad:#b23b3b;
+    --serina:#3b7a6f; --zinc:#7c5cbf; --chip:#f1e9dd;
+    --shadow:0 2px 10px rgba(60,40,20,.08);
+  }
+  [data-theme="dark"]{
+    --bg:#1b1815; --panel:#262019; --ink:#ece4d8; --muted:#a89a89;
+    --line:#3a322a; --accent:#e08763; --accent2:#5fae9f; --accent3:#a98ee0;
+    --chip:#322a20; --shadow:0 2px 12px rgba(0,0,0,.4);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:"Segoe UI",system-ui,-apple-system,sans-serif;
+    background:var(--bg);color:var(--ink);line-height:1.5;-webkit-font-smoothing:antialiased}
+  header{padding:22px 20px 10px;max-width:980px;margin:0 auto}
+  h1{font-size:1.45rem;margin:0 0 4px}
+  .sub{color:var(--muted);font-size:.9rem;margin:0}
+  .wrap{max-width:980px;margin:0 auto;padding:0 20px 80px}
+  /* nav */
+  nav.tabs{position:sticky;top:0;z-index:20;background:var(--bg);
+    border-bottom:1px solid var(--line);padding:10px 0;margin-top:12px;
+    display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .tabs button{font:inherit;border:1px solid var(--line);background:var(--panel);
+    color:var(--ink);padding:8px 14px;border-radius:999px;cursor:pointer;font-size:.88rem;
+    transition:.15s}
+  .tabs button:hover{border-color:var(--accent)}
+  .tabs button.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+  .spacer{flex:1}
+  .icon-btn{border:1px solid var(--line);background:var(--panel);color:var(--ink);
+    width:38px;height:38px;border-radius:50%;cursor:pointer;font-size:1.05rem}
+  section.view{display:none;padding-top:18px}
+  section.view.active{display:block}
+  /* idea madre */
+  .idea{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--accent);
+    border-radius:10px;padding:14px 16px;margin:0 0 18px;box-shadow:var(--shadow)}
+  .idea b{color:var(--accent)}
+  /* flashcards */
+  .deckbar{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 14px;align-items:center}
+  .deckbar select{font:inherit;padding:7px 10px;border-radius:8px;border:1px solid var(--line);
+    background:var(--panel);color:var(--ink)}
+  .counter{color:var(--muted);font-size:.85rem;margin-left:auto}
+  .card-stage{perspective:1400px;max-width:620px;margin:0 auto}
+  .card{position:relative;width:100%;min-height:240px;cursor:pointer;
+    transform-style:preserve-3d;transition:transform .5s}
+  .card.flipped{transform:rotateY(180deg)}
+  .face{position:absolute;inset:0;backface-visibility:hidden;border-radius:16px;
+    padding:26px;display:flex;flex-direction:column;justify-content:center;
+    background:var(--panel);border:1px solid var(--line);box-shadow:var(--shadow)}
+  .face.back{transform:rotateY(180deg)}
+  .tagchip{align-self:flex-start;font-size:.72rem;text-transform:uppercase;letter-spacing:.04em;
+    background:var(--chip);color:var(--muted);padding:3px 9px;border-radius:6px;margin-bottom:12px}
+  .face .q{font-size:1.18rem;font-weight:600}
+  .face .a{font-size:1.02rem}
+  .face .a ul{margin:8px 0 0;padding-left:18px}
+  .face .a li{margin:4px 0}
+  .hint{margin-top:auto;color:var(--muted);font-size:.78rem;padding-top:14px}
+  .navrow{display:flex;gap:10px;justify-content:center;margin:16px auto 0;max-width:620px}
+  .navrow button{flex:1;font:inherit;padding:11px;border-radius:10px;border:1px solid var(--line);
+    background:var(--panel);color:var(--ink);cursor:pointer;font-size:.9rem}
+  .navrow button:hover{border-color:var(--accent)}
+  .navrow button.know{border-color:var(--good);color:var(--good)}
+  .navrow button.again{border-color:var(--warn);color:var(--warn)}
+  /* tables */
+  table{border-collapse:collapse;width:100%;font-size:.86rem;background:var(--panel);
+    border-radius:10px;overflow:hidden;box-shadow:var(--shadow);margin:0 0 18px}
+  th,td{border:1px solid var(--line);padding:9px 11px;text-align:left;vertical-align:top}
+  th{background:var(--chip);font-weight:600}
+  caption{caption-side:top;text-align:left;font-weight:600;margin-bottom:8px;font-size:.95rem}
+  .matrix td.cell{text-align:center;cursor:pointer;font-weight:700;user-select:none;min-width:54px}
+  .matrix td.cell .v{visibility:hidden}
+  .matrix td.cell.revealed .v{visibility:visible}
+  .matrix td.cell.revealed.yes{background:rgba(47,122,79,.16);color:var(--good)}
+  .matrix td.cell.revealed.no{background:rgba(178,59,59,.13);color:var(--bad)}
+  .matrix td.cell:not(.revealed)::after{content:"·";color:var(--muted)}
+  .matrix td.cell.revealed:not(.yes):not(.no){background:rgba(196,100,66,.12)}
+  .legend{font-size:.8rem;color:var(--muted);margin:-8px 0 18px}
+  .serbadge{color:var(--serina);font-weight:600}
+  .zinbadge{color:var(--zinc);font-weight:600}
+  .smallnote{font-size:.8rem;color:var(--muted)}
+  details{background:var(--panel);border:1px solid var(--line);border-radius:10px;
+    padding:4px 14px;margin:0 0 10px;box-shadow:var(--shadow)}
+  summary{cursor:pointer;font-weight:600;padding:8px 0}
+  /* quiz */
+  .quiz-card{background:var(--panel);border:1px solid var(--line);border-radius:14px;
+    padding:20px 22px;box-shadow:var(--shadow);max-width:660px;margin:0 auto}
+  .qnum{color:var(--muted);font-size:.8rem;letter-spacing:.04em}
+  .qtext{font-size:1.1rem;font-weight:600;margin:6px 0 16px}
+  .opt{display:block;width:100%;text-align:left;font:inherit;padding:12px 14px;margin:8px 0;
+    border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--ink);
+    cursor:pointer;transition:.12s}
+  .opt:hover:not(:disabled){border-color:var(--accent)}
+  .opt.correct{border-color:var(--good);background:rgba(47,122,79,.13)}
+  .opt.wrong{border-color:var(--bad);background:rgba(178,59,59,.12)}
+  .opt:disabled{cursor:default}
+  .explain{margin-top:14px;padding:12px 14px;border-radius:10px;background:var(--chip);
+    font-size:.9rem;display:none}
+  .explain.show{display:block}
+  .explain b{color:var(--accent2)}
+  .quizfoot{display:flex;gap:10px;justify-content:space-between;align-items:center;
+    max-width:660px;margin:16px auto 0}
+  .quizfoot button{font:inherit;padding:10px 18px;border-radius:10px;border:1px solid var(--line);
+    background:var(--panel);color:var(--ink);cursor:pointer}
+  .quizfoot button#next{background:var(--accent);color:#fff;border-color:var(--accent)}
+  .score{font-weight:600}
+  .progress{height:6px;background:var(--line);border-radius:999px;overflow:hidden;margin:0 auto 18px;max-width:660px}
+  .progress>i{display:block;height:100%;background:var(--accent);width:0;transition:.3s}
+  .result{text-align:center;max-width:520px;margin:0 auto;background:var(--panel);
+    border:1px solid var(--line);border-radius:16px;padding:30px;box-shadow:var(--shadow)}
+  .result .big{font-size:2.6rem;font-weight:700;color:var(--accent)}
+  .footnote{color:var(--muted);font-size:.78rem;margin-top:26px;border-top:1px solid var(--line);padding-top:12px}
+  kbd{background:var(--chip);border:1px solid var(--line);border-radius:5px;padding:1px 6px;font-size:.78rem}
+</style>
+</head>
+<body data-theme="light">
+<header>
+  <h1>Gramnegativos resistentes · <span style="color:var(--accent)">IDSA 2024</span></h1>
+  <p class="sub">Chuleta interactiva — Tamma PD et al, <i>Clin Infect Dis</i> 2024 · matiz España (PRAN/EMA). Material de estudio, no protocolo de prescripción.</p>
+</header>
+
+<div class="wrap">
+  <nav class="tabs">
+    <button data-tab="repaso" class="active">🔁 Fichas</button>
+    <button data-tab="matriz">🧩 Matriz inhibidores</button>
+    <button data-tab="tablas">📋 Tablas clave</button>
+    <button data-tab="test">✅ Test</button>
+    <span class="spacer"></span>
+    <button class="icon-btn" id="theme" title="Modo claro/oscuro">🌙</button>
+  </nav>
+
+  <!-- ===================== REPASO ===================== -->
+  <section class="view active" id="repaso">
+    <div class="idea">
+      <b>Idea madre.</b> La sensibilidad <i>in vitro</i> de los β-lactámicos <b>no predice eficacia</b> (depende de inóculo y sitio). Enterobacterales → decide <b>sitio ± enzima</b>; no fermentadores → <b>combinación</b> y distinguir colonización de infección. Reglas: colonización ≠ infección · step-down oral · reservar lo nuevo (BLBLI, cefiderocol) para resistentes a carbapenémicos.
+    </div>
+    <div class="deckbar">
+      <label>Mazo:
+        <select id="deck">
+          <option value="all">Todo (mezclado)</option>
+          <option value="eleccion">Fármaco de elección por enzima</option>
+          <option value="inhibidores">Inhibidores y qué frenan</option>
+          <option value="ambler">Clasificación de Ambler</option>
+          <option value="mecanismos">Mecanismos especiales</option>
+          <option value="perlas">Perlas clínicas (BLEE/AmpC)</option>
+          <option value="cre">CRE (KPC / OXA-48 / MBL)</option>
+          <option value="pseudomonas">P. aeruginosa DTR</option>
+          <option value="crab">CRAB (Acinetobacter)</option>
+          <option value="steno">S. maltophilia</option>
+        </select>
+      </label>
+      <button class="icon-btn" id="shuffle" title="Barajar">🔀</button>
+      <span class="counter" id="counter"></span>
+    </div>
+    <div class="card-stage">
+      <div class="card" id="card">
+        <div class="face front">
+          <span class="tagchip" id="ftag"></span>
+          <div class="q" id="front"></div>
+          <div class="hint">Click o <kbd>Espacio</kbd> para girar</div>
+        </div>
+        <div class="face back">
+          <span class="tagchip" id="btag"></span>
+          <div class="a" id="back"></div>
+          <div class="hint">Click para volver</div>
+        </div>
+      </div>
+    </div>
+    <div class="navrow">
+      <button id="prev">← Anterior</button>
+      <button id="again" class="again">↻ Repetir</button>
+      <button id="know" class="know">✓ La sé</button>
+      <button id="next2">Siguiente →</button>
+    </div>
+  </section>
+
+  <!-- ===================== MATRIZ ===================== -->
+  <section class="view" id="matriz">
+    <p class="legend">Click en cada celda para revelar si el inhibidor frena la enzima (<b>inhibición bioquímica in vitro</b>). <span class="serbadge">Serina = A/C/D</span> · <span class="zinbadge">Zinc/metalo = B</span>. <button class="icon-btn" id="revealAll" title="Revelar todo" style="width:auto;border-radius:8px;padding:4px 12px;font-size:.82rem">Revelar todo</button></p>
+    <table class="matrix" id="matrixTable">
+      <caption>¿Qué inhibidor frena a qué enzima?</caption>
+      <thead>
+        <tr><th>Enzima</th><th>Clase</th><th>Viejos<br><span class="smallnote">clav·sulb·tazo</span></th><th>Avibactam</th><th>Vaborbactam</th><th>Relebactam</th><th>Durlobactam</th></tr>
+      </thead>
+      <tbody><!-- filled by JS --></tbody>
+    </table>
+    <details>
+      <summary>Patrones clave (abrir tras intentar la matriz)</summary>
+      <ul>
+        <li><b>Avibactam = comodín de la serina</b>: cubre A (BLEE, KPC), C (AmpC) y D (OXA-48). Lo único que NO toca es el zinc (MBL).</li>
+        <li><b>Vaborbactam y relebactam</b> sirven para KPC pero <b>NO para OXA-48</b> (la cerradura de la clase D es distinta).</li>
+        <li><b>Fila MBL entera en "No"</b> → ningún antídoto sirve → <b>aztreonam (+avibactam) o cefiderocol</b>.</li>
+        <li>Los <b>viejos</b> solo rozan la BLEE in vitro (fallan en infección grave por efecto inóculo); el <b>clavulánico además INDUCE el AmpC</b>.</li>
+        <li>Avibactam tiene actividad <b>débil</b> frente a OXA de <i>Acinetobacter</i> → por eso se desarrolló el <b>durlobactam</b>.</li>
+      </ul>
+    </details>
+  </section>
+
+  <!-- ===================== TABLAS ===================== -->
+  <section class="view" id="tablas">
+    <table>
+      <caption>Regla de bolsillo — fármaco de elección por enzima</caption>
+      <thead><tr><th>Enzima</th><th>Fármaco de elección</th></tr></thead>
+      <tbody>
+        <tr><td><b>BLEE</b></td><td>Carbapenémico (meropenem · imipenem · ertapenem)</td></tr>
+        <tr><td><b>AmpC</b></td><td><b>Cefepime</b> (aguanta el corte solo, sin antídoto) — 2 g/8 h en infusión 3–4 h</td></tr>
+        <tr><td><b>KPC</b></td><td>Mero-vaborbactam · ceftazidima-avibactam · imipenem-relebactam <span class="smallnote">(panel: MVB ≳ CAZ-AVI ≳ IMI-REL)</span></td></tr>
+        <tr><td><b>OXA-48</b></td><td><b>Ceftazidima-avibactam</b> (cefiderocol alternativa)</td></tr>
+        <tr><td><b>OXA Acinetobacter (CRAB)</b></td><td><b>Sulbactam-durlobactam + carbapenémico</b><br><span class="smallnote">España: amp-sulbactam 9 g sulbactam/día + 2.º agente</span></td></tr>
+        <tr><td><b>MBL (NDM/VIM/IMP)</b></td><td>Ceftazidima-avibactam <b>+ aztreonam</b> (o aztreonam-avibactam · Emblaveo®) · cefiderocol</td></tr>
+      </tbody>
+    </table>
+
+    <table>
+      <caption>Ambler — clasifica por estructura de la enzima, no por lo que corta</caption>
+      <thead><tr><th>Clase</th><th>Mecanismo</th><th>Enzimas</th><th>¿Carbapenemasa?</th><th>Inhibida por</th></tr></thead>
+      <tbody>
+        <tr><td><b class="serbadge">A</b></td><td>Serina</td><td>Penicilinasas, BLEE (CTX-M, TEM, SHV), KPC</td><td>Solo KPC</td><td>Clav (clásicas); avibactam/vaborbactam/relebactam (KPC)</td></tr>
+        <tr><td><b class="zinbadge">B</b></td><td>Metalo (Zn²⁺)</td><td>NDM, VIM, IMP</td><td>Sí (todas)</td><td>Ningún inhibidor; respeta aztreonam</td></tr>
+        <tr><td><b class="serbadge">C</b></td><td>Serina</td><td>AmpC</td><td>No per se (sí con pérdida de porinas)</td><td>Avibactam, relebactam; NO clavulánico; cefepime estable</td></tr>
+        <tr><td><b class="serbadge">D</b></td><td>Serina</td><td>OXA-48-like (Entero), OXA-23/24/40 (Acinetobacter)</td><td>Sí</td><td>Avibactam (OXA-48); durlobactam (OXA Acineto); NO vaborbactam/relebactam</td></tr>
+      </tbody>
+    </table>
+
+    <table>
+      <caption>AmpC-E — inducción del cromosoma</caption>
+      <thead><tr><th>Riesgo de inducción</th><th>Bacterias</th><th>Conducta</th></tr></thead>
+      <tbody>
+        <tr><td><b style="color:var(--bad)">Alto (~20%)</b></td><td><i>Enterobacter cloacae</i>, <i>Klebsiella aerogenes</i>, <i>Citrobacter freundii</i></td><td>Evitar 3.ª gen <b>aunque sea sensible</b> → cefepime</td></tr>
+        <tr><td><b style="color:var(--good)">Bajo (&lt;5%)</b></td><td><i>Serratia</i>, <i>Morganella</i>, <i>Providencia</i></td><td>Fiarse del antibiograma</td></tr>
+      </tbody>
+    </table>
+    <p class="smallnote">Matiz fino: cefepime con CMI 4–8 (sensible dosis-dependiente) → sospechar <b>BLEE coproducida</b> → carbapenémico.</p>
+
+    <table>
+      <caption>Dosis clave en BGNMR (función renal normal)</caption>
+      <thead><tr><th>Fármaco</th><th>Pauta</th></tr></thead>
+      <tbody>
+        <tr><td>Piperacilina-tazobactam</td><td>4 g + 0,5 g / 6 h en 3–4 h (o perfusión continua)</td></tr>
+        <tr><td>Cefepime</td><td>2 g / 8 h en 3–4 h</td></tr>
+        <tr><td>Ceftazidima-avibactam</td><td>2,5 g (2 + 0,5) / 8 h en 3 h</td></tr>
+        <tr><td>Cefiderocol</td><td>2 g / 8 h en 3 h (2 g/6 h si FG &gt; 120)</td></tr>
+        <tr><td>Meropenem</td><td>2 g / 8 h en 3 h (infusión extendida)</td></tr>
+        <tr><td>Mero-vaborbactam</td><td>2 g + 2 g / 8 h en 3 h</td></tr>
+        <tr><td>Imipenem-relebactam</td><td>0,5 g imi + 0,25 g rele / 6 h</td></tr>
+        <tr><td>Aztreonam</td><td>2 g / 6–8 h en 3 h (máx 8 g/día), <b>+ avibactam</b></td></tr>
+        <tr><td>Ampicilina-sulbactam (CRAB)</td><td>6 g + 3 g sulbactam / 8 h en 4 h (= 9 g sulbactam/día, off-label)</td></tr>
+        <tr><td>Amikacina</td><td>25–30 mg/kg/día (peso ajustado); monitorizar</td></tr>
+      </tbody>
+    </table>
+
+    <details>
+      <summary>Divergencias para España (PRAN / EMA)</summary>
+      <ul>
+        <li><b>Fluoroquinolonas</b> despriorizadas → TMP-SMX o carbapenémico según antibiograma.</li>
+        <li><b>Cefixima oral</b> secuencial en pielonefritis ambulatoria (PRAN-alineada, IDSA no la contempla).</li>
+        <li><b>Fosfomicina</b>: solo vía baja y solo <i>E. coli</i> (intrínseca <i>fosA</i> en <i>K. pneumoniae</i>).</li>
+        <li><b>Sulbactam-durlobactam</b> no comercializado → CRAB con amp-sulbactam 9 g/día + 2.º agente.</li>
+        <li><i>P. aeruginosa</i> con enzimas <b>GES</b> (frecuentes en España) → imi-relebactam pierde actividad → <b>CAZ-AVI</b>.</li>
+        <li><b>Aztreonam-avibactam (Emblaveo®)</b> aprobado EMA 2024 para MBL / <i>S. maltophilia</i>.</li>
+      </ul>
+    </details>
+
+    <table>
+      <caption>Los 8 escenarios de un vistazo (BLEE → S. maltophilia)</caption>
+      <thead><tr><th>Organismo</th><th>Enzima / mecanismo</th><th>1ª línea</th><th>Alternativa</th><th>Trampa</th></tr></thead>
+      <tbody>
+        <tr><td><b>BLEE-E</b></td><td>Clase A (CTX-M)</td><td>Carbapenémico</td><td>TMP-SMX/FQ oral (step-down)</td><td>Pip-tazo y cefepime fallan en grave</td></tr>
+        <tr><td><b>AmpC-E</b></td><td>Clase C (inducible)</td><td>Cefepime 2 g/8 h IE</td><td>Carbapenémico</td><td>3.ª gen testa S pero falla (~20%)</td></tr>
+        <tr><td><b>CRE-KPC</b></td><td>Clase A</td><td>MVB &gt; CAZ-AVI &gt; IMI-REL</td><td>Cefiderocol</td><td>CAZ-AVI: riesgo mutación KPC→resistencia</td></tr>
+        <tr><td><b>CRE-OXA-48</b></td><td>Clase D</td><td>CAZ-AVI</td><td>Cefiderocol</td><td>MVB/IMI-REL <b>no sirven</b> aunque testen S</td></tr>
+        <tr><td><b>CRE-MBL</b></td><td>Clase B (zinc)</td><td>CAZ-AVI + aztreonam / cefiderocol</td><td>—</td><td>Ningún BLBLI solo funciona</td></tr>
+        <tr><td><b>DTR-PA</b></td><td>Multifactorial (porinas, eflujo, AmpC)</td><td>C/T, CAZ-AVI, IMI-REL</td><td>Cefiderocol</td><td>GES → IMI-REL pierde; VIM → cefiderocol</td></tr>
+        <tr><td><b>CRAB</b></td><td>OXA-23/24 + porinas</td><td>SUL-DUR + carbapenémico</td><td>AmpSul alta dosis + colistina/mino</td><td>Cefiderocol: señal mortalidad CREDIBLE-CR</td></tr>
+        <tr><td><b><i>S. maltophilia</i></b></td><td>L1 (metalo) + L2 (serina)</td><td>≥2 de: cefiderocol, mino, TMP-SMX, levo <b>ó</b> CAZ-AVI + aztreonam</td><td>—</td><td>TMP-SMX no bactericida; colonización ≠ infección</td></tr>
+      </tbody>
+    </table>
+
+    <table>
+      <caption>CRE por enzima — elección, alternativa y trampa (extra-urinaria, IDSA 2024)</caption>
+      <thead><tr><th>Enzima / Mecanismo</th><th>1ª línea</th><th>Alternativa / Trampa</th></tr></thead>
+      <tbody><tr><td><b>Sin carbapenemasa</b> (porinas + BLEE/AmpC), CMI mero/imi ≤1</td><td><b>Meropenem infusión extendida</b> (o imipenem)</td><td>NO hace falta vaborbactam/relebactam (ertapenem puede ser R)</td></tr><tr><td><b>Sin carbapenemasa</b>, R a todos los carbapenémicos</td><td><b>CAZ-AVI, MVB o IMI-REL</b></td><td>Tratar como si fuera carbapenemasa</td></tr><tr><td><b>KPC</b></td><td><b>MVB &gt; CAZ-AVI &gt; IMI-REL</b></td><td>Cefiderocol alt.; MVB menor riesgo de resistencia (KPC-2→KPC-31 con CAZ-AVI)</td></tr><tr><td><b>OXA-48</b></td><td><b>CAZ-AVI</b></td><td>Cefiderocol alt. TRAMPA: NO MVB/IMI-REL aunque testen "S" (no inhiben OXA-48)</td></tr><tr><td><b>MBL (NDM/VIM/IMP)</b></td><td><b>CAZ-AVI + aztreonam</b> (o aztreonam-avibactam) <b>o cefiderocol</b></td><td>Aztreonam escapa MBL; avibactam atasca la serina coproducida. Mortalidad 19-22% vs colistina ~44-50%</td></tr><tr><td><b>Tigeciclina / eravaciclina</b> (KPC/OXA-48)</td><td>Alternativa SOLO fuera de bacteriemia y orina</td><td>No alcanzan concentración útil en sangre ni orina</td></tr><tr><td><b>Polimixinas / aminoglucósidos y terapia combinada</b></td><td>Desaconsejados de rutina</td><td>No añadir 2º agente al BLBLI activo: no mejora y aumenta toxicidad</td></tr></tbody>
+    </table>
+
+    <table>
+      <caption>P. aeruginosa DTR — mecanismo, 1ª línea y trampas (IDSA 2024)</caption>
+      <thead><tr><th>Escenario / mecanismo</th><th>1ª línea</th><th>Alternativa / trampa</th></tr></thead>
+      <tbody><tr><td>DTR-PA típica EE.UU./Europa (cromosómica: pérdida OprD + eflujo MexAB-OprM/MexXY + AmpC desreprimida)</td><td>C/T, CAZ-AVI o IMI-REL (extra-urinaria); +cefiderocol en ITU</td><td>Cefiderocol alternativa en extra-urinaria. <b>NO añadir tobra/polimixina de rutina</b> si el BLBLI testa S</td></tr><tr><td>Cistitis no complicada</td><td>C/T, CAZ-AVI, IMI-REL o cefiderocol</td><td>Tobramicina o amikacina <b>dosis única</b></td></tr><tr><td>Pielonefritis / ITU complicada</td><td>C/T, CAZ-AVI, IMI-REL o cefiderocol (sin preferencia)</td><td>Tobra/amikacina (nefrotoxicidad <i>duración-dependiente</i>)</td></tr><tr><td>Ningún β-lactámico sensible</td><td>BLBLI con CMI más cercana al punto de corte + tobramicina (si S)</td><td>Si tobra R → <b>polimixina B</b> (mejor que colistina fuera de orina, PK más predecible)</td></tr><tr><td>Enzima GES (frecuente en España)</td><td><b>CAZ-AVI</b> (mantiene mayor % S)</td><td><b>IMI-REL pierde actividad</b>; si ambos fallan → cefiderocol</td></tr><tr><td>MBL (p. ej. VIM)</td><td><b>Cefiderocol</b> (no afectado por MBL)</td><td>CAZ-AVI + aztreonam. <b>C/T e IMI-REL NO sirven</b></td></tr><tr><td>Neumonía (entre C/T y CAZ-AVI)</td><td><b>C/T</b> (mejor penetración pulmonar)</td><td>CACTUS (Lancet ID 2025): sin diferencias significativas en MDR-PA</td></tr></tbody>
+    </table>
+
+    <table>
+      <caption>CRAB (A. baumannii resistente a carbapenémicos) — esquema terapéutico IDSA 2024</caption>
+      <thead><tr><th>Escenario / mecanismo</th><th>1ª línea</th><th>Alternativa / trampa</th></tr></thead>
+      <tbody><tr><td><b>Principio rector</b></td><td>Siempre <b>terapia combinada (≥2 agentes)</b>, ≥1 basado en sulbactam</td><td>Sulbactam = actividad <i>directa</i> sobre PBP (no como inhibidor de β-lactamasa)</td></tr><tr><td><b>Esquema preferido</b></td><td><b>Sulbactam-durlobactam + carbapenémico</b> (imipenem o meropenem)</td><td>Ensayo <b>ATTACK</b>: no inferior a colistina con menos nefrotoxicidad; carbapenémico por sinergia</td></tr><tr><td><b>Resistencia a sulbactam-durlobactam</b> (MBL/NDM o PBP3)</td><td>Cambiar a combinación <b>NO basada en sulbactam</b></td><td>Umbral: <b>CMI ≥16/4</b></td></tr><tr><td><b>Esquema alternativo</b> (sin sulbactam-durlobactam)</td><td><b>Ampicilina-sulbactam alta dosis (9 g/día sulbactam) + ≥1 agente</b></td><td>Polimixina B &gt; colistina (fuera de orina); minociclina &gt; tigeciclina</td></tr><tr><td><b>Tigeciclina</b></td><td>Solo intraabdominal / partes blandas</td><td>Evitar en bacteriemia, neumonía y orina; evitar si <b>CMI &gt;2</b></td></tr><tr><td><b>Cefiderocol</b> (señal de alarma)</td><td>Solo <b>último recurso</b>, en combinación</td><td><b>CREDIBLE-CR</b>: mortalidad <b>49% vs 18%</b> en <i>Acinetobacter</i> (neumonía/bacteriemia)</td></tr><tr><td><b>España (ECIL-10)</b></td><td><b>Ampicilina-sulbactam alta dosis + colistina (o polimixina B)</b></td><td>Sulbactam-durlobactam puede no estar comercializado</td></tr></tbody>
+    </table>
+
+    <table>
+      <caption>S. maltophilia — mecanismos y tratamiento (IDSA 2024)</caption>
+      <thead><tr><th>Enzima / Mecanismo</th><th>1ª línea / Abordaje</th><th>Alternativa / Trampa</th></tr></thead>
+      <tbody><tr><td><b>L1</b> — metalo-β-lactamasa (clase B) → hidroliza carbapenémicos</td><td>Carbapenémicos <b>inútiles</b> (R intrínseca)</td><td><b>Trampa:</b> el aztreonam (monobactam) escapa de L1</td></tr><tr><td><b>L2</b> — serina-β-lactamasa (clase A) → hidroliza cefalosporinas</td><td>Cefalosporinas <b>inactivas</b> (R intrínseca)</td><td>El <b>avibactam</b> atasca L2 → CAZ-AVI + aztreonam funciona (99,6% inhibidas a ≤8 µg/mL)</td></tr><tr><td>Abordaje 1: combinación de ≥2 agentes (orden IDSA)</td><td><b>Cefiderocol</b> (R ~4%) → minociclina (R ~3%) → TMP-SMX (S ~97%) → levofloxacino (S ~79%)</td><td><b>Trampa:</b> TMP-SMX <b>no es bactericida</b> (PK/PD); ya no es el rey indiscutible</td></tr><tr><td>Abordaje 2: CAZ-AVI + aztreonam (o aztreonam-avibactam)</td><td>Equivalente al abordaje 1; <b>99,6%</b> inhibidas in vitro</td><td>Datos clínicos limitados</td></tr><tr><td>Aztreonam-avibactam (Emblaveo®)</td><td>Aprobado <b>FDA 2025</b> y EMA; <b>99-100%</b> inhibidas</td><td><b>Perla:</b> activo incluso en cepas R a TMP-SMX, minociclina y levofloxacino</td></tr><tr><td>Colonización vs infección</td><td>1er paso: la mayoría = <b>colonización</b></td><td><b>NO tratar</b> sin evidencia de infección verdadera</td></tr><tr><td>Combinación vs monoterapia</td><td><b>Combinación</b> en inmunodeprimidos y críticos (estudio 307 pacientes, neumonía)</td><td>Dosis TMP-SMX: <b>8-12 mg/kg/día</b> de trimetoprim (ECIL-10)</td></tr></tbody>
+    </table>
+  </section>
+
+  <!-- ===================== TEST ===================== -->
+  <section class="view" id="test">
+    <div class="progress"><i id="bar"></i></div>
+    <div id="quizArea"></div>
+    <div class="quizfoot" id="quizFoot">
+      <span class="score" id="scoreLbl">0 / 0</span>
+      <button id="next">Siguiente →</button>
+    </div>
+  </section>
+
+  <p class="footnote">Generado para estudio personal a partir de tu chuleta IDSA 2024 (Tamma PD et al, <i>Clin Infect Dis</i> 2024) + matiz España. <b>Cobertura completa: secciones 1–6</b> (BLEE, AmpC, CRE [KPC/OXA-48/MBL], <i>P. aeruginosa</i> DTR, CRAB, <i>S. maltophilia</i>). Contenido revisado con verificación adversarial, pero <b>verifica siempre dosis y elección</b> contra la guía vigente y el mapa de resistencias de tu centro antes de prescribir. Ensayos citados: MERINO, CACTUS, ATTACK, CREDIBLE-CR; pautas ECIL-10.</p>
+</div>
+
+<script>
+/* ---------------- DATA ---------------- */
+const CARDS = [
+  // eleccion
+  {deck:"eleccion",tag:"Elección",q:"BLEE — ¿fármaco de elección en infección extra-urinaria?",a:"<b>Carbapenémico</b> (meropenem, imipenem, ertapenem).<ul><li>Conserva sensibilidad a carbapenémicos.</li><li>Step-down oral a TMP-SMX/FQ si S + estable + foco controlado.</li></ul>"},
+  {deck:"eleccion",tag:"Elección",q:"AmpC — ¿fármaco de elección?",a:"<b>Cefepime</b> 2 g/8 h en infusión 3–4 h.<ul><li>Mal inductor <b>y</b> estable a la hidrólisis del AmpC (aguanta el corte solo, sin antídoto).</li></ul>"},
+  {deck:"eleccion",tag:"Elección",q:"KPC — ¿opciones de elección?",a:"<b>Mero-vaborbactam</b> · ceftazidima-avibactam · imipenem-relebactam.<ul><li>El panel favorece levemente MVB &gt; CAZ-AVI &gt; IMI-REL.</li></ul>"},
+  {deck:"eleccion",tag:"Elección",q:"OXA-48 — ¿fármaco de elección?",a:"<b>Ceftazidima-avibactam</b> (cefiderocol como alternativa).<ul><li>Vaborbactam y relebactam <b>NO</b> sirven para OXA-48.</li></ul>"},
+  {deck:"eleccion",tag:"Elección",q:"CRAB (OXA de Acinetobacter) — ¿esquema?",a:"<b>Sulbactam-durlobactam + carbapenémico</b>.<ul><li>España (no comercializado): amp-sulbactam alta dosis (9 g sulbactam/día) + 2.º agente.</li></ul>"},
+  {deck:"eleccion",tag:"Elección",q:"MBL (NDM/VIM/IMP) — ¿esquema?",a:"<b>Ceftazidima-avibactam + aztreonam</b> (o aztreonam-avibactam · Emblaveo®) · cefiderocol.<ul><li>Ningún inhibidor frena el zinc → se aprovecha que el aztreonam escapa.</li></ul>"},
+  // inhibidores
+  {deck:"inhibidores",tag:"Inhibidores",q:"¿Qué enzimas cubre el AVIBACTAM?",a:"El <b>comodín de la serina</b>: clase <b>A</b> (BLEE, KPC), <b>C</b> (AmpC) y <b>D</b> (OXA-48).<ul><li>Lo único que NO toca: el <b>zinc / MBL</b>.</li></ul>"},
+  {deck:"inhibidores",tag:"Inhibidores",q:"Vaborbactam y relebactam: ¿KPC?, ¿OXA-48?",a:"KPC <b>sí</b> · OXA-48 <b>NO</b>.<ul><li>Aunque ambas sean serina, la cerradura de la clase D es distinta.</li></ul>"},
+  {deck:"inhibidores",tag:"Inhibidores",q:"¿Por qué el clavulánico es malo en AmpC?",a:"No lo inhibe <b>y además lo INDUCE</b> (sube la producción de enzima).</li></ul>"},
+  {deck:"inhibidores",tag:"Inhibidores",q:"¿Inhibidor que sirve frente a OXA de Acinetobacter?",a:"<b>Durlobactam</b> (clínicamente como sulbactam-durlobactam, uso CRAB).<ul><li>Avibactam tiene actividad solo <b>débil</b> sobre OXA-23/24/40 → por eso se desarrolló durlobactam.</li></ul>"},
+  {deck:"inhibidores",tag:"Inhibidores",q:"¿Algún inhibidor frena a las MBL (NDM/VIM/IMP)?",a:"<b>Ninguno actual.</b> Fila entera en 'No'.<ul><li>Salida: aztreonam (+avibactam) o cefiderocol.</li></ul>"},
+  // ambler
+  {deck:"ambler",tag:"Ambler",q:"Clase A — mecanismo y enzimas representativas",a:"<b>Serina.</b> Penicilinasas, <b>BLEE</b> (CTX-M, TEM, SHV) y <b>KPC</b>.<ul><li>Solo la KPC es carbapenemasa.</li></ul>"},
+  {deck:"ambler",tag:"Ambler",q:"Clase B — mecanismo y enzimas",a:"<b>Metalo (Zn²⁺).</b> NDM, VIM, IMP — todas carbapenemasas.<ul><li>Sin inhibidor; respeta el aztreonam.</li></ul>"},
+  {deck:"ambler",tag:"Ambler",q:"Clase C — mecanismo y enzima",a:"<b>Serina.</b> <b>AmpC</b> (cromosómica/plasmídica).<ul><li>Carbapenemasa solo con pérdida de porinas. Cefepime estable.</li></ul>"},
+  {deck:"ambler",tag:"Ambler",q:"Clase D — mecanismo y enzimas",a:"<b>Serina.</b> OXA-48-like (enterobacterales), OXA-23/24/40 (<i>A. baumannii</i>) — tipo carbapenemasa.<ul><li>Avibactam (OXA-48) / durlobactam (OXA Acineto); NO vaborbactam/relebactam.</li></ul>"},
+  {deck:"ambler",tag:"Ambler",q:"¿Es la KPC una cefalosporina?",a:"<b>No.</b> Es una <b>enzima</b> (Klebsiella pneumoniae Carbapenemase), serina clase A, que corta carbapenémicos."},
+  // mecanismos
+  {deck:"mecanismos",tag:"Mecanismo",q:"Cefiderocol — ¿cómo entra en la bacteria?",a:"<b>Caballo de Troya sideróforo</b>: se disfraza de hierro y la bacteria lo capta con sus transportadores de hierro.<ul><li>Entra <b>aunque las porinas estén cerradas</b>. Va en solitario.</li></ul>"},
+  {deck:"mecanismos",tag:"Mecanismo",q:"¿Por qué el aztreonam frente a MBL no se da solo?",a:"Escapa de las tijeras de zinc, pero las MBL casi siempre <b>coproducen serina</b> que sí cortaría el aztreonam.<ul><li>Por eso + avibactam (atasca la serina) → CAZ-AVI + aztreonam o aztreonam-avibactam.</li></ul>"},
+  {deck:"mecanismos",tag:"Mecanismo",q:"Serina vs zinc: ¿cómo se vence cada familia?",a:"<b>Serina (A/C/D)</b>: β-lactámico + inhibidor (avibactam…).<br><b>Zinc/metalo (B)</b>: sin inhibidor → aztreonam (se le escapa) o cefiderocol."},
+  // perlas
+  {deck:"perlas",tag:"Perla",q:"MERINO trial — ¿qué demostró?",a:"Pip-tazo vs meropenem en BLEE: mortalidad 30 d <b>12% vs 4%</b>.<ul><li>La sensibilidad a pip-tazo <b>no predice éxito</b> → usar carbapenémico.</li></ul>"},
+  {deck:"perlas",tag:"Perla",q:"¿Por qué evitar ertapenem en crítico/hipoalbuminemia (&lt;2,5)?",a:"Muy unido a proteínas → ↑aclaramiento → vida media acortada.<ul><li>Usar <b>meropenem o imipenem</b>.</li></ul>"},
+  {deck:"perlas",tag:"Perla",q:"BLEE cistitis no complicada — ¿elección?",a:"<b>Nitrofurantoína</b> o <b>TMP-SMX</b>.<ul><li>Fosfomicina oral solo en <i>E. coli</i>; dosis única peor que nitrofurantoína 5 d.</li><li>Preservar FQ y carbapenémicos.</li></ul>"},
+  {deck:"perlas",tag:"Perla",q:"AmpC alto riesgo de inducción — ¿qué bacterias?",a:"<b>Enterobacter cloacae, Klebsiella aerogenes, Citrobacter freundii</b> (~20%).<ul><li>Evitar 3.ª gen aunque sea sensible. Bajo riesgo: Serratia, Morganella, Providencia.</li></ul>"},
+  {deck:"perlas",tag:"Perla",q:"Fármacos que fallan en BLEE pese a testar S",a:"Pip-tazo, cefepime, cefamicinas, amox-clav.<ul><li>Recurrencia por colonización vaginal persistente (amox-clav).</li></ul>"},
+  // ---- Sección 3: CRE ----
+  {deck:"cre",tag:"Perla",q:`¿Toda CRE produce carbapenemasa? ¿Qué hay que solicitar siempre?`,a:`<b>No</b>. En EE.UU. solo ~<b>35%</b> de las CRE producen una carbapenemasa identificable.<ul><li>El resto son R por <b>pérdida de porinas + sobreproducción de BLEE/AmpC</b></li><li>La conducta cambia según se identifique o no la enzima → <b>solicitar SIEMPRE test de carbapenemasa</b> (PCR o antígeno)</li></ul>`},
+  {deck:"cre",tag:"CRE",q:`CRE SIN carbapenemasa, CMI meropenem/imipenem ≤1 µg/mL pero ertapenem R (fuera de orina). ¿Tratamiento?`,a:`<b>Meropenem en infusión extendida</b> (o imipenem).<ul><li><b>NO</b> hace falta vaborbactam ni relebactam</li><li>El mecanismo es pérdida de porinas + BLEE/AmpC, no carbapenemasa</li></ul>`},
+  {deck:"cre",tag:"CRE",q:`CRE SIN carbapenemasa pero R a TODOS los carbapenémicos (fuera de orina). ¿Tratamiento?`,a:`Tratar <b>como si fuera carbapenemasa</b>: <b>CAZ-AVI, MVB o IMI-REL</b>.`},
+  {deck:"cre",tag:"KPC",q:`CRE productora de KPC (extra-urinaria). ¿Jerarquía de elección y por qué se prefiere MVB?`,a:`Preferidos: <b>MVB > CAZ-AVI > IMI-REL</b>; cefiderocol como alternativa.<ul><li>MVB ligeramente favorecido: <b>menor riesgo de emergencia de resistencia</b> que CAZ-AVI (mutaciones <i>KPC-2→KPC-31</i> documentadas con CAZ-AVI)</li><li>Más datos clínicos que IMI-REL</li></ul>`},
+  {deck:"cre",tag:"Trampa",q:`TRAMPA OXA-48: CRE productora de OXA-48 con antibiograma que informa MVB/IMI-REL "sensible". ¿Se pueden usar?`,a:`<b>NO</b>. CAZ-AVI es el preferido (cefiderocol alternativa).<ul><li><b>Vaborbactam y relebactam NO inhiben OXA-48</b></li><li>La "sensibilidad" del antibiograma puede deberse al <b>carbapenémico base, no al inhibidor</b></li></ul>`},
+  {deck:"cre",tag:"MBL",q:`CRE productora de MBL (NDM/VIM/IMP) extra-urinaria. ¿Tratamiento preferido y lógica del combo?`,a:`Preferidos: <b>CAZ-AVI + aztreonam</b> (o aztreonam-avibactam) <b>o cefiderocol</b>.<ul><li>El <b>aztreonam (monobactam) escapa de la MBL</b></li><li>Pero la bacteria coproduce serina-β-lactamasas que sí cortan el aztreonam → se añade <b>avibactam para atascar la serina</b></li><li>Mortalidad 30 d CAZ-AVI+aztreonam <b>19-22%</b> vs colistina ~44-50%</li></ul>`},
+  {deck:"cre",tag:"Trampa",q:`TRAMPA: ¿En qué localizaciones NO sirven tigeciclina/eravaciclina para KPC/OXA-48?`,a:`Son alternativas para KPC/OXA-48 <b>SOLO fuera de bacteriemia y orina</b>.<ul><li><b>No alcanzan concentraciones útiles en sangre ni en orina</b></li></ul>`},
+  {deck:"cre",tag:"Perla",q:`Para CRE: ¿qué postura tiene la IDSA sobre polimixinas/aminoglucósidos y sobre la terapia combinada?`,a:`<ul><li>Polimixinas y aminoglucósidos: la IDSA <b>DESACONSEJA</b> su uso rutinario (mayor mortalidad y nefrotoxicidad frente a los nuevos BLBLI)</li><li>Terapia combinada: <b>NO añadir un 2º agente</b> (aminoglucósido/FQ/polimixina) al BLBLI activo — no mejora resultados y aumenta toxicidad</li></ul>`},
+  {deck:"cre",tag:"CRE",q:`¿En qué se diferencia el manejo de la CRE en infección urinaria respecto a la extra-urinaria?`,a:`Todo el algoritmo por enzima del material es <b>para infección extra-urinaria</b>.<ul><li>En <b>orina</b> hay más opciones "baratas" disponibles porque muchos agentes se concentran en vía urinaria</li><li><b>Tigeciclina/eravaciclina y polimixinas NO sirven en orina</b> (no alcanzan concentración útil) — al contrario que en otros sitios</li><li>Por eso siempre hay que precisar el <b>foco</b> antes de aplicar la jerarquía MVB/CAZ-AVI/IMI-REL</li></ul>`},
+  // ---- Sección 4: P. aeruginosa DTR ----
+  {deck:"pseudomonas",tag:"DTR-PA",q:`¿Qué define la resistencia difícil de tratar (DTR) en P. aeruginosa?`,a:`<b>No sensible a TODOS los β-lactámicos de primera línea</b> (incluidos carbapenémicos y combinaciones BLBLI clásicas) <b>Y</b> a todas las fluoroquinolonas.<ul><li>Más restrictiva y útil que la antigua MDR (≥3 clases) porque identifica el subgrupo con opciones realmente limitadas.</li></ul>`},
+  {deck:"pseudomonas",tag:"DTR-PA",q:`¿Por qué la definición DTR es más útil que la antigua MDR, y qué incluye como "β-lactámicos de primera línea"?`,a:`<b>MDR</b> = no sensible a ≥3 clases (demasiado amplia, agrupa cepas con muchas opciones).<br><b>DTR</b> = no sensible a <b>TODOS</b> los β-lactámicos de 1ª línea <b>Y</b> a todas las fluoroquinolonas → aísla el subgrupo con opciones realmente limitadas.<ul><li>β-lactámicos de 1ª línea incluidos: <b>piperacilina-tazobactam, ceftazidima, cefepima, aztreonam, meropenem e imipenem</b></li><li>Por eso la DTR obliga a recurrir a los nuevos BLBLI (C/T, CAZ-AVI, IMI-REL) o cefiderocol</li></ul>`},
+  {deck:"pseudomonas",tag:"Mecanismo",q:`¿Cuál es el mecanismo predominante de DTR en P. aeruginosa en EE.UU./Europa?`,a:`<b>NO suele ser carbapenemasa</b>, sino acumulación de mecanismos cromosómicos:<ul><li>Pérdida de la porina <i>OprD</i></li><li>Sobreexpresión de bombas de eflujo <i>MexAB-OprM / MexXY</i></li><li><i>AmpC</i> desreprimida</li></ul>Las carbapenemasas (VIM, GES, KPC) son más frecuentes en Latinoamérica/Asia.`},
+  {deck:"pseudomonas",tag:"DTR-PA",q:`Tratamiento de elección para cistitis e ITU (pielonefritis/ITUc) por DTR-PA.`,a:`<b>C/T (ceftolozano-tazobactam), CAZ-AVI, IMI-REL o cefiderocol</b> (sin preferencia entre ellos en ITU).<ul><li>Alternativa: <b>tobramicina o amikacina en dosis única</b> (cistitis) o en pauta (pielo/ITUc).</li><li>La nefrotoxicidad de aminoglucósidos es <i>duración-dependiente</i>.</li></ul>`},
+  {deck:"pseudomonas",tag:"DTR-PA",q:`Infección extra-urinaria por DTR-PA: ¿qué fármacos se prefieren?`,a:`Preferidos: <b>C/T, CAZ-AVI e IMI-REL</b>.<ul><li><i>Cefiderocol</i> queda como alternativa en infección extra-urinaria.</li></ul>`},
+  {deck:"pseudomonas",tag:"Perla",q:`DTR-PA con un BLBLI que testa sensible: ¿hay que añadir tobramicina o polimixina de rutina?`,a:`<b>No.</b> La monoterapia con el β-lactámico activo es suficiente.<ul><li>Añadir tobramicina/polimixina de rutina <b>no aporta beneficio y aumenta la toxicidad</b>.</li></ul>`},
+  {deck:"pseudomonas",tag:"Perla",q:`DTR-PA cuando NINGÚN β-lactámico testa sensible: ¿cómo se elige el tratamiento?`,a:`Elegir el <b>BLBLI con la CMI más cercana al punto de corte + tobramicina</b> (si es sensible).<ul><li>Si tobra es R → <b>polimixina B</b> (preferida sobre colistina fuera de orina por PK más predecible).</li></ul>`},
+  {deck:"pseudomonas",tag:"Trampa",q:`DTR-PA con metalo-β-lactamasa (MBL, p. ej. VIM): ¿qué fármacos NO sirven y cuál se prefiere?`,a:`<b>C/T e IMI-REL NO sirven frente a MBL.</b><ul><li>Preferido: <b>cefiderocol</b> (no afectado por MBL).</li><li>Alternativa: <b>CAZ-AVI + aztreonam</b>.</li></ul>`},
+  {deck:"pseudomonas",tag:"Trampa",q:`Enzimas GES (frecuentes en España): ¿qué fármaco pierde actividad y cuál se mantiene?`,a:`<b>IMI-REL pierde actividad frente a GES.</b><ul><li><b>CAZ-AVI</b> mantiene mayor % de sensibilidad.</li><li>Si ambos fallan → <b>cefiderocol</b>.</li></ul>`},
+  {deck:"pseudomonas",tag:"Perla",q:`C/T vs CAZ-AVI en DTR/MDR-PA: ¿qué dice el estudio CACTUS y cuándo se prefiere C/T?`,a:`El estudio <b>CACTUS (Lancet ID 2025)</b> no halló diferencias significativas para MDR-PA.<ul><li><b>C/T se prefiere ligeramente en neumonía</b> por su mejor penetración pulmonar.</li></ul>`},
+  // ---- Sección 5: CRAB ----
+  {deck:"crab",tag:"CRAB",q:`Principio rector del tratamiento de CRAB (A. baumannii resistente a carbapenémicos)`,a:`<ul><li><b>Siempre terapia combinada (≥2 agentes)</b>, al menos hasta la respuesta clínica</li><li>Al menos uno debe ser <b>basado en sulbactam</b></li><li><i>A. baumannii</i> es intrínsecamente R a la mayoría de antibióticos</li></ul>`},
+  {deck:"crab",tag:"Mecanismo",q:`¿Por qué el sulbactam es activo frente a CRAB? (no actúa como inhibidor de β-lactamasa)`,a:`Tiene <b>actividad antibacteriana directa</b> por <b>afinidad a las PBP</b> de <i>A. baumannii</i>.<ul><li>No actúa aquí como inhibidor de β-lactamasa, sino como agente con diana propia</li></ul>`},
+  {deck:"crab",tag:"CRAB",q:`Esquema PREFERIDO para CRAB y dato del ensayo fase 3`,a:`<b>Sulbactam-durlobactam + un carbapenémico</b> (imipenem-cilastatina o meropenem).<ul><li>Ensayo fase 3 <b>ATTACK</b>: no inferioridad frente a colistina con <b>menor nefrotoxicidad</b></li><li>El carbapenémico se añade por <i>sinergia</i> (modelo de fibra hueca)</li></ul>`},
+  {deck:"crab",tag:"CRAB",q:`En el esquema preferido, ¿por qué se añade un carbapenémico si A. baumannii es resistente a carbapenémicos?`,a:`Se añade <b>por sinergia</b>, no por actividad propia.<ul><li>El <i>durlobactam</i> restaura/potencia la actividad: en modelos de <b>fibra hueca</b> la combinación es sinérgica frente a CRAB</li><li>El carbapenémico acompaña al sulbactam-durlobactam, que es el componente con actividad real</li><li>Ensayo <b>ATTACK</b>: no inferior a colistina con menor nefrotoxicidad</li></ul>`},
+  {deck:"crab",tag:"Trampa",q:`TRAMPA: ¿qué hacer si hay resistencia a sulbactam-durlobactam (CMI ≥16/4)?`,a:`<b>Cambiar a una combinación NO basada en sulbactam.</b><ul><li>La resistencia se debe a <b>MBL (NDM)</b> o a <b>mutaciones de PBP3</b></li><li>Umbral: <b>CMI ≥16/4</b></li></ul>`},
+  {deck:"crab",tag:"CRAB",q:`Esquema ALTERNATIVO si no se dispone de sulbactam-durlobactam`,a:`<b>Ampicilina-sulbactam a dosis altas (9 g/día de sulbactam) + ≥1 agente adicional.</b><ul><li>Polimixina B (preferida sobre colistina fuera de orina)</li><li>Minociclina (preferida sobre tigeciclina por mejor perfil)</li><li>Tigeciclina (solo intraabdominal/partes blandas)</li><li>Cefiderocol (con cautela)</li></ul>`},
+  {deck:"crab",tag:"Trampa",q:`En CRAB con ampicilina-sulbactam, ¿basta la dosis habitual de sulbactam? ¿Cuál es la correcta y por qué?`,a:`<b>No.</b> Se requiere <b>sulbactam a dosis altas: 9 g/día</b> (frente a dosis convencionales, mucho menores).<ul><li>El sulbactam actúa por <b>actividad directa sobre las PBP</b>, no como inhibidor; saturar la diana exige dosis altas</li><li>Es un error de alto rendimiento dosificar "a dosis estándar" en CRAB</li><li>La dosis alta es la columna vertebral del esquema alternativo y de la pauta española (+ colistina/polimixina B, ECIL-10)</li></ul>`},
+  {deck:"crab",tag:"Trampa",q:`TRAMPA: cefiderocol en CRAB — señal de alarma del ensayo CREDIBLE-CR`,a:`Mortalidad numéricamente <b>mayor con cefiderocol vs mejor terapia disponible</b> en el subgrupo <i>Acinetobacter</i>: <b>49% vs 18%</b> (sobre todo neumonía y bacteriemia).<ul><li>IDSA: cefiderocol en CRAB <b>solo como último recurso</b>, siempre en combinación y tras agotar otras opciones</li></ul>`},
+  {deck:"crab",tag:"Trampa",q:`TRAMPA: ¿cuándo NO usar tigeciclina en CRAB?`,a:`<ul><li>Evitar en <b>bacteriemia, neumonía y orina</b></li><li>Solo en <b>infección intraabdominal / partes blandas</b></li><li>Evitar si <b>CMI >2</b></li><li>Minociclina es <b>preferida</b> sobre tigeciclina (mejor perfil)</li></ul>`},
+  {deck:"crab",tag:"Perla",q:`España: ¿cuál es la columna vertebral del tratamiento de CRAB?`,a:`Como sulbactam-durlobactam puede no estar comercializado:<ul><li><b>Ampicilina-sulbactam a dosis altas (9 g/día de sulbactam) + colistina (o polimixina B)</b></li><li>Combinación respaldada por <b>ECIL-10</b></li></ul>`},
+  // ---- Sección 6: S. maltophilia ----
+  {deck:"steno",tag:"Mecanismo",q:`¿Qué dos β-lactamasas cromosómicas produce S. maltophilia y qué hidroliza cada una?`,a:`Dos enzimas cromosómicas:<ul><li><b>L1</b>: metalo-β-lactamasa (clase B) → hidroliza <b>carbapenémicos</b></li><li><b>L2</b>: serina-β-lactamasa (clase A) → hidroliza <b>cefalosporinas</b></li></ul>Por eso es intrínsecamente <b>R a carbapenémicos y a la mayoría de cefalosporinas</b>.`},
+  {deck:"steno",tag:"Perla",q:`¿Por qué funciona la combinación CAZ-AVI + aztreonam contra S. maltophilia?`,a:`Ataca las dos enzimas a la vez:<ul><li>El <b>aztreonam</b> (monobactam) escapa de la <i>metalo-β-lactamasa L1</i></li><li>El <b>avibactam</b> atasca la <i>serina-β-lactamasa L2</i></li></ul>Actividad in vitro excelente: <b>99,6% inhibidas a ≤8 µg/mL</b>, aunque los datos clínicos son limitados.`},
+  {deck:"steno",tag:"S. malto",q:`Antes de tratar un aislamiento de S. maltophilia, ¿cuál es el primer paso obligado?`,a:`Distinguir <b>colonización vs. infección verdadera</b>.<ul><li>La mayoría de aislamientos = <b>colonización</b></li><li><b>NO tratar</b> sin evidencia de infección verdadera</li></ul>`},
+  {deck:"steno",tag:"S. malto",q:`Según IDSA 2024, ¿cuál es el orden de preferencia de agentes para la combinación de ≥2 fármacos en S. maltophilia?`,a:`Combinar <b>≥2 agentes</b> de la lista (orden IDSA):<ul><li><b>Cefiderocol</b> (R global ~4%; el más activo in vitro y en modelos animales)</li><li><b>Minociclina</b> (R global ~3%; bacteriostática, buena actividad clínica)</li><li><b>TMP-SMX</b> (pilar clásico; S ~97%)</li><li><b>Levofloxacino</b> (S ~79%)</li></ul>Alternativa equivalente: <b>CAZ-AVI + aztreonam</b>.`},
+  {deck:"steno",tag:"S. malto",q:`En S. maltophilia, ¿IDSA recomienda monoterapia o combinación, y en qué pacientes se demostró el beneficio?`,a:`Abordaje 1: <b>combinación de ≥2 agentes activos</b> (cefiderocol, minociclina, TMP-SMX, levofloxacino).<ul><li>Beneficio claro de la combinación sobre la monoterapia <b>solo en inmunodeprimidos y pacientes críticos</b> (estudio de 307 pacientes con neumonía)</li><li>Abordaje 2 equivalente: <b>CAZ-AVI + aztreonam</b> (cubre L1 y L2)</li></ul>`},
+  {deck:"steno",tag:"Trampa",q:`Trampa de alto rendimiento: ¿es TMP-SMX bactericida contra S. maltophilia?`,a:`<b>NO. TMP-SMX no es bactericida</b> en S. maltophilia.<ul><li>Sensibilidad ~97%, pero los datos <i>PK/PD</i> cuestionan su capacidad bactericida — a lo sumo <b>bacteriostasis</b></li><li>Ya <b>NO es el rey indiscutible</b></li><li>En modelo animal: cefiderocol logró <b>erradicación completa</b> vs solo reducción parcial con TMP-SMX (supervivencia <b>87% vs 25%</b>)</li></ul>`},
+  {deck:"steno",tag:"Perla",q:`¿En qué pacientes la combinación supera a la monoterapia en S. maltophilia?`,a:`<b>Combinación > monoterapia</b> en:<ul><li><b>Inmunodeprimidos</b></li><li><b>Pacientes graves / críticos</b></li></ul>Un estudio de <b>307 pacientes con neumonía</b> mostró beneficio <i>solo</i> en inmunodeprimidos y críticos.`},
+  {deck:"steno",tag:"Trampa",q:`¿Cuándo baja la fiabilidad del levofloxacino en S. maltophilia?`,a:`Si el paciente recibió <b>profilaxis con fluoroquinolonas</b>, la fiabilidad del levofloxacino baja por <b>riesgo de resistencia adquirida</b>.<ul><li>Sensibilidad basal ~79%</li><li>Algunos observacionales sugieren resultados similares/superiores a TMP-SMX en neumonía</li></ul>`},
+  {deck:"steno",tag:"S. malto",q:`¿Qué es aztreonam-avibactam (Emblaveo®) y qué cobertura tiene en S. maltophilia?`,a:`Combinación aprobada por <b>FDA (2025) y EMA</b>.<ul><li>Actividad potente contra S. maltophilia <b>incluso en cepas R a TMP-SMX, minociclina y levofloxacino</b></li><li><b>99-100% inhibidas</b> — opción de rescate cuando fallan los pilares clásicos</li></ul>`},
+  {deck:"steno",tag:"Dosis",q:`¿Cuál es la dosis de TMP-SMX en S. maltophilia (ECIL-10)?`,a:`<b>8-12 mg/kg/día</b> del componente <b>trimetoprim</b> (ECIL-10).`}
+];
+
+/* matrix: enzima, clase, [viejos, avi, vabo, rele, durlo] -> 'y'/'n' */
+const MATRIX = [
+  {e:"BLEE", c:"A serina", cls:"ser", v:["y","y","y","y","y"]},
+  {e:"AmpC", c:"C serina", cls:"ser", v:["n","y","y","y","y"]},
+  {e:"KPC", c:"A serina", cls:"ser", v:["n","y","y","y","y"]},
+  {e:"OXA-48", c:"D serina", cls:"ser", v:["n","y","n","n","y"]},
+  {e:"OXA Acinetobacter", c:"D serina", cls:"ser", v:["n","n","n","n","y"]},
+  {e:"MBL (NDM/VIM/IMP)", c:"B zinc", cls:"zin", v:["n","n","n","n","n"]}
+];
+
+const QUIZ = [
+  {q:"Paciente con bacteriemia por Enterobacter cloacae sensible a ceftriaxona in vitro. ¿Conducta?",
+   o:["Ceftriaxona, es sensible","Cefepime en infusión extendida","Piperacilina-tazobactam","Amoxicilina-clavulánico"],
+   c:1,e:"AmpC inducible de <b>alto riesgo</b> (~20%): la 3.ª gen testa S pero se hace R durante el tratamiento. Elección = cefepime (mal inductor y estable)."},
+  {q:"¿Cuál es el único inhibidor de los listados que NO frena las MBL (NDM/VIM/IMP)?",
+   o:["Avibactam","Vaborbactam","Todos: ningún inhibidor frena las MBL","Durlobactam"],
+   c:2,e:"La fila MBL está entera en 'No': el zinc no admite inhibidor. Salida → aztreonam (+avibactam) o cefiderocol."},
+  {q:"BLEE en cistitis no complicada. ¿Mejor opción de las siguientes?",
+   o:["Meropenem","Ciprofloxacino","Nitrofurantoína","Ceftriaxona"],
+   c:2,e:"Nitrofurantoína o TMP-SMX. Se preservan FQ y carbapenémicos para infecciones más graves."},
+  {q:"OXA-48 productora. ¿Qué BLBLI es de elección?",
+   o:["Meropenem-vaborbactam","Imipenem-relebactam","Ceftazidima-avibactam","Piperacilina-tazobactam"],
+   c:2,e:"CAZ-AVI cubre OXA-48 (avibactam frena clase D). Vaborbactam y relebactam NO sirven para OXA-48."},
+  {q:"¿Qué demostró el MERINO trial en bacteriemia por BLEE?",
+   o:["Pip-tazo no inferior a meropenem","Mayor mortalidad con pip-tazo (12% vs 4%)","Cefepime equivalente a carbapenémico","Fosfomicina superior a nitrofurantoína"],
+   c:1,e:"Pip-tazo 12% vs meropenem 4% de mortalidad a 30 d → la sensibilidad a pip-tazo no predice éxito clínico."},
+  {q:"Cefiderocol entra en la bacteria porque...",
+   o:["Inhibe la pared con avibactam","Se disfraza de hierro y usa los transportadores de Fe (sideróforo)","Bloquea el zinc de las MBL","Induce porinas"],
+   c:1,e:"Caballo de Troya sideróforo: entra aunque las porinas estén cerradas y va en solitario."},
+  {q:"¿Por qué el aztreonam frente a MBL se combina con avibactam?",
+   o:["Porque el avibactam frena el zinc","Porque las MBL coproducen serina que cortaría el aztreonam","Para reducir dosis","Porque el aztreonam induce AmpC"],
+   c:1,e:"El aztreonam escapa al zinc, pero las cepas MBL coproducen β-lactamasas de serina; el avibactam las atasca y deja paso libre al aztreonam."},
+  {q:"Crítico con hipoalbuminemia (<2,5 g/dL) y BLEE extra-urinaria. ¿Qué carbapenémico evitar?",
+   o:["Meropenem","Imipenem","Ertapenem","Ninguno"],
+   c:2,e:"Ertapenem está muy unido a proteínas → en hipoalbuminemia ↑aclaramiento y vida media corta. Usar meropenem o imipenem."},
+  {q:"La KPC es...",
+   o:["Una cefalosporina de 5.ª gen","Una enzima serina clase A que hidroliza carbapenémicos","Una metalo-β-lactamasa","Un inhibidor de β-lactamasas"],
+   c:1,e:"Klebsiella pneumoniae Carbapenemase: enzima (no fármaco), serina, clase A de Ambler."},
+  {q:"Cefepime con CMI 4–8 (sensible dosis-dependiente) en presunto AmpC. ¿Qué sospechar?",
+   o:["Que basta subir la dosis de cefepime","BLEE coproducida → carbapenémico","Contaminación de la muestra","MBL oculta"],
+   c:1,e:"CMI 4–8 de cefepime sugiere BLEE coproducida → pasar a carbapenémico."},
+  {q:"En España, P. aeruginosa con enzimas GES. ¿Qué pierde actividad?",
+   o:["Ceftazidima-avibactam","Imipenem-relebactam","Cefiderocol","Aztreonam-avibactam"],
+   c:1,e:"Con GES (frecuentes en España) imi-relebactam pierde actividad → CAZ-AVI mantiene mayor % de sensibilidad."},
+  {q:"¿Qué hace el clavulánico frente al AmpC?",
+   o:["Lo inhibe potentemente","No lo inhibe y además lo INDUCE","Lo inhibe solo a dosis altas","Lo transforma en BLEE"],
+   c:1,e:"El clavulánico no inhibe el AmpC e induce su producción → contraproducente."},
+  {q:"CRAB por OXA de Acinetobacter. Esquema de elección (IDSA):",
+   o:["Cefiderocol en monoterapia","Sulbactam-durlobactam + carbapenémico","Ceftazidima-avibactam","Meropenem-vaborbactam"],
+   c:1,e:"Sulbactam-durlobactam + carbapenémico. En España (no comercializado): amp-sulbactam 9 g sulbactam/día + 2.º agente."},
+  {q:"Avibactam cubre todas EXCEPTO:",
+   o:["BLEE","AmpC","OXA-48","MBL (zinc)"],
+   c:3,e:"Avibactam = comodín de la serina (A, C, D). No toca el zinc/MBL."},
+  // ---- CRE ----
+  {q:`Hemocultivo: Klebsiella pneumoniae carbapenem-resistente. La PCR de carbapenemasas detecta KPC. ¿Tratamiento preferido (IDSA)?`,
+   o:[`Ceftazidima-avibactam (CAZ-AVI)`,`Meropenem-vaborbactam (MVB)`,`Imipenem-relebactam (IMI-REL)`,`Colistina + aminoglucósido`],
+   c:1,e:`En CRE-<b>KPC</b> la jerarquía es <b>MVB > CAZ-AVI > IMI-REL</b>. Se favorece MVB por <b>menor riesgo de emergencia de resistencia</b> que CAZ-AVI (mutaciones <i>KPC-2→KPC-31</i>) y más datos clínicos que IMI-REL.`},
+  {q:`CRE productora de OXA-48. El antibiograma informa meropenem-vaborbactam como "sensible". ¿Qué es lo correcto?`,
+   o:[`Usar MVB porque el antibiograma lo informa sensible`,`Usar CAZ-AVI; MVB no es fiable porque vaborbactam no inhibe OXA-48`,`Usar imipenem-relebactam de elección`,`Añadir colistina a MVB para asegurar cobertura`],
+   c:1,e:`En <b>OXA-48</b> el preferido es <b>CAZ-AVI</b> (cefiderocol alternativa). <b>Vaborbactam y relebactam NO inhiben OXA-48</b>: una "S" en el antibiograma puede deberse al carbapenémico base, no al inhibidor.`},
+  {q:`Bacteriemia por Enterobacterales con NDM (metalo-β-lactamasa). ¿Opción preferida y fundamento?`,
+   o:[`CAZ-AVI en monoterapia, porque avibactam inhibe la NDM`,`CAZ-AVI + aztreonam: el aztreonam escapa de la MBL y el avibactam bloquea las serina-β-lactamasas coproducidas`,`Meropenem en infusión extendida`,`Colistina, por su menor mortalidad documentada`],
+   c:1,e:`En <b>MBL (NDM/VIM/IMP)</b> los preferidos son <b>CAZ-AVI + aztreonam</b> (o aztreonam-avibactam) o cefiderocol. El <b>aztreonam escapa de la MBL</b>, pero la bacteria coproduce serina-β-lactamasas que lo cortan → se añade <b>avibactam</b>. Mortalidad 30 d 19-22% vs colistina ~44-50%.`},
+  {q:`CRE extra-urinaria, SIN carbapenemasa, CMI meropenem e imipenem ≤1 µg/mL aunque ertapenem es R. ¿Conducta?`,
+   o:[`Meropenem en infusión extendida (o imipenem); no hace falta vaborbactam/relebactam`,`Ceftazidima-avibactam de elección`,`Meropenem-vaborbactam obligatorio`,`Cefiderocol de elección`],
+   c:0,e:`Si <b>no hay carbapenemasa</b> y la CMI de meropenem/imipenem es <b>≤1 µg/mL</b> (aunque ertapenem sea R), basta <b>meropenem en infusión extendida</b> (o imipenem). El mecanismo es pérdida de porinas + BLEE/AmpC.`},
+  {q:`CRE-KPC con BLBLI activo (CAZ-AVI). Un compañero propone añadir un aminoglucósido para "reforzar". ¿Qué dice la IDSA?`,
+   o:[`Añadir siempre un 2º agente mejora la supervivencia`,`No recomienda añadir un 2º agente al BLBLI activo: no mejora resultados y aumenta toxicidad`,`Sustituir el BLBLI por colistina + tigeciclina`,`Añadir una fluoroquinolona es preferible al aminoglucósido`],
+   c:1,e:`La IDSA <b>NO recomienda</b> añadir un 2º agente (aminoglucósido/FQ/polimixina) a un BLBLI activo: <b>no mejora resultados y aumenta la toxicidad</b>. Además desaconseja polimixinas/aminoglucósidos de rutina.`},
+  // ---- DTR-PA ----
+  {q:`Neumonía por P. aeruginosa DTR. El antibiograma muestra S a ceftolozano-tazobactam (C/T) y a ceftazidima-avibactam (CAZ-AVI). ¿Opción más adecuada?`,
+   o:[`CAZ-AVI, por mejor penetración pulmonar`,`C/T, por mejor penetración pulmonar`,`C/T + tobramicina de rutina para ampliar cobertura`,`Cefiderocol como primera elección en neumonía`],
+   c:1,e:`El estudio <b>CACTUS (Lancet ID 2025)</b> no mostró diferencias significativas entre C/T y CAZ-AVI para MDR-PA, pero <b>C/T se prefiere ligeramente en neumonía por su mejor penetración pulmonar</b>. No se añade tobramicina de rutina si el BLBLI testa S.`},
+  {q:`P. aeruginosa DTR portadora de una metalo-β-lactamasa (VIM). ¿Tratamiento preferido?`,
+   o:[`Ceftolozano-tazobactam (C/T)`,`Imipenem-relebactam (IMI-REL)`,`Cefiderocol`,`Ceftazidima-avibactam en monoterapia`],
+   c:2,e:`Frente a una <b>MBL (VIM), C/T e IMI-REL NO sirven</b>. El preferido es el <b>cefiderocol</b> (no afectado por MBL); la alternativa es <b>CAZ-AVI + aztreonam</b>.`},
+  {q:`P. aeruginosa DTR con enzima GES (frecuente en España). Si solo hay imipenem-relebactam y ceftazidima-avibactam, ¿qué se espera?`,
+   o:[`IMI-REL mantiene actividad; CAZ-AVI la pierde`,`IMI-REL pierde actividad; CAZ-AVI mantiene mayor % de sensibilidad`,`Ambos pierden actividad y solo sirve tobramicina`,`Ambos mantienen plena actividad indistintamente`],
+   c:1,e:`Con enzimas <b>GES</b>, <b>IMI-REL pierde actividad</b> mientras que <b>CAZ-AVI mantiene mayor porcentaje de sensibilidad</b>. Si ambos fallan, se recurre a <b>cefiderocol</b>.`},
+  {q:`P. aeruginosa DTR en la que NINGÚN β-lactámico testa sensible. ¿Estrategia correcta?`,
+   o:[`Colistina en monoterapia, preferida sobre polimixina B`,`BLBLI con CMI más cercana al punto de corte + tobramicina si es sensible; si tobra R, polimixina B`,`Doble β-lactámico a dosis máximas`,`Tobramicina en monoterapia siempre`],
+   c:1,e:`Si ningún β-lactámico testa sensible: elegir el <b>BLBLI con la CMI más cercana al punto de corte + tobramicina</b> (si S). Si tobra es R, <b>polimixina B</b> (preferida sobre colistina fuera de orina).`},
+  {q:`En EE.UU./Europa, ¿cuál es el mecanismo predominante de la resistencia DTR en P. aeruginosa?`,
+   o:[`Carbapenemasa tipo KPC en la mayoría de casos`,`Acumulación de mecanismos cromosómicos (pérdida de OprD, eflujo MexAB-OprM/MexXY, AmpC desreprimida)`,`Producción exclusiva de metalo-β-lactamasas`,`Mutación única en una sola diana de fluoroquinolona`],
+   c:1,e:`En EE.UU./Europa la DTR <b>no suele deberse a carbapenemasa</b>, sino a la <b>acumulación de mecanismos cromosómicos</b>: pérdida de <i>OprD</i>, eflujo <i>MexAB-OprM/MexXY</i> y <i>AmpC</i> desreprimida. Las carbapenemasas predominan en Latinoamérica/Asia.`},
+  // ---- CRAB ----
+  {q:`UCI: neumonía por A. baumannii resistente a carbapenémicos (CRAB). Sulbactam-durlobactam disponible y el aislado es sensible. ¿Esquema PREFERIDO (IDSA 2024)?`,
+   o:[`Cefiderocol en monoterapia`,`Sulbactam-durlobactam + un carbapenémico (imipenem o meropenem)`,`Colistina en monoterapia`,`Tigeciclina + amikacina`],
+   c:1,e:`El preferido es <b>sulbactam-durlobactam + un carbapenémico</b>, añadido por sinergia. El ensayo fase 3 <b>ATTACK</b> demostró no inferioridad frente a colistina con menor nefrotoxicidad. En CRAB <i>siempre</i> combinación con ≥1 agente basado en sulbactam.`},
+  {q:`En CRAB con ampicilina-sulbactam, ¿por qué mecanismo es útil el sulbactam frente a A. baumannii?`,
+   o:[`Inhibe las β-lactamasas tipo OXA del microorganismo`,`Bloquea las bombas de eflujo`,`Tiene actividad antibacteriana directa por afinidad a las PBP`,`Quela el hierro necesario para el crecimiento bacteriano`],
+   c:2,e:`El sulbactam tiene <b>actividad antibacteriana directa</b> por su <b>afinidad a las PBP</b>, no como inhibidor de β-lactamasa. Por eso se usa a dosis altas (9 g/día) como columna vertebral.`},
+  {q:`Bacteriemia por CRAB. El microbiólogo informa CMI a sulbactam-durlobactam de 16/4 mg/L. ¿Conducta correcta?`,
+   o:[`Mantener sulbactam-durlobactam y subir la dosis del carbapenémico`,`Cambiar a una combinación NO basada en sulbactam`,`Añadir tigeciclina al esquema de sulbactam-durlobactam`,`Pasar a monoterapia con cefiderocol`],
+   c:1,e:`Con <b>CMI ≥16/4</b> hay resistencia a sulbactam-durlobactam (por <i>MBL/NDM</i> o mutaciones de <b>PBP3</b>) → <b>cambiar a una combinación no basada en sulbactam</b>.`},
+  {q:`Cefiderocol en infecciones por CRAB: ¿qué afirmación es correcta según CREDIBLE-CR e IDSA?`,
+   o:[`Es el fármaco de primera elección por su penetración celular`,`Mostró menor mortalidad que la mejor terapia disponible`,`Mostró mayor mortalidad (49% vs 18%) en el subgrupo Acinetobacter; reservar como último recurso y en combinación`,`Es de elección en neumonía por CRAB en monoterapia`],
+   c:2,e:`En CREDIBLE-CR el cefiderocol mostró mortalidad numéricamente <b>mayor</b> en el subgrupo <i>Acinetobacter</i> (<b>49% vs 18%</b>), sobre todo neumonía y bacteriemia. IDSA lo reserva <b>solo como último recurso</b>, en combinación.`},
+  {q:`En España, donde sulbactam-durlobactam puede no estar comercializado, ¿combinación de referencia para CRAB (ECIL-10)?`,
+   o:[`Tigeciclina + cefiderocol`,`Ampicilina-sulbactam a dosis altas (9 g/día de sulbactam) + colistina o polimixina B`,`Meropenem en monoterapia a dosis altas`,`Minociclina + tigeciclina`],
+   c:1,e:`La columna vertebral en España es <b>ampicilina-sulbactam a dosis altas (9 g/día de sulbactam) + colistina (o polimixina B)</b>, respaldada por <b>ECIL-10</b>.`},
+  // ---- S. maltophilia ----
+  {q:`Mujer de 64 años, neutropénica por LMA, en UCI con neumonía por S. maltophilia. Antibiograma S a TMP-SMX. ¿Conducta más adecuada (IDSA 2024)?`,
+   o:[`Monoterapia con TMP-SMX, ya que es el fármaco de elección bactericida`,`Combinación de ≥2 agentes activos (p. ej. cefiderocol + minociclina)`,`Meropenem en monoterapia a dosis altas`,`Esperar y no tratar por probable colonización`],
+   c:1,e:`En <b>inmunodeprimidos y críticos</b> la <b>combinación supera a la monoterapia</b> (estudio de 307 pacientes). Además <b>TMP-SMX no es bactericida</b>. El meropenem es inútil: la <i>L1</i> (metalo) lo hidroliza. Y con neumonía clínica no es mera colonización.`},
+  {q:`¿Por qué S. maltophilia es intrínsecamente resistente a carbapenémicos?`,
+   o:[`Por la serina-β-lactamasa L2 (clase A)`,`Por una bomba de eflujo exclusiva`,`Por la metalo-β-lactamasa L1 (clase B)`,`Por pérdida de porinas`],
+   c:2,e:`La <b>L1 es una metalo-β-lactamasa (clase B)</b> que <b>hidroliza carbapenémicos</b>. La L2 (serina, clase A) hidroliza cefalosporinas.`},
+  {q:`Se plantea CAZ-AVI + aztreonam en infección grave por S. maltophilia. ¿Fundamento del aztreonam?`,
+   o:[`El aztreonam inhibe la L2 mientras el avibactam inhibe la L1`,`El aztreonam (monobactam) escapa de la metalo-β-lactamasa L1, y el avibactam atasca la L2`,`El aztreonam es bactericida y el avibactam aporta cobertura anaerobia`,`El aztreonam aumenta la penetración tisular del avibactam`],
+   c:1,e:`El <b>aztreonam</b> (monobactam) <b>escapa de la L1</b> (metalo), y el <b>avibactam atasca la L2</b> (serina). Así se cubren ambas enzimas. In vitro: <b>99,6% inhibidas a ≤8 µg/mL</b>.`},
+  {q:`Paciente que recibía profilaxis con levofloxacino desarrolla bacteriemia por S. maltophilia. Antibiograma S a levofloxacino. ¿Consideración correcta?`,
+   o:[`El levofloxacino es de elección por su sensibilidad basal del 97%`,`La fiabilidad del levofloxacino baja por riesgo de resistencia adquirida tras profilaxis con FQ`,`Debe usarse levofloxacino en monoterapia sin reservas`,`La profilaxis previa con FQ garantiza mayor eficacia del levofloxacino`],
+   c:1,e:`Tras <b>profilaxis con fluoroquinolonas</b>, la fiabilidad del levofloxacino <b>baja por resistencia adquirida</b>. Su sensibilidad basal es ~79% (el 97% corresponde a TMP-SMX).`},
+  {q:`En un modelo animal de infección por S. maltophilia, ¿qué hallazgo apoya que TMP-SMX ya no es el "rey indiscutible"?`,
+   o:[`TMP-SMX logró erradicación completa y cefiderocol solo reducción parcial`,`Cefiderocol logró erradicación completa (supervivencia 87%) frente a reducción parcial con TMP-SMX (supervivencia 25%)`,`Ambos lograron supervivencia del 100%`,`TMP-SMX demostró ser claramente bactericida`],
+   c:1,e:`En modelo animal, <b>cefiderocol</b> logró <b>erradicación completa</b> (supervivencia <b>87%</b>) frente a solo reducción parcial con TMP-SMX (<b>25%</b>). Los datos PK/PD muestran que <b>TMP-SMX no es bactericida</b>.`}
+];
+
+/* ---------------- TABS ---------------- */
+document.querySelectorAll('.tabs button[data-tab]').forEach(b=>{
+  b.onclick=()=>{
+    document.querySelectorAll('.tabs button[data-tab]').forEach(x=>x.classList.remove('active'));
+    document.querySelectorAll('.view').forEach(x=>x.classList.remove('active'));
+    b.classList.add('active');
+    document.getElementById(b.dataset.tab).classList.add('active');
+  };
+});
+document.getElementById('theme').onclick=()=>{
+  const b=document.body, d=b.dataset.theme==='dark';
+  b.dataset.theme=d?'light':'dark';
+  document.getElementById('theme').textContent=d?'🌙':'☀️';
+};
+
+/* ---------------- FLASHCARDS ---------------- */
+let pool=[], idx=0;
+const cardEl=document.getElementById('card');
+function buildPool(){
+  const d=document.getElementById('deck').value;
+  pool=(d==='all')?[...CARDS]:CARDS.filter(c=>c.deck===d);
+  idx=0; render();
+}
+function render(){
+  if(!pool.length)return;
+  const c=pool[idx];
+  cardEl.classList.remove('flipped');
+  document.getElementById('front').innerHTML=c.q;
+  document.getElementById('back').innerHTML=c.a;
+  document.getElementById('ftag').textContent=c.tag;
+  document.getElementById('btag').textContent=c.tag;
+  document.getElementById('counter').textContent=`${idx+1} / ${pool.length}`;
+}
+function shuffle(arr){for(let i=arr.length-1;i>0;i--){const j=Math.floor((i+1)*0.9999*fakeRand(i));[arr[i],arr[j]]=[arr[j],arr[i]];}return arr;}
+/* deterministic-ish shuffle without Math.random restrictions in some sandboxes */
+let seed=7;function fakeRand(){seed=(seed*1103515245+12345)&0x7fffffff;return seed/0x7fffffff;}
+cardEl.onclick=()=>cardEl.classList.toggle('flipped');
+document.getElementById('deck').onchange=buildPool;
+document.getElementById('shuffle').onclick=()=>{shuffle(pool);idx=0;render();};
+document.getElementById('next2').onclick=()=>{idx=(idx+1)%pool.length;render();};
+document.getElementById('prev').onclick=()=>{idx=(idx-1+pool.length)%pool.length;render();};
+document.getElementById('know').onclick=()=>{pool.splice(idx,1);if(!pool.length){buildPool();return;}if(idx>=pool.length)idx=0;render();};
+document.getElementById('again').onclick=()=>{pool.push(pool[idx]);idx=(idx+1)%pool.length;render();};
+document.addEventListener('keydown',e=>{
+  if(!document.getElementById('repaso').classList.contains('active'))return;
+  if(e.code==='Space'){e.preventDefault();cardEl.classList.toggle('flipped');}
+  if(e.code==='ArrowRight')document.getElementById('next2').click();
+  if(e.code==='ArrowLeft')document.getElementById('prev').click();
+});
+buildPool();
+
+/* ---------------- MATRIX ---------------- */
+const tbody=document.querySelector('#matrixTable tbody');
+MATRIX.forEach(row=>{
+  const tr=document.createElement('tr');
+  tr.innerHTML=`<td><b>${row.e}</b></td><td class="${row.cls==='ser'?'serbadge':'zinbadge'}">${row.c}</td>`;
+  row.v.forEach(val=>{
+    const td=document.createElement('td');
+    td.className='cell';
+    td.dataset.val=val;
+    td.innerHTML=`<span class="v">${val==='y'?'Sí':'No'}</span>`;
+    td.onclick=()=>{td.classList.add('revealed',val==='y'?'yes':'no');};
+    tr.appendChild(td);
+  });
+  tbody.appendChild(tr);
+});
+document.getElementById('revealAll').onclick=()=>{
+  document.querySelectorAll('#matrixTable .cell').forEach(td=>{
+    td.classList.add('revealed',td.dataset.val==='y'?'yes':'no');
+  });
+};
+
+/* ---------------- QUIZ ---------------- */
+let qi=0,score=0,answered=false;
+const area=document.getElementById('quizArea');
+function renderQ(){
+  answered=false;
+  const q=QUIZ[qi];
+  document.getElementById('bar').style.width=`${(qi/QUIZ.length)*100}%`;
+  let html=`<div class="quiz-card"><div class="qnum">Pregunta ${qi+1} de ${QUIZ.length}</div>
+    <div class="qtext">${q.q}</div>`;
+  q.o.forEach((opt,i)=>html+=`<button class="opt" data-i="${i}">${opt}</button>`);
+  html+=`<div class="explain" id="exp"><b>Explicación.</b> ${q.e}</div></div>`;
+  area.innerHTML=html;
+  document.getElementById('next').textContent=(qi===QUIZ.length-1)?'Ver resultado':'Siguiente →';
+  area.querySelectorAll('.opt').forEach(btn=>{
+    btn.onclick=()=>{
+      if(answered)return; answered=true;
+      const chosen=+btn.dataset.i, q=QUIZ[qi];
+      area.querySelectorAll('.opt').forEach((b,i)=>{
+        b.disabled=true;
+        if(i===q.c)b.classList.add('correct');
+        else if(i===chosen)b.classList.add('wrong');
+      });
+      if(chosen===q.c)score++;
+      document.getElementById('exp').classList.add('show');
+      document.getElementById('scoreLbl').textContent=`${score} / ${qi+1}`;
+    };
+  });
+}
+document.getElementById('next').onclick=()=>{
+  if(!answered && qi<QUIZ.length){ /* allow skip = counts as seen */ }
+  if(qi<QUIZ.length-1){qi++;renderQ();}
+  else{showResult();}
+};
+function showResult(){
+  document.getElementById('bar').style.width='100%';
+  document.getElementById('quizFoot').style.display='none';
+  const pct=Math.round(score/QUIZ.length*100);
+  let msg = pct>=85?'Dominado. A guardia.' : pct>=60?'Bien — repasa los fallos.' : 'Vuelve a las fichas y reinténtalo.';
+  area.innerHTML=`<div class="result"><div class="big">${score}/${QUIZ.length}</div>
+    <p style="font-size:1.1rem;margin:6px 0">${pct}% · ${msg}</p>
+    <button class="opt" style="max-width:240px;margin:14px auto 0;text-align:center" onclick="restartQuiz()">↻ Reintentar test</button></div>`;
+}
+function restartQuiz(){qi=0;score=0;document.getElementById('scoreLbl').textContent='0 / 0';document.getElementById('quizFoot').style.display='flex';renderQ();}
+window.restartQuiz=restartQuiz;
+renderQ();
+</script>
+</body>
+</html>

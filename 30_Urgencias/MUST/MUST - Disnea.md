@@ -91,7 +91,7 @@ ANALÍTICA E IMAGEN
 - Troponinas seriadas si sospecha de SCA o para estratificar el TEP (un TEP con troponina/BNP elevados o VD dilatado es de mayor riesgo).
 - Dímero-D solo si probabilidad clínica de TEP baja/intermedia (ver escalas); con corte ajustado a edad.
 - Radiografía de tórax: condensación (neumonía), líneas B de Kerley/redistribución/cardiomegalia/derrame (IC-EAP), neumotórax, masa. Una Rx normal NO excluye TEP, asma grave ni acidosis.
-- Ecografía a pie de cama (POCUS) si está disponible: líneas B difusas y VCI dilatada no colapsable en EAP/IC, derrame, deslizamiento pleural ausente en neumotórax, dilatación de VD en TEP. >3 líneas B en ≥2 zonas por hemitórax = edema pulmonar (S/E >95%).
+- Ecografía a pie de cama (POCUS) si está disponible: líneas B difusas y VCI dilatada no colapsable en EAP/IC, derrame, deslizamiento pleural ausente en neumotórax, dilatación de VD en TEP. >3 líneas B en ≥2 zonas por hemitórax = edema pulmonar (alta sensibilidad >90 %; especificidad variable según el contexto — la fibrosis o la neumonía bilateral dan falsos positivos).
 
 ESCALAS DE PROBABILIDAD CLÍNICA
 - Wells / Geneva (TEP): Wells <2 bajo, 2-6 moderado, >6 alto (binario: ≤4 TEP improbable). Geneva simplificada: 0-2 improbable, 3-7 probable. Si probabilidad baja/intermedia → dímero-D con corte ajustado a edad (edad × 10 ng/ml en >50 años) descarta TEP sin imagen. Si alta → angio-TC (CTPA) directa sin esperar al dímero. Regla PERC (solo si probabilidad <15%): si los 8 criterios son negativos, descarta TEP sin más pruebas.
@@ -145,7 +145,7 @@ Soporte: oxígeno con objetivo SpO2 93-95% en el asma; 88-92% en el EPOC retened
   → ASMA: prednisona/prednisolona 50 mg VO en dosis única precoz, y continuar 50 mg/24 h × 5-7 días al alta SIN pauta descendente. Si intolerancia oral, shock o gravedad extrema: hidrocortisona 100-200 mg IV o metilprednisolona 40-60 mg IV.
   → EPOC: prednisona 40 mg VO/24 h × 5 días (vía oral = vía IV en eficacia; reservar IV para vómitos o bajo nivel de consciencia).
 - SULFATO DE MAGNESIO en crisis GRAVE que no responde al tratamiento inicial: 2 g IV en 20 minutos, dosis única (potente relajante del músculo liso bronquial). Indicado sobre todo en el asma grave; razonable en EPOC grave refractario.
-- ANTIBIÓTICO EN EPOC (criterios de Anthonisen ≥2, sobre todo si hay purulencia, o si precisa ventilación mecánica): durante 5 días.
+- ANTIBIÓTICO EN EPOC (criterios de Anthonisen ≥2 incluyendo purulencia, o cultivo de esputo previo positivo, o si precisa ventilación mecánica): durante 5 días.
   → Leve/moderada sin comorbilidad: amoxicilina/clavulánico 500/125 mg/8 h × 5 días.
   → Moderada con comorbilidad o grave: amoxicilina/clavulánico 875/125 mg/8 h o levofloxacino 500 mg/24 h × 5-7 días.
   → Riesgo de Pseudomonas (FEV1 <30%, bronquiectasias, ingresos repetidos, antibióticos frecuentes, intubación previa): ciprofloxacino 750 mg/12 h × 7-10 días.
@@ -171,7 +171,7 @@ Soporte: oxígeno con objetivo SpO2 >90%. Fluidoterapia CAUTELOSA (evita sobreca
   → Heparina no fraccionada IV (bolo 80 UI/kg + perfusión 18 UI/kg/h, ajustada por aPTT) SOLO si inestabilidad hemodinámica, alto riesgo de sangrado/reversión rápida previsible, o si se prevé fibrinólisis/procedimiento inminente.
   → Mantenimiento posterior con ACOD (apixabán, rivaroxabán, edoxabán, dabigatrán) salvo FG <30, embarazo (HBPM) o cáncer digestivo/GU.
 - TEP DE ALTO RIESGO (inestabilidad hemodinámica: PAS <90 o caída >40 mmHg >15 min, shock, fallo de VD): es una emergencia.
-  → FIBRINÓLISIS SISTÉMICA si no hay contraindicación: alteplasa 100 mg IV en 2 h (o régimen acelerado 0,6 mg/kg, máx. 50 mg, en 15 min en parada/periparada). Avisa a UCI y activa el PERT (Pulmonary Embolism Response Team) si existe.
+  → FIBRINÓLISIS SISTÉMICA si no hay contraindicación: alteplasa 100 mg IV en 2 h (régimen estándar aprobado; el régimen acelerado 0,6 mg/kg, máx. 50 mg, en 15 min es off-label y se reserva a parada/periparada). Avisa a UCI y activa el PERT (Pulmonary Embolism Response Team) si existe.
   → Si contraindicación a fibrinólisis o fracaso: trombólisis dirigida por catéter, trombectomía percutánea o embolectomía quirúrgica.
 - Estratifica el riesgo intermedio (VD dilatado en angio-TC/eco + troponina/BNP elevados): vigilancia estrecha (telemetría/UCI), fibrinólisis de rescate si se deteriora.
 
@@ -183,11 +183,11 @@ D. ANAFILAXIA (disnea con urticaria/angioedema, estridor o hipotensión tras un 
 - OXÍGENO a alto flujo (FiO2 50-100%, 10-15 L/min, objetivo SpO2 >95%) y FLUIDOS: SSF 0,9% 1-2 L en infusión rápida si hipotensión (125 ml/h si normotenso).
 - COADYUVANTES (después de la adrenalina, nunca en su lugar):
   → Antihistamínico H1: dexclorfeniramina (Polaramine) 5 mg IV.
-  → Corticoide: metilprednisolona 1-2 mg/kg IV o hidrocortisona 200 mg IV (inicio más rápido; inyectar lento).
+  → Corticoide: metilprednisolona 1-2 mg/kg IV (luego 1-2 mg/kg/24 h en 3-4 dosis) o hidrocortisona 200 mg IV lenta (inicio teóricamente más rápido, sin relevancia clínica demostrada). Coadyuvante: nunca antes ni en lugar de la adrenalina.
   → Salbutamol nebulizado 2,5-5 mg si broncoespasmo asociado.
 - BETABLOQUEADOS resistentes a adrenalina: glucagón 1-2 mg IV (máx. 5 mg), repetir a los 5 min o perfusión 5-15 µg/min.
-- REFRACTARIA (≥2 dosis IM sin respuesta): perfusión IV de adrenalina (1 mg en 100 ml SSF; inicio 0,5-1 ml/kg/h) en medio monitorizado + vasopresores (noradrenalina) si hipotensión persistente. Avisa a UCI. Es box vital.
-- Observación mínima 4-6 h asintomático (8-24 h si grave o factores de riesgo de reacción bifásica). Al alta: autoinyector de adrenalina + evitación del alérgeno + derivación a Alergología.
+- REFRACTARIA (≥2 dosis IM sin respuesta): perfusión IV de adrenalina (1 mg en 100 ml SSF = 10 µg/ml; inicio 0,5-1 ml/kg/h ≈ 30-100 ml/h, con la mínima dosis eficaz, máximo 6 ml/kg/h — protocolo FJD/GALAXIA) en medio monitorizado, idealmente en UCI + vasopresores (noradrenalina o dopamina) si hipotensión persistente. Avisa a UCI. Es box vital.
+- Observación 6-8 h desde que el paciente quede asintomático (más prolongada si la reacción fue grave, refractaria o bifásica — protocolo FJD/GALAXIA). Al alta: autoinyector de adrenalina (0,3 mg si 30-60 kg; 0,5 mg si >60 kg) + antihistamínico de nueva generación y corticoide 3 días + evitación del alérgeno y su familia + derivación a Alergología.
 
 E. NEUMONÍA (NAC)
 Soporte: oxígeno según objetivo. Antibiótico empírico PRECOZ (no lo demores si hay datos de sepsis; idealmente en la primera hora si shock séptico). Estratifica con CURB-65 para decidir destino y vía.

@@ -90,7 +90,9 @@ Paquete de la primera hora:
 4. Cristaloides balanceados (Ringer lactato o Plasmalyte, mejor que salino fisiológico) 30 ml/kg si hipotensión o lactato ≥4; en obesidad (IMC >30) calcula sobre peso ajustado o ideal. Reevalúa con medidas dinámicas (elevación pasiva de piernas, ecografía de vena cava) y no cargues a ciegas.
 5. Vasopresores si persiste la hipotensión: noradrenalina como primera línea (inicia 0,05-0,1 mcg/kg/min), pronto y por vía periférica de buen calibre. Objetivo TAM ≥65 (basta 60-65 si ≥65 años). Si no llegas, añade vasopresina 0,01-0,03 U/min y, después, adrenalina. Hidrocortisona 200 mg/día (50 mg/6 h) si el shock sigue dependiente de vasopresores. Dobutamina 2,5-20 mcg/kg/min si hay disfunción miocárdica (todo esto, con el adjunto).
 
-Antibiótico empírico por foco (dosis IV de inicio; ajusta a función renal y a alergias):
+Antibiótico empírico por foco (dosis IV de inicio; la dosis inicial no requiere ajuste renal, después sí ajusta a función renal y a alergias):
+
+Perfusión extendida por defecto: tras la primera dosis (carga completa, sin recorte renal), mantén los β-lactámicos en perfusión extendida o continua, no en bolos — recomendación FUERTE (SSC 2026, BLING III: baja la mortalidad). Importa sobre todo con los de vida media corta: piperacilina-tazobactam 4/0,5 g cada 6-8 h en perfusión de 3-4 h tras un bolo inicial de 30 min; meropenem 2 g/8 h en perfusión de 3 h (primera dosis en 30 min). Detalle por fármaco en la ficha PROA de β-lactámicos.
 
 A. RESPIRATORIO (NEUMONÍA)
 - Ceftriaxona 2 g/24 h + azitromicina 500 mg/24 h.
@@ -123,7 +125,26 @@ REEVALUACIÓN
 - A la 1.ª, 3.ª y 6.ª hora: objetivo TAM ≥65, diuresis >0,5 ml/kg/h, aclaramiento del lactato y mejora del relleno capilar. Si no responde, sospecha un foco no controlado, sube el soporte (vasopresina, hidrocortisona) y plantea la UCI.
 
 
-6- PERLAS PARA NO OLVIDAR
+6- DESPUÉS DE LA 1ª HORA: USO PRUDENTE (PROA)
+
+El antibiótico precoz y de amplio espectro salva vidas en el grave; el uso prolongado e innecesario genera resistencias, toxicidad y C. difficile. Se concilian con una regla: empieza amplio y pronto, pero reevalúa y estrecha. Marco de las 4 D.
+
+DRUG (FÁRMACO ADECUADO)
+- Empírico dirigido al foco y al riesgo de multirresistencia LOCAL. Cobertura amplia (antipseudomónica, anti-SARM, antifúngica, antianaerobia) solo si hay factores de riesgo, no "por si acaso" (SSC 2026: sin factores de riesgo para anaerobios, régimen SIN cobertura anaerobia).
+
+DOSE (DOSIS CORRECTA)
+- Carga completa desde la primera dosis (no la recortes por la función renal). Mantén los β-lactámicos en perfusión extendida o continua tras la carga (recomendación FUERTE).
+
+DE-ESCALATION (DESESCALADA)
+- Reevalúa a las 48-72 h con cultivos y antibiograma. Pasa del amplio al dirigido en cuanto tengas la sensibilidad (recomendación FUERTE). SUSPENDE si se confirma una causa no infecciosa, y valora suspender si no crece nada y el paciente mejora.
+- Switch IV→oral cuando esté estable, afebril y tolere, con un antibiótico de buena biodisponibilidad oral.
+
+DURATION (DURACIÓN)
+- 7 días en la mayoría con el foco controlado (BALANCE: 7 = 14 días en bacteriemia). Alarga solo en casos concretos: endocarditis, osteomielitis o artritis protésica, foco no drenable, inmunodepresión grave, S. aureus en sangre (mínimo 14 días).
+- Procalcitonina: solo ayuda, junto a la clínica, a decidir cuándo SUSPENDER el antibiótico; nunca para iniciarlo.
+
+
+7- PERLAS PARA NO OLVIDAR
 
 🔑 La sepsis se reconoce y se activa, no se filia en la puerta. Tu trabajo es el paquete de la primera hora, no el germen.
 
@@ -140,3 +161,5 @@ REEVALUACIÓN
 🔑 La hipotermia es mal pronóstico, y en el paciente frágil o terminal pesa el techo terapéutico antes de escalar.
 
 🔑 Petequias o púrpura = meningococo. Antibiótico inmediato, sin esperar a la PL.
+
+🔑 Empieza amplio y pronto, pero reevalúa a las 48-72 h y desescala con el antibiograma: el antibiótico de la primera hora no tiene por qué ser el de toda la semana (PROA). Duración 7 días si el foco está controlado.

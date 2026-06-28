@@ -65,7 +65,7 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 - [ ] Tromboembolismo pulmonar (nota neumológica — existe en Cardio)
 - [ ] Síndrome de apnea-hipopnea del sueño (SAHS)
 - [ ] Cáncer de pulmón
-- [ ] Tuberculosis pulmonar (ver también Infecciosas)
+- [x] [[Tuberculosis]] pulmonar (ver también Infecciosas)
 
 ---
 
@@ -91,7 +91,7 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 - [x] [[Fisura Anal]]
 - [x] [[Absceso - Drenaje en Urgencias|Absceso perianal / drenaje]]
 - [ ] Úlcera péptica y H. pylori
-- [ ] Hepatitis aguda viral
+- [x] [[Hepatitis Virales (A-E)|Hepatitis aguda viral]] (ver Infecciosas)
 - [ ] Hepatopatía alcohólica y esteatohepatitis (MAFLD/MASLD)
 - [ ] Diarrea crónica
 - [ ] Enfermedad celíaca
@@ -170,7 +170,7 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 - [ ] Coagulopatías y CID
 - [ ] Trombofilias
 - [ ] Indicaciones y complicaciones de la transfusión
-- [ ] Neutropenia febril
+- [x] [[Neutropenia Febril]] (ver Infecciosas)
 
 ---
 
@@ -228,19 +228,25 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 ## Sección X — Enfermedades Infecciosas
 
 - [x] Sepsis (5 notas: [[Sepsis y Shock Séptico|definición]], [[Sepsis - Abordaje Inicial (SSC 2026)|abordaje SSC 2026]], [[Sepsis - Hemodinámica y Reanimación|hemodinámica]], [[Sepsis - Antiinfecciosos y Soporte Vital|antiinfecciosos]], [[Sepsis - Cuidados Post-UCI y Objetivos|post-UCI]])
+- [x] [[Bacteriemia y Candidemia]] (cap 65)
 - [x] [[Gripe - Síndrome Gripal|Gripe]]
 - [x] PROA / Antimicrobianos (7 notas: guía general, betalactámicos, quinolonas/macrólidos, otros, ITU, respiratorias, piel/partes blandas, GI, ITS)
 - [ ] Fiebre de origen desconocido (FOD)
-- [ ] VIH/SIDA — diagnóstico y tratamiento antirretroviral
-- [ ] Tuberculosis
-- [x] [[Endocarditis Infecciosa]] (ver también Cardio)
-- [ ] Infecciones fúngicas invasivas
-- [ ] Infecciones en el paciente inmunodeprimido
-- [ ] Parasitosis más frecuentes
+- [x] [[VIH - Diagnóstico y Manejo Inicial|VIH/SIDA]] (cap 76)
+- [x] [[Tuberculosis]] (cap 75)
+- [x] [[Hepatitis Virales (A-E)]] (cap 74)
+- [x] [[Endocarditis Infecciosa]] + infección endovascular (cap 66, ver también Cardio)
+- [x] [[Infecciones Intraabdominales]] (cap 73)
+- [x] [[Osteomielitis y Artritis Séptica]] (cap 71)
+- [x] [[Infecciones Nosocomiales]] (catéter/ISQ/neumonía nosocomial, cap 78)
+- [x] [[Neutropenia Febril]] / inmunodeprimido (cap 77)
+- [x] [[Profilaxis Postexposición Biológica]] (PEP VIH/VHB/VHC, cap 80)
+- [x] [[Úlceras por Presión]] (cap 70)
+- [x] [[COVID-19]] (cap 67)
+- [x] [[Enfermedades del Viajero - Aproximación Práctica|Malaria y fiebre del viajero]] (cap 79, nivel práctico)
+- [ ] Parasitosis tropicales detalladas (esquistosomiasis, filariasis, Chagas)
 - [ ] Infecciones por herpes virus (VHS, CMV, VEB)
-- [ ] COVID-19 y síndromes post-COVID
 - [ ] Brucelosis y otras zoonosis
-- [ ] Malaria y fiebre del viajero
 
 ---
 
@@ -364,7 +370,7 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 > [!warning] Sección completa sin cubrir
 
 - [ ] Urgencias oncológicas (síndrome de vena cava superior, compresión medular, hipercalcemia tumoral, síndrome de lisis tumoral)
-- [ ] Neutropenia febril (ver Hematología)
+- [x] [[Neutropenia Febril]] (ver Hematología/Infecciosas)
 - [ ] Dolor oncológico y escala analgésica OMS
 - [ ] Efectos adversos de quimioterapia e inmunoterapia
 - [ ] Cuidados paliativos y control de síntomas
@@ -384,7 +390,7 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 | Hematología | 9 | 11 | 45% |
 | Reumatología | 7 | 9 | 44% |
 | Neurología | 20 | 6 | 77% |
-| Infecciosas | 3 | 12 | 20% |
+| Infecciosas | 16 | 3 | 84% |
 | Urgencias/Críticos | 15 | 7 | 68% |
 | ORL | 9 | 4 | 69% |
 | Urología | 4 | 5 | 44% |
@@ -392,16 +398,16 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 | Dermatología | 3 | 9 | 25% |
 | Psiquiatría | 6 | 4 | 60% |
 | Oncología | 0 | 5 | 0% |
-| **Total** | **~149** | **~122** | **~55%** |
+| **Total** | **~162** | **~111** | **~59%** |
 
 ---
 
 > [!tip] Prioridades sugeridas
 > 1. **Psiquiatría** — 0% y frecuente en guardias (agitación, intento autolítico, ansiedad)
 > 2. **Endocrinología** — solo emergencias glucémicas; falta DM crónica, tiroides
-> 3. **Infecciosas** — FOD, VIH, TB son temas nucleares del MIR
+> 3. **Oncología** — urgencias oncológicas imprescindibles para guardia
 > 4. **Dermatología** — muy frecuente en AP y guardias
-> 5. **Oncología** — urgencias oncológicas imprescindibles para guardia
+> 5. **Infecciosas** — ya cubierto el grueso del Manual (cap 64-80); pendiente solo FOD, parasitosis tropicales, herpes virus y zoonosis
 
 ---
 
