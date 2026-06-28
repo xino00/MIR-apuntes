@@ -49,3 +49,39 @@ desde el último pase / evolución / eventos nocturnos]. [Niega ___].
 - [Ajustes de tratamiento].
 - [Criterios de alta / siguiente paso].
 - Si [evento/dolor], realizar ECG y avisar a MdG.
+
+---
+
+## Versión texto plano (copiar/pegar en la historia)
+
+```text
+[SERVICIO] HOSPITALIZACIÓN - Equipo Dr./Dra. ___
+
+Paciente varón/mujer de ___ años, [FRCV / hábitos tóxicos], con [antecedentes relevantes]. Ingresa a cargo de [servicio] desde [urgencias/derivación] para [motivo de ingreso / estudio].
+
+Al pase, paciente en [sillón/cama], [acompañado/a de ___]. Refiere [síntomas desde el último pase / evolución / eventos nocturnos]. [Niega ___].
+
+EF:
+[BEG/REG]. Normocoloreado/a y bien perfundido/a. Eupneico/a, sin tiraje, tolera decúbito. Hemodinámicamente estable. Afebril.
+Ctes: TA ___/___ FC ___ lpm Tª ___ ºC FR ___ rpm SpO2 ___ %
+AC: rítmico, sin soplos ni extratonos.
+AP: MVC, sin ruidos patológicos.
+MMII: sin edema ni signos de TVP.
+NRL: consciente y orientado/a en las tres esferas, colaborador/a.
+
+PPCC (solo si novedades):
+- ECG: ritmo ___ a ___ lpm; [hallazgos]; [superponible a previos / cambios].
+- TLM: [sin eventos de interés / ___].
+- AS: [hallazgos relevantes con valores].
+- Imagen/Ecocardio/Rx: [hallazgos].
+
+JC:
+1. [Problema principal].
+2. [Problema secundario].
+
+PLAN-COMENTARIO:
+- [Pendientes: pruebas, resultados, interconsultas].
+- [Ajustes de tratamiento].
+- [Criterios de alta / siguiente paso].
+- Si [evento/dolor], realizar ECG y avisar a MdG.
+```
