@@ -9,8 +9,8 @@ description: Plantilla de nota de ingreso en planta (versión intermedia)
 > [!tip] Cómo usar
 > - Versión **intermedia**: antecedentes agrupados (sin desglose por aparatos).
 > - El **resumen del paciente** y los **antecedentes** se reutilizan luego en los
->   evolutivos diarios (ver [[08 - Evolutivo Planta]]).
-> - Para el alta, ver [[10 - Informe Alta]].
+>   evolutivos diarios (ver [[09 - Evolutivo Planta]]).
+> - Para el alta, ver [[11 - Informe Alta]].
 
 ---
 

@@ -11,8 +11,8 @@ description: Plantilla narrativa de informe/resumen al alta justificando el alta
 >   párrafo de situación al alta que **justifique** el alta.
 > - La clave es cerrar el motivo de ingreso: qué se descartó/confirmó, respuesta
 >   al tratamiento y por qué es seguro el alta.
-> - Para el ingreso y los pases, ver [[09 - Nota Ingreso Planta]] y
->   [[08 - Evolutivo Planta]].
+> - Para el ingreso y los pases, ver [[10 - Nota Ingreso Planta]] y
+>   [[09 - Evolutivo Planta]].
 
 > [!example] Modelo de referencia
 > "Mujer de 91 años con EAo severa pendiente de TAVI, que ingresa por primera
