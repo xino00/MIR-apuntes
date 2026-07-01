@@ -1,5 +1,5 @@
 ---
-tags: [plantilla, guardia, exploración]
+tags: [plantilla, guardia, exploracion]
 ---
 
 **PLANTILLA EXPLORACIÓN URGENCIAS**
@@ -217,12 +217,12 @@ RX ABDOMEN NORMAL: Luminograma aéreo inespecífico. No se observan litiasis ren
 **EXPLORACIÓN TRAUMATOLÓGICA**
 
 COLUMNA CERVICAL: Presenta dolor a la palpación de musculatura paravertebral y occipital bilateral. No apofisalgias. No presenta irradiación del dolor. Movilidad de rotación y flexo/extensión conservadas/limitada por dolor. Fuerza y sensibilidad sin alteración. Neurovascular distal normal.
-JC: Cervicalgia aguda de características mecánicas.
+JC: Cervicalgia aguda de características mecánicas. (ver [[Cervicalgia Mecánica]])
 
 HOMBRO: no deformidad articular, no tumefacción. Movilidad (flex/ext, abb/abd, rot ext/int) pasiva conservada y no dolorosa. Dolor en cara anterior de hombro con la flexión. Maniobras de compromiso subacromial positivas. No dolor a la palpación de relieves óseos. Neurovascular distal normal.
-JC: Omalgia aguda de características mecánicas.
+JC: Omalgia aguda de características mecánicas. (ver [[Omalgia - Dolor de Hombro]])
 
-MANO (by Nuria Rehabi): No lesiones dermatologicas, no deformidad, no tumefaccion, no alteracion alineamento. BA conservado con dolor en últimos grados de flexión dorsal. Pronosupinación conservada. No dolor a la palpación de estiloides radial ni cubital.  No dolor en tabaquera anatómica, telescopaje negativo, no dolor en tubérculo del escafoides. No dolor en el resto de huesos del carpo. Prueba de tinel y Phalen negativas. Fuerza y sensibilidad distal conservada. No dolor en otras prominencias óseas ni en codo ni hombro.
+MANO (by Nuria Rehabi): No lesiones dermatologicas, no deformidad, no tumefaccion, no alteracion alineamento. BA conservado con dolor en últimos grados de flexión dorsal. Pronosupinación conservada. No dolor a la palpación de estiloides radial ni cubital.  No dolor en tabaquera anatómica, telescopaje negativo, no dolor en tubérculo del escafoides. No dolor en el resto de huesos del carpo. Prueba de tinel y Phalen negativas. Fuerza y sensibilidad distal conservada. No dolor en otras prominencias óseas ni en codo ni hombro. (ver [[Patología de Muñeca]])
 
 CODO (by Nuria Rehabi): No lesiones dermatológicas, no deformidad, no tumefacción, no alteración alineamiento. BA codo: flexo-extensión conservado, Prono-supinación conservada con dolor en últimos grados. Linea de Malgaigne y Triángulo de Nelaton conservados. No dolor a la palpación de prominencias óseas del codo: epicóndilo medial y lateral, olécranon, cabeza del radio (para localizarlo: codo a 90 grados, con el brazo en abducción, encuentras el epicóndilo y deslizas hacia distal, sabes que estas en la zona por que al hacer prono-supinación notas com se mueve la cabeza del radio)
 Hook test -: exploras integridad del tendon del bíceps braquial. Estabilidad en varo y valgo
@@ -232,20 +232,22 @@ Epitrocleitis: flexión palmar contrarresistida dolorosa
 -Neuropatia cubital:
 Tinnel en canal epitrocleano: (entre el olécranon y epicóndilo lateral hay una depresión que es este canal donde por ahí pasa el nervio cubital. Si sospechas patología del nervio cubital hacer Tinell en este canal),
 Mantener el codo flexionado durante 5 minutos: aparición de parestesias a lo largo del recorrido en 5 minutos indica neurópata cubital
-Fuerza y sensibilidad distal conservada. No dolor en otras prominencias óseas ni en muñeca ni hombro.
+Fuerza y sensibilidad distal conservada. No dolor en otras prominencias óseas ni en muñeca ni hombro. (ver [[Patología de Codo]])
 
 DEDO (by Nuria Rehabi): No lesiones dermatologicas, no deformidad, no tumefaccion, no alteracion alineamiento. BA conservado en articulación metacarpofalángica, interfalangica distal y proximal. No dolor a la palpación de articulación metacarpofalángica, interfalangica distal y proximal.No dolor en resto de huesos metacarpianos. No dolor en muñeca. No bostezo en varo y valgo en articulación interfalángica. No pérdida de sensibilidad ni de fuerza. Tendones flexores profundos y superficiales sin alteraciones.
-*Exploracion dedo gordo: no dolor en articulación trapecio metacarpiana, No dolor en articulación interfalángica, Valgo y varo del primer dedo estable sin bostezos. Finkelstein negativo (tenosinovitis de quervain).
+*Exploracion dedo gordo: no dolor en articulación trapecio metacarpiana, No dolor en articulación interfalángica, Valgo y varo del primer dedo estable sin bostezos. Finkelstein negativo (tenosinovitis de quervain). (ver [[Traumatismo de Dedo de Mano]])
 
 COLUMNA LUMBAR: Presenta dolor a la palpación de musculatura paravertebral. No apofisalgias. No presenta irradiación del dolor. Maniobra de Lasègue/Bragard  negativa. Movilidad de rotación y flexo/extensión conservadas/ limitada por dolor. ROT conservados y simétricos. Fuerza y sensibilidad sin alteración. Marcha de talones (L5) y puntas (S1) conservadas. Neurovascular distal normal.
-JC: Lumbalgia aguda de características mecánicas.
+JC: Lumbalgia aguda de características mecánicas. (ver [[Lumbalgia]] / [[Lumbociática]])
 
-CADERA: No actitud antiálgica, no acortamiento. Buena movilidad articular de ambas caderas. No dolor en trocánter, no dolor inguinal.  Dolor con la rotación interna/externa. Balance articular completo. No palpo hernia inguinal.
+CADERA: No actitud antiálgica, no acortamiento. Buena movilidad articular de ambas caderas. No dolor en trocánter, no dolor inguinal.  Dolor con la rotación interna/externa. Balance articular completo. No palpo hernia inguinal. (ver [[Coxalgia - Dolor de Cadera]])
 
 RODILLA: inspección normal, sin hematomas ni alteraciones cutáneas. No calor. Peloteo negativo. Cepillo negativo. No se aprecia derrame articular. Flexión activa limitada en últimos grados por dolor, que se completa de forma pasiva. Maniobras meniscales negativas. Cajón anterior negativo. Cajón posterior negativo. No inestabilidad al forzar varo/valgo. Zohlen negativo. Neurovascular distal normal.
-JC: Gonalgia de características mecánicas.
+JC: Gonalgia de características mecánicas. (detalle de maniobras en [[Exploración de Rodilla]]; clínica en [[Gonalgia y Lesión Ligamentosa de Rodilla]])
 
-TOBILLO: No lesiones dermatológicas/Se aprecia hematoma/ tumefacción a nivel de maléolo externo e interno. Dolor a la palpación de ligamento peroneo-astragalino anterior, peroneo astragalino posterior y ligamento peroneocalcáneo. No dolor a la palpación de ligamento deltoideo, cabeza de quinto metatarsiano, tibia y peroneo distal y proximal. Dolor a la inversión/eversión pasiva. Fuerza y sensibilidad distal conservada. Pulsos pedios conservados.
+TOBILLO: No lesiones dermatológicas/Se aprecia hematoma/ tumefacción a nivel de maléolo externo e interno. Dolor a la palpación de ligamento peroneo-astragalino anterior, peroneo astragalino posterior y ligamento peroneocalcáneo. No dolor a la palpación de ligamento deltoideo, base del 5º metatarsiano, tibia y peroneo distal y proximal. Dolor a la inversión/eversión pasiva. Fuerza y sensibilidad distal conservada. Pulsos pedios conservados.
+<!-- corregido "cabeza"→"base del 5º metatarsiano": la avulsión por peroneos se palpa en la BASE, no en la cabeza (ver [[Exploración de Tobillo y Antepié]]) -->
+*Reglas de Ottawa (cuándo pedir Rx, ver [[Exploración de Tobillo y Antepié]]): Rx tobillo si dolor maleolar + incapacidad de cargar 4 pasos, o dolor en punta/6 cm proximales de maléolo lateral o medial; Rx pie si dolor en base del 5º MT o navicular, o incapacidad de cargar 4 pasos. (detalle en [[Esguince de Tobillo]])
 
 
 
