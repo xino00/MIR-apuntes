@@ -2,6 +2,14 @@
 tags: [plantilla, guardia, cot, rehabi]
 ---
 
+> [!note]- Reconciliación con evidencia del vault (2026-07-01)
+> **Dosis verificadas contra fichas del vault:**
+> - HBPM profilaxis: Enoxaparina/Inhixa **40 mg = 4000 UI SC/24h** es la pauta de profilaxis de TEV del vault en inmovilización sin carga (ficha [[Enoxaparina]]). En **FG<30** hay riesgo de acumulación → ajustar; contraindicada si TIH. Suspender ≥12 h antes de cirugía (ya recogido).
+> - Analgesia: paracetamol 1 g/8 h, metamizol 575 mg/8 h e ibuprofeno 600 mg/8 h concuerdan con fichas [[Paracetamol]], [[Metamizol]], [[Ibuprofeno]]. Con AINE: **añadir gastroprotección** (omeprazol/pantoprazol) en paciente de riesgo GI y **evitar AINE** si FG<30, asma-AINE, cardiópata o HTA mal controlada (fichas [[Ibuprofeno]]/[[Naproxeno]]; escalera de [[Traumatismo General - Plantilla]]).
+> - Augmentine: la ficha [[Amoxicilina-Clavulanico]] documenta 875/125 mg VO/8h y 1000/200 mg IV/8h; la carga "2 g IV" no consta en la ficha → verificar.
+> **Exploración respaldada por el vault:** escafoides/muñeca → [[Patología de Muñeca]]; codo/cabeza radial → [[Patología de Codo]]; rodilla/rótula → [[Exploración de Rodilla]]; tobillo, Aquiles (Thompson), 5º MTT/Jones y calcáneo → [[Exploración de Tobillo y Antepié]]; cadera/ramas → [[Coxalgia - Dolor de Cadera]]; esguince de tobillo pediátrico → [[Esguince de Tobillo]]; rodilla pediátrica → [[Gonalgia y Lesión Ligamentosa de Rodilla]]; cortes/heridas → [[Heridas y Suturas]].
+> **Sin respaldo en el vault** (fuente propia, verificar): protocolo de ingreso/preoperatorio de fx de cadera, clasificaciones (Mason, Gustilo, Jones, Lisfranc, Weber), tipos de férula/inmovilización, mepivacaína de reducción y manejo de fractura abierta/PTC.
+
 PLANTILLAS COT ALEX REHABI
 
 
@@ -63,6 +71,7 @@ Se realiza limpieza heridas.
 Cierre con ethilon 3/0.
 Inmovilización muñeca derecha con férula antebraquial.
 Augmentine 2g IV
+<!-- ⚠️ dosis 2 g IV no documentada en ficha [[Amoxicilina-Clavulanico]] (ficha: 1000/200 mg IV/8h; VO 875/125 mg/8h); verificar -->
 Valorar necesidad de antitetánica.
 
 Mantener vendajes 7 dias. No mojar
@@ -128,7 +137,7 @@ TRATAMIENTO y RECOMENDACIONES AL ALTA:
 -     Frío local 4-5 veces al día durante 15 minutos.
 -     Reposo relativo.
 -     Paracetamol 1g/8h si dolor. Si persiste dolor a pesar de paracetamol, alternar cada 4h con Metamizol 575mg.
--     Enoxaparina 40, 1 inyección subcutánea cada 24 horas durante el tiempo que lleve la inmovilización. Debe suspender al menos 12 horas antes de la cirugía.
+-     Enoxaparina 40, 1 inyección subcutánea cada 24 horas durante el tiempo que lleve la inmovilización. Debe suspender al menos 12 horas antes de la cirugía. <!-- profilaxis TEV: 40 mg = 4000 UI SC/24h (ficha [[Enoxaparina]]); ajustar en FG<30 -->
 -     Presentaremos su caso en sesión clínica de Traumatología y le avisaremos con el resultado.
 
 Ante empeoramiento o aparición de nueva sintomatología, acudirá a Sº de Urgencias.
@@ -856,9 +865,10 @@ Acudo a valorar paciente de 9 años que es traído al servicio de Urgencias por 
 
 No RAMs.
 Antecedentes médicos de interés: asma extrínseco, alergias alimentarias.
+<!-- ⚠️ el tto pauta ibuprofeno; en asma valorar tolerancia previa a AINE (contraindicado si asma-AINE, ficha [[Ibuprofeno]]); alternativa: paracetamol -->
 No sigue tratamiento habitual.
 
-EF: RODILLA IZQUIERDA
+EF: RODILLA IZQUIERDA (exploración: [[Exploración de Rodilla]])
 - El paciente entra caminando, con buena tolerancia.
 - No se objetiva hematoma. Se identifica leve tumefacción en región prerrotuliana.
 - Peloteo rotuliano (-).
@@ -948,7 +958,7 @@ No AP
 
 EF:
 Deformidad evidente  en talón de aquiles izquierdo. Se palpa hachazo.
-Thompson +
+Thompson + (gold standard rotura Aquiles; puede conservar flexión plantar activa por flexores largos, no descarta rotura — ver [[Exploración de Tobillo y Antepié]])
 NVDC
 
 Rx: no loas
