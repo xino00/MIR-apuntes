@@ -105,8 +105,9 @@ CTC sistémicos: pacientes ingresados y ambulatorios con falta de respuesta inic
 Prednisona 0.5mgkg/d (Máx 40mg/d) VO 5 días
 Actocortina 0.5mg/kg IV primeros 3 días, luego VO.
 Antibióticos: cuando se cumplan 3 Cx Anthonisen/ 2 Cx siendo uno esputo purulento / necesidad de VM.
+Pauta empírica 5 días (PROA FJD, [[EPOC - Exacerbación y Manejo Agudo]]): Amoxi-Clav 500/125mg/8h (leve-moderada); Amoxi-Clav o Levofloxacino 500mg/24h (moderada con comorbilidad o grave); Ciprofloxacino 750mg/12h 7-10d si riesgo de P. aeruginosa (bronquiectasias, ingresos repetidos, ATB frecuentes, IOT previa). Alérgicos: Azitromicina 500mg/24h 3d o Levofloxacino.
 
-Oxigenoterapia: de elección Ventimask para mantener PaO2 55-60mmHg o SatO2 88-90%. Vigilar la hipercapnia.
+Oxigenoterapia: de elección Ventimask para mantener PaO2 55-60mmHg o SatO2 **88-92%** (objetivo en retenedor de CO2; GOLD 2026, [[EPOC - Exacerbación y Manejo Agudo]]). Vigilar la hipercapnia.
 
 ### CRITERIOS DE ALTA
 El paciente puede deambular por la habituación.
@@ -120,13 +121,15 @@ Control por su Médico de Familia para comprobar uso correcto de medicación, re
 En caso de EPOC frágil, alteraciones radiológicas no resueltas al alta, pruebas pendientes… Se derivará al servicio de Neumología en 4-6 semanas.
 
 ## NEUMONÍA ADQUIRIDA EN LA COMUNIDAD
+> Ver [[Neumonía Adquirida en la Comunidad (NAC)]]
 ### ETIOLOGÍA MÁS FRECUENTE
-M. pneumoniae (16%)
-S. pneumoniae (14%)
+S. pneumoniae (14%) — patógeno bacteriano #1
+M. pneumoniae (16%) — epidemias y <40 años
 Virus (15%)
 C. pneumoniae (12%)
+Legionella (1-5%) — formas graves
 Ancianos: H. influenzae.
-EPOC: H. influenzae y Morazella catarrhalis, bacteriemas por S. penumoniae
+EPOC: H. influenzae y Moraxella catarrhalis, bacteriemias por S. pneumoniae
 ### DIAGNÓSTICO
 SOSPECHA CLÍNCIA: Infección de vias bajas+ fiebre >38ºC, tos expectoración, dolor torácico, disnea, taquipnea, auscultación de ocupación alveolar.
 ANALÍTICA: SatO2, hemograma, bioquímica + función renal, hepática y electrolitos.
@@ -147,7 +150,7 @@ MICROBIOLOGÍA: cultivo de esputo, hemocultivo, antigenurias en orina.
 
 ### TRATAMIENTO ANTIBIÓTICO
 AMBULATORIO:
-Amoxicilina 1gr/8h / Amoxi-Clav 875/125mg/8h (EPOC/Asma) + Macrólido (Azitro 500mg/d 3d / Claritromicina 500mg/15h)
+Amoxi-Clav 875/125mg/8h + Macrólido (Azitro 500mg/d 3-5d / Claritromicina 500mg/12h) — cobertura de atípicos obligatoria (SEPAR-SEIMC 2018, [[Neumonía Adquirida en la Comunidad (NAC)]]). Amoxicilina 1gr/8h en monoterapia solo en <50 años sin comorbilidad y baja sospecha de atípicos.
 Levofloxacino 500mg/12h / Moxifloxacino 400mg/d
 **HOSPITALARIO:**
 Ceftriaxona 1-2g/d / Cefotaxima 2g/8h / Ceftarolina 600mg12h + Macrólido (Azitro 500mg/d 3d / Claritromicina 500mg/12h
@@ -197,12 +200,13 @@ Oxigenoterapia para SatO >92%
 Salbutamol + Ipratropio 4-8 inhalaciones o 2.5mg Salbutamol + 0.5mg Ipratropio nebulizaciones c/20 minutos durante la 1ª hora.
 CTC: Prednisona 50mg VO o Hidrocortisona 250mg IV
 CI: Budesonida 4 inhalaciones o 0.5mg c/20 minutos durante la 1ª hora.
+Sulfato de magnesio: 2g IV en 20 min (dosis única) en crisis grave que no responde al tratamiento inicial (GEMA 5.5, [[Asma - Crisis Asmática]]).
 **HOSPITALIZACIÓN:**
 Oxigenoterapia: para SatO2 >92%
 Salbutamol 2.5mg + Ipratropio 0.5mg nebulizados c/4-6h
 Hidrocortisona 100-200mg IV c/6h o Prednisona 20-40mg VO c/12h
 **TRATAMIENTO AL ALTA:**
-Prednisona 30mg, un comprimido al día en desayuno durante 5 días y suspender.
+Prednisona 30mg, un comprimido al día en desayuno durante 5 días y suspender (GEMA 5.5 recomienda 40-50mg/d × 5-7 días sin pauta descendente; [[Asma - Crisis Asmática]]).
 LABA + CI:
 Formoterol/Budesonida (6/160) -> Symbicort, Bufomix  2 inh/12h de mantenimiento y se puede usar hasta 12 inhalaciones al día incluyendo rescates
 Formoterol/Beclometasona (6/200) -> FOSTER 2 inh/12h de mantenimiento y hasta 8 inh en total con rescates incluidos.
@@ -254,8 +258,8 @@ También se puede clasificar en función del perfil clínico y la hipoperfusión
 
 El tratamiento fundamental de la IC aguda son los DIURÉTICOS:
 **¿Cómo empezar?**
-Ya tomaba Furosemida: 2.5 x Furosemida habitual
-IC de novo: 1 ampolla de Furosemida (20mg/ml) y reevaluar.
+Ya tomaba Furosemida: 2.5 x Furosemida habitual (Manual 12 Oct; ESC HF 2021 = 1-2 x dosis oral previa IV, [[Insuficiencia cardiaca aguda]])
+IC de novo: 20-40mg IV = 1-2 ampollas de Furosemida (1 amp = 20mg/2mL; ficha [[Furosemida]]) y reevaluar.
 Vigilar: hipoK, hipoNa, HiperUricemia e hipoVolemia
 ¿Qué es buena respuesta?: Diuresis >1cc/kg/h (Ej.; 70kg = 70cc/h)
 **¿En caso de mala respuesta?**
@@ -285,7 +289,7 @@ Na >135 = 150ml SSH al 1.4-2.4% (140ml SSF + 10ml SSH 20%)
 
 
 En caso de EDEMA AGUDO DE PULMÓN, aparte de los diuréticos se puede considerar: (“MOVIDA”)
-Morfina: si disnea importante. 2..5mg IV en bolo.
+Morfina: 2,5mg IV en bolo. ⚠️ NO de rutina (ESC HF 2021 Clase III, [[Insuficiencia cardiaca aguda]]): reservar para ansiedad irreductible o dolor isquémico persistente (aumenta intubación e hipotensión).
 Oxígeno si SatO2 <90% o PaO2 <60 mmHg.
 VMNI: EAP cardiogénico o ICA hipertensiva que no mejoran con tto diurético. Criterios:
 SatO2 <90% con FiO2 0.5
@@ -294,21 +298,27 @@ pCO2 >45
 FR >25rpm
 Disnea moderada-grave con uso de musculatura accesoria o abdominal.
 Vasodilatadores: evitar en PAS<90mmHg (Noradrenalina)
-NTG en perfusión: 25mg en 250cc SG 5% / SSF. Si quieres meter menos volumen → 50mg en 250cc. A 10-200mg/min.
+NTG en perfusión: 25mg en 250cc SG 5% / SSF. Si quieres meter menos volumen → 50mg en 250cc. A 10-200 mcg/min (µg, NO mg; ficha [[Nitroglicerina]]). Clase IIb si PAS >110mmHg (ESC HF 2021).
 Nitroprusiato de sodio: si IC hipertensiva que no se consigue controlar con dosis altas de NTG.
 Diuréticos: Furosemida +/- Tiazida
 Anticoagulación: HNF /HBPM
 
 ## FIBRILACIÓN AURICULAR
 ### CONTROL DE FRECUENCIA
+Objetivo FC <110 lpm (<80 si síntomas). (ESC AF 2024, [[Fibrilación Auricular (FA)]])
+- 1ª línea (BB): Metoprolol 2,5-5mg IV lento (máx 15mg) / Bisoprolol 2,5-10mg/24h VO.
+- 2ª línea (Ca-antag no DHP, CONTRAINDICADOS si FEVI ≤40%): Verapamilo 2,5-10mg IV lento / Diltiazem 60-360mg/24h VO.
+- 3ª línea o de elección en ICA descompensada: Digoxina 0,5mg IV en bolo, luego 0,25mg/6-8h (carga total 1-1,5mg).
 
 ### CONTROL DE RITMO
-
-
-
+De elección en 1er episodio, jóvenes (≤70a), FEVI reducida o FA sintomática mal controlada. (ESC AF 2024, [[Fibrilación Auricular (FA)]])
+- Inestabilidad HD → Cardioversión eléctrica urgente 150-200J sincronizada (sedación: Propofol/Midazolam).
+- CV farmacológica SIN cardiopatía estructural: Flecainida 2mg/kg IV en 10-20min (o "pill in the pocket" 300mg VO).
+- CV farmacológica CON cardiopatía (FEVI baja, isquemia, HVI): Amiodarona 300mg IV en 30-60min + 900mg/24h. ¡Flecainida CONTRAINDICADA!
+- Umbral de anticoagulación previa: cardioversión sin ACO/ETE solo si FA <24h (ESC AF 2024 redujo de 48h a 24h).
 
 ### ANTICOAGULACIÓN
-**Calcular CHADSVASc y HASBLED**
+**Calcular CHA₂DS₂-VA y HAS-BLED** (ESC AF 2024 sustituyó CHA₂DS₂-VASc por CHA₂DS₂-VA, sin componente sexo; anticoagular si ≥2 [Clase I], considerar si =1. [[Escala CHA2DS2-VASc y HAS-BLED]])
 
 
 **Elección entre ACOd y antivitamina K:**
@@ -333,7 +343,7 @@ Anticoagulación: HNF /HBPM
 | --- | --- | --- |
 | EDOXABAN  (Lixiana) | 60 mg/d | 30 mg/d FG 15-50 ml/min Peso < 60 kilos Fármacos concomitantes (ciclosporina, dronedarona, ketoconazol, eritromicina). NO en FG <15 |
 | RIVAROXABAN (Xarelto) | 20 mg/d | 15 mg/d FG 15-50ml/min NO en FG <15 |
-| APIXABAN  (Eliquis) | 5 mg c/12h | 2.5 mg c/12h FG 50-30 + 2 Cx: edad > 80 años, peso < 60 kilos o Cr > 1,5 mg/dl. FG 30-15 ml/min NO en FG <15 |
+| APIXABAN  (Eliquis) | 5 mg c/12h | 2.5 mg c/12h si ≥2 de 3 criterios: edad ≥80 años, peso ≤60 kg o Cr ≥1,5 mg/dl (ficha [[Apixabán]]). NO en FG <15 |
 | DABIGATRAN (Pradaxa) ÚNICO FINANCIADO EFG 60€ | 150 mg c/12h | 110 mg c/12h >75-80 años Tratamiento con verapamilo FG 30-50 ml/min RGE, gastritis o esofagitis u otras situaciones que incrementen riesgo de sangrado. NO en FG <30 |
 
 
@@ -409,7 +419,7 @@ Escala de Wells para TEP (probabilidad pretest)
 
 
 Según probabilidad:
-Probabilidad baja (<1) → Criterios PERC (descartan TEP si se cumplen todos):
+Probabilidad baja (<2, [[TEP - Tromboembolismo Pulmonar]]) → Criterios PERC (descartan TEP si se cumplen todos):
 <50 años
 FC <100lpm
 SatO2 >95%
@@ -417,13 +427,13 @@ No hemoptisis
 No tto hormonal
 No AP TVP ni TEP
 No signos de TVP
-NO Qx o Tx que requiriera hospitalización <3 meses previos
+NO Qx o Tx que requiriera hospitalización <4 semanas previas ([[TEP - Tromboembolismo Pulmonar]])
 Si alguno no se cumple → Dímero D.
 Probabilidad media (2-6) → Dímero D (alta sensibilidad y VPN)
 Negativo* = NO TEP
 Positivo → AngioTAC
 *Se altera por la edad. Positivo >500 en <50 años, en >50 años edad x 10.
-Probabilidad alta (>7) → AngioTAC
+Probabilidad alta (>6) → AngioTAC
 También tiene alto VPN en probabilidad media o baja (descarta con seguridad). Pero si la sospecha es alta y da negativo hay que seguir estudiando.
 
 
@@ -447,6 +457,10 @@ Troponina: daño miocárdico (alto VPN)
 ProBNP: disfunción y dilatación VD (alto VPN).
 
 ### ANTICOAGULACIÓN
+Anticoagulación inicial (ficha [[Enoxaparina]], [[TEP - Tromboembolismo Pulmonar]]):
+- HBPM de elección: Enoxaparina 1mg/kg/12h SC o 1,5mg/kg/24h SC. Ajuste si FG <30 → 1mg/kg/24h.
+- HNF: solo si inestabilidad extrema o previsión de procedimientos inminentes.
+- Mantenimiento/alta: ACOd (limitación: FG <30). Duración 3-6m si provocado; indefinida si no provocado o FR persistente.
 
 Dosis terapéuticas por kg/d:
 
@@ -483,7 +497,7 @@ Transfusión: se recomienda ser restrictivo.
 Sin comorbilidades ni cardiopatía: Hb <7g/dl. Objetivo Hb 7-9 g/dl.
 Con cardiopatía: Hb <8 g/dl. Objetivo Hb >9g/dl.
 Plaquetas: solo si <50.000
-IBPs a dosis altas: bolo 80mg IV + perfusión continua (Omeprazol 80mg en 100ml de SG5% a pasar a 10ml/h)
+IBPs a dosis altas: bolo 80mg IV + perfusión 8mg/h × 72h (Omeprazol 80mg en 100ml de SG5% a pasar a 10ml/h). Alternativa no inferior: bolo 80mg + 40mg IV/6-12h. Tras 72h: IBP oral a dosis doble ([[Hemorragia Digestiva Alta (HDA)]])
 Corrección de la anticoagulación:
 Sintrom: INR <2.5 antes de la endoscopia. Vitamina K 5-10mg IV (estable HD) o CPC + vit K (inestabilidad HD).
 ACOd: su efecto desaparece en las 12-24h sigientes a la suspensión.
@@ -512,6 +526,11 @@ La endoscopia urgente (<12h) o emergente (<3h) NO office beneficio sobre la mort
 
 ### HEMORRAGIA DIGESTIVA ALTA POR HTP
 Dejo solo el algoritmo porque es menos frecuente, para tener en mente que se ponen más cosas.
+Se añade a lo anterior en el cirrótico (Baveno VII 2022; [[Hemorragia Digestiva Alta (HDA)]]):
+- Transfusión restrictiva objetivo Hb 7-8 g/dl (transfundir de más ↑ presión portal y resangrado). NO plasma/factor VIIa/tranexámico de rutina.
+- Vasoactivo inmediato ante la sospecha (sin esperar a la endoscopia), 2-5 días: Terlipresina 2mg/4h IV (vigilar hiponatremia) / Somatostatina bolo 0,25mg + 250-500µg/h / Octreótido bolo 50µg + 50µg/h.
+- Profilaxis antibiótica × 7d: Ceftriaxona 1g/24h IV (cirrosis avanzada) o Norfloxacino 400mg/12h VO.
+- Endoscopia <12h (Eritromicina 250mg IV 30-120min antes como procinético): ligadura con bandas de varices esofágicas.
 
 ## HEMORRAGIA DIGESTIVA BAJA
 Por debajo del ángulo de Treiz (intestino delgado y colon). Asocian menor mortalidad y menores necesidades transfusionales, pero un 15% de rectorragias son HDA con tránsito rápido. Se manifiestan como:
@@ -797,7 +816,7 @@ Sistema BISAP: más práctica.
 Hidratación: 5-10ml/kg en la primera hora, luego 1-3 ml/kg. Preferiblemente cristaloides.
 Analgesia: no hay ninguno contraindicado. De elección hidromorfona.
 Nutrición: enteral de elección (la atrofia vellositaria favorece la traslocación bacteriana). Pobre en grasas.
-Antibioterapia NO. Ni siquiera con pancreatitis grave ni con necrosis.
+Antibioterapia profiláctica NO (ni en pancreatitis grave ni en necrosis estéril). SÍ empírica ante necrosis INFECTADA: fármacos con penetración pancreática — carbapenémicos o ciprofloxacino + metronidazol (Manual cap. 39; [[Pancreatitis Aguda]]).
 Etiológico:
 Litiásica: colecistectomía. Si necrosis, diferir hasta que baje la inflamación.
 Coledocolitiasis o colangitis aguda: CPRE en las primeras 72 horas.
@@ -1109,6 +1128,7 @@ ECG
 TRATAMIENTO AGUDO = SSH 3% en caso de hiponatremia con riesgo vital:
 Síntomas moderados-graves + Instauración aguda <48h
 Riesgo de edema cerebral (Na <125 mEq/l, edad fértil, niños, enfermedad craneal expansiva, hipoxemia)
+Pauta: bolo 150ml SSH 3% en 20 min; objetivo subir Na 5 mEq/L en la 1ª hora hasta ceder síntomas. ⚠️ Límite de seguridad: NO subir >8-10 mEq/L/24h (riesgo de mielinólisis; guía europea hiponatremia, [[Hiponatremia]]).
 
 
 TRATAMIENTO CRÓNICO = Restricción hídrica. En paciente con R de mielinosis pontina (ancianos, malnutrición, hipocalcemia, hipoK, instauración crónica >48h.
@@ -1162,6 +1182,7 @@ Osmu 300-600: diagnóstico diferencial entre DI parcial, central con deshidratac
 TRATAMIENTO
 **Según Manual 12 Octubre:**
 **Calcular déficit de agua mediante la fórmula:**
+Déficit de agua libre (L) = ACT × [(Na medido / 140) − 1]; ACT (agua corporal total) = peso × 0,6 (varón joven) o × 0,5 (mujer y ancianos). ([[Hipernatremia]])
 
 **¿Con qué?**
 Agua libre de sodio = aguda bebida o por SNG
@@ -1207,7 +1228,7 @@ Más frecuente en pacientes con ICC o cirrosis que reciben IECA, ARA-II o ahorra
 | --- | --- |
 | 1. Estabilizar membrana miocardio | Gluconato cálcico: 1-2 ampollas en 50cc SG 5%, en 3-5 min.  Repetir cada 30-60min. |
 | 2. Desplazar K al interior celular | Insulina rápida: 10-20 UI en 500cc SG 10% en 60 min.  Control horario glucémico las siguientes 5-6h.  Repetir cada 2-4 horas o mantener perfusión.  Si glucemia <250, añadir glucosa.  Salbutamol: 10-20 mg en 4ml SSF en 10min o 0.5mg sc. Evitar en CI o taquiarritmias Bicarbonato sódico: (SÓLO si pH<7.20, HCO3 <20) 250-500ml NaCO3 1/6M en 2-4h Repetir según gasometría |
-| 3. Eliminar K+ del organismo | Furosemida IV (según volemia y FG) Resincalcio: 0.5-1 sobre de 15g/d Diálisis: si IR grave, oligoanuria o no respuesta. |
+| 3. Eliminar K+ del organismo | Furosemida IV (según volemia y FG) Quelante intestinal de elección: ciclosilicato de zirconio-sodio (SZC, inicio 1-2h) o patiromer; EVITAR resinas clásicas (poliestireno sulfonato / Resincalcio) por riesgo de necrosis intestinal ([[Hiperpotasemia]]) Diálisis: si IR grave, oligoanuria o no respuesta. |
 | HIPERK MODERADA (6-7 mEq/l o hiperK leve con IR grave) | HIPERK MODERADA (6-7 mEq/l o hiperK leve con IR grave) |
 | Diuréticos de asa / tiazidas Resincalcio Glucosa + Insulina | NaCO3 si acidosis metabólica Diálisis si IR grave |
 | HIPERK LEVE (5.5-6 mEq/l, asintomático, sin cambios ECG) | HIPERK LEVE (5.5-6 mEq/l, asintomático, sin cambios ECG) |
@@ -1275,13 +1296,23 @@ Dosis correctora = (470 - 170) / 60 = 5 UI
 
 
 ### CETOACIDOSIS DIABÉTICA
-
+Dx: hiperglucemia >250mg/dl (euglucémica <250 si iSGLT2) + acidosis metabólica con anion gap (pH <7,30 y/o HCO3 <18) + cetonemia (β-OHB ≥3 mmol/l). (Manual p.757-758; [[Cetoacidosis Diabética (CAD)]])
+Secuencia: fluidos → potasio (ANTES de insulina) → insulina → glucosa al bajar.
+1. Fluidos: SSF 0,9% 1.000ml en la 1ª hora, luego 250-500ml/h.
+2. Potasio: si K <3,3 → NO dar insulina hasta corregir; K 3,3-5,3 → 20-40 mEq KCl/L; K >5,3 → no aportar y monitorizar.
+3. Insulina regular: 0,1 UI/kg en bolo + 0,1 UI/kg/h en perfusión.
+4. Glucemia <200mg/dl → añadir SG5% y bajar insulina a 0,02-0,05 UI/kg/h.
+⚠️ Error clásico: insulina sin corregir el potasio (arritmia/parada). Bicarbonato solo si pH <6,9.
 
 ### SÍNDROME HIPERGLUCÉMICO HIPEROSMOLAR
-
+Dx: glucemia ≥600mg/dl + osmolalidad efectiva >320 mOsm/kg + pH >7,30 + HCO3 >15 + cetonuria negativa/débil + alteración del estado mental. Típico en anciano con DM2. Mortalidad 10-20% (~10× la CAD). (Manual p.755-758; [[Síndrome Hiperglucémico Hiperosmolar (SHH)]])
+Manejo (déficit de volumen MAYOR que en CAD): misma secuencia fluidos → K → insulina.
+- Fluidos SSF 0,9% 1.000ml/1ª h; K antes de insulina si <3,3; insulina 0,1 UI/kg bolo + 0,1 UI/kg/h.
+- Glucemia <300mg/dl (umbral distinto a la CAD) → añadir SG5% y bajar insulina a 0,02-0,05 UI/kg/h.
+⚠️ Corrección DEMASIADO rápida de osmolalidad/glucemia → edema cerebral: bajar glucemia 70-100mg/dl/h y osmolalidad 3-8 mOsm/kg/h.
 
 ## CÓDIGO SEPSIS
-Protocolo de urgencias de la FJD
+Protocolo de urgencias de la FJD. Serie SSC 2026 en el vault: [[Sepsis y Shock Séptico]] (Noradrenalina vasopresor de 1ª línea, bundle de 1h).
 ### DEFINICIONES
 Sepsis: SOFA >=2ptos
 Shock séptico: necesidad de vasopresores para mantener PAM >65mmHg + lactato >2 mmol/L tras adecuada resucitación de fluidos.
