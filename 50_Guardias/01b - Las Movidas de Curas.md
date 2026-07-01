@@ -24,6 +24,7 @@ CUIDADO: Tenemos que valorar el tiempo que lleva incarcelada ya que puede haber 
 Si no se consigue, NO intentar maniobras intensas con fuerza.
 
 # ABSCESO
+(ver nota completa: [[Absceso - Drenaje en Urgencias]])
 La causa más común es el S. aureus.
 Sospechar SARM:
 Hospitalización reciente
@@ -105,7 +106,7 @@ Material protésico
 Riesgo de transmisión de S. aureus
 Riesgo de endocarditis (antecedentes, prótesis valvular, cardiopatía estructural)
 
-ANTIBIOTERAPIA DE AMPLIO ESPECTRO CON AMOXI-CLAV excepto:
+ANTIBIOTERAPIA DE AMPLIO ESPECTRO CON AMOXI-CLAV 875/125mg cada 8h durante 7 días (ficha [[Amoxicilina-Clavulanico]]; nota [[Absceso - Drenaje en Urgencias]]) excepto:
 Antecedentes de SARM
 Inmunodeprimidos, dializados o institucionalizados
 Viaje a regiones de alta prevalencia de SARM
@@ -124,6 +125,7 @@ Glucagón 1mg IV (relaja musculatura lisa esofágica) + 5mg Diazepam
 Si náuseas: Ondansetron (efecto central). NUNCA PRIMPERAN (aumenta motilidad gástrica y cierra EEI)
 # ESPINA
 # EPISTAXIS
+(ver nota completa: [[Epistaxis]])
 **VALORACIÓN INICIAL**
 
 ASEGURAR VÍA AÉREA Y ESTADO HD
@@ -188,12 +190,12 @@ Requiere hospitalización
 Sintrom:
 
 
-| SANGRADO NO ABUNDANTE | SANGRADO NO ABUNDANTE |
+| SANGRADO NO ABUNDANTE (INR) | ACTITUD |
 | --- | --- |
 | INR menor 4.5 | Omitir/ Disminuir siguiente dosis. NO cambio DTS |
 | INR 4.5-10 | Suspender ACO +/- VitK VO mitad dosis + INR c/48-72h hasta reanudar |
 | INR mayor 10 | Suspender ACO + VitK VO. INR diario. |
-| SANGRADO ABUNDANTE | Suepender ACO + VitK/PFC |
+| SANGRADO ABUNDANTE | Suspender ACO + VitK/PFC |
 
 
 
@@ -212,6 +214,7 @@ Amoxicilina/Clavulánico 500/125mg cada 8 horas
 
 # PATOLOGÍA ANAL
 ## HEMORROIDES
+(ver nota completa: [[Hemorroides]])
 **CLASIFICACIÓN**
 Grado 1: protuyen en el canal anal. Puede salir sangre roja viva.
 Grado 2: prolapsan al defecar y regresan espontáneamente al ceder el esfuerzo.
@@ -292,6 +295,7 @@ Si proctalgia intensa y fiebre sin signos externos – tacto rectal: dolor selec
 TRATAMIENTO: drenaje quirúrgico bajo anestesia.
 
 ## FISURA ANAL
+(ver nota completa: [[Fisura Anal]])
 Dolor intenso al defecar.
 
 **TRATAMIENTO MÉDICO:**
@@ -308,4 +312,6 @@ Se debe realizar dicho tratamiento durante 6 semanas. Realizaremos revisión con
 Analgésicos y AINE VO
 Si no mejora con tratamiento médico derivar a Cirugía General para ELI.
 # DOLOR TESTICULAR
+(ver nota completa: [[Escroto Agudo y Orquiepididimitis]])
 # ODONTALGIA
+(ver nota completa: [[Odontalgia y Flemón Dental]])
