@@ -1,10 +1,22 @@
 ---
-tags: [plantilla, guardia, cot]
+tags: [plantilla, guardia, cot, trauma]
 ---
 
 **PLANTILLAS URGENCIAS.**
 **GUARDADLAS EN TTO Y RECOMENDACIONES**
 
+> [!note]- ✅ Reconciliado con evidencia del vault (2026-07-01)
+> **Dosis verificadas (doble pasada contra `20_farmacos/`):**
+> - Paracetamol 1 g/8 h — máx 4 g/día; 2-3 g/día en ancianos/hepatópatas (ficha [[Paracetamol]]).
+> - Metamizol 575 mg/8 h — máx 2,3 g/día VO (ficha [[Metamizol]]).
+> - Ibuprofeno 600 mg/8 h — con alimentos, máx 2400 mg/día (ficha [[Ibuprofeno]]).
+> - Enoxaparina (Inhixa) 40 mg = 4000 UI SC/24 h = profilaxis TEV en encamado/inmovilizado (ficha [[Enoxaparina]]). **Ajuste renal FG<30: 1 mg/kg/24 h.**
+>
+> **Omisiones relevantes (respaldadas por el vault):**
+> - Con Ibuprofeno/AINE, añadir **gastroprotección con Omeprazol 20 mg/24 h** mientras dure (notas [[Esguince de Tobillo]], [[Gonalgia y Lesión Ligamentosa de Rodilla]], [[Patología de Muñeca]]).
+> - **Evitar AINE** en >65 años, ERC (FG<30), cardiópatas, HTA mal controlada o tríada de Samter → sustituir por Metamizol 575 mg/8 h (notas [[Omalgia - Dolor de Hombro]], [[Traumatismo General - Plantilla]]).
+>
+> **Exploración física de referencia:** [[Exploración de Rodilla]] · [[Exploración de Tobillo y Antepié]] (reglas de Ottawa, Thompson para Aquiles, clasificación de esguince en [[Esguince de Tobillo]]).
 
 Humero proximal
 Luxacion Hombro
@@ -76,6 +88,7 @@ PPCC:
 Rx control: satisfactoria
 
 Se realiza reducción cerrada de la luxación mediante maniobra de tracción-contracción, tras administrar 1/2 ampolla de dolantina.
+<!-- ⚠️ sin respaldo en vault: no hay ficha de dolantina (petidina/meperidina); dosis "1/2 ampolla" no verificable -->
 
 JC:  Luxación glenohumeral ...........
 
