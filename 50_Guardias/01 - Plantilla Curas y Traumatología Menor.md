@@ -126,7 +126,7 @@ Acude a urgencias por cervicalgia de X de evolución. Refiere que tras XXXX, com
 
 ***** Exploración física.**
 
-**Cervical: PLANTILLA EXPLORACIÓN.docx**
+**Cervical: ver bloque cervical en [[00 - Exploración]] (clínica en [[Cervicalgia Mecánica]]).**
 
 *** Resumen Evolución.
 Paciente de … años con los antecedentes personales descritos, acude a Urgencias por CERVICALGIA. A su llegada y tras exploración física se pauta analgesia con *** via ***, con mejoría parcial/total del dolor. Tras radiografía cervical sin aparente patología ósea aguda, se explican los resultados y se cursa alta con medicación ambulatoria, recomendaciones y control con su médico de atención primaria.
@@ -140,6 +140,7 @@ Paciente de … años con los antecedentes personales descritos, acude a Urgenci
 - Control por su Médico de Atención Primaria.
 
 ### 2.3. TRAUMATISMO CRANEO-ENCEFÁLICO o TCE (Catrain).
+(ver nota completa: [[TCE Leve-Moderado]])
 
 Antes de nada, para realizar un TAC craneal, hay que seguir la REGLA CANADIENSE.
 
@@ -163,27 +164,27 @@ Los cinco primeros criterios se consideran "alto riesgo", mientras que los crite
 
 https://www.mdcalc.com/calc/608/canadian-ct-head-injury-trauma-rule
 
-**ANEXO CRITERIOS DE PEDIR RX CERVICAL (Domínguez/Llorente)**
+**ANEXO CRITERIOS DE PEDIR RX CERVICAL (Domínguez/Llorente)** — (reorganizado según [[TCE Leve-Moderado]] para evitar ambigüedad)
 
-CRITERIOS NEXUS
+CRITERIOS NEXUS (si se cumplen TODOS → no hace falta Rx)
 No dolor en linea media espinal
 No focalidad NRL
 Nivel consciencia normal
 No intoxicación
 No lesiones distractoras
 
-REGLAS CANADIENSES (debe cumplir todos)
-Paciente adulto GCS 15
-NO factores de riesgo alto
-Edad >65 años
-Parestesias en miembros
-Alta energía: caída >3m/5 escalones, traumatismo axial cabeza, alta velocidad, bicicleta.
-SÍ factores de riesgo bajo
-Colisión trasera
-Sentado en Urgencias
-Dolor cervical de aparición tardía
-No dolor línea media espinal
-Sí capacidad para rotar el cuello 45° a ambos lados.
+REGLAS CANADIENSES C-SPINE (debe cumplir todo para NO pedir Rx)
+- Requisito: paciente adulto, GCS 15.
+- Factores de riesgo ALTO (si hay alguno → pedir Rx/TC):
+  Edad >65 años
+  Parestesias en miembros
+  Alta energía: caída >3m/5 escalones, traumatismo axial cabeza, alta velocidad, bicicleta.
+- Factores de riesgo BAJO (solo se valoran si NO hay factores de alto riesgo; permiten explorar la rotación):
+  Colisión trasera
+  Sentado en Urgencias
+  Dolor cervical de aparición tardía
+  No dolor línea media espinal
+- Si cumple un factor de bajo riesgo Y puede rotar el cuello 45° a ambos lados → se puede NO pedir Rx.
 
 
 *** Enfermedad actual.
@@ -689,9 +690,10 @@ Paciente con buen estado general. Normohidratado/a, normocoloreado/a y bien perf
 
 MII/MID: sin lesiones.
 
-TOBILLO: No lesiones dermatológicas/Se aprecia hematoma/ tumefacción a nivel de maléolo externo e interno. Dolor a la palpación de ligamento peroneo-astragalino anterior, peroneo astragalino posterior y ligamento peroneocalcaneo. No dolor a la palpación de ligamento deltoideo, cabeza de quinto metatarsiano, tibia y peroneo distal y proximal. Dolor a la inversión/eversión pasiva. Fuerza y sensibilidad distal conservada. Pulsos pedios conservados.
+TOBILLO: No lesiones dermatológicas/Se aprecia hematoma/ tumefacción a nivel de maléolo externo e interno. Dolor a la palpación de ligamento peroneo-astragalino anterior, peroneo astragalino posterior y ligamento peroneocalcaneo. No dolor a la palpación de ligamento deltoideo, base del 5º metatarsiano, tibia y peroneo distal y proximal. Dolor a la inversión/eversión pasiva. Fuerza y sensibilidad distal conservada. Pulsos pedios conservados.
+<!-- corregido "cabeza"→"base del 5º metatarsiano": la avulsión por peroneos se palpa en la BASE (ver [[Exploración de Tobillo y Antepié]], Reglas de Ottawa) -->
 
-Radiografía de tobillo: No patología ósea aguda.
+Radiografía de tobillo: No patología ósea aguda. (Rx según Reglas de Ottawa; detalle en [[Exploración de Tobillo y Antepié]] y [[Esguince de Tobillo]])
 
 *Recordatorio*
 Grado I: Lesión leve, sobreestiramiento del ligamento con micro-roturas. NO HEMATOMA.
@@ -732,7 +734,7 @@ Paciente mujer/varón de X años que acude a urgencias por aparente MONOARTRITIS
 
 *** Tratamiento al alta.
 - Inacid (Indometacina) 25 mg 2 cápsulas cada ocho horas hasta fin del dolor.
-- Colchicina 1 gránulo cada 8 horas durante 2 días. Posteriormente 1 gránulo cada 12 horas durante 2 días y 1 gránulo diario durante 3-4 semanas más. El efecto secundario más común de este fármaco es la diarrea.
+- Colchicina 0,5 mg: carga 1 mg (2 comp) al inicio y después 0,5 mg cada 8 h. **NO superar 2 mg/día ni 4 días seguidos (máx. acumulado 6 mg por episodio).** Después, profilaxis 0,5-1 mg/día. Contraindicada si ClCr <30 ml/min; ajustar en ClCr 30-50. Efecto secundario más común: diarrea. (corrige el "1 gránulo/8h" previo = 3 mg/día, que EXCEDE el máx; ficha [[Colchicina]] y nota [[Gota - Artritis Gotosa Aguda]]; coincide con el anexo de esta misma plantilla)
 - Omeprazol 20mg una vez al día durante el tratamiento con indometacina.
 - Hielo local y reposo relativo.
 - Control en Consulta de Reumatología y por su Médico de Atención Primaria.
