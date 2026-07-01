@@ -2,6 +2,11 @@
 tags: [plantilla, guardia, cot]
 ---
 
+> [!note]- Reconciliación con evidencia del vault (2026-07-01)
+> **Exploración respaldada por el vault:** escafoides (tabaquera anatómica + tubérculo, telescopaje) → [[Patología de Muñeca]]; codo/cabeza radial (triángulo de Nelatón, soft point) → [[Patología de Codo]]; cadera (roll test, dolor en ingle/trocánter) → [[Coxalgia - Dolor de Cadera]]; pulgar del esquiador (bostezos colaterales del 1er dedo) → [[Traumatismo de Dedo de Mano]]; rodilla → [[Exploración de Rodilla]]; tobillo/pie (sindesmosis, base 5º MTT, reglas de Ottawa) → [[Exploración de Tobillo y Antepié]].
+> **Matiz del vault:** en [[Patología de Muñeca]] el **telescopaje** se atribuye a la fx de radio distal; la sospecha de escafoides se basa en dolor en tabaquera + tubérculo (puede no verse en la Rx inicial → inmovilizar por la clínica, como ya recoge esta chuleta).
+> **Sin respaldo en el vault** (fuente propia del hospital/Orthobullets, verificar): protocolo de ingreso y preoperatorio de fx de cadera, manejo perioperatorio de anticoagulación (Sintrom/ACOD/clopidogrel/AAS), técnicas de reducción, tipos de inmovilización e interpretación radiológica detallada.
+
 APUNTES TRAUMATOLOGÍA
 Recursos: Orthobullets y bonexray.com
 
@@ -65,7 +70,7 @@ A las 2 semanas movimientos pendulares y a las 6 semanas movimientos activos.
 Las fracturas de cabeza/cúpula de radio son difíciles de ver, incluso a veces parece que no hay nada. Paciente con mucho dolor y limitación funcional, incluso si no está claramente roto: cabestrillo 1-2 semanas, que empiece a mover desde el minuto 1.
 Siempre que evite compresiones axiales (tipo apoyarse para levantarse de la silla, apoyarse en la pared…)
 ## FRACTURA ESCAFOIDES
-Exploración: 3 items
+Exploración: 3 items (ver [[Patología de Muñeca]])
 Dolor a la palpación de tabaquera anatómica
 Dolor a la palpación de tubérculo de escafoides
 Dolor al hacer telescopaje
@@ -119,7 +124,7 @@ La fractura de 2º o 3er MTC es igual solo que pones en posición funcional los 
 Típico de niños con dolor de cadera tras chutar fuerte (contracción brusca del cuádriceps).
 Tto: Analgesia + Reposo deportivo 2 semanas + Revisión en Trauma Pediátrica
 ## FRACTURA DE CADERA
-EXPLORACIÓN
+EXPLORACIÓN (ver [[Coxalgia - Dolor de Cadera]])
 Acortamiento y rotación
 Dolor a la palpación en trocánter e ingle
 Dolor con roll test
@@ -136,6 +141,7 @@ Tto ORTO-GRT (analgesia, antieméticos, neurolépticos, sueros “revisar lo que
 Indicar cuando comenzar ayunas en función de última dosis anticoagulante.
 Apuntar en hoja de C15.
 ANTICOAGULACIÓN
+<!-- ⚠️ sin respaldo en vault: manejo perioperatorio de anticoagulación (días de suspensión de ACOD/clopidogrel/AAS, umbral de INR) no documentado en el vault; verificar en fuente propia -->
 Sintrom : según INR +/- vit K. Se puede operar con INR 1.5.
 ACOD:
 Anestesia general: 2 días de suspensión
@@ -161,6 +167,7 @@ Si molesta por los extremos: aflojar con pico-pato
 Si es un yeso cerrado de un Colles: abrir una tira con la sierra hasta la piel y poner un algodón y vendar. No lo cambiamos porque se puede perder la reducción.
 
 # RADIOGRAFÍA TRAUMA
+<!-- ⚠️ sin respaldo en vault: la interpretación radiológica detallada (líneas del codo, Gilula, columna cervical, mortaja del tobillo) no está documentada en el vault; verificar en Orthobullets/fuente propia. Exploración clínica correlacionada: [[Exploración de Rodilla]], [[Exploración de Tobillo y Antepié]] -->
 ## CODO
 Para interpretar la Rx:
 Línea radiocapitelar: línea a través del centro del cuello radial debe atravesar el centro del capitellum en todas las proyecciones.
