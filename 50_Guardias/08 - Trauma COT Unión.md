@@ -4,6 +4,21 @@ tags: [plantilla, guardia, cot, trauma]
 
 Unión de superCOT (pendiente revisar)+ COT alex rhb (hecho) + COT regi  (hecho)
 
+> [!note]- ✅ Reconciliado con evidencia del vault (2026-07-01)
+> **Dosis verificadas (doble pasada contra `20_farmacos/`):**
+> - Paracetamol 1 g/8 h — máx 4 g/día; 2-3 g/día en ancianos/hepatópatas (ficha [[Paracetamol]]).
+> - Metamizol 575 mg/8 h — máx 2,3 g/día VO (ficha [[Metamizol]]).
+> - Ibuprofeno 600 mg/8 h — con alimentos, máx 2400 mg/día (ficha [[Ibuprofeno]]).
+> - Enoxaparina (Inhixa/ROVI) 40 mg = 4000 UI SC/24 h = profilaxis TEV en encamado/inmovilizado (ficha [[Enoxaparina]]). **Ajuste renal FG<30: 1 mg/kg/24 h. Suspender ≥12 h antes de cirugía.**
+> - Amoxicilina-clavulánico: IV grave 1000/200 mg/8 h; VO 875/125 mg/8 h (ficha [[Amoxicilina-Clavulanico]]).
+> - Anestesia local para reducción/suturas: mepivacaína 2% (nota [[Heridas y Suturas]]).
+>
+> **Omisiones relevantes (respaldadas por el vault):**
+> - Con Ibuprofeno/AINE, añadir **gastroprotección con Omeprazol 20 mg/24 h** mientras dure (notas [[Esguince de Tobillo]], [[Gonalgia y Lesión Ligamentosa de Rodilla]], [[Patología de Muñeca]]).
+> - **Evitar AINE** en >65 años, ERC (FG<30), cardiópatas, HTA mal controlada o tríada de Samter → sustituir por Metamizol; rescate con Tramadol 50 mg o Zaldiar (nota [[Traumatismo General - Plantilla]]).
+>
+> **Exploración física de referencia:** [[Exploración de Rodilla]] · [[Exploración de Tobillo y Antepié]] (reglas de Ottawa, Thompson para Aquiles, base del 5º MTT, clasificación de esguince en [[Esguince de Tobillo]]).
+
 
 # CADERA (evolutivo + ingreso)
 
@@ -51,6 +66,7 @@ Pautar protocolo ORTO-GRT (revisar fármacos, alergias)
 Suspender heparina/anticoagulación según cuando se opere
 Apuntar en el drive / hoja de la C15
 COT 1: ; COT2: ; COT3: ; COT4:
+<!-- ⚠️ sin respaldo en vault: protocolo de ingreso de fractura de cadera (ORTO-GRT, formularios TRA, circuito ITC Geriatría/Anestesia) es institucional; no hay nota de evidencia en el vault. El manejo perioperatorio de HBPM sí está respaldado (ficha [[Enoxaparina]]: suspender ≥12 h antes de cirugía). -->
 
 
 # MIEMBRO SUPERIOR
@@ -103,6 +119,7 @@ PPCC:
 Rx control: satisfactoria
 
 Se realiza reducción cerrada de la luxación mediante maniobra de tracción-contracción, tras administrar 1/2 ampolla de dolantina.
+<!-- ⚠️ sin respaldo en vault: no hay ficha de dolantina (petidina/meperidina); dosis "1/2 ampolla" no verificable -->
 
 JC:  Luxación glenohumeral ...........
 
@@ -382,6 +399,9 @@ Cierre con ethilon 3/0.
 Inmovilización muñeca derecha con férula antebraquial.
 Augmentine 2g IV
 Valorar necesidad de antitetánica.
+<!-- ⚠️ verificar en vault: la ficha [[Amoxicilina-Clavulanico]] recoge amox-clav IV grave 1000/200 mg/8h (2 g IV es presentación válida), pero NO la pauta de profilaxis ATB de herida como dosis única. La profilaxis antitetánica no está documentada en el vault (sin nota de calendario/indicación): verificar estado vacunal. -->
+<!-- Pauta de alta "Augmentine 1 g/8 h 7 días" concuerda con 875/125 mg/8h VO de la ficha [[Amoxicilina-Clavulanico]]. -->
+
 
 Mantener vendajes 7 dias. No mojar
 Retirar férula a los 7 días.
@@ -448,6 +468,7 @@ TRATAMIENTO Y RECOMENDACIONES AL ALTA:
 - Analgesia:
 * Paracetamol 1g c/8h alternando cada 4 horas con Metamizol 575 mg c/8h.
 * Como rescate podrá tomar Tramadol 50 mg c/12 horas.
+<!-- Tramadol como rescate está respaldado por [[Traumatismo General - Plantilla]], aunque allí la pauta es 50 mg c/8h (+ metoclopramida antes de cada toma); no hay ficha propia de Tramadol en 20_farmacos/ -->
 - Mantengo citas de revisión en consulta.
 
 En caso de empeoramiento o nuevos síntomas, acudirá a Urgencias.
@@ -793,7 +814,8 @@ ENVDC
 
 RX: fx diafisaria tibia con extension articular + fx diafisaria perone derecho
 JC: fx diafisaria tibia con extension articular + fx diafisaria perone derecho (Gustilo II)
-
+<!-- ⚠️ sin respaldo en vault: la clasificación de Gustilo-Anderson (fracturas abiertas) y el protocolo de antibioterapia/vacuna antitetánica en fractura abierta no están documentados en el vault: verificar -->
+<!-- ⚠️ sin respaldo en vault: "urbasón" (metilprednisolona) en fractura abierta no tiene indicación documentada en el vault ni en la ficha [[Metilprednisolona]] para este contexto: verificar -->
 Bajo sedoanalgesia se procede a realizar:
 Lavado heridas con SSF
 Cierre pìel con grapas
