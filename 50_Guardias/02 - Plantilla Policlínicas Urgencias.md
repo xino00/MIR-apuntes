@@ -76,6 +76,8 @@ Llorente: En caso de dudas consultar protocolos de Urgencias de ORL (Qualios). P
 **Catrain: este documento te ayudará a entender Polis Covid, es un paper de cuatro páginas Infec Respi Altas (2010).pdf**
 
 ## FARINGOAMIGDALITIS (Llorente)
+*Evidencia vault: [[Faringoamigdalitis Aguda]].*
+⚠️ Duración de amoxicilina: la pauta PROA local es 5-7 días, pero el Manual 12 Octubre indica **10 días** (o fenoximetilpenicilina 10 días) para erradicar S. pyogenes en recurrencias/riesgo de fiebre reumática ([[Faringoamigdalitis Aguda]]).
 *** Enfermedad actual.
 Paciente de X años que consulta por cuadro de X días de evolución de odinofagia y fiebre termometrada de hasta 38 °C. Niega disnea, tos, disfagia u otra clínica asociada.
 *Se realiza escala de Centor: Tª >38 ºC, ausencia de tos, adenopatías cervicales dolorosas y exudado amigdalar.
@@ -114,6 +116,7 @@ ALÉRGICOS: Clindamicina 300mg 1 comprimido cada 8 horas durante 5 días.
 RECURRENCIAS/FALLO TTO: Amoxicilina/Clavulánico 500/125mg 1 comprimido cada 8 horas durante 7 días.
 
 ## LARINGITIS AGUDA (Superpolis - Rev. Cat.)
+*Evidencia vault: [[Laringitis Aguda]].*
 *** Enfermedad actual.
 Paciente de X años que acude por cuadro de X días de evolución de odinofagia, disfonía progresiva y tos seca persistente, en contexto de cuadro catarral. Refiere sensación de sequedad faríngea y afonía vespertina. Niega fiebre termometrada, disnea, expectoración purulenta u otra clínica asociada. Ha realizado tratamiento con [xxxxx] sin mejoría significativa.
 *** Exploración física.
@@ -135,6 +138,7 @@ SI MUY MAL SE PUEDE VALORAR PAUTA CORTA DE CORTIS (Prednisona 30mg 3 días y sus
 - Acudirá nuevamente a urgencias si aparece disnea, estridor, odinofagia intensa o fiebre persistente.
 
 ## OTITIS EXTERNA (Superpolis - Rev. Catrain.)
+*Evidencia vault: [[Otitis Externa]].*
 *** Enfermedad actual.
 Paciente de X años que consulta por otalgia unilateral de X días de evolución, con alivio parcial tras analgesia habitual. Niega otorrea, otorragia, fiebre, clínica catarral u otra sintomatología asociada. Refiere inmersiones recientes en piscina/mar.
 *** Exploración física. Exploración física
@@ -168,6 +172,7 @@ Seguimiento y signos de alarma:
 
 
 ## OTITIS MEDIA AGUDA (Llorente - Rev. Cat.)
+*Evidencia vault: [[Otitis Media Aguda (OMA)]].*
 
 *** Enfermedad actual.
 Sin perforación timpánica (inicio del cuadro):
@@ -211,6 +216,7 @@ Si presenta parálisis facial asociada, se debe comentar con el servicio de ORL 
 *Aparición de supuración por el oído.
 
 ## OTITIS MEDIA SEROSA/ OTOTUBARITIS (Llorente - Superpolis - Rev. Catrain).
+*Evidencia vault: [[Otitis Media Serosa y Ototubaritis]].*
 *** Enfermedad actual.
 Paciente de X años que acude a urgencias por cuadro de otalgia de X días de evolución que cede / no cede con analgésicos habituales. Refiere hipoacusia unilateral, sensación de taponamiento y acúfenos. Refiere cuadro catarral hace unas semanas. Niega otorrea, otorragia, fiebre u otros síntomas asociados.
 *** Exploración física.
@@ -240,6 +246,7 @@ Seguimiento y signos de alarma:
 *Dolor e inflamación detrás de la oreja.
 
 ## DOLOR ATM (Superpolis - Rev. Catrain)
+*Evidencia vault: [[Disfunción Temporomandibular y Bruxismo]].*
 *** Enfermedad actual.
 Paciente de X años que acude a urgencias por dolor en región preauricular derecha/izquierda de X días de evolución, que cede parcialmente / no cede con analgesia habitual. Refiere molestia al masticar y apertura oral limitada. Niega otorrea, otorragia, fiebre o clínica catarral. Refiere aumento del estrés emocional reciente/no descanso nocturno... Niega traumatismo previo. Niega otra sintomatología asociada.
 
@@ -268,6 +275,7 @@ Seguimiento y signos de alarma
 
 
 ## RINOSINUSITIS (Llorente – Rev. Catrain)
+*Evidencia vault: [[Rinosinusitis Aguda]].*
 *** Enfermedad actual.
 Paciente de X años que acude por cuadro de X días de evolución de rinorrea mucosa/purulenta, congestión nasal, hiposmia y presión facial. Niega fiebre, edema periorbitario, afectación del estado general, visión doble u otra clínica acompañante.
 *** Exploración física.
@@ -301,6 +309,7 @@ Seguimiento y signos de alarma
 *Aparición de inflamación ocular, visión doble o afectación del estado general.
 
 ## NEURALGIA DEL TRIGÉMINO (Llorente – Rev. Catrain)
+*Evidencia vault: [[Carbamazepina]] (1ª línea, NNT 1,7).*
 *** Enfermedad actual.
 Paciente de X años que acude por cuadro de dolor facial de varios días de evolución, localizado en el territorio de la rama V1/V2/V3 del trigémino. Refiere episodios de dolor intenso, eléctrico, unilateral, de segundos de duración, con múltiples recurrencias diarias y periodos asintomáticos. Describe puntos gatillo al tocarse la cara, lavarse los dientes o al masticar. Niega fiebre, déficit neurológico, otalgia ni otra clínica acompañante.
 
@@ -315,7 +324,7 @@ Buen estado general, eupneico/a, normocoloreado/a.
 *** Resumen Evolución.
 Paciente con clínica compatible con neuralgia del trigémino sin signos de afectación sistémica ni focalidad neurológica. Buena respuesta al tratamiento en urgencias (50 mg de Tramadol + metoclopramida + 40mg de metilprednisolona). Alta con tratamiento y seguimiento por su médico de atención primaria.
 *** Tratamiento al alta.
-- Carbamazepina: Adulto joven: 200-300 mg cada 8 h (ajustar según respuesta y tolerancia). Paciente mayor: iniciar con 100 mg cada 8 h.
+- Carbamazepina: iniciar **100 mg cada 12 h** con escalada lenta hasta control del dolor; dosis eficaz habitual **400-800 mg/día** (ficha [[Carbamazepina]]). ⚠️ La pauta previa de inicio «200-300 mg/8 h» (600-900 mg/día) supera el rango de la ficha; preferible titular desde 100 mg/12 h.
 - Hidratación abundante.
 - Control del dolor con Paracetamol o Ibuprofeno si precisa.
 - Reposo relativo, evitar desencadenantes (frío, estímulo táctil, estrés).
@@ -328,6 +337,8 @@ Seguimiento y signos de alarma
 *Fiebre, alteración del nivel de consciencia o focalidad neurológica.
 
 ## VÉRTIGO PERIFÉRICO -sospechas de VPPB- (Llorente)
+*Evidencia vault: [[Vértigo en Urgencias]] (protocolo HINTS/HINTS-plus, maniobras) · [[Mareo y Vértigo - Abordaje Diagnóstico]].*
+⚠️ El sedante vestibular (sulpirida/dimenhidrinato) NO debe prolongarse >48 h: dificulta la compensación central; asociar rehabilitación vestibular precoz ([[Vértigo en Urgencias]]).
 **Pa situarse, Llorente hizo esta tablita que es la clasificación del MAREO según UpToDate (se desarrolla más adelante en el apartado de NRL-Mareo).**
 
 
@@ -354,7 +365,7 @@ Pruebas vestibulares: maniobra de Dix-Hallpike positiva / negativa (según el ca
 Clínica y exploración compatibles con vértigo periférico de probable origen vestibular, sin signos de afectación central ni complicaciones. Se realizan maniobras de recolocación/se pauta sedante vestibular, con mejoría clínica. Se indica tratamiento sintomático y seguimiento ambulatorio.
 ***** Tratamiento al alta.**
 - Hidratación abundante (1.5–2 L/día).
-- SEDANTE VESTIBULAR: Dogmatil® (Sulpirida) 50 mg cada 8 h durante 3 días, después reducir a UN COMPRIMIDO cada 12h 3 días y, finalmente, UN COMPRIMIDO por las mañanas durante 3 días y suspender. En caso de persistencia: Betahistina (SERC®) 4 mg cada 8 h hasta revisión.
+- SEDANTE VESTIBULAR: Dogmatil® (Sulpirida) 50 mg cada 8 h durante 3 días, después reducir a UN COMPRIMIDO cada 12h 3 días y, finalmente, UN COMPRIMIDO por las mañanas durante 3 días y suspender. En caso de persistencia: Betahistina (SERC®) **8 mg cada 8 h** hasta revisión (corregido; la sección MAREO de esta misma plantilla usa SERC 8 mg/8 h. En enfermedad de Menière se usa betahistina hasta 24 mg/8-12 h, [[Vértigo en Urgencias]]).
 - Reposo relativo los primeros días. Evitar movimientos bruscos de cabeza. Seguimiento y signos de alarma
 
 Seguimiento y signos de alarma
@@ -820,6 +831,7 @@ Seguimiento y signos de alarma
 
 # DERMATOLOGÍA
 ## URTICARIA (Llorente - Superpolis - Rev. Cat.).
+*Evidencia vault: [[Urticaria Aguda]] (Manual 12 Octubre 2022).*
 *** Enfermedad actual.
 Paciente de X años, sin antecedentes personales relevantes / con antecedentes de [...], que acude por cuadro de X horas/días de evolución de lesiones cutáneas sobreelevadas, eritematosas y pruriginosas, localizadas en [...]. Las lesiones desaparecen espontáneamente en menos de 24 horas, sin dejar marca residual. Niega haber tomado medicación nueva, no refiere ingesta de alimentos distintos a los habituales ni exposición a animales, picaduras, temperaturas extremas ni infecciones recientes. Niega también disnea, síntomas digestivos, fiebre ni otra clínica sistémica asociada. Niega otra sintomatología asociada.
 *** Exploración física.
@@ -836,7 +848,7 @@ Paciente con lesiones cutáneas pruriginosas de morfología y duración típicas
 - Hidratación adecuada: mínimo 1.5–2 L/día.
 - Hidratación cutánea con crema corporal sin perfumes, 2 veces al día.
 - COMO TRATAMIENTO MÉDICO:
-*Cetirizina 10 mg cada 12 h → Si el prurito no cede, puede aumentarse a 10 mg cada 8 h (máximo 3 veces/día).
+*Antihistamínico H1 de 2ª generación: **Cetirizina 10 mg cada 24 h** durante 1-4 semanas. Si no se controla el prurito, escalar paulatinamente hasta **40 mg/día (10 mg cada 6 h)**; mantener la dosis mínima eficaz tras control (corregido según [[Urticaria Aguda]], Manual 12 Octubre; la pauta previa «10 mg/12 h → máx 3 veces/día» no coincidía con el escalado x4 del Manual).
 - Evitar rascado y exposición a factores irritantes (frío, calor, ropa ajustada, jabones fuertes).
 
 Seguimiento y signos de alarma
@@ -851,12 +863,13 @@ Urticaria de más de 6 semanas de evolución (urticaria crónica).
 Sospecha de urticaria vasculitis: lesiones >24 h con signos sistémicos (artralgias, fiebre, pérdida de peso...).
 Urticaria de repetición sin causa clara o con mala respuesta al tratamiento antihistamínico.
 **Solicitar:**
-**Cita en consultas de Dermatologia**
-**Cita en consultas de alergología**
-**AS con perfil diálisis general,  serologías (VIH; VHC; VHB; TPHA; RPR) y perfil autoinmunidad (ANA; AC tiroides; VSG;  PCR; IGG; IGM;)**
+**Cita en consultas de Dermatologia** (urticaria crónica espontánea sin sospecha alérgica).
+**Cita en consultas de alergología** (solo si se sospecha desencadenante alergénico concreto: fármacos, alimentos, picaduras).
+**AS con hemograma + bioquímica con PCR.** ⚠️ Las serologías (VIH; VHC; VHB; TPHA; RPR) y el perfil de autoinmunidad (ANA; AC tiroides; VSG; IGG; IGM) **solo si la historia clínica lo orienta**, no de rutina ([[Urticaria Aguda]]).
 
 
 ## HERPES ZOSTER (Superpolis)
+*Evidencia vault: [[Herpes Zóster]] · [[Valaciclovir]].*
 *** Enfermedad actual.
 Paciente de X años, con antecedentes de [...] / sin antecedentes relevantes, que acude por cuadro de X días de evolución de dolor urente / escozor / hiperalgesia en región [...], seguido de aparición de lesiones cutáneas vesiculosas agrupadas. Niega antecedentes previos de herpes zóster. No ha presentado fiebre, síntomas catarrales, náuseas, alteraciones del ritmo intestinal ni otra sintomatología acompañante. No refiere contacto con personas con varicela.
 ¡OJO! Preguntar por inmunosupresión: fármacos, DM… Si inmunosupresión, posible diseminación cutánea del herpes zoster: presencia de más de 20 vesículas fuera del área de los dermatomas primarios o adyacentes. Este cuadro obliga a descartar con las pruebas complementarias  (analítica, radiografía de tórax y exploración neurológica) la diseminación a nivel visceral del herpes zóster, que se manifiesta como hepatitis, neumonía o encefalitis.
@@ -884,9 +897,10 @@ Paciente con clínica típica de dolor en banda seguido de lesiones vesiculosas 
 
 *ANTIVIRAL:
 Indicaciones de tratamiento antiviral: >50 años, dolor moderado-grave, inmunodeprimidos, clínica grave (lesiones hemorrágicas o necróticas, afectación >1 metámera, lesiones satélites, afectación mucosa), niños y adolescentes en tto con salicilatos o corticoides, dermatitis atópica de base. En las primeras 72 horas del inicio del cuadro.
-1ª ELECCIÓN: Valaciclovir 1 g cada 8 h, 5-7 días.
-ALTERNATIVA: Famciclovir  500 mg cada 8 h, 7 días
+1ª ELECCIÓN: Valaciclovir 1 g cada 8 h, **7 días** (corregido; ficha [[Valaciclovir]]: zóster 1 g/8 h × 7-10 días, ajuste renal si TFG<50).
+ALTERNATIVA: Famciclovir 500 mg cada 8 h, 7 días. Otras: Aciclovir 800 mg 5 veces/día × 7 días; Brivudina 125 mg/24 h × 7 días (contraindicada en inmunodeprimidos y con 5-FU) ([[Herpes Zóster]]).
 Si dolor, Paracetamol 1g, un comprimido cada 8 horas durante 5 días. Si dolor a pesar de Paracetamol, puede alternar con Nolotil 575mg a las 4 horas del Paracetamol.
+*Coadyuvante para neuralgia posherpética (si dolor moderado-intenso o factores de riesgo: >50 años, >50 lesiones, localización craneal/sacra, lesiones hemorrágicas): gabapentina o pregabalina; alternativa tricíclicos ([[Herpes Zóster]]).
 *Si picor, Cetirizina 10mg 1 comprimido cada 24 horas. Si insuficiente control de prurito podrá aumentar dicha dosis hasta 1 comprimido cada 6 horas.
 
 Signos de alarma y seguimiento
@@ -901,6 +915,7 @@ Signos de alarma y seguimiento
 
 
 ## SARNA (Catrain)
+*Evidencia vault: [[Sarna - Escabiosis]] (Manual 12 Octubre 2022).*
 *****Enfermedad actual**
 Paciente de X años que acude por cuadro de X días/semanas de evolución de prurito generalizado, más intenso por la noche, sin fiebre ni otra sintomatología sistémica. Refiere que otras personas de su entorno (familiares, convivientes, pareja, compañeros de trabajo o residencia) presentan síntomas similares. Niega lesiones previas dermatológicas conocidas ni nuevos medicamentos. Niega otra sintomatología asociada.
 *****Exploración física**
@@ -914,12 +929,13 @@ AP: MVC, sin ruidos añadidos.
 Paciente con clínica compatible con escabiosis (sarna), con prurito nocturno característico y lesiones dérmicas típicas. Refiere contacto con convivientes afectados. Buen estado general, sin signos de sobreinfección ni formas complicadas. Se explica el diagnóstico y tratamiento, así como las medidas de higiene y desinfección. Alta con tratamiento tópico y control por su médico de atención primaria.
 
 *****Tratamiento al alta**
-- Permetrina 5% en crema: aplicar por la noche desde el cuello hasta los pies (incluyendo pliegues, uñas y genitales), dejar actuar 8–12 horas y lavar al día siguiente. Repetir a los 7 días.
+- Permetrina 5% en crema: aplicar por la noche desde el cuello hasta los pies (incluyendo pliegues, uñas y genitales), dejar actuar 8–12 horas y lavar al día siguiente. Repetir a los **7-14 días** (ajustado según [[Sarna - Escabiosis]]).
+- Alternativa (sarna noruega, brotes institucionales, fracaso/intolerancia a permetrina): **Ivermectina oral 200 µg/kg** en dosis única, repetir a los 7 días ([[Sarna - Escabiosis]]).
 - Antihistamínico oral (Cetirizina 10 mg cada 12 h) si picor persistente.
 - Evitar rascado para prevenir sobreinfección.
 **- Medidas generales:**
 *Tratar a todos los convivientes, aunque estén asintomáticos.
-*Lavar sábanas, toallas y ropa con agua caliente (>60 °C) o aislar en bolsa cerrada durante 72 h.
+*Lavar sábanas, toallas y ropa con agua caliente (>60 °C) o aislar en bolsa de plástico sellada durante **1 semana** (Manual 12 Octubre; corrige «72 h»).
 *Cambio diario de ropa interior y de cama.
 *Reincorporación a entorno escolar/laboral: tras 24 h del inicio del tratamiento si buena higiene.
 *Puede persistir prurito durante 2–4 semanas tras el tratamiento (no indica fallo terapéutico).
@@ -933,6 +949,7 @@ Paciente con clínica compatible con escabiosis (sarna), con prurito nocturno ca
 
 # NEUROLOGÍA
 ## CEFALEA INTRODUCCIÓN (Catrain)
+*Evidencia vault: [[Cefaleas - Abordaje Inicial]] · [[Migraña - Guía Terapéutica Completa]] · [[Cefaleas Trigemino-Autonómicas y Tensional]].*
 
 (Actualizado con manual del HU120 + Sesión de Andrés NRL en urgencias).
 
@@ -1005,7 +1022,7 @@ Paciente varón/mujer de X años que acude a urgencias por cefalea de X de evolu
 -       MIGRAÑAS: AINES fuertes (si contraindicación, paracetamol-metamizol). Según las indicaciones del prospecto del NAPROXENO 550mg, cuya posología es de 550mg/12h, en el momento de aparición del dolor de cabeza se puede tomar una “dosis de choque” de 1 pastilla y ½ (775mg) y media hora después toma la ½ restante (275mg), es decir, 1100mg de dosis de choque y luego seguir posología si dolor. NO PONER OPIOIDES.
 
 -       CEFALEA EN RACIMOS
-*En el momento agudo: 02 al 100% en mascarilla-reservorio durante 15-20 minutos, sumatriptán 6mg sc o zolmitriptán 10mg intranasal (choose your fighter). Si hay contraindicación de triptán: octeótrido 100mg sc.
+*En el momento agudo: O2 al 100% en mascarilla-reservorio a 12-15 L/min durante 15-20 minutos, sumatriptán 6 mg sc (vía de elección por rapidez, [[Sumatriptán]]) o zolmitriptán intranasal. ⚠️ Ficha [[Zolmitriptán]]: intranasal máx **5 mg/24 h** (los 10 mg son el máx ORAL); revisar el «10 mg intranasal». Si contraindicación de triptán: octreotida sc. <!-- ⚠️ sin respaldo en vault: «octeótrido 100 mg sc» — casi seguro octreotida 100 µg sc (error mg/µg); verificar -->
 
 *Profiláctico: desde el ataque, iniciar prednisona 60mg/día en pauta descendente hasta completar 18 días, asociando al mismo tiempo verapamilo 80mg/8h (dosis máxima: 320mg/8h), durante el cluster.
 
@@ -1053,6 +1070,7 @@ Seguimiento y signos de alarma
 
 
 ### CEFALEA ANEXO 2: MIGRAÑA
+*Evidencia vault: [[Migraña - Guía Terapéutica Completa]] (SEN 2026).*
 ### ** Cosas a tener en cuenta de la migraña.
 Migraña sin aura: forma más frecuente.
 Migraña con aura: síntomas visuales progresivos (escotomas, destellos, visión borrosa), sensitivos o del lenguaje. Si hay síntomas negativos o topografía vascular → descartar AIT.
@@ -1090,6 +1108,7 @@ Seguimiento y signos de alarma
 
 
 ## MAREO (Catrain)
+*Evidencia vault: [[Mareo y Vértigo - Abordaje Diagnóstico]] · [[Vértigo en Urgencias]] (protocolo HINTS-plus, TiTraTE).*
 Tenemos dos clasificaciones en esta plantilla (choose your fighter): UpToDate y TiTraTE.
 
 Según UpToDate o el manual del HU12Oct, donde se simplifica bastante esta patología, se clasifica el mareo en cuatro grupos:
