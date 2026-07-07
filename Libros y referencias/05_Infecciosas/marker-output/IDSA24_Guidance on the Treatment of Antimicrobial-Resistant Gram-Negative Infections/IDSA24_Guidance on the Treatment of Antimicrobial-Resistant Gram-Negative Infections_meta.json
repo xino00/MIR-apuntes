@@ -1,0 +1,5048 @@
+{
+  "table_of_contents": [
+    {
+      "title": "IDSA GUIDELINES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.2373046875,
+          37.85009765625
+        ],
+        [
+          180.1142578125,
+          37.85009765625
+        ],
+        [
+          180.1142578125,
+          52.5919189453125
+        ],
+        [
+          54.2373046875,
+          52.5919189453125
+        ]
+      ]
+    },
+    {
+      "title": "Infectious Diseases Society of America 2024 Guidance on \nthe Treatment of Antimicrobial-Resistant Gram-Negative \nInfections",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.56640625,
+          84.527099609375
+        ],
+        [
+          544.0804443359375,
+          84.527099609375
+        ],
+        [
+          544.0804443359375,
+          153.49072265625
+        ],
+        [
+          47.56640625,
+          153.49072265625
+        ]
+      ]
+    },
+    {
+      "title": "Clinical Infectious Diseases\u00ae",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.146484375,
+          647.27490234375
+        ],
+        [
+          133.18185424804688,
+          647.27490234375
+        ],
+        [
+          133.18185424804688,
+          657.54150390625
+        ],
+        [
+          48.146484375,
+          657.54150390625
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL MANAGEMENT RECOMMENDATIONS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.986328125,
+          329.94580078125
+        ],
+        [
+          265.2804260253906,
+          329.94580078125
+        ],
+        [
+          265.2804260253906,
+          339.2859802246094
+        ],
+        [
+          46.986328125,
+          339.2859802246094
+        ]
+      ]
+    },
+    {
+      "title": "Complicated Urinary Tract Infection Definition",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.56640625,
+          439.29052734375
+        ],
+        [
+          200.16310119628906,
+          439.29052734375
+        ],
+        [
+          200.16310119628906,
+          449.98297119140625
+        ],
+        [
+          47.56640625,
+          449.98297119140625
+        ]
+      ]
+    },
+    {
+      "title": "Empiric Therapy",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.7265625,
+          625.8380584716797
+        ],
+        [
+          102.35392761230469,
+          625.8380584716797
+        ],
+        [
+          102.35392761230469,
+          634.27587890625
+        ],
+        [
+          48.7265625,
+          634.27587890625
+        ]
+      ]
+    },
+    {
+      "title": "Duration of Therapy and Transitioning to Oral Therapy",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.541015625,
+          338.7392578125
+        ],
+        [
+          484.365234375,
+          338.7392578125
+        ],
+        [
+          484.365234375,
+          347.8219909667969
+        ],
+        [
+          304.541015625,
+          347.8219909667969
+        ]
+      ]
+    },
+    {
+      "title": "IDSA DISCLAIMER",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.146484375,
+          37.4677734375
+        ],
+        [
+          132.837890625,
+          37.4677734375
+        ],
+        [
+          132.837890625,
+          48.28192138671875
+        ],
+        [
+          48.146484375,
+          48.28192138671875
+        ]
+      ]
+    },
+    {
+      "title": "SECTION 1: EXTENDED-SPECTRUM \n\u03b2-LACTAMASE-PRODUCING ENTEROBACTERALES",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          46.40625,
+          360.53173828125
+        ],
+        [
+          276.3659973144531,
+          360.53173828125
+        ],
+        [
+          276.3659973144531,
+          381.97509765625
+        ],
+        [
+          46.40625,
+          381.97509765625
+        ]
+      ]
+    },
+    {
+      "title": "Question 1.1: What Are Preferred Antibiotics for the Treatment of \nUncomplicated Cystitis Caused by ESBL-E?",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          303.9609375,
+          92.5224609375
+        ],
+        [
+          520.7853393554688,
+          92.5224609375
+        ],
+        [
+          520.7853393554688,
+          112.3192138671875
+        ],
+        [
+          303.9609375,
+          112.3192138671875
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          304.541015625,
+          247.36376953125
+        ],
+        [
+          337.1475830078125,
+          247.36376953125
+        ],
+        [
+          337.1475830078125,
+          256.8299560546875
+        ],
+        [
+          304.541015625,
+          256.8299560546875
+        ]
+      ]
+    },
+    {
+      "title": "Question 1.2: What Are Preferred Antibiotics for the Treatment of \nPyelonephritis or cUTI Caused by ESBL-E?",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          46.40625,
+          654.8080749511719
+        ],
+        [
+          263.79669189453125,
+          654.8080749511719
+        ],
+        [
+          263.79669189453125,
+          672.7854461669922
+        ],
+        [
+          46.40625,
+          672.7854461669922
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          304.541015625,
+          104.7568359375
+        ],
+        [
+          337.1475830078125,
+          104.7568359375
+        ],
+        [
+          337.1475830078125,
+          113.79388427734375
+        ],
+        [
+          304.541015625,
+          113.79388427734375
+        ]
+      ]
+    },
+    {
+      "title": "Question 1.3: What Are Preferred Antibiotics for the Treatment of \nInfections Outside of the Urinary Tract Caused by ESBL-E?",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          46.986328125,
+          627.7763671875
+        ],
+        [
+          263.79669189453125,
+          627.7763671875
+        ],
+        [
+          263.79669189453125,
+          646.8202514648438
+        ],
+        [
+          46.986328125,
+          646.8202514648438
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          304.541015625,
+          90.9931640625
+        ],
+        [
+          337.1475830078125,
+          90.9931640625
+        ],
+        [
+          337.1475830078125,
+          100.8109130859375
+        ],
+        [
+          304.541015625,
+          100.8109130859375
+        ]
+      ]
+    },
+    {
+      "title": "Question 1.4: Is There a Role for Piperacillin-tazobactam in the Treatment \nof Infections Caused by ESBL-E?",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.56640625,
+          105.521484375
+        ],
+        [
+          289.7803955078125,
+          105.521484375
+        ],
+        [
+          289.7803955078125,
+          125.30242919921875
+        ],
+        [
+          47.56640625,
+          125.30242919921875
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          46.6962890625,
+          285.59619140625
+        ],
+        [
+          80.10221099853516,
+          285.59619140625
+        ],
+        [
+          80.10221099853516,
+          295.8349914550781
+        ],
+        [
+          46.6962890625,
+          295.8349914550781
+        ]
+      ]
+    },
+    {
+      "title": "Question 1.5: Is There a Role for Cefepime in the Treatment \nof Infections Caused by ESBL-E?",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          47.56640625,
+          38.61474609375
+        ],
+        [
+          244.70974731445312,
+          38.61474609375
+        ],
+        [
+          244.70974731445312,
+          58.0074462890625
+        ],
+        [
+          47.56640625,
+          58.0074462890625
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          48.146484375,
+          181.60400390625
+        ],
+        [
+          80.630859375,
+          181.60400390625
+        ],
+        [
+          80.630859375,
+          191.40594482421875
+        ],
+        [
+          48.146484375,
+          191.40594482421875
+        ]
+      ]
+    },
+    {
+      "title": "Question 1.6: Is There a Role for the Cephamycins in the Treatment of \nInfections Caused by ESBL-E?",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          47.56640625,
+          638.86376953125
+        ],
+        [
+          278.53729248046875,
+          638.86376953125
+        ],
+        [
+          278.53729248046875,
+          659.8024368286133
+        ],
+        [
+          47.56640625,
+          659.8024368286133
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          304.541015625,
+          38.232421875
+        ],
+        [
+          337.1475830078125,
+          38.232421875
+        ],
+        [
+          337.1475830078125,
+          48.02996826171875
+        ],
+        [
+          304.541015625,
+          48.02996826171875
+        ]
+      ]
+    },
+    {
+      "title": "Question 1.7: What Is the Role of Newer \u03b2-Lactam-\u03b2-Lactamase Inhibitor \nCombinations and Cefiderocol for the Treatment of Infections Caused by \nESBL-E?",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          305.12109375,
+          536.783203125
+        ],
+        [
+          546.5433959960938,
+          536.783203125
+        ],
+        [
+          546.5433959960938,
+          565.4087219238281
+        ],
+        [
+          305.12109375,
+          565.4087219238281
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          303.6708984375,
+          650.33349609375
+        ],
+        [
+          337.1475830078125,
+          650.33349609375
+        ],
+        [
+          337.1475830078125,
+          659.8029708862305
+        ],
+        [
+          303.6708984375,
+          659.8029708862305
+        ]
+      ]
+    },
+    {
+      "title": "SECTION 2: AMPC \u03b2-LACTAMASE-PRODUCING \nENTEROBACTERALES",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          46.40625,
+          544.6820526123047
+        ],
+        [
+          263.1911315917969,
+          544.6820526123047
+        ],
+        [
+          263.1911315917969,
+          563.9599914550781
+        ],
+        [
+          46.40625,
+          563.9599914550781
+        ]
+      ]
+    },
+    {
+      "title": "Question 2.1: Which Commonly Identified Enterobacterales Species \nShould Be Considered at Moderate Risk for Clinically Significant \nInducible ampC Production?",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          305.12109375,
+          497.40380859375
+        ],
+        [
+          528.313232421875,
+          497.40380859375
+        ],
+        [
+          528.313232421875,
+          526.8007202148438
+        ],
+        [
+          305.12109375,
+          526.8007202148438
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          304.2509765625,
+          598.33740234375
+        ],
+        [
+          337.1475830078125,
+          598.33740234375
+        ],
+        [
+          337.1475830078125,
+          607.8159790039062
+        ],
+        [
+          304.2509765625,
+          607.8159790039062
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          303.9609375,
+          402.58740234375
+        ],
+        [
+          337.1475830078125,
+          402.58740234375
+        ],
+        [
+          337.1475830078125,
+          412.7919616699219
+        ],
+        [
+          303.9609375,
+          412.7919616699219
+        ]
+      ]
+    },
+    {
+      "title": "Question 2.3: What Is the Role of Cefepime for the Treatment of Infections \nCaused by Enterobacterales at Moderate Risk of Clinically Significant \nAmpC Production Due to an Inducible ampC Gene?",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          48.7265625,
+          185.044921875
+        ],
+        [
+          289.79400634765625,
+          185.044921875
+        ],
+        [
+          289.79400634765625,
+          214.8197021484375
+        ],
+        [
+          48.7265625,
+          214.8197021484375
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          46.6962890625,
+          287.12548828125
+        ],
+        [
+          80.10221099853516,
+          287.12548828125
+        ],
+        [
+          80.10221099853516,
+          295.8349914550781
+        ],
+        [
+          46.6962890625,
+          295.8349914550781
+        ]
+      ]
+    },
+    {
+      "title": "Question 2.4: What Is the Role of Ceftriaxone for the Treatment of \nInfections Caused by Enterobacterales at Moderate Risk of Clinically \nSignificant AmpC Production Due to an Inducible ampC Gene?",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          303.9609375,
+          432.40869140625
+        ],
+        [
+          534.5691528320312,
+          432.40869140625
+        ],
+        [
+          534.5691528320312,
+          461.7747497558594
+        ],
+        [
+          303.9609375,
+          461.7747497558594
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          304.541015625,
+          558.57568359375
+        ],
+        [
+          337.1475830078125,
+          558.57568359375
+        ],
+        [
+          337.1475830078125,
+          568.8109741210938
+        ],
+        [
+          304.541015625,
+          568.8109741210938
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          304.2509765625,
+          143.75390625
+        ],
+        [
+          337.1475830078125,
+          143.75390625
+        ],
+        [
+          337.1475830078125,
+          152.7989501953125
+        ],
+        [
+          304.2509765625,
+          152.7989501953125
+        ]
+      ]
+    },
+    {
+      "title": "Question 2.6: What Is the Role of Newer \u03b2-Lactam-\u03b2-Lactamase Inhibitor \nCombinations and Cefiderocol for the Treatment of Infections Caused by \nEnterobacterales at Moderate Risk of Clinically Significant AmpC \nProduction Due to an Inducible ampC Gene?",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          48.146484375,
+          284.06689453125
+        ],
+        [
+          289.5548095703125,
+          284.06689453125
+        ],
+        [
+          289.5548095703125,
+          323.78399658203125
+        ],
+        [
+          48.146484375,
+          323.78399658203125
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          46.986328125,
+          414.82177734375
+        ],
+        [
+          80.10221099853516,
+          414.82177734375
+        ],
+        [
+          80.10221099853516,
+          425.83197021484375
+        ],
+        [
+          46.986328125,
+          425.83197021484375
+        ]
+      ]
+    },
+    {
+      "title": "Question 2.7: What Is the Role of Non-\u03b2-Lactam Therapy for the Treatment \nof Infections Caused by Enterobacterales at Moderate Risk of Clinically \nSignificant AmpC Production Due to an Inducible ampC Gene?",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          305.12109375,
+          341.033203125
+        ],
+        [
+          546.7689819335938,
+          341.033203125
+        ],
+        [
+          546.7689819335938,
+          370.7827453613281
+        ],
+        [
+          305.12109375,
+          370.7827453613281
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          304.2509765625,
+          558.57568359375
+        ],
+        [
+          337.1475830078125,
+          558.57568359375
+        ],
+        [
+          337.1475830078125,
+          568.8109741210938
+        ],
+        [
+          304.2509765625,
+          568.8109741210938
+        ]
+      ]
+    },
+    {
+      "title": "SECTION 3: CARBAPENEM-RESISTANT \nENTEROBACTERALES",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          47.56640625,
+          231.30615234375
+        ],
+        [
+          227.52554321289062,
+          231.30615234375
+        ],
+        [
+          227.52554321289062,
+          251.97802734375
+        ],
+        [
+          47.56640625,
+          251.97802734375
+        ]
+      ]
+    },
+    {
+      "title": "Question 3.1: What Are Preferred Antibiotics for the Treatment of \nUncomplicated Cystitis Caused by CRE?",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          303.9609375,
+          340.2685546875
+        ],
+        [
+          520.7853393554688,
+          340.2685546875
+        ],
+        [
+          520.7853393554688,
+          359.2734375
+        ],
+        [
+          303.9609375,
+          359.2734375
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          304.2509765625,
+          482.11083984375
+        ],
+        [
+          337.1475830078125,
+          482.11083984375
+        ],
+        [
+          337.1475830078125,
+          490.8019714355469
+        ],
+        [
+          304.2509765625,
+          490.8019714355469
+        ]
+      ]
+    },
+    {
+      "title": "Question 3.2: What Are Preferred Antibiotics for the Treatment of \nPyelonephritis or cUTI Caused by CRE?",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          48.146484375,
+          141.84228515625
+        ],
+        [
+          263.79669189453125,
+          141.84228515625
+        ],
+        [
+          263.79669189453125,
+          161.47222900390625
+        ],
+        [
+          48.146484375,
+          161.47222900390625
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          46.40625,
+          281.00830078125
+        ],
+        [
+          80.10221099853516,
+          281.00830078125
+        ],
+        [
+          80.10221099853516,
+          290.16497802734375
+        ],
+        [
+          46.40625,
+          290.16497802734375
+        ]
+      ]
+    },
+    {
+      "title": "Question 3.3: What Are the Preferred Antibiotics for the Treatment for \nInfections Caused by CRE Outside of the Urinary Tract that are Not \nCarbapenemase Producing?",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          48.146484375,
+          579.603515625
+        ],
+        [
+          278.93328857421875,
+          579.603515625
+        ],
+        [
+          278.93328857421875,
+          607.8147277832031
+        ],
+        [
+          48.146484375,
+          607.8147277832031
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          304.541015625,
+          77.61181640625
+        ],
+        [
+          337.1475830078125,
+          77.61181640625
+        ],
+        [
+          337.1475830078125,
+          87.82794189453125
+        ],
+        [
+          304.541015625,
+          87.82794189453125
+        ]
+      ]
+    },
+    {
+      "title": "Question 3.4: What Are the Preferred Antibiotics for the Treatment of \nInfections Outside of the Urinary Tract Caused by CRE if KPC Production is \nPresent?",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          48.146484375,
+          38.61474609375
+        ],
+        [
+          289.767578125,
+          38.61474609375
+        ],
+        [
+          289.767578125,
+          68.041748046875
+        ],
+        [
+          48.146484375,
+          68.041748046875
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          48.7265625,
+          143.75390625
+        ],
+        [
+          80.10221099853516,
+          143.75390625
+        ],
+        [
+          80.10221099853516,
+          152.7989501953125
+        ],
+        [
+          48.7265625,
+          152.7989501953125
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          47.2763671875,
+          77.61181640625
+        ],
+        [
+          80.10221099853516,
+          77.61181640625
+        ],
+        [
+          80.10221099853516,
+          87.82794189453125
+        ],
+        [
+          47.2763671875,
+          87.82794189453125
+        ]
+      ]
+    },
+    {
+      "title": "Question 3.6: What Are the Preferred Antibiotics for the Treatment of \nInfections Outside of the Urinary Tract Caused by CRE if OXA-48-Like \nProduction is Present?",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          306.0279846191406,
+          393.029296875
+        ],
+        [
+          534.186767578125,
+          393.029296875
+        ],
+        [
+          534.186767578125,
+          422.82574462890625
+        ],
+        [
+          306.0279846191406,
+          422.82574462890625
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          303.9609375,
+          479.05224609375
+        ],
+        [
+          337.1475830078125,
+          479.05224609375
+        ],
+        [
+          337.1475830078125,
+          490.8019714355469
+        ],
+        [
+          303.9609375,
+          490.8019714355469
+        ]
+      ]
+    },
+    {
+      "title": "Question 3.7: What Is the Likelihood of the Emergence of Resistance of CRE \nIsolates to the Newer \u03b2-Lactam Agents When Used to Treat CRE \nInfections?",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          47.56640625,
+          289.41943359375
+        ],
+        [
+          289.8011779785156,
+          289.41943359375
+        ],
+        [
+          289.8011779785156,
+          318.79473876953125
+        ],
+        [
+          47.56640625,
+          318.79473876953125
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          46.6962890625,
+          390.35302734375
+        ],
+        [
+          80.10221099853516,
+          390.35302734375
+        ],
+        [
+          80.10221099853516,
+          399.80999755859375
+        ],
+        [
+          46.6962890625,
+          399.80999755859375
+        ]
+      ]
+    },
+    {
+      "title": "Question 3.8: What Is the Role of Tetracycline Derivatives for the \nTreatment of Infections Caused by CRE?",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          303.9609375,
+          496.2568359375
+        ],
+        [
+          520.8173217773438,
+          496.2568359375
+        ],
+        [
+          520.8173217773438,
+          515.29248046875
+        ],
+        [
+          303.9609375,
+          515.29248046875
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          303.6708984375,
+          610.57177734375
+        ],
+        [
+          337.1475830078125,
+          610.57177734375
+        ],
+        [
+          337.1475830078125,
+          620.7989807128906
+        ],
+        [
+          303.6708984375,
+          620.7989807128906
+        ]
+      ]
+    },
+    {
+      "title": "Question 3.9: What Is the Role of Polymyxins for the Treatment of \nInfections Caused by CRE?",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          47.56640625,
+          654.8080749511719
+        ],
+        [
+          264.76068115234375,
+          654.8080749511719
+        ],
+        [
+          264.76068115234375,
+          672.7854461669922
+        ],
+        [
+          47.56640625,
+          672.7854461669922
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          304.8310546875,
+          37.85009765625
+        ],
+        [
+          337.1475830078125,
+          37.85009765625
+        ],
+        [
+          337.1475830078125,
+          48.02996826171875
+        ],
+        [
+          304.8310546875,
+          48.02996826171875
+        ]
+      ]
+    },
+    {
+      "title": "Question 3.10: What Is the Role of Combination Antibiotic Therapy for the \nTreatment of Infections Caused by CRE?",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          302.80078125,
+          208.36669921875
+        ],
+        [
+          546.7825927734375,
+          208.36669921875
+        ],
+        [
+          546.7825927734375,
+          226.6124267578125
+        ],
+        [
+          302.80078125,
+          226.6124267578125
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          304.541015625,
+          294.77197265625
+        ],
+        [
+          337.1475830078125,
+          294.77197265625
+        ],
+        [
+          337.1475830078125,
+          304.2250061035156
+        ],
+        [
+          304.541015625,
+          304.2250061035156
+        ]
+      ]
+    },
+    {
+      "title": "SECTION 4: PSEUDOMONAS AERUGINOSA WITH \nDIFFICULT-TO-TREAT RESISTANCE",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          305.12109375,
+          645.74560546875
+        ],
+        [
+          529.8736572265625,
+          645.74560546875
+        ],
+        [
+          529.8736572265625,
+          667.9349975585938
+        ],
+        [
+          305.12109375,
+          667.9349975585938
+        ]
+      ]
+    },
+    {
+      "title": "Question 4.1: What Are Preferred Antibiotics for the Treatment of \nInfections Caused by MDR P. aeruginosa?",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          48.7265625,
+          627.7763671875
+        ],
+        [
+          263.79669189453125,
+          627.7763671875
+        ],
+        [
+          263.79669189453125,
+          646.8202514648438
+        ],
+        [
+          48.7265625,
+          646.8202514648438
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          302.220703125,
+          168.60498046875
+        ],
+        [
+          337.1475830078125,
+          168.60498046875
+        ],
+        [
+          337.1475830078125,
+          178.8209228515625
+        ],
+        [
+          302.220703125,
+          178.8209228515625
+        ]
+      ]
+    },
+    {
+      "title": "Question 4.2: Are There Differences in Percent Activity Against DTR \nP. aeruginosa Across Available \u03b2-Lactam Agents?",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          48.146484375,
+          91.37548828125
+        ],
+        [
+          273.11981201171875,
+          91.37548828125
+        ],
+        [
+          273.11981201171875,
+          112.3192138671875
+        ],
+        [
+          48.146484375,
+          112.3192138671875
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          46.986328125,
+          168.60498046875
+        ],
+        [
+          80.10221099853516,
+          168.60498046875
+        ],
+        [
+          80.10221099853516,
+          178.8209228515625
+        ],
+        [
+          46.986328125,
+          178.8209228515625
+        ]
+      ]
+    },
+    {
+      "title": "Question 4.3: What Are Preferred Antibiotics for the Treatment of \nUncomplicated Cystitis Caused by DTR P. aeruginosa?",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          303.9609375,
+          365.501953125
+        ],
+        [
+          520.7853393554688,
+          365.501953125
+        ],
+        [
+          520.7853393554688,
+          385.29547119140625
+        ],
+        [
+          303.9609375,
+          385.29547119140625
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          303.9609375,
+          482.11083984375
+        ],
+        [
+          337.1475830078125,
+          482.11083984375
+        ],
+        [
+          337.1475830078125,
+          490.8019714355469
+        ],
+        [
+          303.9609375,
+          490.8019714355469
+        ]
+      ]
+    },
+    {
+      "title": "Question 4.4: What Are Preferred Antibiotics for the Treatment of \nPyelonephritis or cUTI Caused by DTR P. aeruginosa?",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          46.986328125,
+          307.00634765625
+        ],
+        [
+          263.79669189453125,
+          307.00634765625
+        ],
+        [
+          263.79669189453125,
+          326.7884826660156
+        ],
+        [
+          46.986328125,
+          326.7884826660156
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          46.986328125,
+          430.11474609375
+        ],
+        [
+          80.10221099853516,
+          430.11474609375
+        ],
+        [
+          80.10221099853516,
+          438.8139953613281
+        ],
+        [
+          46.986328125,
+          438.8139953613281
+        ]
+      ]
+    },
+    {
+      "title": "Question 4.5: What Are Preferred Antibiotics for the Treatment of \nInfections Outside of the Urinary Tract Caused by DTR P. aeruginosa?",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          306.0279846191406,
+          37.85009765625
+        ],
+        [
+          534.181884765625,
+          37.85009765625
+        ],
+        [
+          534.181884765625,
+          58.0074462890625
+        ],
+        [
+          306.0279846191406,
+          58.0074462890625
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          303.9609375,
+          155.98828125
+        ],
+        [
+          337.1475830078125,
+          155.98828125
+        ],
+        [
+          337.1475830078125,
+          165.83795166015625
+        ],
+        [
+          303.9609375,
+          165.83795166015625
+        ]
+      ]
+    },
+    {
+      "title": "Question 4.6: What Are Preferred Antibiotics for the Treatment of DTR \nP. aeruginosa that Produce Metallo-\u03b2-Lactamase Enzymes?",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          47.56640625,
+          353.64990234375
+        ],
+        [
+          279.4125061035156,
+          353.64990234375
+        ],
+        [
+          279.4125061035156,
+          372.3132629394531
+        ],
+        [
+          47.56640625,
+          372.3132629394531
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          47.8564453125,
+          427.05615234375
+        ],
+        [
+          80.9208984375,
+          427.05615234375
+        ],
+        [
+          80.9208984375,
+          438.8139953613281
+        ],
+        [
+          47.8564453125,
+          438.8139953613281
+        ]
+      ]
+    },
+    {
+      "title": "Question 4.7: What Is the Likelihood of the Emergence of Resistance of \nDTR P. aeruginosa Isolates to the Newer \u03b2-Lactam Agents When Used to \nTreat DTR P. aeruginosa Infections?",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          305.12109375,
+          120.0498046875
+        ],
+        [
+          546.7506103515625,
+          120.0498046875
+        ],
+        [
+          546.7506103515625,
+          149.79266357421875
+        ],
+        [
+          305.12109375,
+          149.79266357421875
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          303.9609375,
+          247.74609375
+        ],
+        [
+          337.1475830078125,
+          247.74609375
+        ],
+        [
+          337.1475830078125,
+          256.8299560546875
+        ],
+        [
+          303.9609375,
+          256.8299560546875
+        ]
+      ]
+    },
+    {
+      "title": "Question 4.8: What Is the Role of Combination Antibiotic Therapy for the \nTreatment of Infections Caused by DTR P. aeruginosa?",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          48.146484375,
+          575.3250579833984
+        ],
+        [
+          287.41241455078125,
+          575.3250579833984
+        ],
+        [
+          287.41241455078125,
+          593.3024444580078
+        ],
+        [
+          48.146484375,
+          593.3024444580078
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          46.40625,
+          662.56787109375
+        ],
+        [
+          80.10221099853516,
+          662.56787109375
+        ],
+        [
+          80.10221099853516,
+          672.7859725952148
+        ],
+        [
+          46.40625,
+          672.7859725952148
+        ]
+      ]
+    },
+    {
+      "title": "Question 4.9: What Is the Role of Nebulized Antibiotics for the Treatment of \nRespiratory Infections Caused by DTR P. aeruginosa?",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          303.9609375,
+          654.8080749511719
+        ],
+        [
+          546.7505493164062,
+          654.8080749511719
+        ],
+        [
+          546.7505493164062,
+          672.7854461669922
+        ],
+        [
+          303.9609375,
+          672.7854461669922
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          47.8564453125,
+          38.61474609375
+        ],
+        [
+          80.10221099853516,
+          38.61474609375
+        ],
+        [
+          80.10221099853516,
+          48.02996826171875
+        ],
+        [
+          47.8564453125,
+          48.02996826171875
+        ]
+      ]
+    },
+    {
+      "title": "SECTION 5: CARBAPENEM-RESISTANT \nACINETOBACTER BAUMANNII",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          47.56640625,
+          661.4208984375
+        ],
+        [
+          227.52554321289062,
+          661.4208984375
+        ],
+        [
+          227.52554321289062,
+          680.9740982055664
+        ],
+        [
+          47.56640625,
+          680.9740982055664
+        ]
+      ]
+    },
+    {
+      "title": "Question 5.1: What Is the General Approach for the Treatment of Infections \nCaused by CRAB?",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          305.12109375,
+          575.39794921875
+        ],
+        [
+          546.7825927734375,
+          575.39794921875
+        ],
+        [
+          546.7825927734375,
+          594.833251953125
+        ],
+        [
+          305.12109375,
+          594.833251953125
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          48.146484375,
+          38.61474609375
+        ],
+        [
+          80.10221099853516,
+          38.61474609375
+        ],
+        [
+          80.10221099853516,
+          48.02996826171875
+        ],
+        [
+          48.146484375,
+          48.02996826171875
+        ]
+      ]
+    },
+    {
+      "title": "Question 5.2: What Is the Role of Sulbactam-Durlobactam for the \nTreatment of Infections Caused by CRAB?",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          46.986328125,
+          639.24609375
+        ],
+        [
+          262.9215087890625,
+          639.24609375
+        ],
+        [
+          262.9215087890625,
+          659.8024368286133
+        ],
+        [
+          46.986328125,
+          659.8024368286133
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          304.541015625,
+          38.232421875
+        ],
+        [
+          337.1475830078125,
+          38.232421875
+        ],
+        [
+          337.1475830078125,
+          48.02996826171875
+        ],
+        [
+          304.541015625,
+          48.02996826171875
+        ]
+      ]
+    },
+    {
+      "title": "Question 5.3: What Is the Role of Ampicillin-Sulbactam for the Treatment of \nInfections Caused by CRAB?",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          47.56640625,
+          301.65380859375
+        ],
+        [
+          289.7619323730469,
+          301.65380859375
+        ],
+        [
+          289.7619323730469,
+          320.32623291015625
+        ],
+        [
+          47.56640625,
+          320.32623291015625
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          46.6962890625,
+          390.35302734375
+        ],
+        [
+          80.10221099853516,
+          390.35302734375
+        ],
+        [
+          80.10221099853516,
+          399.80999755859375
+        ],
+        [
+          46.6962890625,
+          399.80999755859375
+        ]
+      ]
+    },
+    {
+      "title": "Question 5.4: What Is the Role of Combination Antibiotic Therapy for the \nTreatment of Infections Caused by CRAB?",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          303.9609375,
+          627.39404296875
+        ],
+        [
+          544.4010009765625,
+          627.39404296875
+        ],
+        [
+          544.4010009765625,
+          646.8202514648438
+        ],
+        [
+          303.9609375,
+          646.8202514648438
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          48.146484375,
+          38.9970703125
+        ],
+        [
+          80.10221099853516,
+          38.9970703125
+        ],
+        [
+          80.10221099853516,
+          48.02996826171875
+        ],
+        [
+          48.146484375,
+          48.02996826171875
+        ]
+      ]
+    },
+    {
+      "title": "Question 5.5: What Is the Role of the Polymyxins for the Treatment of \nInfections Caused by CRAB?",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          48.7265625,
+          38.61474609375
+        ],
+        [
+          277.23333740234375,
+          38.61474609375
+        ],
+        [
+          277.23333740234375,
+          58.0074462890625
+        ],
+        [
+          48.7265625,
+          58.0074462890625
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          48.4365234375,
+          115.07958984375
+        ],
+        [
+          80.3408203125,
+          115.07958984375
+        ],
+        [
+          80.3408203125,
+          125.30291748046875
+        ],
+        [
+          48.4365234375,
+          125.30291748046875
+        ]
+      ]
+    },
+    {
+      "title": "Question 5.6: What Is the Role of Tetracycline Derivatives for the \nTreatment of Infections Caused by CRAB?",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          45.826171875,
+          520.34326171875
+        ],
+        [
+          263.8287353515625,
+          520.34326171875
+        ],
+        [
+          263.8287353515625,
+          540.5204467773438
+        ],
+        [
+          45.826171875,
+          540.5204467773438
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          46.40625,
+          635.04052734375
+        ],
+        [
+          80.10221099853516,
+          635.04052734375
+        ],
+        [
+          80.10221099853516,
+          646.8209686279297
+        ],
+        [
+          46.40625,
+          646.8209686279297
+        ]
+      ]
+    },
+    {
+      "title": "Question 5.7: What Is the Role of Cefiderocol Therapy for the Treatment of \nInfections Caused by CRAB?",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          46.40625,
+          443.49609375
+        ],
+        [
+          289.761962890625,
+          443.49609375
+        ],
+        [
+          289.761962890625,
+          463.30548095703125
+        ],
+        [
+          46.40625,
+          463.30548095703125
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          48.4365234375,
+          546.34130859375
+        ],
+        [
+          80.3408203125,
+          546.34130859375
+        ],
+        [
+          80.3408203125,
+          555.8279724121094
+        ],
+        [
+          48.4365234375,
+          555.8279724121094
+        ]
+      ]
+    },
+    {
+      "title": "Question 5.8: What Is the Role of Extended-Infusion Meropenem or \nImipenem-Cilastatin for the Treatment of Infections Caused by CRAB?",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          301.640625,
+          536.320068359375
+        ],
+        [
+          534.15869140625,
+          536.320068359375
+        ],
+        [
+          534.15869140625,
+          554.2974548339844
+        ],
+        [
+          301.640625,
+          554.2974548339844
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          304.2509765625,
+          610.57177734375
+        ],
+        [
+          337.1475830078125,
+          610.57177734375
+        ],
+        [
+          337.1475830078125,
+          620.7989807128906
+        ],
+        [
+          304.2509765625,
+          620.7989807128906
+        ]
+      ]
+    },
+    {
+      "title": "Question 5.9: What Is the Role of the Rifamycins for the Treatment of \nInfections Caused by CRAB?",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          47.56640625,
+          287.89013671875
+        ],
+        [
+          275.87255859375,
+          287.89013671875
+        ],
+        [
+          275.87255859375,
+          307.7964782714844
+        ],
+        [
+          47.56640625,
+          307.7964782714844
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          47.2763671875,
+          352.88525390625
+        ],
+        [
+          80.10221099853516,
+          352.88525390625
+        ],
+        [
+          80.10221099853516,
+          361.82501220703125
+        ],
+        [
+          47.2763671875,
+          361.82501220703125
+        ]
+      ]
+    },
+    {
+      "title": "Question 5.10: What Is the Role of Nebulized Antibiotics for the Treatment \nof Respiratory Infections Caused by CRAB?",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          46.986328125,
+          667.5380859375
+        ],
+        [
+          289.7803649902344,
+          667.5380859375
+        ],
+        [
+          289.7803649902344,
+          685.8252334594727
+        ],
+        [
+          46.986328125,
+          685.8252334594727
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          306.0279846191406,
+          38.232421875
+        ],
+        [
+          338.185546875,
+          38.232421875
+        ],
+        [
+          338.185546875,
+          48.02996826171875
+        ],
+        [
+          306.0279846191406,
+          48.02996826171875
+        ]
+      ]
+    },
+    {
+      "title": "SECTION 6: STENOTROPHOMONAS MALTOPHILIA",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          304.541015625,
+          631.98193359375
+        ],
+        [
+          533.1699829101562,
+          631.98193359375
+        ],
+        [
+          533.1699829101562,
+          641.969970703125
+        ],
+        [
+          304.541015625,
+          641.969970703125
+        ]
+      ]
+    },
+    {
+      "title": "Question 6.1: What Is a General Approach for the Treatment of Infections \nCaused by S. maltophilia?",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          305.12109375,
+          126.1669921875
+        ],
+        [
+          546.7825927734375,
+          126.1669921875
+        ],
+        [
+          546.7825927734375,
+          146.27838134765625
+        ],
+        [
+          305.12109375,
+          146.27838134765625
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          304.2509765625,
+          235.12939453125
+        ],
+        [
+          337.1475830078125,
+          235.12939453125
+        ],
+        [
+          337.1475830078125,
+          243.7908935546875
+        ],
+        [
+          304.2509765625,
+          243.7908935546875
+        ]
+      ]
+    },
+    {
+      "title": "Question 6.2: What Is the Role of Cefiderocol for the Treatment of \nInfections Caused by S. maltophilia?",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          46.986328125,
+          38.232421875
+        ],
+        [
+          264.76068115234375,
+          38.232421875
+        ],
+        [
+          264.76068115234375,
+          58.0074462890625
+        ],
+        [
+          46.986328125,
+          58.0074462890625
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          47.2763671875,
+          117.37353515625
+        ],
+        [
+          80.10221099853516,
+          117.37353515625
+        ],
+        [
+          80.10221099853516,
+          126.4359130859375
+        ],
+        [
+          47.2763671875,
+          126.4359130859375
+        ]
+      ]
+    },
+    {
+      "title": "Question 6.3: What Is the Role of Ceftazidime-Avibactam and Aztreonam \nfor the Treatment of Infections Caused by S. maltophilia?",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          48.146484375,
+          667.5380859375
+        ],
+        [
+          286.9076232910156,
+          667.5380859375
+        ],
+        [
+          286.9076232910156,
+          685.8252334594727
+        ],
+        [
+          48.146484375,
+          685.8252334594727
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          304.8310546875,
+          38.232421875
+        ],
+        [
+          337.1475830078125,
+          38.232421875
+        ],
+        [
+          337.1475830078125,
+          48.02996826171875
+        ],
+        [
+          304.8310546875,
+          48.02996826171875
+        ]
+      ]
+    },
+    {
+      "title": "Question 6.4: What Is the Role of Tetracycline Derivatives for the \nTreatment of Infections Caused by S. maltophilia?",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          303.380859375,
+          365.501953125
+        ],
+        [
+          520.8173217773438,
+          365.501953125
+        ],
+        [
+          520.8173217773438,
+          384.8984680175781
+        ],
+        [
+          303.380859375,
+          384.8984680175781
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          306.0279846191406,
+          439.29052734375
+        ],
+        [
+          338.4755859375,
+          439.29052734375
+        ],
+        [
+          338.4755859375,
+          451.7969665527344
+        ],
+        [
+          306.0279846191406,
+          451.7969665527344
+        ]
+      ]
+    },
+    {
+      "title": "Question 6.5: What Is the Role of Trimethoprim-sulfamethoxazole for the \nTreatment of Infections Caused by S. maltophilia?",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          45.826171875,
+          403.35205078125
+        ],
+        [
+          287.3556213378906,
+          403.35205078125
+        ],
+        [
+          287.3556213378906,
+          424.30047607421875
+        ],
+        [
+          45.826171875,
+          424.30047607421875
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          46.986328125,
+          479.05224609375
+        ],
+        [
+          80.10221099853516,
+          479.05224609375
+        ],
+        [
+          80.10221099853516,
+          490.8019714355469
+        ],
+        [
+          46.986328125,
+          490.8019714355469
+        ]
+      ]
+    },
+    {
+      "title": "Question 6.6: What Is the Role of Fluoroquinolones for the Treatment of \nInfections Caused by S. maltophilia?",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          305.701171875,
+          654.8080749511719
+        ],
+        [
+          540.8546752929688,
+          654.8080749511719
+        ],
+        [
+          540.8546752929688,
+          672.7854461669922
+        ],
+        [
+          305.701171875,
+          672.7854461669922
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": [
+        [
+          48.146484375,
+          37.85009765625
+        ],
+        [
+          80.10221099853516,
+          37.85009765625
+        ],
+        [
+          80.10221099853516,
+          48.02996826171875
+        ],
+        [
+          48.146484375,
+          48.02996826171875
+        ]
+      ]
+    },
+    {
+      "title": "Question 6.7: What Is the Role of Ceftazidime for the Treatment of \nInfections Caused by S. maltophilia?",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": [
+        [
+          305.12109375,
+          428.9677734375
+        ],
+        [
+          522.656494140625,
+          428.9677734375
+        ],
+        [
+          522.656494140625,
+          447.3182678222656
+        ],
+        [
+          305.12109375,
+          447.3182678222656
+        ]
+      ]
+    },
+    {
+      "title": "Rationale",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": [
+        [
+          303.380859375,
+          527.98974609375
+        ],
+        [
+          337.1475830078125,
+          527.98974609375
+        ],
+        [
+          337.1475830078125,
+          536.7799835205078
+        ],
+        [
+          303.380859375,
+          536.7799835205078
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSIONS",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": [
+        [
+          303.380859375,
+          671.74365234375
+        ],
+        [
+          374.95367431640625,
+          671.74365234375
+        ],
+        [
+          374.95367431640625,
+          680.9739685058594
+        ],
+        [
+          303.380859375,
+          680.9739685058594
+        ]
+      ]
+    },
+    {
+      "title": "Supplementary Data",
+      "heading_level": null,
+      "page_id": 36,
+      "polygon": [
+        [
+          48.7265625,
+          127.6962890625
+        ],
+        [
+          135.73828125,
+          127.6962890625
+        ],
+        [
+          135.73828125,
+          137.4349365234375
+        ],
+        [
+          48.7265625,
+          137.4349365234375
+        ]
+      ]
+    },
+    {
+      "title": "Notes",
+      "heading_level": null,
+      "page_id": 36,
+      "polygon": [
+        [
+          48.4365234375,
+          203.01416015625
+        ],
+        [
+          73.87029266357422,
+          203.01416015625
+        ],
+        [
+          73.87029266357422,
+          213.11956787109375
+        ],
+        [
+          48.4365234375,
+          213.11956787109375
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 36,
+      "polygon": [
+        [
+          48.4365234375,
+          616.68896484375
+        ],
+        [
+          96.08601379394531,
+          616.68896484375
+        ],
+        [
+          96.08601379394531,
+          628.7896118164062
+        ],
+        [
+          48.4365234375,
+          628.7896118164062
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          198
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          199
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          244
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "TableCell",
+          56
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          254
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Reference",
+          12
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          237
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Reference",
+          12
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          236
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Reference",
+          12
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          446
+        ],
+        [
+          "TableCell",
+          140
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Footnote",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          229
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Reference",
+          9
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          237
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Reference",
+          13
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          282
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Reference",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          326
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Reference",
+          10
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          291
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Reference",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          288
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Reference",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          244
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Reference",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          262
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Reference",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          238
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Reference",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          216
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Reference",
+          10
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          229
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Reference",
+          15
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          285
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Reference",
+          16
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          257
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Reference",
+          17
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          301
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Reference",
+          10
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          294
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Reference",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          300
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Reference",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          319
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Reference",
+          11
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          249
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          255
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Reference",
+          13
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          254
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Reference",
+          13
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          264
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Reference",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          220
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          260
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Reference",
+          14
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Reference",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          249
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Reference",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          273
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Reference",
+          12
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          321
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Reference",
+          11
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 34,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          284
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Reference",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 35,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          280
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Reference",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 36,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          413
+        ],
+        [
+          "Line",
+          137
+        ],
+        [
+          "ListItem",
+          27
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 37,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          504
+        ],
+        [
+          "Line",
+          150
+        ],
+        [
+          "ListItem",
+          46
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 38,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          490
+        ],
+        [
+          "Line",
+          150
+        ],
+        [
+          "ListItem",
+          40
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 39,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          492
+        ],
+        [
+          "Line",
+          148
+        ],
+        [
+          "ListItem",
+          39
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 40,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          534
+        ],
+        [
+          "Line",
+          148
+        ],
+        [
+          "ListItem",
+          46
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 41,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          497
+        ],
+        [
+          "Line",
+          149
+        ],
+        [
+          "ListItem",
+          41
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 42,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          489
+        ],
+        [
+          "Line",
+          149
+        ],
+        [
+          "ListItem",
+          40
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 43,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          500
+        ],
+        [
+          "Line",
+          149
+        ],
+        [
+          "ListItem",
+          42
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 44,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          479
+        ],
+        [
+          "Line",
+          149
+        ],
+        [
+          "ListItem",
+          40
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 45,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          503
+        ],
+        [
+          "Line",
+          149
+        ],
+        [
+          "ListItem",
+          42
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 46,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          487
+        ],
+        [
+          "Line",
+          149
+        ],
+        [
+          "ListItem",
+          38
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 47,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          481
+        ],
+        [
+          "Line",
+          148
+        ],
+        [
+          "ListItem",
+          39
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 48,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          551
+        ],
+        [
+          "Line",
+          149
+        ],
+        [
+          "ListItem",
+          45
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 49,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          511
+        ],
+        [
+          "Line",
+          150
+        ],
+        [
+          "ListItem",
+          44
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 50,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          514
+        ],
+        [
+          "Line",
+          146
+        ],
+        [
+          "ListItem",
+          40
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 51,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          543
+        ],
+        [
+          "Line",
+          148
+        ],
+        [
+          "ListItem",
+          44
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 52,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          557
+        ],
+        [
+          "Line",
+          149
+        ],
+        [
+          "ListItem",
+          47
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 53,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          572
+        ],
+        [
+          "Line",
+          150
+        ],
+        [
+          "ListItem",
+          45
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 54,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          534
+        ],
+        [
+          "Line",
+          147
+        ],
+        [
+          "ListItem",
+          41
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 55,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/IDSA24_Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections"
+}

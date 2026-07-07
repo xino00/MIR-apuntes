@@ -1,0 +1,8 @@
+[mcp_servers.obsidian]
+command = "uvx"
+args = ["mcp-obsidian"]
+
+[mcp_servers.obsidian.env]
+OBSIDIAN_API_KEY = "c33f71c026877f5fd8f2a0588a7b94ca8f732eb68654d81a93ebe92064241d95"
+OBSIDIAN_HOST = "localhost"
+OBSIDIAN_PORT = "27123"
