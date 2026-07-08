@@ -1,4 +1,12 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    ".git/",
+    ".claude/",
+    ".codex/",
+    ".agents/",
+    ".github/",
+    "tmp/"
+  ]
 }

@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "88edff15c1cd5b77",
+    "type": "split",
+    "children": [
+      {
+        "id": "459a18c9023ff7d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f7f3e0529a9dfdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Patologias/04_Digestivo/Dolor_Abdominal/01_Dolor_Abdominal_Generalidades_y_Causas.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "01_Dolor_Abdominal_Generalidades_y_Causas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ec7a72701e5fdc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "906f46ace8b7a9bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14b53d73579b5fdf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "13376a7232471eb9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "472f555e9994f80c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 852.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "79bab7382a0fa96f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7431630026b52a77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a1cd63642a4d6b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "90_MOCs/MOC - PSIQUIATRIA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de MOC - PSIQUIATRIA"
+            }
+          },
+          {
+            "id": "0f75f9d670155279",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "90_MOCs/MOC - PSIQUIATRIA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de MOC - PSIQUIATRIA"
+            }
+          },
+          {
+            "id": "3d97e7db3fd2bff3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "518a9972587f1f38",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "672989acc902c43f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10_Patologias/01_Cardio/Cardiopatía isquémica.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Cardiopatía isquémica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 1035.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-importer:Open Importer": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "8f7f3e0529a9dfdd",
+  "lastOpenFiles": [
+    "Libros y referencias/01_General/Manual 12 Octubre 2022 - LLM.md",
+    "tmp/manual-12octubre-layout.txt",
+    "Libros y referencias/05_Infecciosas/ERS_ESICM_ESCMID_ALAT guidelines for NAC severe",
+    "Libros y referencias/12_COT/FIN MANUAL URGENCIAS COT.pdf",
+    "Libros y referencias/12_COT/FIN MANUAL URGENCIAS COT.pdf.fdmdownload",
+    "Libros y referencias/12_COT",
+    "Libros y referencias/05_Infecciosas/Mandell,-Douglas,-and-Bennetts-Principles-and-Practice-of-Infectious-Diseases-2-Volume-Set.pdf",
+    "tmp/idsa24_pdftotext_layout.txt",
+    "Libros y referencias/05_Infecciosas/marker-output/IDSA24_Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections/_page_0_Picture_6.jpeg",
+    "Libros y referencias/05_Infecciosas/marker-output/IDSA24_Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections/_page_0_Picture_5.jpeg",
+    "Libros y referencias/05_Infecciosas/marker-output/IDSA24_Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections/_page_0_Picture_4.jpeg",
+    "Libros y referencias/05_Infecciosas/marker-output/IDSA24_Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections/IDSA24_Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections_meta.json",
+    "Libros y referencias/05_Infecciosas/marker-output/IDSA24_Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections/IDSA24_Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections.md",
+    "Libros y referencias/05_Infecciosas/marker-output/IDSA24_Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections",
+    "Libros y referencias/05_Infecciosas/marker-output",
+    "Libros y referencias/05_Infecciosas/IDSA24_Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections.md",
+    "90_MOCs/MOC - INFECCIOSAS.md",
+    "90_MOCs/000_INICIO.md",
+    "90_MOCs/Checklist - Manual 12 Octubre.md",
+    "30_Urgencias/Perlas y errores.md",
+    "10_Patologias/03_Infecciosas/Perfusión Extendida de Betalactámicos.md",
+    "10_Patologias/03_Infecciosas/Úlceras por Presión.md",
+    "10_Patologias/03_Infecciosas/VIH - Diagnóstico y Manejo Inicial.md",
+    "10_Patologias/03_Infecciosas/Profilaxis Postexposición Biológica.md",
+    "10_Patologias/03_Infecciosas/Osteomielitis y Artritis Séptica.md",
+    "10_Patologias/03_Infecciosas/Enfermedades del Viajero - Aproximación Práctica.md",
+    "10_Patologias/03_Infecciosas/Tuberculosis.md",
+    "10_Patologias/03_Infecciosas/Neutropenia Febril.md",
+    "10_Patologias/03_Infecciosas/Infecciones Nosocomiales.md",
+    "10_Patologias/03_Infecciosas/Infecciones Intraabdominales.md",
+    "10_Patologias/03_Infecciosas/Hepatitis Virales (A-E).md",
+    "10_Patologias/03_Infecciosas/COVID-19.md",
+    "10_Patologias/03_Infecciosas/Bacteriemia y Candidemia.md",
+    "90_MOCs/MOC - Urgencias.md",
+    "30_Urgencias/MUST/MUST - Síndrome Confusional Agudo.md",
+    "30_Urgencias/MUST/MUST - Mareo y Vértigo.md",
+    "30_Urgencias/MUST/MUST - Dolor Torácico.md",
+    "30_Urgencias/MUST/MUST - Déficit Neurológico.md",
+    "10_Patologias/02_Neuro/Síndrome Confusional Agudo.md",
+    "assets/Cefalea_Embarazos_OneNote.svg",
+    "Libros y referencias/02_Cardiologia/___ CIMA __. FICHA TECNICA LOKELMA 10 G POLVO PARA SUSPENSION ORAL_files/Document-pdf.png",
+    "Libros y referencias/02_Cardiologia/___ CIMA __. FICHA TECNICA LOKELMA 10 G POLVO PARA SUSPENSION ORAL_files/CimaTranspaPeq.gif",
+    "Libros y referencias/02_Cardiologia/___ CIMA __. FICHA TECNICA LOKELMA 10 G POLVO PARA SUSPENSION ORAL_files/logo_aemps-sin-margen.jpg",
+    "Libros y referencias/02_Cardiologia/___ CIMA __. FICHA TECNICA VELTASSA 16,8 G POLVO PARA SUSPENSION ORAL_files/Document-pdf.png",
+    "Libros y referencias/02_Cardiologia/___ CIMA __. FICHA TECNICA VELTASSA 16,8 G POLVO PARA SUSPENSION ORAL_files/CimaTranspaPeq.gif",
+    "Libros y referencias/02_Cardiologia/___ CIMA __. FICHA TECNICA VELTASSA 16,8 G POLVO PARA SUSPENSION ORAL_files/logo_aemps-sin-margen.jpg"
+  ]
+}
