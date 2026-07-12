@@ -1,6 +1,6 @@
 ---
 tags: [referencia, indice, biblioteca]
-fecha_actualizacion: 2026-06-08
+fecha_actualizacion: 2026-07-13
 description: "Inventario de PDFs y guías clínicas del vault organizado por especialidad"
 ---
 
@@ -8,7 +8,7 @@ description: "Inventario de PDFs y guías clínicas del vault organizado por esp
 
 Inventario y mapeo del corpus de guías clínicas en `Libros y referencias/`. Cada PDF se ha asignado a una subcarpeta por especialidad para facilitar su uso como fuente primaria del fact-check del vault y como referencia rápida en guardia.
 
-**Total:** 50 PDFs productivos en 10 subcarpetas + 9 archivos en `_archive/` (duplicados y notas en texto plano antiguas).
+**Total verificado:** 101 PDFs en 12 subcarpetas + 0 PDFs en `_archive/`. Los snapshots HTML oficiales que sustituyen temporalmente a un PDF inaccesible se identifican de forma explícita y no se incluyen en este recuento.
 
 ## Cómo usar este índice
 
@@ -72,16 +72,19 @@ Inventario y mapeo del corpus de guías clínicas en `Libros y referencias/`. Ca
 | UpToDate - Hyperkalemia Manifestations.pdf | 2024 | UpToDate | [[Hiperkaliemia]] (clínica/ECG) |
 | UpToDate - Hyperkalemia Treatment.pdf | 2024 | UpToDate | [[Hiperkaliemia]] (tratamiento) |
 
-### 04_Neumologia/  (2 guías)
+### 04_Neumologia/  (2 PDF + 1 snapshot oficial)
 
 | Archivo | Año | Sociedad | Notas que valida |
 |---|---|---|---|
 | GEMA 5.5.pdf | 2024 | SEPAR/SEAIC | [[Asma - Clasificación y Control]], asma aguda y crónica |
 | GOLD 2026.pdf | 2025 | GOLD | EPOC estable, exacerbaciones |
+| ATS 2025 - NAC adultos - snapshot HTML 2026-07-13.md | 2025; versión de registro 2026 | ATS | [[Neumonía Adquirida en la Comunidad (NAC)]]: solo ecografía pulmonar, virus respiratorio positivo, duración y corticoides. Transcripción fechada del HTML oficial; el PDF quedó inaccesible tras la migración ATS Journals → OUP. |
 
-**Sin PDF dedicado:** TBC, neumonías (CAP/HAP), derrame pleural. Hemoptisis cubierta por `09_Urgencias_FJD/HEMOPTISIS PROCEDIMIENTO.pdf`. Fallback: Manual + WebFetch SEPAR.
+**Sin PDF dedicado:** TBC, neumonía hospitalaria y derrame pleural. La NAC dispone de la actualización ATS 2025 en HTML para cuatro PICO; la antibioterapia empírica no actualizada conserva como base la guía ATS/IDSA 2019 y PROA FJD. Hemoptisis cubierta por `09_Urgencias_FJD/HEMOPTISIS PROCEDIMIENTO.pdf`. Fallback: Manual + sociedad oficial vigente.
 
-### 05_Infecciosas/  (4 guías)
+### 05_Infecciosas/  (22 PDF + 2 snapshots oficiales)
+
+> Validación técnica, URL final, tamaño, páginas, hash y estado editorial: `05_Infecciosas/00_VALIDACION_2026-07-13.md`.
 
 | Archivo | Año | Sociedad | Notas que valida |
 |---|---|---|---|
@@ -89,6 +92,14 @@ Inventario y mapeo del corpus de guías clínicas en `Libros y referencias/`. Ca
 | PROA FJD.pdf | 2024 | FJD | Protocolo institucional FJD |
 | SEPSIS 2026.pdf | 2026 | SSC | Sepsis y shock séptico |
 | Evans 2021 - Surviving Sepsis.pdf | 2021 | SSC (Evans et al) | Surviving Sepsis Campaign 2021 |
+| Mandell,-Douglas,-and-Bennetts-Principles-and-Practice-of-Infectious-Diseases-2-Volume-Set.pdf | 2025 | Elsevier, 10.ª ed. | Tratado de consulta; no sustituye protocolos locales ni guías focales |
+| IDSA24_Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections.md | 2024 | IDSA | Transcripción local de la guía AMR 2024; epidemiología y disponibilidad estadounidenses requieren adaptación |
+| IDSA 2025 - ITU complicada/ (5 manuscritos + 3 suplementos) | 2025; publicación CID 2025-2026 | IDSA | [[PROA - Infecciones del Tracto Urinario (ITU)]], [[ITU - Abordaje Inicial y Cistitis]], [[ITU - Situaciones Especiales]], [[Pielonefritis Aguda]], [[Prostatitis Aguda]]; selección, IV→VO y duración. No actualiza imagen. |
+| SEIMC 2026 - ITS.pdf | edición 2024; actualización abril 2026 | SEIMC + Ministerio de Sanidad | [[PROA - Infecciones de Transmisión Sexual (ITS)]], [[Profilaxis Postexposición Biológica]], [[VIH - Diagnóstico y Manejo Inicial]] |
+| IDSA 2025 - COVID-19/ (2 manuscritos + 2 suplementos + snapshot) | web IDSA 2025; corrected proof CID 2026 | IDSA | [[COVID-19]]: antivirales en enfermedad leve-moderada y baricitinib frente a tocilizumab; el snapshot conserva el contexto de la guía viva |
+| AASLD-IDSA 2025 - Hepatitis B cronica.pdf | ePub 2025; versión de registro 2026 | AASLD/IDSA | [[Hepatitis Virales (A-E)]]; archivo local = manuscrito aceptado abierto (la versión definitiva está publicada en *Hepatology* 2026) |
+| SEIMC-SEMTSI 2024 - Enfermedades febriles importadas.pdf | editorial 2024; landing SEIMC 2025 | SEMTSI/GEPI-SEIMC/semFYC/SEMERGEN/SEMES | [[Enfermedades del Viajero - Aproximación Práctica]] |
+| IDSA 2025 - Faringitis estreptococica parte 1.pdf + suplemento | 2025; corrected proof CID 2026 | IDSA | Selección de pacientes para pruebas mediante scores y excepciones de alto riesgo; no actualiza antibiótico ni duración |
 
 ### 06_Neurologia/  (1 guía)
 

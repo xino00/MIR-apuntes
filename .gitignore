@@ -55,6 +55,9 @@ xpdf/
 
 # Markdown extraído de PDFs de referencia (cache local para grep/Read de Claude — el PDF es la fuente de verdad en LFS)
 Libros y referencias/**/*.md
+!Libros y referencias/05_Infecciosas/00_VALIDACION_2026-07-13.md
+!Libros y referencias/05_Infecciosas/ATS 2025 - NAC adultos - snapshot HTML 2026-07-13.md
+!Libros y referencias/05_Infecciosas/IDSA 2025 - COVID-19/03 - Pagina viva IDSA snapshot 2026-07-13.md
 
 # Temporary text files
 *.txt
