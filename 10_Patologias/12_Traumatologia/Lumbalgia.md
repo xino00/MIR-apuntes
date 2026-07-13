@@ -16,6 +16,13 @@ Dolor lumbar no irradiado a MMII, con o sin desencadenante (esfuerzo, tos…). M
 
 ## Tratamiento
 
+> [!tip] Ejercicio terapéutico — SERMEF
+> Usar [[Ejercicios SERMEF - Dolor lumbar#Copypaste para el informe de alta|copypaste SERMEF para el informe de alta]] — programa **NIVEL**. Material oficial para el paciente: [Ejercicios SERMEF](https://ejercicios.sermef.es/).
+>
+> El programa debe ajustarse al diagnóstico, la capacidad funcional y la evolución; no sustituye una valoración individual. Realizar con técnica controlada y progresar según tolerancia. Una molestia leve y transitoria puede ser admisible, pero debe suspenderse y reevaluarse ante dolor intenso o progresivo, empeoramiento mantenido o cualquier signo de alarma propio del cuadro.
+>
+> **Pauta indicada:** programa ______ · frecuencia ______ · revisión en ______.
+
 **En urgencias:**
 - Ketorolaco 30mg/mL (droal) intramuscular, única dosis
 - Si mal control o contraindicación AINES: bolo de metamizol iv

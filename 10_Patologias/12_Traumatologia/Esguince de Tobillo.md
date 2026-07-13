@@ -19,6 +19,15 @@ Mecanismo de inversión/eversión forzada. Dolor y tumefacción en tobillo.
 Palpación sistemática: ligamento peroneo-astragalino anterior, peroneo-astragalino posterior, peroneocalcaneo, ligamento deltoideo, cabeza del 5º metatarsiano, tibia y peroné distal y proximal.
 Rx de tobillo para descartar fractura (criterios Ottawa).
 
+## Ejercicio terapéutico
+
+> [!tip] Ejercicio terapéutico — SERMEF
+> Usar [[Ejercicios SERMEF - Dolor tras esguince de tobillo#Copypaste para el informe de alta|copypaste SERMEF para el informe de alta]] — programa **NIVEL**. Material oficial para el paciente: [Ejercicios SERMEF](https://ejercicios.sermef.es/).
+>
+> El programa debe ajustarse al diagnóstico, la capacidad funcional y la evolución; no sustituye una valoración individual. Realizar con técnica controlada y progresar según tolerancia. Una molestia leve y transitoria puede ser admisible, pero debe suspenderse y reevaluarse ante dolor intenso o progresivo, empeoramiento mantenido o cualquier signo de alarma propio del cuadro.
+>
+> **Pauta indicada:** programa ______ · frecuencia ______ · revisión en ______.
+
 ## Plantilla de Guardia
 
 *** Enfermedad actual.

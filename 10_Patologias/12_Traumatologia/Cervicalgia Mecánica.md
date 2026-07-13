@@ -5,6 +5,15 @@ fuente_original: "Extraído de 50_Guardias/01 - Plantilla Curas y Traumatología
 ---
 # Cervicalgia Mecánica
 
+## Ejercicio terapéutico
+
+> [!tip] Ejercicio terapéutico — SERMEF
+> Usar [[Ejercicios SERMEF - Dolor cervical#Copypaste para el informe de alta|copypaste SERMEF para el informe de alta]] — programa **NIVEL**. Material oficial para el paciente: [Ejercicios SERMEF](https://ejercicios.sermef.es/).
+>
+> El programa debe ajustarse al diagnóstico, la capacidad funcional y la evolución; no sustituye una valoración individual. Realizar con técnica controlada y progresar según tolerancia. Una molestia leve y transitoria puede ser admisible, pero debe suspenderse y reevaluarse ante dolor intenso o progresivo, empeoramiento mantenido o cualquier signo de alarma propio del cuadro.
+>
+> **Pauta indicada:** programa ______ · frecuencia ______ · revisión en ______.
+
 ## Plantilla de Guardia
 
 *** Enfermedad actual.

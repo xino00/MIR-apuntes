@@ -36,6 +36,11 @@ description: "Índice de traumatología: lumbalgia, esguinces, fracturas, herida
 - [[Exploración de Rodilla]]
 - [[Exploración de Tobillo y Antepié]]
 
+### 🏃 Ejercicio terapéutico — SERMEF
+- [[Ejercicios SERMEF - Dolor cervical]]
+- [[Ejercicios SERMEF - Dolor lumbar]]
+- [[Ejercicios SERMEF - Dolor tras esguince de tobillo]]
+
 ### 🦠 Infección osteoarticular
 - [[Osteomielitis y Artritis Séptica]] (ver Infecciosas)
 
