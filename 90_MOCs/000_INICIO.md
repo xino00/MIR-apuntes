@@ -36,6 +36,7 @@ tags: [moc]
 - [[MOC - TRAUMATOLOGIA|MOC - Traumatología]]
 - [[MOC - DERMATOLOGIA|MOC - Dermatología]]
 - [[MOC - PSIQUIATRIA|MOC - Psiquiatría]]
+- [[MOC - GINECOLOGIA|MOC - Ginecología]]
 - [[MOC - Urgencias]]
 
 ### 💊 Fármacos
