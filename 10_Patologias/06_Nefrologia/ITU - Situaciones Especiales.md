@@ -92,6 +92,13 @@ tags: [urgencias, infecciosas, nefro, uro, ginecologia]
 - **Duración: 7-14 días** según respuesta y gravedad
 - Al alta: derivar a AP en 48h para revisión antibiograma y desescalar
 
+> [!warning] IDSA 2025 · ITU-10 — dispositivos y evidencia indirecta
+> Los estudios de duración y paso a vía oral excluyeron con frecuencia a pacientes con sonda permanente. No asumir 7 días como una recomendación IDSA específica en este subgrupo: individualizar según respuesta, gravedad y control del foco.
+>
+> **Práctica PROA/local, no nueva recomendación IDSA:** si el dispositivo ya no está indicado, retirarlo; si debe mantenerse, seguir el recambio y la toma de cultivo establecidos localmente.
+>
+> **Alcance:** evidencia indirecta; no existe una recomendación IDSA sólida específica para sonda permanente. [[01 - Introduccion y metodos.pdf#page=5|Introducción, p. 5]] · [[04 - Duracion.pdf#page=2|Duración, p. 2]] · [[04 - Duracion.pdf#page=5|pp. 5-6]].
+
 ### Prevención
 - Retirada precoz del catéter
 - Cateterismos limpios intermitentes (menor tasa ITU que sonda permanente)

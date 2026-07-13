@@ -34,6 +34,11 @@ last_fact_checked: 2026-06-09
 | Hemocultivos | Si infección grave, sepsis, ancianos, DM, obstrucción |
 | Rx abdomen | Descartar litiasis si clínica compatible con cólico |
 
+> [!info] IDSA 2025 · ITU-03 — antecedentes microbiológicos
+> Antes de elegir tratamiento empírico, revisar los resultados de urocultivos previos y sus sensibilidades. Evitar, si es posible, antibióticos frente a los que se aisló resistencia y dar más peso a los cultivos recientes.
+>
+> **Evidencia:** recomendación condicional; certeza muy baja. [[02 - Seleccion antibiotica.pdf#page=34|Selección, p. 34]].
+
 ### Prueba de imagen (TC preferente sobre ecografía)
 Indicada si:
 - Sepsis / shock séptico
@@ -113,7 +118,22 @@ Tras mejoría clínica, paso a oral según antibiograma:
 - Cefditoreno 400 mg/12h
 - Ciprofloxacino 500 mg/12h o cotrimoxazol 800/160 mg/12h (si sensible)
 
+> [!info] IDSA 2025 · ITU-06 — tratamiento dirigido y desescalada
+> Cuando estén disponibles el cultivo y la sensibilidad, cambiar cuanto antes a una opción activa de espectro dirigido en lugar de mantener el tratamiento empírico amplio. Si además se cumplen los criterios para vía oral, integrar la desescalada y el cambio de vía en la misma decisión.
+>
+> **Evidencia:** recomendación condicional; certeza baja. [[02 - Seleccion antibiotica.pdf#page=46|Selección, pp. 46-47]].
+
+> [!info] IDSA 2025 · ITU-07 — paso IV → oral
+> Realizarlo si existe mejoría clínica, estabilidad, absorción oral adecuada, una opción activa que alcance concentraciones suficientes en orina y parénquima, y control del foco. En bacteriemia gramnegativa, la evidencia procede principalmente de pacientes afebriles, hemodinámicamente estables y con cualquier obstrucción resuelta; individualizar fuera de este perfil. Nitrofurantoína y fosfomicina oral no son, en general, opciones adecuadas para pielonefritis o sospecha de bacteriemia.
+>
+> **Evidencia:** recomendación condicional; certeza baja en ITU complicada y muy baja con bacteriemia. [[03 - Transicion IV a VO.pdf#page=1|Transición IV→VO, pp. 1-2]] · [[03 - Transicion IV a VO.pdf#page=10|p. 10]].
+
 **Duración total: 7 días** (ambulatorio) / **7-10 días** (hospitalario)
+
+> [!info] IDSA 2025 · ITU-08 — duración
+> Contar desde el primer día de tratamiento efectivo. Si existe respuesta clínica, IDSA sugiere 5-7 días con una fluoroquinolona dirigida o 7 días con otro antibiótico activo. Individualizar ante respuesta lenta, absceso, obstrucción no resuelta, dispositivo, embarazo, inmunosupresión, insuficiencia renal grave o sospecha de prostatitis.
+>
+> **Evidencia:** recomendaciones condicionales; certeza moderada para fluoroquinolonas y muy baja para otros antibióticos. [[04 - Duracion.pdf#page=1|Duración, pp. 1-2]].
 
 ---
 

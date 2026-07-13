@@ -16,7 +16,18 @@ tags: [urgencias, infecciosas, nefro, uro]
 > **NO usar de forma empírica:** quinolonas, cotrimoxazol ni amoxicilina-clavulánico (resistencias locales >20%).
 > Estos fármacos solo se usarán **dirigidos por antibiograma**.
 
+> [!info] IDSA 2025 · ITU-04 — exposición previa a fluoroquinolonas
+> En ITU complicada, incluida la pielonefritis, evitar fluoroquinolonas empíricas si hubo exposición a esta clase en los 12 meses anteriores. La recomendación se refiere a la elección empírica y no impide su uso dirigido cuando el aislamiento sea sensible y exista una indicación con penetración adecuada.
+>
+> **Evidencia:** recomendación condicional; certeza muy baja. [[02 - Seleccion antibiotica.pdf#page=34|Selección, p. 34]].
+
 ---
+
+> [!warning] Revisión pendiente — IDSA 2025
+> La clasificación «complicada/no complicada» de esta nota está desactualizada respecto a IDSA 2025. La actualización clasifica principalmente según la extensión más allá de la vejiga y la presencia de dispositivos; sexo, edad o comorbilidad aislados no son definidores automáticos. Pendiente de conciliación con el PROA FJD antes de modificar las pautas locales.
+>
+> **Fuente:** [[01 - Introduccion y metodos.pdf#page=4|IDSA 2025, pp. 4-6]].
+> **Trazabilidad:** ITU-01.
 
 ## 1. Clasificación
 
@@ -49,6 +60,11 @@ tags: [urgencias, infecciosas, nefro, uro]
 - **No necesario en cistitis no complicada** (salvo mala evolución)
 - **Obligatorio en:** cistitis complicada, varones, resistentes previos, ATB reciente, contacto sanitario
 
+> [!info] IDSA 2025 · ITU-03 — antecedentes microbiológicos
+> En ITU complicada, revisar los resultados de urocultivos previos y sus sensibilidades antes de elegir el tratamiento empírico. Evitar, si es posible, antibióticos frente a los que se aisló resistencia y dar más peso a los cultivos recientes.
+>
+> **Evidencia:** recomendación condicional; certeza muy baja. [[02 - Seleccion antibiotica.pdf#page=34|Selección, p. 34]].
+
 ### Piuria: falsos negativos y positivos
 
 | Falsos negativos | Falsos positivos |
@@ -64,6 +80,11 @@ tags: [urgencias, infecciosas, nefro, uro]
 
 - **ITU no complicada:** *E. coli* (70-80%), *S. saprophyticus*, *K. pneumoniae*, *P. mirabilis*
 - **ITU complicada/nosocomial:** aumenta *Pseudomonas*, *Enterobacter*, *Serratia*, enterobacterias BLEE, *Enterococcus*
+
+> [!warning] IDSA 2025 · ITU-05 — confirmar vigencia del antibiograma
+> Las sensibilidades FJD de 2022 pueden estar desactualizadas. No utilizarlas para decidir tratamiento empírico sin comprobar el antibiograma vigente del centro. En sepsis, IDSA solo sugiere un antibiograma local, construido con datos de los 12 meses previos y representativo de una población comparable. Si se utiliza, propone considerar una actividad ≥90% en shock séptico y ≥80% en sepsis sin shock; son umbrales modelados por gravedad, no reglas universales para pacientes sin sepsis. Sin sepsis, IDSA no formula una recomendación.
+>
+> **Evidencia en sepsis:** recomendación condicional; certeza muy baja. [[02 - Seleccion antibiotica.pdf#page=42|Selección, pp. 42-45]].
 
 ### Sensibilidades locales FJD (2022) — *E. coli*
 

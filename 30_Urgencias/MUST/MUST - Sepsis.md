@@ -143,6 +143,8 @@ DURATION (DURACIÓN)
 - 7 días en la mayoría con el foco controlado (BALANCE: 7 = 14 días en bacteriemia). Alarga solo en casos concretos: endocarditis, osteomielitis o artritis protésica, foco no drenable, inmunodepresión grave, S. aureus en sangre (mínimo 14 días).
 - Procalcitonina: solo ayuda, junto a la clínica, a decidir cuándo SUSPENDER el antibiótico; nunca para iniciarlo.
 
+IDSA 2025 · ITU-09: en bacteriemia gramnegativa de foco urinario, 7 días totales pueden ser suficientes si el paciente mejora con tratamiento efectivo, está afebril y hemodinámicamente estable, y el foco está controlado. No extrapolar a shock persistente, absceso, obstrucción no resuelta, dispositivo problemático o sospecha de prostatitis. Recomendación condicional; evidencia baja.
+
 
 7- PERLAS PARA NO OLVIDAR
 

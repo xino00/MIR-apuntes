@@ -62,6 +62,11 @@ aliases:
 - **Duración (Rec. 39):** Se sugiere **duración más corta** sobre más larga si diagnóstico inicial de sepsis/shock y control del foco adecuado.
 - **BALANCE trial:** 7 vs. 14 días para bacteriemia mostró no-inferioridad del tratamiento corto.
 
+> [!info] IDSA 2025 · ITU-09 — bacteriemia gramnegativa de foco urinario
+> Siete días pueden ser suficientes si existe mejoría con tratamiento efectivo, estabilidad hemodinámica y control del foco; no es una regla universal para toda bacteriemia ni debe extrapolarse automáticamente a shock persistente, absceso, obstrucción no resuelta, dispositivo problemático o sospecha de prostatitis.
+>
+> **Evidencia:** recomendación condicional; certeza baja. [[04 - Duracion.pdf#page=2|Duración, p. 2]] · [[04 - Duracion.pdf#page=9|pp. 9-10]].
+
 ---
 
 ## 🦠 Bacteriemia: Abordaje por Microorganismo

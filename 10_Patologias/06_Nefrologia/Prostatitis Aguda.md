@@ -84,6 +84,11 @@ last_fact_checked: 2026-06-09
 | **[[Cotrimoxazol]]** (alternativa) | 800/160 mg cada 12h oral |
 | *Alergia/multirresistentes:* Fosfomicina oral | 500 mg/8h |
 
+> [!warning] IDSA 2025 · ITU-11 — fuera de alcance
+> La guía IDSA 2025 de ITU complicada excluye expresamente la prostatitis, epididimitis y orquitis. Sus duraciones de 5-7 o 7 días no deben aplicarse a estas entidades ni resuelven la discordancia entre PROA FJD y Manual 12 Octubre. La mención de 10-14 días en varones con ITU febril y sospecha de prostatitis reconoce la falta de evidencia y no sustituye una guía específica.
+>
+> **Tipo de declaración:** delimitación de alcance, no recomendación GRADE. [[01 - Introduccion y metodos.pdf#page=4|Introducción, p. 4]] · [[04 - Duracion.pdf#page=2|Duración, p. 2]].
+
 ### 5.3. Duración — discordancia de fuentes
 - **PROA FJD (prevalece en guardia):** no complicada **2 semanas** (desde la 1.ª dosis de ceftriaxona); complicada, síntomas persistentes o absceso **3-4 semanas**.
 - **Manual 12 Octubre:** **4 semanas en todas** ("la duración total del tratamiento debe ser de 4 semanas, evitando así la recaída y el desarrollo de prostatitis crónica"). Valorar pauta larga si mala evolución o factores de riesgo de cronificación.

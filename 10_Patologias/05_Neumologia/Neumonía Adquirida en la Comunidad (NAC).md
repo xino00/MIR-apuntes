@@ -1,9 +1,9 @@
 ---
 aliases: [NAC, Neumonía, Neumonía adquirida en la comunidad, Neumonía comunitaria]
 tags: [urgencias, neumo, infecciosas, patologia]
-fuente: "Manual 12 Octubre 2022 (cap. 67) + SEPAR-SEIMC NAC 2018 + IDSA/ATS CAP 2019"
+fuente: "Manual 12 Octubre 2022 (cap. 67) + SEPAR-SEIMC NAC 2018 + IDSA/ATS CAP 2019 + ATS NAC 2025"
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md y 50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md"
-last_fact_checked: 2026-05-19
+last_fact_checked: 2026-07-13
 ---
 # Neumonía Adquirida en la Comunidad (NAC)
 
@@ -17,13 +17,22 @@ last_fact_checked: 2026-05-19
 
 **Analítica:** SatO₂, hemograma, bioquímica + función renal, hepática y electrolitos. Leucocitosis con neutrofilia / normal. PCR elevada.
 
-**Radiología:** infiltrado pulmonar (infiltrado alveolar / consolidación basal / patrón intersticial / bilateralidad).
+**Imagen:** confirmar la sospecha clínica mediante imagen pulmonar (infiltrado alveolar / consolidación basal / patrón intersticial / bilateralidad). La radiografía de tórax sigue siendo la técnica habitual.
+
+**Añadido por ATS 2025:** la ecografía pulmonar es una alternativa aceptable a la radiografía solo donde existan experiencia clínica, protocolo, archivo de imágenes y documentación adecuados (**recomendación condicional; evidencia baja**). No sustituye a la radiografía o TC si se sospechan diagnósticos alternativos como embolia pulmonar o neoplasia, ni cuando existen barreras para obtener una exploración ecográfica de calidad.
 
 **Microbiología:** cultivo de esputo, hemocultivo, antigenurias en orina. Otros (según caso): antígenos en orina, test de gripe/VRS/SARS-CoV-2, hemocultivos.
 
 **Evaluación de la gravedad:**
 - Escala FINE-PSI
 - Escala CURB-65
+
+### Criterios de NAC grave
+
+**Añadido a esta nota a partir de ATS 2025:** se considera NAC grave con **un criterio mayor o al menos tres criterios menores**. Son los criterios ATS/IDSA previamente validados y utilizados por la actualización para definir a qué pacientes se aplican sus recomendaciones sobre duración y corticoides.
+
+- **Mayores:** shock séptico con necesidad de vasopresores; insuficiencia respiratoria que requiere ventilación mecánica.
+- **Menores:** FR ≥30 rpm; PaO₂/FiO₂ ≤250; infiltrados multilobares; confusión/desorientación; nitrógeno ureico (BUN) ≥20 mg/dL; leucocitos <4.000/µL; plaquetas <100.000/µL; temperatura central <36 °C; hipotensión que requiere fluidoterapia agresiva.
 
 **Etiología más frecuente** (NAC ambulatoria, datos protocolo FJD):
 - **S. pneumoniae** (14%) — sigue siendo el patógeno bacteriano #1
@@ -35,6 +44,44 @@ last_fact_checked: 2026-05-19
 - EPOC: H. influenzae y Moraxella catarrhalis, bacteriemias por S. pneumoniae
 
 ## Tratamiento
+
+### Novedades ATS 2025
+
+> [!caution] Alcance de la actualización
+> Esta guía fue **aprobada por ATS, no por IDSA**, y se limita a adultos inmunocompetentes. Sus recomendaciones nuevas se sustentan en evidencia baja o muy baja y requieren individualización; no deben aplicarse como reglas automáticas.
+
+#### NAC con test respiratorio viral positivo
+
+**Añadido por ATS 2025:** la conducta depende del ámbito y las comorbilidades; el supuesto exige evidencia clínica **y de imagen** de NAC.
+
+| Situación | Conducta sugerida | Certeza |
+|---|---|---|
+| Ambulatorio sin comorbilidades y baja sospecha de coinfección bacteriana | Considerar no iniciar antibiótico empírico, con seguimiento y plan de contingencia fiables | Recomendación condicional; evidencia muy baja |
+| Ambulatorio con comorbilidades | Iniciar antibiótico empírico por riesgo de coinfección bacteriana, individualizando según gravedad, comorbilidad y riesgo de efectos adversos | Recomendación condicional; evidencia muy baja |
+| Ingresado con NAC no grave o grave | Iniciar antibiótico empírico; revisar diariamente evolución y microbiología para desescalar o suspender precozmente si procede | Recomendación condicional; evidencia muy baja |
+
+Un test viral positivo aislado no excluye coinfección bacteriana. La ausencia de leucocitosis o una procalcitonina baja tampoco permiten descartarla con seguridad.
+
+#### Duración según estabilidad clínica
+
+- **Ambulatorio o ingresado con NAC no grave:** considerar una duración **total efectiva inferior a 5 días, con un mínimo de 3 días**, únicamente si alcanza estabilidad y no presenta factores que requieran tratamiento prolongado (**recomendación condicional; evidencia baja**). No son tres días adicionales después de estabilizarse.
+- **NAC grave:** tratar durante **al menos 5 días**, aunque haya alcanzado estabilidad (**recomendación fuerte; evidencia baja**). La presencia de complicaciones o patógenos específicos puede exigir una duración mayor.
+
+**Estabilidad clínica:** temperatura ≤37,8 °C, FC <100 lpm, FR <24 rpm, SatO₂ ≥90% o PaO₂ ≥60 mmHg en aire ambiente —o requerimiento basal de oxígeno—, PAS ≥90 mmHg y estado mental normal. Debe reevaluarse diariamente.
+
+No aplicar automáticamente la pauta corta ante *S. aureus*, *P. aeruginosa*, sospecha de *Legionella* u otros microorganismos intracelulares, bacteriemia, empiema, absceso/necrosis, bronquiectasias, neumonía postobstructiva, insuficiencia respiratoria crónica, hospitalización reciente o dificultades para garantizar seguimiento. La duración efectiva debe considerar la farmacocinética del antibiótico, especialmente de los macrólidos.
+
+#### Corticoides sistémicos
+
+- **NAC no grave ingresada:** no administrar corticoides sistémicos si no existe otra indicación establecida (**recomendación fuerte; evidencia baja**).
+- **NAC grave:** considerar corticoides sistémicos, especialmente si pueden iniciarse precozmente y existe insuficiencia respiratoria o inflamación elevada; excluir la neumonía gripal (**recomendación condicional; evidencia baja**). Estos factores de selección no están respaldados por evidencia comparativa de alta calidad.
+
+ATS 2025 no permite recomendar un corticoide, una dosis o una duración concretos. Si existe otra indicación —por ejemplo, exacerbación de asma o EPOC— debe tratarse de forma independiente.
+
+### Pautas antibióticas de fuentes previas
+
+> [!note]
+> ATS 2025 no actualiza la elección ni las dosis de los antibióticos. Las pautas siguientes proceden de las fuentes previas registradas en el frontmatter y se revisarán por separado.
 
 **Antibiótico según perfil clínico:**
 
@@ -52,7 +99,7 @@ Tratamiento hospitalario:
 - Ceftriaxona 1-2g/d / Cefotaxima 2g/8h / Ceftarolina 600mg/12h + Macrólido (Azitro 500mg/d 3d / Claritromicina 500mg/12h)
 - Levofloxacino 500mg/12h / Moxifloxacino 400mg/d
 
-La tos postinfecciosa puede persistir hasta 3 meses. Se puede ajustar tratamiento inhalado con GCI + LABA + CTC oral (Prednisona 30mg 5 días). Por eso el estudio de tos crónica se posterga 3 meses en caso de que haya habido una infección.
+La tos postinfecciosa puede persistir hasta 3 meses. El estudio de tos crónica puede diferirse hasta comprobar la resolución del episodio infeccioso.
 
 En caso de EPOC frágil, alteraciones radiológicas no resueltas al alta, pruebas pendientes, se derivará al servicio de Neumología en 4-6 semanas.
 
@@ -135,7 +182,11 @@ Levofloxacino 500mg/12h / Moxifloxacino 400mg/d
 Ceftriaxona 1-2g/d / Cefotaxima 2g/8h / Ceftarolina 600mg12h + Macrólido (Azitro 500mg/d 3d / Claritromicina 500mg/12h
 Levofloxacino 500mg/12h / Moxifloxacino 400mg/d
 
-La tos postinfecciosa puede persistir hasta 3 meses. Se puede ajustar tratamiento inhalado con GCI + LABA + CTC oral (Prednisona 30mg 5 días). Por eso el estudio de tos crónica, se posterga 3 meses en caso de que haya habido una infección.
+La tos postinfecciosa puede persistir hasta 3 meses. El estudio de tos crónica puede diferirse hasta comprobar la resolución del episodio infeccioso.
+
+## Referencias
+
+- [[ATS 2025 - NAC adultos - snapshot HTML 2026-07-13|ATS 2025 — Diagnosis and Management of Community-acquired Pneumonia]] — DOI: 10.1164/rccm.202507-1692ST. Actualización aprobada por ATS, no por IDSA.
 
 ## 🔗 Relacionados
 - [[Bronquitis Aguda]]

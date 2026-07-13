@@ -26,6 +26,11 @@ tags: [urgencias, infecciosas, uro]
 > **Tasa de resistencia umbral para uso empírico:** < 20% en cistitis, < 10% en pielonefritis.
 > **No recomendar empírico en ITU:** quinolonas, cotrimoxazol ni amoxicilina/clavulánico (por resistencias en FJD).
 
+> [!warning] IDSA 2025 · ITU-05 — umbrales históricos
+> Los umbrales <20% en cistitis y <10% en pielonefritis pertenecen al marco histórico del PROA/IDSA 2010; no son una regla universal de IDSA 2025. Mantener la pauta local, pero confirmar el antibiograma FJD vigente. En sepsis, IDSA solo sugiere utilizar un antibiograma local, de los 12 meses previos y representativo. Si se utiliza, propone considerar una actividad ≥90% en shock séptico y ≥80% en sepsis sin shock; son umbrales modelados por gravedad. Sin sepsis no formula una recomendación.
+>
+> **Evidencia en sepsis:** recomendación condicional; certeza muy baja. [[02 - Seleccion antibiotica.pdf#page=42|Selección, pp. 42-45]].
+
 ---
 ## 1. Cistitis
 
@@ -69,6 +74,7 @@ tags: [urgencias, infecciosas, uro]
   - **Recambiar sonda vesical** antes de recoger muestra (si posible). Registrar el recambio en HC.
   - Si nefrostomía/CMJ/urostomía: solicitar cultivo como "orina nefrostomía" (frecuentemente polimicrobiano).
   - *Tratamiento:* [[Cefixima]] 400mg/24h, **7 días** + **recambio de sonda vesical**.
+  - *IDSA 2025 · ITU-10 — alcance:* esta pauta de 7 días procede del PROA FJD; IDSA no la valida específicamente en portadores de sonda permanente, un subgrupo con evidencia indirecta que requiere individualización.
   - Revisar urocultivos previos (alto riesgo de multiR). Al alta: derivar a MAP en 48h para revisar antibiograma.
   - *Si alergia a betalactámicos (confirmada):* dosis única de amikacina IV 15-20mg/kg/24h.
 
