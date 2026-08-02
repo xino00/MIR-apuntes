@@ -2,11 +2,12 @@
 aliases: [Checklist 12 Octubre, Temas pendientes]
 tags: [moc]
 description: "Checklist de capítulos del Manual del 12 de Octubre vs notas existentes en el vault"
+last_fact_checked: 2026-08-02
 ---
 
 # Checklist — Manual del 12 de Octubre
 
-> [!info] Última revisión: 2026-04-13
+> [!info] Última revisión: 2026-08-02
 > `[x]` = tema cubierto en el vault · `[ ]` = pendiente de crear
 > Los wikilinks apuntan a notas existentes.
 
@@ -338,15 +339,15 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 - [x] [[Urticaria Aguda]]
 - [x] [[Herpes Zóster]]
 - [x] [[Sarna - Escabiosis|Sarna]]
-- [ ] Dermatitis atópica
-- [ ] Dermatitis de contacto
-- [ ] Psoriasis
-- [ ] Infecciones cutáneas bacterianas (celulitis, erisipela, impétigo)
-- [ ] Micosis cutáneas superficiales
-- [ ] Reacciones adversas cutáneas a fármacos (DRESS, SJS/NET)
-- [ ] Melanoma y cáncer cutáneo no melanoma
-- [ ] Eritema multiforme
-- [ ] Acné
+- [x] [[Dermatología 04 - Dermatitis atópica|Dermatitis atópica]]
+- [x] [[Dermatitis de contacto]]
+- [x] [[Dermatología 10 - Psoriasis y dermatitis seborreica|Psoriasis]]
+- [x] [[Dermatología 15 - Infecciones bacterianas y micosis superficiales|Infecciones cutáneas bacterianas]] · [[Celulitis, erisipela y fascitis necrosante]]
+- [x] [[Dermatología 15 - Infecciones bacterianas y micosis superficiales|Micosis cutáneas superficiales]] · [[Dermatofitosis y onicomicosis]]
+- [x] [[Dermatología 14 - Toxicodermias y dermatosis reactivas|Reacciones adversas cutáneas a fármacos]] · [[DRESS]] · [[Síndrome de Stevens-Johnson y necrólisis epidérmica tóxica|SSJ/NET]]
+- [x] [[Dermatología 06 - Melanoma y cáncer cutáneo no melanoma|Melanoma y cáncer cutáneo no melanoma]]
+- [x] [[Dermatología 14 - Toxicodermias y dermatosis reactivas|Eritema multiforme]]
+- [x] [[Dermatología 03 - Acné y rosácea|Acné]]
 
 ---
 
@@ -367,7 +368,7 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 
 ## Sección XVII — Oncología
 
-> [!warning] Sección completa sin cubrir
+> [!warning] Cobertura mínima: solo neutropenia febril
 
 - [ ] Urgencias oncológicas (síndrome de vena cava superior, compresión medular, hipercalcemia tumoral, síndrome de lisis tumoral)
 - [x] [[Neutropenia Febril]] (ver Hematología/Infecciosas)
@@ -382,31 +383,31 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 | Sección | Cubiertas | Pendientes | % |
 |---|---|---|---|
 | Generalidades | 1 | 6 | 14% |
-| Cardiología | 18 | 1 | 95% |
+| Cardiología | 19 | 0 | 100% |
 | Neumología | 9 | 7 | 56% |
-| Digestivo | 19 | 10 | 66% |
-| Nefrología | 7 | 5 | 58% |
-| Endocrinología | 3 | 13 | 19% |
-| Hematología | 9 | 11 | 45% |
-| Reumatología | 7 | 9 | 44% |
+| Digestivo | 20 | 10 | 67% |
+| Nefrología | 6 | 5 | 55% |
+| Endocrinología | 4 | 12 | 25% |
+| Hematología | 10 | 11 | 48% |
+| Reumatología | 6 | 9 | 40% |
 | Neurología | 20 | 6 | 77% |
-| Infecciosas | 16 | 3 | 84% |
-| Urgencias/Críticos | 15 | 7 | 68% |
+| Infecciosas | 16 | 4 | 80% |
+| Urgencias/Críticos | 14 | 7 | 67% |
 | ORL | 9 | 4 | 69% |
 | Urología | 4 | 5 | 44% |
 | Traumatología | 16 | 4 | 80% |
-| Dermatología | 3 | 9 | 25% |
+| Dermatología | 12 | 0 | 100% |
 | Psiquiatría | 6 | 4 | 60% |
-| Oncología | 0 | 5 | 0% |
-| **Total** | **~162** | **~111** | **~59%** |
+| Oncología | 1 | 4 | 20% |
+| **Total** | **173** | **98** | **64%** |
 
 ---
 
 > [!tip] Prioridades sugeridas
-> 1. **Psiquiatría** — 0% y frecuente en guardias (agitación, intento autolítico, ansiedad)
+> 1. **Psiquiatría** — 60%; pendientes trastorno bipolar, TCA, insomnio y trastornos somatomorfos
 > 2. **Endocrinología** — solo emergencias glucémicas; falta DM crónica, tiroides
 > 3. **Oncología** — urgencias oncológicas imprescindibles para guardia
-> 4. **Dermatología** — muy frecuente en AP y guardias
+> 4. **Dermatología** — 12/12 temas cubiertos; mantener revisión de dosis y fuentes
 > 5. **Infecciosas** — ya cubierto el grueso del Manual (cap 64-80); pendiente solo FOD, parasitosis tropicales, herpes virus y zoonosis
 
 ---
@@ -416,7 +417,7 @@ description: "Checklist de capítulos del Manual del 12 de Octubre vs notas exis
 Para saber de un vistazo qué notas están contrastadas contra su guía-fuente:
 
 - Toda nota verificada lleva en el frontmatter `last_fact_checked: YYYY-MM-DD`.
-- **Cobertura actual:** ~109/203 patologías (~54 %) y la mayoría de fármacos de guardia. Urgencias y guías MUST se auditan por separado (proceso OpenEvidence).
+- **Cobertura actual del checklist:** 173/271 temas (64 %). La cobertura de fármacos de guardia, urgencias y guías MUST se audita por separado (proceso OpenEvidence).
 - **Objetivo:** verificar por especialidad antes de cada rotación; re-chequear las notas modificadas (la fecha caduca con cada edición clínica).
 - **Antes de publicar:** correr `scripts/check-calidad.sh` (detecta wikilinks en YAML que rompen Quartz y texto corrupto del generador).
 
