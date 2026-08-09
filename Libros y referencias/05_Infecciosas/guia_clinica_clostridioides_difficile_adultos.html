@@ -1,0 +1,1005 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Infección por Clostridioides difficile en adultos</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f5f7f8;
+      --paper: #ffffff;
+      --text: #182225;
+      --muted: #5c6b70;
+      --line: #dbe3e6;
+      --accent: #0f766e;
+      --accent-2: #115e59;
+      --accent-soft: #e8f5f3;
+      --warning: #a16207;
+      --warning-soft: #fff7db;
+      --danger: #b42318;
+      --danger-soft: #fff0ee;
+      --code: #eef2f3;
+      --shadow: 0 14px 40px rgba(20, 45, 52, .08);
+      --toc-width: 292px;
+    }
+
+    html[data-theme="dark"] {
+      color-scheme: dark;
+      --bg: #101719;
+      --paper: #172124;
+      --text: #e6eff0;
+      --muted: #a7b6ba;
+      --line: #304044;
+      --accent: #5eead4;
+      --accent-2: #99f6e4;
+      --accent-soft: #183a38;
+      --warning: #facc15;
+      --warning-soft: #3b3215;
+      --danger: #fda29b;
+      --danger-soft: #40211f;
+      --code: #202d30;
+      --shadow: 0 16px 44px rgba(0, 0, 0, .25);
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      padding: 72px 48px 96px calc(var(--toc-width) + 62px);
+      background: var(--bg);
+      color: var(--text);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 16.5px;
+      line-height: 1.68;
+      transition: background .2s ease, color .2s ease, padding .2s ease;
+    }
+    body > :not(#TOC):not(.toolbar):not(.reading-progress):not(script) {
+      display: block;
+      width: min(100%, 980px);
+      margin-left: auto;
+      margin-right: auto;
+    }
+    body.toc-hidden { padding-left: 48px; }
+
+    .reading-progress {
+      position: fixed;
+      inset: 0 0 auto 0;
+      height: 3px;
+      background: transparent;
+      z-index: 100;
+    }
+    .reading-progress > span {
+      display: block;
+      width: 0;
+      height: 100%;
+      background: linear-gradient(90deg, var(--accent), #38bdf8);
+    }
+
+    .toolbar {
+      position: fixed;
+      top: 14px;
+      right: 18px;
+      z-index: 90;
+      display: flex;
+      gap: 8px;
+      width: auto;
+    }
+    .toolbar button {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 8px 12px;
+      background: color-mix(in srgb, var(--paper) 90%, transparent);
+      color: var(--text);
+      font: inherit;
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+      box-shadow: 0 5px 18px rgba(0,0,0,.08);
+      backdrop-filter: blur(10px);
+    }
+    .toolbar button:hover { border-color: var(--accent); color: var(--accent-2); }
+
+    #TOC {
+      position: fixed;
+      inset: 0 auto 0 0;
+      z-index: 80;
+      width: var(--toc-width);
+      overflow-y: auto;
+      padding: 34px 22px 36px;
+      background: var(--paper);
+      border-right: 1px solid var(--line);
+      box-shadow: 8px 0 28px rgba(18, 38, 42, .05);
+      transition: transform .2s ease;
+    }
+    body.toc-hidden #TOC { transform: translateX(-102%); }
+    #TOC::before {
+      content: "GUÍA CLÍNICA";
+      display: block;
+      margin: 0 10px 18px;
+      color: var(--accent);
+      font-size: 12px;
+      font-weight: 900;
+      letter-spacing: .14em;
+    }
+    #TOC > ul { padding: 0; margin: 0; list-style: none; }
+    #TOC ul ul { padding-left: 15px; list-style: none; }
+    #TOC li { margin: 4px 0; }
+    #TOC a {
+      display: block;
+      padding: 6px 10px;
+      border-radius: 8px;
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 13.5px;
+      line-height: 1.35;
+    }
+    #TOC a:hover { color: var(--accent-2); background: var(--accent-soft); }
+
+    h1, h2, h3 { color: var(--text); line-height: 1.18; text-wrap: balance; }
+    h1 {
+      margin-top: 8px;
+      margin-bottom: 20px;
+      padding: 38px 42px 36px;
+      border: 1px solid var(--line);
+      border-radius: 24px;
+      background:
+        radial-gradient(circle at 88% 12%, color-mix(in srgb, var(--accent) 20%, transparent), transparent 28%),
+        linear-gradient(135deg, var(--paper), var(--accent-soft));
+      box-shadow: var(--shadow);
+      font-size: clamp(2.35rem, 4.2vw, 4.35rem);
+      letter-spacing: -.045em;
+    }
+    h2 {
+      margin-top: 64px;
+      margin-bottom: 20px;
+      padding-bottom: 11px;
+      border-bottom: 2px solid var(--line);
+      font-size: clamp(1.55rem, 2vw, 2rem);
+      letter-spacing: -.022em;
+    }
+    h2::before { content: ""; display: inline-block; width: 8px; height: 1.05em; margin-right: 11px; border-radius: 5px; background: var(--accent); vertical-align: -.12em; }
+    h3 { margin-top: 38px; margin-bottom: 12px; font-size: 1.25rem; }
+
+    p { margin: 12px auto; }
+    strong { color: color-mix(in srgb, var(--text) 92%, var(--accent)); }
+    em { text-underline-offset: .15em; }
+    a { color: var(--accent-2); text-decoration-thickness: 1.5px; text-underline-offset: 3px; }
+    a:hover { color: var(--accent); }
+
+    blockquote {
+      margin: 24px auto;
+      padding: 19px 22px;
+      border: 1px solid color-mix(in srgb, var(--accent) 28%, var(--line));
+      border-left: 5px solid var(--accent);
+      border-radius: 12px;
+      background: var(--accent-soft);
+      color: var(--text);
+    }
+    blockquote p { margin: 0; }
+
+    ul, ol { padding-left: 1.45rem; }
+    li { margin: .38rem 0; }
+    li::marker { color: var(--accent); font-weight: 800; }
+
+    table {
+      display: table;
+      width: 100%;
+      margin: 24px auto 30px;
+      border-collapse: separate;
+      border-spacing: 0;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 13px;
+      background: var(--paper);
+      box-shadow: 0 8px 26px rgba(20, 45, 52, .045);
+      font-size: 14.5px;
+      line-height: 1.5;
+    }
+    thead th {
+      padding: 13px 15px;
+      background: var(--accent-soft);
+      color: var(--text);
+      border-bottom: 2px solid color-mix(in srgb, var(--accent) 35%, var(--line));
+      text-align: left;
+      vertical-align: bottom;
+    }
+    tbody td { padding: 13px 15px; border-bottom: 1px solid var(--line); vertical-align: top; }
+    tbody tr:last-child td { border-bottom: 0; }
+    tbody tr:hover { background: color-mix(in srgb, var(--accent-soft) 45%, transparent); }
+
+    code {
+      padding: .12em .34em;
+      border-radius: 5px;
+      background: var(--code);
+      color: var(--text);
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    }
+    hr { margin: 54px auto 34px; border: 0; border-top: 1px solid var(--line); }
+
+    h2#referencias ~ ol,
+    h2#referencias + ol { font-size: 14px; color: var(--muted); }
+
+    @media (max-width: 1050px) {
+      body { padding: 68px 24px 80px; }
+      body.toc-hidden { padding-left: 24px; }
+      #TOC {
+        display: none;
+        position: fixed;
+        inset: 56px 14px auto 14px;
+        width: auto;
+        max-height: 70vh;
+        border: 1px solid var(--line);
+        border-radius: 16px;
+        box-shadow: var(--shadow);
+      }
+      #TOC.mobile-open { display: block; transform: none; }
+      .toolbar { top: 10px; right: 12px; }
+      h1 { padding: 30px 27px; }
+      h2 { margin-top: 52px; }
+      table { display: block; overflow-x: auto; white-space: normal; }
+    }
+
+    @media (max-width: 620px) {
+      body { padding: 62px 15px 60px; font-size: 16px; }
+      body.toc-hidden { padding-left: 15px; }
+      .toolbar button { padding: 7px 10px; font-size: 12px; }
+      h1 { border-radius: 18px; font-size: 2.35rem; }
+      h2 { font-size: 1.5rem; }
+      blockquote { padding: 16px 17px; }
+      table { font-size: 13.5px; }
+      thead th, tbody td { min-width: 170px; padding: 11px 12px; }
+    }
+
+    @media print {
+      :root { --bg: #fff; --paper: #fff; --text: #111; --muted: #444; --line: #bbb; --accent: #0f766e; --accent-soft: #f2f8f7; }
+      body, body.toc-hidden { padding: 0; background: #fff; font-size: 10.5pt; }
+      #TOC, .toolbar, .reading-progress { display: none !important; }
+      body > :not(#TOC):not(.toolbar):not(.reading-progress):not(script) { width: 100%; max-width: none; }
+      h1 { box-shadow: none; font-size: 28pt; }
+      h2 { break-after: avoid; margin-top: 32px; }
+      h3 { break-after: avoid; }
+      table { box-shadow: none; font-size: 8.6pt; break-inside: avoid; }
+      a { color: #111; text-decoration: none; }
+      a[href^="http"]::after { content: ""; }
+    }
+  </style>
+</head>
+<body>
+<div class="reading-progress" aria-hidden="true"><span id="readingBar"></span></div>
+<div class="toolbar" aria-label="Herramientas de la guía">
+  <button type="button" id="tocToggle" aria-expanded="false">Índice</button>
+  <button type="button" id="themeToggle" aria-label="Cambiar tema">Tema</button>
+  <button type="button" id="printGuide" aria-label="Imprimir la guía">Imprimir</button>
+</div>
+<nav id="TOC" role="doc-toc">
+<h2 id="toc-title">Contenido</h2>
+<ul>
+<li><a href="#infección-por-clostridioides-difficile-en-adultos" id="toc-infección-por-clostridioides-difficile-en-adultos">Infección por <em>Clostridioides difficile</em> en adultos</a>
+<ul>
+<li><a href="#resumen-de-guardia-nueve-decisiones-que-no-conviene-olvidar" id="toc-resumen-de-guardia-nueve-decisiones-que-no-conviene-olvidar">Resumen de guardia: nueve decisiones que no conviene olvidar</a></li>
+<li><a href="#1-qué-se-está-tratando-realmente" id="toc-1-qué-se-está-tratando-realmente">1. Qué se está tratando realmente</a></li>
+<li><a href="#2-diagnóstico-útil-a-quién-estudiar-y-cómo-interpretar-el-resultado" id="toc-2-diagnóstico-útil-a-quién-estudiar-y-cómo-interpretar-el-resultado">2. Diagnóstico útil: a quién estudiar y cómo interpretar el resultado</a></li>
+<li><a href="#3-clasificación-de-gravedad" id="toc-3-clasificación-de-gravedad">3. Clasificación de gravedad</a></li>
+<li><a href="#4-medidas-que-empiezan-antes-del-antibiótico" id="toc-4-medidas-que-empiezan-antes-del-antibiótico">4. Medidas que empiezan antes del antibiótico</a></li>
+<li><a href="#5-tratamiento-antibiótico-por-escenario" id="toc-5-tratamiento-antibiótico-por-escenario">5. Tratamiento antibiótico por escenario</a></li>
+<li><a href="#6-enfermedad-fulminante-una-urgencia-médico-quirúrgica" id="toc-6-enfermedad-fulminante-una-urgencia-médico-quirúrgica">6. Enfermedad fulminante: una urgencia médico-quirúrgica</a></li>
+<li><a href="#7-cómo-prevenir-la-siguiente-recurrencia" id="toc-7-cómo-prevenir-la-siguiente-recurrencia">7. Cómo prevenir la siguiente recurrencia</a></li>
+<li><a href="#8-monitorización-alta-y-posible-fracaso" id="toc-8-monitorización-alta-y-posible-fracaso">8. Monitorización, alta y posible fracaso</a></li>
+<li><a href="#9-errores-frecuentes" id="toc-9-errores-frecuentes">9. Errores frecuentes</a></li>
+<li><a href="#10-dónde-discrepan-las-principales-fuentes" id="toc-10-dónde-discrepan-las-principales-fuentes">10. Dónde discrepan las principales fuentes</a></li>
+<li><a href="#11-algoritmo-operativo" id="toc-11-algoritmo-operativo">11. Algoritmo operativo</a></li>
+<li><a href="#referencias" id="toc-referencias">Referencias</a></li>
+</ul></li>
+</ul>
+</nav>
+<section id="infección-por-clostridioides-difficile-en-adultos" class="level1">
+<h1>Infección por <em>Clostridioides difficile</em> en adultos</h1>
+<blockquote>
+<p>Guía clínica práctica de tratamiento y prevención para Urgencias, hospitalización e interconsulta. Enfoque aplicable a España.</p>
+</blockquote>
+<p><strong>Versión:</strong> 1.0<br />
+<strong>Fecha de corte de la evidencia:</strong> 6 de agosto de 2026<br />
+<strong>Población:</strong> adultos con sospecha o confirmación de infección por <em>Clostridioides difficile</em> (ICD)<br />
+<strong>No incluye:</strong> manejo pediátrico ni técnica quirúrgica detallada<br />
+<strong>Fuente de partida:</strong> PDF aportado de UpToDate, con revisión bibliográfica hasta julio de 2026 y última actualización editorial el 11 de febrero de 2026 [1]. La síntesis se ha contrastado con guías y fuentes regulatorias actuales.</p>
+<blockquote>
+<p><strong>Idea central:</strong> una prueba positiva no equivale a infección. Primero hay que demostrar un síndrome clínico compatible, después identificar de inmediato la enfermedad fulminante y, por último, elegir el tratamiento pensando tanto en la curación del episodio como en evitar la siguiente recurrencia.</p>
+</blockquote>
+<section id="resumen-de-guardia-nueve-decisiones-que-no-conviene-olvidar" class="level2">
+<h2>Resumen de guardia: nueve decisiones que no conviene olvidar</h2>
+<ol type="1">
+<li><strong>No tratar colonización.</strong> La ICD exige clínica compatible -habitualmente al menos 3 deposiciones no formadas en 24 horas sin otra explicación convincente- y evidencia microbiológica. Una NAAT/PCR positiva aislada puede detectar portadores [5].</li>
+<li><strong>La gravedad fulminante manda.</strong> Hipotensión o shock, íleo o megacolon clasifican el cuadro como fulminante, aunque no haya diarrea profusa. La disminución brusca de las deposiciones con distensión puede ser un signo de íleo, no de mejoría [1,3].</li>
+<li><strong>Retirar cuanto antes el antibiótico desencadenante</strong>, si es posible, y revisar cualquier otro antimicrobiano, el inhibidor de la bomba de protones (IBP) y los laxantes. Mantener solo lo que tenga una indicación real [1,5,10].</li>
+<li><strong>Episodio inicial no fulminante:</strong> fidaxomicina 200 mg por vía oral cada 12 horas durante 10 días es la opción preferida cuando está disponible; vancomicina oral 125 mg cada 6 horas durante 10 días sigue siendo una alternativa plenamente válida [3,4,7,8].</li>
+<li><strong>Metronidazol oral ya no es tratamiento rutinario.</strong> Reservarlo para ICD no grave cuando fidaxomicina y vancomicina no estén disponibles. No usarlo como monoterapia en enfermedad grave o fulminante [3-5].</li>
+<li><strong>Primera recurrencia:</strong> preferir fidaxomicina -estándar o pulsada extendida- o una pauta descendente/pulsada de vancomicina, según el tratamiento previo, disponibilidad y protocolo local [1,3,4].</li>
+<li><strong>Recurrencias múltiples:</strong> además del antibiótico, valorar bezlotoxumab o restauración de microbiota/trasplante de microbiota fecal (TMF) en un centro con experiencia. Los productos Rebyota y Vowst que aparecen en la fuente son opciones regulatorias de Estados Unidos y no deben trasladarse de forma automática a la práctica española [1,6,9].</li>
+<li><strong>ICD fulminante:</strong> vancomicina 500 mg enteral cada 6 horas más metronidazol 500 mg IV cada 8 horas; añadir vancomicina rectal si existe íleo. Reanimación, valoración por UCI y Cirugía desde el principio; reevaluar en 24-48 horas [1-3,5].</li>
+<li><strong>No pedir test de curación, no usar probióticos de rutina y no indicar profilaxis con vancomicina oral de forma automática.</strong> La profilaxis secundaria solo es razonable en pacientes muy seleccionados tras balance individual de riesgos [4,5,11].</li>
+</ol>
+</section>
+<section id="1-qué-se-está-tratando-realmente" class="level2">
+<h2>1. Qué se está tratando realmente</h2>
+<p>La ICD es un <strong>síndrome clínico</strong>, no un resultado de laboratorio. En la práctica se considera cuando coinciden:</p>
+<ul>
+<li>diarrea aguda clínicamente significativa -como referencia, 3 o más deposiciones no formadas en 24 horas- o manifestaciones de colitis/íleo;</li>
+<li>ausencia de una explicación alternativa más probable;</li>
+<li>detección de toxina o de <em>C. difficile</em> toxigénico mediante el algoritmo del laboratorio.</li>
+</ul>
+<p>No se debe tratar a un paciente asintomático con una prueba positiva. La colonización es frecuente, especialmente tras hospitalización, antibioterapia, enfermedad inflamatoria intestinal (EII) o inmunosupresión [5,6].</p>
+<section id="episodio-inicial-recurrencia-y-refractariedad" class="level3">
+<h3>Episodio inicial, recurrencia y refractariedad</h3>
+<ul>
+<li><strong>Episodio inicial:</strong> primer episodio clínico reconocido.</li>
+<li><strong>Recurrencia:</strong> reaparición de diarrea compatible y nueva confirmación microbiológica después de la resolución del episodio previo, habitualmente dentro de las 8 semanas posteriores a completar el tratamiento. Recidiva y reinfección no se distinguen de forma útil en la práctica porque se manejan igual [1,6].</li>
+<li><strong>Síntomas persistentes sin mejoría:</strong> antes de etiquetar “fracaso”, revisar adherencia, vía de administración, antibióticos concomitantes, íleo, complicaciones y diagnósticos alternativos. La resistencia clínica a vancomicina o fidaxomicina es muy infrecuente; una NAAT positiva con diarrea por otra causa es un error común [4].</li>
+</ul>
+<blockquote>
+<p><strong>Matiz de definiciones:</strong> NICE denomina “recaída” a un nuevo episodio dentro de las 12 semanas, mientras que UpToDate, IDSA/SHEA y AGA suelen utilizar un límite operativo de 8 semanas. Conviene seguir la definición del protocolo local cuando condicione auditoría o financiación [1,6,10].</p>
+</blockquote>
+</section>
+</section>
+<section id="2-diagnóstico-útil-a-quién-estudiar-y-cómo-interpretar-el-resultado" class="level2">
+<h2>2. Diagnóstico útil: a quién estudiar y cómo interpretar el resultado</h2>
+<section id="cuándo-solicitar-estudio-de-c-difficile" class="level3">
+<h3>Cuándo solicitar estudio de <em>C. difficile</em></h3>
+<p>Solicitarlo cuando exista diarrea nueva, no explicada, con al menos 3 deposiciones no formadas en 24 horas. Antes de enviar la muestra:</p>
+<ul>
+<li>comprobar laxantes, nutrición enteral, quimioterapia, contraste oral, impactación con pseudodiarrea y otras causas farmacológicas;</li>
+<li>no enviar heces formadas, salvo un escenario excepcional de íleo con fuerte sospecha y coordinación con Microbiología;</li>
+<li>no cribar portadores asintomáticos;</li>
+<li>no repetir la misma prueba de forma rutinaria dentro de los 7 días si no cambia el cuadro clínico [5].</li>
+</ul>
+<p>En EII, una nueva diarrea o empeoramiento del patrón basal debe hacer descartar ICD aunque no exista exposición antibiótica reciente. En estos pacientes, la correlación entre clínica, toxina y actividad inflamatoria es especialmente importante.</p>
+</section>
+<section id="algoritmo-microbiológico" class="level3">
+<h3>Algoritmo microbiológico</h3>
+<p>El algoritmo exacto depende del laboratorio. La combinación de una prueba sensible -GDH o NAAT- con una prueba más específica de toxina mejora el valor predictivo clínico frente a utilizar NAAT de forma indiscriminada [5,6].</p>
+<table>
+<thead>
+<tr class="header">
+<th>Resultado orientativo</th>
+<th>Interpretación práctica</th>
+<th>Conducta</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>GDH negativa / toxina negativa</td>
+<td>ICD poco probable</td>
+<td>Buscar otra causa; no tratar salvo discordancia clínica extrema y discusión con Microbiología</td>
+</tr>
+<tr class="even">
+<td>GDH positiva / toxina positiva</td>
+<td>Presencia de microorganismo y toxina</td>
+<td>Si la clínica es compatible, tratar</td>
+</tr>
+<tr class="odd">
+<td>GDH positiva / toxina negativa / NAAT positiva</td>
+<td>Cepa toxigénica detectada, pero sin toxina libre demostrada</td>
+<td>Puede ser infección con baja carga o colonización. Revisar intensidad y evolución de la diarrea, laxantes, inflamación, epidemiología y diagnósticos alternativos</td>
+</tr>
+<tr class="even">
+<td>NAAT positiva aislada</td>
+<td>Gen toxigénico presente</td>
+<td>No distingue por sí sola colonización de enfermedad; no tratar un resultado sin síndrome compatible</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="evaluación-inicial-y-extensión" class="level3">
+<h3>Evaluación inicial y extensión</h3>
+<p>En todo caso con repercusión clínica, registrar:</p>
+<ul>
+<li>número y consistencia de deposiciones, dolor, distensión, fiebre, tolerancia oral, diuresis y estado mental;</li>
+<li>constantes y signos de hipoperfusión;</li>
+<li>hemograma, creatinina, urea, iones y función renal basal conocida;</li>
+<li>albúmina y lactato cuando el cuadro sea grave, exista fragilidad o se sospeche hipoperfusión;</li>
+<li>abdomen seriado, no una exploración única.</li>
+</ul>
+<p>La TC abdominal no es necesaria en una ICD leve típica. Es útil si hay dolor intenso, distensión, íleo, defensa, deterioro sistémico, duda diagnóstica o sospecha de megacolon, perforación o causa quirúrgica.</p>
+</section>
+</section>
+<section id="3-clasificación-de-gravedad" class="level2">
+<h2>3. Clasificación de gravedad</h2>
+<p>No existe una escala prospectivamente validada que sustituya al juicio clínico. Los criterios siguientes son útiles para estandarizar, pero pueden infravalorar a una persona anciana con poca reserva renal o a un paciente leucopénico [1,4].</p>
+<table>
+<thead>
+<tr class="header">
+<th>Categoría</th>
+<th>Criterios orientativos</th>
+<th>Implicación inmediata</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>No grave</strong></td>
+<td>Leucocitos ≤15.000/µL <strong>y</strong> creatinina &lt;1,5 mg/dL o &lt;50 % sobre basal</td>
+<td>Puede tratarse de forma ambulatoria si tolera vía oral, está hidratado y dispone de seguimiento</td>
+</tr>
+<tr class="even">
+<td><strong>Grave, no fulminante</strong></td>
+<td>Leucocitos &gt;15.000/µL <strong>o</strong> creatinina ≥1,5 mg/dL o ≥50 % sobre basal</td>
+<td>Considerar ingreso según estado general, edad, fragilidad, comorbilidad, soporte y capacidad de reevaluación</td>
+</tr>
+<tr class="odd">
+<td><strong>Fulminante</strong></td>
+<td>Hipotensión o shock, íleo o megacolon; ESCMID añade lactato elevado, perforación o deterioro rápidamente progresivo atribuible a ICD</td>
+<td>Ingreso urgente, reanimación, tratamiento combinado y valoración precoz por UCI y Cirugía</td>
+</tr>
+</tbody>
+</table>
+<p>La edad ≥65 años, inmunosupresión, EII, hipoalbuminemia, deterioro renal, fiebre, lactato elevado, distensión y afectación extensa en TC aumentan el riesgo, aunque no cambien por sí solos la etiqueta formal.</p>
+<blockquote>
+<p><strong>Regla de seguridad:</strong> si hay un criterio de fulminancia, tratar como fulminante. No rebajar la gravedad porque los leucocitos sean normales o porque la diarrea se haya reducido.</p>
+</blockquote>
+</section>
+<section id="4-medidas-que-empiezan-antes-del-antibiótico" class="level2">
+<h2>4. Medidas que empiezan antes del antibiótico</h2>
+<section id="control-de-foco-y-soporte" class="level3">
+<h3>Control de foco y soporte</h3>
+<ol type="1">
+<li><strong>Suspender el antibiótico desencadenante</strong>, si la infección original lo permite. Si debe mantenerse, elegir el espectro más estrecho y la duración más corta eficaces.</li>
+<li><strong>Corregir volumen y electrolitos.</strong> Valorar pérdidas, función renal y riesgo de sobrecarga; no existe un suero específico para la ICD.</li>
+<li><strong>Dieta según tolerancia.</strong> No se necesita una dieta sin lactosa de rutina; evitar ayuno innecesario.</li>
+<li><strong>Revisar IBP.</strong> Retirarlo si carece de indicación, pero no suspender una gastroprotección claramente necesaria solo por una asociación epidemiológica incierta [10].</li>
+<li><strong>Evitar antimotilidad</strong> si la ICD no está tratada, existe íleo, distensión, colitis fulminante o toxicidad sistémica. En un paciente ya tratado, sin distensión ni íleo y con pérdidas difíciles de compensar, puede considerarse de forma excepcional y vigilada; la evidencia es limitada [1,5].</li>
+</ol>
+</section>
+<section id="aislamiento-y-prevención-de-transmisión" class="level3">
+<h3>Aislamiento y prevención de transmisión</h3>
+<ul>
+<li>precauciones de contacto desde la sospecha si el resultado no estará disponible el mismo día;</li>
+<li>habitación individual y baño dedicado cuando sea posible;</li>
+<li>guantes y bata para la atención;</li>
+<li>higiene de manos según protocolo; preferir agua y jabón cuando exista contacto fecal o en brotes, porque el alcohol no elimina las esporas;</li>
+<li>limpieza diaria y terminal con un producto esporicida validado;</li>
+<li>comunicar el antecedente al centro receptor en un traslado [2,5,12].</li>
+</ul>
+</section>
+</section>
+<section id="5-tratamiento-antibiótico-por-escenario" class="level2">
+<h2>5. Tratamiento antibiótico por escenario</h2>
+<section id="tabla-de-decisión-rápida" class="level3">
+<h3>Tabla de decisión rápida</h3>
+<table>
+<thead>
+<tr class="header">
+<th>Escenario</th>
+<th>Pauta preferida</th>
+<th>Alternativas y notas</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Episodio inicial no fulminante</strong></td>
+<td>Fidaxomicina 200 mg VO cada 12 h durante 10 días</td>
+<td>Vancomicina 125 mg VO cada 6 h durante 10 días. Metronidazol 500 mg VO cada 8 h durante 10 días solo si las dos anteriores no están disponibles y el cuadro es no grave</td>
+</tr>
+<tr class="even">
+<td><strong>Primera recurrencia tras vancomicina</strong></td>
+<td>Fidaxomicina 200 mg VO cada 12 h durante 10 días <strong>o</strong> pauta pulsada extendida</td>
+<td>Una pauta descendente/pulsada de vancomicina es válida si fidaxomicina no es accesible</td>
+</tr>
+<tr class="odd">
+<td><strong>Primera recurrencia tras fidaxomicina</strong></td>
+<td>Vancomicina descendente/pulsada</td>
+<td>Vancomicina 125 mg cada 6 h durante 10 días si no se acepta una pauta prolongada; repetir fidaxomicina puede considerarse si vancomicina no puede utilizarse</td>
+</tr>
+<tr class="even">
+<td><strong>Segunda o posteriores recurrencias</strong></td>
+<td>Fidaxomicina o vancomicina descendente/pulsada, junto con valoración de estrategia preventiva de recurrencia</td>
+<td>Vancomicina seguida de rifaximina es una alternativa de evidencia limitada. Considerar bezlotoxumab y derivar para TMF/restauración de microbiota según inmunidad, disponibilidad y protocolo</td>
+</tr>
+<tr class="odd">
+<td><strong>Fulminante</strong></td>
+<td>Vancomicina 500 mg VO o por SNG cada 6 h <strong>más</strong> metronidazol 500 mg IV cada 8 h</td>
+<td>Si hay íleo, añadir vancomicina rectal. Reanimación y valoración quirúrgica inmediata; reevaluar en 24-48 h</td>
+</tr>
+</tbody>
+</table>
+<p>Fuentes de dosis: UpToDate [1], IDSA/SHEA [3,5] y fichas técnicas españolas de fidaxomicina y vancomicina oral [7,8].</p>
+</section>
+<section id="fidaxomicina" class="level3">
+<h3>Fidaxomicina</h3>
+<p><strong>Pauta estándar:</strong> 200 mg por vía oral cada 12 horas durante 10 días.</p>
+<p><strong>Pauta pulsada extendida:</strong> 200 mg cada 12 horas los días 1-5; sin dosis el día 6; después 200 mg una vez al día en días alternos entre los días 7 y 25. Esta pauta figura en la ficha técnica española [7].</p>
+<p>Ventajas y límites:</p>
+<ul>
+<li>curación inicial similar a vancomicina, pero mayor respuesta sostenida y menos recurrencias; en el metanálisis de IDSA/SHEA, RR de respuesta sostenida a 4 semanas 1,16 (IC 95 % 1,09-1,24), sin demostrar reducción de mortalidad [3];</li>
+<li>especialmente atractiva si hay edad ≥65 años, inmunosupresión, ICD grave, recurrencia previa o necesidad de seguir con otros antibióticos;</li>
+<li>la preferencia es <strong>condicional</strong> y dependiente de recursos; vancomicina no es una opción “inferior” cuando el acceso o el protocolo limitan fidaxomicina;</li>
+<li>no utilizar como primera elección en enfermedad fulminante: los ensayos excluyeron a estos pacientes [3].</li>
+</ul>
+</section>
+<section id="vancomicina-oral" class="level3">
+<h3>Vancomicina oral</h3>
+<p><strong>Pauta estándar:</strong> 125 mg por vía oral cada 6 horas durante 10 días.</p>
+<p>No requiere ajuste renal habitual por su mínima absorción. Sin embargo, la colitis grave/fulminante y la insuficiencia renal pueden aumentar la exposición sistémica; considerar niveles si se emplea una pauta enteral prolongada a dosis altas en un paciente con daño mucoso e insuficiencia renal avanzada [1,8].</p>
+<p><strong>Ejemplo de pauta descendente/pulsada:</strong></p>
+<ol type="1">
+<li>125 mg cada 6 horas durante 10-14 días;</li>
+<li>125 mg cada 12 horas durante 7 días;</li>
+<li>125 mg cada 24 horas durante 7 días;</li>
+<li>125 mg cada 48-72 horas durante 2-8 semanas.</li>
+</ol>
+<p>Es un esquema posible, no una secuencia universal. Debe adaptarse al protocolo y a la evolución. La evidencia es menor que para los ciclos estándar y la duración óptima sigue sin estar bien definida [1,3].</p>
+<p>En recurrencias múltiples, otra alternativa con evidencia limitada es vancomicina 125 mg cada 6 horas durante 10 días seguida de rifaximina 400 mg cada 8 horas durante 20 días. Es una estrategia no estándar que requiere validación por el protocolo local. La vancomicina supresora 125 mg cada 24 horas durante 6-8 semanas -o excepcionalmente más tiempo- se reserva para pacientes con recurrencias repetidas que no pueden recibir TMF o que han recaído pese a este; su respaldo procede de series pequeñas [1].</p>
+<blockquote>
+<p><strong>Error frecuente:</strong> la vancomicina IV no alcanza concentraciones luminales útiles y no trata la colitis por <em>C. difficile</em>. La indicación exige administración enteral -oral o por sonda- y, si existe íleo, puede requerir además vía rectal [1,8].</p>
+</blockquote>
+</section>
+<section id="metronidazol" class="level3">
+<h3>Metronidazol</h3>
+<ul>
+<li>No usar como primera línea si se dispone de fidaxomicina o vancomicina.</li>
+<li>Evitarlo en enfermedad grave como monoterapia, en pacientes frágiles, ≥65 años o con EII.</li>
+<li>Evitar ciclos repetidos o prolongados por neurotoxicidad acumulativa.</li>
+<li>En la ICD fulminante se utiliza <strong>IV como coadyuvante</strong> de vancomicina enteral, no como sustituto [1,3,5].</li>
+</ul>
+</section>
+<section id="duración-y-antibióticos-concomitantes" class="level3">
+<h3>Duración y antibióticos concomitantes</h3>
+<p>La duración estándar es 10 días. Puede extenderse a 14 días si la respuesta es lenta, especialmente en cuadros graves, sin que ello deba sustituir la búsqueda de complicaciones o diagnósticos alternativos [1,5].</p>
+<p>Si otro foco obliga a mantener antibióticos sistémicos:</p>
+<ul>
+<li>confirmar que siguen siendo imprescindibles;</li>
+<li>estrechar espectro y acortar duración;</li>
+<li>reconocer el mayor riesgo de fracaso/recurrencia;</li>
+<li>no prolongar automáticamente el tratamiento anti-ICD sin una estrategia individual. Algunos expertos mantienen tratamiento o una dosis preventiva hasta 5-7 días después del otro antibiótico, pero la evidencia es limitada y las guías difieren [1,4,5].</li>
+</ul>
+</section>
+</section>
+<section id="6-enfermedad-fulminante-una-urgencia-médico-quirúrgica" class="level2">
+<h2>6. Enfermedad fulminante: una urgencia médico-quirúrgica</h2>
+<section id="tratamiento-inicial" class="level3">
+<h3>Tratamiento inicial</h3>
+<ol type="1">
+<li>Reanimación hemodinámica, control de diuresis y corrección de electrolitos.</li>
+<li>Vancomicina 500 mg por vía oral o sonda nasogástrica cada 6 horas.</li>
+<li>Metronidazol 500 mg IV cada 8 horas.</li>
+<li>Si existe íleo: añadir vancomicina rectal; un esquema utilizado es 500 mg diluidos en aproximadamente 100 mL de suero salino como enema de retención cada 6 horas. La dosis óptima no está establecida por ensayos.</li>
+<li>Valoración inmediata por Cirugía y UCI; no esperar al fracaso completo del tratamiento médico.</li>
+<li>Reevaluación clínica, analítica y abdominal en 24-48 horas [1,3,5].</li>
+</ol>
+<p>Fidaxomicina no es la opción estándar en fulminancia por ausencia de ensayos adecuados. La pauta de vancomicina a dosis altas más metronidazol IV se sustenta en evidencia de baja certeza, pero continúa siendo el enfoque de IDSA/SHEA y UpToDate. ESCMID subraya la escasez de datos, diferencia la enfermedad grave no complicada de la grave-complicada y desaconseja añadir metronidazol IV de rutina en la <strong>grave no fulminante</strong> [4]. La actualización experta de AGA de 2026 insiste en que la fulminancia debe manejarse desde el inicio por un equipo multidisciplinar [2].</p>
+</section>
+<section id="cuándo-llamar-precozmente-a-cirugía" class="level3">
+<h3>Cuándo llamar precozmente a Cirugía</h3>
+<p>Una sola de estas señales justifica al menos discusión temprana, especialmente si progresa:</p>
+<ul>
+<li>hipotensión o necesidad de vasopresores;</li>
+<li>íleo o distensión importante;</li>
+<li>peritonismo o dolor abdominal marcado;</li>
+<li>fiebre ≥38,5 °C;</li>
+<li>alteración del estado mental;</li>
+<li>leucocitos ≥20.000/µL o tendencia rápidamente ascendente;</li>
+<li>lactato &gt;2,2 mmol/L o en ascenso;</li>
+<li>fracaso orgánico, ventilación mecánica o deterioro renal;</li>
+<li>ingreso en UCI por ICD;</li>
+<li>ausencia de mejoría con tratamiento máximo [1].</li>
+</ul>
+<p>El TMF puede considerarse como rescate en centros expertos para enfermedad grave/fulminante refractaria cuando la cirugía no es factible, tras decisión multidisciplinar. La recomendación de AGA es condicional y la certeza de la evidencia, muy baja [6].</p>
+</section>
+</section>
+<section id="7-cómo-prevenir-la-siguiente-recurrencia" class="level2">
+<h2>7. Cómo prevenir la siguiente recurrencia</h2>
+<section id="identificar-a-quién-tiene-alto-riesgo" class="level3">
+<h3>Identificar a quién tiene alto riesgo</h3>
+<p>Factores prácticos:</p>
+<ul>
+<li>edad ≥65 años;</li>
+<li>episodio en los 6 meses previos o recurrencias múltiples;</li>
+<li>inmunosupresión;</li>
+<li>ICD grave o fulminante;</li>
+<li>necesidad de antibióticos sistémicos concomitantes o próximos;</li>
+<li>enfermedad renal, EII, fragilidad o comorbilidad significativa.</li>
+</ul>
+</section>
+<section id="bezlotoxumab" class="level3">
+<h3>Bezlotoxumab</h3>
+<p>Es un anticuerpo monoclonal frente a la toxina B. <strong>No trata el episodio activo</strong>: previene recurrencias y debe administrarse junto con el antibiótico anti-ICD.</p>
+<ul>
+<li>dosis: 10 mg/kg IV en una única perfusión de 60 minutos durante el ciclo antibiótico;</li>
+<li>valorar especialmente si existe recurrencia en los 6 meses previos o varios factores de riesgo;</li>
+<li>evidencia con fidaxomicina concomitante limitada, porque menos del 5 % de los participantes de los ensayos pivotales la recibieron;</li>
+<li>IDSA/SHEA formula una recomendación condicional y de muy baja certeza para recurrencia reciente. La ficha técnica española lo autoriza en pacientes de alto riesgo [3,9];</li>
+<li>en antecedente de insuficiencia cardiaca congestiva, IDSA recuerda la señal de seguridad de la ficha estadounidense y aconseja reservarlo para cuando el beneficio esperado supere el riesgo [3].</li>
+</ul>
+</section>
+<section id="terapias-basadas-en-microbiota-y-tmf" class="level3">
+<h3>Terapias basadas en microbiota y TMF</h3>
+<p>En adultos inmunocompetentes con ICD recurrente, AGA sugiere de forma condicional una terapia basada en microbiota después de completar el antibiótico; en la implementación práctica suele plantearse tras la segunda recurrencia -tercer episodio- o antes en casos seleccionados con riesgo de una recurrencia especialmente mórbida [6].</p>
+<table>
+<thead>
+<tr class="header">
+<th>Situación inmunológica</th>
+<th>Enfoque orientativo de AGA 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Inmunocompetente</td>
+<td>Considerar terapia basada en microbiota tras el tratamiento de una ICD recurrente, especialmente desde la segunda recurrencia</td>
+</tr>
+<tr class="even">
+<td>Inmunosupresión leve o moderada</td>
+<td>Puede considerarse TMF convencional, con selección y cribado reforzado del donante</td>
+</tr>
+<tr class="odd">
+<td>Inmunosupresión grave -neutropenia, quimioterapia citotóxica activa, trasplante hematopoyético/CAR-T con neutropenia, inmunodeficiencia grave o VIH avanzado-</td>
+<td>AGA sugiere no utilizar terapias basadas en microbiota; valorar supresión antibiótica y reevaluar tras recuperación inmune</td>
+</tr>
+</tbody>
+</table>
+<p>El material debe proceder de un programa regulado, con selección de donantes, trazabilidad y cribado de patógenos. El riesgo de transmisión infecciosa es real. La elección, preparación y vía de administración corresponden a un centro experto [2,6].</p>
+<p><strong>Aplicabilidad a España:</strong> Rebyota y Vowst son productos aprobados por la FDA y descritos en UpToDate. En España deben seguirse la disponibilidad, autorización y circuito local; no equivalen sin más al TMF convencional. La regulación europea SoHO incorporará explícitamente la microbiota fecal a su marco armonizado desde agosto de 2027 [13].</p>
+</section>
+<section id="profilaxis-secundaria-durante-futuros-antibióticos" class="level3">
+<h3>Profilaxis secundaria durante futuros antibióticos</h3>
+<p>No debe prescribirse de rutina. ESCMID desaconseja la profilaxis anti-ICD sistemática, aunque acepta que puede valorarse en pacientes muy seleccionados con recurrencias múltiples desencadenadas repetidamente por antibióticos sistémicos [4].</p>
+<p>Si, tras discusión con Infecciosas/Microbiología, se decide utilizarla, un esquema empleado es:</p>
+<ul>
+<li>vancomicina oral 125 mg cada 24 horas durante el antibiótico sistémico y 5-7 días después.</li>
+</ul>
+<p>La pauta no está estandarizada y esta indicación preventiva debe considerarse individualizada. En el ensayo aleatorizado de 2025, la recurrencia fue 43,6 % con vancomicina frente a 57,1 % con placebo, diferencia no significativa por falta de potencia; la colonización por enterococo resistente a vancomicina fue mayor, 50 % frente a 24 % [11]. Por tanto, el posible beneficio debe ponderarse frente a disbiosis y selección de resistencia.</p>
+<p>No se recomienda profilaxis primaria rutinaria con vancomicina ni fidaxomicina.</p>
+</section>
+<section id="probióticos" class="level3">
+<h3>Probióticos</h3>
+<p>No se recomiendan de rutina ni para tratar la ICD ni para prevenir un primer episodio o recurrencias. Los preparados, dosis y poblaciones estudiadas son heterogéneos, no existe un producto con eficacia reproducible y hay riesgos en pacientes vulnerables, incluida fungemia o bacteriemia en inmunodeprimidos [1,4,6].</p>
+</section>
+</section>
+<section id="8-monitorización-alta-y-posible-fracaso" class="level2">
+<h2>8. Monitorización, alta y posible fracaso</h2>
+<section id="qué-respuesta-esperar" class="level3">
+<h3>Qué respuesta esperar</h3>
+<p>Seguir la tendencia, no solo una cifra:</p>
+<ul>
+<li>frecuencia y consistencia de las deposiciones;</li>
+<li>dolor, distensión y tolerancia oral;</li>
+<li>presión arterial, frecuencia cardiaca, diuresis y estado mental;</li>
+<li>leucocitos, creatinina, iones y lactato si estaba elevado.</li>
+</ul>
+<p>En enfermedad no fulminante, una respuesta incompleta en las primeras 48 horas no implica por sí sola fracaso. Si no existe mejoría clínica clara a las 48-72 horas, reconsiderar:</p>
+<ul>
+<li>¿era realmente ICD o colonización con otra causa de diarrea?;</li>
+<li>¿recibe el fármaco, dosis y vía correctos?;</li>
+<li>¿persiste el antibiótico desencadenante?;</li>
+<li>¿hay íleo, megacolon, perforación o isquemia?;</li>
+<li>¿hay EII activa, CMV, fármacos, nutrición enteral, laxantes, malabsorción o síndrome posinfeccioso?</li>
+</ul>
+<p>En fulminancia, la ventana es menor: reevaluar en 24-48 horas y escalar antes si empeora.</p>
+</section>
+<section id="no-hacer-test-de-curación" class="level3">
+<h3>No hacer test de curación</h3>
+<p>No repetir el estudio si los síntomas han desaparecido. La eliminación microbiológica puede tardar semanas y una prueba positiva no significa persistencia de enfermedad [1,5,12].</p>
+<p>Si reaparece diarrea tras una respuesta completa, volver a confirmar el síndrome y obtener una nueva muestra; no tratar de forma empírica toda diarrea recurrente, porque el síndrome de intestino irritable posinfeccioso y otras causas son frecuentes [5,6].</p>
+</section>
+<section id="consejos-al-alta" class="level3">
+<h3>Consejos al alta</h3>
+<ul>
+<li>completar exactamente la pauta prescrita;</li>
+<li>consultar si aparece distensión, dolor creciente, fiebre, mareo, oliguria, sangre, incapacidad para hidratarse o reducción de deposiciones acompañada de distensión;</li>
+<li>lavarse las manos con agua y jabón tras ir al baño y antes de comer;</li>
+<li>limpiar baño y superficies de alto contacto con un producto esporicida compatible;</li>
+<li>informar del antecedente de ICD antes de futuros antibióticos y evitar tratamientos innecesarios;</li>
+<li>no automedicarse con loperamida, probióticos ni restos de vancomicina.</li>
+</ul>
+</section>
+</section>
+<section id="9-errores-frecuentes" class="level2">
+<h2>9. Errores frecuentes</h2>
+<ul>
+<li>Tratar una PCR positiva en un paciente sin diarrea.</li>
+<li>Enviar heces formadas o muestras tras laxantes sin revisar la indicación.</li>
+<li>Solicitar un test de curación.</li>
+<li>Confundir la desaparición de diarrea con mejoría cuando hay distensión o íleo.</li>
+<li>Usar vancomicina IV para tratar la colitis.</li>
+<li>Escalar a vancomicina 500 mg cada 6 horas solo porque la ICD es grave, sin criterios de fulminancia.</li>
+<li>Usar metronidazol oral como primera línea o como monoterapia de enfermedad grave.</li>
+<li>Retrasar la valoración quirúrgica hasta que el paciente esté en shock refractario.</li>
+<li>Prolongar o reiniciar antibiótico anti-ICD automáticamente durante cualquier tratamiento sistémico futuro.</li>
+<li>Indicar probióticos de rutina en un paciente inmunodeprimido.</li>
+<li>Aplicar a España la disponibilidad de productos de microbiota estadounidenses sin comprobar el circuito regulatorio local.</li>
+</ul>
+</section>
+<section id="10-dónde-discrepan-las-principales-fuentes" class="level2">
+<h2>10. Dónde discrepan las principales fuentes</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Decisión</th>
+<th>UpToDate / IDSA-SHEA / ESCMID</th>
+<th>NICE</th>
+<th>Lectura práctica para España</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Primer episodio no fulminante</td>
+<td>Fidaxomicina preferida cuando sea factible; vancomicina aceptable. Recomendación condicional y dependiente de recursos</td>
+<td>Vancomicina primero por coste-efectividad; fidaxomicina si fracaso</td>
+<td>Ambas están autorizadas. Priorizar fidaxomicina si alto riesgo de recurrencia y el protocolo/acceso lo permiten; vancomicina es una elección correcta</td>
+</tr>
+<tr class="even">
+<td>Enfermedad grave no fulminante</td>
+<td>Fidaxomicina o vancomicina a dosis estándar; no metronidazol</td>
+<td>Vancomicina 125 mg/6 h</td>
+<td>No subir automáticamente vancomicina a 500 mg/6 h sin fulminancia</td>
+</tr>
+<tr class="odd">
+<td>Fulminante</td>
+<td>IDSA/UpToDate: vancomicina enteral 500 mg/6 h + metronidazol IV; rectal si íleo. ESCMID remarca evidencia muy baja y alternativas individualizadas</td>
+<td>Permite dosis altas y consejo especializado</td>
+<td>Seguir protocolo local, reanimar y avisar pronto a Cirugía/UCI; no permitir que la discusión farmacológica retrase el control definitivo</td>
+</tr>
+<tr class="even">
+<td>TMF/microbiota</td>
+<td>Se recomienda o sugiere desde recurrencias múltiples; el umbral exacto varía</td>
+<td>Derivación especializada</td>
+<td>Habitualmente plantearlo desde la segunda recurrencia/tercer episodio o antes si el riesgo es excepcional, según centro e inmunidad</td>
+</tr>
+<tr class="odd">
+<td>Profilaxis con vancomicina</td>
+<td>No rutinaria; algunos expertos la usan en casos muy seleccionados</td>
+<td>No estrategia estándar</td>
+<td>Decisión individual con Infecciosas/Microbiología; explicar incertidumbre y riesgo de VRE</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="11-algoritmo-operativo" class="level2">
+<h2>11. Algoritmo operativo</h2>
+<ol type="1">
+<li><p><strong>Diarrea nueva ≥3 deposiciones no formadas/24 h o colitis/íleo sin otra causa clara</strong><br />
+→ retirar laxantes si procede, aislar, solicitar algoritmo microbiológico y evaluar gravedad.</p></li>
+<li><p><strong>¿Hay hipotensión/shock, íleo o megacolon?</strong><br />
+→ <strong>Sí:</strong> tratar como fulminante: reanimación + vancomicina 500 mg enteral cada 6 h + metronidazol 500 mg IV cada 8 h; vancomicina rectal si íleo; UCI/Cirugía; reevaluación 24-48 h.<br />
+→ <strong>No:</strong> continuar.</p></li>
+<li><p><strong>¿Es el episodio inicial?</strong><br />
+→ Fidaxomicina 200 mg cada 12 h 10 días, si accesible, o vancomicina 125 mg cada 6 h 10 días.</p></li>
+<li><p><strong>¿Es la primera recurrencia?</strong><br />
+→ Fidaxomicina estándar/pulsada si antes recibió vancomicina; pauta descendente/pulsada de vancomicina si antes recibió fidaxomicina. Valorar bezlotoxumab si alto riesgo.</p></li>
+<li><p><strong>¿Es la segunda o una recurrencia posterior?</strong><br />
+→ Antibiótico activo + derivación para estrategia de prevención: TMF/restauración de microbiota, bezlotoxumab o alternativa prolongada según inmunidad, disponibilidad y tratamiento previo.</p></li>
+<li><p><strong>En cualquier punto</strong><br />
+→ suspender antibióticos no esenciales, corregir volumen/electrolitos, vigilar abdomen y función orgánica, y no pedir test de curación.</p></li>
+</ol>
+</section>
+<section id="referencias" class="level2">
+<h2>Referencias</h2>
+<ol type="1">
+<li>Kelly CP, Lamont JT, Bakken JS. <em>Clostridioides difficile infection in adults: Treatment and prevention</em>. UpToDate. Última actualización editorial: 11 febrero 2026; revisión bibliográfica hasta julio 2026. PDF aportado, 42 páginas.</li>
+<li>Fischer M, Vaughn BP, Peery AF, Kelly CR. <a href="https://doi.org/10.1016/j.cgh.2026.05.007">AGA Clinical Practice Update on Management of <em>Clostridioides difficile</em> Infection in Adults: Expert Review</a>. <em>Clin Gastroenterol Hepatol</em>. 2026. doi:10.1016/j.cgh.2026.05.007.</li>
+<li>Johnson S, Lavergne V, Skinner AM, et al. <a href="https://www.idsociety.org/practice-guideline/clostridioides-difficile-2021-focused-update/">SHEA/IDSA 2021 focused update guideline for management of <em>Clostridioides difficile</em> infection in adults</a>. <em>Clin Infect Dis</em>. 2021;73:e1029-e1044. doi:10.1093/cid/ciab549.</li>
+<li>van Prehn J, Reigadas E, Vogelzang EH, et al. <a href="https://doi.org/10.1016/j.cmi.2021.09.038">ESCMID 2021 update on the treatment guidance document for <em>Clostridioides difficile</em> infection in adults</a>. <em>Clin Microbiol Infect</em>. 2021;27 Suppl 2:S1-S21.</li>
+<li>McDonald LC, Gerding DN, Johnson S, et al. <a href="https://www.idsociety.org/practice-guideline/clostridium-difficile/">IDSA/SHEA 2017 clinical practice guideline update for <em>C. difficile</em> infection</a>. <em>Clin Infect Dis</em>. 2018;66:e1-e48.</li>
+<li>Peery AF, Kelly CR, Kao D, et al. <a href="https://doi.org/10.1053/j.gastro.2024.01.008">AGA Clinical Practice Guideline on Fecal Microbiota-Based Therapies</a>. <em>Gastroenterology</em>. 2024;166:409-434.</li>
+<li>AEMPS/CIMA. <a href="https://cima.aemps.es/cima/dochtml/ft/11733004/FT_11733004.html">Ficha técnica de Dificlir 200 mg (fidaxomicina)</a>. Consultada el 6 agosto 2026.</li>
+<li>AEMPS/CIMA. <a href="https://cima.aemps.es/cima/dochtml/ft/90305/FT_90305.html">Ficha técnica de Vangozyr 125 mg (vancomicina oral)</a>. Consultada el 6 agosto 2026.</li>
+<li>AEMPS/CIMA. <a href="https://cima.aemps.es/cima/dochtml/ft/1161156001/FT_1161156001.html">Ficha técnica de Zinplava (bezlotoxumab)</a>. Consultada el 6 agosto 2026.</li>
+<li>NICE. <a href="https://www.nice.org.uk/guidance/ng199">Clostridioides difficile infection: antimicrobial prescribing. NG199</a>. Publicada en 2021; vigilancia excepcional 2024.</li>
+<li>Keating JA, Xu T, Graham MB, et al. <a href="https://doi.org/10.1001/jamanetworkopen.2025.17834">Oral Vancomycin for Prevention of Recurrent <em>Clostridioides difficile</em> Infection: A Randomized Clinical Trial</a>. <em>JAMA Netw Open</em>. 2025;8:e2517834.</li>
+<li>CDC. <a href="https://www.cdc.gov/c-diff/hcp/clinical-overview/index.html">C. diff: Facts for Clinicians</a>. Actualizado el 13 abril 2026.</li>
+<li>European Commission. <a href="https://health.ec.europa.eu/blood-tissues-cells-and-organs/soho-regulation/new-eu-rules-substances-human-origin_en">New EU rules on substances of human origin</a>. Reglamento (UE) 2024/1938; aplicación general desde el 7 agosto 2027.</li>
+</ol>
+<hr />
+<p><strong>Limitaciones:</strong> las recomendaciones para enfermedad fulminante, pautas descendentes, profilaxis secundaria y rescate con TMF se apoyan en evidencia de baja o muy baja certeza. La disponibilidad y financiación de fidaxomicina, bezlotoxumab y TMF varían entre centros. Ante fulminancia, inmunosupresión grave, embarazo, EII activa o recurrencias múltiples, debe aplicarse el protocolo local y coordinarse con Infecciosas/Microbiología, Digestivo y Cirugía según el caso.</p>
+</section>
+</section>
+<script>
+(() => {
+  const root = document.documentElement;
+  const body = document.body;
+  const toc = document.getElementById('TOC');
+  const tocToggle = document.getElementById('tocToggle');
+  const themeToggle = document.getElementById('themeToggle');
+  const printGuide = document.getElementById('printGuide');
+  const readingBar = document.getElementById('readingBar');
+  const storedTheme = localStorage.getItem('cdi-guide-theme');
+  const darkBySystem = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  root.dataset.theme = storedTheme || (darkBySystem ? 'dark' : 'light');
+
+  const setThemeLabel = () => {
+    themeToggle.textContent = root.dataset.theme === 'dark' ? 'Tema claro' : 'Tema oscuro';
+  };
+  setThemeLabel();
+
+  themeToggle.addEventListener('click', () => {
+    root.dataset.theme = root.dataset.theme === 'dark' ? 'light' : 'dark';
+    localStorage.setItem('cdi-guide-theme', root.dataset.theme);
+    setThemeLabel();
+  });
+
+  tocToggle.addEventListener('click', () => {
+    if (window.innerWidth <= 1050) {
+      const open = toc.classList.toggle('mobile-open');
+      tocToggle.setAttribute('aria-expanded', String(open));
+    } else {
+      const hidden = body.classList.toggle('toc-hidden');
+      tocToggle.setAttribute('aria-expanded', String(!hidden));
+    }
+  });
+
+  toc.querySelectorAll('a').forEach(link => link.addEventListener('click', () => {
+    if (window.innerWidth <= 1050) {
+      toc.classList.remove('mobile-open');
+      tocToggle.setAttribute('aria-expanded', 'false');
+    }
+  }));
+
+  printGuide.addEventListener('click', () => window.print());
+
+  const updateProgress = () => {
+    const max = document.documentElement.scrollHeight - window.innerHeight;
+    const progress = max > 0 ? (window.scrollY / max) * 100 : 0;
+    readingBar.style.width = `${Math.min(100, Math.max(0, progress))}%`;
+  };
+  updateProgress();
+  window.addEventListener('scroll', updateProgress, { passive: true });
+})();
+</script>
+</body>
+</html>
