@@ -1,7 +1,7 @@
 ---
 aliases: [MOC Fármacos, Farmacología]
 tags: [moc, farmaco]
-description: "Índice farmacológico: 128 fármacos agrupados por clase terapéutica"
+description: "Índice farmacológico: fichas agrupadas por clase terapéutica"
 ---
 
 # 💊 Fármacos
@@ -105,6 +105,7 @@ description: "Índice farmacológico: 128 fármacos agrupados por clase terapéu
 ## 🔥 Analgésicos y Antiinflamatorios
 
 **AINEs**
+- [[AINEs|AINEs — nota de clase]]
 - [[Ibuprofeno]]
 - [[Naproxeno]]
 - [[Dexketoprofeno]]
@@ -288,9 +289,3 @@ description: "Índice farmacológico: 128 fármacos agrupados por clase terapéu
 ---
 ### 🔗 Enlaces
 - [[000_INICIO]]
-
----
-### 📥 Por clasificar (auto-añadidas por /organize)
-*Reorganizar en las secciones temáticas correctas y borrar este bloque.*
-
-- [[AINEs]]

@@ -8,7 +8,7 @@ aliases:
   - "vértigo"
   - "mareo urgencias"
   - "síndrome vestibular agudo"
-  - "SVA"
+  - "SVA vestibular"
 categoria: Neurología
 fuente: "Manual de Urgencias Neurológicas SEN 2023"
 fecha: 2026-04-01

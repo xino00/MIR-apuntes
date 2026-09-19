@@ -46,4 +46,4 @@ description: "Cefaleas en urgencias: red flags SNOOP10, diagnóstico diferencial
 - [[Migraña - Guía Terapéutica Completa]]
 - [[Cefaleas Trigemino-Autonómicas y Tensional]]
 - [[000_INICIO]]
-- [Manual Cefaleas SEN 2026](obsidian://open?vault=MIR&file=Manual_Cefaleas_2026.pdf)
+- [[Libros y referencias/06_Neurologia/Manual Cefaleas 2026.pdf|Manual Cefaleas SEN 2026]]

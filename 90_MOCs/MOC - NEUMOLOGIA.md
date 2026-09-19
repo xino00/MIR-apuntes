@@ -2,6 +2,7 @@
 tags: [moc, neumo]
 description: "Índice de neumología: asma, EPOC, neumonía, insuficiencia respiratoria y ventilación"
 ---
+
 # 🫁 Neumología
 
 > [!danger] ⚡ Urgencias / Algoritmos Vitales
@@ -11,34 +12,33 @@ description: "Índice de neumología: asma, EPOC, neumonía, insuficiencia respi
 > - [[Asma - Crisis Asmática]]
 > - [[EPOC - Exacerbación y Manejo Agudo]]
 
-### 🦠 Patologías Frecuentes
+### Asma
+- [[Asma - Definición y Patogenia]]
+- [[Asma - Diagnóstico]]
+- [[Asma - Clasificación y Control]]
+- [[Asma - Manejo Crónico]]
+- [[Asma - Tratamiento Escalonado]]
+- [[Asma - Dispositivos de Inhalación]]
+- [[Asma - Circunstancias Especiales]]
+- [[Asma - Pediátrica]]
+- [[Asma Grave No Controlada]]
+
+### EPOC
+- [[EPOC reagudizado|Índice de EPOC]]
 - [[EPOC - Manejo Crónico]]
 - [[EPOC - Exacerbación y Manejo Agudo]]
-- [[Asma - Manejo Crónico]]
-- [[Asma - Crisis Asmática]]
+
+### Infecciones respiratorias
+- [[Neumonía Adquirida en la Comunidad (NAC)]]
+- [[Bronquitis Aguda]]
+- [[Broncoespasmo en IRVA]]
+- [[COVID-19]]
+- [[Tuberculosis]]
+
+### Disnea y vía aérea superior
 - [[Disnea Aguda - Evaluación Urgente]]
-- [[TEP - Tromboembolismo Pulmonar]] (Referenciado en Cardio)
+- [[Rinitis Alérgica y Rinosinusitis]]
 
 ---
 ### 🔗 Enlaces
 - [[000_INICIO]]
-
----
-### 📥 Por clasificar (auto-añadidas por /organize)
-*Reorganizar en las secciones temáticas correctas y borrar este bloque.*
-
-- [[Asma - Circunstancias Especiales]]
-- [[Asma - Clasificación y Control]]
-- [[Asma - Definición y Patogenia]]
-- [[Asma - Diagnóstico]]
-- [[Asma - Dispositivos de Inhalación]]
-- [[Asma - Pediátrica]]
-- [[Asma - Tratamiento Escalonado]]
-- [[Asma Grave No Controlada]]
-- [[Broncoespasmo en IRVA]]
-- [[Bronquitis Aguda]]
-- [[COVID-19]]
-- [[EPOC reagudizado]]
-- [[Neumonía Adquirida en la Comunidad (NAC)]]
-- [[Rinitis Alérgica y Rinosinusitis]]
-- [[Tuberculosis]]

@@ -1,0 +1,1 @@
+![[assets/adjuntos/Vacuna tetanos - referencia 2026-09-12.jpg]]

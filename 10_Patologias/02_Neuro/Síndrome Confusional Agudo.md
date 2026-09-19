@@ -7,7 +7,7 @@ tags:
 aliases:
   - "delirium"
   - "delirio"
-  - "SCA"
+  - "SCA confusional"
   - "confusión aguda"
   - "síndrome confusional"
 categoria: Neurología

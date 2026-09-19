@@ -121,4 +121,4 @@ aliases:
 - [[Sepsis - Abordaje Inicial (SSC 2026)]]
 - [[Sepsis - Hemodinámica y Reanimación]]
 - [[Sepsis - Antiinfecciosos y Soporte Vital]]
-- [Guía Sepsis 2026 (SSC)](<obsidian://open?vault=MIR&file=Libros%20y%20referencias/SEPSIS%202026.pdf>)
+- [[Libros y referencias/05_Infecciosas/SEPSIS 2026.pdf|Guía Sepsis 2026 (SSC)]]

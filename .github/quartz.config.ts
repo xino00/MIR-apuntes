@@ -14,6 +14,9 @@ const config: QuartzConfig = {
     },
     ignorePatterns: [
       ".obsidian",
+      ".vault-maintenance",
+      "95_Apoyo",
+      "assets/adjuntos/Vacuna tetanos - referencia 2026-09-12.jpg",
       ".git",
       ".github",
       ".claude",

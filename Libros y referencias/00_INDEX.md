@@ -1,6 +1,6 @@
 ---
 tags: [referencia, indice, biblioteca]
-fecha_actualizacion: 2026-07-13
+fecha_actualizacion: 2026-09-17
 description: "Inventario de PDFs y guías clínicas del vault organizado por especialidad"
 ---
 
@@ -8,7 +8,7 @@ description: "Inventario de PDFs y guías clínicas del vault organizado por esp
 
 Inventario y mapeo del corpus de guías clínicas en `Libros y referencias/`. Cada PDF se ha asignado a una subcarpeta por especialidad para facilitar su uso como fuente primaria del fact-check del vault y como referencia rápida en guardia.
 
-**Total verificado:** 101 PDFs en 12 subcarpetas + 0 PDFs en `_archive/`. Los snapshots HTML oficiales que sustituyen temporalmente a un PDF inaccesible se identifican de forma explícita y no se incluyen en este recuento.
+**Inventario técnico (2026-09-17):** 160 archivos PDF en las 12 subcarpetas de especialidad. Los snapshots HTML oficiales no se incluyen en ese recuento. Se han recuperado 49 PDF desde Git LFS y organizado los documentos sueltos; esta actualización de rutas no constituye una nueva validación clínica de las tablas siguientes.
 
 ## Cómo usar este índice
 
@@ -173,6 +173,14 @@ Inventario y mapeo del corpus de guías clínicas en `Libros y referencias/`. Ca
 | Traumatismo Nasal.pdf | [[Traumatismo Nasal]] |
 | Tumefaccion Glandular.pdf | [[Tumefacción Glandular]] |
 
+### 11_Endocrino/
+
+- [[Libros y referencias/11_Endocrino/standards-of-care-2026.pdf|ADA Standards of Care 2026]].
+
+### 12_Rehabilitacion/
+
+- `12_Rehabilitacion/Ejercicios_SERMEF/`: 67 PDF de ejercicios; consultar los archivos por región y programa.
+
 ## Especialidades sin PDF dedicado (Fase 2 fact-check con fallback)
 
 | Especialidad | Fallback primario | Fallback web (sociedad) |
@@ -184,25 +192,19 @@ Inventario y mapeo del corpus de guías clínicas en `Libros y referencias/`. Ca
 | Urología (parte) | Manual 12 Oct cap Uro + Hematuria FJD + RAO FJD | AEU |
 | Traumatología (parte) | Manual 12 Oct cap Trauma + POLITRAUMA FJD | SECOT |
 
-## Archivos archivados (`_archive/`)
+## Material de apoyo y archivo
 
-Conservados pero fuera de uso productivo:
-
-| Archivo | Motivo |
-|---|---|
-| ESC 2022 - Arritmias Ventriculares y MSC (duplicado).pdf | Byte-exacto del que está en `02_Cardiologia/` |
-| ANAFILAXIA ADULTOS (raiz duplicado).pdf | Byte-exacto del que está en `09_Urgencias_FJD/` |
-| 1_Libros de urgencias-generales.md | Nota antigua sin contenido relevante |
-| 2_Guias Neurologia.md | Nota antigua sin contenido relevante |
-| cefaleas.txt, kdigo2024.txt, manual.txt, chap32.txt | Texto plano scratch, sustituido por PDFs oficiales |
-| Exploracion tobillo y antepie.txt | Migrado a [[Exploración de Rodilla, Tobillo y Antepié]] |
+- [[95_Apoyo/00_Apoyo|Material de apoyo y planificación]]: prompts de auditoría, conversiones auxiliares y planificación histórica.
+- [[95_Apoyo/Registro de limpieza 2026-09-17|Registro de organización y comprobaciones]].
+- La transcripción IDSA AMR 2024 de `05_Infecciosas/` sigue siendo la versión de consulta. La extracción auxiliar completa se conserva en el respaldo indicado en el registro.
+- Los duplicados y las copias anteriores están conservados en `.vault-maintenance/2026-09-17_limpieza/`; no forman parte del corpus de consulta.
 
 ## Mantenimiento
 
 - Cuando bajes una guía nueva, colocarla en su subcarpeta de especialidad con nombre normalizado (`<Sociedad> <Año> - <Tema>.pdf`).
-- Si la guía sustituye a una vigente, mover la antigua a `_archive/` y actualizar este INDEX.
+- Si la guía sustituye a una vigente, archivar la antigua en `95_Apoyo/Archivo/` y actualizar este INDEX.
 - Las subcarpetas siguen el glob `Libros[[:space:]]y[[:space:]]referencias/**/*.pdf` del `.gitattributes`, por lo que **todos los PDFs nuevos quedan automáticamente en LFS** sin acción adicional.
 
 ---
 
-**Hub:** [[000_INICIO]] · **Auditoría asociada:** [[INDEX|Fact-check del vault]]
+**Hub:** [[000_INICIO]] · **Auditoría asociada:** [[00_Inbox/FACT_CHECK_2026-07-13/INDEX|Fact-check del vault]]

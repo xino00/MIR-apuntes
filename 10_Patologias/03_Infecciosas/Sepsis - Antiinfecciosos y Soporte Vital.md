@@ -242,5 +242,5 @@ aliases:
 - [[Sepsis - Abordaje Inicial (SSC 2026)]]
 - [[Sepsis - Hemodinámica y Reanimación]]
 - [[Sepsis - Cuidados Post-UCI y Objetivos]]
-- [Guía Evans et al. 2021 (SSC)](obsidian://open?vault=MIR&file=Evans_et_al-2021-Intensive_Care_Medicine.pdf)
-- [Guía Sepsis 2026 (SSC)](<obsidian://open?vault=MIR&file=Libros%20y%20referencias/SEPSIS%202026.pdf>)
+- [[Libros y referencias/05_Infecciosas/Evans 2021 - Surviving Sepsis.pdf|Guía Evans et al. 2021 (SSC)]]
+- [[Libros y referencias/05_Infecciosas/SEPSIS 2026.pdf|Guía Sepsis 2026 (SSC)]]

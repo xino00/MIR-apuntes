@@ -69,6 +69,7 @@ description: "Índice de neurología: ictus, cefaleas, epilepsia, enfermedades n
 
 ## 🧠 Traumatismo y Presión Intracraneal
 
+- [[TCE Leve-Moderado]]
 - [[TCE Grave]] (GCS ≤8, monitorización PIC, craniectomía descompresiva)
 - [[Hipertensión Intracraneal]] (edema cerebral, herniación — dexametasona, manitol)
 
@@ -86,9 +87,3 @@ description: "Índice de neurología: ictus, cefaleas, epilepsia, enfermedades n
 ### 🔗 Enlaces
 - [[000_INICIO]]
 - [[MOC - Urgencias]]
-
----
-### 📥 Por clasificar (auto-añadidas por /organize)
-*Reorganizar en las secciones temáticas correctas y borrar este bloque.*
-
-- [[TCE Leve-Moderado]]

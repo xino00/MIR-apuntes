@@ -62,3 +62,8 @@ Libros y referencias/**/*.md
 # Temporary text files
 *.txt
 !.github/robots.txt
+
+# Organización local del vault (respaldos y material de apoyo)
+.vault-maintenance/
+95_Apoyo/
+assets/adjuntos/Vacuna tetanos - referencia 2026-09-12.jpg

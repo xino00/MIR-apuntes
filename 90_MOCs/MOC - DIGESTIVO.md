@@ -6,10 +6,11 @@ description: "Índice de digestivo: dolor abdominal, hemorragia digestiva, hepat
 
 # 🫁 MOC — Digestivo
 
----
-
 > [!danger] ⚡ Urgencias / Algoritmos Vitales
 > - [[04_Dolor_Abdominal_Manejo_y_Tratamiento|Dolor Abdominal - Manejo y Tratamiento]]
+> - [[Hemorragia Digestiva Alta (HDA)]]
+> - [[Hemorragia Digestiva Baja (HDB)]]
+> - [[Obstrucción Intestinal]]
 
 ### 🩺 Dolor Abdominal (Serie completa)
 - [[01_Dolor_Abdominal_Generalidades_y_Causas|Generalidades y Causas]]
@@ -18,41 +19,34 @@ description: "Índice de digestivo: dolor abdominal, hemorragia digestiva, hepat
 - [[04_Dolor_Abdominal_Manejo_y_Tratamiento|Manejo y Tratamiento]]
 - [[05_Dolor_Abdominal_Cronico|Dolor Abdominal Crónico]]
 
-### 🦠 Patologías Frecuentes
-- [[Hemorragia Digestiva Alta (HDA)]]
-- [[Hemorragia Digestiva Baja (HDB)]]
-
-### 🫀 Hepatología
+### 🫀 Hepatología y cirrosis
 - [[MASLD - Esteatosis Hepática Metabólica]] (esteatosis hepática metabólica, antes NAFLD/EHGNA — cribado de fibrosis con FIB-4)
 - [[Hipertransaminasemia]]
 - [[Hepatitis Virales (A-E)]] (ver Infecciosas)
+- [[Complicaciones de la Cirrosis Hepática]]
 
-*Por crear:*
-- Pancreatitis Aguda
-- Cirrosis y Descompensaciones
-- EII - Brote Agudo
+### Vía biliar y páncreas
+- [[Cólico Biliar]]
+- [[Colecistitis Aguda]]
+- [[Coledocolitiasis]]
+- [[Colangitis Aguda]]
+- [[Pancreatitis Aguda]]
+
+### Patología intestinal y esofágica
+- [[Reflujo Gastroesofágico (RGE)]]
+- [[Gastroenteritis Aguda (GEA)]]
+- [[Estreñimiento Agudo]]
+- [[Enfermedad de Crohn]]
+- [[Colitis Ulcerosa]]
+
+### Proctología y procedimientos relacionados
+- [[Hemorroides]]
+- [[Fisura Anal]]
+- [[Absceso - Drenaje en Urgencias]]
+
+### Pendiente de nota específica
+- EII - Brote Agudo (notas disponibles: [[Enfermedad de Crohn]] y [[Colitis Ulcerosa]]).
 
 ---
 ### 🔗 Enlaces
 - [[000_INICIO]]
-
----
-### 📥 Por clasificar (auto-añadidas por /organize)
-*Reorganizar en las secciones temáticas correctas y borrar este bloque.*
-
-- [[Absceso - Drenaje en Urgencias]]
-- [[Colangitis Aguda]]
-- [[Colecistitis Aguda]]
-- [[Coledocolitiasis]]
-- [[Colitis Ulcerosa]]
-- [[Complicaciones de la Cirrosis Hepática]]
-- [[Cólico Biliar]]
-- [[Enfermedad de Crohn]]
-- [[Estreñimiento Agudo]]
-- [[Fisura Anal]]
-- [[Gastroenteritis Aguda (GEA)]]
-- [[Hemorroides]]
-- [[Hipertransaminasemia]]
-- [[Obstrucción Intestinal]]
-- [[Pancreatitis Aguda]]
-- [[Reflujo Gastroesofágico (RGE)]]

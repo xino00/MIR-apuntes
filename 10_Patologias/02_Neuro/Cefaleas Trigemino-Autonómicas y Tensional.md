@@ -48,4 +48,4 @@ tags: [urgencias, neuro, patologia]
 ### 🔗 Enlaces Relacionados
 - [[Cefaleas - Abordaje Inicial]]
 - [[Migraña - Guía Terapéutica Completa]]
-- [Manual Cefaleas SEN 2026](obsidian://open?vault=MIR&file=Manual_Cefaleas_2026.pdf)
+- [[Libros y referencias/06_Neurologia/Manual Cefaleas 2026.pdf|Manual Cefaleas SEN 2026]]
