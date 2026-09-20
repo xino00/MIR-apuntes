@@ -1,6 +1,10 @@
 ---
-aliases: [MOC Fármacos, Farmacología]
-tags: [moc, farmaco]
+aliases:
+  - MOC Fármacos
+  - Farmacología
+tags:
+  - moc
+  - farmaco
 description: "Índice farmacológico: fichas agrupadas por clase terapéutica"
 ---
 
