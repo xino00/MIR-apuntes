@@ -20,7 +20,7 @@ tags: [plantilla, guardia, curas]
 | Miembro superior | Patología de muñeca (escafoides, túnel carpiano) | [[Patología de Muñeca]] |
 | Miembro superior | Traumatismo de dedo de mano | [[Traumatismo de Dedo de Mano]] |
 | Tórax | Contusión y fractura costal | [[Contusión y Fractura Costal]] |
-| Columna | Lumbalgia | [[Lumbalgia]] |
+| Columna | Lumbalgia | [[10_Patologias/12_Traumatologia/Lumbalgia]] |
 | Columna | Lumbociática / Hernia discal | [[Lumbociática]] |
 | Miembro inferior | Gonalgia y lesión ligamentosa de rodilla | [[Gonalgia y Lesión Ligamentosa de Rodilla]] |
 | Miembro inferior | Coxalgia – dolor de cadera | [[Coxalgia - Dolor de Cadera]] |

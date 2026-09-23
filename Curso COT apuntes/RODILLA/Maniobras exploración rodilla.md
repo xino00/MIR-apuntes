@@ -1,0 +1,8 @@
+- LCA lachman
+- Cajones (LCP/LCA?): 90º, sentarse encima del pie para bloquear. Positivo desplazamiento >5mm. COmparar colateral
+- Estrés varo valgo; COlaterales
+- Meniscos: 
+	- mcmurray: decubito supino sujetar interlineas la punta del pie apunta al menisco contrario de la epxloracion
+	- Appley: decubito prono, compresion y rotacióin tibial
+- Aprehensión rotuliana
+- Extensor lag

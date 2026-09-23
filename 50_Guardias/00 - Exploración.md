@@ -239,7 +239,7 @@ DEDO (by Nuria Rehabi): No lesiones dermatologicas, no deformidad, no tumefaccio
 *Exploracion dedo gordo: no dolor en articulación trapecio metacarpiana, No dolor en articulación interfalángica, Valgo y varo del primer dedo estable sin bostezos. Finkelstein negativo (tenosinovitis de quervain). (ver [[Traumatismo de Dedo de Mano]])
 
 COLUMNA LUMBAR: Presenta dolor a la palpación de musculatura paravertebral. No apofisalgias. No presenta irradiación del dolor. Maniobra de Lasègue/Bragard  negativa. Movilidad de rotación y flexo/extensión conservadas/ limitada por dolor. ROT conservados y simétricos. Fuerza y sensibilidad sin alteración. Marcha de talones (L5) y puntas (S1) conservadas. Neurovascular distal normal.
-JC: Lumbalgia aguda de características mecánicas. (ver [[Lumbalgia]] / [[Lumbociática]])
+JC: Lumbalgia aguda de características mecánicas. (ver [[10_Patologias/12_Traumatologia/Lumbalgia]] / [[Lumbociática]])
 
 CADERA: No actitud antiálgica, no acortamiento. Buena movilidad articular de ambas caderas. No dolor en trocánter, no dolor inguinal.  Dolor con la rotación interna/externa. Balance articular completo. No palpo hernia inguinal. (ver [[Coxalgia - Dolor de Cadera]])
 

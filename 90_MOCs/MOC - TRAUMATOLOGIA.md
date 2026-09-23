@@ -8,13 +8,13 @@ description: "Índice de traumatología: lumbalgia, esguinces, fracturas, herida
 
 > [!danger] Urgencias Traumatología
 > - [[Esguince de Tobillo]]
-> - [[Lumbalgia]]
+> - [[10_Patologias/12_Traumatologia/Lumbalgia]]
 > - [[Lumbociática]]
 > - [[Heridas y Suturas]]
 
 ### 🩺 Columna
 - [[Cervicalgia Mecánica]]
-- [[Lumbalgia]]
+- [[10_Patologias/12_Traumatologia/Lumbalgia]]
 - [[Lumbociática]]
 
 ### 🦵 Miembro Inferior

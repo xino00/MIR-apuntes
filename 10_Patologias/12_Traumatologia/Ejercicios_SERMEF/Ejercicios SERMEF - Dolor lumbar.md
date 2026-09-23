@@ -142,7 +142,7 @@ En decúbito prono, elevar sin flexionarlos un brazo y la pierna contraria. Camb
 - SERMEF no indica frecuencia diaria/semanal, descansos ni criterios objetivos de progresión.
 - En ejercicios bilaterales, la fuente no aclara si las 10 repeticiones son totales o por lado.
 - Cuando el portal muestra series como `-`, se conserva como **series no indicadas**.
-- La fuente no define el dolor admisible ni contraindicaciones específicas. Revisar los signos de alarma en [[Lumbalgia]].
+- La fuente no define el dolor admisible ni contraindicaciones específicas. Revisar los signos de alarma en [[10_Patologias/12_Traumatologia/Lumbalgia]].
 - Los PDF clásicos de 2023 contienen 2 programas con técnicas y dosis diferentes; no equivalen directamente a los 4 niveles actuales.
 
 ## Fuentes
@@ -153,7 +153,7 @@ En decúbito prono, elevar sin flexionarlos un brazo y la pierna contraria. Camb
 
 ## Relacionadas
 
-- [[Lumbalgia]]
+- [[10_Patologias/12_Traumatologia/Lumbalgia]]
 - [[Lumbociática]]
 - [[MOC - TRAUMATOLOGIA]]
 - [[000_INICIO]]
