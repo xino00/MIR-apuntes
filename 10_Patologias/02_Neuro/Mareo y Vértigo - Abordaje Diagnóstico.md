@@ -12,15 +12,21 @@ aliases:
 categoria: Neurología
 fuente: "Fife TD. Approach to the history and evaluation of vertigo and dizziness. Continuum (Minneap Minn) 2021;27(2, Neuro-otology):306-329"
 fecha: 2026-05-20
+fecha_revision: 2026-09-29
+ambito: Adultos; abordaje diagnóstico
+estado_revision: Revisión focal de HINTS e hipoacusia; resto de síntesis Fife no revalidado íntegramente
 ---
 
 > [!danger] ⚡ Guardia
 > **Mareo/vértigo: lo que mata es la causa CENTRAL (ictus vertebrobasilar). Pregunta CRONOLOGÍA + DESENCADENANTES, no "¿cómo lo describe?".**
 > - **Acción inmediata:** descartar centralidad → **focalidad** (diplopía, disartria, disfagia, hemiparesia, dismetría/ataxia), **HI normal** con nistagmo espontáneo, **nistagmo que cambia de dirección/gaze-evoked**, **skew**, **downbeating**.
-> - **VPPB:** desencadenado por giro cefálico, dura **<1 min**; **Dix-Hallpike** + (nistagmo upbeating-torsional) confirma canal posterior. Menière 30 min-12 h; neuritis días-semanas continuo.
+> - **VPPB:** desencadenado por giro cefálico, dura **<1 min**; **Dix-Hallpike** + (nistagmo upbeating-torsional) confirma canal posterior. Menière 20 min-12 h; neuritis días-semanas continuo.
 > - **Neuroimagen urgente:** ante focalidad / HINTS central / cefalea occipital intensa (RM/angio). TC craneal aislado en mareo puro = rentabilidad casi nula.
 > - **Urgencias / derivar:** SVA central, cefalea occipital intensa (disección vertebral), cefalea en trueno (HSA), 1.er episodio en añoso con FRCV → urgencias. Maniobras Epley/Semont y dosis farmacológica → ver [[Vértigo en Urgencias]].
 > - **NO:** anclar el diagnóstico en la descripción del paciente ("vértigo/presíncope/desequilibrio") → genera más errores que la cronología.
+
+> [!info] Enlace operativo FJD 2026
+> Tratamiento y circuito local: [[Vértigo en Urgencias]]. **HINTS requiere síndrome agudo continuo con nistagmo espontáneo y explorador formado**; sin nistagmo, priorizar marcha/exploración neurológica y valoración experta según sospecha. La hipoacusia unilateral nueva con síndrome vestibular agudo **no confirma perifericidad**. No esperar 24–48 h para evaluar una posible causa vascular. [GRACE-3](https://www.saem.org/publications/grace/grace-3).
 
 ## Definición
 
@@ -77,7 +83,7 @@ Dos acrónimos resumen esta lógica:
 |----------|---------------------------|
 | **<1 minuto** | VPPB (posicional, latencia, extinguible) |
 | **Minutos** | AIT vertebrobasilar, migraña vestibular, ataxias episódicas |
-| **30 min – 12 horas** | Enfermedad de Menière, migraña vestibular |
+| **20 min – 12 horas** | Enfermedad de Menière, migraña vestibular |
 | **Días-semanas (continuo)** | Neuritis vestibular, ictus cerebeloso/troncoencefálico, laberintitis |
 | **Meses-años (crónico)** | MPPP (mareo postural perceptivo persistente), mal de débarquement, vestibulopatía bilateral, ataxias cerebelosas, neoplasia fosa posterior |
 
@@ -104,6 +110,7 @@ Un trigger **debe ser obvio y reproducible** para considerarse como tal. No es l
 | Asociación | Pista hacia |
 |-----------|-------------|
 | **Plenitud ótica unilateral + acúfeno + hipoacusia fluctuante** | Enfermedad de Menière |
+| **Hipoacusia unilateral nueva + vértigo agudo continuo** | Alarma: posible causa vascular; no asumir laberintitis. Ver [[Hipoacusia - Evaluación Urgente]] |
 | **Cefalea, fotofobia, fonofobia, historia migrañosa** | Migraña vestibular |
 | **Focalidad neurológica** (diplopía, disartria, disfagia, hemiparesia, dismetría) | Causa central — [[Ictus Isquémico]] vertebrobasilar |
 | **Autofonía** (escucha amplificada de propia voz, latidos) | Dehiscencia del canal superior |
@@ -166,6 +173,7 @@ Combinaciones más frecuentes (no quedarse con un único diagnóstico si la clí
 - **Persecución sacádica anormal** + **sacadas dismétricas** → disfunción cerebelosa.
 
 ### Test de impulso cefálico (Head Impulse Test, HI)
+El HIT aislado no excluye ictus. La interpretación HINTS corresponde al contexto y entrenamiento indicados arriba; resultado central o equívoco exige estudio dirigido.
 - **Normal en ambos lados (RVO conservado) + nistagmo espontáneo agudo** → **alarma de centralidad** (componente del HINTS).
 - **Anormal bilateral** + Romberg positivo + agudeza visual dinámica reducida → **vestibulopatía bilateral** (sospecha de ototoxicidad por aminoglucósidos, especialmente gentamicina).
 
@@ -184,8 +192,8 @@ Tabla derivada de la **Table 1-5 de Fife 2021** (síntesis ICVD + cronología + 
 |-----------|---------------|----------|---------|-----------------|
 | **VPPB** | Episódico | 5-60 s | Cambio postural cefálico | Nistagmo Dix-Hallpike upbeating-torsional |
 | **Neuritis vestibular** | Agudo | Días-semanas | Sin trigger (15 % IRA previa) | Peor con movimiento, nistagmo unidireccional, HI anormal ipsilateral |
-| **Laberintitis** | Agudo | Días-semanas | Sin trigger (15 % IRA previa) | Igual que neuritis + **hipoacusia aguda** unilateral |
-| **Enfermedad de Menière** | Episódico | 30 min – 12 h | Sin trigger | Plenitud ótica, acúfeno, hipoacusia fluctuante de baja frecuencia |
+| **Laberintitis** | Agudo | Días-semanas | Sin trigger (15 % IRA previa) | Síndrome vestibular con **hipoacusia aguda**: requiere diferenciar causa cocleovestibular de isquemia; no diagnosticar solo por esta asociación |
+| **Enfermedad de Menière** | Episódico | 20 min – 12 h | Sin trigger | Plenitud ótica, acúfeno, hipoacusia fluctuante de baja frecuencia |
 | **Migraña vestibular** | Episódico (a veces continuo) | Variable (s a días) | Sin trigger fiable; aggravado por estímulos visuales | Historia migrañosa, foto/fonofobia, exploración normal |
 | **Vestibulopatía bilateral** | Crónico | Continuo | Movimiento | HI anormal bilateral, Romberg+, agudeza visual dinámica reducida |
 | **Dehiscencia canal superior** | Episódico | Segundos-minutos | Sonido, Valsalva | Autofonía, presión/plenitud unilateral |
@@ -255,6 +263,12 @@ Confirman o refutan una hipótesis clínica; no son cribado universal.
 - MPPP para rehabilitación vestibular específica + ISRS si corresponde.
 
 ## Referencias
+
+- [GRACE-3 / SAEM](https://www.saem.org/publications/grace/grace-3), aplicación de HINTS, audición y marcha; revisión focal 29/09/2026.
+- [AAO-HNSF Ménière 2020](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599820909438), duración del episodio compatible con enfermedad definida.
+- [[Hipoacusia - Evaluación Urgente]] (hipoacusia brusca y circuito ORL).
+- [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Sd Vestibular 2026.pdf#page=1|FJD, síndrome vestibular, p. 1]]: fecha editorial octubre de 2026, activación no confirmada; integración operativa en [[Vértigo en Urgencias]].
+
 
 - [[Vértigo en Urgencias]] (manejo agudo, HINTS, maniobras Epley/Semont, tratamiento farmacológico)
 - [[Ictus Isquémico]] (causa central de SVA — Código Ictus)

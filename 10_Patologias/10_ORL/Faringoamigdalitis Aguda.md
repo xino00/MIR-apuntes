@@ -3,64 +3,76 @@ aliases: [Faringoamigdalitis, Amigdalitis, Faringitis, Angina faríngea, Strep t
 tags: [urgencias, orl, infecciosas, patologia]
 fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencias.md"
 last_fact_checked: 2026-06-09
+fecha_revision: 2026-09-29
+ambito: Urgencias de adultos
+revision_estado: "Revisada; diferencias de fuentes y límites explícitos"
 ---
+
 # Faringoamigdalitis Aguda
 
-## Diagnóstico
+> [!info] Revisión acotada: adultos
+> Los PDF ORL 2026 no actualizan la faringitis simple. Esta nota contrasta el **PROA FJD de mayo de 2023** con el Manual 12 de Octubre, IDSA y CIMA; enlaza las complicaciones cubiertas por los nuevos protocolos. La fecha histórica `last_fact_checked` se conserva como procedencia; la revisión actual se fecha por separado. Las plantillas globales de `50_Guardias` no se han actualizado.
 
-**Criterios de Centor** (≥3 criterios → probable origen bacteriano, indicación de antibiótico):
-- Temperatura >38 ºC
-- Ausencia de tos
-- Adenopatías cervicales dolorosas
-- Exudado amigdalar
+## Primero: descartar complicaciones
 
-- **<3 criterios Centor** → probable origen vírico → manejo sintomático.
-- **≥3 criterios Centor** → probable faringoamigdalitis bacteriana → antibiótico empírico.
+Disnea/estridor, dificultad para manejar secreciones, trismus, voz apagada, abombamiento unilateral/desviación de úvula, tumefacción cervical, deterioro sistémico o intolerancia oral importante requieren valoración urgente según contexto. Consultar [[Absceso Periamigdalino e Infecciones Cervicales Profundas]] y [[Epiglotitis del Adulto]]; no reducirlos a una puntuación de Centor.[^manual][^idsa]
+
+## Diagnóstico y decisión de realizar test
+
+**Centor clásico: 1 punto por criterio, máximo 4:** fiebre >38 °C; ausencia de tos; adenopatías cervicales anteriores dolorosas; hipertrofia o exudado amigdalar. **La edad pertenece a McIsaac, no al Centor clásico.** Registrar qué escala se ha utilizado.[^idsa]
+
+| Situación | Conducta en el adulto sin complicaciones |
+|---|---|
+| Clínica claramente vírica (p. ej., tos, rinorrea, disfonía o conjuntivitis) | Tratamiento sintomático; habitualmente no precisa test estreptocócico. |
+| Sospecha de estreptococo | Estimar riesgo con una escala y seleccionar test rápido/NAAT/cultivo según disponibilidad y riesgo clínico. La puntuación no confirma la etiología. |
+| Test rápido o cultivo positivo, cuadro compatible | Tratar la infección estreptocócica. |
+| Test rápido negativo en adulto | No se necesita cultivo de respaldo de forma rutinaria; reevaluar si evolución atípica, riesgo individual o sospecha de complicación. |
+
+Fuentes: IDSA para selección de pruebas y CDC para interpretación del test.[^idsa][^cdc]
+
+**Criterio local histórico:** PROA 2023 denomina «Centor» a una escala que añade edad: con ≤2 propone no test/no antibiótico y con ≥3 **considerar test rápido y valorar el beneficio antimicrobiano**. No dice «≥3 = antibiótico automático». Su impresión contiene intervalos de edad inconsistentes; no se reproduce esa tabla como calculadora.[^proa1]
+
+**Matiz IDSA 2025:** considerar pruebas incluso con puntuación baja ante exposición domiciliaria a estreptococo, antecedente de fiebre reumática o datos de infección complicada. La actualización de 2025 aborda selección de pruebas, no sustituye todas las pautas terapéuticas previas.[^idsa]
 
 ## Tratamiento
 
-**ATB si ≥3 criterios Centor (según PROA):**
-- 1ª ELECCIÓN: Penilevel (fenoximetilpenicilina) 500 mg 1 comprimido cada 12 horas durante 10 días.
-- 2ª ELECCIÓN: Amoxicilina 500 mg 1 comprimido cada 8 horas durante 5-7 días.
-- ALÉRGICOS: Clindamicina 300 mg 1 comprimido cada 8 horas durante 5 días.
-- RECURRENCIAS/FALLO TTO: Amoxicilina/Clavulánico 500/125 mg 1 comprimido cada 8 horas durante 7 días.
+### Medidas generales
 
-> [!warning] Discordancia de fuentes (duración de amoxicilina)
-> El **PROA FJD** (fuente de esta pauta) indica amoxicilina **5-7 días**; el **Manual 12 Octubre 2022** (p. 124, apdo. 3.2.2 Faringoamigdalitis aguda) indica "amoxicilina 500 mg/8 h v.o. durante **10 días** o fenoximetilpenicilina 500 mg/8-12 h v.o. durante 10 días". En guardia FJD prevalece el PROA local; si el objetivo es erradicación de S. pyogenes (fiebre reumática, recurrencias), el estándar clásico son 10 días.
+Analgesia/antitérmico según antecedentes y contraindicaciones, hidratación adaptada a tolerancia y comorbilidades. No imponer un volumen fijo de líquidos ni combinar analgésicos de forma automática. Valorar mononucleosis ante clínica compatible antes de usar aminopenicilinas.[^manual]
 
-## Plantilla de Guardia
+### Antibiótico si está indicado
 
-*** Enfermedad actual.
-Paciente de X años que consulta por cuadro de X días de evolución de odinofagia y fiebre termometrada de hasta 38 °C. Niega disnea, tos, disfagia u otra clínica asociada.
-*Se realiza escala de Centor: Tª >38 ºC, ausencia de tos, adenopatías cervicales dolorosas y exudado amigdalar.
+Pautas de adulto; comprobar alergias, función renal, interacciones, peso y tolerancia oral antes de prescribir.
 
-*** Exploración física.
-Paciente en buen estado general, eupneico/a, normocoloreado/a.
-ORL: Faringe hiperémica con exudados blanquecinos bilaterales. No trismus. Resto de exploración ORL sin hallazgos.
-CyC: Adenopatías laterocervicales dolorosas a la palpación, de características inflamatorias.
-ACP: Auscultación cardiopulmonar sin hallazgos.
-REALIZAR CRITERIOS CENTOR:
+| Escenario | Pauta y fuente |
+|---|---|
+| Faringoamigdalitis estreptocócica, sin contraindicación | **Fenoximetilpenicilina 500 mg VO cada 12 h durante 10 días.** Concordante en PROA FJD, CIMA Penilevel 500 mg cápsulas duras y CDC. |
+| Alternativa con amoxicilina | **500 mg VO cada 8 h durante 10 días**, según Manual 12 Octubre. El PROA 2023 ofrece **5–7 días** con esa dosis: diferencia explícita, no una pauta nueva de FJD 2026. |
+| Alergia a betalactámicos | Caracterizar reacción y escoger alternativa completa según gravedad y sensibilidad. El PROA 2023 recoge clindamicina **300 mg/8 h durante 5 días**; CDC utiliza un régimen de **10 días** (7 mg/kg/dosis cada 8 h, máximo 300 mg/dosis). No trasladar automáticamente el régimen corto a la plantilla de alta. |
+| Persistencia/recurrencia | Reevaluar diagnóstico, adherencia y complicaciones antes de ampliar espectro. El PROA contempla amoxicilina/clavulánico **500/125 mg cada 8 h durante 7 días**; el Manual recoge otros regímenes y duraciones. No es un cambio automático por dolor persistente. |
 
-*** Resumen Evolución.
-**Resumen de evolución – Sospecha de faringitis viral**
-Paciente que consulta por odinofagia con fiebre. Tras exploración física compatible con faringoamigdalitis sin signos de gravedad y con <3 criterios de Centor, se impresiona cuadro de probable origen vírico. Se decide manejo sintomático ambulatorio, con vigilancia de signos de alarma.
+Fuentes de las pautas: PROA p. 6, Manual p. impresa 125, CIMA y CDC.[^proa6][^manual][^penilevel][^cdc]
 
-**Resumen de evolución – Sospecha de faringitis bacteriana**
-Paciente que consulta por odinofagia con fiebre. Presenta hallazgos clínicos compatibles con faringoamigdalitis bacteriana, al cumplir ≥3 criterios de Centor. Se pauta tratamiento antibiótico empírico, con buena tolerancia. Tras exploración sin hallazgos de complicación ni criterios de ingreso, se decide alta con seguimiento por su MAP.
+> [!warning] Evitar mezclar fuentes
+> La primera elección concordante es penicilina V cuando está indicada. La pauta de amoxicilina de 10 días procede del Manual; las duraciones cortas se conservan identificadas como PROA 2023. En alergia, la resistencia a macrólidos/clindamicina varía y debe considerarse. La nueva tabla [[Infecciones ORL - Alergia a Betalactámicos]] **no incluye faringitis simple** y no debe extrapolarse desde abscesos.[^cdc]
 
-*** Tratamiento al alta.
-- Reposo relativo.
-- Hidratación abundante (2.5–3 L/día).
-- Enjuagues orales antisépticos cada 8 horas.
-- Ibuprofeno 600 mg cada 8 horas durante 4-5 días si dolor o fiebre. Alternar con Paracetamol 1 g o Nolotil 575 mg en caso de mal control.
-**- Antibiótico (si ≥3 criterios Centor):**
-1ª elección: Penilevel 500 mg cada 12 h x 10 días.
-2ª elección: Amoxicilina 500 mg cada 8 h x 5-7 días.
-Alergia a beta-lactámicos: Clindamicina 300 mg cada 8 h x 5 días.
-Recurrencias o fracaso: Amoxicilina/Clavulánico 500/125 mg cada 8 h x 7 días.
-- Control evolutivo por su Médico de Familia quien realizará seguimiento y reajuste de la medicación en función de la evolución.
-- Si empeoramiento o aparición de síntomas de alarma explicados deberá regresar al Servicio de Urgencias para nueva valoración.
+## Seguimiento y plantilla editable
 
-## 🔗 Relacionados
-- [[Rinosinusitis Aguda]]
-- [[Otitis Media Aguda (OMA)]]
+**Historia/exploración:** días de evolución […]; síntomas víricos […]; tolerancia oral […]; signos de vía aérea/absceso […]; escala utilizada, criterios presentes y puntuación […].
+
+**Pruebas:** indicación/no indicación razonada […]; test realizado y resultado […].
+
+**Impresión y decisión:** cuadro compatible con […]; riesgo/complicaciones valoradas […]; tratamiento sintomático o antibiótico justificado por […].
+
+**Alta:** analgesia individualizada […]; si se prescribe antibiótico, escribir **una sola pauta completa** (principio activo, presentación, dosis, vía, intervalo, duración y fuente elegida) […]. Explicar reconsulta ante empeoramiento importante, dificultad respiratoria/deglutoria, trismus, tumefacción cervical o deterioro general; control clínico si no evoluciona favorablemente.[^manual]
+
+## Fuentes
+
+[^proa1]: [[Libros y referencias/05_Infecciosas/PROA FJD.pdf#page=1|PROA FJD, mayo 2023, PDF p. 1: criterios diagnósticos]].
+[^proa6]: [[Libros y referencias/05_Infecciosas/PROA FJD.pdf#page=6|PROA FJD, mayo 2023, PDF p. 6: tabla de tratamiento]].
+[^manual]: [[Libros y referencias/01_General/Manual 12 Octubre 2022.pdf#page=141|Manual 12 Octubre 2022, cap. 9, pp. impresas 125–128 (PDF 141–144)]]. La referencia previa a p. 124 para la posología se corrige a p. 125.
+[^idsa]: [IDSA, actualización de faringitis estreptocócica 2025, recomendación y tabla 2 de la web](https://www.idsociety.org/practice-guideline/streptococcal-pharyngitis2/). Las escalas están numeradas como tabla 3 en la [[Libros y referencias/05_Infecciosas/IDSA 2025 - Faringitis estreptococica parte 1.pdf#page=9|copia local, PDF p. 9]].
+[^cdc]: [CDC, Clinical Guidance for Group A Streptococcal Pharyngitis](https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/strep-throat.html), diagnóstico, tratamiento y resistencias; consultado 2026-09-29.
+[^penilevel]: [CIMA, Penilevel 500 mg cápsulas duras, FT 83518, apartados 2 y 4.2](https://cima.aemps.es/cima/dochtml/ft/83518/view.html).
+
+[[PROA - Infecciones Respiratorias]] · [[Rinosinusitis Aguda]] · [[Otitis Media Aguda (OMA)]] · [[MOC - ORL]]

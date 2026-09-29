@@ -77,6 +77,8 @@ description: "Índice de neurología: ictus, cefaleas, epilepsia, enfermedades n
 
 ## 🎯 Otras Urgencias Neurológicas
 
+- [[Parálisis Facial Periférica]] (diferencial, protección ocular y manejo por causa)
+- [[Hipoacusia - Evaluación Urgente]] (pérdida brusca de audición y asociación con vértigo)
 - [[Vértigo en Urgencias]] (central vs periférico — HINTS, Dix-Hallpike)
 - [[Mareo y Vértigo - Abordaje Diagnóstico]] (anamnesis estructurada TiTrATE/ATTEST, clasificación Bárány, diferencial por duración)
 - [[Síncope Neurológico]] (clasificación, riesgo cardiogénico, ECG obligatorio)

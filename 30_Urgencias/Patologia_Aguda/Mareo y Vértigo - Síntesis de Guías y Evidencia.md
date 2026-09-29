@@ -13,11 +13,17 @@ aliases:
 categoria: Urgencias
 fuente: "Síntesis Exa multi-fuente: GRACE-3 (Acad Emerg Med 2023), TiTrATE (Newman-Toker), AAO-HNS (VPPB 2017 / Ménière 2020), Cochrane, Kattah/Newman-Toker (HINTS)"
 fecha: 2026-05-27
+fecha_revision: 2026-09-29
+ambito: Adultos; síntesis de guías
+estado_revision: Revisión focal de seguridad y conexión FJD; no revalidación integral de evidencia heredada
 ---
 # Mareo y Vértigo — Síntesis de Guías y Evidencia
 
 > [!info] Qué es esta nota
 > Nota **complementaria** centrada en guías internacionales, cifras de rendimiento diagnóstico y evidencia (Cochrane, GRACE-3). Para el **workup clínico detallado** ver [[Mareo y Vértigo - Abordaje Diagnóstico]]; para el **protocolo de urgencias y tratamiento por entidad** ver [[Vértigo en Urgencias]].
+
+> [!note] Actualización focal 29/09/2026
+> La pauta/circuito FJD 2026 se concentra en [[Vértigo en Urgencias]]; el PDF tiene fecha editorial octubre de 2026 y activación no confirmada. Esta nota mantiene el papel de contraste internacional. Se han corregido usos de HINTS fuera de población, garantías diagnósticas excesivas y pautas farmacológicas discordantes; la epidemiología restante no se ha reauditado íntegramente.
 
 ## 🧭 1. Cambio de paradigma: cronología + desencadenantes, no "tipo de mareo"
 
@@ -35,26 +41,26 @@ El enfoque por **calidad del síntoma** (vértigo vs presíncope vs inestabilida
 
 ## 🔬 2. HINTS / HINTS+ — solo en AVS con nistagmo espontáneo
 
-Tres pruebas a pie de cama. Paradójicamente, los hallazgos **"tranquilizadores" indican centralidad**:
+Tres pruebas interpretadas **en conjunto, por un explorador formado**, en un síndrome agudo continuo con nistagmo espontáneo. No aplicarlas a cualquier mareo ni al paciente asintomático entre episodios; el HIT aislado no permite excluir ictus.
 
 | Prueba | Periférico (neuritis) | Central (ictus) → peligro |
 |---|---|---|
 | **H**ead Impulse Test | **Anormal** (sacada de refijación) | **Normal** (¡VOR intacto!) |
 | **N**ystagmus | Unidireccional, horizontal, se suprime con fijación | **Cambia de dirección** con la mirada, vertical o torsional puro |
 | **T**est of Skew (cover) | Ausente | **Desviación vertical** (skew) |
-| **+ audición** (HINTS+) | Normal | **Hipoacusia súbita** → infarto AICA |
+| **+ audición** (HINTS+) | Sin pérdida nueva | **Hipoacusia unilateral nueva** → posible isquemia AICA/laberíntica, no confirmación de origen periférico |
 
 - Centralidad → mnemotecnia **INFARCT** (Impulse Normal, Fast-phase Alternating, Refixation on cover test).
-- **Rendimiento:** HINTS bien hecho **sens. ~95–100% / esp. ~90%** y **supera a la RM-difusión en las primeras 24–48 h** (Kattah 2009; Newman-Toker 2014: RM hasta **50% falsos negativos** en infartos <48 h).
+- **Rendimiento:** depende de entrenamiento y población de estudio. Los resultados de cohortes expertas no se trasladan sin más a cualquier guardia; una RM precoz negativa tampoco resuelve una sospecha clínica persistente.
 
 > [!warning] Tres trampas
 > - HINTS **solo es válido en AVS con nistagmo espontáneo** y por explorador entrenado. Sin entrenamiento, la especificidad cae.
-> - **~50% de los ictus cerebelosos NO tienen nistagmo** → entonces HINTS no aplica: usa la **marcha / ataxia troncal**.
-> - **HINTS + ataxia troncal grave** (no puede sentarse sin apoyo) ≈ **100% sensibilidad** para ictus, mejor que HINTS solo.
+> - Sin nistagmo, HINTS no es la herramienta indicada: valorar **marcha / ataxia troncal** y resto de exploración.
+> - HINTS central/equívoco o ataxia grave requieren valoración urgente; no usar una cifra de sensibilidad como garantía de descarte. [GRACE-3](https://www.saem.org/publications/grace/grace-3).
 
-**Neuroimagen — banderas rojas que la obligan:** déficit focal, nistagmo central, skew, HIT normal en AVS, ataxia troncal severa, hipoacusia súbita unilateral, cefalea/cervicalgia nueva, edad >60 con FRCV.
+**Valoración urgente e imagen dirigida según sospecha:** déficit focal, HINTS central/equívoco, ataxia grave, hipoacusia nueva con SVA o cefalea/cervicalgia nueva. La edad/FRCV modifican la probabilidad; no son un umbral aislado que sustituya la exploración.
 - **TC casi inútil** en fosa posterior precoz (sens. ~10–16%).
-- Pedir **RM-difusión**; repetir 48–72 h si alta sospecha y primera negativa.
+- HINTS central/equívoco → **RM con difusión ± estudio vascular**. Sin explorador formado, valoración experta y decisión de imagen; si persiste sospecha con RM precoz negativa, acordar reevaluación/repetición con Neurología. No esperar un plazo fijo ante deterioro.
 
 ## 🩺 3. Síndromes y tratamiento específico
 
@@ -63,7 +69,7 @@ Tres pruebas a pie de cama. Paradójicamente, los hallazgos **"tranquilizadores"
 **VPPB (lo más frecuente).**
 - **Dx:** Dix-Hallpike (canal posterior, ~85%): nistagmo torsional-vertical, latencia breve, <1 min, fatigable. Test de giro supino para canal horizontal.
 - **Tto: maniobras de reposición, NO fármacos** (recomendación en contra explícita de AAO-HNS):
-  - *Canal posterior* → **Epley** (4 posiciones, 30–60 s c/u): 80–90% éxito en 1 sesión. Alternativa **Semont** (preferible si estenosis cervical).
+  - *Canal posterior* → **Epley** (4 posiciones, 30–60 s c/u): 80–90% éxito en 1 sesión. Alternativa **Semont**, si puede realizarse con seguridad. La estenosis o limitación cervical exige valorar movilidad y riesgos, adaptar la maniobra o derivar a un profesional competente; no implica que Semont sea automáticamente segura. [AAO-HNS, excepciones para maniobras](https://www.entnet.org/resource/aao35-benign-positional-paroxysmal-vertigo-bppv-dix-hallpike-and-canalith-repositioning-2/).
   - *Canal horizontal* → **Lempert/barbacoa** (giros de 90° hacia el lado sano, 270–360°) o **Gufoni**.
   - Recurrencia ~36% a 4 años. Sin restricciones posturales posteriores.
 
@@ -79,10 +85,11 @@ Tres pruebas a pie de cama. Paradójicamente, los hallazgos **"tranquilizadores"
 
 **Enfermedad de Ménière.**
 - **Dx:** ≥2 crisis de vértigo 20 min–12 h + hipoacusia neurosensorial de frecuencias bajas-medias confirmada + síntomas auditivos fluctuantes (acúfeno, plenitud).
-- **Tto (escalonado):** restricción de sal <2 g/día → **betahistina 16 mg/8 h** ± diurético tiazídico → corticoide/gentamicina **intratimpánica** si refractario.
+- **Crisis:** sintomático breve, seleccionado según paciente; ver [[Vértigo en Urgencias]].
+- **Mantenimiento individualizado por ORL:** consejo dietético y de hábitos, sin fijar aquí un umbral universal de sal/sodio; betahistina y/o diuréticos son opciones para reducir o prevenir episodios, no tratamiento abortivo. En enfermedad refractaria, ORL valora tratamiento intratimpánico según respuesta y riesgos. [AAO-HNSF 2020, KAS 7–9 y 11–12](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599820909438).
 
 **AIT vertebrobasilar.**
-- **Dx:** vértigo breve + FRCV, **ABCD2**, signos HINTS centrales. Distinguir de migraña vestibular: edad mayor, sin antecedente migrañoso, inicio brusco sin desencadenante.
+- **Dx:** historia y exploración neurológica dirigidas; HINTS **no es aplicable si el episodio ha cedido**. FRCV e inicio brusco aumentan sospecha; ABCD2 no excluye etiología vascular. Si se sospecha AIT, angio-TC/angio-RM según GRACE-3 y circuito neurológico.
 - **Tto:** RM-difusión + angio, antiagregación/anticoagulación, prevención secundaria.
 
 ### AVS — vestibular agudo continuo
@@ -96,19 +103,20 @@ Tres pruebas a pie de cama. Paradójicamente, los hallazgos **"tranquilizadores"
 | Audición | Normal | Hipoacusia (AICA) |
 | Imagen | No urgente | **RM-difusión urgente** |
 
-- **Neuritis — Tto:** antieméticos + supresor vestibular **solo 24–72 h**; **corticoides controvertidos** (Cochrane: mejora la recuperación calórica precoz, **sin beneficio sintomático a 12 meses** → no rutinarios); pilar = **rehabilitación vestibular precoz**.
+- **Neuritis — Tto:** sintomático breve y rehabilitación precoz; GRACE-3 propone decisión compartida sobre corticoide en los primeros 3 días, con certeza muy baja. Pauta FJD y contraste SEN/Manual separados en [[Vértigo en Urgencias#Neuritis vestibular (SVA periférico)]].
 - **Ictus — Tto:** vía ictus (trombólisis <4,5 h), ingreso (riesgo de edema cerebeloso / hidrocefalia → neurocirugía), prevención secundaria. Ver [[Ictus Isquémico]].
 
 ## 💊 4. Farmacología sintomática (España) — regla de oro
 
-| Fármaco | Dosis | Vía | Indicación | Advertencia |
-|---|---|---|---|---|
-| **Sulpirida** (Dogmatil) | 50–100 mg/8–12 h | VO/IM/IV | Crisis aguda incapacitante | **Máx. 72 h**; parkinsonismo en mayores |
-| **Dimenhidrinato** | 50 mg/4–6 h | VO/IM/IV | Vértigo agudo | **Máx. 72 h**; menos extrapiramidalismo |
-| **Ondansetrón** | 4–8 mg/8 h | VO/IV | Náusea/vómito (**preferible** en urgencias) | Poco sedante, no interfiere exploración |
-| **Metoclopramida** | 10 mg/8 h | VO/IV | Náusea/vómito | Sedante; discinesia si se prolonga |
-| **Diazepam / lorazepam** | 5–10 mg / 1–2 mg | VO/IV | Crisis grave refractaria | **Máx. 48 h**; dependencia, caídas |
-| **Betahistina** (Serc) | 16 mg/8 h | VO | **Ménière (profilaxis)** | Efecto lento; no para la crisis |
+Las dosis locales y sus salvedades se consultan en [[Vértigo en Urgencias#Neuritis vestibular (SVA periférico)]]. Mantener una pauta única evita mezclar vías y frecuencias de distintas fuentes.
+
+| Fármaco/grupo | Papel y límite de esta revisión |
+|---|---|
+| **Sulpirida** | Pauta local VO o **IM**; Dogmatil inyectable no tiene vía IV en la ficha CIMA consultada. Ajustar por función renal y revisar QT/EPS. |
+| **Metoclopramida** | Náuseas/vómitos; aplicar límites de dosis/peso y duración CIMA. No sumar automáticamente a otro antidopaminérgico. |
+| **Diazepam** | Alternativa seleccionada; FJD indica no asociar con sulpirida. Rescate IV supervisado, no pauta de alta automática. |
+| **Dimenhidrinato / ondansetrón** | Alternativas descritas en SEN; no se fija aquí dosis/vía sin seleccionar producto y situación. FJD 2026 no declara ondansetrón como opción preferente. |
+| **Betahistina / diuréticos** | Opciones de mantenimiento en Ménière, no tratamiento abortivo automático de la crisis (AAO-HNSF 2020). |
 
 > [!danger] Dos errores farmacológicos clásicos
 > 1. **Supresores vestibulares en el VPPB** → inútiles y contraproducentes. El VPPB se trata con **maniobras**.
@@ -116,12 +124,17 @@ Tres pruebas a pie de cama. Paradójicamente, los hallazgos **"tranquilizadores"
 
 ## 🚦 5. Criterios de ingreso / derivación
 
-- **Alta + ORL preferente:** VPPB resuelto con Epley; neuritis sin focalidad (+ rehabilitación).
+- **Alta si evaluación compatible con perifericidad y sin alarmas:** FJD indica consulta general ORL de **prioridad normal** tras mejoría. Hipoacusia súbita y los criterios de alerta siguen su circuito propio, detallado en [[Vértigo en Urgencias]].
 - **Ingreso / neurología urgente:** HINTS central, ataxia troncal, focalidad, hipoacusia súbita + vértigo, sospecha de ictus/AIT.
 - **Derivación neurología (no urgente):** migraña vestibular, vértigos recurrentes inexplicados.
 - **Neurotología / ORL:** Ménière (audiometría), vértigo recurrente o refractario.
 
 ## 📚 Fuentes
+
+- [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Sd Vestibular 2026.pdf#page=1|FJD, síndrome vestibular 2026, p. 1]]: fecha editorial octubre de 2026; activación no confirmada.
+- [SAEM: recomendaciones GRACE-3](https://www.saem.org/publications/grace/grace-3), consultadas 29/09/2026.
+- [CIMA Dogmatil IM](https://cima.aemps.es/cima/dochtml/ft/48557/FT_48557.html) y [CIMA metoclopramida oral](https://cima.aemps.es/cima/dochtml/ft/41446/FT_41446.html), correcciones de vía y límites.
+
 
 - [GRACE-3 — Acute Dizziness and Vertigo in the ED (Acad Emerg Med 2023)](https://onlinelibrary.wiley.com/doi/10.1111/acem.14728)
 - [TiTrATE — Newman-Toker et al. (Neurol Clin 2015)](https://www.sciencedirect.com/science/article/abs/pii/S0733861915000353)
