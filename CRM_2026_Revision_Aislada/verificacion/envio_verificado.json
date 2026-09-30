@@ -1,0 +1,37 @@
+{
+  "message_id": "1a0f15ea8d7daf9e",
+  "thread_id": "1a0f15ea8d7daf9e",
+  "to": "arenasjuan10@gmail.com",
+  "subject": "CRM 2026 — revisión clínica en Markdown y HTML",
+  "date": "Wed, 30 Sep 2026 01:11:47 -0700",
+  "sent_label_confirmed": true,
+  "attachments": [
+    {
+      "filename": "Algoritmos_CRM_2026_Revision_Clinica.md",
+      "mime_type": "text/markdown",
+      "bytes": 98153,
+      "expected_bytes": 98153,
+      "attachment_present": true,
+      "content_disposition": "attachment; filename=\"Algoritmos_CRM_2026_Revision_Clinica.md\""
+    },
+    {
+      "filename": "Algoritmos_CRM_2026_Revision_Clinica.html",
+      "mime_type": "text/html",
+      "bytes": 151553,
+      "expected_bytes": 151553,
+      "attachment_present": true,
+      "content_disposition": "attachment; filename=\"Algoritmos_CRM_2026_Revision_Clinica.html\""
+    }
+  ],
+  "scope": "Mensaje leído mediante API después del envío; presencia, nombres, MIME y tamaños comprobados. No implica lectura por el destinatario.",
+  "local_files_sha256": {
+    "md": {
+      "bytes": 98153,
+      "sha256": "55ba2b03fc3eae03b0645fbf632cca44cfb0fb1b15e25777ddeccf9bdda99e05"
+    },
+    "html": {
+      "bytes": 151553,
+      "sha256": "6b23b1ab2061697d251d200245f210ec8824ed43f88a69f1c43ec3f84fac6116"
+    }
+  }
+}

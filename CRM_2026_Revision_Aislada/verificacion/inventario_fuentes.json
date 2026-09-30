@@ -1,0 +1,32 @@
+[
+  {
+    "archivo": "ESC_ERC_2026_diapositivas.pdf",
+    "bytes": 4559442,
+    "sha256": "723c28ea07e1ced0f8dc328aee262b2f31c37612014519937c5cae5ffcce33b4"
+  },
+  {
+    "archivo": "ESC_IC_2026_diapositivas.pdf",
+    "bytes": 8857570,
+    "sha256": "432de58295936cd6418cbd6e7152c56775017ab07080fb8b83e96e07c9a2e639"
+  },
+  {
+    "archivo": "ESC_IC_2026_suplemento.pdf",
+    "bytes": 1110063,
+    "sha256": "96ecc055086054a103b548d664fc0a80daf5e9702c7eace7c639f01fc97d7d2f"
+  },
+  {
+    "archivo": "KDIGO_CRM_2026_Comentario.pdf",
+    "bytes": 8294942,
+    "sha256": "270e59ac8e139b270a4faa28bb7bee573003162733be8139dbc77b3de7b7506b"
+  },
+  {
+    "archivo": "KDIGO_Diabetes_2026_BORRADOR.pdf",
+    "bytes": 5843005,
+    "sha256": "874392d90b5878fb24bed265c594ef47c6151fe98c45d0cc8c131256379418c7"
+  },
+  {
+    "archivo": "KDIGO_IC_ERC_2026_Consenso.pdf",
+    "bytes": 3084682,
+    "sha256": "a2ce0fe27ffd9668b813e633f12f67bd77c5c1f95b85aa08057decef9a79a9a7"
+  }
+]

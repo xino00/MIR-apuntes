@@ -1,0 +1,51 @@
+{
+  "id": "1a0f1b42055bb5e1",
+  "labels": [
+    "UNREAD",
+    "SENT",
+    "INBOX"
+  ],
+  "headers": [
+    {
+      "name": "Subject",
+      "value": "CRM 2026 — HTML actualizado con 12 esquemas clínicos"
+    },
+    {
+      "name": "To",
+      "value": "arenasjuan10@gmail.com"
+    },
+    {
+      "name": "Date",
+      "value": "Wed, 30 Sep 2026 02:45:08 -0700"
+    }
+  ],
+  "attachments": [
+    {
+      "filename": "Algoritmos_CRM_2026_Revision_Clinica.html",
+      "mime_type": "text/html",
+      "size": 208542,
+      "attachment_id_present": true,
+      "body_keys": [
+        "size",
+        "base64_url_content",
+        "content",
+        "attachment_id"
+      ]
+    },
+    {
+      "filename": "Algoritmos_CRM_2026_Revision_Clinica.md",
+      "mime_type": "text/markdown",
+      "size": 98153,
+      "attachment_id_present": true,
+      "body_keys": [
+        "size",
+        "base64_url_content",
+        "content",
+        "attachment_id"
+      ]
+    }
+  ],
+  "verified": true,
+  "html_sha256": "746c991fd18864a6d4ebb03e412e3c96b4dcb069ccdc3dd4b4a075d2e7e5dfb8",
+  "markdown_sha256": "55ba2b03fc3eae03b0645fbf632cca44cfb0fb1b15e25777ddeccf9bdda99e05"
+}

@@ -1,0 +1,19 @@
+{
+  "word_count": 13599,
+  "tables": 11,
+  "headings": 54,
+  "internal_links": 56,
+  "broken_internal_links": [],
+  "identical_clinical_text": true,
+  "images": 0,
+  "files": {
+    "md": {
+      "bytes": 98153,
+      "sha256": "55ba2b03fc3eae03b0645fbf632cca44cfb0fb1b15e25777ddeccf9bdda99e05"
+    },
+    "html": {
+      "bytes": 151553,
+      "sha256": "6b23b1ab2061697d251d200245f210ec8824ed43f88a69f1c43ec3f84fac6116"
+    }
+  }
+}

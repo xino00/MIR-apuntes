@@ -1,0 +1,24 @@
+{
+  "word_count": 13599,
+  "original_tables": 11,
+  "tables_including_diagrams": 12,
+  "original_headings": 54,
+  "diagrams": 12,
+  "interactive_matrix_cells": 18,
+  "internal_links": 83,
+  "broken_internal_links": [],
+  "original_clinical_text_preserved": true,
+  "markdown_unchanged": true,
+  "images": 0,
+  "external_scripts": 0,
+  "files": {
+    "md": {
+      "bytes": 98153,
+      "sha256": "55ba2b03fc3eae03b0645fbf632cca44cfb0fb1b15e25777ddeccf9bdda99e05"
+    },
+    "html": {
+      "bytes": 208542,
+      "sha256": "746c991fd18864a6d4ebb03e412e3c96b4dcb069ccdc3dd4b4a075d2e7e5dfb8"
+    }
+  }
+}
