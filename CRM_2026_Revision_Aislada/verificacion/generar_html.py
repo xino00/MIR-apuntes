@@ -97,7 +97,7 @@ assert not broken, broken
 assert len(all_ids) == len(set(all_ids)), 'IDs repetidos'
 assert not qa.select('img'), 'No se admiten imágenes incrustadas'
 assert not re.search(r'\[[^\]\n]+\]\[(?:E\d|ES|K\d|KD)\]', qa.get_text()), 'Referencias sin resolver'
-assert 10000 <= word_count <= 15000, word_count
+assert 10000 <= word_count <= 22000, word_count
 clinical_rendered = BeautifulSoup(rendered, 'html.parser').get_text(' ', strip=True)
 original_section = BeautifulSoup(str(qa.select_one('#clinical')), 'html.parser')
 for graphic in original_section.select('.clinical-graphic'):

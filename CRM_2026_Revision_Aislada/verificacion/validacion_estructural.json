@@ -1,11 +1,11 @@
 {
-  "word_count": 13599,
-  "original_tables": 11,
-  "tables_including_diagrams": 12,
-  "original_headings": 54,
+  "word_count": 21324,
+  "original_tables": 23,
+  "tables_including_diagrams": 24,
+  "original_headings": 71,
   "diagrams": 12,
   "interactive_matrix_cells": 18,
-  "internal_links": 83,
+  "internal_links": 99,
   "broken_internal_links": [],
   "original_clinical_text_preserved": true,
   "markdown_unchanged": true,
@@ -13,12 +13,12 @@
   "external_scripts": 0,
   "files": {
     "md": {
-      "bytes": 98153,
-      "sha256": "55ba2b03fc3eae03b0645fbf632cca44cfb0fb1b15e25777ddeccf9bdda99e05"
+      "bytes": 145856,
+      "sha256": "3a4d77533a05520a0f98ea593413dd3a805af7eeff03db0ad0d976b76934fcf8"
     },
     "html": {
-      "bytes": 208542,
-      "sha256": "746c991fd18864a6d4ebb03e412e3c96b4dcb069ccdc3dd4b4a075d2e7e5dfb8"
+      "bytes": 271793,
+      "sha256": "1a99136ea0197be04011ce5207bd92151bd074a11d9b5c243ced971e0d438646"
     }
   }
 }

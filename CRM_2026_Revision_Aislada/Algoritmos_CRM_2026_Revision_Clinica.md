@@ -9,6 +9,7 @@ tags:
   - diabetes
   - revision-clinica
 fecha_corte: 2026-09-30
+ampliacion_esc_era: 2026-10-01
 fuentes: ESC y KDIGO publicadas en 2026; borrador KDIGO separado
 estado: revision-documental-con-limitaciones-regulatorias
 ---
@@ -29,6 +30,8 @@ Se aplica la restricción inicial **«ESC y KDIGO 2026 SOLO»**. Las fuentes pri
 
 La restricción de fuentes impide cumplir simultáneamente la petición posterior de contrastar con ADA, AHA/ACC/ADA/ASN, CIMA/AEMPS, ensayos originales y Manual del 12 de Octubre. **Esos documentos no se han utilizado ni se afirma haber realizado dicha comprobación.** Las dosis recogidas se verificaron en las fuentes ESC consultadas; una dosis estudiada o recomendada por una guía no equivale a una indicación autorizada en España. Donde falta una pauta completa dentro del corpus permitido, se identifica el dato pendiente. Este documento constituye una revisión clínica documentada, no una validación regulatoria de prescripción.
 
+**Ampliación del 1 de octubre de 2026:** el [apartado 9](#esc-era-claves) recorre las 34 tablas de recomendaciones de la guía ESC/ERA con su clase, su nivel, el porqué y la página, a partir del PDF íntegro disponible en local. Los apartados 1–8 no se han modificado.
+
 Las referencias aparecen junto a las decisiones relevantes. «Clase I» indica recomendación de la guía ESC; «IIa», que debe considerarse; «IIb», que puede considerarse; «III», que no se recomienda. No se equipara esta clasificación con la gradación GRADE de KDIGO. Cuando las fuentes difieren, se conserva el contexto: población, objetivo, fecha y tipo de documento. La sección de discrepancias permite localizar puntos que requieren especial cautela.
 
 ### Índice navegable
@@ -47,7 +50,11 @@ Las referencias aparecen junto a las decisiones relevantes. «Clase I» indica r
 - [6. Seguimiento, derivación y multimorbilidad](#seguimiento)
 - [7. Cuatro casos clínicos razonados](#casos)
 - [8. Diferencias entre documentos y borrador KDIGO](#diferencias)
-- [9. Referencias y límites de la verificación](#referencias)
+- [9. Guía ESC/ERA 2026: puntos clave y porqués](#esc-era-claves)
+  - [9.1. Diez puntos para la consulta](#esc-era-stamp)
+  - [9.8. Anticoagulación según FGe](#esc-era-anticoagulacion)
+  - [9.14. Lo que la guía desaconseja](#esc-era-no-hacer)
+- [10. Referencias y límites de la verificación](#referencias)
 
 ### Convenciones
 
@@ -581,8 +588,293 @@ Una hospitalización por IC, muerte cardiovascular o necesidad de tratamiento re
 
 Los resultados de ensayos se han utilizado **tal como los analizan las fuentes ESC/KDIGO**, sin atribuir una revisión independiente de los originales. Se han evitado estimaciones propias de reducción absoluta, NNT o beneficio aditivo de combinaciones. Las recomendaciones de guías, los resultados de ensayos y las indicaciones autorizadas son niveles distintos: este trabajo verifica el primero dentro del corpus y explicita los límites de los otros dos.
 
+<a id="esc-era-claves"></a>
+## 9. Guía ESC/ERA 2026: puntos clave y porqués
+
+**Ampliación del 1 de octubre de 2026.** Esta sección se ha escrito con el PDF íntegro de la guía (102 páginas, `Libros y referencias/ehag098.pdf`, DOI 10.1093/eurheartj/ehag098). Recorre sus 34 tablas de recomendaciones. Cada punto recoge la recomendación, su clase y nivel, **por qué** la formula la guía (el ensayo, el mecanismo o el límite de la evidencia que la justifica) y la página del PDF. Lo que ya se desarrolla en los apartados 2–6 se enlaza en lugar de repetirse. [ESC/ERA][E2].
+
+**Niveles de evidencia ESC 2026** (tabla 2, p. 10): **A**, evidencia concluyente, habitualmente ≥2 ECA con potencia adecuada; **B1**, al menos un ECA con potencia adecuada o metaanálisis de ECA; **B2**, ≥2 estudios no aleatorizados bien controlados o metaanálisis de ECA pequeños; **C**, evidencia preliminar o consenso. La guía expresa el CAC en mg/mmol; aquí se añade la equivalencia aproximada en mg/g (multiplicar por 10, figura 4).
+
+<a id="esc-era-stamp"></a>
+### 9.1. La idea central y diez puntos para la consulta
+
+La guía organiza sus mensajes con el acrónimo **STAMP**: *Screen* (cribar ERC), *Triage* (estadificar y estimar riesgo), *Address* (tratar el riesgo renal y CV), *Modify* (adaptar el manejo de cada ECV a la ERC) y *Plan* (organizar servicios) (§16, p. 75). El porqué de todo el documento es doble. Por un lado, la ERC multiplica el riesgo CV. Por otro, la ECV acelera la ERC: el riesgo de necesitar tratamiento renal sustitutivo es máximo en los tres meses siguientes a una ECV incidente, unas 2–4 veces mayor tras cardiopatía isquémica, ictus o FA y unas **45 veces** mayor tras IC (§3.6, figura 5, pp. 19–20). Además, los tratamientos de base tienen en la ERC un efecto relativo similar al de la población general. Como el riesgo absoluto es mayor, el beneficio absoluto también lo es (§16, p. 75).
+
+1. **Pedir FGe y CAC a toda persona con ECV**, incluida la HTA, y repetirlos al menos una vez al año si hay diabetes, ERC o ECV. *Por qué:* la albuminuria suele preceder al descenso del FGe, y sin CAC no se puede estimar el riesgo ni indicar iSGLT2, finerenona o semaglutida (pp. 16–17).
+2. **Calcular el KFRE en G3–G5 para decidir la derivación** (>3–5 % a cinco años). *Por qué:* el mapa KDIGO estratifica a la población, pero el KFRE da el riesgo absoluto individual y permite preparar el tratamiento sustitutivo a tiempo (p. 19).
+3. **Estatina ± ezetimiba con FGe <60 sin TRS, sea cual sea el LDL** (I A). *Por qué:* la reducción relativa de eventos por mmol/L de LDL no depende del LDL basal, y el beneficio relativo se atenúa con FGe <30, así que interesa empezar pronto y con intensidad (pp. 26–27).
+4. **IECA o ARA-II a dosis máxima tolerada + iSGLT2 en la mayoría de las ERC.** *Por qué:* son los dos pilares que frenan la progresión, y el iSGLT2 reduce además eventos CV y episodios de LRA (pp. 28–31).
+5. **El iSGLT2 se inicia con FGe ≥20 y se mantiene por debajo de 20 hasta el tratamiento sustitutivo.** *Por qué:* su beneficio renal no depende del efecto glucémico, que es mínimo con FGe <30 (p. 29).
+6. **En DM2 con albuminuria, añadir finerenona y semaglutida** según los criterios de la tabla 12. *Por qué:* actúan sobre vías distintas y cada una tiene ECA propios con reducción de eventos renales y CV (pp. 29–31).
+7. **Una caída del FGe <30 % al iniciar estos fármacos se tolera.** *Por qué:* refleja la corrección de la hiperfiltración, no pérdida de nefronas (pp. 31, 42–44).
+8. **FA con FGe ≥30: ACOD antes que AVK** (I A). Con FGe <30, las escalas CHA₂DS₂-VA y HAS-BLED no sirven: hay que asumir que el riesgo es alto tanto de ictus como de sangrado (pp. 59–60).
+9. **No posponer una coronariografía ni un TC con contraste por miedo a la nefropatía por contraste.** *Por qué:* el daño permanente es raro, y retrasar un procedimiento indicado sí causa daño (pp. 64–67).
+10. **No dar antiagregación en prevención primaria por ERC** (III B1). En cambio, en el SCC con ERC la antiagregación sí está indicada, y con FGe >30 el clopidogrel puede preferirse a la aspirina (pp. 28, 48–49).
+
+<a id="esc-era-cribado"></a>
+### 9.2. Cribado, diagnóstico y estratificación (tablas 1–7)
+
+| Punto clave | Clase · NE | Por qué | Pág. |
+|---|---|---|---:|
+| Clasificar la ERC por FGe y albuminuria en categorías de riesgo (mapa KDIGO) | I · A | FGe bajo y albuminuria predicen de forma independiente fallo renal y ECV | 14 |
+| Estimar el FGe con creatinina y una ecuación validada | I · A | En Europa, **CKD-EPI 2009 sin coeficiente racial** es el mejor compromiso; la de 2021 se desarrolló en EE. UU. y sobreestima el FGe en gran parte de Europa. El FGe es menos preciso por encima de 60 | 14 |
+| Medir CAC en orina matinal aislada | I · A | El cociente corrige la concentración urinaria; la primera orina de la mañana es la que mejor se correlaciona con la de 24 h. La tira reactiva solo detecta niveles A3 y falla con orina diluida | 14, 16 |
+| Dos determinaciones de FGe y CAC separadas ≥3 meses para confirmar cronicidad | I · C | La albuminuria sube transitoriamente con fiebre, ejercicio intenso o infección urinaria | 14, 16 |
+| FGe por cistatina C cuando la creatinina puede engañar | IIa · A | Masa muscular extrema o fármacos que bloquean la secreción tubular de creatinina (p. ej., trimetoprim). En la mayoría aporta más medir la albuminuria que refinar el FGe | 14 |
+| Tira reactiva para hematuria en toda ERC nueva | I · C | Hematuria + albuminuria → sospechar glomerulonefritis y derivar a Nefrología. La hematuria visible suele ser urológica → Urología | 16 |
+| Ecografía renal en ERC nueva o en caída brusca del FGe sin explicación | IIa · C | Tamaño renal (cronicidad), obstrucción; una asimetría obliga a buscar estenosis de arteria renal | 16 |
+| Estudio de estenosis renovascular si: ERC rápidamente progresiva sin causa; **cambio ≥30 % del FGe al iniciar o retirar un fármaco con efecto hemodinámico renal** (IECA, ARA-II, iSGLT2, ARM); edema agudo de pulmón *flash* recurrente; HTA resistente con ≥4 fármacos | IIa · C | Los ensayos de stent fueron negativos, pero excluyeron a quienes tenían un beneficio claro de la angioplastia | 16 |
+| Descartar amiloidosis o Fabry ante IC sin explicación con ERC | IIa · C | Sobre todo en personas jóvenes; cambia el tratamiento específico | 16 |
+| Cribado de ERC con FGe + albuminuria en toda ECV (HTA, cardiopatía isquémica, IC, EAP, ictus) | I · C | Necesario para estimar riesgo, elegir tratamientos modificadores, ajustar dosis y derivar a tiempo | 16 |
+| Repetir el FGe al menos anualmente si hay diabetes o alto riesgo; la albuminuria, si hay diabetes, HTA, FGe bajo, hematuria o si su cambio modificaría el tratamiento | I · C | Detectar progresión y reclasificar. La frecuencia es de consenso; en bajo riesgo, cada 2–3 años puede bastar | 17 |
+| Repetir en días o semanas una alteración nueva e inesperada | I · C | No pasar por alto una LRA, que requiere evaluación más urgente | 17 |
+| FGe más frecuente si hay riesgo de LRA o fármacos de eliminación renal y margen estrecho | IIa · C | Detectar a tiempo LRA o progresión y ajustar dosis | 17 |
+| Ajustar dosis y vigilar FGe, iones, QT y niveles en fármacos renales de margen estrecho | I · C | La ERC predispone a QT largo. El FGe del laboratorio está indexado a 1,73 m²: con superficie corporal muy alta o baja, desindexar (FGe × SC/1,73). Cockcroft-Gault sobreestima por secreción tubular de creatinina | 17 |
+| Usar el **KFRE** en G3–G5 para el riesgo absoluto de tratamiento sustitutivo | I · A | Un riesgo >3–5 % a cinco años es el criterio propuesto de derivación. El mapa KDIGO sirve para prevenir antes; el KFRE, para derivar a tiempo | 19 |
+| Buscar en cada visita síntomas y signos de HTA, ECVA, IC, arritmias y valvulopatía | I · C | Tras un primer evento, la ERC aumenta la recurrencia | 21 |
+| Considerar **riesgo CV muy alto** la ERC grave: FGe <30; FGe 30–44 con CAC 30–300 mg/g; CAC >300 mg/g con cualquier FGe | I · B | El riesgo crece de forma continua al bajar el FGe y subir la albuminuria, de modo similar por edad, sexo y diabetes | 22 |
+| Considerar **riesgo CV alto** la ERC moderada sin otros factores mayores: FGe 30–44 con CAC <30 mg/g; FGe 45–59 con CAC 30–300 mg/g | I · B | Optimizar la prevención primaria sin esperar a una calculadora | 22 |
+| Si se necesita una estimación precisa: SCORE2 (<70 años) o SCORE2-OP (≥70) **con complemento ERC** si no hay DM2 ni ECVA; SCORE2-Diabetes en DM2 sin ECVA; SMART2 en ECVA establecida | I · B | SCORE2 infraestima el riesgo en ERC; el complemento ERC reclasifica alrededor del 14 % de las personas al alza y del 15 % a la baja. SCORE2-Diabetes no incluye albuminuria, así que en A3 el riesgo real probablemente es mayor que el estimado | 22–23 |
+
+**Criterios de consulta o derivación a Nefrología** (figura 4, p. 18): riesgo muy alto en el mapa KDIGO; FGe <30; CAC ≥70 mg/mmol (≈700 mg/g); CAC ≥30 mg/mmol (≈300 mg/g) con hematuria; duplicación del CAC cuando el basal ya es ≥30 mg/mmol; KFRE >3–5 % a cinco años; alteraciones metabólicas propias de ERC grave. También: sospecha de enfermedad glomerular, LRA de causa desconocida y trasplantados. La obstrucción va a Urología. Las calculadoras no deben sumar riesgos de ECVA y de IC procedentes de ecuaciones distintas, porque se inflaría la estimación, y no valen en tratamiento sustitutivo (tabla 4, p. 23). Complementa el [apartado 6.2](#seguimiento).
+
+<a id="esc-era-complicaciones"></a>
+### 9.3. Complicaciones de la ERC con impacto cardiovascular (§3.7)
+
+Esta parte es texto narrativo, sin tabla de recomendaciones, salvo donde se indica.
+
+- **Potasio.** Un umbral conservador para actuar son cifras **>5,5 mmol/L repetidas**. En ERC con hiperpotasemia crónica suelen justificarse umbrales algo más altos (p. ej., >5,7), procurando no llegar a 6,0. El riesgo de arritmia grave aumenta sobre todo por encima de 6,5. Orden propuesto: revisar fármacos, corregir la acidosis, mejorar el control glucémico y después valorar diurético de asa y dieta; los quelantes (patiromer, ciclosilicato de sodio y zirconio) se reservan para la hiperpotasemia refractaria. *Por qué importa en urgencias:* **la insulina con glucosa no elimina potasio**, solo lo desplaza; con FGe muy bajo u oliguria, la hiperpotasemia grave refractaria puede necesitar diálisis urgente (p. 19). Complementa el [apartado 5.4](#descompensaciones).
+- **Anemia y hierro.** La anemia renal suele aparecer cuando el FGe ya está moderada o gravemente reducido. Los AEE se inician con Hb por debajo de 9–10 g/dL, sin superar 11,5 g/dL. Buscar la corrección completa con AEE está **desaconsejado (III A)** porque aumenta el ictus, y los ECA no mostraron menos eventos CV (pp. 20, 57). El hierro oral puede empezar antes (Hb <13 g/dL en varones y <12 en mujeres). En ERC sin diálisis es razonable suplementar hierro si la ferritina es <100 µg/L con IST <40 %, o si la ferritina está entre 100 y 300 µg/L con IST <25 % (p. 20).
+- **Acidosis metabólica.** Álcali oral (bicarbonato sódico) solo si el bicarbonato sérico es <18 mmol/L, vigilando PA y volumen, sobre todo en ERC grave o IC. Su beneficio clínico definitivo no está demostrado en ECA (p. 21).
+- **Fósforo.** Pedir consejo nefrológico si el fosfato está elevado (p. ej., >1,7 mmol/L). Anemia, hiperfosfatemia, hiperparatiroidismo y acidosis suelen aparecer con FGe <30 (pp. 19, 21).
+
+<a id="esc-era-riesgo"></a>
+### 9.4. Reducir el riesgo renal y cardiovascular (tablas 8–13)
+
+Desarrollado operativamente en los [algoritmos 1–3](#algoritmo-3), [4.7](#prescripcion) y [4.8](#prescripcion). Aquí se añaden la clase, el nivel y el porqué de cada recomendación.
+
+| Punto clave | Clase · NE | Por qué | Pág. |
+|---|---|---|---:|
+| Dejar de fumar con programas específicos | I · B1 | Los programas intensivos (sustitutos de nicotina + intervención conductual) superan al consejo breve. **La vareniclina requiere reducir la dosis con FGe bajo** | 24 |
+| Dieta individualizada con sodio <2 g/día (≈ <5 g de sal) y abundante verdura | I · B1 | La ERC es sal-sensible; restringir sodio baja la PA y la albuminuria, mejora los eventos CV y potencia los diuréticos. Los sustitutos de sal con potasio carecen de datos de seguridad en ERC | 24 |
+| Perder peso hasta un IMC de 18,5–25 si el IMC es ≥25, con o sin fármacos | I · B2 | Mejora PA y lípidos; en Look-AHEAD, la intervención intensiva redujo el empeoramiento de la categoría de ERC | 24 |
+| Actividad física (≥150 min/semana moderada, si es posible) | I · B2 | No hay ECA con eventos en ERC; se aplican las recomendaciones generales adaptadas a la ECV y a las limitaciones | 24 |
+| Cribado de HTA con medición estandarizada **atendida** en consulta | I · A | Diagnóstico y confirmación precoces | 25 |
+| Con FGe ≥30 y PA confirmada ≥130/80: intensificar estilo de vida y fármacos | I · A | La ERC moderada y la grave son de riesgo CV alto y muy alto, respectivamente | 25–26 |
+| **Objetivo de PAS 120–129 mmHg** si se tolera, con FGe ≥30 | I · A | En SPRINT, el 28 % tenía ERC y el beneficio CV fue similar. Bajar de 120 aumentó la caída ≥30 % del FGe en personas sin ERC (también en ESPRIT), lo que crea incertidumbre renal. El objetivo KDIGO <120 se apoya en medidas no atendidas, que dan cifras más bajas | 25 |
+| Elección de fármacos para la PA | — | Priorizar IECA/ARA-II e iSGLT2; si hace falta más, calcioantagonista dihidropiridínico y/o diurético. Tiacida preferible con FGe ≥30 (potencia la reducción de albuminuria de IECA/ARA-II); de asa por debajo, aunque la tiacida sigue siendo segura. Espironolactona en HTA resistente con FGe ≥30 si el K lo permite y **no toma finerenona** | 25 |
+| AMPA o MAPA en ERC | I · C | Detectar HTA de bata blanca, HTA enmascarada y PA nocturna elevada | 26 |
+| Objetivo individualizado con FGe <30 | I · C | Las personas con FGe <30 no estuvieron en SPRINT. Una PAS de 120–129 parece razonable para muchas | 25–26 |
+| Perfil lipídico basal en toda ERC nueva | I · C | Detectar alteraciones y estimar riesgo | 27 |
+| No-HDL o apoB como alternativa al LDL si hay triglicéridos altos o diabetes | IIa · C | El LDL no recoge las lipoproteínas ricas en triglicéridos ni sus remanentes | 27 |
+| **Pauta basada en estatina, intensiva y segura en ERC, con FGe <60 sin TRS, sea cual sea el LDL** | I · A | En SHARP, simvastatina 20 mg + ezetimiba 10 mg redujo un 17 % los eventos ateroscleróticos mayores. El beneficio depende de la reducción absoluta del LDL y su efecto relativo se atenúa con FGe <30, así que conviene empezar pronto y con intensidad. Se acepta una estrategia de «iniciar y no perseguir cifras» en prevención primaria. Alrededor de la mitad de las personas en G3–G5 de grandes países europeos no recibe tratamiento | 26–27 |
+| Estatina en trasplantados renales | IIa · B1 | ALERT (fluvastatina) y su metaanálisis; con ciclosporina, dosis máximas de atorvastatina 10, fluvastatina 40, pravastatina 20 y rosuvastatina 5 mg; evitar simvastatina, lovastatina y pitavastatina | 26–27 |
+| Diálisis: mantener la estatina al iniciarla (IIb C); iniciarla si hay ECVA (IIb C) o si se planea trasplante (IIb C) | IIb · C | Los ensayos con atorvastatina y rosuvastatina en hemodiálisis fueron neutros; en SHARP el efecto fue coherente tras ajustar por el LDL alcanzado | 27 |
+| **No** antiagregar de forma rutinaria con FGe <60 sin ECVA sintomática | III · B1 | El beneficio relativo es similar al de la población general, pero el aumento de sangrado mayor lo compensa. El ensayo ATTACK está pendiente | 28 |
+| IECA o ARA-II a dosis máxima tolerada en la mayoría de las ERC | I · A | Reducen el fallo renal en nefropatía diabética y en ERC no diabética proteinúrica; es un efecto de clase. Excepción: sin albuminuria, con PA normal o baja y sin IC no hay ensayos | 28, 31 |
+| **No** combinar IECA con ARA-II | III · A | Más LRA e hiperpotasemia sin beneficio renal, CV ni en mortalidad | 31 |
+| iSGLT2 en DM2 con ERC y FGe ≥20, **con independencia del control glucémico** | I · A | CREDENCE, DAPA-CKD y EMPA-KIDNEY: unos −40 % de progresión, con independencia del FGe basal y del IECA/ARA-II. Reducen la muerte CV (por IC y súbita) y la LRA notificada (≈ −25 %). Es un efecto de clase | 28–29, 31 |
+| iSGLT2 sin diabetes con FGe ≥20 y CAC ≥200 mg/g | I · A | Población estudiada en DAPA-CKD y EMPA-KIDNEY | 29, 31 |
+| iSGLT2 sin diabetes con FGe 20–44 y CAC <200 mg/g | IIa · B1 | Frenan la progresión. Con FGe 45–59 o CAC 30–199 mg/g sin diabetes ni IC no hay recomendación definitiva: no se han estudiado en grandes ECA | 29, 31 |
+| Finerenona en DM2 con FGe ≥25 y CAC ≥30 mg/g | I · A | FIDELIO-DKD y FIGARO-DKD (~13 000 pacientes con IECA/ARA-II a dosis máxima): −23 % del compuesto renal y −14 % del CV, sobre todo por menos hospitalizaciones por IC. Alrededor del 40 % tenía FGe >60, así que **solo el CAC los identificaba**. Hiperpotasemia: 14,0 % frente a 6,9 %, sin casos mortales. Iniciar con K ≤5,0 (los ensayos exigían ≤4,8) | 29–31 |
+| Semaglutida 1 mg s.c. semanal tras titulación: DM2 con FGe 25–49 y CAC ≥100 mg/g, o FGe 50–74 y CAC ≥300 mg/g | I · A | FLOW: −24 % del compuesto renal, −18 % de MACE y pendiente de caída del FGe un tercio más lenta. Abandono por efectos digestivos del 4,5 % frente al 1,1 %. Discrepancia con el texto narrativo: ver [8.2](#diferencias) | 30–31 |
+| ARM esteroideo: no rutinario en ERC | — | Su efecto renal es incierto y aumenta la hiperpotasemia. Es una alternativa a la finerenona si hay IC, HTA resistente o hiperaldosteronismo y el potasio lo permite | 30 |
+| iSGLT2 y AR GLP-1 de primera línea para la glucemia en DM2 con ERC | I · A | Se eligen por su beneficio renal y CV, no por su potencia hipoglucemiante | 34 |
+| Insulina si no se alcanza el objetivo con fármacos orales o AR GLP-1 | I · A | Necesaria para el control, sin beneficio CV y con aumento de peso | 34 |
+| HbA1c individualizada entre <6,5 % y <8,0 %, con <7,0 % cuando sea posible | I · B1 | Intensificar reduce las complicaciones microvasculares y algo el IAM, pero no el ictus, la IC, la EAP ni la mortalidad; la hipoglucemia aumenta la ECV. HbA1c al menos dos veces al año | 34 |
+| Metformina con FGe ≥30 como hipoglucemiante adicional | IIa · B1 | No ha demostrado reducir el riesgo CV en ERC. Reducir la dosis con FGe <45 (p. ej., 500 mg una o dos veces al día); suspender con <30 | 34 |
+| Sulfonilurea como adicional | IIb · C | Hipoglucemia y peso, sin beneficio CV | 34 |
+| iDPP-4 si el AR GLP-1 no se tolera o está contraindicado | IIb · B1 | La linagliptina mejora la glucemia sin beneficio CV ni renal. Cautela en IC con saxagliptina y alogliptina; glitazonas limitadas por el riesgo de IC | 34 |
+
+**Monitorización e inicio combinado** (figura 8 y §5.5.5, pp. 31–33). Las caídas del FGe <30 % al iniciar se toleran. Tras iniciar un iSGLT2 o un AR GLP-1 **no hace falta controlar el FGe más que en el seguimiento habitual de la ERC**, salvo sospecha de depleción de volumen; los controles extra cuestan, molestan y provocan suspensiones innecesarias. El potasio sí se vigila tras IECA/ARA-II y ARM. Los iSGLT2 reducen algo la hiperpotasemia y facilitan mantener IECA/ARA-II y ARM. **El inicio simultáneo de empagliflozina y finerenona es seguro**, con una caída inicial del FGe mayor. No hay un orden óptimo demostrado; en pacientes de riesgo alto o progresión rápida, se priorizan iniciar y titular en visitas sucesivas próximas. Esperar a que el CAC suba o el FGe baje hasta el umbral de los ensayos puede hacer perder la ventana de intervención, así que una aplicación menos estricta de los umbrales es razonable cuando el tratamiento es sencillo, seguro y coste-efectivo. Las «reglas de los días de enfermedad» tienen poca base, y lo importante es enseñar a **reiniciar** el tratamiento.
+
+<a id="esc-era-ic"></a>
+### 9.5. Insuficiencia cardiaca con ERC (tablas 14–19)
+
+Alrededor del 50 % de los pacientes de los ensayos de IC tenía FGe <60, y no hay evidencia de que el efecto relativo de los tratamientos difiera en ERC. Aun así, los tratamientos de base se infrautilizan en estos pacientes (p. 35). El manejo general sigue la guía de IC 2026 ([algoritmo 5](#algoritmo-5)).
+
+| Punto clave | Clase · NE | Por qué | Pág. |
+|---|---|---|---:|
+| Péptidos natriuréticos como cribado de cardiopatía estructural o IC en ERC | IIb · C | Los PN aumentan y fluctúan con FGe bajo y no hay puntos de corte por estadio. En 453 ambulatorios con FGe mediano de 27, un NT-proBNP ≥500 pg/mL tuvo sensibilidad del 69 % y especificidad del 80 %, mientras que <125 conservó una sensibilidad alta para descartar. Más del 90 % ya estaba en estadio B o C | 35 |
+| Diurético de asa para la sobrecarga de volumen | I · A | Alivia síntomas y mejora la capacidad de esfuerzo. Con FGe bajo la respuesta disminuye y se necesitan dosis mayores. Las tiacidas no son de primera línea por más efectos adversos (hipopotasemia) | 35, 39 |
+| iSGLT2 con FGe ≥20, con cualquier FEVI | I · A | EMPEROR y DAPA-HF/DELIVER, con beneficio mantenido también con FGe 20–30. Tras la caída inicial, frenan el descenso del FGe | 35, 39 |
+| ARM esteroideo en IC con FEVI reducida y FGe ≥30 | I · A | Beneficio en ERC sin interacción con el FGe; en RALES y EMPHASIS-HF se mantuvo aunque el FGe cayera por debajo de 30. A diferencia de los iSGLT2, no frenan la pendiente del FGe | 36, 39 |
+| ARM (esteroideo o finerenona) con FEVI ≥40 % y FGe ≥25 (esteroideo: >30) | IIa · B1 | El efecto de los ARM es menor con FEVI >40 % y aún menor con FGe <60. En FINEARTS-HF, en el subgrupo con ERC: HR 0,91 (IC 95 % 0,78–1,07) | 36, 39 |
+| IECA, ARNI o ARA-II (si no se toleran) en IC con FEVI reducida y FGe ≥30 | I · A | El beneficio se mantiene con FGe 30–60 | 36, 39 |
+| IECA en disfunción del VI asintomática (FEVI ≤35 %) con FGe ≥30 | I · B1 | Prevenir la IC y sus hospitalizaciones (SOLVD). El texto lo formula como «puede considerarse»: ver 9.15 | 36, 39 |
+| Betabloqueante en IC con FEVI reducida y FGe ≥30 | I · A | Sus ensayos incluyeron FGe hasta 15. No alteran la hemodinámica renal ni producen caída del FGe | 36–37, 39 |
+| ARNI como alternativa a IECA/ARA-II para frenar el descenso del FGe | IIa · B1 | Puede frenar la caída de la función renal frente a IECA; faltan datos con FGe <30 | 36, 39 |
+| IECA/ARA-II o betabloqueante con FGe 15–29 | IIb · C | SOLVD y CONSENSUS incluyeron creatininas de hasta 177 y 300 µmol/L. Iniciar a dosis baja, titular despacio y vigilar K y función renal. Sin datos con FGe <15 ni en diálisis | 36, 39–40 |
+| Hidralazina + dinitrato de isosorbida en personas negras autoidentificadas, con FGe ≥30 | IIa · C | A-HeFT; efecto no modificado por la ERC | 37, 39 |
+| Digoxina o digitoxina con FGe >20 | IIa · B1 | DIG y DIGIT-HF (digitoxina, HR 0,82). La digoxina se elimina por vía renal y requiere niveles; la digitoxina se elimina por vía no renal | 37, 40 |
+| Ivabradina con FGe ≥20 (FEVI ≤35 %, ritmo sinusal, FC >70) | IIa · B1 | SHIFT, sin interacción con la ERC | 37, 40 |
+| Vericiguat con FGe ≥30 | IIb · B1 | Efecto modesto; en el subgrupo con FGe 15–30 el HR fue >1, por eso no se recomienda por debajo de 30 | 37, 40 |
+| Semaglutida o tirzepatida en IC con FEVI ≥45 %, obesidad y FGe ≥15 | IIa · B1 | Pérdida de peso y calidad de vida; en SUMMIT, señal de menos eventos. Sin problemas renales de seguridad | 37, 40 |
+| Hierro i.v. (carboximaltosa o derisomaltosa) en IC con FEVI reducida, ERC y ferropenia (ferritina <100, o 100–299 con IST <20 %) | IIa · B1 | Reduce las rehospitalizaciones por IC con efecto similar por función renal. La evidencia tiende hacia una definición basada solo en IST <20 % | 39–40 |
+
+**Otros porqués del capítulo** (pp. 39, 44). Los quelantes de potasio pueden ayudar a mantener IECA/ARA-II, ARNI y ARM, pero no han demostrado mejorar desenlaces. Las indicaciones de DAI, TRC y reparación mitral borde a borde no cambian por la ERC, aunque el beneficio del DAI en mortalidad podría atenuarse con FGe <60, y no está indicado si la esperanza de vida es <1 año. Al titular, se puede ser más cauto con FGe <40 por la menor reserva renal.
+
+**IC descompensada con ERC** (tabla 17 y figura 10, pp. 41–42). La ERC disminuye la secreción tubular del diurético de asa y la albuminuria se asocia a resistencia diurética, así que la infradosificación deja congestión residual.
+
+| Punto clave | Clase · NE | Por qué | Pág. |
+|---|---|---|---:|
+| Iniciar el iSGLT2 pronto durante el ingreso si el FGe es >20 | I · B1 | Es seguro y mejora la respuesta diurética; EMPULSE fue coherente en ERC | 42 |
+| Sin diurético previo: dosis i.v. inicial >40 mg de furosemida o equivalente (figura 10, dosis diaria total: 160 mg con FGe <30, 120 con 30–44 y 80 con ≥45) | IIa · B2 | Con ERC se necesitan dosis sustancialmente mayores para lograr respuesta | 41–42 |
+| Acetazolamida añadida al diurético de asa en quienes ya lo tomaban, con FGe ≥20 | IIa · B1 | En ADVOR (500 mg i.v. durante tres días), más descongestión completa sin trastornos iónicos; con FGe <40, mayor natriuresis | 42 |
+| Valorar la respuesta diurética en los primeros días | IIa · B1 | Sodio en orina a las 2 h <70 mmol/L (o diuresis a las 6 h <100–150 mL/h) → duplicar la dosis del diurético de asa | 41–42, 45 |
+| Tiacida añadida al diurético de asa | IIb · B1 | En CLOROTIC, más pérdida de peso, pero más hipopotasemia y menor efecto en ERC; con ERC grave puede preferirse la acetazolamida | 42 |
+| Dosis i.v. de 2,5 veces la dosis domiciliaria en quienes ya tomaban diurético | IIb · C | En DOSE, más alivio de la disnea | 42 |
+| **Continuar la descongestión pese a subidas de creatinina de hasta el 50 %** si hay buena respuesta diurética | I · C | La subida transitoria con buena respuesta no se asocia a peores desenlaces renales ni cardiacos («pseudoempeoramiento») | 41, 44 |
+| Mantener el iSGLT2 si el FGe baja de 20 | IIa · C | En EMPEROR, suspender la empagliflozina aumentó la muerte CV y las hospitalizaciones por IC | 44 |
+| Mantener el ARNI si el FGe baja de 30 | IIa · C | Beneficio persistente sin más problemas de seguridad, siempre que la caída global del FGe sea <50 % y el K no supere 5,5 | 44 |
+
+**IC avanzada** (tabla 19, p. 47). Con FGe <30, valoración por un equipo de trasplante cardiorrenal (IIa C). **No implantar asistencia ventricular duradera** con FGe <30 que probablemente no mejorará si el paciente no es candidato a doble trasplante (III C).
+
+<a id="esc-era-coronario"></a>
+### 9.6. Síndrome coronario crónico y agudo (tablas 20–21)
+
+En la ERC moderada o grave, el debut como IAM es más probable que como angina estable. Alrededor de una de cada cuatro personas consulta por disnea o tos. En pacientes con creatinina >220 µmol/L que presentan un IAM, solo el ~40 % tiene dolor torácico, y la hipertrofia del VI con patrón de sobrecarga dificulta leer el ST (pp. 47, 50).
+
+| Punto clave | Clase · NE | Por qué | Pág. |
+|---|---|---|---:|
+| Elegir la prueba de imagen de forma individualizada en ERC sintomática | I · C | La ergometría rinde mal (sensibilidad del 35 %); el ecocardiograma de estrés, la perfusión y la TC coronaria son fiables, aunque la calcificación reduce la especificidad de la TC | 47, 49 |
+| Antiagregación con aspirina a dosis baja o clopidogrel en SCC con ERC | I · C | Por cada 1000 personas con ERC tratadas un año: 23 eventos CV mayores evitados frente a 9 sangrados mayores | 48–49 |
+| Clopidogrel preferible a aspirina con FGe >30 | IIa · B1 | En el subgrupo con ERC de un metaanálisis de datos individuales, menos eventos isquémicos sin más sangrado | 48–49 |
+| Estatina ± ezetimiba en SCC con ERC sin diálisis | I · A | Igual que en 9.4 | 49 |
+| Betabloqueante, calcioantagonista, nitrato de acción prolongada o combinación para la angina | I · C | Son seguros desde el punto de vista renal. El atenolol y el nadolol requieren ajuste; el bisoprolol, el metoprolol y el carvedilol, no. Los nitratos se metabolizan en el hígado. Los dihidropiridínicos no son de primera línea antihipertensiva en ERC porque apenas reducen (o aumentan) la albuminuria | 48–50 |
+| **Estrategia inicial conservadora con tratamiento médico óptimo** | I · B1 | ISCHEMIA-CKD (G4–G5): sin diferencia en muerte o IAM y sin mejora de la angina; más ictus y más muerte o inicio de diálisis con la estrategia invasiva | 49–50 |
+| Decidir la revascularización y su tipo en equipo multidisciplinar | I · C | Más riesgo con ICP y con cirugía; la cirugía reduce el IAM y la nueva revascularización a largo plazo (IIb B2 en enfermedad compleja). Acceso radial con ICP (IIa C), protegiendo las arterias para una posible fístula | 49–50 |
+| **TAPD abreviada (1–3 meses) tras ICP electiva** | IIa · B2 | En ERC el sangrado con TAPD es mayor; un mes de TAPD tuvo eventos isquémicos similares con tendencia a menos sangrado. Sustituye a los 6 meses convencionales (p. 75) | 48, 50 |
+| iPCSK9 con FGe ≥20 si LDL ≥70 mg/dL o no-HDL ≥100 mg/dL pese a estatina ± ezetimiba | IIa · B1 | FOURIER y ODYSSEY, con beneficio sin interacción con el FGe; sin evidencia suficiente con FGe <20 | 48, 50 |
+| Ranolazina con FGe >30 si persiste la angina | IIa · C | Titular con cuidado con FGe 30–60; evitar con FGe <30 | 49–50 |
+| Icosapento de etilo (FGe ≥30, TG >135 mg/dL y LDL >40 mg/dL) | IIb · B1 | Beneficio relativo constante; beneficio absoluto mayor con FGe <60 por su mayor riesgo basal | 48, 50 |
+| Ivabradina (FEVI <40 %, FC >70, FGe ≥30), trimetazidina (FGe >30) o nicorandil (cualquier FGe, también en diálisis) para la angina persistente | IIb · C | Datos limitados en ERC | 49–50 |
+
+| SCA con ERC | Clase · NE | Por qué | Pág. |
+|---|---|---|---:|
+| **No retrasar la estrategia invasiva inmediata o precoz** en IAMCEST o SCASEST de riesgo alto o muy alto | I · C | El beneficio supera con creces el riesgo de LRA. Si podría necesitarse diálisis, contactar pronto con quien la proporcione. Con FGe <30, protocolos con poco contraste e hidratación i.v. (ver 9.11) | 50–53 |
+| Troponina seriada (no aislada) | — | La troponina está a menudo elevada pero estable en la ERC; con una sola medición habría muchos falsos positivos. No hay consenso sobre puntos de corte ajustados | 51 |
+| IECA precoz en el ingreso con FGe >20 | IIa · C | En el metaanálisis de datos individuales del IAM (~100 000 pacientes), −7 % de mortalidad; muchos tenían FGe reducido | 53 |
+| Betabloqueante (FGe >20) y ARM esteroideo (FGe >30) en el ingreso si hay disfunción del VI o IC | IIa · B1 | Evidencia coherente; vigilar el potasio con ARM | 53 |
+| TAPD de 3 meses seguida de monoterapia, o desescalada a clopidogrel a los 1–3 meses | IIa · B1 | Menos sangrado sin más eventos isquémicos, también en ERC; la mejor evidencia es para ticagrelor en monoterapia tras 3 meses | 53 |
+| iSGLT2 durante el ingreso con FGe >20 si hay disfunción del VI o IC | IIb · C | DAPA-MI y EMPACT-MI fueron neutros en el objetivo principal; EMPACT-MI redujo los reingresos por IC | 53 |
+
+<a id="esc-era-vascular"></a>
+### 9.7. Enfermedad arterial periférica, aorta e ictus (tablas 22–23)
+
+| Punto clave | Clase · NE | Por qué | Pág. |
+|---|---|---|---:|
+| Añadir presión en el primer dedo del pie o índice dedo-brazo al estudiar la EAP | I · C | Un ITB >1,40 sugiere arterias no compresibles (calcificación frecuente en ERC y diabetes) y puede ocultar la EAP | 54 |
+| Enfoque multidisciplinar en la isquemia crítica complicada | IIa · C | Peor pronóstico tras revascularizar (amputación, muerte y reestenosis) en ERC | 54 |
+| Buscar ECV en otros territorios si hay EAP o cirugía aórtica | IIa · C | La EAP en ERC multiplica por 2–3 la morbimortalidad CV. La ERC no es una indicación clásica de cribado de aneurisma de aorta abdominal; faltan datos europeos | 54 |
+| Antiplaquetario tras ictus isquémico (TAPD con aspirina y clopidogrel 21–30 días y después monoterapia), también en diálisis | I · B2 | Sin ECA específicos en ERC; datos de HOT y CHANCE | 55–56 |
+| Añadir rivaroxabán 2,5 mg/12 h a aspirina con FGe ≥30, ECVA y bajo riesgo hemorrágico | IIb · B1 | COMPASS: menos ictus; beneficio absoluto con FGe <60 unas dos veces mayor que con FGe más alto | 48, 56 |
+| Estatina ± ezetimiba tras ictus isquémico sin diálisis | I · A | ~20 % menos ictus isquémico por mmol/L de LDL | 54, 56 |
+| iPCSK9 tras ictus con FGe ≥20 si el LDL sigue ≥70 mg/dL | IIb · C | Extrapolación de FOURIER y ODYSSEY | 56 |
+| PAS 120–129 tras ictus (sin TRS) | I · C | En PROGRESS, el perindopril redujo un 35 % los ictus en ERC con enfermedad cerebrovascular | 55–56 |
+| IECA o ARA-II a dosis máxima tolerada como primer antihipertensivo tras ictus (también en TRS) | I · B1 | Prevención secundaria del ictus y protección renal | 56 |
+| Endarterectomía en estenosis carotídea sintomática de alto grado | IIa · B2 | En NASCET, −82 % de ictus en ERC sin TRS. En TRS, decidir en equipo multidisciplinar (IIa C) | 56 |
+| **No** revascularizar de forma rutinaria la estenosis carotídea asintomática | III · B2 | Sin beneficio frente al tratamiento médico óptimo | 57 |
+| Trombólisis i.v. en el ictus agudo elegible, también en ERC y TRS | I · B2 | Puede haber más hemorragia, pero el beneficio funcional se mantiene. Trombectomía si hay oclusión de gran vaso (IIa C) y unidad de ictus (IIa C) | 56–57 |
+
+<a id="esc-era-anticoagulacion"></a>
+### 9.8. ETV y fibrilación auricular: anticoagulación según el FGe (tablas 24–27)
+
+| FGe (mL/min/1,73 m²) | FA: prevención del ictus | ETV: tratamiento |
+|---|---|---|
+| **≥30** | **ACOD antes que AVK** (I A) | **ACOD antes que HBPM + AVK** (I B2) |
+| **15–29** | Anti-Xa oral antes que AVK (IIa B1) | Anti-Xa oral en lugar de HBPM + AVK (IIb C) |
+| **<15 sin diálisis** | Decisión individualizada (IIa C); si se anticoagula, AVK o apixabán 2,5 mg/12 h (IIb C) | AVK o apixabán 2,5 mg/12 h, tras HBPM inicial (IIb C) |
+| **Diálisis** | Decisión individualizada (IIa C); anti-Xa a dosis baja antes que AVK (IIb C): apixabán 5 mg/12 h, o 2,5 mg/12 h si ≤60 kg o ≥80 años | Anti-Xa oral en lugar de HBPM + AVK (IIb C) |
+
+**Por qué** (pp. 57–61). En FA, un metaanálisis en red de 170 059 pacientes con ERC mostró que los ACOD reducían un 14 % los eventos tromboembólicos y un 19 % los sangrados frente a los AVK. En ETV, los ACOD no fueron inferiores a los AVK en ERC leve-moderada, y en EINSTEIN el sangrado mayor fue un 46 % menor con rivaroxabán. Con FGe <30 solo se han ensayado anti-Xa, con pocos pacientes. Los AVK preocupan además por la calcificación vascular y la calcifilaxis. En diálisis, los estudios observacionales sugieren que el AVK protege poco del ictus (con mucho factor de confusión), y los ensayos pequeños RENAL-AF y AXADIA mostraron un sangrado similar con apixabán y AVK, alto en ambos. La guía advierte que con FGe <30, y sobre todo <15, las dosis son orientativas por la escasa información, y que hay que consultar la ficha técnica (figura 16). El síndrome nefrótico tiene un riesgo de ETV especialmente alto y requiere consulta nefrológica (p. 57).
+
+| FA y ERC: otros puntos | Clase · NE | Por qué | Pág. |
+|---|---|---|---:|
+| Cribado oportunista de FA (pulso o ECG), también en TRS | IIb · C | El riesgo de FA es ~50 % mayor con FGe 30–59 y 2,4 veces mayor con <30; prevalencia del 11,6 % en TRS | 59 |
+| **No usar las escalas de ictus** (CHA₂DS₂-VA y similares) con FGe <30 | III · B | Discriminación pobre (estadístico c de 0,49–0,68) aunque incluyan variables renales: considerar siempre riesgo alto | 59 |
+| **No usar las escalas de sangrado** (HAS-BLED, ATRIA, ORBIT…) con FGe <30 | III · C | Rinden mal; hay que asumir que el riesgo de sangrado mayor es alto. Se describe una tendencia a infratratar a estos pacientes | 59 |
+| Con FGe ≥30: anticoagular si CHA₂DS₂-VA ≥2 y considerarlo si es 1 | — | Como la HTA es tan prevalente, por defecto habrá que ofrecer anticoagulación. La albuminuria A3 multiplica por cinco el riesgo de ictus en la FA con ERC | 59 |
+| Elegir el antiarrítmico teniendo en cuenta la cardiopatía estructural y la proarritmia (QT, iones) | I · C | La digoxina se elimina en un 75 % por vía renal y requiere niveles; la flecainida se reduce con FG <35; el sotalol y la dofetilida requieren ajuste; la amiodarona no requiere ajuste. **La dronedarona sube la creatinina ~9 µmol/L (≈0,1 mg/dL) en una semana, de forma reversible al suspender**; conocerlo evita confundirlo con progresión de la ERC (interpretación de esta revisión) | 61–62 |
+| Control del ritmo como alternativa al de la frecuencia para reducir síntomas | IIa · C | Los ensayos de ritmo frente a frecuencia incluyeron muy pocos pacientes con ERC. La cardioversión funciona igual en ERC, pero la recurrencia aumenta al bajar el FGe | 61–62 |
+| Ablación en TRS con inestabilidad durante la diálisis (IIa C); ablación de la FA paroxística en ERC (IIb C) | IIa/IIb · C | Mantener el ritmo sinusal se asocia a mejor función renal; la recurrencia es mayor (en hemodiálisis, ~20 % libre a cinco años tras un procedimiento y 80–85 % con varios) | 62 |
+
+<a id="esc-era-arritmias"></a>
+### 9.9. Arritmias ventriculares y dispositivos (tabla 28)
+
+La muerte súbita supone más del 40 % de las muertes en diálisis (registro USRDS). Parte del beneficio de los iSGLT2 sobre la mortalidad CV se debe a una menor muerte súbita (p. 63). **No implantar DAI en prevención primaria en hemodiálisis con FEVI ≥35 %** (III C): en el ensayo ICD2 no redujo la muerte súbita ni la mortalidad. La muerte súbita en diálisis se asocia sobre todo a bradiarritmias (pp. 63, 67). En hemodiálisis pueden considerarse el DAI subcutáneo si no se necesita estimulación (IIb C) y la envoltura antibiótica en el implante (IIb C), por el mayor riesgo de infección del dispositivo. El marcapasos sin cables es una alternativa en hemodiálisis (p. 63).
+
+<a id="esc-era-valvulas"></a>
+### 9.10. Valvulopatías (tabla 29)
+
+| Punto clave | Clase · NE | Por qué | Pág. |
+|---|---|---|---:|
+| Ecocardiograma completo ante sospecha de valvulopatía en ERC, **aunque no haya síntomas** | I · C | Los síntomas (cansancio, disnea, sobrecarga de volumen) se confunden con los de la ERC: **la auscultación cardiaca importa** | 64 |
+| Estenosis aórtica moderada-grave con FGe <45: revisión clínica y ecocardiográfica cada 6–9 meses | IIa · C | Progresa más rápido: el área valvular cae 0,1–0,2 cm²/año con FGe <15, frente a 0,05–0,1 en la población general, y los síntomas son poco fiables | 63–64 |
+| Reevaluar la valvulopatía moderada-grave al iniciar diálisis | IIa · C | Los cambios hemodinámicos alteran la gravedad y los síntomas | 64 |
+| TAVI en lugar de cirugía en estenosis aórtica grave con ERC y ≥70 años | IIa · C | Menos invasiva, con menos complicaciones y resultados similares a 3–5 años | 64 |
+
+<a id="esc-era-contraste"></a>
+### 9.11. Contraste y lesión renal periprocedimiento (tabla 30)
+
+| Punto clave | Clase · NE | Por qué | Pág. |
+|---|---|---|---:|
+| **No retrasar procedimientos con contraste** en ERC | I · C | En 37 ECA (12 166 pacientes con angiografía): LRA del 9,5 %, pero tratamiento sustitutivo (casi siempre temporal) solo del 1,1 %. Nefropatía por contraste de ~2 % con FGe 30–44 y de 0–17 % con <30. El daño de no hacer la prueba suele ser mayor | 64–65, 66 |
+| Contraste iso- o hipoosmolar y protocolos de ahorro de contraste con FGe <30 sin diálisis | I · A | Reduce el riesgo de nefropatía por contraste | 65, 67 |
+| Gadolinio de grupos II–III con FGe <30 | I · B2 | La fibrosis sistémica nefrogénica se asociaba a los agentes antiguos del grupo I; con los grupos II–III es <0,07 % | 65, 67 |
+| Valoración integrada del riesgo (FGe, paciente y procedimiento) | IIa · C | Factores de riesgo de la figura 18: FEVI <40 % o congestión, diabetes o glucosa ≥150 mg/dL, Hb <11 g/dL, edad >75 años y FGe <60 | 66–67 |
+| Hidratación i.v. periprocedimiento con FGe <30 sin diálisis | IIb · C | Protocolo óptimo incierto. Con FGe >30, la hidratación oral no es inferior a la i.v. Evitar la deshidratación con cualquier FGe. Opción pragmática: 250 mL de bicarbonato sódico al 1,4 % en la hora previa (o después si es urgente). La N-acetilcisteína y las estatinas no son eficaces de forma consistente | 65, 67 |
+| **No hacer hemodiálisis profiláctica** | III · B2 | Se ha asociado a daño | 65, 67 |
+
+**Metformina y otros fármacos** (p. 65): se suele retirar alrededor del contraste no porque sea nefrotóxica, sino por el riesgo teórico de acumulación si aparece nefropatía por contraste. **No debe retrasar la prueba**; puede suspenderse después si el riesgo es alto. En ERC moderada-grave puede considerarse retirar temporalmente IECA/ARA-II y AINE, pero tomarlos el mismo día no es una contraindicación absoluta. Si el riesgo de diálisis tras el procedimiento es muy alto (p. ej., FGe <20 antes de un procedimiento de alto riesgo), conviene hacerlo en un centro con diálisis. **Definición de LRA:** creatinina ≥1,5 veces la basal en siete días o diuresis <0,5 mL/kg/h durante seis horas. Con creatinina ya elevada no conviene usar umbrales absolutos pequeños (≥0,3 mg/dL), por la relación exponencial entre creatinina y FGe (pp. 64–65). Complementa el [apartado 5.3](#descompensaciones).
+
+<a id="esc-era-trs"></a>
+### 9.12. Diálisis y trasplante renal (tablas 31–33)
+
+Su manejo corresponde a Nefrología. Se resume lo que conviene saber en Atención Primaria:
+
+- **Diálisis.** Hierro i.v. proactivo a dosis alta (p. ej., hierro sacarosa) salvo ferritina >700 µg/L o IST ≥40 % (I B1): en PIVOTAL, −15 % del compuesto CV y menos IC, en parte por ahorro de AEE. **No usar ARM de forma rutinaria** (III A): riesgo de hiperpotasemia grave sin beneficio en ACHIEVE (p. 69). La mortalidad CV es 5–10 veces mayor que en la población general, con un pico de eventos tras el intervalo largo entre sesiones (p. 67).
+- **Candidatos a trasplante** (tabla 32, p. 71). Historia, exploración y revisión de antecedentes (I C); ECG y ecocardiograma (I C); decisión multidisciplinar de revascularizar si hay enfermedad coronaria obstructiva asintomática (I B2); prueba de perfusión o TC coronaria si el riesgo es alto (IIa B); aprovechar la calcificación coronaria de TC previas (IIa C). **No cribar la enfermedad coronaria en candidatos de baja probabilidad** (III C), porque puede retrasar la inclusión en lista, y la coronariografía no es la prueba de primera línea en asintomáticos. El trasplante renal es un procedimiento de riesgo intermedio (1–5 % de MACE a 30 días; p. 69).
+- **Trasplantados** (tabla 33, p. 72). PAS 120–129 (I C); calcioantagonistas para la PA (IIa B2), que pueden reducir la pérdida del injerto y no causan hiperpotasemia; iSGLT2 y AR GLP-1 en diabetes previa o postrasplante (IIb C). Consultar con el equipo de trasplante antes de iniciar fármacos por las interacciones con la inmunosupresión.
+
+<a id="esc-era-equipo"></a>
+### 9.13. Atención centrada en la persona (tabla 34)
+
+Con FGe <30 o en TRS debe considerarse incluir a Nefrología en el equipo multidisciplinar CV (IIa C, p. 73). La guía insiste en explicar el riesgo de factores asintomáticos (PA, glucosa, lípidos), en detectar ansiedad y depresión, que son muy prevalentes, y en integrar los cuidados paliativos, incluida la opción de tratamiento conservador sin diálisis (pp. 72–73). En los subgrupos por edad de los iSGLT2 y los AR GLP-1, el beneficio fue similar en personas mayores, frágiles o polimedicadas; la edad por sí sola no justifica no tratar (p. 73).
+
+<a id="esc-era-no-hacer"></a>
+### 9.14. Lo que la guía desaconseja (clase III)
+
+| No hacer | NE | Motivo | Pág. |
+|---|---|---|---:|
+| Antiagregar en prevención primaria con FGe <60 | B1 | El sangrado mayor compensa el beneficio | 28 |
+| Combinar IECA con ARA-II | A | LRA e hiperpotasemia sin beneficio | 31 |
+| Asistencia ventricular duradera con FGe <30 irreversible si no es candidato a doble trasplante | C | Mayor mortalidad | 47 |
+| Revascularizar de forma rutinaria la estenosis carotídea asintomática | B2 | Sin beneficio frente al tratamiento médico | 57 |
+| AEE para corregir por completo la anemia | A | Más ictus | 57 |
+| Escalas de ictus y de sangrado en la FA con FGe <30 | B / C | Rendimiento pobre | 59 |
+| DAI en prevención primaria en hemodiálisis con FEVI ≥35 % | C | ICD2 neutro | 63 |
+| Hemodiálisis profiláctica por contraste | B2 | Daño | 67 |
+| ARM de forma rutinaria en diálisis | A | Hiperpotasemia sin beneficio | 69 |
+| Cribado coronario en candidatos a trasplante de baja probabilidad | C | Retrasa la inclusión en lista | 71 |
+
+<a id="esc-era-discrepancias"></a>
+### 9.15. Discrepancias internas detectadas en la lectura íntegra
+
+Se suman a las ya registradas en el [apartado 8.2](#diferencias) (semaglutida) y en el registro de verificación (equivalencia de la figura 12). En caso de conflicto, esta revisión aplica la **tabla de recomendaciones**, porque es el texto votado con clase y nivel.
+
+- **FA con FGe 15–29.** Los mensajes clave (§16, p. 75) dicen que los anti-Xa orales *«may be considered»*; la tabla 26 (p. 60) y el texto (p. 60) dicen *«should be considered»* (**IIa B1**).
+- **IECA en disfunción del VI asintomática.** El texto (§6.2.2.1.1, p. 36) dice *«may be considered»*; la tabla 15 (p. 39) lo recomienda (**I B1**, FEVI ≤35 %, FGe ≥30).
+- **Estatinas.** El texto (§5.3.2, p. 26) habla de FGe **15–60**; la tabla 10 (p. 27) dice FGe **<60 sin TRS**, sin límite inferior.
+- **Fronteras de FGe.** ARM esteroideo «≥30» en la tabla 15 frente a «>30» en su nota y en el texto; AR GLP-1 en IC con FEVI conservada «≥15» en la tabla frente a «>15» en el texto. Solo afectan al valor exacto de corte.
+
+<a id="esc-era-lagunas"></a>
+### 9.16. Lagunas de evidencia que reconoce la guía (§17)
+
+No hay puntos de corte de péptidos natriuréticos ni de troponina validados para la ERC. Faltan ECA de los tratamientos de base de la IC con FGe <20, de anticoagulantes con FGe <15, de cierre de orejuela en ERC grave, de antiarrítmicos en ERC grave y de ritmo frente a frecuencia. Tampoco se conocen la duración óptima de la TAPD, el objetivo de PA con FGe <30, el papel de los iPCSK9 y del ácido bempedoico en ERC moderada-grave, ni el protocolo óptimo de hidratación frente al contraste (pp. 75–76). Por eso muchas recomendaciones específicas de la ERC son de nivel C: en esos puntos, la decisión individual y la consulta especializada pesan más.
+
 <a id="referencias"></a>
-## 9. Referencias y límites de la verificación
+## 10. Referencias y límites de la verificación
 
 1. **ESC-IC.** *2026 ESC Guidelines for the management of heart failure*. European Heart Journal. Publicación electrónica: 28 de agosto de 2026. DOI: [10.1093/eurheartj/ehag100][E1]. Consultados texto principal, tablas, material oficial de diapositivas y suplemento de prescripción S4–S9.
 2. **ESC/ERA.** *2026 ESC Guidelines for the management of cardiovascular disease and chronic kidney disease, in collaboration with the European Renal Association (ERA)*. European Heart Journal. Publicación electrónica: 28 de agosto de 2026. DOI: [10.1093/eurheartj/ehag098][E2]. Consultados texto principal, tablas y figuras de diagnóstico/tratamiento, junto con diapositivas oficiales.

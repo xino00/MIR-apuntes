@@ -104,3 +104,14 @@ Segunda pasada: cotejo contra texto extraído y páginas renderizadas del suplem
 No se han usado CIMA/AEMPS, ADA, AHA/ACC/ADA/ASN, Manual del 12 de Octubre ni originales de ensayos externos al corpus. Se priorizó la orden inicial «ESC y KDIGO 2026 SOLO», indicada al usuario durante el trabajo. No se afirma haber completado las comprobaciones incompatibles con dicha restricción.
 
 El envío por correo y sus adjuntos se documentan por separado en `envio_verificado.json` si el servicio confirma la operación. El estado «enviado» no demuestra lectura por el destinatario.
+
+## Ampliación 01-10-2026 · apartado 9 (ESC/ERA, puntos clave y porqués)
+
+- **Fuente:** PDF íntegro local de la guía ESC/ERA 2026 (`Libros y referencias/ehag098.pdf`, 102 páginas; descargado el 01-10-2026). Esto resuelve la limitación anterior, según la cual los PDF ESC no se conservaban en local.
+- **Extracción:** `pdftotext -layout`, que conserva en la misma línea cada recomendación con su clase y nivel. Las 34 tablas de recomendaciones se asignaron a su página del PDF, que coincide con la paginación impresa. La tabla 2 (niveles de evidencia A/B1/B2/C) se leyó sobre la página 10 renderizada.
+- **Cobertura:** tablas 1–34, figuras 4, 8, 9, 10, 12, 16, 18 y texto de §3.7, §5.5.5, §16 y §17. Los apartados 1–8 no se modificaron, salvo el índice y una nota de alcance.
+- **Pasada adversarial:** las 11 recomendaciones de clase III de la guía coinciden con la tabla 9.14. Se revisaron una a una las páginas citadas y las cifras de ensayos (SHARP, FIDELIO/FIGARO, FLOW, ISCHEMIA-CKD, PIVOTAL, ICD2, metaanálisis de ACOD) frente al texto. Correcciones antes de publicar: la cifra del 1–5 % de MACE en el trasplante (p. 69), la formulación del ARNI («puede frenar») y el metaanálisis de 170 059 pacientes, que pertenece a FA, no a ETV.
+- **Discrepancias internas nuevas** (apartado 9.15): los anti-Xa en FA con FGe 15–29 («may» en los mensajes clave frente a IIa en la tabla 26); el IECA en disfunción del VI asintomática («may» en el texto frente a I B1 en la tabla 15); el rango de FGe para estatinas (15–60 en el texto frente a <60 en la tabla 10); las fronteras ≥/> 30 y ≥/> 15. Criterio aplicado: prevalece la tabla de recomendaciones.
+- **Sin verificar:** dosis en ficha técnica CIMA/AEMPS (por ejemplo, rosuvastatina a dosis alta, apixabán en diálisis y vareniclina en ERC) ni disponibilidad en España de icosapento de etilo, digitoxina o vericiguat. Se mantiene el límite general del documento.
+- **HTML:** regenerado con `generar_html.py`. El límite de palabras pasó de 15 000 a 22 000 para admitir la ampliación (resultado: 21 324). Las comprobaciones automáticas pasan: sin enlaces internos rotos, texto clínico idéntico, 12 esquemas y sin imágenes. `validacion_estructural.json` está actualizado.
+

@@ -12,6 +12,7 @@ fecha_corte: 2026-09-30
 - [Versión HTML explicativa](Algoritmos_CRM_2026_Revision_Clinica.html).
 - [Registro de verificación](verificacion/Registro_de_verificacion.md).
 - [Verificación de los 12 esquemas del HTML](verificacion/Registro_graficos.md).
+- [[Algoritmos_CRM_2026_Revision_Clinica#9. Guía ESC/ERA 2026: puntos clave y porqués|Guía ESC/ERA 2026 (ehag098): puntos clave y porqués]]: las 34 tablas de recomendaciones con su clase, su nivel, el porqué y la página (ampliación del 01-10-2026).
 
 El HTML conserva íntegro el texto clínico del Markdown y añade 12 esquemas explicativos: mapa CRM, matriz renal interactiva, seis algoritmos de decisión, finalidades terapéuticas, creatinina, potasio y calendario de controles. Incorpora índice visual, búsqueda y formato de impresión; guardar ambos archivos juntos conserva el enlace de descarga del Markdown. El archivo Markdown no se ha modificado al añadir los gráficos.
 
