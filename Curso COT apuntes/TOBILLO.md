@@ -2,20 +2,24 @@
 title: "Tobillo y pie en Urgencias"
 aliases:
   - Tobillo y pie en Urgencias
+  - Lesiones agudas de pie y tobillo
 tags:
-  - COT
+  - cot
+  - curso-cot
   - tobillo
   - pie
   - urgencias
+fuente: "Curso COT 2026 HUFJD - 8- TOBILLO Y PIE.pdf (Juan Iglesias Martín, R2 COT)"
 ---
 
 # Tobillo y pie en Urgencias
 
-*Curso COT · Enfoque en el adulto · Integración y revisión: 22/09/2026*
+*Curso COT 2026 · Juan Iglesias Martín, residente de 2.º año de COT · HU Fundación Jiménez Díaz · Enfoque en el adulto · Integración: 22/09/2026; contraste con el PDF: 14/10/2026*
 
-**Procedencia:** seis diapositivas y las anotaciones originales de esta nota. Las ampliaciones externas se identifican como **aclaración** y llevan una referencia; no se atribuyen al docente.
+**Procedencia:** la nota se redactó a partir de seis fotografías de diapositivas y tus anotaciones originales, y después se contrastó con el PDF completo (13 páginas). Las ampliaciones externas se identifican como **aclaración** y llevan una referencia; no se atribuyen al docente. La numeración «diapositiva 1–6» del texto corresponde a las fotografías; su equivalencia con las páginas del PDF está en la [[#8. Procedencia, referencias y análisis de huecos|sección 8]].
 
 > [!abstract] Índice de estudio
+> - [[#Objetivos y preguntas clave|Objetivos y preguntas clave]]
 > - [[#1. Exploración inicial|Exploración inicial]]
 > - [[#2. Pruebas de imagen|Pruebas de imagen y Ottawa]]
 > - [[#3. Esguince lateral|Esguince lateral]]
@@ -23,9 +27,23 @@ tags:
 > - [[#5. Lesiones que no deben pasar inadvertidas|Quinto metatarsiano, navicular, Lisfranc y Aquiles]]
 > - [[#6. Calcáneo y traumatismos de alta energía|Calcáneo y alta energía]]
 > - [[#7. Algoritmo de bolsillo|Algoritmo de bolsillo]]
+> - [[#7 bis. Casos clínicos: 45 segundos para decidir|Casos clínicos]]
+> - [[#Para llevar a casa|Para llevar a casa]]
 > - [[#8. Procedencia, referencias y análisis de huecos|Fuentes, originales y análisis de huecos]]
 
-**Notas relacionadas:** [[30_Urgencias/Exploracion_Fisica/Exploración de Tobillo y Antepié|Exploración de tobillo y antepié]] · [[10_Patologias/12_Traumatologia/Esguince de Tobillo|Esguince de tobillo]] · [[10_Patologias/12_Traumatologia/Ejercicios_SERMEF/Ejercicios SERMEF - Dolor tras esguince de tobillo|Ejercicios SERMEF tras esguince]].
+**Notas relacionadas:** [[30_Urgencias/Exploracion_Fisica/Exploración de Tobillo y Antepié|Exploración de tobillo y antepié]] · [[10_Patologias/12_Traumatologia/Esguince de Tobillo|Esguince de tobillo]] · [[10_Patologias/12_Traumatologia/Ejercicios_SERMEF/Ejercicios SERMEF - Dolor tras esguince de tobillo|Ejercicios SERMEF tras esguince]] · [[Curso COT apuntes/Patologías más frecuentes#2. Esguince de tobillo|Esguince de tobillo en la charla de patologías frecuentes]].
+
+## Objetivos y preguntas clave
+
+**Objetivos de la sesión:** valoración inicial sistemática del traumatismo; diferenciar las lesiones leves de las potencialmente graves; tratamiento inicial y saber cuándo derivar.
+
+| Pregunta clave en Urgencias | Conducta |
+| --- | --- |
+| 1. **¿Hay compromiso neurovascular?** | **Sí a cualquiera de las dos primeras** → prioridad: analgesia, exploración neurovascular, inmovilización o reducción si procede, y valoración especializada |
+| 2. **¿Hay deformidad, luxación o herida abierta?** | (igual que la anterior) |
+| 3. **¿Dónde duele exactamente?** | **Si no hay nada de lo anterior, localizar el dolor:** la localización ósea + las reglas de Ottawa orientan la necesidad de radiografía |
+
+> [!important] Siempre documentar el estado neurovascular antes y después de cualquier manipulación.
 
 ## 1. Exploración inicial
 
@@ -245,11 +263,50 @@ Fuente de estas aclaraciones: [BOA: lesiones que se pasan por alto en pie y tobi
 
 **Síntesis para reevaluar:** déficit neurovascular, deformidad o herida requieren atención urgente; dolor óseo persistente, bloqueo, dolor alto o incapacidad de apoyo obligan a revisar que no se haya pasado por alto otra lesión.
 
+## 7 bis. Casos clínicos: 45 segundos para decidir
+
+Las diapositivas plantean dos casos sin dar la respuesta por escrito. La lectura que sigue aplica los criterios del propio curso y es una interpretación de las imágenes.
+
+| | Caso 1 · Fútbol + torsión + dolor en mediopié | Caso 2 · Fútbol + torsión + dolor en maléolos |
+| --- | --- | --- |
+| Paciente | 34 años, sin antecedentes | 34 años, sin antecedentes |
+| Mecanismo | **Torsión del PIE** en un cambio de dirección | **Torsión del TOBILLO** en un cambio de dirección |
+| Clínica | **Dolor intenso en mediopié + no apoyo**; dolor en maléolo lateral | **Dolor intenso en tobillo + no apoyo**; dolor en **maléolo medial** |
+| Neurovascular | Exploración neurovascular distal conservada (ENVDC) | ENVDC |
+| Imágenes | **Equimosis plantar** y del tobillo; Rx de tobillo (3 proyecciones) y Rx AP de pie | Equimosis del tobillo; Rx de tobillo y **Rx de pierna completa (A y B)** |
+| Lectura según el curso | Torsión del pie + dolor en mediopié + no apoyo + **equimosis plantar** = criterios de sospecha de **Lisfranc** (ver [[#Lisfranc: la lesión que se puede escapar\|Lisfranc]]): no basta una Rx de tobillo; descarga, nuevas imágenes y aviso a Traumatología | Dolor en maléolo medial con no apoyo: la Rx de **pierna completa** muestra una **fractura de la mitad proximal del peroné**, compatible con **lesión de Maisonneuve** (ver [[#Sindesmosis y peroné proximal\|sindesmosis y peroné proximal]]): palpar siempre el peroné proximal |
+
+## Para llevar a casa
+
+| # | Pregunta | Mensaje |
+| --- | --- | --- |
+| 1 | **¿Hay compromiso neurovascular?** | La valoración clínica es «más importante» que las pruebas de imagen |
+| 2 | **Mira el pie y el tobillo** | Si dudas, **amplía el estudio** |
+| 3 | **Reconoce la gravedad** | **Documenta siempre** |
+
 ## 8. Procedencia, referencias y análisis de huecos
+
+### PDF de la sesión
+
+`8- TOBILLO Y PIE.pdf` (13 páginas), *III Taller sobre Urgencias Traumatológicas*, HU Fundación Jiménez Díaz, 21-09-2026.
+
+| Página del PDF | Contenido | «Diapositiva» de la nota (foto) | Sección |
+| --- | --- | --- | --- |
+| 1 y 13 | Portada y cierre | — | — |
+| 2 | Objetivos | — | Objetivos y preguntas clave |
+| 3 | Preguntas clave en Urgencias | — | Objetivos y preguntas clave |
+| 4 | Exploración dirigida: 5 zonas | 1 | 1 |
+| 5 | Esguince lateral | 2 | 3 |
+| 6 | Fractura / luxación | 3 | 4 |
+| 7 | Pie: 4 lesiones que no conviene pasar por alto | 4 | 5 |
+| 8 | Lisfranc | 5 | 5 |
+| 9 | Algoritmo de bolsillo | 6 | 7 |
+| 10–11 | Casos clínicos: 45 segundos para decidir | — | 7 bis |
+| 12 | Para llevar a casa | — | Para llevar a casa |
 
 ### Fotografías del curso
 
-Se conservan copias de los seis archivos aportados, sin modificar las fotografías originales:
+La nota original enlazaba copias de seis fotografías. **Esos archivos no están en el vault** (`assets/adjuntos/Curso COT/` solo contiene `infecciones/`), así que los enlaces siguientes no abren nada. El contenido está transcrito arriba y el PDF lo sustituye como fuente.
 
 | Diapositiva | Tema | Fotografía |
 | --- | --- | --- |
@@ -324,7 +381,8 @@ Consultadas el **22/09/2026**. Los enlaces junto a cada aclaración permiten dis
 | «Lisfranc: torsión con mecanismo axial» | **Integrado** | Incluido junto con flexión plantar, clínica y equimosis plantar. |
 | «Urgencia / ayunas» en Lisfranc | **Aclarado; depende del caso** | Consulta precoz; ayuno según posible procedimiento y circuito local. No implica cirugía inmediata universal. |
 | Gap, Thompson, ecografía y férula en equino | **Integrado y ampliado** | Exploración, utilidad de imagen y protección inicial explicadas. |
-| «Poco deportista» y «40» | **Pendiente de contexto docente** | Conservados sin convertirlos en requisitos ni umbrales diagnósticos. |
+| «Poco deportista» y «40» | **Pendiente de contexto docente** | El PDF confirma el texto literal: «“40” pedrada + déficit flexión». Una lectura posible es la edad típica (unos 40 años) en alguien poco deportista, lo que encaja con tu anotación, pero **no está confirmado**. Se conservan sin convertirlos en requisitos ni umbrales diagnósticos. |
+| Diapositivas no fotografiadas | **Resuelto con el PDF** | Añadidos objetivos, preguntas clave, los dos casos clínicos y «Para llevar a casa». |
 | «Férula en equino; la único» | **Pendiente** | Frase original conservada; no se inventa su continuación. |
 | Calcáneo → columna y cadera; alta energía | **Integrado y ampliado** | Búsqueda de lesiones asociadas, incluido el talón contralateral. |
 | Seguimiento y protocolos locales | **Límite explícito** | Pauta concreta de carga, ayuno, antibiótico y rehabilitación según lesión y equipo tratante; no se añaden dosis ni un protocolo quirúrgico. |
