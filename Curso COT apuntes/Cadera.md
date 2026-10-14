@@ -1,4 +1,23 @@
+---
+title: "Patología de cadera en Urgencias"
+aliases:
+  - Fractura y luxación de cadera
+  - Patología de cadera en Urgencias
+  - Fractura de cadera - Curso COT
+tags:
+  - cot
+  - curso-cot
+  - cadera
+  - urgencias
+fuente: "Curso COT 2026 HUFJD - 6- CADERA.pdf (Gonzalo Díaz Alonso, R2 COT)"
+---
+
 # Fractura y luxación de cadera
+
+*Curso COT 2026 · Gonzalo Díaz Alonso, residente de 2.º año de COT · HU Fundación Jiménez Díaz*
+
+> [!abstract] Índice
+> [[#4.3. Pruebas complementarias y clasificación|Pruebas y clasificación]] · [[#5. Manejo inicial en Urgencias|Manejo inicial]] · [[#6. Tratamiento quirúrgico|Cirugía]] · [[#Luxación de cadera|Luxación]] · [[#12. Esquema rápido de guardia|Esquema de guardia]] · [[#Perlas de guardia|Perlas]] · [[#Anotaciones de clase|Anotaciones de clase]] · [[#Procedencia|Procedencia]]
 
 # 1. Fractura de cadera
 
@@ -61,6 +80,8 @@ La articulación **coxofemoral** permite:
 - **Aducción** → aproximación del muslo a la línea media.
 - **Rotación interna**.
 - **Rotación externa**.
+
+La diapositiva siguiente, «Vascularización y nervios», muestra en tres imágenes la red arterial anterior y posterior de la cadera y el trayecto del **nervio ciático** por detrás de la articulación. Explica por qué hay que explorar el ciático en la luxación y la importancia de la vascularización de la cabeza en las fracturas intracapsulares.
 
 ---
 
@@ -125,17 +146,48 @@ Hallazgos frecuentes:
 
 ---
 
+## 4.3. Pruebas complementarias y clasificación
+
+### Lo que pide la diapositiva
+
+1. **Rx de pelvis AP y axial → TAC** (si no se ve la fractura y la sospecha persiste; ver la [[#7. Sospecha de fractura con radiografía normal|sección 7]]).
+2. **Analítica: ¡vigilar la Hb!**
+
+> [!example] Caso real de la diapositiva: el sangrado oculto
+> | | 16/04, 15:50 (llegada a Urgencias) | 17/04, 07:00 (analítica de control prequirúrgica) |
+> | --- | --- | --- |
+> | Hb (g/dl) | **14,1** | **12,0** |
+> | Hto (%) | 41,1 | 35,9 |
+>
+> En unas 15 horas, **sin sangrado visible**, la Hb bajó 2,1 g/dl. La diapositiva lo acompaña de un artículo (Stacey et al., WellSpan York Hospital) sobre la **pérdida sanguínea oculta** en las fracturas de fémur proximal. Su conclusión resaltada señala más riesgo con **comorbilidades, fracturas intertrocantéricas, Hb baja al ingreso y más tiempo hasta la cirugía**.
+
+### Clasificación: intracapsulares frente a extracapsulares
+
+La diapositiva dibuja la **cápsula articular** y sitúa cada trazo respecto a ella y a la vascularización (arteria femoral y arterias circunflejas medial y lateral):
+
+| Grupo | Fracturas (de proximal a distal) |
+| --- | --- |
+| **Intracapsulares** | **Subcapital**, **mediocervical** y **basicervical** |
+| **Extracapsulares** | **Intertrocantérica** (entre trocánter mayor y menor) y **subtrocantérica** |
+
+La diapositiva previa de pruebas complementarias muestra tres radiografías de pelvis con fracturas de cadera.
+
+---
+
 # 5. Manejo inicial en Urgencias
 
-1. Ubicar al paciente en un **box** adecuado.
-2. **Monitorización** según la situación clínica y el riesgo de descompensación.
-3. Buscar y tratar posibles **causas médicas de la caída**.
-4. Realizar un **manejo integral**:
-   - La fractura de cadera **NO es una patología exclusivamente traumatológica**.
-5. Administrar **analgesia adecuada**.
-6. Evitar la movilización/carga de la extremidad hasta completar la valoración.
-7. Preparar al paciente para una probable intervención quirúrgica según el protocolo anestésico.
-8. Revisar específicamente **anticoagulación y antiagregación**.
+Los 8 puntos de la diapositiva «Manejo y puntos clave»:
+
+1. Pasar al paciente a un **BOX (NO A UN FONDO)**.
+2. Mantener al paciente **monitorizado**: existe riesgo de descompensación.
+3. **Descartar y tratar** causas de caída asociadas a **organicidad** (hipoglucemia, parkinsonismo, desorientación…).
+4. **Manejo integral** en la urgencia: las fracturas de cadera **NO SON patologías EXCLUSIVAMENTE TRAUMATOLÓGICAS**.
+5. **ANALGESIA**: un paracetamol no suele ser suficiente para calmar el dolor de un fémur partido.
+6. Mantener al paciente **encamado**.
+7. **NO dar de comer ni beber** al paciente.
+8. **NO iniciar anticoagulación, o bien retirarla** (ver el matiz en la sección 5.2).
+
+Complemento de la versión anterior de estos apuntes: evitar la carga de la extremidad hasta completar la valoración, preparar al paciente para la probable intervención según el protocolo anestésico y revisar específicamente la **anticoagulación y la antiagregación**.
 
 ---
 
@@ -171,10 +223,13 @@ Hay que diferenciar:
 
 La mayoría de las fracturas de cadera requieren **tratamiento quirúrgico precoz**.
 
+> [!danger] Diapositiva: tratamiento quirúrgico urgente
+> La demora del tratamiento quirúrgico **aumenta la mortalidad**, y esta es especialmente más alta cuando la demora **supera las 48 horas**. La introducción lo resume así: el retraso más allá de las primeras **24–48 h** aumenta la mortalidad.
+
 ### Objetivo temporal
 
-- Idealmente cirugía **el mismo día o al día siguiente del ingreso**.
-- De forma práctica: intentar realizarla dentro de las primeras **24–48 horas**, siempre que sea clínicamente posible.
+- Idealmente, cirugía **el mismo día del ingreso o al día siguiente**, en un parte de quirófano de trauma programado. [NICE QS16, quality statement 2](https://www.nice.org.uk/guidance/qs16/chapter/quality-statement-2-timing-and-expertise-for-surgery).
+- En la práctica: dentro de las primeras **24–48 horas**, siempre que sea clínicamente posible.
 
 > Es preferible hablar de **cirugía precoz** más que de «emergencia quirúrgica inmediata».
 
@@ -184,10 +239,10 @@ Antes de la intervención deben corregirse rápidamente aquellas alteraciones re
 
 # 7. Sospecha de fractura con radiografía normal
 
-Si existe una **alta sospecha clínica** de fractura de cadera pero las radiografías iniciales son negativas:
+La diapositiva indica **Rx de pelvis AP y axial → TAC**, y tus apuntes: «si no se ve y clínica muy sugestiva → TC pélvico».
 
-- **RM** → prueba de elección.
-- Si la RM está contraindicada o no está disponible con rapidez → **TC**.
+> [!note] Aclaración · RM o TC (NICE CG124, recomendación 1.1.1)
+> Si persiste la sospecha con radiografías adecuadas negativas, NICE prefiere la **RM**, y la **TC** si la RM no puede hacerse en **24 h** o está contraindicada. El curso propone directamente el TAC tras la Rx. [NICE CG124](https://www.nice.org.uk/guidance/cg124/chapter/Recommendations).
 
 > Una radiografía normal no excluye una fractura oculta si la clínica sigue siendo compatible.
 
@@ -215,12 +270,9 @@ Si existe una **alta sospecha clínica** de fractura de cadera pero las radiogra
 
 Generalmente es consecuencia de un traumatismo, aunque no exclusivamente.
 
-Puede producirse:
+Según la diapositiva, **en la cadera solemos verla en prótesis de cadera**, aunque también puede ocurrir sobre **caderas nativas**. Las dos radiografías del curso muestran una luxación de cadera nativa y una de prótesis.
 
-- En una **cadera nativa**.
-- En pacientes portadores de una **prótesis de cadera**.
-
-Ante una luxación secundaria a un traumatismo hay que descartar una **fractura asociada**.
+Buscar **antecedentes de traumatismo**: si los hay, sospechar una **fractura asociada**.
 
 ---
 
@@ -258,6 +310,17 @@ Habitualmente:
 
 - **Abducción**.
 - **Rotación externa**.
+
+> [!note] Aclaración · Frecuencia, ciático y fracturas asociadas
+> En AAOS, la **posterior** supone en torno al **90 %** de los casos (rodilla y pie rotados hacia dentro), y la **anterior** deja la rodilla y el pie rotados hacia fuera. Hay **lesión del ciático en alrededor del 10 %**. La fractura asociada más frecuente es la de la **pared posterior del acetábulo**. [AAOS OrthoInfo — Hip Dislocation](https://www.orthoinfo.org/en/diseases--conditions/hip-dislocation/).
+
+## 11 bis. Una emergencia traumatológica
+
+> [!danger] Diapositiva: ¡¡¡EMERGENCIA TRAUMATOLÓGICA: TRATAMIENTO QUIRÚRGICO EN < 6–12 HORAS!!!
+> La incidencia de **necrosis avascular** aumenta proporcionalmente con el tiempo hasta el tratamiento.
+
+> [!note] Aclaración · Nativa frente a protésica
+> El riesgo de necrosis avascular se refiere a la **cabeza femoral nativa**, cuya vascularización se desgarra al salir de la cavidad. AAOS lo define como emergencia que requiere tratamiento inmediato, sin fijar un plazo en horas; algunas reducciones requieren quirófano y anestesia. La luxación de una prótesis no tiene ese riesgo de necrosis, pero también se avisa a COT para la reducción. [AAOS OrthoInfo — Hip Dislocation](https://www.orthoinfo.org/en/diseases--conditions/hip-dislocation/).
 
 ---
 
@@ -330,6 +393,10 @@ Habitualmente:
 - Evitar retrasos quirúrgicos innecesarios.
 - La fractura de cadera requiere **manejo multidisciplinar**, no exclusivamente traumatológico.
 - En una luxación de cadera → especial atención al **nervio ciático** y al estado vascular distal.
+
+### Algoritmo de bolsillo
+
+```text
 ANCIANO + CAÍDA/TRAUMATISMO + DOLOR DE CADERA
                     │
                     ▼
@@ -369,17 +436,42 @@ ANCIANO + CAÍDA/TRAUMATISMO + DOLOR DE CADERA
                     │
                     ▼
        CIRUGÍA PRECOZ SI INDICADA
+```
 
 ---
 
-# Notas previas del curso
+## Anotaciones de clase
 
-## Fractura
-Pedir 3 proyecciones AP y axial, si no se ve y clinica muy sugestivas-> TC pélvico
-Clasificación
-1. Intracapsulares
-2. Extracapsulares
-Vigilar Hb y sangrado 
-	Riesgo aumenta: transtrocantérica, tiempo edad
-Demorar el tratamiento qx 24-48h aumenta la mortalidad
-## Luxación
+Tus apuntes de clase se conservan literalmente; su contenido está integrado en las secciones 4.3, 6 y 7: tres proyecciones y TC si no se ve, intra/extracapsulares, vigilar Hb y sangrado, y demora quirúrgica de 24–48 h.
+
+> [!quote]- Texto original de «Notas previas del curso» (`Cadera.md`)
+> ```text
+> ## Fractura
+> Pedir 3 proyecciones AP y axial, si no se ve y clinica muy sugestivas-> TC pélvico
+> Clasificación
+> 1. Intracapsulares
+> 2. Extracapsulares
+> Vigilar Hb y sangrado 
+> 	Riesgo aumenta: transtrocantérica, tiempo edad
+> Demorar el tratamiento qx 24-48h aumenta la mortalidad
+> ## Luxación
+> ```
+
+---
+
+## Procedencia
+
+**Fuente principal:** `6- CADERA.pdf` (13 diapositivas), *III Taller sobre Urgencias Traumatológicas*, HU Fundación Jiménez Díaz, 21-09-2026. Contrastada con el PDF el 14-10-2026: se añadieron pruebas complementarias y clasificación, el caso de la Hb, los 8 puntos literales de manejo y la luxación como emergencia en < 6–12 h.
+
+| Diapositivas | Contenido | Sección |
+| --- | --- | --- |
+| 1 y 13 | Portada y cierre | — |
+| 2 | Introducción | 1 |
+| 3–4 | Recuerdo anatómico, movimientos, vascularización y nervios | 3 |
+| 5 | Fractura de cadera: frecuencia, mortalidad y morbilidad | 1–2 |
+| 6 | Atención inicial: anamnesis, exploración y pruebas | 4 |
+| 7–9 | Pruebas complementarias, clasificación y caso de la Hb | 4.3 |
+| 10 | Manejo y puntos clave; tratamiento quirúrgico urgente | 5–6 |
+| 11–12 | Luxación de cadera: clínica, tipos, imagen y emergencia | 9–11 bis |
+
+**Fuentes de las aclaraciones** (consultadas el 14-10-2026): [NICE QS16, quality statement 2](https://www.nice.org.uk/guidance/qs16/chapter/quality-statement-2-timing-and-expertise-for-surgery), [NICE CG124](https://www.nice.org.uk/guidance/cg124/chapter/Recommendations) (recomendación 1.1.1, confirmada por búsqueda porque la página bloquea el acceso directo) y [AAOS OrthoInfo — Hip Dislocation](https://www.orthoinfo.org/en/diseases--conditions/hip-dislocation/).
