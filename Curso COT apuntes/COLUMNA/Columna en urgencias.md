@@ -3,21 +3,26 @@ title: "Columna en Urgencias: lumbalgia, lumbociatalgia y fracturas vertebrales"
 aliases:
   - Columna en urgencias
   - Lumbalgia y lumbociatalgia - Curso COT
+  - Lumbalgia
+  - Patología de columna en Urgencias
 tags:
-  - COT
+  - cot
+  - curso-cot
   - columna
   - urgencias
-fecha_revision: 2026-09-22
+fecha_revision: 2026-10-14
+fuente: "Curso COT 2026 HUFJD - 5- COLUMNA.pdf (Gonzalo Díaz Alonso, R2 COT)"
 ---
 
 # Columna en Urgencias: lumbalgia, lumbociatalgia y fracturas vertebrales
 
-*Curso COT · Apuntes de diez fotografías · Enfoque en el adulto*
+*Curso COT 2026 · Gonzalo Díaz Alonso, residente de 2.º año de COT · HU Fundación Jiménez Díaz · Enfoque en el adulto*
 
 El contenido del curso se organiza por temas. Los recuadros **«Aclaración»** contienen precisiones añadidas y sus fuentes; **«Hueco en las diapositivas»** identifica información que el material recibido no desarrolla o no permite confirmar.
 
 > [!abstract] Índice de estudio
 > - [[#1. Conceptos y causas de dolor lumbar|Conceptos y causas]]
+> - [[#Clínica: qué preguntar sobre el dolor|Clínica: qué preguntar]]
 > - [[#2. Exploración física|Exploración física y maniobras]]
 > - [[#3. Localización radicular: L4, L5 y S1|Tabla de raíces L4, L5 y S1]]
 > - [[#4. Signos de alarma y causas extrarraquídeas|Signos de alarma y diagnóstico diferencial]]
@@ -46,7 +51,18 @@ El contenido del curso se organiza por temas. Los recuadros **«Aclaración»** 
 | Lumbociatalgia | Aparece como un tercer grupo, sin subdivisiones. |
 
 > [!question] Hueco en las diapositivas — clasificación
-> Se nombran los patrones mecánico/no mecánico y el dolor referido raquídeo, pero no se explican sus características ni se desarrolla la anamnesis. El esquema debe leerse como una clasificación introductoria del curso.
+> Se nombran los patrones mecánico/no mecánico y el dolor referido raquídeo, pero no se explican sus características. El esquema debe leerse como una clasificación introductoria del curso.
+
+### Clínica: qué preguntar sobre el dolor
+
+La diapositiva «Clínica» propone seis preguntas:
+
+1. ¿**Antecedentes** de interés?
+2. ¿**Cuánto tiempo** de evolución?
+3. ¿Cómo es el dolor: **mecánico o inflamatorio**?
+4. ¿**Clínica neurológica**?
+5. ¿**Empeora o mejora** con algo?
+6. ¿**Dónde** se localiza?
 
 ### Importancia clínica: cifras de la introducción
 
@@ -91,7 +107,7 @@ La diapositiva incluye **marcha de talones y puntillas**, exploración radicular
 > [!note] Aclaración — técnica e interpretación de Lasègue
 > Con el paciente en **decúbito supino**, elevar pasivamente la pierna flexionando la cadera con la **rodilla extendida**. Orienta a irritación radicular la reproducción de dolor irradiado por la extremidad, habitualmente por debajo de la rodilla, aproximadamente entre **30° y 70°**. El dolor lumbar aislado o la tirantez de isquiotibiales no equivalen a un Lasègue radicular positivo. La prueba se utiliza especialmente para L5–S1.
 >
-> La ilustración del curso representa el aumento de tensión neural con la elevación; sus ángulos son orientativos, no un criterio diagnóstico aislado. [AAPM&R: tabla de maniobras musculoesqueléticas](https://now.aapmr.org/wp-content/uploads/2021/09/Specialized-Musculoskeletal-Examination-Table-of-Patient-Tests.pdf).
+> La ilustración del curso (*straight leg raising test*) representa el aumento de tensión neural con la elevación. Sus rótulos dicen: entre **0° y 35°** se recoge la holgura de las raíces ciáticas; entre **35° y 75°** las raíces se tensan sobre el disco intervertebral; por encima de **75°** prácticamente no hay más deformación de las raíces. Los ángulos son orientativos, no un criterio diagnóstico aislado. [AAPM&R: tabla de maniobras musculoesqueléticas](https://now.aapmr.org/wp-content/uploads/2021/09/Specialized-Musculoskeletal-Examination-Table-of-Patient-Tests.pdf).
 
 > [!note] Aclaración — técnica de Bragard
 > Tras provocar el dolor con Lasègue, bajar ligeramente la pierna hasta que ceda y realizar **dorsiflexión del tobillo** manteniendo la rodilla extendida. La reaparición del dolor radicular apoya la positividad. No confirma por sí sola una hernia discal.
@@ -100,7 +116,7 @@ La diapositiva incluye **marcha de talones y puntillas**, exploración radicular
 
 ## 3. Localización radicular: L4, L5 y S1
 
-**Tabla de la diapositiva reorganizada.** Las expresiones de dolor, sensibilidad y función motora se conservan; los matices para interpretarlas aparecen debajo.
+**Tabla de la diapositiva reorganizada.** Las expresiones de dolor, sensibilidad y función motora se conservan; los matices para interpretarlas aparecen debajo. La diapositiva siguiente añade el **mapa de dermatomas de L1 a S5** (vistas anterior, interna, externa y posterior del miembro inferior) y un esquema de la salida de las raíces de C1 a S5 a lo largo de la columna.
 
 | Raíz | Interespacio del curso | Distribución del dolor | Hipoestesia | Hallazgo o función motora señalada | Reflejo alterado |
 | --- | --- | --- | --- | --- | --- |
@@ -142,7 +158,7 @@ La diapositiva incluye **marcha de talones y puntillas**, exploración radicular
 > La sospecha requiere **valoración urgente por el equipo de columna y RM urgente**. No es necesario que estén presentes todos los signos para sospecharla. [AANS: síndrome de cola de caballo](https://www.aans.org/patients/conditions-treatments/cauda-equina-syndrome/) y [ACR: imagen ante sospecha de cola de caballo](https://acsearch.acr.org/docs/69483/narrative/).
 
 > [!question] Hueco en las diapositivas — edad y antecedentes
-> El material usa **<18 años** en un punto y **<20 años** en otro. No explica la diferencia ni fundamenta el umbral de >55 años. Tampoco aclara «AP» en la sospecha tumoral.
+> La propia diapositiva usa **<18 años** en un punto («edad extrema») y **<20 años** en otro («sospecha de tumor»); lo confirma el PDF original, así que no es un error de transcripción. No explica la diferencia ni fundamenta el umbral de >55 años. Tampoco aclara «AP» en la sospecha tumoral.
 
 > [!note] Aclaración — interpretar las alarmas en conjunto
 > Los umbrales de edad o el dolor nocturno aislados no deben convertirse en un diagnóstico. Importan el contexto y la combinación de hallazgos; ante sospecha tumoral, preguntar específicamente por **antecedente de cáncer**. [ACR: evaluación del dolor lumbar, escenarios de sospecha de patología grave](https://acsearch.acr.org/list/TopicNarrativePdf?topicId=141).
@@ -251,18 +267,35 @@ El dibujo central sitúa las regiones cervical, torácica, lumbar y sacra, el c�
 ## 8. Huecos pendientes
 
 > [!question] Hueco en las diapositivas — lo que queda por completar
-> - **Anamnesis:** inicio, duración, desencadenantes, evolución y repercusión funcional no se desarrollan de forma sistemática.
-> - **Patrones de dolor:** faltan la explicación de mecánico/no mecánico y ejemplos de dolor referido raquídeo.
+> - **Anamnesis:** *parcialmente resuelto* con el PDF. La diapositiva «Clínica» enumera seis preguntas (antecedentes, tiempo, mecánico frente a inflamatorio, clínica neurológica, factores modificadores y localización), pero no desarrolla el desencadenante ni la repercusión funcional.
+> - **Patrones de dolor:** se nombran (mecánico frente a inflamatorio o no mecánico), pero no se explican sus características ni se dan ejemplos de dolor referido raquídeo.
 > - **Cifras epidemiológicas:** faltan referencias y población del 80 % y del 70 %, así como de los rankings de consulta e incapacidad.
-> - **Red flags:** queda por aclarar la discrepancia <18/<20 años y qué antecedentes engloba «AP».
+> - **Red flags:** la discrepancia <18/<20 años está en el propio original; falta qué antecedentes engloba «AP».
 > - **Fracturas y ortesis:** faltan criterios concretos de tratamiento, indicación, tipo y duración de ortesis, y seguimiento.
 > - **Alta y revisión:** no aparecen criterios de alta ni plazos de reevaluación.
 >
-> Se han completado las maniobras, los matices radiculares, la retención urinaria y las indicaciones generales de imagen. Los huecos restantes se señalan **sin suponer que falten fotografías o diapositivas**. No se añaden pautas farmacológicas.
+> Contrastado con el PDF completo (14 diapositivas): **no hay diapositivas adicionales** que resuelvan los huecos restantes. No se añaden pautas farmacológicas.
 
 ## Procedencia de los apuntes
 
-Diez fotografías aportadas por el usuario, identificadas por sus nombres originales. Se han utilizado como material docente; las recomendaciones que contienen se transcriben o explican como contenido de la clase. Las aclaraciones externas se identifican en sus recuadros y enlazan a las fuentes consultadas el **22/09/2026**.
+**Fuente principal:** `5- COLUMNA.pdf` (14 diapositivas), *III Taller sobre Urgencias Traumatológicas*, HU Fundación Jiménez Díaz, 21-09-2026. La nota se redactó el 22-09-2026 a partir de diez fotografías y se contrastó con el PDF el 14-10-2026: se añadieron la diapositiva «Clínica», el mapa de dermatomas y los rótulos de la ilustración de Lasègue. El archivo se llamaba `COLUMNA/Lumbalgia.md`; se renombró para no duplicar el nombre de `10_Patologias/12_Traumatologia/Lumbalgia`.
+
+| Diapositivas del PDF | Contenido | Sección |
+| --- | --- | --- |
+| 1 y 14 | Portada y cierre | — |
+| 2 | Introducción: importancia | 1 |
+| 3 | Lumbalgias y lumbociatalgias: definiciones y causas | 1 |
+| 4 | Clínica: qué preguntar sobre el dolor | 1 |
+| 5 | Exploración física y Lasègue/Bragard | 2 |
+| 6–7 | Tabla de raíces L4, L5 y S1; dermatomas | 3 |
+| 8–9 | Red flags; no todo dolor lumbar es traumatológico | 4 |
+| 10 | Pruebas complementarias | 5 |
+| 11–12 | Fracturas vertebrales: anatomía radiológica y tres pilares | 6 |
+| 13 | Qué podemos ofrecer en la urgencia | 7 |
+
+### Fotografías originales
+
+Diez fotografías aportadas por el usuario, identificadas por sus nombres originales. Las aclaraciones externas se identifican en sus recuadros y enlazan a las fuentes consultadas el **22/09/2026**.
 
 | Fotografía | Diapositiva | Incorporación en estos apuntes |
 | --- | --- | --- |
