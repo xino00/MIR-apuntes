@@ -1,1 +1,0 @@
-Inmovilizar 90º flexion antebrazo neutro

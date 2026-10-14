@@ -2,26 +2,44 @@
 title: Codo en urgencias
 aliases:
   - apuntes_codo
+  - Patología de codo en Urgencias
+  - Fx cabeza y cuello radial
+  - Fx de humero distal
+  - Reduccion de luxación de codo
 tags:
-  - COT
+  - cot
+  - curso-cot
   - codo
+  - urgencias
+fuente: "Curso COT 2026 HUFJD - 3- CODO.pdf (Jaime Muñoz Castellanos, R3 COT)"
 ---
 
 # Codo en urgencias
 
-*Curso COT · Anatomía, fracturas, luxaciones y codo rojo*
+*Curso COT 2026 · Jaime Muñoz Castellanos, residente de 3.er año de COT · HU Fundación Jiménez Díaz · Anatomía, fracturas, luxaciones y codo rojo*
 
 > [!abstract] Índice de estudio
 > **Anatomía y exploración**
-> [[#1. Estabilidad del codo|Estabilidad]] · [[#2. Bursas del codo|Bursas]] · [[#3. Nervios y otras referencias anatómicas|Nervios]] · [[#4. Dolor de codo: diagnóstico diferencial por localización|Localización del dolor]] · [[#5. Anatomía radiográfica del codo|Radiografías]]
+> [[#Cuatro preguntas que ordenan la valoración|Cuatro preguntas]] · [[#1. Estabilidad del codo|Estabilidad]] · [[#2. Bursas del codo|Bursas]] · [[#3. Nervios y otras referencias anatómicas|Nervios]] · [[#4. Dolor de codo: diagnóstico diferencial por localización|Localización del dolor]] · [[#5. Anatomía radiográfica del codo|Radiografías]]
 >
 > **Fracturas y luxaciones**
 > [[#6. Fractura de húmero distal|Húmero distal]] · [[#7. Fractura de cabeza y cuello del radio|Cabeza y cuello radial]] · [[#8. Fractura de olécranon|Olécranon]] · [[#9. Luxación de codo|Luxación]] · [[#10. Fracturas-luxaciones transcubitales|Transcubitales]]
 >
 > **Diagnóstico y repaso**
-> [[#11. Fractura oculta: derrame y almohadillas grasas|Fractura oculta]] · [[#12. Codo rojo e hinchado: ¿bursa o articulación?|Codo rojo]] · [[#13. Repaso rápido|Repaso rápido]] · [[#Procedencia de los apuntes|Procedencia]]
+> [[#11. Fractura oculta: derrame y almohadillas grasas|Fractura oculta]] · [[#12. Codo rojo e hinchado: ¿bursa o articulación?|Codo rojo]] · [[#13. Repaso rápido|Repaso rápido]] · [[#Anotaciones de clase|Anotaciones de clase]] · [[#Procedencia|Procedencia]]
 
 ---
+
+## Cuatro preguntas que ordenan la valoración
+
+| # | Pregunta | Qué hacer |
+| --- | --- | --- |
+| 1 | **¿Dónde le duele?** | La localización orienta el diagnóstico diferencial → [[#4. Dolor de codo: diagnóstico diferencial por localización\|sección 4]] |
+| 2 | **¿Ha habido traumatismo?** | **Sí** → **Rx AP y lateral verdaderas**. El mecanismo ilustrado es la caída sobre la mano con el codo en extensión completa, con carga axial transmitida por el radio. **No** → pensar en el codo rojo → [[#12. Codo rojo e hinchado: ¿bursa o articulación?\|sección 12]] |
+| 3 | **¿Hay una fractura oculta?** | Buscar **derrame** y ***fat pad* posterior** → [[#11. Fractura oculta: derrame y almohadillas grasas\|sección 11]] |
+| 4 | **¿Es solo el codo?** | **Explorar antebrazo y muñeca** |
+
+> [!important] La exploración neurovascular se documenta antes y después de reducir.
 
 ## 1. Estabilidad del codo
 
@@ -165,12 +183,12 @@ En la proyección lateral se destacan con recuadros la **articulación humerorra
 
 El esquema incluye también las fracturas del **capitellum**:
 
-| Tipo | Contenido legible de la fotografía |
+| Tipo | Rótulo de la diapositiva |
 | --- | --- |
-| I | Fractura osteocondral de Hahn-Steinthal |
-| II | El rótulo no permite una transcripción inequívoca de la descripción |
+| I | Fractura osteocondral (Hahn y Steinthal) |
+| II | Fractura de conminución ósea del capitellum |
 | III | Fractura conminuta del capitellum |
-| IV | Fractura de tróclea y capitellum en el plano coronal |
+| IV | Fractura de la tróclea y capitellum (bicondílea) |
 
 ### Inmovilización
 
@@ -178,7 +196,7 @@ El esquema incluye también las fracturas del **capitellum**:
 > La diapositiva indica **férula braquial posterior**, antebrazo en **posición neutra** y flexión de «al menos 90°».
 
 > [!warning] Aclaración · Ángulo pendiente de confirmación
-> Conservar esa frase como contenido de la sesión, pero dejar el ángulo pendiente de confirmación con el protocolo de Traumatología. La fotografía no especifica a qué patrón de fractura o situación de partes blandas se refiere; no debe interpretarse como una indicación universal de forzar la flexión por encima de 90°.
+> Conservar esa frase como contenido de la sesión, pero dejar el ángulo pendiente de confirmación con el protocolo de Traumatología. La diapositiva no especifica a qué patrón de fractura o situación de partes blandas se refiere; no debe interpretarse como una indicación universal de forzar la flexión por encima de 90°.
 
 ## 7. Fractura de cabeza y cuello del radio
 
@@ -275,7 +293,23 @@ Técnica ilustrada para la **reducción de la luxación posterior de codo**:
 3. Cuando desciende el olécranon, **elevar suavemente el brazo o guiar la reducción**.
 4. **Flexión progresiva del codo** hasta conseguir una reducción congruente.
 
-El recuadro de la imagen recuerda valorar el estado neurovascular y confirmar radiográficamente la reducción.
+Puntos clave del recuadro: **maniobra suave y progresiva**, **valorar el estado neurovascular** y **confirmar con radiografías tras la reducción**.
+
+### Método de Meyn y Quigley: esquema de la diapositiva
+
+Es la otra técnica de **reducción de la luxación posterior** que se presentó:
+
+1. Paciente **en prono con el brazo apoyado** y **solo el antebrazo colgando** del borde.
+2. **Tracción suave y mantenida de la muñeca hacia abajo.**
+3. **Con la mano contraria, guiar el olécranon** hacia la reducción.
+4. Completar con **flexión suave del codo** hasta obtener una **reducción estable**.
+
+Puntos clave del recuadro: **solo cuelga el antebrazo** (el brazo permanece apoyado), **control manual del olécranon**, y **confirmar la estabilidad y el estado neurovascular**.
+
+| | Parvin | Meyn y Quigley |
+| --- | --- | --- |
+| Qué cuelga de la camilla | **Todo el miembro superior** | **Solo el antebrazo** |
+| Mano libre del explorador | Eleva el brazo o guía la reducción cuando desciende el olécranon | **Empuja el olécranon** hacia la reducción |
 
 ## 10. Fracturas-luxaciones transcubitales
 
@@ -345,6 +379,7 @@ Ante un traumatismo de codo, la diapositiva destaca la búsqueda de **derrame ar
 
 ### Anatomía y localización del dolor
 
+- **Cuatro preguntas:** ¿dónde duele?, ¿traumatismo? (sí → Rx AP y lateral verdaderas; no → codo rojo), ¿fractura oculta? (derrame, *fat pad*) y ¿es solo el codo? (antebrazo y muñeca). Neurovascular antes y después de reducir.
 - **Estabilidad**: depende del hueso y de los complejos ligamentosos medial y lateral.
 - **Complejo medial**: valgo y rotación interna.
 - **Complejo lateral**: varo y rotación externa.
@@ -361,10 +396,52 @@ Ante un traumatismo de codo, la diapositiva destaca la búsqueda de **derrame ar
 - **Húmero distal:** exploración suave y control neurovascular, seriado si es necesario.
 - **Cabeza radial:** explorar también la radiocubital distal y preguntar por posible luxación.
 - **Olécranon:** revisar nervio cubital y aparato extensor.
-- **Luxación:** buscar fracturas asociadas y valorar estabilidad tras la reducción.
+- **Luxación:** buscar fracturas asociadas y valorar estabilidad tras la reducción. Reducción posterior por **Parvin** (cuelga todo el miembro) o **Meyn-Quigley** (cuelga solo el antebrazo y se guía el olécranon).
 - **Transcubitales:** identificar a qué fragmento está unida la coronoides.
 - **Traumatismo sin trazo visible:** buscar derrame y almohadilla grasa posterior.
 - **Codo rojo:** valorar la movilidad pasiva para orientar bursa frente a articulación, sin usarla como criterio aislado de exclusión de infección.
 
 ---
 
+## Anotaciones de clase
+
+Tus apuntes de clase se conservan literalmente; su contenido está integrado en las secciones 6, 7 y 9. Antes eran notas sueltas de `CODO/` y sus nombres pasan a ser alias de esta nota.
+
+> [!quote]- Texto original de `Fx de humero distal.md`
+> ```text
+> Inmovilizar 90º flexion antebrazo neutro
+> ```
+
+> [!quote]- Texto original de `Fx cabeza y cuello radial.md`
+> *(archivo vacío)*
+
+> [!quote]- Texto original de `Reduccion de luxación de codo.md`
+> ```text
+> - Meyn y Quigley
+> - 
+> ```
+
+---
+
+## Procedencia
+
+**Fuente principal:** `3- CODO.pdf` (19 diapositivas), *III Taller sobre Urgencias Traumatológicas*, HU Fundación Jiménez Díaz, 21-09-2026. La nota se redactó primero a partir de fotografías de las diapositivas. El 14-10-2026 se contrastó con el PDF: se añadieron las cuatro preguntas y el método de Meyn y Quigley y se corrigieron los rótulos del capitellum.
+
+| Diapositivas | Contenido | Sección |
+| --- | --- | --- |
+| 1 y 19 | Portada y cierre | — |
+| 2–3 | Estabilidad, ligamentos, bursas y nervios | 1–3 |
+| 4 | Cuatro preguntas que ordenan la valoración | Cuatro preguntas |
+| 5 | ¿Dónde le duele? (esquema por localización) | 4 |
+| 6 | ¿Ha habido traumatismo? Sí → Rx; mecanismo | Cuatro preguntas |
+| 7–8 | Anatomía radiográfica AP y lateral | 5 |
+| 9 | Húmero distal y capitellum | 6 |
+| 10 | Cabeza y cuello del radio (Mason) | 7 |
+| 11 | Olécranon | 8 |
+| 12–13 | Luxación: Parvin y Meyn-Quigley | 9 |
+| 14 | Fracturas-luxaciones transcubitales | 10 |
+| 15 | Fractura oculta: almohadillas grasas | 11 |
+| 16 | ¿Ha habido traumatismo? No → codo rojo | Cuatro preguntas |
+| 17–18 | Codo rojo: bursa o articulación y algoritmo | 12 |
+
+Las aclaraciones citan su fuente junto al texto: AO Surgery Reference, Mulders et al. 2021, AAOS OrthoInfo y la guía SANJO 2023.
