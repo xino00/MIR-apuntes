@@ -49,6 +49,13 @@ description: "Índice de traumatología: lumbalgia, esguinces, fracturas, herida
 - [[Tendinitis - Plantilla General]]
 - [[Traumatismo General - Plantilla]]
 
+### 🎓 Curso COT 2026 (FJD)
+- [[Curso COT 2026 - Índice]]: las 10 charlas y búsqueda por problema
+- [[Curso COT apuntes/Patologías más frecuentes|Patologías más frecuentes]] (heridas, fracturas abiertas, síndrome compartimental)
+- [[Curso COT apuntes/HOMBRO/Hombro en urgencias|Hombro]] · [[Curso COT apuntes/CODO/Codo en urgencias|Codo]] · [[Curso COT apuntes/MANO/MANO|Muñeca y mano]]
+- [[Curso COT apuntes/COLUMNA/Columna en urgencias|Columna]] · [[Curso COT apuntes/Cadera|Cadera]] · [[Curso COT apuntes/RODILLA/RODILLA|Rodilla]] · [[Curso COT apuntes/TOBILLO|Tobillo y pie]]
+- [[Curso COT apuntes/Politrauma básico|Politrauma básico]] · [[Curso COT apuntes/Infecciones COT/Infecciones del aparato locomotor|Infecciones del aparato locomotor]] · [[Curso COT apuntes/Trauma infantil|Trauma infantil]]
+
 ---
 ### 🔗 Enlaces
 - [[000_INICIO]]
