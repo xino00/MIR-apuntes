@@ -2,27 +2,36 @@
 title: "Rodilla en Urgencias: anatomía, exploración y signos de alarma"
 aliases:
   - Rodilla en urgencias
+  - Patología de la rodilla en Urgencias
+  - Maniobras exploración rodilla
 tags:
-  - COT
+  - cot
+  - curso-cot
   - rodilla
+  - urgencias
+fuente: "Curso COT 2026 HUFJD - 7- RODILLA.pdf (Ilana Barak Díaz, R2 COT)"
 ---
 
 # Rodilla en Urgencias: anatomía, exploración y signos de alarma
 
-*Curso COT · Enfoque en el adulto*
+*Curso COT 2026 · Ilana Barak Díaz, residente de 2.º año de COT · HU Fundación Jiménez Díaz · Enfoque en el adulto*
 
 > [!abstract] Índice de estudio
 > - [[#1. Anatomía básica|Anatomía]]
 > - [[#2. Inspección: mirar y comparar|Inspección]]
 > - [[#3. Palpación: recorrido sistemático|Palpación]]
 > - [[#4. Balance articular y derrame|Balance articular y derrame]]
+> - [[#4 bis. Maniobras específicas|Maniobras específicas]]
 > - [[#5. Reglas de Ottawa para solicitar radiografía|Reglas de Ottawa]]
 > - [[#6. Cuándo avisar a COT|Cuándo avisar a COT]]
 > - [[#7. Datos útiles para comunicar la exploración|Comunicar la exploración]]
 > - [[#8. Síntesis del diagnóstico diferencial en Urgencias|Diagnóstico diferencial]]
+> - [[#9. Para llevarse a casa|Para llevarse a casa]]
+> - [[#Anotaciones de clase|Anotaciones de clase]]
 > - [[#Procedencia de los apuntes|Procedencia y fotografía]]
 
-**Exploración complementaria:** [[Curso COT apuntes/RODILLA/Maniobras exploración rodilla|Maniobras de exploración de rodilla]].
+> [!tip] Lema de la sesión
+> **Antes de las pruebas complementarias, hay que explorar al paciente:** inspección → palpación → balance articular y derrame → maniobras específicas.
 
 ## 1. Anatomía básica
 
@@ -110,7 +119,26 @@ La extensión activa contra gravedad permite valorar la función del aparato ext
 
 1. Comprimir el fondo de saco suprarrotuliano para desplazar el líquido hacia la articulación.
 2. Presionar suavemente la rótula hacia el fémur.
-3. La sensación de contacto y rebote de la rótula apoya la presencia de derrame, especialmente si es abundante.
+3. La sensación de contacto y rebote de la rótula apoya la presencia de derrame. La diapositiva dice: «si rebota, hay derrame **moderado-grave**».
+
+## 4 bis. Maniobras específicas
+
+Las páginas 9–12 del PDF solo nombran las maniobras y las ilustran con fotogramas de vídeo, sin describir la técnica. La técnica procede de tus apuntes de clase y, cuando está disponible, de la tabla de maniobras de AAPM&R (S = sensibilidad, E = especificidad).
+
+| # | Maniobra | Estructura | Técnica | Positivo |
+| --- | --- | --- | --- | --- |
+| 1 | **Lachman** | **LCA** | Supino, rodilla flexionada **entre la extensión completa y 30°**, talón sobre la camilla. Fijar el fémur con una mano y desplazar la tibia hacia delante con la otra | **Tope blando** (*soft end feel*), sugestivo de lesión del LCA. S 48–100 %, E 54–100 % |
+| 2 | **Cajón anterior / posterior** | **LCA / LCP** | Supino, cadera a 45° y **rodilla a 90°**. El explorador **se sienta sobre el pie** para bloquearlo, coloca las manos detrás de la tibia proximal y empuja hacia delante (anterior) o hacia atrás (posterior) | **Mayor desplazamiento tibial que en la rodilla contralateral**. Tus apuntes: positivo si **> 5 mm**. Cajón anterior S 9–95 %, E 33–100 %; posterior S 22–100 %, E 98–100 % |
+| 3 | **Estrés en varo / valgo** | **Colaterales** | Forzar la rodilla en valgo y en varo, comparando con el lado sano | Estrés positivo: **valgo → LCM**, **varo → LCL** |
+| 4 | **McMurray** | **Meniscos** | Supino, **rodilla en flexión completa**, sujetando las interlíneas. **Medial:** tobillo y tibia en **rotación externa** mantenida mientras se extiende la rodilla. **Lateral:** **rotación interna** mantenida durante la extensión. Tus apuntes: la punta del pie apunta al menisco contrario al explorado | **Dolor, chasquido** o incapacidad para extender por completo. Medial S 48–67 %, E 53–94 %; lateral S 32–63 %, E 86–94 % |
+| 5 | **Apley** | **Meniscos** | **Decúbito prono: compresión y rotación tibial** (tus apuntes) | No detallado en la sesión |
+| 6 | **Aprehensión rotuliana** | **Luxación rotuliana** | No detallada en la sesión | «Aprehensión positiva» en la luxación rotuliana (tabla de síntesis) |
+| 7 | **Extensor lag** | **Aparato extensor** | Comparar la extensión activa con la pasiva (ver [[#Movilidad activa frente a pasiva\|sección 4]]) | Déficit de extensión activa → rotura del aparato extensor |
+
+La tabla de síntesis cita también el **test de Thessaly** para la rotura meniscal; la sesión no lo desarrolla.
+
+> [!note] Aclaración · Fuente de técnica y cifras
+> La técnica de Lachman, los cajones y McMurray, y sus rangos de sensibilidad y especificidad, proceden de la tabla de maniobras musculoesqueléticas de AAPM&R. Los rangos tan amplios reflejan la variabilidad entre estudios: ninguna maniobra aislada confirma ni descarta la lesión, y siempre se compara con el lado sano. [AAPM&R — Specialized Musculoskeletal Examination: Table of Patient Tests](https://now.aapmr.org/wp-content/uploads/2021/09/Specialized-Musculoskeletal-Examination-Table-of-Patient-Tests.pdf). La sesión cita además a Malanga et al. (2003) y Solomon et al. (2001), ver la Procedencia.
 
 ## 5. Reglas de Ottawa para solicitar radiografía
 
@@ -210,7 +238,59 @@ Esta lista resume los elementos de las diapositivas y las aclaraciones anteriore
 > - **Artritis séptica:** la ausencia de fiebre o una PCR normal no la excluyen. Véanse [[#3. Palpación: recorrido sistemático|Palpación]] y [[#Sospecha de artritis séptica|Sospecha de artritis séptica]].
 > - **Bloqueo y movilidad:** el texto original presenta el déficit de extensión como una sospecha y pide interpretar los hallazgos junto con el resto de la exploración. Véase [[#4. Balance articular y derrame|Balance articular y derrame]].
 
+## 9. Para llevarse a casa
+
+1. **Sistemática siempre:** inspección → palpación → balance articular → maniobras específicas, comparando con el lado sano.
+2. **Las reglas de Ottawa** ayudan a decidir con seguridad cuándo pedir radiografía.
+3. **Lesiones de partes blandas, ligamentos o meniscos:** enviar a la consulta de COT con pruebas complementarias.
+4. **Luxación de rodilla o sospecha de infección articular:** actuar sin demora, son urgencias verdaderas.
+5. **Reevaluar y comparar** con la rodilla contralateral mejora la precisión diagnóstica en Urgencias.
+
+Relacionado: [[Curso COT apuntes/Patologías más frecuentes#3. Patología traumática de rodilla|criterios de derivación urgente (bloqueo, inestabilidad franca, derrame a tensión/hemartros) de la charla de patologías frecuentes]].
+
+---
+
+## Anotaciones de clase
+
+Tu esbozo de maniobras se conserva literalmente; su contenido está integrado en la [[#4 bis. Maniobras específicas|sección 4 bis]]. Antes era la nota `RODILLA/Maniobras exploración rodilla` y su nombre pasa a ser alias de esta nota.
+
+> [!quote]- Texto original de `Maniobras exploración rodilla.md`
+> ```text
+> - LCA lachman
+> - Cajones (LCP/LCA?): 90º, sentarse encima del pie para bloquear. Positivo desplazamiento >5mm. COmparar colateral
+> - Estrés varo valgo; COlaterales
+> - Meniscos: 
+> 	- mcmurray: decubito supino sujetar interlineas la punta del pie apunta al menisco contrario de la epxloracion
+> 	- Appley: decubito prono, compresion y rotacióin tibial
+> - Aprehensión rotuliana
+> - Extensor lag
+> ```
+
+---
+
 ## Procedencia de los apuntes
+
+### PDF de la sesión
+
+`7- RODILLA.pdf` (17 páginas; la numeración interna de las diapositivas llega a 20), *III Taller sobre Urgencias Traumatológicas*, HU Fundación Jiménez Díaz, 21-09-2026. Contrastado el 14-10-2026: coincide con lo ya transcrito de las fotografías. Se añadieron las maniobras específicas, los puntos para llevarse a casa y el lema de la sesión.
+
+| Páginas del PDF | Contenido | Sección |
+| --- | --- | --- |
+| 1 y 17 | Portada y cierre | — |
+| 2 | Objetivos y estructura | — |
+| 3–4 | Anatomía y estructuras que se exploran | 1 |
+| 5–8 | Sistemática: inspección, palpación (con Ottawa), balance y derrame | 2–5 |
+| 9–12 | Maniobras específicas (fotogramas de vídeo) | 4 bis |
+| 13 | Síntesis: diagnóstico diferencial | 8 |
+| 14 | Exploración para avisar a COT | 6 |
+| 15 | Para llevarse a casa | 9 |
+| 16 | Bibliografía | — |
+
+**Bibliografía citada en la sesión:**
+- Stiell IG, et al. *Prospective validation of a decision rule for the use of radiography in acute knee injuries*. JAMA. 1996;275(8):611–615.
+- Solomon DH, et al. *The rational clinical examination: does this patient have a torn meniscus or ligament of the knee?* JAMA. 2001;286(13):1610–1620.
+- Malanga GA, et al. *Physical examination of the knee: a review of the original test description and scientific validity of common orthopedic tests*. Arch Phys Med Rehabil. 2003;84(4):592–603.
+- Konin JG, et al. *Special Tests for Orthopedic Examination*. SLACK Incorporated.
 
 ### Texto aportado
 
