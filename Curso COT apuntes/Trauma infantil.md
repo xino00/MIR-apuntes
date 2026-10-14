@@ -128,7 +128,7 @@ Definiciones contrastadas con [POSNA: Gartland modificado](https://posna.org/phy
 
 Como ampliación práctica, son motivos de valoración urgente la mano isquémica, ausencia de pulso, déficit neurológico, lesión abierta o tumefacción importante. La flexión excesiva del codo inmovilizado puede comprometer la circulación. [RCH: signos de alarma e inmovilización](https://www.rch.org.au/clinicalguide/guideline_index/fractures/Supracondylar_fracture_of_the_humerus_Emergency_Department/).
 
-Relacionado: [[Curso COT apuntes/Sd compartimental|Síndrome compartimental]].
+Relacionado: [[Curso COT apuntes/Patologías más frecuentes#7. Síndrome compartimental|Síndrome compartimental]].
 
 ## 5. Fracturas de antebrazo
 
