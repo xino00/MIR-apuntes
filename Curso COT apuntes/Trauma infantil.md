@@ -197,7 +197,7 @@ La ampliación de **Caird** añade la **proteína C reactiva, PCR >2 mg/dL**, eq
 
 **Ampliación clínica:** la valoración por pediatría/COT es urgente. Obtener hemocultivos y, si el estado permite esperar, líquido sinovial antes del antibiótico. Si hay mal estado general o progresión rápida, **no retrasar el antibiótico por esperar la punción**. El control del foco puede requerir aspiración, lavado o cirugía según articulación y evolución; no todos los casos siguen una técnica única. La RM ayuda cuando se sospecha osteomielitis asociada o se necesita delimitar la extensión de la infección. [PIDS/IDSA: diagnóstico y tratamiento](https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/).
 
-Relacionado: [[Curso COT apuntes/Infecciones COT/ARTRITIS|Artritis — apuntes del curso]].
+Relacionado: [[Curso COT apuntes/Infecciones COT/Infecciones del aparato locomotor#1. Artritis séptica|Artritis — apuntes del curso]].
 
 ### Epifisiólisis femoral proximal
 

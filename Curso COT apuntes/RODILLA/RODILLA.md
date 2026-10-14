@@ -179,7 +179,7 @@ Pensar en ella ante derrame agudo muy doloroso, calor local e impotencia funcion
 > [!note]
 > Aclaración: si el paciente está estable, obtener líquido sinovial y los cultivos indicados antes de iniciar antibioterapia. Ante sepsis o shock séptico, iniciar el antibiótico cuanto antes, sin retrasarlo para esperar la punción. Analizar el líquido para identificación bacteriana, recuento celular y cristales. Guía SANJO, 2023, recomendaciones 3, 4 y 12.
 
-**Algoritmo completo:** [[Curso COT apuntes/Infecciones COT/ARTRITIS|Artritis séptica de articulación nativa: SANJO]], con interpretación del líquido sinovial, antibioterapia y cirugía.
+**Algoritmo completo:** [[Curso COT apuntes/Infecciones COT/Infecciones del aparato locomotor#1.6. Algoritmo SANJO (guía 2023)|Artritis séptica de articulación nativa: SANJO]], con interpretación del líquido sinovial, antibioterapia y cirugía.
 
 ### Fractura
 
