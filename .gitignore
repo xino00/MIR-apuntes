@@ -45,6 +45,7 @@ secrets/
 
 # AI agent configs
 .agents/
+CLAUDE.md
 
 # Binarios grandes en raíz (fotos, PDFs sueltos)
 PXL_*.jpg
