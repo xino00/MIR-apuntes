@@ -1,2 +1,0 @@
-- Cuidado con necrosis avascular 
-- UNa 
