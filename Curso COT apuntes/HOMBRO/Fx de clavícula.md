@@ -1,2 +1,0 @@
-- Pedir torax completo
-- Cabestrillo 
