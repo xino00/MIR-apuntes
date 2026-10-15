@@ -31,7 +31,7 @@ fuente: "Curso COT 2026 HUFJD - 8- TOBILLO Y PIE.pdf (Juan Iglesias Martín, R2 
 > - [[#Para llevar a casa|Para llevar a casa]]
 > - [[#8. Procedencia, referencias y análisis de huecos|Fuentes, originales y análisis de huecos]]
 
-**Notas relacionadas:** [[30_Urgencias/Exploracion_Fisica/Exploración de Tobillo y Antepié|Exploración de tobillo y antepié]] · [[10_Patologias/12_Traumatologia/Esguince de Tobillo|Esguince de tobillo]] · [[10_Patologias/12_Traumatologia/Ejercicios_SERMEF/Ejercicios SERMEF - Dolor tras esguince de tobillo|Ejercicios SERMEF tras esguince]] · [[Curso COT apuntes/Patologías más frecuentes#2. Esguince de tobillo|Esguince de tobillo en la charla de patologías frecuentes]].
+**Notas relacionadas:** [[30_Urgencias/Exploracion_Fisica/Exploración de Tobillo y Antepié|Exploración de tobillo y antepié]] · [[10_Patologias/12_Traumatologia/Esguince de Tobillo|Esguince de tobillo]] · [[10_Patologias/12_Traumatologia/Ejercicios_SERMEF/Ejercicios SERMEF - Dolor tras esguince de tobillo|Ejercicios SERMEF tras esguince]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/Patologías más frecuentes#2. Esguince de tobillo|Esguince de tobillo en la charla de patologías frecuentes]].
 
 ## Objetivos y preguntas clave
 

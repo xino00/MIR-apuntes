@@ -71,7 +71,7 @@ Los esquemas anatómicos resaltan:
 - **↑ Propiocepción.**
 - **¡No inmovilizar!** La diapositiva tacha la imagen de una pierna escayolada y muestra, como alternativa, un **vendaje elástico** y **muletas**.
 
-Desarrollo completo (grados, «buscar algo más», lesiones del pie que no deben pasar inadvertidas): [[Curso COT apuntes/TOBILLO#3. Esguince lateral|Tobillo y pie en Urgencias]].
+Desarrollo completo (grados, «buscar algo más», lesiones del pie que no deben pasar inadvertidas): [[10_Patologias/12_Traumatologia/Curso COT apuntes/TOBILLO#3. Esguince lateral|Tobillo y pie en Urgencias]].
 
 ---
 
@@ -88,7 +88,7 @@ Desarrollo completo (grados, «buscar algo más», lesiones del pie que no deben
 | Algún signo de alarma | **Derivación urgente a COT** |
 | Sin signos de alarma | **Rodillera + reposo relativo + control en consulta con RM** |
 
-Exploración sistemática, maniobras y resto de motivos para avisar: [[Curso COT apuntes/RODILLA/RODILLA#6. Cuándo avisar a COT|Rodilla en Urgencias]].
+Exploración sistemática, maniobras y resto de motivos para avisar: [[10_Patologias/12_Traumatologia/Curso COT apuntes/RODILLA/RODILLA#6. Cuándo avisar a COT|Rodilla en Urgencias]].
 
 ---
 
@@ -184,7 +184,7 @@ La diapositiva no explica la clindamicina entre paréntesis; habitualmente es la
 > - Es tiempo-dependiente (la diapositiva lo ilustra con un reloj de arena).
 > - **Aviso inmediato a COT.** La imagen muestra una fasciotomía de la pierna con dos incisiones.
 
-Relacionado: [[Curso COT apuntes/RODILLA/RODILLA#Sospecha de síndrome compartimental|síndrome compartimental en la rodilla]] · [[Curso COT apuntes/CODO/Codo en urgencias#6. Fractura de húmero distal|fractura de húmero distal]] · [[Curso COT apuntes/Trauma infantil#4. Fractura supracondílea de húmero|fractura supracondílea en el niño]].
+Relacionado: [[10_Patologias/12_Traumatologia/Curso COT apuntes/RODILLA/RODILLA#Sospecha de síndrome compartimental|síndrome compartimental en la rodilla]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/CODO/Codo en urgencias#6. Fractura de húmero distal|fractura de húmero distal]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/Trauma infantil#4. Fractura supracondílea de húmero|fractura supracondílea en el niño]].
 
 ---
 
@@ -247,7 +247,7 @@ Tus apuntes de clase se conservan literalmente; su contenido está integrado en 
 >
 > ## Apuntes del curso
 >
-> [[Curso COT apuntes/RODILLA/RODILLA|Rodilla en Urgencias: anatomía, exploración y signos de alarma]].
+> [[10_Patologias/12_Traumatologia/Curso COT apuntes/RODILLA/RODILLA|Rodilla en Urgencias: anatomía, exploración y signos de alarma]].
 > ```
 
 ---

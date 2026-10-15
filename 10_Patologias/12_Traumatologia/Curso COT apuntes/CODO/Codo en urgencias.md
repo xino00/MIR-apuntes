@@ -373,7 +373,7 @@ Ante un traumatismo de codo, la diapositiva destaca la búsqueda de **derrame ar
 
 ---
 
-**Algoritmo completo:** [[Curso COT apuntes/Infecciones COT/Infecciones del aparato locomotor#1.6. Algoritmo SANJO (guía 2023)|Artritis séptica de articulación nativa: SANJO]], con interpretación del líquido sinovial, antibioterapia y cirugía.
+**Algoritmo completo:** [[10_Patologias/12_Traumatologia/Curso COT apuntes/Infecciones COT/Infecciones del aparato locomotor#1.6. Algoritmo SANJO (guía 2023)|Artritis séptica de articulación nativa: SANJO]], con interpretación del líquido sinovial, antibioterapia y cirugía.
 
 ## 13. Repaso rápido
 

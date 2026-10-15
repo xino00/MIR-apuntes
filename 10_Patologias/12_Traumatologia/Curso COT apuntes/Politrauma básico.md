@@ -113,7 +113,7 @@ Tabla de clasificación del shock hemorrágico de la diapositiva (con logotipo d
 - **Tabla de shock:** útil para estimar la pérdida, pero **FC y PA normales no descartan hemorragia**; guiarse por la tendencia y el déficit de bases.
 - **Pelvis:** sospecha → **faja a la altura de los trocánteres** con los pies en **rotación interna**; explorar la estabilidad una sola vez; **Rx de pelvis sin faja** cuando esté estable; retirada precoz según protocolo.
 
-Relacionado: [[Curso COT apuntes/Patologías más frecuentes#6. Fracturas abiertas|fracturas abiertas]] · [[Curso COT apuntes/Patologías más frecuentes#7. Síndrome compartimental|síndrome compartimental]] · [[Curso COT apuntes/Cadera#4.3. Pruebas complementarias y clasificación|sangrado oculto en la fractura de cadera]].
+Relacionado: [[10_Patologias/12_Traumatologia/Curso COT apuntes/Patologías más frecuentes#6. Fracturas abiertas|fracturas abiertas]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/Patologías más frecuentes#7. Síndrome compartimental|síndrome compartimental]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/Cadera#4.3. Pruebas complementarias y clasificación|sangrado oculto en la fractura de cadera]].
 
 ---
 

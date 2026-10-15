@@ -179,7 +179,7 @@ Pensar en ella ante derrame agudo muy doloroso, calor local e impotencia funcion
 > [!note]
 > Aclaración: si el paciente está estable, obtener líquido sinovial y los cultivos indicados antes de iniciar antibioterapia. Ante sepsis o shock séptico, iniciar el antibiótico cuanto antes, sin retrasarlo para esperar la punción. Analizar el líquido para identificación bacteriana, recuento celular y cristales. Guía SANJO, 2023, recomendaciones 3, 4 y 12.
 
-**Algoritmo completo:** [[Curso COT apuntes/Infecciones COT/Infecciones del aparato locomotor#1.6. Algoritmo SANJO (guía 2023)|Artritis séptica de articulación nativa: SANJO]], con interpretación del líquido sinovial, antibioterapia y cirugía.
+**Algoritmo completo:** [[10_Patologias/12_Traumatologia/Curso COT apuntes/Infecciones COT/Infecciones del aparato locomotor#1.6. Algoritmo SANJO (guía 2023)|Artritis séptica de articulación nativa: SANJO]], con interpretación del líquido sinovial, antibioterapia y cirugía.
 
 ### Fractura
 
@@ -246,7 +246,7 @@ Esta lista resume los elementos de las diapositivas y las aclaraciones anteriore
 4. **Luxación de rodilla o sospecha de infección articular:** actuar sin demora, son urgencias verdaderas.
 5. **Reevaluar y comparar** con la rodilla contralateral mejora la precisión diagnóstica en Urgencias.
 
-Relacionado: [[Curso COT apuntes/Patologías más frecuentes#3. Patología traumática de rodilla|criterios de derivación urgente (bloqueo, inestabilidad franca, derrame a tensión/hemartros) de la charla de patologías frecuentes]].
+Relacionado: [[10_Patologias/12_Traumatologia/Curso COT apuntes/Patologías más frecuentes#3. Patología traumática de rodilla|criterios de derivación urgente (bloqueo, inestabilidad franca, derrame a tensión/hemartros) de la charla de patologías frecuentes]].
 
 ---
 

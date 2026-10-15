@@ -128,7 +128,7 @@ Definiciones contrastadas con [POSNA: Gartland modificado](https://posna.org/phy
 
 Como ampliación práctica, son motivos de valoración urgente la mano isquémica, ausencia de pulso, déficit neurológico, lesión abierta o tumefacción importante. La flexión excesiva del codo inmovilizado puede comprometer la circulación. [RCH: signos de alarma e inmovilización](https://www.rch.org.au/clinicalguide/guideline_index/fractures/Supracondylar_fracture_of_the_humerus_Emergency_Department/).
 
-Relacionado: [[Curso COT apuntes/Patologías más frecuentes#7. Síndrome compartimental|Síndrome compartimental]].
+Relacionado: [[10_Patologias/12_Traumatologia/Curso COT apuntes/Patologías más frecuentes#7. Síndrome compartimental|Síndrome compartimental]].
 
 ## 5. Fracturas de antebrazo
 
@@ -197,7 +197,7 @@ La ampliación de **Caird** añade la **proteína C reactiva, PCR >2 mg/dL**, eq
 
 **Ampliación clínica:** la valoración por pediatría/COT es urgente. Obtener hemocultivos y, si el estado permite esperar, líquido sinovial antes del antibiótico. Si hay mal estado general o progresión rápida, **no retrasar el antibiótico por esperar la punción**. El control del foco puede requerir aspiración, lavado o cirugía según articulación y evolución; no todos los casos siguen una técnica única. La RM ayuda cuando se sospecha osteomielitis asociada o se necesita delimitar la extensión de la infección. [PIDS/IDSA: diagnóstico y tratamiento](https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/).
 
-Relacionado: [[Curso COT apuntes/Infecciones COT/Infecciones del aparato locomotor#1. Artritis séptica|Artritis — apuntes del curso]].
+Relacionado: [[10_Patologias/12_Traumatologia/Curso COT apuntes/Infecciones COT/Infecciones del aparato locomotor#1. Artritis séptica|Artritis — apuntes del curso]].
 
 ### Epifisiólisis femoral proximal
 

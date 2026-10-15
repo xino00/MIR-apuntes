@@ -21,7 +21,7 @@ fuente: "Curso COT 2026 HUFJD - 10- INFECCIONES.pdf (Álvaro Auñón Rubio, adju
 
 *Curso COT 2026 · Álvaro Auñón Rubio, MD, PhD, adjunto de COT · HU Fundación Jiménez Díaz*
 
-**Relacionado:** [[Curso COT apuntes/RODILLA/RODILLA#Sospecha de artritis séptica|Artritis séptica de rodilla]] · [[Curso COT apuntes/CODO/Codo en urgencias#12. Codo rojo e hinchado: ¿bursa o articulación?|Codo rojo: bursa o articulación]] · [[Curso COT apuntes/Patologías más frecuentes#5. Complicaciones postoperatorias|Complicaciones postoperatorias]] · [[Curso COT apuntes/MANO/MANO#5. Tenosinovitis flexora piógena|Tenosinovitis flexora piógena]] · [[Celulitis, erisipela y fascitis necrosante]] · [[PROA - Infecciones de Piel y Partes Blandas]]
+**Relacionado:** [[10_Patologias/12_Traumatologia/Curso COT apuntes/RODILLA/RODILLA#Sospecha de artritis séptica|Artritis séptica de rodilla]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/CODO/Codo en urgencias#12. Codo rojo e hinchado: ¿bursa o articulación?|Codo rojo: bursa o articulación]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/Patologías más frecuentes#5. Complicaciones postoperatorias|Complicaciones postoperatorias]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/MANO/MANO#5. Tenosinovitis flexora piógena|Tenosinovitis flexora piógena]] · [[Celulitis, erisipela y fascitis necrosante]] · [[PROA - Infecciones de Piel y Partes Blandas]]
 
 > [!abstract] Índice
 > **1. Artritis séptica:** [[#1.1. Caso 1|Caso 1]] · [[#1.2. Por qué es una urgencia: la curva de destrucción articular|Curva de destrucción]] · [[#1.3. Gonocócica frente a no gonocócica|Gonocócica frente a no gonocócica]] · [[#1.4. Cómo se llega al diagnóstico|Diagnóstico]] · [[#1.5. Líquido sinovial: cómo se interpreta|Líquido sinovial]] · [[#1.6. Algoritmo SANJO (guía 2023)|Algoritmo SANJO]]
@@ -337,7 +337,7 @@ Son umbrales **mucho más bajos que en la articulación nativa**: los 180.000 le
 | Entidad | Clave |
 | --- | --- |
 | Celulitis grave | No hay dolor desproporcionado, ni bullas hemorrágicas, ni anestesia cutánea |
-| Síndrome compartimental postraumático | Puede coexistir; **ambos van a quirófano** ([[Curso COT apuntes/Patologías más frecuentes#7. Síndrome compartimental\|síndrome compartimental]]) |
+| Síndrome compartimental postraumático | Puede coexistir; **ambos van a quirófano** ([[10_Patologias/12_Traumatologia/Curso COT apuntes/Patologías más frecuentes#7. Síndrome compartimental\|síndrome compartimental]]) |
 | Pioderma gangrenoso y vasculitis | **Empeoran con el desbridamiento**: valoración conjunta |
 | Gangrena de Fournier | **Explorar siempre periné y escroto** en el paciente séptico sin foco |
 

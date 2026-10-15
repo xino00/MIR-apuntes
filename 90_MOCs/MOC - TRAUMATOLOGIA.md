@@ -51,10 +51,10 @@ description: "Índice de traumatología: lumbalgia, esguinces, fracturas, herida
 
 ### 🎓 Curso COT 2026 (FJD)
 - [[Curso COT 2026 - Índice]]: las 10 charlas y búsqueda por problema
-- [[Curso COT apuntes/Patologías más frecuentes|Patologías más frecuentes]] (heridas, fracturas abiertas, síndrome compartimental)
-- [[Curso COT apuntes/HOMBRO/Hombro en urgencias|Hombro]] · [[Curso COT apuntes/CODO/Codo en urgencias|Codo]] · [[Curso COT apuntes/MANO/MANO|Muñeca y mano]]
-- [[Curso COT apuntes/COLUMNA/Columna en urgencias|Columna]] · [[Curso COT apuntes/Cadera|Cadera]] · [[Curso COT apuntes/RODILLA/RODILLA|Rodilla]] · [[Curso COT apuntes/TOBILLO|Tobillo y pie]]
-- [[Curso COT apuntes/Politrauma básico|Politrauma básico]] · [[Curso COT apuntes/Infecciones COT/Infecciones del aparato locomotor|Infecciones del aparato locomotor]] · [[Curso COT apuntes/Trauma infantil|Trauma infantil]]
+- [[10_Patologias/12_Traumatologia/Curso COT apuntes/Patologías más frecuentes|Patologías más frecuentes]] (heridas, fracturas abiertas, síndrome compartimental)
+- [[10_Patologias/12_Traumatologia/Curso COT apuntes/HOMBRO/Hombro en urgencias|Hombro]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/CODO/Codo en urgencias|Codo]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/MANO/MANO|Muñeca y mano]]
+- [[10_Patologias/12_Traumatologia/Curso COT apuntes/COLUMNA/Columna en urgencias|Columna]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/Cadera|Cadera]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/RODILLA/RODILLA|Rodilla]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/TOBILLO|Tobillo y pie]]
+- [[10_Patologias/12_Traumatologia/Curso COT apuntes/Politrauma básico|Politrauma básico]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/Infecciones COT/Infecciones del aparato locomotor|Infecciones del aparato locomotor]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/Trauma infantil|Trauma infantil]]
 
 ---
 ### 🔗 Enlaces
