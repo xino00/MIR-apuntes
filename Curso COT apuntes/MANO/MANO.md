@@ -287,8 +287,8 @@ Tus apuntes de clase se conservan literalmente; su contenido está integrado en 
 
 > [!quote]- Texto original de `Fx de escafoides.md`
 > ```text
-> - Cuidado con necrosis avascular 
-> - UNa 
+> - Cuidado con necrosis avascular
+> - UNa
 > ```
 
 La frase «UNa» quedó incompleta en tus apuntes; no se ha inventado su continuación.

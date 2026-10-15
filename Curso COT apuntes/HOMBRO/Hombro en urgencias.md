@@ -263,11 +263,11 @@ Tus apuntes de clase se conservan literalmente; su contenido está integrado en 
 > Tx hombro con impotencia funcional
 >
 > Buena exploración, Rx dos proyecciones.
-> #### Anamnesis: 
-> - FRCV anticoagulantes, AA, TCE?, movilidad situaicón funcional, ayunas horas, 
+> #### Anamnesis:
+> - FRCV anticoagulantes, AA, TCE?, movilidad situaicón funcional, ayunas horas,
 > #### EF
 > - HEmatoma de Hennekin
-> - - Deformidad 
+> - - Deformidad
 > - Tumefación
 > - Heridas, lesones cutañeneas
 > - Dolor a moviliad pasiva conserva
@@ -279,7 +279,7 @@ Tus apuntes de clase se conservan literalmente; su contenido está integrado en 
 
 > [!quote]- Texto original de `Luxación de hombro.md`
 > ```text
-> Anterior 96% 
+> Anterior 96%
 > Posterior 3% electrocutados o convulsiones
 >
 > ###AP:
@@ -292,7 +292,7 @@ Tus apuntes de clase se conservan literalmente; su contenido está integrado en 
 > ### PPCC:
 > - AP, L y axiales
 > 	- Posterior signo de la bombilla (cabeza muy redondita)
-> 	- 
+> 	-
 > Si no se reduce revalorar otras situaciones ()
 > ```
 
@@ -307,7 +307,7 @@ Tus apuntes de clase se conservan literalmente; su contenido está integrado en 
 > [!quote]- Texto original de `Fx de clavícula.md`
 > ```text
 > - Pedir torax completo
-> - Cabestrillo 
+> - Cabestrillo
 > ```
 
 > [!quote]- Texto original de `Luxación acromioclavicular.md`

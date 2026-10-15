@@ -418,7 +418,7 @@ Tus apuntes de clase se conservan literalmente; su contenido está integrado en 
 > [!quote]- Texto original de `Reduccion de luxación de codo.md`
 > ```text
 > - Meyn y Quigley
-> - 
+> -
 > ```
 
 ---

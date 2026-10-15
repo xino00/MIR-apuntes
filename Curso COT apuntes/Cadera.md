@@ -451,7 +451,7 @@ Tus apuntes de clase se conservan literalmente; su contenido está integrado en 
 > Clasificación
 > 1. Intracapsulares
 > 2. Extracapsulares
-> Vigilar Hb y sangrado 
+> Vigilar Hb y sangrado
 > 	Riesgo aumenta: transtrocantérica, tiempo edad
 > Demorar el tratamiento qx 24-48h aumenta la mortalidad
 > ## Luxación

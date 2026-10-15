@@ -216,7 +216,7 @@ Tus apuntes de clase se conservan literalmente; su contenido está integrado en 
 > # Infecciones 7-10 días postop
 > - pedir Rx
 > - Ante la duda dejar en ayunas
-> - Prfilaxis TVP 
+> - Prfilaxis TVP
 > - Preguntar tx o caídas
 > - No ATB, retrasa el Dx
 > - Normal hematoma
