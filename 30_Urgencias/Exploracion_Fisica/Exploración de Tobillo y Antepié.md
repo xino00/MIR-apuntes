@@ -187,17 +187,17 @@ Secuencia del curso (analgesia, aviso, reducción si procede, inmovilizar y reex
 
 ## 8. Reglas de Ottawa (cuándo pedir Rx)
 
-Solicitar Rx de tobillo si:
-- Dolor en zona maleolar + incapacidad para cargar 4 pasos
-- Dolor en el maléolo lateral (6 cm proximales o punta)
-- Dolor en el maléolo medial (6 cm proximales o punta)
+Solicitar Rx de tobillo si hay **dolor en la zona maleolar** y al menos uno de:
+- Dolor a la palpación ósea en el **borde posterior** de los 6 cm distales del peroné o en la **punta del maléolo lateral**
+- Dolor a la palpación ósea en el **borde posterior** de los 6 cm distales de la tibia o en la **punta del maléolo medial**
+- Incapacidad para cargar peso (dar **4 pasos**) **tanto inmediatamente tras la lesión como en Urgencias**
 
-Solicitar Rx de pie si:
-- Dolor en base del **5º metatarsiano**
-- Dolor en el **navicular**
-- Incapacidad para cargar 4 pasos
+Solicitar Rx de pie si hay **dolor en el mediopié** y al menos uno de:
+- Dolor a la palpación ósea en la base del **5º metatarsiano**
+- Dolor a la palpación ósea en el **navicular**
+- Incapacidad para dar **4 pasos** tanto inmediatamente tras la lesión como en Urgencias
 
-> **Sensibilidad ~99%** para descartar fracturas significativas. Especificidad baja (~40%) → muchas Rx negativas, pero ninguna fractura importante se escapa.
+> **Sensibilidad agrupada ~98 %** (tobillo 98 %, mediopié 99 %) y **especificidad modesta** (mediana ~40 % en tobillo y ~38 % en mediopié; 10–79 % según el estudio) → reduce las Rx un 30–40 %. Con la regla negativa, la probabilidad de fractura es **< 1,4 %** con una prevalencia del 15 %: baja, no nula. [Revisión sistemática de Bachmann, BMJ 2003](https://doi.org/10.1136/bmj.326.7386.417); regla refinada y validada en [Stiell, JAMA 1993](https://doi.org/10.1001/jama.269.9.1127).
 
 Límites de Ottawa y qué estudio ampliar (Lisfranc, fractura oculta): [[10_Patologias/12_Traumatologia/Curso COT apuntes/TOBILLO#2. Pruebas de imagen|curso COT]].
 

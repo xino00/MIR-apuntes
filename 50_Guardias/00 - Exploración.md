@@ -247,7 +247,7 @@ JC: Gonalgia de características mecánicas. (detalle de maniobras en [[Explorac
 
 TOBILLO: No lesiones dermatológicas/Se aprecia hematoma/ tumefacción a nivel de maléolo externo e interno. Dolor a la palpación de ligamento peroneo-astragalino anterior, peroneo astragalino posterior y ligamento peroneocalcáneo. No dolor a la palpación de ligamento deltoideo, base del 5º metatarsiano, tibia y peroneo distal y proximal. Dolor a la inversión/eversión pasiva. Fuerza y sensibilidad distal conservada. Pulsos pedios conservados.
 <!-- corregido "cabeza"→"base del 5º metatarsiano": la avulsión por peroneos se palpa en la BASE, no en la cabeza (ver [[Exploración de Tobillo y Antepié]]) -->
-*Reglas de Ottawa (cuándo pedir Rx, ver [[Exploración de Tobillo y Antepié]]): Rx tobillo si dolor maleolar + incapacidad de cargar 4 pasos, o dolor en punta/6 cm proximales de maléolo lateral o medial; Rx pie si dolor en base del 5º MT o navicular, o incapacidad de cargar 4 pasos. (detalle en [[Esguince de Tobillo]]; lesiones que no deben pasar inadvertidas: [[10_Patologias/12_Traumatologia/Curso COT apuntes/TOBILLO#5. Lesiones que no deben pasar inadvertidas|curso COT]])
+*Reglas de Ottawa (cuándo pedir Rx, ver [[Exploración de Tobillo y Antepié]]): Rx tobillo si dolor maleolar + dolor óseo en borde posterior de los 6 cm distales o punta de maléolo lateral o medial, o incapacidad de dar 4 pasos inmediatamente y en Urgencias; Rx pie si dolor en mediopié + dolor óseo en base del 5º MT o navicular, o incapacidad de dar 4 pasos. (detalle en [[Esguince de Tobillo]]; lesiones que no deben pasar inadvertidas: [[10_Patologias/12_Traumatologia/Curso COT apuntes/TOBILLO#5. Lesiones que no deben pasar inadvertidas|curso COT]])
 
 
 

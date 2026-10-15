@@ -91,7 +91,7 @@ aliases:
 - **Posición:** Decúbito supino, rodilla 20–30° flexión
 - **Técnica:** Estabilizar fémur con mano proximal, tracción anterior de tibia con mano distal
 - **Positivo:** Traslación aumentada + tope blando (*soft endpoint*)
-- **Sensibilidad ~85% · Especificidad ~94%**
+- **Sensibilidad 85 % · Especificidad 94 %**: valores agrupados del metaanálisis de [Benjaminse 2006](https://doi.org/10.2519/jospt.2006.2011) (28 estudios heterogéneos); en la revisión de [Solomon, JAMA 2001](https://doi.org/10.1001/jama.286.13.1610), LR+ 25 y LR− 0,1. Los estudios individuales varían mucho: ver los rangos en la [[10_Patologias/12_Traumatologia/Curso COT apuntes/RODILLA/RODILLA#4 bis. Maniobras específicas|tabla del curso COT]].
 
 > 💡 El tope blando es más relevante que la cantidad de traslación
 
