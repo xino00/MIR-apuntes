@@ -27,16 +27,16 @@ El protocolo FJD indica avisar a ORL de alerta ante absceso periamigdalino o cer
 - Canalizar vía y solicitar hemograma, bioquímica y coagulación según el circuito FJD. Documentar función renal y alergias antes de concretar el antibiótico.[^fjd]
 - **Masa sin datos infecciosos claros:** considerar origen quístico/tumoral; anotar evolución, consistencia, dolor y episodios previos. No convertir toda masa cervical en un absceso ni indicar antibiótico por su sola presencia.[^fjd]
 
-El Manual recuerda complicaciones como extensión retrofaríngea, síndrome de Lemierre, fascitis necrotizante y angina de Ludwig; la sospecha exige valoración especializada urgente.[^manual]
+El Manual recuerda complicaciones como extensión retrofaríngea, síndrome de Lemierre, [[Celulitis, erisipela y fascitis necrosante#Sospecha de fascitis necrosante|fascitis necrotizante]] y angina de Ludwig; la sospecha exige valoración especializada urgente.[^manual]
 
 ## Tratamiento
 
 ### Absceso periamigdalino
 
 - Analgesia, soporte de hidratación y valoración por ORL para control del foco; un absceso puede requerir drenaje.[^manual]
-- FJD propone **amoxicilina-clavulánico IV** y **dexametasona 10 mg IV inicial**. El original expresa el antibiótico como «1 g IV», sin componente de clavulanato ni intervalo: **confirmar presentación y pauta completa con ORL/Farmacia antes de prescribir; no convertirlo a un vial o volumen por suposición**.[^fjd]
-- La dexametasona se recoge como pauta local inicial, sin repeticiones automáticas. Antes de preparar el volumen, comprobar cómo expresa la dosis el producto utilizado: la ficha de Kern distingue fosfato y base.[^dex]
-- Al alta, FJD indica amoxicilina-clavulánico con duración según control del foco y evolución, **sin dosis oral ni duración fija**. Registrar la pauta completa acordada con ORL; no exportar la anotación IV al alta.[^fjd]
+- FJD propone **[[Amoxicilina-Clavulanico|amoxicilina-clavulánico]] 1g IV** y **dexametasona 10 mg IV inicial**. *Yo pondría A/C de 2g por el alto inóculo del absceso*. 
+- La [[dexametasona]] se recoge como pauta local inicial, sin repeticiones automáticas. Antes de preparar el volumen, comprobar cómo expresa la dosis el producto utilizado: la ficha de Kern distingue fosfato y base.[^dex]
+- Al alta, FJD indica amoxicilina-clavulánico con duración según control del foco y evolución, **sin dosis oral ni duración fija**. 
 
 > [!note] Contraste con el Manual
 > El Manual recoge amoxicilina-clavulánico **875/125 mg cada 8 h durante 10-14 días** para flemón/absceso periamigdalino. Es una pauta de esa fuente, no una duración fija atribuible al algoritmo FJD 2026. La decisión ambulatoria y el tratamiento final dependen del drenaje, estabilidad y evolución.[^manual]
@@ -45,7 +45,7 @@ El Manual recuerda complicaciones como extensión retrofaríngea, síndrome de L
 
 - ORL de alerta, antibiótico IV y decisión de drenaje/control del foco según hallazgos.[^fjd]
 - FJD escribe amoxicilina-clavulánico **«1 g cada 8 h IV»**, con el mismo problema de formulación incompleta. Confirmar la prescripción completa de inmediato; no reutilizar pautas de otras infecciones para completarla.[^fjd]
-- El recuadro «alergia a penicilina» propone **metronidazol 500 mg cada 8 h IV + ceftriaxona 2 g cada 24 h IV**. No equivale a una alternativa válida para cualquier alergia a betalactámicos: caracterizar reacción y revisar [[Infecciones ORL - Alergia a Betalactámicos]] antes de seleccionar el régimen.[^fjd]
+- El recuadro «alergia a penicilina» propone **[[Metronidazol|metronidazol]] 500 mg cada 8 h IV + [[Ceftriaxona|ceftriaxona]] 2 g cada 24 h IV**. No equivale a una alternativa válida para cualquier alergia a betalactámicos: caracterizar reacción y revisar [[Infecciones ORL - Alergia a Betalactámicos]] antes de seleccionar el régimen.[^fjd]
 - FJD menciona corticoide sistémico precoz IV sin molécula/dosis y duración antibiótica según respuesta. Ambos extremos deben quedar definidos por el equipo responsable; no completar con el esquema de 2024.[^fjd]
 
 ## Destino y seguimiento
@@ -73,7 +73,7 @@ Véanse [[Faringoamigdalitis Aguda]], [[Epiglotitis del Adulto]] y [[Tumefacció
 
 ## Fuentes
 
-[^fjd]: FJD, algoritmo de complicaciones postamigdalectomía, absceso periamigdalino, masa cervical y epiglotitis, octubre de 2026, p. 1: [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Absceso Periamigdalino y Complicaciones Postamigdalectomía 2026.pdf#page=1|PDF original]].
+[^fjd]: **Protocolos ORL de FJD** — FJD, algoritmo de complicaciones postamigdalectomía, absceso periamigdalino, masa cervical y epiglotitis, octubre de 2026, p. 1: [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Absceso Periamigdalino y Complicaciones Postamigdalectomía 2026.pdf#page=1|PDF original]].
 [^manual]: Manual del 12 de Octubre 2022, cap. 9, pp. impresas 127-128 (PDF 143-144): [[Libros y referencias/01_General/Manual 12 Octubre 2022.pdf#page=144|Flemón y absceso periamigdalino]].
 [^via]: NHS Borders, [Acute adult upper airway obstruction](https://www.rightdecisions.scot.nhs.uk/nhs-borders-clinical-guidelines/ear-nose-and-throat/acute-adult-upper-airway-obstruction/), revisión 18/09/2023, consultada 29/09/2026. Complemento para oxígeno y valoración urgente conjunta de vía aérea; no se importan sus pautas farmacológicas.
 [^dex]: AEMPS, [dexametasona Kern Pharma 4 mg/ml](https://cima.aemps.es/cima/dochtml/ft/67455/), apartados 2 y 4.2, consultada 29/09/2026. La cifra de 10 mg procede de FJD; CIMA verifica composición, no esa pauta específica.

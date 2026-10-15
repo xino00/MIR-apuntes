@@ -38,7 +38,7 @@ tags: [plantilla, guardia, polis]
 | Cardiología | Crisis hipertensiva | [[Hipertensión Resistente y Crisis Hipertensiva]] |
 | Cardiología | Dolor torácico | [[Dolor Torácico - Abordaje y Triaje]] |
 | Cardiología | Síncope | [[Síncope]] |
-| Dermatología | Urticaria aguda | [[Urticaria Aguda]] |
+| Dermatología | Urticaria aguda | [[Urticaria aguda y crónica\|Urticaria Aguda]] |
 | Dermatología | Herpes zóster (zóster oftálmico, Ramsay Hunt) | [[Herpes Zóster]] |
 | Dermatología | Sarna – escabiosis | [[Sarna - Escabiosis]] |
 | Digestivo | Gastroenteritis aguda (GEA) | [[Gastroenteritis Aguda (GEA)]] |
@@ -832,7 +832,7 @@ Seguimiento y signos de alarma
 
 # DERMATOLOGÍA
 ## URTICARIA (Llorente - Superpolis - Rev. Cat.).
-*Evidencia vault: [[Urticaria Aguda]] (Manual 12 Octubre 2022).*
+*Evidencia vault: [[Urticaria aguda y crónica|Urticaria Aguda]] (Manual 12 Octubre 2022).*
 *** Enfermedad actual.
 Paciente de X años, sin antecedentes personales relevantes / con antecedentes de [...], que acude por cuadro de X horas/días de evolución de lesiones cutáneas sobreelevadas, eritematosas y pruriginosas, localizadas en [...]. Las lesiones desaparecen espontáneamente en menos de 24 horas, sin dejar marca residual. Niega haber tomado medicación nueva, no refiere ingesta de alimentos distintos a los habituales ni exposición a animales, picaduras, temperaturas extremas ni infecciones recientes. Niega también disnea, síntomas digestivos, fiebre ni otra clínica sistémica asociada. Niega otra sintomatología asociada.
 *** Exploración física.
@@ -849,7 +849,7 @@ Paciente con lesiones cutáneas pruriginosas de morfología y duración típicas
 - Hidratación adecuada: mínimo 1.5–2 L/día.
 - Hidratación cutánea con crema corporal sin perfumes, 2 veces al día.
 - COMO TRATAMIENTO MÉDICO:
-*Antihistamínico H1 de 2ª generación: **Cetirizina 10 mg cada 24 h** durante 1-4 semanas. Si no se controla el prurito, escalar paulatinamente hasta **40 mg/día (10 mg cada 6 h)**; mantener la dosis mínima eficaz tras control (corregido según [[Urticaria Aguda]], Manual 12 Octubre; la pauta previa «10 mg/12 h → máx 3 veces/día» no coincidía con el escalado x4 del Manual).
+*Antihistamínico H1 de 2ª generación: **Cetirizina 10 mg cada 24 h** durante 1-4 semanas. Si no se controla el prurito, escalar paulatinamente hasta **40 mg/día (10 mg cada 6 h)**; mantener la dosis mínima eficaz tras control (corregido según [[Urticaria aguda y crónica|Urticaria Aguda]], Manual 12 Octubre; la pauta previa «10 mg/12 h → máx 3 veces/día» no coincidía con el escalado x4 del Manual).
 - Evitar rascado y exposición a factores irritantes (frío, calor, ropa ajustada, jabones fuertes).
 
 Seguimiento y signos de alarma
@@ -866,7 +866,7 @@ Urticaria de repetición sin causa clara o con mala respuesta al tratamiento ant
 **Solicitar:**
 **Cita en consultas de Dermatologia** (urticaria crónica espontánea sin sospecha alérgica).
 **Cita en consultas de alergología** (solo si se sospecha desencadenante alergénico concreto: fármacos, alimentos, picaduras).
-**AS con hemograma + bioquímica con PCR.** ⚠️ Las serologías (VIH; VHC; VHB; TPHA; RPR) y el perfil de autoinmunidad (ANA; AC tiroides; VSG; IGG; IGM) **solo si la historia clínica lo orienta**, no de rutina ([[Urticaria Aguda]]).
+**AS con hemograma + bioquímica con PCR.** ⚠️ Las serologías (VIH; VHC; VHB; TPHA; RPR) y el perfil de autoinmunidad (ANA; AC tiroides; VSG; IGG; IGM) **solo si la historia clínica lo orienta**, no de rutina ([[Urticaria aguda y crónica|Urticaria Aguda]]).
 
 
 ## HERPES ZOSTER (Superpolis)
@@ -1753,7 +1753,7 @@ tags: [plantilla, guardia, polis]
 | Cardiología | Crisis hipertensiva | [[Hipertensión Resistente y Crisis Hipertensiva]] |
 | Cardiología | Dolor torácico | [[Dolor Torácico - Abordaje y Triaje]] |
 | Cardiología | Síncope | [[Síncope]] |
-| Dermatología | Urticaria aguda | [[Urticaria Aguda]] |
+| Dermatología | Urticaria aguda | [[Urticaria aguda y crónica\|Urticaria Aguda]] |
 | Dermatología | Herpes zóster (zóster oftálmico, Ramsay Hunt) | [[Herpes Zóster]] |
 | Dermatología | Sarna – escabiosis | [[Sarna - Escabiosis]] |
 | Digestivo | Gastroenteritis aguda (GEA) | [[Gastroenteritis Aguda (GEA)]] |

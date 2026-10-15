@@ -14,7 +14,7 @@ activacion_oficial_fuente: "no confirmada"
 
 ## Alarmas y primera decisión
 
-- Traumatismo de alta energía con vértigo, hipoacusia o parálisis facial, signo de Battle u otolicuorrea/rinolicuorrea: valorar lesión temporal/base de cráneo y TC de peñascos; aplicar el circuito de traumatismo craneal. **Parálisis facial asociada: ORL urgente**.[^manual][^temporal]
+- Traumatismo de alta energía con vértigo, hipoacusia o [[Parálisis Facial Periférica|parálisis facial]], signo de Battle u otolicuorrea/rinolicuorrea: valorar lesión temporal/base de cráneo y TC de peñascos; aplicar el circuito de traumatismo craneal. **Parálisis facial asociada: ORL urgente**.[^manual][^temporal]
 - Gran lesión del pabellón o dudas sobre la reparación: ORL. Otohematoma: drenaje precoz y seguimiento para evitar secuelas del cartílago.[^fjd]
 - **Pila de botón en CAE:** valoración ORL inmediata; no asignar una cita ordinaria. Es un complemento de seguridad NHS GGC que no desarrolla el PDF FJD.[^ce]
 
@@ -28,14 +28,14 @@ Documentar mecanismo y momento, lado, dolor, audición, vértigo, otorragia/otor
 
 - Limpieza abundante con suero; valorar sutura por planos con monofilamento no reabsorbible **5-0**, cubriendo adecuadamente el cartílago. Revisar vacunación antitetánica. Compresión selectiva si afecta hélix/antihélix.[^fjd]
 - Herida limpia bien suturada: **sin antibiótico sistemático**. Contaminación o tejido desvitalizado: valorar profilaxis según mecanismo, con pauta individualizada.[^fjd]
-- Mordedura: FJD recoge amoxicilina-clavulánico **500/125 mg VO cada 8 h durante 3-5 días**. La formulación y frecuencia se verifican en CIMA; distinguir profilaxis de infección establecida y valorar extensión/profundidad antes de elegir duración.[^fjd][^amox500]
+- Mordedura: FJD recoge [[Amoxicilina-Clavulanico|amoxicilina-clavulánico]] **500/125 mg VO cada 8 h durante 3-5 días**. La formulación y frecuencia se verifican en CIMA; distinguir profilaxis de infección establecida y valorar extensión/profundidad antes de elegir duración.[^fjd][^amox500]
 - Retirada de puntos en Atención Primaria a los **7 días**. Lesión extensa o reparación dudosa: consultar ORL.[^fjd]
 
 ### Otohematoma
 
 Drenaje inmediato por personal capacitado y vendaje compresivo retroauricular y sobre hélix/antihélix; FJD describe incisión con bisturí **n.º 11**. Curas ORL **antes de 48 h**.[^fjd]
 
-FJD restringe el antibiótico a pacientes de **alto riesgo de pericondritis** y propone ciprofloxacino **750 mg VO cada 12 h durante 7 días**. El algoritmo no define ese riesgo: documentar indicación y consensuar con ORL; no prescribirlo a todos los otohematomas. CIMA exige selección por infección, función renal y riesgos; esta profilaxis no constituye por sí misma una indicación específica de la ficha técnica.[^fjd][^cipro]
+FJD restringe el antibiótico a pacientes de **alto riesgo de [[Otalgia - Abordaje en Urgencias#Pabellón, absceso y forúnculo|pericondritis]]** y propone [[Ciprofloxacino|ciprofloxacino]] **750 mg VO cada 12 h durante 7 días**. El algoritmo no define ese riesgo: documentar indicación y consensuar con ORL; no prescribirlo a todos los otohematomas. CIMA exige selección por infección, función renal y riesgos; esta profilaxis no constituye por sí misma una indicación específica de la ficha técnica.[^fjd][^cipro]
 
 Antes de usarlo, revisar alergia/reacciones graves previas a quinolonas, función renal e interacciones; está contraindicado con tizanidina. No mantener la dosis de 750 mg cada 12 h en insuficiencia renal sin revisar ajuste.[^cipro]
 
@@ -84,7 +84,7 @@ Oído seco, curas, alarmas y seguimiento explicados: [ ]
 
 ## Fuentes
 
-[^fjd]: FJD, algoritmo de patología otológica traumática, octubre de 2026, p. 1: [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Patología Otológica traumática 2026.pdf#page=1|PDF original]].
+[^fjd]: **Protocolos ORL de FJD** — FJD, algoritmo de patología otológica traumática, octubre de 2026, p. 1: [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Patología Otológica traumática 2026.pdf#page=1|PDF original]].
 [^manual]: Manual del 12 de Octubre 2022, cap. 9, tabla 4, p. impresa 112 (PDF 128): [[Libros y referencias/01_General/Manual 12 Octubre 2022.pdf#page=128|Perforación traumática y signos de lesión temporal]].
 [^amox500]: AEMPS, [amoxicilina/ácido clavulánico Ratiopharm 500/125 mg](https://cima.aemps.es/cima/dochtml/ft/63211/), apartados 4.2-4.4, consultada 29/09/2026. Duración y selección local tomadas de FJD.
 [^cipro]: AEMPS, [ciprofloxacino Vir Pharma 750 mg](https://cima.aemps.es/cima/dochtml/ft/65447/FT_65447.html), apartados 4.1-4.5, consultada 29/09/2026.
@@ -96,4 +96,4 @@ Oído seco, curas, alarmas y seguimiento explicados: [ ]
 
 ## Relacionados
 
-[[MOC - ORL]] · [[Derivación a ORL - Circuito FJD]] · [[Infecciones ORL - Alergia a Betalactámicos]]
+[[MOC - ORL]] · [[Derivación a ORL - Circuito FJD]] · [[Infecciones ORL - Alergia a Betalactámicos]] · [[Otalgia - Abordaje en Urgencias]] · [[Hipoacusia - Evaluación Urgente]] · [[Parálisis Facial Periférica]]

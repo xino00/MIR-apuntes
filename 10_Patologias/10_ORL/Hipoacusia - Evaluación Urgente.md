@@ -14,7 +14,7 @@ activacion_protocolo: No confirmada
 > [!danger] Alarmas y primera decisión
 > - **Pérdida auditiva brusca sin causa transmisiva clara:** sospechar hipoacusia neurosensorial súbita y organizar valoración ORL urgente; una otoscopia normal no la excluye.
 > - **Oído único útil o vértigo asociado:** avisar a ORL de alerta según FJD. Si hay síndrome vestibular agudo, ataxia o focalidad, valorar también origen vascular con Neurología: la hipoacusia nueva no demuestra perifericidad. Ver [[Vértigo en Urgencias]].
-> - Tras trauma, buscar otorragia, otolicuorrea y parálisis facial; dirigir el estudio a la lesión sospechada, según [[Libros y referencias/01_General/Manual 12 Octubre 2022.pdf#page=128|Manual, tabla 4, p. 112]].
+> - Tras trauma, buscar otorragia, otolicuorrea y [[Parálisis Facial Periférica|parálisis facial]]; dirigir el estudio a la lesión sospechada, según [[Libros y referencias/01_General/Manual 12 Octubre 2022.pdf#page=128|Manual, tabla 4, p. 112]].
 
 ## Diagnóstico dirigido
 
@@ -28,10 +28,10 @@ activacion_protocolo: No confirmada
 | Situación | Actuación y límite de la fuente |
 |---|---|
 | **Hipoacusia súbita** | Contactar con ORL para acordar el tratamiento inicial y dejar por escrito dosis, duración y descenso. La incertidumbre de la pauta no debe demorar la valoración. Véase el bloque siguiente. |
-| **Traumatismo acústico agudo** | FJD recoge prednisona **1 mg/kg/día durante 5 días** y audiometría en curas ORL a los **7 días**. No especifica dosis máxima ni criterios de extensión: individualizar con ORL y no extrapolar este esquema a hipoacusia súbita idiopática. |
-| **Tapón de cerumen** | FJD: anticeruminoso y extracción en Atención Primaria en **5–7 días**. Revalorar si persiste pérdida auditiva tras resolver el tapón. |
+| **Traumatismo acústico agudo** | FJD recoge [[Prednisona\|prednisona]] **1 mg/kg/día durante 5 días** y audiometría en curas ORL a los **7 días**. No especifica dosis máxima ni criterios de extensión: individualizar con ORL y no extrapolar este esquema a hipoacusia súbita idiopática. |
+| **[[Otalgia - Abordaje en Urgencias#Tapón de cerumen\|Tapón de cerumen]]** | FJD: anticeruminoso y extracción en Atención Primaria en **5–7 días**. Revalorar si persiste pérdida auditiva tras resolver el tapón. |
 | **Otitis** | Consultar [[Otitis Externa]] y [[Otitis Media Aguda (OMA)]]. |
-| **Barotrauma** | FJD describe medidas de compensación de presión y tratamiento nasal; valorar integridad timpánica y complicaciones antes de aplicarlo. Ver [[Otitis Media Serosa y Ototubaritis]] y el algoritmo de trauma otológico enlazado en fuentes. |
+| **[[Traumatismos del Oído y Cuerpos Extraños del CAE#Barotrauma\|Barotrauma]]** | FJD describe medidas de compensación de presión y tratamiento nasal; valorar integridad timpánica y complicaciones antes de aplicarlo. Ver [[Otitis Media Serosa y Ototubaritis]] y el algoritmo de trauma otológico enlazado en fuentes. |
 | **Crisis de Ménière** | Ver [[Vértigo en Urgencias]]; no atribuir una nueva hipoacusia persistente a Ménière sin reevaluarla. |
 
 Las actuaciones locales de la tabla proceden del algoritmo FJD, p. 1.[^fjd]
@@ -70,10 +70,10 @@ Cita/destino: __. Instrucciones de reconsulta explicadas: __.
 
 ## Fuentes y límites
 
-[^fjd]: Bonet Loscertales M, Viñal González M. [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Hipoacusia 2026.pdf#page=1|FJD, algoritmo de hipoacusia, p. 1]]. Fecha editorial **octubre de 2026**; activación no confirmada. [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Patología Otológica traumática 2026.pdf#page=1|Algoritmo complementario de trauma otológico]].
+[^fjd]: **Protocolos ORL de FJD** — Bonet Loscertales M, Viñal González M. [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Hipoacusia 2026.pdf#page=1|FJD, algoritmo de hipoacusia, p. 1]]. Fecha editorial **octubre de 2026**; activación no confirmada. [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Patología Otológica traumática 2026.pdf#page=1|Algoritmo complementario de trauma otológico]].
 [^aao]: [AAO-HNSF, Sudden Hearing Loss, actualización 2019](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599819859885): KAS 1–6, 8 y 10; tabla 10. Adultos, principalmente hipoacusia neurosensorial súbita idiopática; no es protocolo específico de trauma acústico.
 [^cima]: [CIMA, prednisona cinfa, ficha técnica](https://cima.aemps.es/cima/dochtml/ft/75676/FT_75676.html), apartados 4.2–4.5. Consultada 29/09/2026.
 
 **Revisión pendiente:** aclarar con ORL dosis máxima, inicio y calendario total del descenso FJD; no hay pauta de alta precompletada hasta resolverlo.
 
-Relacionadas: [[MOC - ORL]] · [[Vértigo en Urgencias]] · [[Parálisis Facial Periférica]].
+Relacionadas: [[MOC - ORL]] · [[Vértigo en Urgencias]] · [[Parálisis Facial Periférica]] · [[Traumatismos del Oído y Cuerpos Extraños del CAE]] · [[Derivación a ORL - Circuito FJD]].

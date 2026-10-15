@@ -55,7 +55,9 @@ graph TD
     C --> E{"¿TFG ≥ 20 mL/min/1.73m² ?"}
     D --> E
     
-    E -- Sí --> F["2º Pilar Nefrorprotector:<br>iSGLT2<br>(Empagliflozina/Dapagliflozina)"]:::sglt2
+    E -- Sí --> E2{"¿Indicación específica?<br>DM2 con ERC; o IC; o CAC ≥200 mg/g;<br>o FGe 20–45 con CAC &lt;200 mg/g<br>(sugerencia KDIGO 2B)"}
+    E2 -- Sí --> F["iSGLT2 según indicación<br>y condiciones del producto"]:::sglt2
+    E2 -- No --> J
     E -- No --> G["Monitoreo Estrecho.<br>No iniciar iSGLT2 de novo,<br>pero mantener si ya tomaba."]
     
     F --> H{"¿Diabetes Tipo 2 concomitante?"}
@@ -64,11 +66,11 @@ graph TD
     H -- No --> J["Manejo Estándar Orientado a Comorbilidades<br>(Estatinas, control de dieta)"]
     
     I -- Sí --> K["3r Pilar Metabólico:<br>Agonista GLP-1 (arGLP1)<br>(Semaglutida/Dulaglutida)"]:::glp1
-    I -- No --> L{"Albuminuria Persistente<br>(CAC > 30 mg/g)<br>y Potasio Normal?"}
+    I -- No --> L{"¿DM2, FGe &gt;25,<br>CAC &gt;30 mg/g pese a RASi<br>máximo tolerado y K normal?"}
     
     K --> L
     
-    L -- Sí --> M["4º Pilar Antifibrótico:<br>Finerenona (ARM-ns)"]:::finerenone
+    L -- Sí --> M["Valorar finerenona (ARM-ns)<br>según indicación y vigilancia"]:::finerenone
     L -- No --> N["Control Nefrológico Continuo<br>y Seguimiento de Biomarcadores"]
 ```
 
@@ -122,6 +124,12 @@ La **hiperpotasemia** limita el uso óptimo de IECA/ARA-II, ARM y finerenona —
 > El quelante **trata la consecuencia, no la causa**. Siempre buscar y corregir: dieta alta en K⁺ (plátano, frutos secos, chocolate, sal de régimen con KCl), AINE ocultos, trimetoprim, suplementos, deshidratación, estreñimiento, acidosis metabólica, hipoaldosteronismo, rabdomiólisis.
 
 ## 🔗 Enlaces del Vault
+
+### Integración CRM: documentar la indicación de cada tratamiento
+
+El comentario **KDIGO CRM 2026**, tabla 1, reúne recomendaciones previas de ERC, presión arterial y diabetes: seleccionar tratamiento por **causa renal, FGe, albuminuria, diabetes e insuficiencia cardiaca**, comprobando potasio y tolerancia cuando corresponda. La protección orgánica y el objetivo glucémico deben quedar explícitos; no todos los fármacos tienen las mismas indicaciones ni se indican a toda persona con ERC. Completar la valoración de la causa y confirmar hallazgos incidentales antes de etiquetar progresión crónica.
+
+Fuente: [KDIGO, *The Kidney in the Middle* (2026)](https://kdigo.org/wp-content/uploads/2026/09/KDIGO-CKM-Commentary-The-Kidney-in-the-Middle.pdf), pp. 573–576, tabla 1. Desarrollo: [[CRM_2026_Revision_Aislada/Algoritmos_CRM_2026_Revision_Clinica.md#Algoritmo 3. Tratamiento de DM2 con ERC|Algoritmos CRM: Algoritmo 3. Tratamiento de DM2 con ERC]] y [[MOC - CRM 2026]]. El borrador **KDIGO Diabetes 2026** se conserva como propuesta provisional en el corpus, separado de las recomendaciones publicadas.
 
 - [[ERC - Estratificación y Pronóstico]]
 - [[Empagliflozina]] / [[Dapagliflozina]] (iSGLT2)

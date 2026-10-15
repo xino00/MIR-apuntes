@@ -46,14 +46,14 @@ Para adultos con peso y función renal compatibles con la pauta; revisar alergia
 
 | Situación ambulatoria | PROA FJD 2023, p. 6 |
 |---|---|
-| Primera elección, si cumple indicación | **Amoxicilina 500 mg VO cada 8 h durante 5 días**. |
-| Síntomas graves/comorbilidades o sin mejoría a las **48–72 h**, tras reevaluar y descartar complicación | **Amoxicilina/clavulánico 875/125 mg VO cada 8 h durante 5 días**. |
+| Primera elección, si cumple indicación | **[[Amoxicilina]] 500 mg VO cada 8 h durante 5 días**. |
+| Síntomas graves/comorbilidades o sin mejoría a las **48–72 h**, tras reevaluar y descartar complicación | **[[Amoxicilina-Clavulanico\|Amoxicilina/clavulánico]] 875/125 mg VO cada 8 h durante 5 días**. |
 
 Dosis y duraciones comprobadas en el original PROA; las fichas CIMA respaldan esas dosis en los escenarios indicados, mientras la duración de esta tabla procede del PROA.[^proa6][^amox][^amclav]
 
 **Contraste del Manual:** sitúa amoxicilina/clavulánico como primera línea y recoge **500/125 mg cada 8 h o 875/125 mg cada 8–12 h durante 5–10 días**. No combinar dosis de una fuente con duración de otra sin explicitar la elección.[^manual]
 
-**Alergia:** caracterizar la reacción antes de elegir. El PROA 2023 propone azitromicina **500 mg/24 h durante 3 días** y, ante fracaso y alergia, levofloxacino **500 mg/24 h durante 5 días**. Se conservan como pautas históricas de contraste, **no como escalado automático**. El Manual contempla doxiciclina **100 mg/12 h o 200 mg/24 h durante 5–10 días**; escoger alternativa y duración completas según el protocolo aplicable, contraindicaciones y riesgo individual. La tabla ORL 2026 de alergias no incluye sinusitis.[^proa6][^manual]
+**Alergia:** caracterizar la reacción antes de elegir. El PROA 2023 propone [[Azitromicina|azitromicina]] **500 mg/24 h durante 3 días** y, ante fracaso y alergia, [[Levofloxacino|levofloxacino]] **500 mg/24 h durante 5 días**. Se conservan como pautas históricas de contraste, **no como escalado automático**. El Manual contempla [[Doxiciclina|doxiciclina]] **100 mg/12 h o 200 mg/24 h durante 5–10 días**; escoger alternativa y duración completas según el protocolo aplicable, contraindicaciones y riesgo individual. La tabla ORL 2026 de alergias no incluye sinusitis.[^proa6][^manual]
 
 ## Seguimiento y plantilla editable
 

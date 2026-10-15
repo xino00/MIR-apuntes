@@ -19,6 +19,7 @@ description: "Índice de nefrología: FRA, ERC, trastornos iónicos y ácido-bas
 - [[ERC - Manejo de Comorbilidades (Riesgo CV)]]
 - [[ERC - Prevención y Medidas Higiénico-Dietéticas]]
 - [[Síndrome Cardiovascular-Renal-Metabólico]]
+- [[MOC - CRM 2026|CRM: revisión ESC/KDIGO 2026]] — corpus independiente; publicaciones y borrador de diabetes diferenciados.
 
 ### 🦠 Fracaso Renal Agudo
 - [[Fracaso Renal Agudo (FRA)]]

@@ -16,28 +16,28 @@ revision_estado: "Revisada; salvedades explícitas"
 
 Registrar fármaco exacto, indicación, dosis/vía, intervalo hasta síntomas, manifestaciones, tratamiento recibido, hospitalización, fecha, reexposiciones y tolerancias documentadas. Molestias digestivas aisladas hacen menos probable alergia; no retirar una etiqueta sin valoración. [2]
 
-- **Anafilaxia o reacción cutánea grave tardía** (DRESS, Stevens–Johnson/necrólisis epidérmica) → evitar selección empírica de otro betalactámico por esta tabla y solicitar valoración especializada. [2]
-- **Urticaria/angioedema de inicio rápido**, incluso sin hipotensión, requieren evaluación: no equivalen automáticamente a la columna «no grave». [2]
+- **Anafilaxia o reacción cutánea grave tardía** ([[Toxicodermias y dermatosis reactivas#DRESS|DRESS]], [[Toxicodermias y dermatosis reactivas#Síndrome de Stevens-Johnson y necrólisis epidérmica tóxica|Stevens–Johnson/necrólisis epidérmica]]) → evitar selección empírica de otro betalactámico por esta tabla y solicitar valoración especializada. [2]
+- **[[Toxicodermias y dermatosis reactivas#Urticaria y angioedema por fármacos|Urticaria/angioedema]] de inicio rápido**, incluso sin hipotensión, requieren evaluación: no equivalen automáticamente a la columna «no grave». [2]
 - Un **exantema tardío sin afectación sistémica** orienta un fenotipo distinto; tampoco demuestra por sí solo tolerancia a una cefalosporina concreta. Si la historia es insuficiente, consignar **reacción no caracterizada** y consensuar. [2]
 
 Si hay reacción activa, su tratamiento urgente es prioritario: [[Anafilaxia en Adultos]]. La selección depende también de infección, foco, cultivos, función renal, interacciones y contraindicaciones del medicamento; no basta sustituir una familia por otra.
 
 ## Tabla FJD de diez focos
 
-**Todas las celdas proceden de [1].** Las columnas de alergia solo se aplican tras establecer que la alternativa es apropiada para el paciente. «O» expresa alternativas; metronidazol/clindamicina son alternativas para el componente anaerobio, no indicación de administrar ambos. La notación dudosa del original se mantiene marcada.
+**Todas las celdas proceden de [1].** Las columnas de alergia solo se aplican tras establecer que la alternativa es apropiada para el paciente. «O» expresa alternativas; [[Metronidazol|metronidazol]]/[[Clindamicina|clindamicina]] son alternativas para el componente anaerobio, no indicación de administrar ambos. La notación dudosa del original se mantiene marcada.
 
 | Foco | Tratamiento principal FJD | Columna FJD «alergia no grave» | Columna FJD «grave / contraindicación para betalactámicos» | SARM: condición del original |
 |---|---|---|---|---|
-| Absceso periamigdalino | Amoxicilina/clavulánico | Cefuroxima o cefditoreno + metronidazol o clindamicina, según necesidad anaerobia | Levofloxacino + metronidazol o clindamicina | No de rutina. Mala evolución: revisar control de foco y obtener cultivo antes de ampliar. |
-| Sialadenitis bacteriana supurada | Amoxicilina/clavulánico | Cefuroxima o cefditoreno + metronidazol o clindamicina, según necesidad anaerobia | Levofloxacino + metronidazol o clindamicina | TMP-SMX si sospecha específica; doxiciclina especialmente si componente cutáneo/superficial. |
-| Celulitis del pabellón | Cefadroxilo o cefalexina | Cefuroxima o cefditoreno | Levofloxacino **750 mg/día**; original «/- clindamicina», asociación por aclarar | TMP-SMX si sospecha específica; doxiciclina especialmente si componente cutáneo/superficial. |
-| Absceso periauricular | Drenaje; cefadroxilo o cefalexina si celulitis asociada | Cefuroxima si precisa ATB | Levofloxacino **750 mg/día**; original «/- clindamicina», asociación por aclarar | Priorizar drenaje. TMP-SMX, doxiciclina o clindamicina si precisa cobertura específica. |
+| [[Absceso Periamigdalino e Infecciones Cervicales Profundas#Absceso periamigdalino\|Absceso periamigdalino]] | [[Amoxicilina-Clavulanico\|Amoxicilina/clavulánico]] | [[Cefuroxima]] o cefditoreno + metronidazol o clindamicina, según necesidad anaerobia | [[Levofloxacino]] + metronidazol o clindamicina | No de rutina. Mala evolución: revisar control de foco y obtener cultivo antes de ampliar. |
+| [[Tumefacción de Glándulas Salivales#Sialoadenitis aguda supurada\|Sialadenitis bacteriana supurada]] | Amoxicilina/clavulánico | Cefuroxima o cefditoreno + metronidazol o clindamicina, según necesidad anaerobia | Levofloxacino + metronidazol o clindamicina | [[Cotrimoxazol\|TMP-SMX]] si sospecha específica; [[Doxiciclina\|doxiciclina]] especialmente si componente cutáneo/superficial. |
+| [[Otalgia - Abordaje en Urgencias#Pabellón, absceso y forúnculo\|Celulitis del pabellón]] | Cefadroxilo o cefalexina | Cefuroxima o cefditoreno | Levofloxacino **750 mg/día**; original «/- clindamicina», asociación por aclarar | TMP-SMX si sospecha específica; doxiciclina especialmente si componente cutáneo/superficial. |
+| [[Otalgia - Abordaje en Urgencias#Pabellón, absceso y forúnculo\|Absceso periauricular]] | Drenaje; cefadroxilo o cefalexina si celulitis asociada | Cefuroxima si precisa ATB | Levofloxacino **750 mg/día**; original «/- clindamicina», asociación por aclarar | Priorizar drenaje. TMP-SMX, doxiciclina o clindamicina si precisa cobertura específica. |
 | Forúnculo / infección cutánea localizada | Tratamiento local ± cefadroxilo o cefalexina si extensión | Cefuroxima o cefditoreno si precisa ATB | Doxiciclina, TMP-SMX o clindamicina | Doxiciclina o TMP-SMX si fenotipo purulento/SARM. |
-| Pericondritis no abscesificada, sin piercing | Cefadroxilo o cefalexina + revisión **24–48 h** | Cefuroxima | Levofloxacino **750 mg/día**; original «/- clindamicina», asociación por aclarar | Mala evolución: reconsiderar *Pseudomonas*, cultivar y cambiar estrategia. |
-| Pericondritis abscesificada / piercing / supuración | Ciprofloxacino **750 mg/12 h** + drenaje/cultivo | Igual que principal | Igual que principal | No anti-SARM rutinario. Si sospecha/documentación, añadir o adaptar a TMP-SMX manteniendo cobertura antipseudomónica si sigue indicada. |
-| OMA del adulto | Amoxicilina **500 mg/8 h** | Cefuroxima o cefditoreno | Levofloxacino | No anti-SARM rutinario. |
-| Infección cervical profunda | Amoxicilina/clavulánico IV o ceftriaxona + metronidazol ± control de foco, según texto original | Ceftriaxona + metronidazol | Individualizar: levofloxacino + metronidazol | Riesgo real/enfermedad grave: valorar cobertura IV específica (vancomicina, daptomicina o linezolid). |
-| Epiglotitis del adulto | Ceftriaxona | Ceftriaxona | Individualizar: levofloxacino como posible alternativa | Solo ante factores de riesgo o enfermedad grave compatible. |
+| [[Otalgia - Abordaje en Urgencias#Pabellón, absceso y forúnculo\|Pericondritis no abscesificada, sin piercing]] | Cefadroxilo o cefalexina + revisión **24–48 h** | Cefuroxima | Levofloxacino **750 mg/día**; original «/- clindamicina», asociación por aclarar | Mala evolución: reconsiderar *Pseudomonas*, cultivar y cambiar estrategia. |
+| Pericondritis abscesificada / piercing / supuración | [[Ciprofloxacino]] **750 mg/12 h** + drenaje/cultivo | Igual que principal | Igual que principal | No anti-SARM rutinario. Si sospecha/documentación, añadir o adaptar a TMP-SMX manteniendo cobertura antipseudomónica si sigue indicada. |
+| [[Otitis Media Aguda (OMA)\|OMA del adulto]] | [[Amoxicilina]] **500 mg/8 h** | Cefuroxima o cefditoreno | Levofloxacino | No anti-SARM rutinario. |
+| [[Absceso Periamigdalino e Infecciones Cervicales Profundas#Infección cervical profunda\|Infección cervical profunda]] | Amoxicilina/clavulánico IV o [[Ceftriaxona\|ceftriaxona]] + metronidazol ± control de foco, según texto original | Ceftriaxona + metronidazol | Individualizar: levofloxacino + metronidazol | Riesgo real/enfermedad grave: valorar cobertura IV específica ([[Vancomicina\|vancomicina]], daptomicina o [[Linezolid\|linezolid]]). |
+| [[Epiglotitis del Adulto\|Epiglotitis del adulto]] | Ceftriaxona | Ceftriaxona | Individualizar: levofloxacino como posible alternativa | Solo ante factores de riesgo o enfermedad grave compatible. |
 
 La notación «± control de foco» del original no permite omitir un drenaje indicado; esa decisión requiere valoración del foco y de la extensión.
 
@@ -67,7 +67,7 @@ TMP-SMX = trimetoprim/sulfametoxazol (cotrimoxazol). La lista de anti-SARM refle
 
 ## Fuentes
 
-1. [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Recomendaciones manejo procesos infecciosos ORL en pacientes con alergia a BLactamicos 2026.pdf#page=1|FJD, Recomendaciones de infecciones ORL en alergia a betalactámicos, p. 1]]. Viñal González / Morante; octubre 2026, activación no confirmada. Tabla revisada visualmente fila a fila.
+1. **Protocolos ORL de FJD** — [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Recomendaciones manejo procesos infecciosos ORL en pacientes con alergia a BLactamicos 2026.pdf#page=1|FJD, Recomendaciones de infecciones ORL en alergia a betalactámicos, p. 1]]. Viñal González / Morante; octubre 2026, activación no confirmada. Tabla revisada visualmente fila a fila.
 2. [NICE CG183, Drug allergy: diagnosis and management](https://www.nice.org.uk/guidance/cg183/chapter/recommendations), apartados 1.1, 1.2 y 1.4: patrones, documentación y derivación. Consulta 29-09-2026. Se usa para caracterizar la reacción, no para validar las combinaciones FJD.
 
 ## Relacionados

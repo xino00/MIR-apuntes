@@ -15,7 +15,7 @@ activacion_oficial_fuente: "no confirmada"
 ## Alarmas y primera decisión
 
 - Sospecha de flemón, absceso o extensión cervical/mediastínica: **TC facial y/o cervical** y aviso a ORL si se confirma complicación. La amenaza de vía aérea o deterioro sistémico exige valoración inmediata.[^fjd][^manual]
-- Crecimiento rápido, ulceración cutánea, consistencia pétrea poco dolorosa, trismus o parálisis facial: evaluar sospecha tumoral; no atribuir automáticamente la masa a infección.[^fjd]
+- Crecimiento rápido, ulceración cutánea, consistencia pétrea poco dolorosa, trismus o [[Parálisis Facial Periférica|parálisis facial]]: evaluar sospecha tumoral; no atribuir automáticamente la masa a infección.[^fjd]
 
 ## Diagnóstico y pruebas
 
@@ -39,9 +39,9 @@ Analgesia individualizada, hidratación, masaje glandular, higiene oral y calor 
 
 ### Sialoadenitis aguda supurada
 
-- Medidas locales anteriores y antibiótico. Si el cuadro permite manejo oral, FJD propone amoxicilina-clavulánico **875/125 mg VO cada 8 h durante 5-7 días**; valorar respuesta y control del foco.[^fjd]
+- Medidas locales anteriores y antibiótico. Si el cuadro permite manejo oral, FJD propone [[Amoxicilina-Clavulanico|amoxicilina-clavulánico]] **875/125 mg VO cada 8 h durante 5-7 días**; valorar respuesta y control del foco.[^fjd]
 - Revisar alergia, función renal y antecedente de hepatotoxicidad. La formulación 875/125 mg no se recomienda con aclaramiento de creatinina **<30 ml/min**; no mantenerla sin revisar alternativa/ajuste. Consultar la nota transversal de alergia.[^cima]
-- Sepsis, complicación, afectación general relevante o imposibilidad de tratamiento oral: ORL y manejo hospitalario; no trasladar el esquema ambulatorio a una infección profunda.[^manual][^rcs]
+- [[Sepsis y Shock Séptico|Sepsis]], complicación, afectación general relevante o imposibilidad de tratamiento oral: ORL y manejo hospitalario; no trasladar el esquema ambulatorio a una infección profunda.[^manual][^rcs]
 - Reevaluación clínica precoz: RCS propone **24-48 h** en fase aguda, ajustando el tratamiento a cultivo y respuesta.[^rcs]
 
 > [!note] Diferencia con el Manual del 12 de Octubre
@@ -87,7 +87,7 @@ Véase [[Absceso Periamigdalino e Infecciones Cervicales Profundas]].
 
 ## Fuentes
 
-[^fjd]: FJD, algoritmo de tumefacción glandular ORL, octubre de 2026, p. 1, incluidas sus flechas: [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Tumefacción Glandular ORL 2026.pdf#page=1|PDF original]].
+[^fjd]: **Protocolos ORL de FJD** — FJD, algoritmo de tumefacción glandular ORL, octubre de 2026, p. 1, incluidas sus flechas: [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Tumefacción Glandular ORL 2026.pdf#page=1|PDF original]].
 [^manual]: Manual del 12 de Octubre 2022, cap. 9, apartados 3.1.1-3.1.2, pp. impresas 123-125 (PDF 139-141): [[Libros y referencias/01_General/Manual 12 Octubre 2022.pdf#page=140|Sialoadenitis vírica y supurada]] y [[Libros y referencias/01_General/Manual 12 Octubre 2022.pdf#page=141|Pruebas y tratamiento de la sialoadenitis supurada]].
 [^cima]: AEMPS, [amoxicilina/ácido clavulánico Bluefish 875/125 mg, ficha técnica](https://cima.aemps.es/cima/dochtml/ft/72246/FT_72246.html), apartados 4.2-4.4, consultada 29/09/2026. Verifica formulación, vía y precauciones; la indicación y duración local proceden de FJD.
 [^rcs]: Faculty of General Dental Practice / Faculty of Dental Surgery, Royal College of Surgeons of England, [Antimicrobial Prescribing in Dentistry, 3.ª edición, 2020](https://www.rcseng.ac.uk/-/media/files/rcs/fds/publications/fds-amp-2020.pdf), capítulo 9, pp. impresas 43-46 (PDF 53-56), en particular recomendación de p. 44 y figura 9.1. Consultada 29/09/2026; complemento para distinguir aguda bacteriana y crónica.

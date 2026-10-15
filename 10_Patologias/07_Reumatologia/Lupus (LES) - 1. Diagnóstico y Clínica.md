@@ -69,3 +69,7 @@ Para diagnosticar LES, el sistema inmunitario debe dejar su rastro en la sangre.
 **Criterios Clínicos y Sistémicos Ponderados:**
 Si cumple el criterio de entrada ANA, se suman puntos de los diferentes dominios, requiriendo **$\geq$ 10 puntos totales** (y al menos 1 clínico) para etiquetarlo de LES.
 *(Biopsia renal con Nefritis Lúpica clases **II o V = 8 puntos**; clases **III o IV = 10 puntos** → LES directo. Manual cap. 92 fig. 1 p. 1392).*
+
+## Navegación entre especialidades
+
+- [[Manifestaciones cutáneas de enfermedades sistémicas]]

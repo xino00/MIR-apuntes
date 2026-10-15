@@ -289,6 +289,12 @@ En Europa, la guía **ESC 2021 sobre prevención CV en la práctica clínica** r
 
 ## Notas hermanas
 
+### Valoración renal dentro del riesgo CRM
+
+En personas con riesgo renal o ERC, completar la valoración con **FGe y cociente albúmina/creatinina urinaria (CAC/UACR)**; una creatinina aislada deja incompleta la estratificación. Confirmar los hallazgos incidentales y describir causa, categoría de filtrado y albuminuria. El comentario KDIGO de 2026 destaca que ambos ejes aportan riesgo renal y cardiovascular y reproduce recomendaciones previas, no una nueva escala conjunta. Mantener el desenlace y la población de cada calculadora.
+
+Fuente: [KDIGO, *The Kidney in the Middle* (2026)](https://kdigo.org/wp-content/uploads/2026/09/KDIGO-CKM-Commentary-The-Kidney-in-the-Middle.pdf), pp. 573–576, tabla 1. Desarrollo y límites: [[CRM_2026_Revision_Aislada/Algoritmos_CRM_2026_Revision_Clinica.md#2. Evaluación inicial y estratificación|Algoritmos CRM: 2. Evaluación inicial y estratificación]]; navegación: [[MOC - CRM 2026]]. El corpus conserva separadas las publicaciones ESC/KDIGO y el borrador KDIGO Diabetes 2026.
+
 - [[Dislipemia - Concepto y Cribado]] — definición, cribado, perfil lipídico, ApoB, Lp(a).
 - [[Prevención Primaria de ASCVD]] — algoritmo §4.2.3.7 por categoría de riesgo.
 - [[Prevención Secundaria de ASCVD]] — diana LDL-C <55 mg/dL, very high risk.

@@ -30,17 +30,17 @@ Cultivo ante fracaso/recaída, cuadro grave, inmunosupresión, exposición antib
 
 | Situación | Pauta / decisión |
 |---|---|
-| OMA no complicada, ATB indicado y sin contraindicación | **Amoxicilina 500 mg VO cada 8 h durante 5–7 días**, pauta FJD. CIMA confirma dosis para OMA adulta; la duración procede de FJD y coincide con SACYL. Valorar dosis/gravedad y función renal. [1,5,6] |
-| Fracaso tras 72 h | Reexaminar diagnóstico, adherencia y complicaciones. FJD propone **amoxicilina/clavulánico 875/125 mg VO cada 8 h**, pero **no fija duración**. SACYL ofrece 5–7 días para el cambio y el Manual 5–10 días para OMA; elegir y documentar duración explícita, sin atribuirla a FJD. [1,3,5] |
-| Alergia a betalactámicos | Fenotipar antes de seleccionar. FJD propone cefuroxima/cefditoreno en su columna «no grave» y levofloxacino en «grave», sin pauta completa: seguir [[Infecciones ORL - Alergia a Betalactámicos]], comprobar contraindicaciones y consensuar si incierta/grave. No recuperar automáticamente la antigua receta de macrólido/quinolona. [2] |
-| Perforación espontánea | FJD no recomienda asociar ATB tópico de rutina por ausencia de evidencia que lo sustente. **Discordancia:** el Manual 2022 sí propone añadir ciprofloxacino tópico ante supuración. Dejar documentado el escenario y consultar ORL si mala evolución/otra indicación; no copiar la antigua monodosis cada 8 h. [1,3] |
+| OMA no complicada, ATB indicado y sin contraindicación | **[[Amoxicilina]] 500 mg VO cada 8 h durante 5–7 días**, pauta FJD. CIMA confirma dosis para OMA adulta; la duración procede de FJD y coincide con SACYL. Valorar dosis/gravedad y función renal. [1,5,6] |
+| Fracaso tras 72 h | Reexaminar diagnóstico, adherencia y complicaciones. FJD propone **[[Amoxicilina-Clavulanico\|amoxicilina/clavulánico]] 875/125 mg VO cada 8 h**, pero **no fija duración**. SACYL ofrece 5–7 días para el cambio y el Manual 5–10 días para OMA; elegir y documentar duración explícita, sin atribuirla a FJD. [1,3,5] |
+| Alergia a betalactámicos | Fenotipar antes de seleccionar. FJD propone [[Cefuroxima\|cefuroxima]]/cefditoreno en su columna «no grave» y [[Levofloxacino\|levofloxacino]] en «grave», sin pauta completa: seguir [[Infecciones ORL - Alergia a Betalactámicos]], comprobar contraindicaciones y consensuar si incierta/grave. No recuperar automáticamente la antigua receta de macrólido/quinolona. [2] |
+| Perforación espontánea | FJD no recomienda asociar ATB tópico de rutina por ausencia de evidencia que lo sustente. **Discordancia:** el Manual 2022 sí propone añadir [[Ciprofloxacino\|ciprofloxacino]] tópico ante supuración. Dejar documentado el escenario y consultar ORL si mala evolución/otra indicación; no copiar la antigua monodosis cada 8 h. [1,3] |
 | OMA con tubos | Escenario separado: Cetraxal Plus dispone de esta indicación en CIMA. La pauta del **frasco** es **6–8 gotas/12 h durante 7 días**; no extrapolar a perforación espontánea ni a una presentación monodosis. [4] |
 
 ## Sospecha de complicación
 
 Mastoiditis, laberintitis, petrositis o extensión intracraneal requieren valoración hospitalaria y **aviso a ORL**, constantes, analítica/hemocultivos e imagen dirigida. FJD propone TC craneal y CAI con contraste; concretar estudio de peñascos/extensión con ORL-Radiología. [1,3]
 
-FJD recoge **ceftriaxona 2 g IV/24 h** como propuesta inicial para mastoiditis/extensión desde oído medio. También escribe «amoxicilina/clavulánico 2 g IV» **sin intervalo ni cantidad de clavulánico**, por lo que no constituye una orden completa. Consensuar cobertura, vía, duración y alternativa en alergia según gravedad; no usar la tabla ambulatoria para meningitis o extensión intracraneal. [1]
+FJD recoge **[[Ceftriaxona|ceftriaxona]] 2 g IV/24 h** como propuesta inicial para mastoiditis/extensión desde oído medio. También escribe «amoxicilina/clavulánico 2 g IV» **sin intervalo ni cantidad de clavulánico**, por lo que no constituye una orden completa. Consensuar cobertura, vía, duración y alternativa en alergia según gravedad; no usar la tabla ambulatoria para [[Meningitis y Encefalitis|meningitis]] o extensión intracraneal. [1]
 
 ## Seguimiento
 
@@ -60,8 +60,8 @@ Destino justificado [ ]. Analgesia [fármaco, dosis, intervalo, máximo, días].
 
 ## Fuentes
 
-1. [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Otalgia 2026.pdf#page=2|FJD, Otalgia, p. 2]]. Octubre 2026; activación no confirmada.
-2. [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Recomendaciones manejo procesos infecciosos ORL en pacientes con alergia a BLactamicos 2026.pdf#page=1|FJD, Alergia a betalactámicos, fila OMA]]. Octubre 2026.
+1. **Protocolos ORL de FJD** — [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Otalgia 2026.pdf#page=2|FJD, Otalgia, p. 2]]. Octubre 2026; activación no confirmada.
+2. **Protocolos ORL de FJD** — [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Recomendaciones manejo procesos infecciosos ORL en pacientes con alergia a BLactamicos 2026.pdf#page=1|FJD, Alergia a betalactámicos, fila OMA]]. Octubre 2026.
 3. [[Libros y referencias/01_General/Manual 12 Octubre 2022.pdf#page=128|Manual 12 Octubre 2022, cap. 9, tabla 4, p. impresa 112 (PDF 128)]].
 4. [CIMA, Cetraxal Plus frasco, FT 64657](https://cima.aemps.es/cima/dochtml/ft/64657/FT_64657.html), 4.1–4.2. Consulta 29-09-2026.
 5. [SACYL, Otitis media aguda en el adulto](https://www.saludcastillayleon.es/portalmedicamento/en/estrategias-programas/antimicrobianos/revision-guias-sacyl-pran-proa.files/1447736-Otitis%20media%20aguda%20%28en%20el%20adulto%29.pdf), pp. PDF 1–3; contraste externo, consulta 29-09-2026.

@@ -41,14 +41,14 @@ Pautas FJD para adultos, tras valorar alergia, función renal y necesidad de ing
 | **Absceso periauricular** | Valorar drenaje por profesional competente; ATB si celulitis o repercusión: **cefalexina 500 mg VO/8 h durante 5 días**. Revisar necesidad de ORL según localización/extensión. [1] |
 | **Celulitis del pabellón** | Puede afectar al lóbulo. **Cefadroxilo 1.000 mg VO/12 h durante 5 días** en el esquema FJD; dosis diaria corroborada en CIMA. [1,5] |
 | **Pericondritis sin absceso, sin piercing y estable** | Habitualmente respeta el lóbulo. FJD: **cefadroxilo 1.000 mg VO/12 h durante 5 días**, con reevaluación **24–48 h**; si mala evolución, reconsiderar *Pseudomonas*, obtener cultivo y cambiar estrategia. [1,2,5] |
-| **Pericondritis con absceso, necrosis, supuración o piercing** | **ORL para drenaje/cultivo y decisión de destino.** FJD: **ciprofloxacino 750 mg VO/12 h durante 5 días** si se selecciona vía oral; no sustituye control del foco ni manejo hospitalario si grave. Curas ORL en **7 días**, con control antes si empeora. [1,2] |
+| **Pericondritis con absceso, necrosis, supuración o piercing** | **ORL para drenaje/cultivo y decisión de destino.** FJD: **[[Ciprofloxacino\|ciprofloxacino]] 750 mg VO/12 h durante 5 días** si se selecciona vía oral; no sustituye control del foco ni manejo hospitalario si grave. Curas ORL en **7 días**, con control antes si empeora. [1,2] |
 | **Forúnculo del CAE** | Lesión localizada, dolorosa/fluctuante, a veces supura. Valorar drenaje por ORL; analgesia. FJD añade **cefalexina 500 mg VO/8 h durante 5–7 días** si extensión. [1,3] |
 
 ### Salvedades terapéuticas del pabellón
 
 - **Cefalexina:** CIMA admite 500 mg/8 h dentro del rango adulto, pero su duración general es 7–14 días; el Manual usa 500 mg/6 h para celulitis y otros fármacos en forúnculo. Los cursos más cortos anteriores pertenecen al PDF FJD, cuya activación está pendiente de confirmar. Elegir pauta y revisión explícitas, no combinarlas por fragmentos. [1,3,6]
 - **Pericondritis:** el Manual propone ciprofloxacino 750 mg/12 h durante **7–10 días**, frente al esquema FJD estratificado y su curso de cinco días. Consensuar duración definitiva con ORL y reevaluar antes si evolución desfavorable. [1,3]
-- **Prednisona:** FJD escribe «mg/kg/24 h» sin coeficiente ni duración. **Pauta incompleta: no se incorpora al alta.** Además, CIMA aconseja evitar la combinación de ciprofloxacino con corticoides por riesgo tendinoso. [1,7]
+- **[[Prednisona]]:** FJD escribe «mg/kg/24 h» sin coeficiente ni duración. **Pauta incompleta: no se incorpora al alta.** Además, CIMA aconseja evitar la combinación de ciprofloxacino con corticoides por riesgo tendinoso. [1,7]
 - Antes de ciprofloxacino: comprobar función renal, contraindicaciones/interacciones (incluida tizanidina) y riesgos de fluoroquinolonas; ante infección grave o mixta, confirmar que la cobertura sea adecuada. [7]
 
 ## Tapón de cerumen
@@ -86,8 +86,8 @@ Diagnóstico [ ]; procedimiento [ ]; tratamiento seleccionado **completo y resue
 
 ## Fuentes
 
-1. [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Otalgia 2026.pdf#page=1|FJD, Otalgia, p. 1]] y [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Otalgia 2026.pdf#page=2|p. 2]]. Octubre 2026; activación no confirmada.
-2. [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Recomendaciones manejo procesos infecciosos ORL en pacientes con alergia a BLactamicos 2026.pdf#page=1|FJD, Infecciones ORL y alergia, p. 1]]. Octubre 2026.
+1. **Protocolos ORL de FJD** — [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Otalgia 2026.pdf#page=1|FJD, Otalgia, p. 1]] y [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Otalgia 2026.pdf#page=2|p. 2]]. Octubre 2026; activación no confirmada.
+2. **Protocolos ORL de FJD** — [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Recomendaciones manejo procesos infecciosos ORL en pacientes con alergia a BLactamicos 2026.pdf#page=1|FJD, Infecciones ORL y alergia, p. 1]]. Octubre 2026.
 3. [[Libros y referencias/01_General/Manual 12 Octubre 2022.pdf#page=125|Manual 12 Octubre 2022, cap. 9, p. impresa 109 (PDF 125)]]; [[Libros y referencias/01_General/Manual 12 Octubre 2022.pdf#page=126|tabla 2, p. 110]]; [[Libros y referencias/01_General/Manual 12 Octubre 2022.pdf#page=127|tabla 3, p. 111]]; [[Libros y referencias/01_General/Manual 12 Octubre 2022.pdf#page=128|tabla 4, p. 112]].
 4. [CIMA, Ekzem 250 microgramos/ml, FT 80089](https://cima.aemps.es/cima/dochtml/ft/80089/FT_80089.html), 4.1–4.4. Consulta 29-09-2026.
 5. [CIMA, Cefadroxilo Desgen 500 mg, FT 58230](https://cima.aemps.es/cima/dochtml/ft/58230/FT_58230.html), 4.2–4.4. Consulta 29-09-2026.

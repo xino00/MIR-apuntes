@@ -15,6 +15,9 @@ source: "HUFJD Protocolo Anafilaxia Adultos v0 (feb 2023) · GALAXIA 2022 · WAO
 
 # Anafilaxia en Adultos
 
+> [!info] Alcance de la revisión — 14-10-2026
+> Revisados el apartado [[#4.5 Anafilaxia REFRACTARIA|4.5]], el intervalo IM ante compromiso persistente y su resumen. El resto de la nota conserva el contenido previo y **no está revalidado por esta intervención**. [[95_Apoyo/Revision Anafilaxia 2026-10-14/Registro de revisión|Cambios, fuentes y pendientes]].
+
 > [!danger] EMERGENCIA VITAL
 > La anafilaxia es una reacción aguda, sistémica y **potencialmente mortal**. La **adrenalina IM** es el único tratamiento de primera línea y debe administrarse de forma **inmediata**. Los corticoides y antihistamínicos son solo coadyuvantes.
 
@@ -74,7 +77,7 @@ Aparición **aguda** (minutos a horas) de:
 | **Respiratorio** | Crisis asmática severa, EPOC agudizado, TEP |
 | **Endocrino** | Crisis de feocromocitoma, síndrome carcinoide, hipoglucemia |
 | **Neurológico** | Crisis epiléptica, ACV |
-| **Otras alergias** | Urticaria/angioedema sin compromiso sistémico |
+| **Otras alergias** | [[Urticaria aguda y crónica\|Urticaria]]/[[Angioedema histaminérgico y bradicinérgico\|angioedema]] sin compromiso sistémico |
 | **Psicógeno** | Disfunción de cuerdas vocales, crisis de pánico |
 | **Síndrome de Kounis** | SCA asociado a reacción alérgica (ver abajo) |
 
@@ -122,7 +125,7 @@ Aparición **aguda** (minutos a horas) de:
 **Vía IM (cara anterolateral del muslo):**
 - Dosis: **0,01 mg/kg** → **0,3–0,5 mg** en adultos (máximo 0,5 mg)
 - Concentración: adrenalina 1:1.000 (1 mg/mL)
-- **Repetir cada 5–15 minutos** si no hay respuesta
+- **Repetir a los 5 minutos** si persiste el compromiso respiratorio/circulatorio (RCUK 2025). GALAXIA 2022 recoge 5–15 minutos según gravedad; para síntomas persistentes se adopta aquí el intervalo RCUK.[^ana-rcuk]
 
 **Mecanismo de acción:**
 - α-1: vasoconstricción, ↑ resistencias vasculares
@@ -193,32 +196,35 @@ Aparición **aguda** (minutos a horas) de:
 
 ### 4.5 Anafilaxia REFRACTARIA
 
-> [!danger] Anafilaxia refractaria
-> ~10% requieren ≥ 2 dosis de adrenalina IM; ~2% requieren > 2 dosis.
+> [!danger] Activar ayuda experta precoz
+> Persistencia de compromiso respiratorio o cardiovascular pese a **2 dosis IM adecuadas** de adrenalina: definición operativa de RCUK. Avisar a UCI/Anestesia; la perfusión IV requiere personal experimentado, bomba y monitorización continua de ECG, frecuencia cardiaca, presión arterial y SpO₂.[^ana-rcuk]
 
-**Secuencia:**
+1. **Mientras se prepara la perfusión:** repetir adrenalina IM cada **5 minutos** si persiste el compromiso respiratorio/circulatorio, hasta iniciar la perfusión. Continuar soporte ABC y reposición de volumen con reevaluación. Los bolos IV de adrenalina no se recomiendan de rutina en el paciente con circulación espontánea; las excepciones corresponden a entornos especializados.[^ana-rcuk]
 
-1. **Repetir adrenalina IM** cada 5–15 min
+2. **Perfusión IV de adrenalina:**
+   - **Preparación a volumen final de 100 mL:** 1 mL de adrenalina **1 mg/mL** + 99 mL de NaCl **0,9%** → **1 mg/100 mL = 0,01 mg/mL = 10 µg/mL**. La precisión «volumen final» hace explícita la aritmética de la dilución indicada por GALAXIA y RCUK; comprobar la concentración de la presentación disponible.[^ana-galaxia][^ana-rcuk][^ana-cima]
+   - **Inicio: 0,5–1 mL/kg/h**, ajustado a gravedad y respuesta, con la mínima dosis eficaz. A esta concentración equivale, por cálculo, a **≈0,083–0,167 µg/kg/min**.[^ana-galaxia]
+   - **Ejemplo aritmético, adulto de 70 kg:** 35–70 mL/h = 350–700 µg/h = ≈5,83–11,67 µg/min. Calcular con el peso real; «30–100 mL/h» no es una equivalencia válida para todos los adultos.
+   - Bomba por **vía dedicada**, sin conectar a otra perfusión ni colocar el manguito de presión en ese brazo.[^ana-rcuk]
+   - Taquicardia, temblor o palidez con presión normal/elevada: valorar toxicidad y reducir o suspender. Tras resolución, retirada progresiva vigilando recurrencias.[^ana-galaxia]
 
-2. Si no responde → **Perfusión IV de adrenalina** (idealmente en UCI, con monitorización continua):
-   - Dilución: **1 mg adrenalina en 100 mL SSF** = 0,001 mg/mL (10 µg/mL)
-   - Dosis inicio: **0,5–1 mL/kg/h** (30–100 mL/h según gravedad)
-   - Dosis máxima: **6 mL/kg/h**
-   - Titular a mínima dosis eficaz
-   - **Toxicidad**: taquicardia + temblor + palidez con PA normal o elevada → reducir o suspender
+> [!note]- Diferencias entre fuentes y límite de la pauta
+> **Dosis IM en adultos:** RCUK 2025 especifica **500 µg**; GALAXIA/FJD utilizan **0,01 mg/kg, máximo 0,5 mg**. Esta nota conserva la dosis por peso y adopta el intervalo RCUK de 5 minutos ante compromiso persistente.
+>
+> **GALAXIA 2022, tabla 12**, y **FJD v0, p. 13**, indican un máximo de **6 mL/kg/h**: a 10 µg/mL equivale por cálculo a **1 µg/kg/min**. Es el límite descrito por esas fuentes, no una velocidad objetivo ni una escalada automática. El algoritmo RCUK 2021 titula a respuesta y no fija ese máximo. CIMA B. Braun §4.2 describe otra dilución para administración IV (**0,1 mg/mL**); no es la fuente de esta perfusión a 0,01 mg/mL y sus velocidades no son intercambiables. Detalle en [[95_Apoyo/Revision Anafilaxia 2026-10-14/Registro de revisión|registro de revisión]].
 
-3. **Estridor laríngeo** → adrenalina nebulizada **3–5 mL sin diluir** (complemento, NO sustituye IM)
+3. **Estridor laríngeo:** adrenalina nebulizada **3–5 mL de la solución de 1 mg/mL**, sin diluir, como complemento; no sustituye la adrenalina sistémica ni el manejo de la vía aérea. Pauta GALAXIA/FJD; RCUK especifica 5 mL.[^ana-galaxia][^ana-rcuk]
 
-4. **Bradicardia prolongada** → **Atropina 0,5–1 mg IV** en bolo; repetir hasta máximo **3 mg**
+4. **Bradicardia prolongada:** GALAXIA/FJD recogen **atropina 0,5–1 mg IV en bolo**, repetible hasta un total de **3 mg**. Valorar en el contexto de la reanimación y el protocolo de bradicardia del centro.[^ana-galaxia]
 
-5. **Hipotensión refractaria** a adrenalina + fluidos → **Vasopresores**:
+5. **Persistencia pese a perfusión de adrenalina y volumen:** el equipo de críticos valorará un segundo vasopresor y, si recibe betabloqueantes, glucagón.[^ana-rcuk]
 
-| Vasopresor | Preparación | Dosis |
-|------------|-------------|-------|
-| **Noradrenalina** | 2 amp (10 mg) en 100 mL SG 5% | Inicio **5 mL/h**, ↑ de 5 en 5 según respuesta |
-| **Dopamina** | 2 amp (200 mg) en 100 mL SG 5% | < 3 mL/h efecto γ · 3–5 mL/h efecto β-1 · > 5 mL/h efecto α-1 |
+> [!warning] Tabla antigua de vasopresores retirada de consulta
+> Las pautas previas de dopamina y noradrenalina no identificaban inequívocamente presentación y dosis administrada; los efectos de dopamina se asociaban a mL/h sin peso. Se conserva el texto íntegro en el [[95_Apoyo/Revision Anafilaxia 2026-10-14/Originales/Original - Anafilaxia en Adultos|original archivado]]. Para prescribir, usar la pauta validada de UCI/Farmacia con producto, cantidad de principio activo, concentración final y dosis explícitos.
 
-6. **Valorar ingreso en UCI**
+[^ana-rcuk]: Resuscitation Council UK, [algoritmo de anafilaxia refractaria 2021](https://www.resus.org.uk/sites/default/files/2021-04/Refractory%20anaphylaxis%20algorithm%202021.pdf), p. 1; continúa enlazado desde sus [recomendaciones 2025, apartado de anafilaxia](https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/special-circumstances-guidelines). Consultados el 14-10-2026.
+[^ana-galaxia]: [GALAXIA 2022, capítulo 6](https://www.guiagalaxia.com/capitulos/6), §§6.1.1 y 6.4, y [tabla 12 original](https://guiagalaxia.com/uploads/tab_galaxia_12.png). Contraste con [[Libros y referencias/09_Urgencias_FJD/ANAFILAXIA ADULTOS.pdf#page=13|FJD HUFJD_13.01P002 v0, p. 13]]. La errata «0,001 mg/mL» está en FJD; GALAXIA muestra «0,01 mg/mL».
+[^ana-cima]: AEMPS, [Adrenalina B. Braun 1 mg/mL, registro 68552](https://cima.aemps.es/cima/dochtml/ft/68552/FT_68552.html), §§2, 4.2 y 6.5. Verificada composición/presentación; la pauta específica de perfusión procede de las guías citadas. El [[Libros y referencias/01_General/Manual 12 Octubre 2022.pdf|Manual del 12 de Octubre 2022]], cap. 10, p. 142, figura 4, contempla perfusión IV en refractariedad y valoración por UCI.
 
 ---
 
@@ -317,8 +323,8 @@ Las reacciones adversas a medicamentos con anafilaxia deben notificarse a la AEM
 > 1. Diagnóstico clínico: no esperar pruebas para tratar.
 > 2. Hasta el **20% sin síntomas cutáneos** → no descartar anafilaxia.
 > 3. **Adrenalina IM** en muslo = único tratamiento de primera línea. No hay contraindicaciones absolutas.
-> 4. Dosis: **0,3–0,5 mg IM** (0,01 mg/kg); repetir cada 5–15 min si precisa.
-> 5. Vía IV solo en parada cardiorrespiratoria o refractariedad a múltiples dosis IM.
+> 4. Dosis: **0,3–0,5 mg IM** (0,01 mg/kg); repetir a los **5 min** si persiste el compromiso respiratorio/circulatorio.[^ana-rcuk]
+> 5. Tras **2 dosis IM adecuadas** sin mejoría respiratoria/circulatoria, activar manejo de [[#4.5 Anafilaxia REFRACTARIA|refractariedad]] por equipo experto. La perfusión IV y los bolos de reanimación son pautas distintas.[^ana-rcuk]
 > 6. Antihistamínicos y corticoides: **solo coadyuvantes**, nunca sustitutos.
 > 7. **Glucagón** en pacientes con betabloqueantes: 1–2 mg IV (máx 5 mg).
 > 8. Triptasa entre 15–180 min (no retrasar tratamiento).

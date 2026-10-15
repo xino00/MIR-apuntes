@@ -39,6 +39,6 @@ Registrar la solicitud realizada, la información dada al paciente y cualquier c
 
 ## Fuente
 
-[^fjd]: [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo derivación Otorrinolaringología 2026.pdf#page=1|Algoritmo de derivación a Otorrinolaringología, FJD, octubre 2026, p. 1]]. Autores: J. M. Villacampa Aubá (ORL), M. Viñal González (Urgencias). La salvedad sobre las ramas solapadas es una observación de esta revisión.
+[^fjd]: **Protocolos ORL de FJD** — [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo derivación Otorrinolaringología 2026.pdf#page=1|Algoritmo de derivación a Otorrinolaringología, FJD, octubre 2026, p. 1]]. Autores: J. M. Villacampa Aubá (ORL), M. Viñal González (Urgencias). La salvedad sobre las ramas solapadas es una observación de esta revisión.
 
 [[MOC - ORL]] · [[MOC - Urgencias]]

@@ -23,7 +23,7 @@ Es la droga de la emergencia vital inmediata por excelencia:
 
 - **Urgencia Vital:** **No existen contraindicaciones absolutas** para el uso de adrenalina intra-arresto o en anafilaxia pura grave (Riesgo vital inminente > Cualquier efecto adverso).
 - **Relativas (en uso continuado):** Insuficiencia coronaria aguda, miocardiopatía obstructiva severa, anestesia general con hidrocarburos halogenados (aumenta letalmente excitación ventricular).
-- **Vía de administración:** En anafilaxia su uso es IM. Nunca administrar IV en bolo rápido a un paciente con pulso (riesgo masivo de FV o infarto miocárdico directo).
+- **Vía de administración en anafilaxia:** IM como tratamiento inicial. En refractariedad, perfusión IV por equipo experto con monitorización continua; los bolos IV no son de uso rutinario en el paciente con pulso. Ver [[Anafilaxia en Adultos#4.5 Anafilaxia REFRACTARIA|preparación, dosis y fuentes de la perfusión]].
 
 ## 4. Reacciones Adversas (RAM) Frecuentes
 
@@ -35,11 +35,14 @@ Es la droga de la emergencia vital inmediata por excelencia:
 - **Soporte Vital Avanzado (Parada Cardíaca):** 
   - **1 mg** en bolo lento Intravenoso (IV) puro (1 ampolla de 1:1,000 suele traer 1 mg) administrado **cada 3 a 5 minutos** tras el tercer choque en ritmos desfibrilables o lo antes posible en PEA/Asistolia.
 - **Anafilaxia / [[Shock]] Anafiláctico severo:** 
-  - **Uso Exclusivo Intramuscular (IM)**. 
-  - **Dosis adultos:** 0.3 a 0.5 mg inyectados profundamente en la cara anterolateral del muslo (tercio medio). Repetible a los 5-15 minutos si no hay mejoría.
+  - **Tratamiento inicial por vía intramuscular (IM)**. La refractariedad puede requerir [[Anafilaxia en Adultos#4.5 Anafilaxia REFRACTARIA|perfusión IV por un equipo experto]]. 
+  - **Dosis adultos:** 0.3 a 0.5 mg inyectados profundamente en la cara anterolateral del muslo (tercio medio). Repetible a los **5 minutos** si persiste compromiso respiratorio/circulatorio (RCUK 2025; ver [[Anafilaxia en Adultos#4.2 PRIMERA LÍNEA: Adrenalina IM|nota de Anafilaxia y fuentes]]).
 - **[[Shock]] / Bajo gasto continuo:** Perfusión IV de mantenimiento de 0.05 a 0.5 mcg/kg/min.
 
 ## 🔗 Relacionados
-- [[Anafilaxia]]
+- [[Anafilaxia en Adultos]]
 - [[RCP y Soporte Vital Avanzado]]
 - [[Shock]]
+
+> [!info] Revisión limitada — 14-10-2026
+> Aclarada la vía inicial y la excepción de perfusión en anafilaxia refractaria, con el intervalo IM concordante y enlace reparado. Esta intervención no revalida las restantes indicaciones o dosis de la ficha. [[95_Apoyo/Revision Anafilaxia 2026-10-14/Registro de revisión|Registro y fuentes]].

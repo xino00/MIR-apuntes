@@ -38,6 +38,7 @@ description: "Índice de cardiología: hipertensión, insuficiencia cardiaca, SC
 - [[Manejo Diurético Deterioro Renal ICA|Manejo Diurético y Deterioro Renal en ICA]]
 - [[Síndrome Cardiorrenal]]
 - [[Síndrome Cardiovascular-Renal-Metabólico]]
+- [[MOC - CRM 2026|CRM: revisión ESC/KDIGO 2026]] — corpus independiente; publicaciones y borrador de diabetes diferenciados.
 - [[Arritmias]]
 - [[Síncope]]
 - [[Fibrilación Auricular (FA)]]

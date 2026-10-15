@@ -173,6 +173,12 @@ Cuando ya hay **ECV clínica** (estadio 4), el manejo del peso se integra en la 
 
 ## 🔗 Enlaces del Vault
 
+### Integración renal del enfoque CRM
+
+La evaluación del peso se completa con la búsqueda de enfermedad renal y cardiovascular. En personas con riesgo renal, el comentario **KDIGO CRM 2026** propone valorar **FGe y albuminuria** y confirmar los hallazgos incidentales: la hiperfiltración puede aparecer en obesidad y una creatinina aparentemente favorable no demuestra ausencia de lesión renal. Si se detecta ERC, describir su causa y categorías renal y de albuminuria para orientar el manejo conjunto.
+
+Fuente: [KDIGO, *The Kidney in the Middle* (2026)](https://kdigo.org/wp-content/uploads/2026/09/KDIGO-CKM-Commentary-The-Kidney-in-the-Middle.pdf), pp. 573–576. Desarrollo: [[CRM_2026_Revision_Aislada/Algoritmos_CRM_2026_Revision_Clinica.md#1.4. Hiperfiltración y albuminuria|Algoritmos CRM: 1.4. Hiperfiltración y albuminuria]] y [[MOC - CRM 2026]]. Este corpus se limita a ESC/KDIGO y distingue documentos publicados del borrador de diabetes; no aporta una verificación de autorización española de todas las terapias del peso.
+
 - **Hub CKM:** [[Síndrome Cardiovascular-Renal-Metabólico]]
 - **Manejo glucémico de la diabetes:** [[Diabetes Mellitus tipo 2]]
 - **Componente hepático del CKM:** [[MASLD - Esteatosis Hepática Metabólica]]

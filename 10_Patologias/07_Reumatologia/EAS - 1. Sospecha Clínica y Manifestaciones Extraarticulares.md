@@ -64,3 +64,8 @@ La aparición de microhematuria, proteinuria (> 0.5 g/24h — criterio clasifica
 
 > [!important] Síndrome Constitucional como "Cajón de Sastre"
 > La presencia de fiebre prolongada de origen desconocido (FOD), astenia extrema y pérdida de peso (síndrome constitucional) en ausencia de infección evidente o neoplasia en los TACs, obliga mandatoriamente a descartar una EAS oculta, especialmente una **Vasculitis**.
+
+## Navegación entre especialidades
+
+- [[Manifestaciones cutáneas de enfermedades sistémicas]]
+- [[Púrpura cutánea aguda]]

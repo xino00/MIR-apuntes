@@ -13,9 +13,9 @@ fuente_original: "Extraído de 50_Guardias/02 - Plantilla Policlínicas Urgencia
 ## Tratamiento
 
 - Dieta blanda durante 5-7 días. Evitar chicles o alimentos duros.
-- Ibuprofeno 600 mg cada 8 h durante 5 días si dolor.
+- [[Ibuprofeno]] 600 mg cada 8 h durante 5 días si dolor.
 - Calor seco local sobre la ATM: 15 min, 3 veces al día.
-- Si dolor persistente o nocturno: Yurelax® 10 mg: ½-1 comp por la noche. Alternativas: Robaxisal (2 comp cada 8 h) o Diazepam 5 mg (solo si ansiedad asociada, ½ comp noche máximo 3-5 días, se entrega en mano).
+- Si dolor persistente o nocturno: Yurelax® 10 mg: ½-1 comp por la noche. Alternativas: Robaxisal (2 comp cada 8 h) o [[Diazepam]] 5 mg (solo si ansiedad asociada, ½ comp noche máximo 3-5 días, se entrega en mano).
 
 ## Plantilla de Guardia
 
@@ -46,3 +46,7 @@ Seguimiento y signos de alarma
 *Aparición de trismus (incapacidad de abrir la boca más de 3 dedos) o bloqueo mandibular.
 *Dolor muy intenso y progresivo.
 *Fiebre o signos de infección local (enrojecimiento, aumento de la temperatura...).
+
+## Relacionados
+
+[[MOC - ORL]] · [[Otalgia - Abordaje en Urgencias]] · [[Odontalgia y Flemón Dental]]

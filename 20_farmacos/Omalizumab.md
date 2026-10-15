@@ -51,5 +51,5 @@ Omalizumab es un anticuerpo monoclonal IgG1κ humanizado que se une selectivamen
 
 ## 🔗 Relacionados
 - [[Asma - Manejo Crónico]]
-- [[Urticaria Crónica Espontánea]]
+- [[Urticaria aguda y crónica#Escalada en urticaria crónica no controlada|Urticaria crónica espontánea]]
 - [[Mepolizumab]]

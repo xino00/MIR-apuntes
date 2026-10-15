@@ -59,6 +59,12 @@ description: "Índice de neurología: ictus, cefaleas, epilepsia, enfermedades n
 
 ---
 
+## Punción lumbar
+
+- [[Complicaciones de la punción lumbar]]
+
+---
+
 ## 🧪 Encefalopatías y Trastornos de la Conciencia
 
 - [[Encefalopatías Metabólicas y Tóxicas]] (Wernicke, EH, EU, abstinencia alcohólica, toxíndromes)

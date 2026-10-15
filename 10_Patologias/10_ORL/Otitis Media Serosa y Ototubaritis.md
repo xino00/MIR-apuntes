@@ -28,17 +28,17 @@ Preguntar inicio, lateralidad, catarro/rinitis, barotrauma, cirugía ótica, dol
 |---|---|
 | Lavados nasales | FJD propone **5 días**, con control por Atención Primaria; tratar la causa nasal si existe. [1] |
 | Descongestionante | FJD propone **oximetazolina durante 5 días**, sin dosis/presentación. Para congestión nasal que lo justifique, CIMA de **Respibien 0,5 mg/ml** indica **1 pulsación por fosa cada 10–12 h, máximo 2 aplicaciones/24 h**; suspender y reevaluar si persiste/empeora tras **3 días**. No trasladar automáticamente los cinco días del algoritmo a esa presentación. [1,3] |
-| Corticoide nasal | FJD propone mometasona **15 días**, sin dosis; Manual orienta a inflamación nasal y propone al menos un mes. Para **rinitis alérgica concomitante**, Nasonex **50 microgramos/pulsación: 2 pulverizaciones por fosa una vez al día** es pauta CIMA. El derrame aislado no es indicación autorizada en esa ficha: individualizar indicación/duración y dejarlo documentado. [1,2,4] |
+| Corticoide nasal | FJD propone mometasona **15 días**, sin dosis; Manual orienta a inflamación nasal y propone al menos un mes. Para **[[Rinitis Alérgica y Rinosinusitis\|rinitis alérgica]] concomitante**, Nasonex **50 microgramos/pulsación: 2 pulverizaciones por fosa una vez al día** es pauta CIMA. El derrame aislado no es indicación autorizada en esa ficha: individualizar indicación/duración y dejarlo documentado. [1,2,4] |
 | Antibiótico | El apartado FJD de ototubaritis/otitis serosa no lo pauta. Si se sospecha infección aguda, reevaluar el diagnóstico en su nota correspondiente. [1] |
 
 > [!warning] Corrección de producto
 > **Rhinospray 1,18 mg/ml es tramazolina, no oximetazolina.** Se retira la equivalencia de la plantilla anterior. No intercambiar nombres, concentraciones ni dosis. [5]
 
-Antes de usar un vasoconstrictor nasal, revisar glaucoma, IMAO, hipertensión/cardiopatía y otras precauciones del producto; con mometasona, revisar lesión/cirugía nasal reciente, infección no tratada y epistaxis. [3,4]
+Antes de usar un vasoconstrictor nasal, revisar glaucoma, IMAO, hipertensión/cardiopatía y otras precauciones del producto; con mometasona, revisar lesión/cirugía nasal reciente, infección no tratada y [[Epistaxis|epistaxis]]. [3,4]
 
 ## Seguimiento y derivación
 
-Control en Atención Primaria; fijar revisión clínica y auditiva según evolución. Persistencia unilateral, diagnóstico incierto o hipoacusia mantenida → ORL. Pérdida súbita, vértigo marcado, parálisis facial, inflamación mastoidea, fiebre o dolor progresivo → reevaluación urgente. [1,2]
+Control en Atención Primaria; fijar revisión clínica y auditiva según evolución. Persistencia unilateral, diagnóstico incierto o hipoacusia mantenida → ORL. Pérdida súbita, vértigo marcado, [[Parálisis Facial Periférica|parálisis facial]], inflamación mastoidea, fiebre o dolor progresivo → reevaluación urgente. [1,2]
 
 Consultar [[Derivación a ORL - Circuito FJD]] para la logística local; el PDF de otalgia no fija un plazo universal de resolución del derrame.
 
@@ -56,7 +56,7 @@ Lavados nasales [pauta]. Tratamiento nasal **solo si existe indicación document
 
 ## Fuentes
 
-1. [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Otalgia 2026.pdf#page=2|FJD, Otalgia, p. 2, ototubaritis/otitis serosa]]. Octubre 2026; activación no confirmada.
+1. **Protocolos ORL de FJD** — [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Otalgia 2026.pdf#page=2|FJD, Otalgia, p. 2, ototubaritis/otitis serosa]]. Octubre 2026; activación no confirmada.
 2. [[Libros y referencias/01_General/Manual 12 Octubre 2022.pdf#page=128|Manual 12 Octubre 2022, cap. 9, tabla 4, p. impresa 112 (PDF 128)]].
 3. [CIMA, Respibien 0,5 mg/ml, FT 51889](https://cima.aemps.es/cima/dochtml/ft/51889/FT_51889.html), 4.1–4.4. Consulta 29-09-2026.
 4. [CIMA, Nasonex 50 microgramos, FT 61905](https://cima.aemps.es/cima/dochtml/ft/61905/FT_61905.html), 4.1–4.4. Consulta 29-09-2026.

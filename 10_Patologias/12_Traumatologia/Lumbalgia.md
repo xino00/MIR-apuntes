@@ -72,7 +72,7 @@ Pautamos Ibuprofeno 600mg cada ocho horas, pudiendo alternar toma de paracetamol
 ***Si no se permite toma de AINES (gente añosa, ERC, cardiópatas, mal control de la tensión o triada ASA) -> Metamizol 575mg cada ocho horas durante 4-5 días. Podrá alternar paracetamol 1 g cada 4 horas después de cada toma en caso de no ser suficiente con la medicación anterior.
 En caso de mal control del dolor, se puede tomar Metamizol 575mg cada ocho horas y añadir paracetamol 1g cuatro horas después de cada toma de metamizol.
 Si aún mal control del dolor, pautamos Zaldiar (paracetamol 325mg + tramadol 37,5mg) 1, 2 o 3 al día (máximo cada ocho horas).
-Si persiste el mal control, se pauta Tramadol, dosis inicial de 50mg, que puede repetirse cada ocho horas, junto con metoclopramida 30mg antes de cada toma.
+Si persiste el mal control, se pauta Tramadol, dosis inicial de 50mg, que puede repetirse cada ocho horas. Si precisa metoclopramida por náuseas o vómitos, CIMA Primperan indica **10 mg por dosis**, hasta tres veces al día, con máximo de **30 mg/día o 0,5 mg/kg/día, el límite menor**, intervalo mínimo de **6 horas** y duración máxima de **5 días**. Ajustar por función renal/hepática y revisar contraindicaciones; no asociarla automáticamente a cada toma de tramadol. La dosis previa de 30 mg por toma era incorrecta. [CIMA, Primperan, apartados 4.1–4.5](https://cima.aemps.es/cima/dochtml/ft/41446/FT_41446.html).
 
 
 **ESTENOSIS DEL CANAL LUMBAR**

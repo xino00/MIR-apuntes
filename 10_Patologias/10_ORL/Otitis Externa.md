@@ -14,14 +14,14 @@ revision_estado: "Cotejada con el protocolo FJD"
 ## En 30 segundos
 
 - OE aguda difusa: otalgia, trago positivo, edema del CAE y otorrea; antecedentes de calor, piscina o verano. [1]
-- Tratamiento: AINEs, calor, no mojar el oído y antibiótico tópico. [1]
+- Tratamiento: [[AINEs]], calor, no mojar el oído y antibiótico tópico. [1]
 - Si empeoran los síntomas en las primeras **48 horas**, volver a Urgencias para valoración por ORL de alerta. [1]
 
 ## Evaluación y pruebas
 
 **Anamnesis:** tratamiento habitual, hipoacusia previa, audífonos, cirugía otológica e infecciones previas; inicio, lateralidad, desencadenante, evolución y episodios previos; fiebre, hipoacusia, vértigo, acúfenos y otorrea. [1]
 
-**Exploración:** pabellón auricular; otoscopia siempre bilateral, con valoración de lesiones/exudado, inflamación, cuerpos extraños y membrana timpánica; trago y signos de mastoiditis; Rinne y Weber; orofaringe, adenopatías cervicales/preauriculares, ATM, piezas dentarias y signos meníngeos. Si hay vértigo o parálisis facial, consultar los protocolos específicos. [1]
+**Exploración:** pabellón auricular; otoscopia siempre bilateral, con valoración de lesiones/exudado, inflamación, cuerpos extraños y membrana timpánica; trago y signos de mastoiditis; Rinne y Weber; orofaringe, adenopatías cervicales/preauriculares, ATM, piezas dentarias y signos meníngeos. Si hay vértigo o [[Parálisis Facial Periférica|parálisis facial]], consultar los protocolos específicos. [1]
 
 **Cultivo del CAE:** fracaso terapéutico, recaída, cuadro grave, inmunosupresión, exposición antibiótica relevante, sospecha de resistencia o enfermedad otológica relevante. [2]
 
@@ -30,14 +30,14 @@ revision_estado: "Cotejada con el protocolo FJD"
 | Tratamiento | Pauta FJD |
 |---|---|
 | Medidas generales | AINEs, calor y no mojar el oído. El PDF no concreta AINE ni dosis. |
-| Tópico: opción 1 | Ciprofloxacino **3 mg/ml** + fluocinolona **0,25 mg/ml** ótico: **6 gotas cada 12 horas durante 7 días**. |
-| Tópico: opción 2 | Trimetoprim + polimixina B + dexametasona ótico: **4 gotas cada 8 horas durante 7 días**. |
+| Tópico: opción 1 | [[Ciprofloxacino]] **3 mg/ml** + fluocinolona **0,25 mg/ml** ótico: **6 gotas cada 12 horas durante 7 días**. |
+| Tópico: opción 2 | Trimetoprim + polimixina B + [[Dexametasona\|dexametasona]] ótico: **4 gotas cada 8 horas durante 7 días**. |
 
 Las dos pautas tópicas aparecen como alternativas en FJD. [1]
 
 ### Extensión, enfermedad sistémica o sospecha de necrotizante
 
-Si hay **extensión a tejidos blandos, pericondritis, enfermedad sistémica relevante o sospecha de otitis necrotizante**, FJD indica **cultivo e iniciar ciprofloxacino oral 750 mg cada 12 horas durante 7 días**. El PDF recoge este inicio de tratamiento, pero no desarrolla el manejo definitivo ni el destino en la sospecha de necrotizante. [1]
+Si hay **extensión a tejidos blandos, [[Otalgia - Abordaje en Urgencias#Pabellón, absceso y forúnculo|pericondritis]], enfermedad sistémica relevante o sospecha de otitis necrotizante**, FJD indica **cultivo e iniciar ciprofloxacino oral 750 mg cada 12 horas durante 7 días**. El PDF recoge este inicio de tratamiento, pero no desarrolla el manejo definitivo ni el destino en la sospecha de necrotizante. [1]
 
 ### Otomicosis
 
@@ -143,9 +143,9 @@ Prurito y otorrea algodonosa en oído [lado], compatibles con otomicosis.
 
 ## Fuentes
 
-1. [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Otalgia 2026.pdf#page=1|FJD, Algoritmo manejo Otalgia en Urgencias, octubre 2026, p. 1: anamnesis, exploración, oído externo y retorno a Urgencias]].
-2. [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Otalgia 2026.pdf#page=2|FJD, mismo protocolo, p. 2: indicaciones de cultivo del CAE]].
+1. **Protocolos ORL de FJD** — [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Otalgia 2026.pdf#page=1|FJD, Algoritmo manejo Otalgia en Urgencias, octubre 2026, p. 1: anamnesis, exploración, oído externo y retorno a Urgencias]].
+2. **Protocolos ORL de FJD** — [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Otalgia 2026.pdf#page=2|FJD, mismo protocolo, p. 2: indicaciones de cultivo del CAE]].
 
 ## Relacionados
 
-[[Otalgia - Abordaje en Urgencias]] · [[Otitis Media Aguda (OMA)]] · [[Infecciones ORL - Alergia a Betalactámicos]] · [[MOC - ORL]]
+[[Otalgia - Abordaje en Urgencias]] · [[Otitis Media Aguda (OMA)]] · [[Infecciones ORL - Alergia a Betalactámicos]] · [[MOC - ORL]] · [[Derivación a ORL - Circuito FJD]]

@@ -71,3 +71,7 @@ Sin la intervención farmacológica empírica rápida y poderosa de toxicidad co
 - **+ Prednisona ≤ 5 mg/día** v.o. como corticoterapia residual mínima.
 - **Duración mínima: 24 meses** desde remisión estable.
 - **GEPA con FFS = 0** (sin afectación de órganos vitales): **prednisona en monoterapia** puede ser suficiente.
+
+## Navegación entre especialidades
+
+- [[Púrpura cutánea aguda]]

@@ -11,8 +11,8 @@ last_fact_checked: 2026-04-23
 > **Crónica: no es urgencia, pero ten claros objetivos + escalón.**
 > - **Objetivo HbA1c:** general **< 7 %**; joven sin comorbilidad **< 6,5 %**; anciano frágil / esperanza de vida corta **< 8 %**.
 > - **1er escalón:** **Metformina** + estilo de vida si **sin ECV/IC/ERC**.
-> - **iSGLT2 / ar-GLP-1 / finerenona:** indicados en **ECV, IC o ERC** de forma **INDEPENDIENTE de la HbA1c**.
-> - **NO:** esperar a que falle metformina para iniciar iSGLT2/GLP-1 si hay ECV/IC/ERC — van con o antes.
+> - **Protección cardiorrenal:** elegir iSGLT2, ar-GLP-1 o finerenona según la indicación específica, población renal/cardiaca y seguridad. La HbA1c en objetivo no elimina una indicación de protección orgánica; tener ECV/IC/ERC no indica automáticamente los tres grupos.
+> - Cuando exista una **indicación específica de protección orgánica**, no demorarla únicamente por una HbA1c en objetivo; comprobar los criterios del fármaco.
 
 **Concepto clave:** Trastorno metabólico crónico caracterizado por **hiperglucemia** secundaria a **resistencia periférica a la insulina** + **disfunción progresiva de la célula β pancreática**. Representa el **90-95 %** de todos los casos de diabetes. Se asocia fuertemente con obesidad visceral, síndrome metabólico y [[Síndrome Cardiovascular-Renal-Metabólico]].
 
@@ -193,7 +193,7 @@ graph TD
 
 ### Regla de oro ADA 2026 en CKM
 
-> **La indicación de iSGLT2 / GLP-1 RA / finerenona en pacientes con DM2 y ECV/IC/ERC es INDEPENDIENTE del control glucémico**. No esperar a que falle metformina: iniciarlos **con** o **antes** según el fenotipo dominante.
+> **Separar control glucémico de protección orgánica.** Una indicación cardiorrenal no debe demorarse únicamente porque la HbA1c esté en objetivo; comprobar los criterios de cada fármaco. Finerenona no es un tratamiento universal de ECV/IC: el comentario KDIGO CRM 2026, tabla 1, recoge la indicación en DM2 con ERC, albuminuria residual, función renal y potasio adecuados pese a bloqueo SRAA tolerado. Ver [[#Integración CRM: glucemia, riñón y corazón]].
 
 ## 8. Complicaciones
 
@@ -257,6 +257,12 @@ Pilar **irrenunciable** del tratamiento. Programas estructurados (DAFNE, DESMOND
 - Adherencia farmacológica y revisión de técnicas de inyección si insulina.
 
 ## 🔗 Enlaces del Vault
+
+### Integración CRM: glucemia, riñón y corazón
+
+En DM2 con ERC, registrar **FGe y albuminuria**, la finalidad de cada fármaco y el plan de seguimiento. El comentario **KDIGO CRM 2026**, tabla 1, conserva indicaciones diferenciadas de iSGLT2, ARM no esteroideos y agonistas GLP-1: su elección depende de la población renal, potasio, tratamiento previo y objetivos, no de una indicación común a todas las combinaciones de ECV/IC/ERC. Repetir hallazgos renales incidentales para confirmar el diagnóstico y valorar su causa.
+
+Fuente: [KDIGO, *The Kidney in the Middle* (2026)](https://kdigo.org/wp-content/uploads/2026/09/KDIGO-CKM-Commentary-The-Kidney-in-the-Middle.pdf), pp. 574–576, tabla 1. Algoritmos y límites: [[CRM_2026_Revision_Aislada/Algoritmos_CRM_2026_Revision_Clinica.md#Algoritmo 1. Selección del tratamiento de la DM2 según comorbilidades|Algoritmos CRM: Algoritmo 1. Selección del tratamiento de la DM2 según comorbilidades]] y [[MOC - CRM 2026]]. **KDIGO Diabetes 2026 continúa en revisión; KDIGO identifica 2022 como edición publicada vigente** ([estado oficial](https://kdigo.org/guidelines/diabetes-ckd/), consultado 14-10-2026). El borrador no se convierte aquí en recomendación definitiva.
 
 ### Complicaciones y temas ligados
 - [[Cetoacidosis Diabética (CAD)]]

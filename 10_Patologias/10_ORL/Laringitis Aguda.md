@@ -21,11 +21,15 @@ AP: murmullo vesicular conservado, sin ruidos sobreañadidos.
 Paciente con clínica sugestiva de laringitis aguda en contexto catarral, sin signos de disnea ni repercusión sistémica. Exploración sin hallazgos de alarma. Se decide tratamiento sintomático ambulatorio con reposo vocal y seguimiento por su médico de atención primaria.
 
 *** Tratamiento al alta.
-SI MUY MAL SE PUEDE VALORAR PAUTA CORTA DE CORTIS (Prednisona 30mg 3 días y suspender).Reposo vocal relativo durante 2-3 días.
+SI MUY MAL SE PUEDE VALORAR PAUTA CORTA DE CORTIS ([[Prednisona]] 30mg 3 días y suspender).Reposo vocal relativo durante 2-3 días.
 - Reposo vocal relativo durante 2-3 días.
 - Mantener buena hidratación (≥2 L/día) y humidificación ambiental.
 - Evitar productos mentolados y exposición a humo o ambientes secos.
 - Vahos con agua: 10 minutos, 3 veces/día, durante 10 días.
-- Ibuprofeno 600 mg cada 8 h durante 4-5 días si dolor o molestias. Alternativa si contraindicado: Paracetamol 1 g cada 8 h.
+- [[Ibuprofeno]] 600 mg cada 8 h durante 4-5 días si dolor o molestias. Alternativa si contraindicado: [[Paracetamol]] 1 g cada 8 h.
 - Seguimiento por su Médico de Atención Primaria.
 - Acudirá nuevamente a urgencias si aparece disnea, estridor, odinofagia intensa o fiebre persistente.
+
+## Relacionados
+
+[[MOC - ORL]] · [[Faringoamigdalitis Aguda]] · [[Epiglotitis del Adulto]]

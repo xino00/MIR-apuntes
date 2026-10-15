@@ -37,12 +37,12 @@ La consulta puede deberse a **hemorragia, dolor mal controlado, intolerancia ora
 ### Dolor, intolerancia oral y vómitos
 
 - Primero descartar hemorragia y complicación infecciosa. Revisar cumplimiento, eficacia y tolerancia del tratamiento posoperatorio; adaptar analgesia y vía de administración a la situación.[^fjd][^hull]
-- FJD propone escalada con AINE, metamizol o tramadol sin dosis. No se fijan aquí posologías no aportadas por el protocolo; revisar contraindicaciones, duplicidades y tratamiento ya pautado antes de escalar.[^fjd]
+- FJD propone escalada con [[AINEs|AINE]], [[Metamizol|metamizol]] o tramadol sin dosis. No se fijan aquí posologías no aportadas por el protocolo; revisar contraindicaciones, duplicidades y tratamiento ya pautado antes de escalar.[^fjd]
 - Recuperar tolerancia oral e hidratación si no hay sangrado ni otro impedimento. Dolor persistente pese a analgesia, incapacidad para hidratarse, fiebre persistente o vómitos con sangre motivan nueva valoración/observación.[^hull]
 
 ### Complicación infecciosa definida
 
-- **No indicar antibiótico de rutina por dolor posquirúrgico aislado.** FJD lo condiciona a infección definida: amoxicilina-clavulánico **875/125 mg VO cada 8 h durante 7 días**; valorar gravedad y necesidad de manejo hospitalario antes de usar una pauta oral.[^fjd]
+- **No indicar antibiótico de rutina por dolor posquirúrgico aislado.** FJD lo condiciona a infección definida: [[Amoxicilina-Clavulanico|amoxicilina-clavulánico]] **875/125 mg VO cada 8 h durante 7 días**; valorar gravedad y necesidad de manejo hospitalario antes de usar una pauta oral.[^fjd]
 - Comprobar alergia, función renal y antecedente de hepatotoxicidad por el fármaco. CIMA no recomienda la presentación 875/125 mg si aclaramiento de creatinina **<30 ml/min**; seleccionar otra pauta/formulación si procede. Para alergias, usar la nota transversal.[^cima]
 
 ## Destino y seguimiento
@@ -68,11 +68,11 @@ Pauta completa, revisión y signos de alarma explicados: [ ]
 
 ## Fuentes
 
-[^fjd]: FJD, algoritmo de complicaciones postamigdalectomía, absceso periamigdalino, masa cervical y epiglotitis, octubre de 2026, p. 1: [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Absceso Periamigdalino y Complicaciones Postamigdalectomía 2026.pdf#page=1|PDF original]].
+[^fjd]: **Protocolos ORL de FJD** — FJD, algoritmo de complicaciones postamigdalectomía, absceso periamigdalino, masa cervical y epiglotitis, octubre de 2026, p. 1: [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Absceso Periamigdalino y Complicaciones Postamigdalectomía 2026.pdf#page=1|PDF original]].
 [^via]: NHS Borders, [Acute adult upper airway obstruction](https://www.rightdecisions.scot.nhs.uk/nhs-borders-clinical-guidelines/ear-nose-and-throat/acute-adult-upper-airway-obstruction/), revisión 18/09/2023, consultada 29/09/2026. Complemento para oxígeno y valoración urgente conjunta de vía aérea; no se importan sus pautas farmacológicas.
 [^cima]: AEMPS, [amoxicilina/ácido clavulánico Bluefish 875/125 mg, ficha técnica](https://cima.aemps.es/cima/dochtml/ft/72246/FT_72246.html), apartados 4.2-4.4, consultada 29/09/2026. Verifica formulación, vía y precauciones; la indicación y duración local proceden de FJD.
 [^hull]: Hull University Teaching Hospitals NHS Trust, [Adult Tonsillectomy](https://www.hey.nhs.uk/patient-leaflet/adult-tonsillectomy/), actualización 31/10/2022, apartados de analgesia, ingesta y signos de alarma; consultada 29/09/2026. Complemento sobre evolución posoperatoria, no circuito local FJD.
 
 ## Relacionados
 
-[[MOC - ORL]] · [[Derivación a ORL - Circuito FJD]] · [[Infecciones ORL - Alergia a Betalactámicos]]
+[[MOC - ORL]] · [[Derivación a ORL - Circuito FJD]] · [[Infecciones ORL - Alergia a Betalactámicos]] · [[Faringoamigdalitis Aguda]] · [[Absceso Periamigdalino e Infecciones Cervicales Profundas]]

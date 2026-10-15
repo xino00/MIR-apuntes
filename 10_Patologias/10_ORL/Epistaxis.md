@@ -32,7 +32,7 @@ revision_estado: "Revisada; diferencias de fuentes y límites explícitos"
 | Merocel | El PDF describe colocación lubricada, envuelto en dedo de guante e hidratación con suero salino; seguir técnica y material del centro. Retirada en AP a las **48–72 h**; no antibiótico rutinario. |
 | Rapid Rhino | Solo con experiencia. El PDF indica inmersión en agua estéril **30 s**, inflado con aire sin exceso de presión y retirada en AP a las **48 h**. Verificar instrucciones del modelo disponible. |
 
-Fuente de toda la tabla: FJD 2026, p. 1.[^fjd] AAO-HNS recomienda material **reabsorbible** si se precisa taponamiento por sospecha de trastorno hemorrágico o tratamiento anticoagulante/antiagregante. Su recomendación 3b excluye el **AAS diario a dosis bajas como único antitrombótico**; esto no contraindica el material reabsorbible en ese caso. Seleccionar material con ORL según disponibilidad y contexto.[^aao]
+Fuente de toda la tabla: FJD 2026, p. 1.[^fjd] AAO-HNS recomienda material **reabsorbible** si se precisa taponamiento por sospecha de trastorno hemorrágico o tratamiento anticoagulante/antiagregante. Su recomendación 3b excluye el **[[Aspirina|AAS]] diario a dosis bajas como único antitrombótico**; esto no contraindica el material reabsorbible en ese caso. Seleccionar material con ORL según disponibilidad y contexto.[^aao]
 
 ## Anticoagulantes y antiagregantes
 
@@ -212,8 +212,8 @@ Revisión en [consulta/centro] el [fecha/hora], con cita confirmada, por [motivo
 
 ## Fuentes
 
-[^fjd]: [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Epistaxis 2026.pdf#page=1|FJD, Epistaxis, octubre 2026, p. 1]].
-[^previo]: [[Libros y referencias/09_Urgencias_FJD/ORL/Manejo Epistaxis 2024.pdf#page=1|FJD, Epistaxis, enero 2024, p. 1]]; compresión inicial.
+[^fjd]: **Protocolos ORL de FJD** — [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Epistaxis 2026.pdf#page=1|FJD, Epistaxis, octubre 2026, p. 1]].
+[^previo]: **Protocolos ORL de FJD** — [[Libros y referencias/09_Urgencias_FJD/ORL/Manejo Epistaxis 2024.pdf#page=1|FJD, Epistaxis, enero 2024, p. 1]]; compresión inicial.
 [^manual]: [[Libros y referencias/01_General/Manual 12 Octubre 2022.pdf#page=139|Manual 12 Octubre 2022, cap. 9, pp. impresas 123–124 (PDF 139–140)]].
 [^aao]: [AAO-HNS, Clinical Practice Guideline: Nosebleed, 2020](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/full/10.1177/0194599819890327), recomendaciones 2, 3b (incluidas exclusiones), 4, 7a, 9 y 11; consultada 2026-09-29.
 

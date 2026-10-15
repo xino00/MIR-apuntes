@@ -29,13 +29,13 @@ No equiparar este cuadro a [[Laringitis Aguda]]. Mantener al paciente en la posi
 ## Tratamiento
 
 - Monitorización, sedestación, dieta absoluta, acceso venoso y oxígeno si compromiso respiratorio. FJD indica evitar CPAP/BiPAP ante disnea en este contexto; no utilizarlas para demorar la valoración de una obstrucción de vía aérea superior.[^fjd][^via]
-- **Antibiótico local FJD:** ceftriaxona **2 g IV cada 24 h**, dentro del manejo hospitalario y tras revisar alergias. La dosis/vía se encuentran dentro de la posología adulta de la ficha técnica, pero la elección para este cuadro procede del protocolo FJD.[^fjd][^cima]
-- Si alergia a penicilinas o derivados, FJD exige fenotipar la reacción y seleccionar alternativa local: [[Infecciones ORL - Alergia a Betalactámicos]]. No asumir que toda reacción permite ceftriaxona ni sustituir automáticamente por clindamicina.[^fjd]
+- **Antibiótico local FJD:** [[Ceftriaxona|ceftriaxona]] **2 g IV cada 24 h**, dentro del manejo hospitalario y tras revisar alergias. La dosis/vía se encuentran dentro de la posología adulta de la ficha técnica, pero la elección para este cuadro procede del protocolo FJD.[^fjd][^cima]
+- Si alergia a penicilinas o derivados, FJD exige fenotipar la reacción y seleccionar alternativa local: [[Infecciones ORL - Alergia a Betalactámicos]]. No asumir que toda reacción permite ceftriaxona ni sustituir automáticamente por [[Clindamicina|clindamicina]].[^fjd]
 
 > [!warning] Discordancia farmacológica que debe conocer el equipo
 > El Manual 2022 propone **ceftriaxona 2 g cada 24 h + clindamicina 600-900 mg cada 8 h IV durante 7-10 días**; el algoritmo FJD 2026 recoge ceftriaxona sin ese acompañamiento y no fija duración. Son esquemas de fuentes distintas: concretar cobertura y duración con ORL/PROA según gravedad y evolución, sin mezclarlos automáticamente.[^manual][^fjd]
 
-Los corticoides y nebulizados no sustituyen la protección de la vía aérea. El Manual considera insuficiente la evidencia a su favor en supraglotitis; FJD 2026 no fija una pauta corticoidea en este apartado. No importar el bolo de dexametasona del absceso periamigdalino.[^manual][^fjd]
+Los corticoides y nebulizados no sustituyen la protección de la vía aérea. El Manual considera insuficiente la evidencia a su favor en supraglotitis; FJD 2026 no fija una pauta corticoidea en este apartado. No importar el bolo de [[Dexametasona|dexametasona]] del absceso periamigdalino.[^manual][^fjd]
 
 ## Destino y seguimiento
 
@@ -59,7 +59,7 @@ Véanse [[Absceso Periamigdalino e Infecciones Cervicales Profundas]] y [[Cuerpo
 
 ## Fuentes
 
-[^fjd]: FJD, algoritmo de complicaciones postamigdalectomía, absceso periamigdalino, masa cervical y epiglotitis, octubre de 2026, p. 1: [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Absceso Periamigdalino y Complicaciones Postamigdalectomía 2026.pdf#page=1|PDF original]].
+[^fjd]: **Protocolos ORL de FJD** — FJD, algoritmo de complicaciones postamigdalectomía, absceso periamigdalino, masa cervical y epiglotitis, octubre de 2026, p. 1: [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Absceso Periamigdalino y Complicaciones Postamigdalectomía 2026.pdf#page=1|PDF original]].
 [^manual]: Manual del 12 de Octubre 2022, cap. 9, tabla 16, p. impresa 129 (PDF 145): [[Libros y referencias/01_General/Manual 12 Octubre 2022.pdf#page=145|Supraglotitis: clínica, vía aérea, ingreso y tratamiento]].
 [^via]: NHS Borders, [Acute adult upper airway obstruction](https://www.rightdecisions.scot.nhs.uk/nhs-borders-clinical-guidelines/ear-nose-and-throat/acute-adult-upper-airway-obstruction/), revisión 18/09/2023, consultada 29/09/2026. Complemento para oxígeno y valoración urgente conjunta de vía aérea; no se importan sus pautas farmacológicas.
 [^cima]: AEMPS, [ceftriaxona IPS IV, ficha técnica](https://cima.aemps.es/cima/dochtml/ft/66753/FT_66753.html), apartados 4.2-4.4, consultada 29/09/2026. No valida por sí sola la selección de cobertura para epiglotitis.

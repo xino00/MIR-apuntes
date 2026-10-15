@@ -36,7 +36,7 @@ La AAO-HNSF recomienda corticoide oral en Bell dentro de **72 h** desde el inici
 
 | Fuente | Pauta consignada | Aplicación y límite |
 |---|---|---|
-| **FJD 2026** | Prednisona **1 mg/kg/día durante 5 días**, después disminuir **10 mg cada 48 h** | Pauta local de referencia. El PDF no especifica dosis máxima: acordar dosis inicial y calendario completo según paciente; no añadir un máximo por inferencia. |
+| **FJD 2026** | [[Prednisona]] **1 mg/kg/día durante 5 días**, después disminuir **10 mg cada 48 h** | Pauta local de referencia. El PDF no especifica dosis máxima: acordar dosis inicial y calendario completo según paciente; no añadir un máximo por inferencia. |
 | **Manual 12 de Octubre 2022** | Prednisona **1 mg/kg/día durante 5 días**, después reducir **10 mg cada día** hasta finalizar | Contraste independiente: el descenso difiere del FJD 2026. No combinar ambos calendarios. |
 
 FJD también recoge omeprazol **20 mg/24 h durante un mes**, e individualización en paciente frágil, anciano o polimedicado. Revisar indicación de gastroprotección y riesgo de hiperglucemia/infección; documentar seguimiento en Atención Primaria, especialmente en diabetes. La ficha CIMA aporta precauciones generales, no una pauta específica de Bell.[^fjd][^cima-p]
@@ -45,7 +45,7 @@ La presencia de otitis o sospecha de Ramsay Hunt requiere manejo etiológico y v
 
 ### Antiviral: indicación separada del corticoide
 
-- FJD propone **valaciclovir 1 g VO cada 8 h durante 7 días** ante dolor intenso o parálisis grave. El Manual lo dirige a Ramsay Hunt o parálisis completa con dolor intenso y sospecha de zóster sin lesiones.[^fjd][^manual]
+- FJD propone **[[Valaciclovir|valaciclovir]] 1 g VO cada 8 h durante 7 días** ante dolor intenso o parálisis grave. El Manual lo dirige a Ramsay Hunt o parálisis completa con dolor intenso y sospecha de zóster sin lesiones.[^fjd][^manual]
 - En Bell idiopática, AAO-HNSF permite añadir antiviral al corticoide dentro de 72 h; **no recomienda antiviral aislado**. No afirmar beneficio establecido para todos los casos.[^aao]
 - CIMA verifica **1 g cada 8 h, 7 días** para zóster en adulto inmunocompetente con función renal conservada; **ajustar al aclaramiento de creatinina**, revisar hidratación y riesgo neurotóxico. Esta verificación de dosis para zóster no transforma Bell en indicación autorizada ni cubre automáticamente el zóster complicado/inmunodeprimido.[^cima-v] Ver [[Herpes Zóster]] si Ramsay Hunt o infección complicada.
 
@@ -75,7 +75,7 @@ ORL/Neurología consultados: __. Destino/cita: __. Alarmas explicadas: __.
 
 ## Fuentes y salvedades
 
-[^fjd]: Bonet Loscertales M, Viñal González M. [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Parálisis Facial 2026.pdf#page=1|FJD, parálisis facial, p. 1]]. Fecha editorial **octubre de 2026**; activación no confirmada.
+[^fjd]: **Protocolos ORL de FJD** — Bonet Loscertales M, Viñal González M. [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Parálisis Facial 2026.pdf#page=1|FJD, parálisis facial, p. 1]]. Fecha editorial **octubre de 2026**; activación no confirmada.
 [^manual]: [[Libros y referencias/01_General/Manual 12 Octubre 2022.pdf#page=133|Manual 12 de Octubre 2022, cap. 9, p. 117: tratamiento y causas]]; [[Libros y referencias/01_General/Manual 12 Octubre 2022.pdf#page=134|p. 118: evaluación y House-Brackmann]]; [[Libros y referencias/01_General/Manual 12 Octubre 2022.pdf#page=126|p. 110: zóster ótico]].
 [^aao]: [AAO-HNSF, guía de parálisis de Bell 2013, recomendaciones oficiales](https://www.entnet.org/resource/aao-hnsf-clinical-practice-guideline-bells-palsy-press-release-fact-sheet/), KAS 1–6 y 11.
 [^cima-p]: [CIMA, prednisona cinfa, ficha técnica](https://cima.aemps.es/cima/dochtml/ft/75676/FT_75676.html), 4.2–4.5; consultada 29/09/2026.
@@ -83,4 +83,4 @@ ORL/Neurología consultados: __. Destino/cita: __. Alarmas explicadas: __.
 
 **Salvedad pendiente:** el máximo de prednisona no figura en el protocolo local. La diferencia del descenso FJD/Manual queda visible; el calendario individual debe cerrarse antes del alta.
 
-Relacionadas: [[MOC - ORL]] · [[Herpes Zóster]] · [[Hipoacusia - Evaluación Urgente]] · [[Vértigo en Urgencias]].
+Relacionadas: [[MOC - ORL]] · [[Herpes Zóster]] · [[Hipoacusia - Evaluación Urgente]] · [[Vértigo en Urgencias]] · [[Traumatismos del Oído y Cuerpos Extraños del CAE]] · [[Derivación a ORL - Circuito FJD]].

@@ -149,6 +149,12 @@ El tratamiento médico optimizado (TMO) se basa en 4 pilares fundamentales, todo
 
 ## 🔗 Enlaces del Vault
 
+### IC y ERC: interpretar la trayectoria renal
+
+El informe de conferencia **KDIGO IC/ERC 2026** recomienda valorar conjuntamente función renal, albuminuria y situación cardiaca. Durante la descongestión, una subida de creatinina puede acompañar un cambio hemodinámico, pero también lesión renal: interpretarla con respuesta clínica, congestión, presión y perfusión. Una cifra aislada no permite decidir automáticamente la retirada del tratamiento. Los puntos de corte óptimos de péptidos natriuréticos en ERC siguen sin estar definidos; integrar clínica e imagen.
+
+Fuente: [KDIGO IC/ERC 2026](https://kdigo.org/wp-content/uploads/2026/05/KDIGO-2026-Kidney-Disease-Heart-Failure-Controversies-Conference-Report-KI-Final.pdf), pp. 1100–1101. Es un informe de consenso, no una nueva guía graduada. Desarrollo: [[CRM_2026_Revision_Aislada/Algoritmos_CRM_2026_Revision_Clinica.md#1.3. Congestión venosa y perfusión renal|Algoritmos CRM: 1.3. Congestión venosa y perfusión renal]] y [[MOC - CRM 2026]]. Las dosis y límites regulatorios deben comprobarse para el producto e indicación; el corpus aislado no incluye esa comprobación CIMA.
+
 - [[Insuficiencia cardiaca aguda]]
 - [[Síndrome Cardiovascular-Renal-Metabólico]]
 - [[MOC - CARDIOLOGIA]]

@@ -1,0 +1,97 @@
+---
+aliases: [PROA ITU, Infección de Orina PROA]
+tags: [urgencias, infecciosas, uro]
+---
+# PROA - Infecciones del Tracto Urinario (ITU)
+
+**Fuente:** Protocolo Diagnóstico y Tratamiento de Síndromes Infecciosos FJD (2023).
+
+> [!note] Protocolo local histórico y fuentes actuales diferenciadas
+> Esta nota conserva las pautas de la copia PROA y su microbiología de 2022; no confirma la vigencia del protocolo local. Consultar [[ITU - Abordaje Inicial y Cistitis]], [[ITU - Situaciones Especiales]], [[Pielonefritis Aguda]] y [[Prostatitis Aguda]] para EAU 2026, IDSA y límites del producto CIMA. Las etiquetas «complicada/no complicada» del PROA no equivalen exactamente a la clasificación EAU.
+
+> [!warning] Bacteriuria Asintomática
+> **No** tratar bacteriurias asintomáticas sistemáticamente, aunque el urocultivo o sedimento sean patológicos, o si hay cambios de color/olor.
+> **Excepciones enumeradas por el PROA histórico:** gestantes, neutropenia de alto riesgo (<100), procedimiento urológico y trasplante renal (<1 mes). **No son excepciones universales EAU/IDSA:** el procedimiento debe lesionar mucosa; primer mes postrasplante y neutropenia requieren valoración individual por la incertidumbre de evidencia. Ver [[ITU - Situaciones Especiales#1. Bacteriuria asintomática]] (EAU §3.3; IDSA 2019 §§VII y IX).
+
+> [!quote] 📖 PROA FJD — Mapa Microbiológico Ambulatorio 2022 (% cepas sensibles)
+> Datos del Servicio de Microbiología del Hospital Universitario Fundación Jiménez Díaz.
+>
+> | Microorganismo | Muestra | AMPI | AMC | CEFURO | CEFOTA | QUINOL | FOSFO | NITRO | COTRI | GENTA |
+> | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+> | *E. coli* | Orina | 48,3 | 76,5 | 87,1 | 91,8 | 77,7 | 96,1 | 99,2 | 76,2 | — |
+> | *K. pneumoniae* | Orina | 0 | 81,8 | 83,1 | 86,0 | 84,3 | 71,7 | * | 87,5 | — |
+> | *P. mirabilis* | Orina | 65,3 | 89,9 | 95,1 | 95,7 | 68,7 | 68,3 | 0,1 | 73,1 | — |
+> | *S. saprophyticus* | Orina | — | — | — | — | 100 | — | — | — | 100 |
+> | *E. faecalis* | Orina | — | 98,8 | — | — | — | 84,1 | — | — | — |
+>
+> *E. coli 8,5% BLEE; K. pneumoniae 13,3% BLEE. \*Todas las cepas de K. pneumoniae deben considerarse resistentes a fosfomicina en infección urinaria.*
+>
+> **Tasa de resistencia umbral para uso empírico:** < 20% en cistitis, < 10% en pielonefritis.
+> **No recomendar empírico en ITU:** quinolonas, cotrimoxazol ni amoxicilina/clavulánico (por resistencias en FJD).
+
+> [!warning] IDSA 2025 · ITU-05 — umbrales históricos
+> Los umbrales <20% en cistitis y <10% en pielonefritis pertenecen al marco histórico del PROA/IDSA 2010; no son una regla universal de IDSA 2025. Mantener la pauta local, pero confirmar el antibiograma FJD vigente. En sepsis, IDSA solo sugiere utilizar un antibiograma local, de los 12 meses previos y representativo. Si se utiliza, propone considerar una actividad ≥90% en shock séptico y ≥80% en sepsis sin shock; son umbrales modelados por gravedad. Sin sepsis no formula una recomendación.
+>
+> **Evidencia en sepsis:** recomendación condicional; certeza muy baja. [[02 - Seleccion antibiotica.pdf#page=42|Selección, pp. 42-45]].
+
+---
+## 1. Cistitis
+
+- **[[ITU - Abordaje Inicial y Cistitis#3. Cistitis en mujer no gestante|Cistitis no complicada]]**:
+  - *Perfil clínico:* Mujer joven, no embarazada, sin anomalías de vía urinaria ni dispositivo. No requiere urocultivo.
+  - *1ª elección:* [[Fosfomicina]] trometamol **3g dosis única**.
+  - *2ª elección:* Nitrofurantoína 100mg/12h (o 50mg/8h), **5 días**.
+  - *Límite de formulación:* esa notación pertenece a la copia PROA y no identifica el producto. EAU separa macrocristales de monohidrato/macrocristales; CIMA Furantoína 50 mg comprimidos recoge 50–100 mg/8 h durante 5–7 días y sus restricciones. Ver [[ITU - Abordaje Inicial y Cistitis#Nitrofurantoína: límites de uso]].
+  - *Nota postmenopáusica:* Fosfomicina se puede usar como opción en mujeres postmenopáusicas sin otros factores de riesgo de cistitis complicada.
+  - *Contraindicado empírico:* [[Ciprofloxacino]], [[Cotrimoxazol]], [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] (resistencias elevadas en FJD).
+
+- **[[ITU - Abordaje Inicial y Cistitis#Pautas locales que difieren del esquema EAU|Cistitis complicada]]**:
+  - *Perfil clínico:* Alteraciones anatómicas, litiasis, varones*, inmunodeprimidos, DM mal controlada, sondas, persistencia de síntomas tras 5-7d. **Requiere urocultivo previo al antibiótico.**
+  - *1ª elección:* [[Fosfomicina]] trometamol **3g + 2ª dosis a las 48h**.
+  - *2ª elección:* [[Cefixima]] 400mg/24h, **7 días**.
+  - *Duración:* 7 días si buena evolución. Urocultivo de control no necesario salvo mala evolución (excepto embarazadas).
+  - *\*Varones sin comorbilidades y descartada ITS y prostatitis: pueden tratarse como cistitis no complicada.*
+
+## 2. Infección del Parénquima
+
+- **[[Pielonefritis Aguda]]** (sin criterios de ingreso):
+  - Extraer **urocultivo siempre** antes de iniciar antibiótico (alta rentabilidad).
+  - Considerar Rx abdomen para descartar litiasis (si clínica similar a cólico renal).
+  - **Si se decide manejo ambulatorio:** la copia PROA propone observación de al menos **12 h** tras la 1.ª dosis y cita «1/3 evolucionan a sepsis». Son datos del protocolo histórico, no un riesgo individual actualizado ni un mínimo universal EAU. [[PROA FJD.pdf#page=3|PROA, p. 3]].
+  - *Pauta:* **1ª dosis de [[Ceftriaxona]] 2g IV** en urgencias → alta con **[[Cefixima]] 400mg/24h** hasta completar **7 días** totales, revisando antibiograma en MAP a las 48h.
+  - *Si alérgico a betalactámicos (confirmada):* [[Amikacina|amikacina]] 15-20mg/kg IV urgencias + [[Ciprofloxacino]] 500mg/12h al alta, pero revisar urocultivo en MAP a las 48h.
+  - *Fosfomicina y Nitrofurantoína:* NO adecuadas para pielonefritis (no alcanzan niveles parénquima renal).
+  - *Ingreso si:* riesgo de mala evolución, anomalías urinarias/dispositivos, riesgo multiR o ausencia de respuesta a las 48-72h.
+
+- **[[Prostatitis Aguda]]** (sin criterios de ingreso):
+  - Descartar clínica miccional, tacto rectal (próstata flemosa/edematosa), considerar ITS en varones jóvenes.
+  - Recoger **urocultivo + hemocultivos**. Si vaciamiento incompleto, considerar sondaje vesical.
+  - *Pauta:* **[[Ceftriaxona]] 2g IV en urgencias** → alta con **[[Cefixima]] 400mg/24h**.
+  - **Importante:** Revisar urocultivo y si sensible, **cambiar a quinolonas** ([[Ciprofloxacino]] 500mg/12h) **o [[Cotrimoxazol]]** 800/160mg/12h por mayor penetración prostática. Completar **2 semanas** (desde 1ª dosis de ceftriaxona). Prolongar 3-4 semanas si síntomas persistentes o absceso.
+  - Derivar al alta a Urología.
+
+## 3. Consideraciones Especiales
+
+- **[[ITU - Situaciones Especiales#3. ITU asociada a catéter|Infección urinaria en portador de dispositivo]]** (sonda vesical, catéter ureteral, nefrostomía, urostomía, CDJ):
+  - Preguntar siempre por **clínica miccional**: urocultivo positivo sin clínica no precisa ATB.
+  - Nunca recoger muestra de bolsa colectora ni urocultivo directo de sedimento si hay bolsa.
+  - **Recambiar sonda vesical** antes de recoger muestra (si posible). Registrar el recambio en HC.
+  - Si nefrostomía/CMJ/urostomía: solicitar cultivo como "orina nefrostomía" (frecuentemente polimicrobiano).
+  - *Tratamiento:* [[Cefixima]] 400mg/24h, **7 días** + **recambio de sonda vesical**.
+  - *IDSA 2025 · ITU-10 — alcance:* esta pauta de 7 días procede del PROA FJD; IDSA no la valida específicamente en portadores de sonda permanente, un subgrupo con evidencia indirecta que requiere individualización.
+  - Revisar urocultivos previos (alto riesgo de multiR). Al alta: derivar a MAP en 48h para revisar antibiograma.
+  - *Si alergia a betalactámicos (confirmada):* dosis única de amikacina IV 15-20mg/kg/24h.
+
+- **[[ITU - Situaciones Especiales#1. Bacteriuria asintomática|Bacteriuria Asintomática]]**:
+  - **No tratar sistemáticamente.** Las excepciones históricas PROA se matizan en el recuadro inicial: gestación y lesión de mucosa urológica se distinguen de primer mes postrasplante/neutropenia, que requieren valoración individual; ver [[ITU - Situaciones Especiales#1. Bacteriuria asintomática]].
+  - La presencia de piuria, nitritos o cambio de color/olor NO indica ATB si el paciente está asintomático.
+
+- **[[ITU - Situaciones Especiales#4. Enterobacterias BLEE|Microorganismos BLEE]]**:
+  - *Factores de riesgo:* exposición previa a quinolonas/cefalosporinas 2-3ª gen, hospitalización previa, infecciones urinarias recurrentes, portador de dispositivos, contacto con portador.
+  - Revisar antibiograma: fosfomicina, nitrofurantoína, cotrimoxazol, ciprofloxacino o amoxicilina/clavulánico pueden ser válidas si la cepa es sensible.
+  - **No indicado el uso sistemático de carbapenems** si hay alternativas disponibles.
+  - Si cistitis sin datos de gravedad y FG adecuado: amikacina IV 15-20mg/kg dosis única.
+  - Si precisa ATB prolongado ambulatorio: coordinación con Continuidad Asistencial (**Busca: 863773**) para ertapenem 1g/24h IV en Hospital de Día, duración 7 días (o Busca Geriatría si procede).
+
+> [!info] Enlaces
+> Volver al Índice Principal: [[PROA - Guía de Antimicrobianos y Síndromes Infecciosos]]

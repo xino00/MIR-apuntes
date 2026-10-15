@@ -35,8 +35,8 @@ Valorar el contexto traumático y realizar exploración neurológica. La sospech
 ## Tratamiento
 
 - Frío local durante las primeras **48 h**, según FJD.[^fjd]
-- Analgesia individualizada con paracetamol o AINE si procede; el algoritmo no aporta dosis, por lo que se deben completar según paciente y tratamiento previo.[^fjd]
-- Si hay herida incisa, valorar sutura con monofilamento no reabsorbible **5-0**.[^fjd]
+- Analgesia individualizada con [[Paracetamol|paracetamol]] o [[AINEs|AINE]] si procede; el algoritmo no aporta dosis, por lo que se deben completar según paciente y tratamiento previo.[^fjd]
+- Si hay [[Heridas y Suturas|herida incisa]], valorar sutura con monofilamento no reabsorbible **5-0**.[^fjd]
 - FJD recomienda férula nasal hasta valoración en Curas ORL. No sustituye la exploración del tabique ni el tratamiento urgente de un hematoma septal.[^fjd][^nhs]
 
 ## Destino y seguimiento
@@ -62,7 +62,7 @@ Pauta analgésica completa y alarmas explicadas: [ ]
 
 ## Fuentes
 
-[^fjd]: FJD, algoritmo de traumatismo nasal en urgencias, octubre de 2026, p. 1: [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Traumatismo Nasal 2026.pdf#page=1|PDF original]].
+[^fjd]: **Protocolos ORL de FJD** — FJD, algoritmo de traumatismo nasal en urgencias, octubre de 2026, p. 1: [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Traumatismo Nasal 2026.pdf#page=1|PDF original]].
 [^nhs]: NHS Borders, [Nasal Fractures](https://www.rightdecisions.scot.nhs.uk/nhs-borders-clinical-guidelines/ear-nose-and-throat/nasal-fractures/), consultada 29/09/2026. Complementa prioridad del hematoma septal y uso de imagen; los procedimientos de reducción de esa guía no se trasladan a esta nota.
 
 ## Relacionados

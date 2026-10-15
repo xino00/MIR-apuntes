@@ -29,6 +29,9 @@ Dolor lumbar irradiado a MMII. Lasègue positivo (+ Bragard si positivo). Lasèg
 
 ## Plantilla de Guardia
 
+> [!warning] Corticoides: diferencias entre fuentes
+> **NICE NG59, recomendación 1.2.16 (2020), población de 16 años o más:** desaconseja ofrecer corticoides orales, gabapentinoides, otros antiepilépticos o benzodiacepinas para la ciática por falta de beneficio global y evidencia de daño. **Jiménez Murillo 2023**, cap. 121, pp. 718 y 720, describe una pauta corta de dexametasona. Son propuestas discordantes: no convertir la pauta del manual en tratamiento por defecto ni mezclarla con NICE. La dosis histórica de prednisona de la plantilla inferior queda pendiente de localizar en su original; no ha sido validada en esta conciliación.
+
 ***** Enfermedad actual.**
 
 Paciente de X años, NAMC, con los siguientes antecedentes:
@@ -61,7 +64,9 @@ Reposo relativo: mantener actividad siempre que sea posible, ya que el reposo co
 Calor local seco durante 10-15 minutos hasta 3 veces al día.
 Entregamos hoja de ejercicios del Dr Parrón para realizar tras dolor agudo (prevención).
 Para control del dolor ******
-Se puede plantear pautas cortas con corticoides: Prednisona 30mg durante tres días, 1 día 15mg, otro 10mg y cortar (si no se supera 1mg por kg de peso, se puede evitar pauta descendente si no se alarga más de una semana). En el Jiménez Murillo 2023 plantean también Dexametasona comprimidos 4mg/12h tres días, 2mg/12h otros tres días y 1mg/12h tres días y suspender.
+Se puede plantear pautas cortas con corticoides: Prednisona 30mg durante tres días, 1 día 15mg, otro 10mg y cortar (si no se supera 1mg por kg de peso, se puede evitar pauta descendente si no se alarga más de una semana).
+
+**Contraste documental, no pauta automática de alta:** Jiménez Murillo 2023 describe dexametasona **4 mg/12 h durante 3 días por vía oral o IM**, seguida de **4 mg/24 h durante 3 días por vía oral o IM**, **2 mg/24 h durante 3 días por vía oral** y **1 mg/24 h durante 3 días por vía oral**, hasta suspender. El cap. 121 la expone inicialmente para lumbalgias no mecánicas (p. 718) y remite a ella para lumbociática (p. 720). La recomendación NICE anterior mantiene su diferencia explícita.
 Control por su médico de atención primaria.
 
 ***Control del dolor:
@@ -71,8 +76,16 @@ Pautamos Ibuprofeno 600mg cada ocho horas, pudiendo alternar toma de paracetamol
 ***Si no se permite toma de AINES (gente añosa, ERC, cardiópatas, mal control de la tensión o triada ASA) -> Metamizol 575mg cada ocho horas durante 4-5 días. Podrá alternar paracetamol 1 g cada 4 horas después de cada toma en caso de no ser suficiente con la medicación anterior.
 En caso de mal control del dolor, se puede tomar Metamizol 575mg cada ocho horas y añadir paracetamol 1g cuatro horas después de cada toma de metamizol.
 Si aún mal control del dolor, pautamos Zaldiar (paracetamol 325mg + tramadol 37,5mg) 1, 2 o 3 al día (máximo cada ocho horas).
-Si persiste el mal control, se pauta Tramadol, dosis inicial de 50mg, que puede repetirse cada ocho horas, junto con metoclopramida 30mg antes de cada toma.
+Si persiste el mal control, se pauta Tramadol, dosis inicial de 50mg, que puede repetirse cada ocho horas. Si precisa metoclopramida por náuseas o vómitos, CIMA Primperan indica **10 mg por dosis**, hasta tres veces al día, con máximo de **30 mg/día o 0,5 mg/kg/día, el límite menor**, intervalo mínimo de **6 horas** y duración máxima de **5 días**. Ajustar por función renal/hepática y revisar contraindicaciones; no asociarla automáticamente a cada toma de tramadol. La dosis previa de 30 mg por toma era incorrecta.
 
 Alternativas:
 Si aún mal control del dolor, pautamos Zaldiar (paracetamol 325mg + tramadol 37,5mg) a demanda, máximo cada ocho horas.
 Si persiste el mal control, se pauta Tramadol, dosis inicial de 100mg, que puede repetirse cada ocho horas.
+
+## Fuentes de la conciliación focal
+
+- [NICE NG59, recomendaciones 1.2.16–1.2.19](https://www.nice.org.uk/guidance/ng59/chapter/recommendations#pharmacological-management-of-sciatica); actualización farmacológica de 2020, PDF oficial p. 9, reabierto el 14/10/2026.
+- Jiménez Murillo L, Montero Pérez FJ. *Medicina de Urgencias y Emergencias*, 7.ª edición, 2023, cap. 121, pp. 718 y 720 (PDF pp. 743 y 745): pauta de dexametasona y remisión desde lumbociática.
+- [CIMA, Primperan 10 mg comprimidos, FT 41446](https://cima.aemps.es/cima/dochtml/ft/41446/FT_41446.html), apartados 4.1–4.5: indicación, dosis, límites y precauciones de metoclopramida en adultos.
+
+Revisión limitada a los puntos anteriores; las restantes pautas heredadas de esta nota no se han revalidado íntegramente.

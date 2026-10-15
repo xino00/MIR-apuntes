@@ -82,11 +82,12 @@ ATS 2025 no permite recomendar un corticoide, una dosis o una duración concreto
 
 > [!note]
 > ATS 2025 no actualiza la elección ni las dosis de los antibióticos. Las pautas siguientes proceden de las fuentes previas registradas en el frontmatter y se revisarán por separado.
+> La indicación de antibiótico debe decidirse primero con el contexto de [[#NAC con test respiratorio viral positivo]]. La pauta previa de cobertura de atípicos no es una obligación de ATS 2025: existe una diferencia documental con el PROA FJD, p. 6, que recoge amoxicilina sola en bajo riesgo. La elección entre esos criterios sigue pendiente de conciliación; no fusionar sus poblaciones ni sus duraciones.
 
 **Antibiótico según perfil clínico:**
 
 Neumonía típica (<65 años, sin comorbilidades, no EPOC):
-- **1ª elección:** Amoxicilina/Clavulánico 875/125 mg cada 8 h **+ Azitromicina 500 mg/día × 3-5 días** (cobertura de atípicos obligatoria — SEPAR-SEIMC 2018, IDSA/ATS 2019, Manual 12 Oct 2022)
+- **Pauta previa registrada como 1ª elección:** Amoxicilina/Clavulánico 875/125 mg cada 8 h **+ Azitromicina 500 mg/día × 3-5 días** (cobertura de atípicos de esta pauta; diferencia frente al PROA pendiente de conciliar).
 - **Alternativa monoterapia:** Levofloxacino 500 mg/24h × 5 días (si alergia o sospecha alta de atípicos)
 - **Amoxicilina 1 g/8h sola sin macrólido:** admisible solo en jóvenes < 50 años con baja sospecha de atípicos y comorbilidades nulas; no es esquema preferente.
 - **Alérgicos a betalactámicos:** Levofloxacino 500 mg/día × 5 días
@@ -130,9 +131,10 @@ PCR elevada X mg/L.
 Iones, función renal y hepática, gasometría venosa (si SatO₂ <94%).
 Otros (según caso): antígenos en orina, test de gripe/VRS/SARS-CoV-2, hemocultivos.
 *** Resumen Evolución.
-Neumonía adquirida en la comunidad confirmada radiológicamente. No criterios de ingreso hospitalario inmediato (CURB65, FINE, PSI). Buena tolerancia clínica y estabilidad hemodinámica. Alta con tratamiento antibiótico ambulatorio y seguimiento por su médico de atención primaria.
+Neumonía adquirida en la comunidad confirmada por imagen. Registrar criterios de destino (CURB65, FINE/PSI, oxigenación, tolerancia y soporte). Si procede alta, documentar si existe indicación de antibiótico tras valorar gravedad, comorbilidad y test viral según ATS, junto con pauta, duración y seguimiento individualizados.
 *** Tratamiento al alta.
 **- COMO ANTIBIÓTICO: **********
+Completar sólo si está indicado tras la valoración anterior; la plantilla no convierte el antibiótico en obligatorio para todo diagnóstico de NAC. Revisar [[#Duración según estabilidad clínica]] y dejar plan de reevaluación.
 - Hidratación abundante: asegurar la ingesta de 1.5–2 litros de agua diarios.
 - Paracetamol 1 g cada 8 h durante 5–7 días. Si molestias no ceden, puede alternar con Metamizol 575 mg a las 4 horas del Paracetamol.
 - En caso de tos, pitos torácicos o fatiga: Salbutamol 100 mcg, 1 inhalación (máx. 6 veces/día).
@@ -145,7 +147,7 @@ Neumonía adquirida en la comunidad confirmada radiológicamente. No criterios d
 ********Antibiótico según perfil clínico:**
 Neumonía típica
 (<65 años, sin comorbilidades, no EPOC):
-1ª elección: Amoxicilina/Clavulánico 875/125 mg/8h + Azitromicina 500 mg/día × 3-5 días (cobertura atípicos obligatoria)
+Pauta previa registrada como 1ª elección: Amoxicilina/Clavulánico 875/125 mg/8 h + Azitromicina 500 mg/día × 3–5 días; cobertura de atípicos de esa pauta, pendiente conciliar con PROA. Aplicar sólo si existe indicación de antibiótico y revisar duración según estabilidad.
 Alternativa monoterapia: Levofloxacino 500 mg/24h × 5 días
 Amoxicilina 1 g/8h sola: solo en jóvenes < 50 años sin comorbilidades y baja sospecha atípicos
 Alérgicos a betalactámicos: Levofloxacino 500 mg/día × 5 días
@@ -176,7 +178,7 @@ MICROBIOLOGÍA: cultivo de esputo, hemocultivo, antigenurias en orina.
 
 ### TRATAMIENTO ANTIBIÓTICO
 AMBULATORIO:
-Amoxicilina 1gr/8h / Amoxi-Clav 875/125mg/8h (EPOC/Asma) + Macrólido (Azitro 500mg/d 3d / Claritromicina 500mg/15h)
+Amoxicilina 1gr/8h / Amoxi-Clav 875/125mg/8h (EPOC/Asma) + Macrólido (Azitro 500mg/d 3d / Claritromicina 500 mg/12 h; intervalo contrastado con [[PROA Antibioticos vs 23 abril.pdf#page=9|PROA antibióticos, p. 9]]).
 Levofloxacino 500mg/12h / Moxifloxacino 400mg/d
 **HOSPITALARIO:**
 Ceftriaxona 1-2g/d / Cefotaxima 2g/8h / Ceftarolina 600mg12h + Macrólido (Azitro 500mg/d 3d / Claritromicina 500mg/12h
@@ -187,6 +189,8 @@ La tos postinfecciosa puede persistir hasta 3 meses. El estudio de tos crónica 
 ## Referencias
 
 - [[ATS 2025 - NAC adultos - snapshot HTML 2026-07-13|ATS 2025 — Diagnosis and Management of Community-acquired Pneumonia]] — DOI: 10.1164/rccm.202507-1692ST. Actualización aprobada por ATS, no por IDSA.
+- [Original ATS](https://academic.oup.com/ajrccm/article/212/1/24/8435770): publicación online 2025, versión de registro 2026; preguntas 1–4 y tablas de gravedad/estabilidad. No modifica selección/dosis antibióticas.
+- [[PROA Antibioticos vs 23 abril.pdf#page=9|PROA antibióticos, p. 9]]: claritromicina oral incrementada 500 mg/12 h; corrección del intervalo 15 h de la plantilla.
 
 ## 🔗 Relacionados
 - [[Bronquitis Aguda]]

@@ -42,7 +42,7 @@ La amenaza respiratoria tiene prioridad sobre cualquier plazo. Contactar con ORL
 
 Solo aplicar el circuito ambulatorio tras documentar estabilidad, ausencia de alarmas y plan para la sospecha residual; la extracción sin complicaciones permite valorar alta.[^fjd][^esge]
 
-FJD recomienda **evitar AINE durante 5 días**, reconsultar ante fiebre, trismus o tortícolis y ante empeoramiento en las siguientes **48 h**. Añadir retorno inmediato si aparece dificultad respiratoria o imposibilidad para manejar saliva; no esperar a cumplir ese plazo.[^fjd][^via]
+FJD recomienda **evitar [[AINEs|AINE]] durante 5 días**, reconsultar ante fiebre, trismus o tortícolis y ante empeoramiento en las siguientes **48 h**. Añadir retorno inmediato si aparece dificultad respiratoria o imposibilidad para manejar saliva; no esperar a cumplir ese plazo.[^fjd][^via]
 
 > [!warning] Límite del algoritmo local
 > Los tres criterios que el PDF enumera para Curas <72 h (evolución >3 días, objeto raro y ausencia de síntomas) no están unidos por una regla lógica explícita. No se convierten en una regla automática «cualquiera basta»; individualizar con ORL y priorizar tipo de objeto y alarmas.
@@ -64,10 +64,10 @@ Consejos y alarmas explicados: [ ]
 
 ## Fuentes
 
-[^fjd]: FJD, algoritmo de cuerpo extraño faringolaríngeo, octubre de 2026, p. 1: [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Cuerpo extraño faringolaringeo 2026.pdf#page=1|PDF original]].
+[^fjd]: **Protocolos ORL de FJD** — FJD, algoritmo de cuerpo extraño faringolaríngeo, octubre de 2026, p. 1: [[Libros y referencias/09_Urgencias_FJD/ORL/2026/Algoritmo manejo Cuerpo extraño faringolaringeo 2026.pdf#page=1|PDF original]].
 [^esge]: ESGE, [Removal of foreign bodies in the upper gastrointestinal tract in adults](https://www.esge.com/assets/downloads/pdfs/guidelines/2016_s_0042_100456.pdf), 2016, recomendaciones 1-4, 7 y 13; pp. 1-4. Complemento para cuerpos ingeridos/esofágicos, consultado 29/09/2026.
 [^via]: NHS Borders, [Acute adult upper airway obstruction](https://www.rightdecisions.scot.nhs.uk/nhs-borders-clinical-guidelines/ear-nose-and-throat/acute-adult-upper-airway-obstruction/), revisión 18/09/2023, consultada 29/09/2026. Complemento para oxígeno y valoración urgente conjunta de vía aérea; no se importan sus pautas farmacológicas.
 
 ## Relacionados
 
-[[MOC - ORL]] · [[Derivación a ORL - Circuito FJD]] · [[Infecciones ORL - Alergia a Betalactámicos]]
+[[MOC - ORL]] · [[Derivación a ORL - Circuito FJD]] · [[Infecciones ORL - Alergia a Betalactámicos]] · [[Epiglotitis del Adulto]]

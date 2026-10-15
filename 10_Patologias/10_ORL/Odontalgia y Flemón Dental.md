@@ -25,13 +25,13 @@ Orofaringe: A la inspección arcada dental en mal estado/mucosas en buen estado 
 Cervical: No se aprecian asimetrías, no dolor a la palpación.
 
 *** Resumen Evolución.
-Paciente de … años con los antecedentes personales descritos, acude a Urgencias por odontalgia acompañada de flemón dental. A su llegada y tras exploración física se administra metamizol 2g ampolla bebible con mejoría clínica parcial/completa. Ante la ausencia de signos o síntomas de patología aguda se decide alta con tratamiento ambulatorio, control por su médico de atención primaria y recomendación de realizar tratamiento odontológico definitivo.
+Paciente de … años con los antecedentes personales descritos, acude a Urgencias por odontalgia acompañada de flemón dental. A su llegada y tras exploración física se administra [[Metamizol|metamizol]] 2g ampolla bebible con mejoría clínica parcial/completa. Ante la ausencia de signos o síntomas de patología aguda se decide alta con tratamiento ambulatorio, control por su médico de atención primaria y recomendación de realizar tratamiento odontológico definitivo.
 
 *** Tratamiento al alta.
-- 1º línea: Amoxicilina 500mg/1g desayuno, comida y cena durante 3 días. En caso de no mejoría en los días indicados, comenzará nuevo ciclo con amoxicilina-clavulánico 875/125mg cada 8 horas durante los siguientes 7 días.
+- 1º línea: [[Amoxicilina]] 500mg/1g desayuno, comida y cena durante 3 días. En caso de no mejoría en los días indicados, comenzará nuevo ciclo con [[Amoxicilina-Clavulanico|amoxicilina-clavulánico]] 875/125mg cada 8 horas durante los siguientes 7 días.
 - Enjuagues bucales tres veces al día con Perio-Aid durante 5 días.
-- Paracetamol 1 gr cada 8 horas si dolor durante 5 días.
-- Si insuficiente control del dolor podrá tomar ibuprofeno 600mg/paracetamol 1g a las 4 horas de la toma de paracetamol. Toma de omeprazol 20mg con el desayuno mientras se tome ibuprofeno.
+- [[Paracetamol]] 1 gr cada 8 horas si dolor durante 5 días.
+- Si insuficiente control del dolor podrá tomar [[Ibuprofeno|ibuprofeno]] 600mg/paracetamol 1g a las 4 horas de la toma de paracetamol. Toma de omeprazol 20mg con el desayuno mientras se tome ibuprofeno.
 - Si persistiera mal control, monoterapia con metamizol 2g en ampolla bebible hasta tres veces al día (cada ocho horas).
 - Aplicación de frío local 3 veces al día durante 10-15 minutos.
 - Acudir a odontólogo para valorar tratamiento definitivo.
@@ -52,7 +52,7 @@ Orofaringe: no hiperémica, úvula centrada, no edematosa. Trismus presente. Pie
 
 *** Resumen Evolución.
 Paciente de … años con los antecedentes personales descritos, acude a Urgencias por tumefacción en región malar X. A su llegada, hemodinámicamente estable y afebril. Se administra ketorolaco iv, con mejoría de la sintomatología.
-Si trismus, metilprednisolona 40mg IV según peso.
+Si trismus, [[Metilprednisolona|metilprednisolona]] 40mg IV según peso.
 Si fiebre o afectación del estado general, considerar pedir analítica de sangre
 Si trismus que no mejora / disfagia / disnea / sialorrea… considerar solicitar TC cervical para descartar absceso que esté afectando región parafaringea o compromiso de la vía aérea.
 Se solicita analítica de sangre, que no muestra leucocitosis ni neutrofilia, con PCR X, sin otros hallazgos significativos. Se administra primera dosis de amoxicilina/clavulánico IV. Ante la ausencia de datos de alarma en el momento actual, se decide alta de Urgencias con tratamiento antibiótico y control por odontólogo particular / Cirugía Maxilofacial.
@@ -61,8 +61,12 @@ Se solicita analítica de sangre, que no muestra leucocitosis ni neutrofilia, co
 - Vigilancia domiciliaria
 - Hidratación abundante y dieta blanda y fría
 - Amoxicilina/Clavulánico 875/125mg 1 comprimido cada 8 horas durante 7 días
-** En alérgicos, clindamicina 300 mg/6 h durante 7 días
+** En alérgicos, [[Clindamicina|clindamicina]] 300 mg/6 h durante 7 días
 - Si fiebre o dolor, Ibuprofeno cada 8 horas. Si no remite, puede alternar con Paracetamol 1g a las 4h del Ibuprofeno.
 - Debe citarse con su Odontólogo particular
 - Control por su Médico de Familia
 - Si empeoramiento o sintomatología de alarma (fiebre a pesar de tratamiento, dificultad o ruidos al respirar, cambios en la voz, dificultad para abrir la boca, dificultad para tragar…) acudir de nuevo a Urgencias
+
+## Relacionados
+
+[[MOC - ORL]] · [[Otalgia - Abordaje en Urgencias]] · [[Disfunción Temporomandibular y Bruxismo]] · [[Absceso Periamigdalino e Infecciones Cervicales Profundas]]

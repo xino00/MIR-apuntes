@@ -140,10 +140,10 @@ DE-ESCALATION (DESESCALADA)
 - Switch IV→oral cuando esté estable, afebril y tolere, con un antibiótico de buena biodisponibilidad oral.
 
 DURATION (DURACIÓN)
-- 7 días en la mayoría con el foco controlado (BALANCE: 7 = 14 días en bacteriemia). Alarga solo en casos concretos: endocarditis, osteomielitis o artritis protésica, foco no drenable, inmunodepresión grave, S. aureus en sangre (mínimo 14 días).
+- Duración según foco, respuesta y fuente; el recuadro IDSA siguiente delimita los 7 días en bacteriemia gramnegativa urinaria. Individualizar en endocarditis, osteomielitis o artritis protésica, foco no drenable, inmunodepresión grave, S. aureus en sangre (mínimo 14 días).
 - Procalcitonina: solo ayuda, junto a la clínica, a decidir cuándo SUSPENDER el antibiótico; nunca para iniciarlo.
 
-IDSA 2025 · ITU-09: en bacteriemia gramnegativa de foco urinario, 7 días totales pueden ser suficientes si el paciente mejora con tratamiento efectivo, está afebril y hemodinámicamente estable, y el foco está controlado. No extrapolar a shock persistente, absceso, obstrucción no resuelta, dispositivo problemático o sospecha de prostatitis. Recomendación condicional; evidencia baja.
+IDSA 2025 · ITU-09: en bacteriemia gramnegativa de foco urinario, 7 días contados desde el primer día de antibiótico efectivo pueden ser suficientes si el paciente mejora con tratamiento efectivo, está afebril y hemodinámicamente estable, y el foco está controlado. No extrapolar automáticamente a sepsis grave, absceso, obstrucción no resuelta, dispositivo problemático o sospecha de prostatitis; fueron poblaciones frecuentemente excluidas o insuficientemente representadas. Recomendación condicional; evidencia baja. [[04 - Duracion.pdf#page=2|IDSA duración, pp. 1-2]] · [[04 - Duracion.pdf#page=9|pp. 9-10]].
 
 
 7- PERLAS PARA NO OLVIDAR
@@ -164,4 +164,4 @@ IDSA 2025 · ITU-09: en bacteriemia gramnegativa de foco urinario, 7 días total
 
 🔑 Petequias o púrpura = meningococo. Antibiótico inmediato, sin esperar a la PL.
 
-🔑 Empieza amplio y pronto, pero reevalúa a las 48-72 h y desescala con el antibiograma: el antibiótico de la primera hora no tiene por qué ser el de toda la semana (PROA). Duración 7 días si el foco está controlado.
+🔑 Empieza amplio y pronto, pero reevalúa a las 48-72 h y desescala con el antibiograma: el antibiótico de la primera hora no tiene por qué ser el de toda la semana (PROA). Duración según foco, respuesta y control del foco; aplicar los límites del apartado de duración.

@@ -47,9 +47,9 @@ Pautas de adulto; comprobar alergias, función renal, interacciones, peso y tole
 | Escenario | Pauta y fuente |
 |---|---|
 | Faringoamigdalitis estreptocócica, sin contraindicación | **Fenoximetilpenicilina 500 mg VO cada 12 h durante 10 días.** Concordante en PROA FJD, CIMA Penilevel 500 mg cápsulas duras y CDC. |
-| Alternativa con amoxicilina | **500 mg VO cada 8 h durante 10 días**, según Manual 12 Octubre. El PROA 2023 ofrece **5–7 días** con esa dosis: diferencia explícita, no una pauta nueva de FJD 2026. |
-| Alergia a betalactámicos | Caracterizar reacción y escoger alternativa completa según gravedad y sensibilidad. El PROA 2023 recoge clindamicina **300 mg/8 h durante 5 días**; CDC utiliza un régimen de **10 días** (7 mg/kg/dosis cada 8 h, máximo 300 mg/dosis). No trasladar automáticamente el régimen corto a la plantilla de alta. |
-| Persistencia/recurrencia | Reevaluar diagnóstico, adherencia y complicaciones antes de ampliar espectro. El PROA contempla amoxicilina/clavulánico **500/125 mg cada 8 h durante 7 días**; el Manual recoge otros regímenes y duraciones. No es un cambio automático por dolor persistente. |
+| Alternativa con [[Amoxicilina\|amoxicilina]] | **500 mg VO cada 8 h durante 10 días**, según Manual 12 Octubre. El PROA 2023 ofrece **5–7 días** con esa dosis: diferencia explícita, no una pauta nueva de FJD 2026. |
+| Alergia a betalactámicos | Caracterizar reacción y escoger alternativa completa según gravedad y sensibilidad. El PROA 2023 recoge [[Clindamicina\|clindamicina]] **300 mg/8 h durante 5 días**; CDC utiliza un régimen de **10 días** (7 mg/kg/dosis cada 8 h, máximo 300 mg/dosis). No trasladar automáticamente el régimen corto a la plantilla de alta. |
+| Persistencia/recurrencia | Reevaluar diagnóstico, adherencia y complicaciones antes de ampliar espectro. El PROA contempla [[Amoxicilina-Clavulanico\|amoxicilina/clavulánico]] **500/125 mg cada 8 h durante 7 días**; el Manual recoge otros regímenes y duraciones. No es un cambio automático por dolor persistente. |
 
 Fuentes de las pautas: PROA p. 6, Manual p. impresa 125, CIMA y CDC.[^proa6][^manual][^penilevel][^cdc]
 
@@ -75,4 +75,4 @@ Fuentes de las pautas: PROA p. 6, Manual p. impresa 125, CIMA y CDC.[^proa6][^ma
 [^cdc]: [CDC, Clinical Guidance for Group A Streptococcal Pharyngitis](https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/strep-throat.html), diagnóstico, tratamiento y resistencias; consultado 2026-09-29.
 [^penilevel]: [CIMA, Penilevel 500 mg cápsulas duras, FT 83518, apartados 2 y 4.2](https://cima.aemps.es/cima/dochtml/ft/83518/view.html).
 
-[[PROA - Infecciones Respiratorias]] · [[Rinosinusitis Aguda]] · [[Otitis Media Aguda (OMA)]] · [[MOC - ORL]]
+[[PROA - Infecciones Respiratorias]] · [[Rinosinusitis Aguda]] · [[Otitis Media Aguda (OMA)]] · [[MOC - ORL]] · [[Laringitis Aguda]]

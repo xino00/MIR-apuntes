@@ -43,6 +43,7 @@ Profármaco oral del aciclovir con biodisponibilidad oral muy superior (54% fren
 
 ## 🔗 Relacionados
 - [[Herpes Zóster]]
+- [[ITS e infecciones víricas cutáneas#Herpes genital|ITS: herpes genital]]
 - [[PROA - Infecciones de Transmisión Sexual (ITS)]]
 > El valaciclovir en el herpes zóster es eficaz **solo si se inicia dentro de las 72 horas desde la aparición del rash** (exantema vesicular). Después de ese período, no hay beneficio demostrado en inmunocompetentes. La excepción es la afectación ocular (zóster oftálmico) o el paciente inmunocompromiso, donde siempre está indicado independientemente del tiempo.
 
