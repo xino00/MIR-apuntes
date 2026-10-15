@@ -56,7 +56,7 @@ Esta guía detalla la dosificación general, ajustes en enfermedad renal (FG en 
 - **Dosis Incrementada (I) P. aeruginosa:** IV 4g/0.5g / 6h en **perfusión extendida de 3-4h**.
 - **Ajuste Renal (S):** FG 20-40: Máximo 4/0.5g / 8h. FG < 20: Máximo 4/0.5g / 12h.
 - **Ajuste Diálisis/TRRC:** HD/DP: 4/0.5g / 12h (dar post-diálisis). TRRC: Dosis inicial 4g seguido de 2g/6h.
-- **Observaciones:** Las **perfusiones extendidas (3-4h)** son de elección en infecciones graves tras un bolo inicial de 30 min. Child-Pugh C (Cirrosis grave): disminuir la dosis.
+- **Observaciones:** Las **[[Perfusión Extendida de Betalactámicos|perfusiones extendidas (3-4h)]]** son de elección en infecciones graves tras un bolo inicial de 30 min. Child-Pugh C (Cirrosis grave): disminuir la dosis.
 
 ---
 ## 2. Cefalosporinas
@@ -92,7 +92,7 @@ Esta guía detalla la dosificación general, ajustes en enfermedad renal (FG en 
 - **Dosis Estándar (S):** VO 400mg / 24h.
 - **Ajuste Renal (S):** FG < 20: 200mg / 24h.
 - **Ajuste Diálisis/TRRC:** HD: 300mg / 24h (después de la sesión). DP: 200mg / 24h.
-- **Observaciones:** Buena biodisponibilidad oral. Uso en ITU complicada ambulatoria, pielonefritis (tras dosis IV inicial) y prostatitis (paso puente antes de cambio a quinolona/cotrimoxazol según antibiograma).
+- **Observaciones:** Buena biodisponibilidad oral. Uso en ITU complicada ambulatoria, [[Pielonefritis Aguda|pielonefritis]] (tras dosis IV inicial) y [[Prostatitis Aguda#Puente ambulatorio de la copia local PROA|prostatitis]] (paso puente antes de cambio a quinolona/cotrimoxazol según antibiograma).
 
 ### Cefditoreno (3ª Generación Oral)
 - **Dosis Estándar (S):** VO 200-400mg / 12h (administrar con comida).

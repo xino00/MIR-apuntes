@@ -12,7 +12,7 @@ last_fact_checked: 2026-06-24
 
 > [!tip] Claves de manejo
 > - **Prevención = lo más importante:** cambios posturales frecuentes, sedestación precoz, colchón antiescaras, nutrición y piel seca e hidratada.
-> - **La infección se trata fundamentalmente en LOCAL** (antisépticos + desbridamiento). **Antibiótico sistémico solo si afectación sistémica o celulitis franca** periulceral.
+> - **La infección se trata fundamentalmente en LOCAL** (antisépticos + desbridamiento). **Antibiótico sistémico solo si afectación sistémica o [[Celulitis, erisipela y fascitis necrosante|celulitis]] franca** periulceral.
 > - **No usar povidona yodada, agua oxigenada ni clorhexidina** sobre el lecho (citotóxicos para el tejido sano).
 
 ---

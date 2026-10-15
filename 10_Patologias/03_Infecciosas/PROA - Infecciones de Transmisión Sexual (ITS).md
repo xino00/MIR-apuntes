@@ -7,7 +7,7 @@ tags: [urgencias, infecciosas, ginecologia, uro]
 **Fuente:** Protocolo Diagnóstico y Tratamiento de Síndromes Infecciosos FJD (2023).
 
 > [!danger] VIH y Serologías
-> Las ITS son una oportunidad clave para diagnosticar **VIH oculto**. Se debe solicitar siempre una serología no urgente de VIH, VHB, VHC y Sífilis a todo paciente atendido por una ITS. Considerar también MPOX (Viruela del Mono) si hay lesiones umbilicadas.
+> Las ITS son una oportunidad clave para diagnosticar **[[VIH - Diagnóstico y Manejo Inicial|VIH oculto]]**. Se debe solicitar siempre una serología no urgente de VIH, VHB, VHC y Sífilis a todo paciente atendido por una ITS. Considerar también MPOX (Viruela del Mono) si hay lesiones umbilicadas.
 
 ---
 ## 1. Síndromes Clínicos de ITS
@@ -31,7 +31,7 @@ tags: [urgencias, infecciosas, ginecologia, uro]
   - *Derivar a Urología* en todos los casos al alta.
 
 - **Balanitis / Postitis**:
-  - *Candidiásica* (más frecuente; eritema, exudado blanquecino, prurito): Clotrimazol 1% crema tópica 7-14 días ± Fluconazol 150mg oral dosis única.
+  - *Candidiásica* (más frecuente; eritema, exudado blanquecino, prurito): Clotrimazol 1% crema tópica 7-14 días ± [[Fluconazol]] 150mg oral dosis única.
   - *Bacteriana* (eritema sin exudado, fisuras, olor): Higiene local. Si complicada o celulitis: [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 875/125mg/8h, 5-7 días.
   - *Nota:* Si fimosis asociada, derivar a Urología.
 
@@ -40,14 +40,14 @@ tags: [urgencias, infecciosas, ginecologia, uro]
 
 - **[[Dermatología 16 - ITS e infecciones víricas cutáneas#Tratamientos adultos no complicados|Herpes Genital]]**:  
   - *Agente:* Virus Herpes Simple (VHS) tipo 1 y 2. Vesículas de 2-4mm que progresan a úlceras. Tratamiento si <5 días desde inicio o nuevas lesiones vesiculares.
-  - *Tratamiento Primer Episodio:* Valaciclovir 500mg/12h oral, 7-10 días.
+  - *Tratamiento Primer Episodio:* [[Valaciclovir]] 500mg/12h oral, 7-10 días.
   - *Tratamiento Recurrencias:* Valaciclovir 500mg/12h oral, 3 días.
   - *Alternativas:* Aciclovir oral o Famciclovir oral (dosis según ficha técnica por tipo de episodio).
   - *Infección grave/diseminada:* Aciclovir 5-10mg/kg/8h IV.
 
 - **[[Úlcera genital y sífilis#Sífilis|Sífilis]]**:  
   - *Agente:* Treponema pallidum. Puede cursar como Chancro primario, Exantema secundario, Latente, Terciaria (goma/cardio/neuro sífilis).
-  - *Tratamiento Primaria/Secundaria/Latente Precoz (<1 año):* Penicilina G Benzatina 2.4 MU IM (dosis única).
+  - *Tratamiento Primaria/Secundaria/Latente Precoz (<1 año):* [[Penicilina|Penicilina G Benzatina]] 2.4 MU IM (dosis única).
   - *Tratamiento Latente Tardía (>1 año) o Indeterminada:* Penicilina G Benzatina 2.4 MU IM (1 vez a la semana durante 3 semanas).
   - *Tratamiento Neurosífilis:* Penicilina G Sódica 4 MU/4h IV (14 días).
   - *Alternativa (Alergias a Penicilina en estadíos iniciales):* [[Doxiciclina]] 100mg/12h oral (14 días en precoz, 28 días en tardía).

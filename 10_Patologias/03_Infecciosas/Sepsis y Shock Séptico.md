@@ -25,5 +25,6 @@ Disfunción orgánica potencialmente mortal causada por una respuesta del huésp
 ---
 
 ### Enlaces relacionados
+- [[MUST - Sepsis]]
 - [[Shock]]
 - [[MOC - INFECCIOSAS]]

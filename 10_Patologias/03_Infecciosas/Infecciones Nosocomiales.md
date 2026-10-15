@@ -23,7 +23,7 @@ last_fact_checked: 2026-06-24
 | Por gravedad clínica | Por microorganismo |
 |---|---|
 | Sepsis o shock séptico | ***Staphylococcus aureus*** |
-| Endocarditis o afectación metastásica | ***Pseudomonas aeruginosa*** |
+| [[Endocarditis Infecciosa]] o afectación metastásica | ***Pseudomonas aeruginosa*** |
 | **Bacteriemia persistente > 72 h** de tratamiento | **Bacilos gramnegativos (BGN)** |
 | Tromboflebitis supurativa, trombosis en progresión | ***Candida* spp.** |
 | Infección del túnel/reservorio, prótesis valvular/dispositivo | |

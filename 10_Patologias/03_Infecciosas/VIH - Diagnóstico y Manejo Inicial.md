@@ -14,7 +14,7 @@ last_fact_checked: 2026-06-24
 > - **Cribar VIH** ante enfermedad indicadora (tabla 2), conductas de riesgo o síndrome compatible. Técnica: **serología ELISA 4.ª generación** (Ag p24 + Ac) → confirmación.
 > - **El recuento de CD4 marca el riesgo de oportunistas**: **PJP y *Toxoplasma* con CD4 < 200**; MAC/CMV/criptococo con CD4 < 50-100.
 > - **TAR en TODOS, lo antes posible.** Pauta preferente: **2 ITIAN + INSTI** → más usadas **Biktarvy® (BIC/TAF/FTC)** y **Dovato® (DTG/3TC)**.
-> - **Profilaxis de PJP con cotrimoxazol si CD4 < 200.**
+> - **Profilaxis de PJP con [[Cotrimoxazol]] si CD4 < 200.**
 
 ---
 
@@ -42,8 +42,8 @@ last_fact_checked: 2026-06-24
 - **CD4 < 200.** Fiebre, tos y **disnea de progresión larvada** (días-semanas). Rx: **infiltrados difusos bilaterales** intersticioalveolares. **LDH elevada**, **β-D-glucano > 80 pg/ml** (S 94%, E 83% en VIH).
 - **Diagnóstico:** LBA con tinción/inmunofluorescencia/PCR.
 - **Gravedad moderada-grave:** **pO₂ < 70 mmHg** o gradiente A-a > 35 mmHg.
-- **Tratamiento:** **cotrimoxazol 15-20/75-100 mg/kg/día en 3-4 dosis, 21 días** (oral leve, IV grave). Alergia a sulfamidas: clindamicina + primaquina, pentamidina o atovacuona (leve).
-- **Corticoides si moderada-grave:** prednisona **40 mg/12 h ×5 días → 40 mg/día ×5 días → 20 mg/día ×11 días**.
+- **Tratamiento:** **cotrimoxazol 15-20/75-100 mg/kg/día en 3-4 dosis, 21 días** (oral leve, IV grave). Alergia a sulfamidas: [[Clindamicina]] + primaquina, pentamidina o atovacuona (leve).
+- **Corticoides si moderada-grave:** [[Prednisona]] **40 mg/12 h ×5 días → 40 mg/día ×5 días → 20 mg/día ×11 días**.
 
 ---
 

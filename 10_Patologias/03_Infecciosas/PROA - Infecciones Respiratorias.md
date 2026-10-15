@@ -42,7 +42,7 @@ tags: [urgencias, infecciosas, respiratorio, asma_epoc]
 
 | Gravedad | Criterio | 1ª elección | Alternativa |
 | :--- | :--- | :--- | :--- |
-| **Leve** (FEV1 >80%) sin comorbilidad, o **Moderada** sin comorbilidad | — | [[Amoxicilina-Clavulanico\|Amoxicilina/Clavulánico]] 500/125mg/8h, **5 días** | [[Azitromicina]] 500mg/24h 3d · Cefuroxima 500mg/12h 5d |
+| **Leve** (FEV1 >80%) sin comorbilidad, o **Moderada** sin comorbilidad | — | [[Amoxicilina-Clavulanico\|Amoxicilina/Clavulánico]] 500/125mg/8h, **5 días** | [[Azitromicina]] 500mg/24h 3d · [[Cefuroxima]] 500mg/12h 5d |
 | **Moderada** (FEV1 50-79%) con comorbilidad y **Grave** (30-49%) | — | [[Amoxicilina-Clavulanico\|Amoxicilina/Clavulánico]] 500/125mg/8h, **5-7 días** | Cefditoreno 200mg/12h 5-7d · [[Levofloxacino]] 500mg/24h 5-7d |
 | **Muy grave** (FEV1 <30%) o sospecha *P. aeruginosa* | — | [[Ciprofloxacino]] 750mg/12h, **7-10 días** | Cefditoreno 200mg/12h, 7-10d |
 

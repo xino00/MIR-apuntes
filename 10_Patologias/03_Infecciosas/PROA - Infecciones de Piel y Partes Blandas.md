@@ -31,7 +31,7 @@ tags: [urgencias, infecciosas, dermato]
 - **[[Celulitis, erisipela y fascitis necrosante|Celulitis]]**:  
   - *Agentes:* S. aureus, S. pyogenes, Gram Negativos (en hepatopatía crónica/inmunodeprimidos). Afecta a dermis profunda y tejido subcutáneo (bordes mal definidos).
   - *Tratamiento Empírico Ambulatorio:* Cefadroxilo 500mg/8h o Cefalexina 500mg/8h (Dura 5-10 días).
-  - *Si sospecha SARM (Staph Aureus Metilin Resistente):* Factores riesgo (hospitalización, antibioterapia en 3m, toxicómanos, deportes de contacto) -> *Elección:* [[Clindamicina]] 300mg/8h, o [[Cotrimoxazol]] 800/160mg/12h o Linezolid 600mg/12h.
+  - *Si sospecha SARM (Staph Aureus Metilin Resistente):* Factores riesgo (hospitalización, antibioterapia en 3m, toxicómanos, deportes de contacto) -> *Elección:* [[Clindamicina]] 300mg/8h, o [[Cotrimoxazol]] 800/160mg/12h o [[Linezolid]] 600mg/12h.
   - *Si Celulitis Complicada / Inmunodeprimidos:* [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 875/125mg/8h. Extraer hemocultivos si hay signos de gravedad.
 
 - **[[Celulitis, erisipela y fascitis necrosante#Absceso/forúnculo|Absceso cutáneo]]**:  
@@ -56,7 +56,7 @@ tags: [urgencias, infecciosas, dermato]
   - *Agua salada / Pescado:* Sospecha de *Vibrio vulnificus* o *Erysipelothrix rhusiopathiae* -> [[Ciprofloxacino]] 750mg o Amoxicilina 1g.
   - *Agua dulce:* Aeromonas, Micobacterias.
   - *Herida punzante en planta del pie:* Sospecha de *Pseudomonas aeruginosa* -> [[Ciprofloxacino]] 750mg/12h.
-  - *Tierra/Espinas vegetales:* Sospecha fúngica (Sporothrix schenckii) -> Itraconazol.
+  - *Tierra/Espinas vegetales:* Sospecha fúngica (Sporothrix schenckii) -> [[Itraconazol]].
 
 > [!info] Enlaces
 > Volver al Índice Principal: [[PROA - Guía de Antimicrobianos y Síndromes Infecciosos]]

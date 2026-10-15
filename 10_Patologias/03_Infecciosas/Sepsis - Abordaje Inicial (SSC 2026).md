@@ -14,7 +14,7 @@ description: "Sepsis y shock séptico: criterios SOFA/qSOFA, bundles de la prime
 > **Sepsis = infección + ∆SOFA ≥ 2. Shock séptico = vasopresores para TAM ≥ 65 + lactato > 2 mmol/L.**
 > - **Acción inmediata (bundle ≤ 1h):** medir **lactato** + **2 hemocultivos ANTES de ATB** + **antibiótico empírico** precoz + **fluidos 30 mL/kg** cristaloides si hipotensión/lactato elevado.
 > - **Dosis clave:** cristaloides **30 mL/kg** (en IMC > 30, calcular sobre peso ajustado/ideal). Empírica frecuente: **Ceftriaxona 2 g IV/24h** (+ Azitromicina, Metronidazol o Gentamicina según foco).
-> - **Vasopresor:** **Noradrenalina** 1ª línea (vía periférica precoz) si persiste hipotensión; Vasopresina 2ª línea.
+> - **Vasopresor:** **[[Noradrenalina]]** 1ª línea (vía periférica precoz) si persiste hipotensión; Vasopresina 2ª línea.
 > - **UCI/derivar:** avisar si ≥ 1 disfunción orgánica (TAS < 100 o TAM < 65, lactato > 2, PaO₂/FiO₂ < 300, GCS < 12, plaq < 100.000, Cr > 2, Bili > 2). Ingreso en las primeras 6 h si hay indicación.
 > - **NO:** confirmar ni descartar sepsis con un único biomarcador ni con qSOFA aislado (cribado con NEWS/NEWS2/MEWS/SIRS).
 
@@ -133,7 +133,7 @@ Parámetros evaluados (puntúan de 0 a 3 según desviación de la normalidad):
 | Sistema | Manifestaciones |
 | :--- | :--- |
 | **Cardiovascular / Hemodinámica** | ↓ Resistencias vasculares periféricas, ↑ FC, ↑ Gasto cardíaco. Disfunción sistólica (↓ FE) y diastólica — autolimitadas, desaparecen en los primeros **7-10 días** |
-| **Pulmonar** | FR > 22 rpm *(dato precoz de disfunción)*. SDRA: infiltrados difusos + hipoxemia grave (PaO₂/FiO₂ < 300) en ausencia de ICC |
+| **Pulmonar** | FR > 22 rpm *(dato precoz de disfunción)*. [[Síndrome de Distrés Respiratorio Agudo (SDRA)\|SDRA]]: infiltrados difusos + hipoxemia grave (PaO₂/FiO₂ < 300) en ausencia de ICC |
 | **Neurológica** | Cualquier alteración: GCS < 15, desorientación, agitación, síndrome confusional *(indicadores precoces)*. Encefalopatía sin alteraciones EEG focales (lo más frecuente) |
 | **Termorregulación** | Fiebre frecuente pero no constante. **Hipotermia = mal pronóstico** (frecuente en ancianos, alcohólicos, urémicos e infección por BGN) |
 | **Muscular** | Mialgias en tercio proximal de muslos. Miopatía del enfermo crítico (fase final) |
@@ -183,7 +183,7 @@ Parámetros evaluados (puntúan de 0 a 3 según desviación de la normalidad):
 | **Respiratorio (Neumonía)** | [[Ceftriaxona]] + [[Azitromicina]] | **Ceftriaxona:** 2 g IV cada 24h. **Azitromicina:** 500 mg IV cada 24h.   |
 | **Urinario (Urosepsis)**    | Ceftriaxona o [[Gentamicina]]      | **Ceftriaxona:** 2 g IV cada 24h. **Gentamicina:** 5-7 mg/kg IV cada 24h. |
 | **Intra-abdominal**         | Ceftriaxona + [[Metronidazol]]     | **Ceftriaxona:** 2 g IV cada 24h. **Metronidazol:** 500 mg IV cada 8h.    |
-| **Multirresistentes (MDR)** | Piperacilina/Tazobactam            | **Pip/Tazo:** 4.5 g IV cada 6-8h (Perfusión extendida 4h).                |
+| **Multirresistentes (MDR)** | [[Piperacilina-Tazobactam]]        | **Pip/Tazo:** 4.5 g IV cada 6-8h (Perfusión extendida 4h).                |
 | **BLEE / Shock grave**      | [[Meropenem]]                      | **Meropenem:** 1 - 2 g IV cada 8h (Perfusión extendida).                  |
 | **SARM (Staph)**            | [[Vancomicina]]                    | **Vancomicina:** Carga 25-30 mg/kg, luego 15-20 mg/kg cada 12h.           |
 |                             |                                    |                                                                           |
@@ -250,6 +250,8 @@ Para consultar la actualización completa, navega por las notas:
 
 ### 🔗 Enlaces / Bibliografía
 
+- [[Sepsis y Shock Séptico]]
+- [[MUST - Sepsis]]
 - [[000_INICIO]]
 - [[Libros y referencias/05_Infecciosas/SEPSIS 2026.pdf|Guía Sepsis 2026 (SSC)]]
 - [[Libros y referencias/05_Infecciosas/Evans 2021 - Surviving Sepsis.pdf|Guía Evans et al. 2021 (SSC)]]

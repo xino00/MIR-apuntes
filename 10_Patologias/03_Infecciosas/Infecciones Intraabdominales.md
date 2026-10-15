@@ -48,7 +48,7 @@ Inflamación del peritoneo por contaminación de la cavidad (microorganismos, ir
 | Origen / situación | Pauta empírica |
 |---|---|
 | **Comunitaria leve-moderada** | [[Amoxicilina-Clavulanico]] 2 g/8 h **o** [[Ceftriaxona]] 2 g/24 h + [[Metronidazol]] 500 mg/8 h **o** moxifloxacino 400 mg/24 h |
-| **Comunitaria grave** | Ertapenem 1 g/24 h **o** [[Piperacilina-Tazobactam]] 4/0,5 g/6 h |
+| **Comunitaria grave** | [[Ertapenem]] 1 g/24 h **o** [[Piperacilina-Tazobactam]] 4/0,5 g/6 h |
 | **Nosocomial / poscirugía, sin FRME** | [[Piperacilina-Tazobactam]] 4/0,5 g/6 h **o** [[Ceftazidima]] 2 g/8 h o [[Cefepime]] 2 g/12 h + [[Metronidazol]] 500 mg/8 h |
 | **Nosocomial, con FRME** | [[Meropenem]] 1 g/6 h-2 g/8 h **o** ceftazidima/avibactam 2 g/8 h o ceftolozano/tazobactam 1-2 g/8 h + [[Metronidazol]] 500 mg/8 h · ± daptomicina 10 mg/kg/d o [[Linezolid]] 600 mg/12 h o [[Vancomicina]] 15-20 mg/kg/12 h · ± [[Amikacina]] 15 mg/kg/d · ± [[Fluconazol]] 400 mg/24 h o equinocandina |
 | **Recidivante/persistente (terciaria)** | [[Meropenem]] 1 g/8 h-2 g/8 h o ceftazidima/avibactam o ceftolozano/tazobactam + [[Metronidazol]] **+** daptomicina/[[Linezolid]]/[[Vancomicina]] ± [[Amikacina]] **+ equinocandina** |
@@ -71,9 +71,9 @@ Inflamación del peritoneo por contaminación de la cavidad (microorganismos, ir
 ---
 
 ## 4. Entidades específicas (notas dedicadas)
-- **Apendicitis aguda**, **diverticulitis aguda** (Hinchey), **colecistitis** y **colangitis** (Tokio TG-18): ver notas de Digestivo.
-- **Infección por *Clostridioides difficile*** (también cap. 73): ver [[PROA - Infecciones Gastrointestinales]].
-- **Absceso renal/perinéfrico:** ver [[Pielonefritis Aguda]].
+- **Apendicitis aguda**, **diverticulitis aguda** (Hinchey), **[[Colecistitis Aguda|colecistitis]]** y **[[Colangitis Aguda|colangitis]]** (Tokio TG-18): ver notas de Digestivo.
+- **Infección por *Clostridioides difficile*** (también cap. 73): ver [[PROA - Infecciones Gastrointestinales#2. Infección por Clostridioides Difficile (CDI)|PROA - Infecciones Gastrointestinales]].
+- **Absceso renal/perinéfrico:** ver [[Pielonefritis Aguda#5. Falta de respuesta y complicaciones|Pielonefritis Aguda]].
 
 ---
 

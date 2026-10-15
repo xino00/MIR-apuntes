@@ -40,7 +40,7 @@ Esta guía detalla fármacos de uso frecuente con estrecho margen terapéutico (
 
 ### [[Vancomicina]]
 - **Dosis Estándar (S):** IV 15-20 mg/kg / 8-12h (No exceder 2g/dosis idealmente). Dosis de carga de 25-30 mg/kg en infecciones graves.
-  - *Vía Oral:* 125mg / 6h (Exclusivamente para Infección por C. difficile no complicada).
+  - *Vía Oral:* 125mg / 6h (Exclusivamente para [[PROA - Infecciones Gastrointestinales#2. Infección por Clostridioides Difficile (CDI)|Infección por C. difficile]] no complicada).
 - **Ajuste Renal (S):** FG 50-90: 15-20 mg/kg / 12h. FG 15-50: 15-20 mg/kg / 24h. FG < 15: 10-15 mg/kg / 48-72h.
 - **Ajuste Diálisis/TRRC:** HD/DP/TRRC: Requiere Dosis de Carga (20-25mg/kg) primero. Mantenimiento según el tipo de filtro o dosis intradialítica estricta (7.5-10 mg/kg post-sesión).
 - **Niveles:** Medir niveles **VALLE antes de la 4ª dosis**. Recomendado: `10-15 mg/L` para infecciones no complicadas. En infecciones complicadas (SARM con bacteriemia, E. faecium, endocarditis, osteomielitis): **`15-20 mg/L`**. En meningitis, neumonía por S. aureus: puede necesitarse valles de **`20-30 mg/L`**.

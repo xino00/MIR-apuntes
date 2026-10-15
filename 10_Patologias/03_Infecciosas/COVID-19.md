@@ -16,8 +16,8 @@ last_fact_checked: 2026-06-24
 > [!danger] ⚡ Escalado terapéutico según situación respiratoria (figura 1)
 > 1. **Leve** (SpO₂ ≥ 95% basal, Rx sin infiltrados, autocuidado) → **ambulatorio + sintomático**; valorar tromboprofilaxis y **antivirales orales** (nirmatrelvir/ritonavir). Inmunodeprimido < 5 días: sotrovimab 500 mg IV.
 > 2. **Disnea** (SpO₂ < 95%, infiltrado) → **ingreso + tromboprofilaxis**; valorar **remdesivir** si gravedad y < 7 días.
-> 3. **Precisa O₂ para SpO₂ > 92%** → **dexametasona 6 mg/día 7-10 días**.
-> 4. **Hiperrespuesta inflamatoria** (PCR > 7-8 mg/dl, O₂ > 5 lpm o Rx extensa) o sin mejoría tras 48-72 h de corticoide → **tocilizumab** dosis única.
+> 3. **Precisa O₂ para SpO₂ > 92%** → **[[Dexametasona]] 6 mg/día 7-10 días**.
+> 4. **Hiperrespuesta inflamatoria** (PCR > 7-8 mg/dl, O₂ > 5 lpm o Rx extensa) o sin mejoría tras 48-72 h de corticoide → **[[Tocilizumab]]** dosis única.
 
 ---
 
@@ -34,13 +34,13 @@ last_fact_checked: 2026-06-24
 - **Sotrovimab** (AcMo) 500 mg IV única: inmunodeprimido en fase precoz (< 5 días de clínica).
 
 ### Inmunomoduladores
-- **Corticoides — solo si insuficiencia respiratoria** (SpO₂ < 92% basal; NO en ausencia de hipoxemia). **Dexametasona 6 mg/día 7-10 días** (o hasta el alta). Casos graves: valorar dosis mayores o metilprednisolona 120-250 mg. *Antes de corticoides prolongados: descartar ITL y *Strongyloides* en áreas endémicas.*
+- **Corticoides — solo si insuficiencia respiratoria** (SpO₂ < 92% basal; NO en ausencia de hipoxemia). **Dexametasona 6 mg/día 7-10 días** (o hasta el alta). Casos graves: valorar dosis mayores o [[Metilprednisolona]] 120-250 mg. *Antes de corticoides prolongados: descartar ITL y *Strongyloides* en áreas endémicas.*
 - **Tocilizumab** (anti-IL-6), **dosis única 8 mg/kg (máx 800 mg)**: hiperrespuesta inflamatoria, aporte de O₂ > 5 lpm o afectación radiológica extensa, **o** ausencia de mejoría tras 48-72 h de corticoide. Dosis por peso: > 90 kg → 800 mg · 65-90 → 600 · 40-65 → 400.
 - **Inhibidores de JAK** (baricitinib): alternativa en graves con remdesivir + corticoides. No junto a tocilizumab.
 
 ### Antibioterapia y tromboprofilaxis
-- **Antibióticos NO de rutina** → solo si sobreinfección bacteriana o formas graves, previa toma de muestras: ceftriaxona 2 g/24 h IV, cefditoreno 400 mg/12 h, [[Amoxicilina-Clavulanico]] 875/125/8 h (alergia: [[Levofloxacino]] 500 mg/24 h), **3-5 días**.
-- **Tromboprofilaxis con HBPM** en todos los ingresados (salvo contraindicación). **Dosis intermedia** (enoxaparina 1 mg/kg/24 h) si ≥ 3 de: PCR > 15, IL-6 > 40, ferritina > 1.000, dímero D > 1.500, linfopenia < 800; o dímero D ≥ 3.000.
+- **Antibióticos NO de rutina** → solo si sobreinfección bacteriana o formas graves, previa toma de muestras: [[Ceftriaxona]] 2 g/24 h IV, cefditoreno 400 mg/12 h, [[Amoxicilina-Clavulanico]] 875/125/8 h (alergia: [[Levofloxacino]] 500 mg/24 h), **3-5 días**.
+- **Tromboprofilaxis con HBPM** en todos los ingresados (salvo contraindicación). **Dosis intermedia** ([[Enoxaparina]] 1 mg/kg/24 h) si ≥ 3 de: PCR > 15, IL-6 > 40, ferritina > 1.000, dímero D > 1.500, linfopenia < 800; o dímero D ≥ 3.000.
 
 ---
 

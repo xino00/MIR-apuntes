@@ -21,7 +21,7 @@ aliases:
 
 ### Recomendaciones Clave:
 - **Cobertura Empírica Dirigida:** Limitar la cobertura frente a multirresistentes (MDR) (ej. *MRSA*, *Cándida*, Anaerobios) **sólo a pacientes con factores de riesgo** evidentes (hospitalización prolongada, inmunosupresión, etc.).
-- **Infusión de Betalactámicos (Rec. 33, Revisada ⬆):** **Recomendación FUERTE** (evidencia moderada, ensayo BLING III) para la **infusión prolongada / continua** de los betalactámicos tras administrar la dosis de carga inicial. Reduce mortalidad a corto plazo (RR 0.91; 25 muertes menos por cada 1000 pacientes). Priorizar en betalactámicos de vida media corta (piperacilina-tazobactam, carbapenems). 
+- **Infusión de Betalactámicos (Rec. 33, Revisada ⬆):** **Recomendación FUERTE** (evidencia moderada, ensayo BLING III) para la **[[Perfusión Extendida de Betalactámicos|infusión prolongada / continua]]** de los betalactámicos tras administrar la dosis de carga inicial. Reduce mortalidad a corto plazo (RR 0.91; 25 muertes menos por cada 1000 pacientes). Priorizar en betalactámicos de vida media corta ([[Piperacilina-Tazobactam|piperacilina-tazobactam]], carbapenems). 
 - **Desescalamiento (Rec. 36):** **Recomendación fuerte:** Desescalar los antibióticos en cuanto se disponga de la confirmación microbiológica y antibiograma. También desescalar si no se aíslan patógenos y el paciente mejora (Rec. 37).
 - **Biomarcadores:** La Procalcitonina (PCT) se reserva, junto a la clínica, para guiar la **suspensión** de la terapia, no para el inicio (Rec. 40).
 
@@ -46,7 +46,7 @@ aliases:
 
 | Adquisición | Primera elección | Alternativa (alergia / resistencias) |
 | :--- | :--- | :--- |
-| **Comunitaria** | Ceftriaxona 2 g/24 h **o** Cefotaxima 2 g/6 h **o** Pip/Tazo 4,5 g/6 h **o** Meropenem 2 g/8 h ± Daptomicina 8-10 mg/kg/día **o** Linezolid 600 mg/12 h ± Amikacina 15-25 mg/kg/día | Ciprofloxacino 400 mg/8 h + Amikacina 15-25 mg/kg/24 h ± Tigeciclina 100 mg carga → 50 mg/12 h ± Daptomicina/Linezolid |
+| **Comunitaria** | [[Ceftriaxona]] 2 g/24 h **o** Cefotaxima 2 g/6 h **o** Pip/Tazo 4,5 g/6 h **o** [[Meropenem]] 2 g/8 h ± Daptomicina 8-10 mg/kg/día **o** [[Linezolid]] 600 mg/12 h ± [[Amikacina]] 15-25 mg/kg/día | Ciprofloxacino 400 mg/8 h + Amikacina 15-25 mg/kg/24 h ± Tigeciclina 100 mg carga → 50 mg/12 h ± Daptomicina/Linezolid |
 | **Nosocomial / ATB previo** | Meropenem 2 g/8 h (perfusión extendida) **o** Ceftazidima-avibactam 2 g/0,5 g/8 h ± Aztreonam 2 g/8 h + Daptomicina **o** Linezolid 600 mg/12 h + Amikacina 15-25 mg/kg/24 h ± Anidulafungina 200 mg (carga) → 100 mg/24 h | — |
 
 > [!info] Notas de la tabla *(Manual 12 de Octubre)*
@@ -77,8 +77,8 @@ aliases:
 
 | Microorganismo | Manejo inicial | Tratamiento | Duración |
 | :--- | :--- | :--- | :--- |
-| **S. aureus SAMS** | ETT ± ETE; HC control 48-72 h hasta negativización; descartar endocarditis / infección metastásica | **Cloxacilina 2 g/4 h** (1ª elección) / Cefazolina 2 g/8 h. En shock o bacteriemia persistente: valorar biterapia + daptomicina | Bacteriemia no complicada: **14 días** desde HC negativos |
-| **S. aureus SAMR** | Igual que SAMS | **Daptomicina 10-12 mg/kg/día** (1ª elección) / Vancomicina (carga 20-35 mg/kg, máx. 3 g → 15-20 mg/kg/12 h) / Ceftarolina 600 mg/12 h | Bacteriemia no complicada: **14 días** desde HC negativos |
+| **S. aureus SAMS** | ETT ± ETE; HC control 48-72 h hasta negativización; descartar [[Endocarditis Infecciosa\|endocarditis]] / infección metastásica | **[[Cloxacilina]] 2 g/4 h** (1ª elección) / Cefazolina 2 g/8 h. En shock o bacteriemia persistente: valorar biterapia + daptomicina | Bacteriemia no complicada: **14 días** desde HC negativos |
+| **S. aureus SAMR** | Igual que SAMS | **Daptomicina 10-12 mg/kg/día** (1ª elección) / [[Vancomicina]] (carga 20-35 mg/kg, máx. 3 g → 15-20 mg/kg/12 h) / Ceftarolina 600 mg/12 h | Bacteriemia no complicada: **14 días** desde HC negativos |
 | **S. lugdunensis** | Estafilococo coagulasa-negativo de alta virulencia — **manejo igual que S. aureus** | Igual que S. aureus | Igual que S. aureus |
 | **S. pyogenes** | Descartar fascitis necrotizante (imagen) ± valoración quirúrgica | Ceftriaxona 1-2 g/12-24 h + Linezolid 600 mg/12 h **o** Clindamicina 600-900 mg/8 h *(efecto antitoxina)* | Según foco |
 | **Enterococcus faecalis** | HC 48-72 h; descartar endocarditis si adquisición comunitaria, bacteriemia monomicrobiana o prótesis valvular | **Ampicilina 2 g/4 h + Ceftriaxona 2 g/12 h** (sinergia, infección grave). Alternativas: Vancomicina / Daptomicina / Linezolid | Bacteriemia primaria no complicada: 7-14 días |
@@ -133,7 +133,7 @@ aliases:
 
 | Especie | Características | Tratamiento |
 | :--- | :--- | :--- |
-| *C. albicans* | Todos los pacientes | **Equinocandinas** / Fluconazol (0,3-2% resistentes) / Anfotericina B |
+| *C. albicans* | Todos los pacientes | **Equinocandinas** / [[Fluconazol]] (0,3-2% resistentes) / Anfotericina B |
 | *N. glabrata* | DM, neoplasias, trasplante, profilaxis con azoles, edad avanzada | **Equinocandinas** (1ª elección). Anfotericina B liposomal si equinocandinas previas. Resistente a azoles |
 | *C. parapsilosis* | Infecciones relacionadas con catéter, UCI | Sensible a la mayoría de antifúngicos (resistencia al fluconazol 2-6%) |
 | *C. auris* | Candidemia nosocomial en críticos con VM. Alta mortalidad | **Equinocandinas** (1ª elección). Anfotericina B liposomal. **Resistente** a fluconazol y voriconazol |
@@ -165,7 +165,7 @@ aliases:
 
 ### Ventilación Mecánica Invasiva
 
-- **Volumen Corriente con SDRA (Rec. 71):** Ventilación protectora con **6 mL/kg** de Peso Ideal. **Recomendación fuerte.**
+- **Volumen Corriente con [[Síndrome de Distrés Respiratorio Agudo (SDRA)|SDRA]] (Rec. 71):** Ventilación protectora con **6 mL/kg** de Peso Ideal. **Recomendación fuerte.**
 - **Volumen Corriente SIN SDRA (Rec. 72, NUEVA):** Se sugiere usar **4 a < 6 mL/kg IBW** (volumen más bajo) en insuficiencia respiratoria hipoxémica asociada a sepsis sin SDRA confirmado. Cribado regular para desarrollo de SDRA.
 - **Presión Meseta (Rec. 73):** Mantener **< 30 cmH₂O**. **Recomendación fuerte.**
 - **PEEP (Rec. 74-75):** Utilizar PEEP alta en pacientes con SDRA moderado-grave. Se **recomienda en contra** de titulación incremental de PEEP.
@@ -239,8 +239,11 @@ aliases:
 
 ---
 ### 🔗 Enlaces Relacionados
+- [[Sepsis y Shock Séptico]]
 - [[Sepsis - Abordaje Inicial (SSC 2026)]]
 - [[Sepsis - Hemodinámica y Reanimación]]
 - [[Sepsis - Cuidados Post-UCI y Objetivos]]
+- [[Bacteriemia y Candidemia]]
+- [[MUST - Sepsis]]
 - [[Libros y referencias/05_Infecciosas/Evans 2021 - Surviving Sepsis.pdf|Guía Evans et al. 2021 (SSC)]]
 - [[Libros y referencias/05_Infecciosas/SEPSIS 2026.pdf|Guía Sepsis 2026 (SSC)]]

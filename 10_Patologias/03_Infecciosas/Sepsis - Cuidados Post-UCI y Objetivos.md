@@ -118,6 +118,7 @@ aliases:
 
 ---
 ### 🔗 Enlaces Relacionados
+- [[Sepsis y Shock Séptico]]
 - [[Sepsis - Abordaje Inicial (SSC 2026)]]
 - [[Sepsis - Hemodinámica y Reanimación]]
 - [[Sepsis - Antiinfecciosos y Soporte Vital]]

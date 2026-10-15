@@ -50,7 +50,7 @@ aliases:
 
 - **Dosis:** Iniciar **0.05 - 0.1 mcg/kg/min**. Titular cada 5-10 min hasta alcanzar objetivo. Dosis habitual: 0.1 - 1 mcg/kg/min.
 - **Administración Precoz:** **Iniciar de forma temprana por vía venosa periférica** (de calibre adecuado) para no retrasar la recuperación hemodinámica mientras se canaliza una vía central. Se recomienda no demorar su inicio incluso durante la reanimación fluídica.
-- **Rec. 53 (Recomendación fuerte):** Noradrenalina como 1ª línea sobre dopamina, epinefrina o selepresina.
+- **Rec. 53 (Recomendación fuerte):** [[Noradrenalina]] como 1ª línea sobre [[Dopamina|dopamina]], [[Adrenalina|epinefrina]] o selepresina.
 
 ### 2ª Línea: Vasopresina
 
@@ -128,7 +128,9 @@ Sepsis + Hipotensión y/o Lactato Elevado
 
 ---
 ### 🔗 Enlaces Relacionados
+- [[Sepsis y Shock Séptico]]
 - [[Sepsis - Abordaje Inicial (SSC 2026)]]
 - [[Sepsis - Antiinfecciosos y Soporte Vital]]
+- [[MUST - Sepsis]]
 - [[Libros y referencias/05_Infecciosas/Evans 2021 - Surviving Sepsis.pdf|Guía Evans et al. 2021 (SSC)]]
 - [[Libros y referencias/05_Infecciosas/SEPSIS 2026.pdf|Guía Sepsis 2026 (SSC)]]

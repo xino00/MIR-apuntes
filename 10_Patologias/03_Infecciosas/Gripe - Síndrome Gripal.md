@@ -23,7 +23,7 @@ Clínica compatible con síndrome gripal no complicado. No datos de sobreinfecci
 - Tratamiento exclusivamente sintomático.
 - Control de temperatura 2–3 veces al día.
 - Hidratación abundante, incluyendo bebidas isotónicas.
-- Paracetamol 1 g cada 8 h durante 5 días si fiebre o malestar. Si más dolor, malestar o fiebre persistente, alternar con Ibuprofeno 600 mg a las 4 horas del paracetamol.
+- [[Paracetamol]] 1 g cada 8 h durante 5 días si fiebre o malestar. Si más dolor, malestar o fiebre persistente, alternar con [[Ibuprofeno]] 600 mg a las 4 horas del paracetamol.
 - Reposo en domicilio hasta resolución de los síntomas (habitualmente 3–4 días).
 - Evitar ejercicio físico, exponerse al frío y acudir a lugares concurridos.
 - Evitar contacto con personas vulnerables (enfermos crónicos, embarazadas).
@@ -69,3 +69,13 @@ Clínica compatible con síndrome gripal no complicado. No datos de sobreinfecci
 *Somnolencia excesiva o confusión.
 *Vómitos persistentes.
 *Dolor torácico no controlable con medicación.
+
+---
+
+### Enlaces relacionados
+- [[COVID-19]]
+- [[Neumonía Adquirida en la Comunidad (NAC)]]
+- [[Bronquitis Aguda]]
+- [[PROA - Infecciones Respiratorias]]
+- [[MOC - INFECCIOSAS]]
+- [[000_INICIO]]

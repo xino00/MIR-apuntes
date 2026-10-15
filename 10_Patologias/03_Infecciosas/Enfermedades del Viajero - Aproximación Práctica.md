@@ -14,7 +14,7 @@ last_fact_checked: 2026-06-24
 > [!danger] ⚡ Guardia — Lo que no se puede perder
 > **Malaria: considerarla en TODO paciente con fiebre procedente de área endémica HASTA QUE SE DEMUESTRE LO CONTRARIO.** Solicitar **gota gruesa / frotis** urgente.
 > - **Fiebre importada** = Tª > 37,8 °C en viajero/procedente de otra región, desde el inicio del viaje **hasta 3 meses** después.
-> - Cribar **necesidad de aislamiento de alto riesgo**: fiebres víricas hemorrágicas (Ébola, Lassa, Crimea-Congo), MERS-CoV, meningitis bacteriana.
+> - Cribar **necesidad de aislamiento de alto riesgo**: fiebres víricas hemorrágicas (Ébola, Lassa, Crimea-Congo), MERS-CoV, [[Meningitis y Encefalitis|meningitis bacteriana]].
 
 ---
 
@@ -28,8 +28,8 @@ last_fact_checked: 2026-06-24
 - Rx de tórax · **gota gruesa si procede de área endémica de malaria** · hemocultivos ×2 · coprocultivo (si diarrea) · urocultivo · serología VIH y hepatotropos.
 
 **Tratamiento empírico** (ante gravedad/persistencia, hasta descartar malaria si procede):
-- **[[Ceftriaxona]] 2 g/24 h + doxiciclina 100 mg/12 h ± artesunato 2,4 mg/kg.**
-- Casos leves: azitromicina 500 mg/24 h ×3 días ± doxiciclina 100 mg/12 h ×7-10 días.
+- **[[Ceftriaxona]] 2 g/24 h + [[Doxiciclina]] 100 mg/12 h ± artesunato 2,4 mg/kg.**
+- Casos leves: [[Azitromicina]] 500 mg/24 h ×3 días ± doxiciclina 100 mg/12 h ×7-10 días.
 
 ---
 
@@ -39,7 +39,7 @@ last_fact_checked: 2026-06-24
 | Escalón | Conducta |
 |---|---|
 | **General** | Evitar deshidratación (SRO; fluidoterapia IV si grave) y evitar lácteos |
-| **Sintomático** | **Loperamida** (acorta duración). **Contraindicada en grave/disentería y < 2 años** |
+| **Sintomático** | **[[Loperamida]]** (acorta duración). **Contraindicada en grave/disentería y < 2 años** |
 | **Antibiótico** (si persiste/empeora) | **Azitromicina 500 mg/24 h ×3 días (de elección)** o rifaximina 200 mg/8 h ×3. IV: [[Ceftriaxona]] 2 g/24 h + [[Metronidazol]] 750 mg/8 h (si *E. histolytica*) |
 
 **Diarrea > 14 días** → descartar parásitos, **VIH**, celiaquía, EII, alteración tiroidea o malabsorción.
@@ -55,6 +55,7 @@ last_fact_checked: 2026-06-24
 
 ### Enlaces relacionados
 - [[PROA - Infecciones Gastrointestinales]]
+- [[Gastroenteritis Aguda (GEA)]]
 - [[Tuberculosis]]
 - [[VIH - Diagnóstico y Manejo Inicial]]
 - [[MUST - Fiebre sin Foco]]

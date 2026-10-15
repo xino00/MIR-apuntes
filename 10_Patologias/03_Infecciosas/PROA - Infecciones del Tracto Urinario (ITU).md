@@ -55,7 +55,7 @@ tags: [urgencias, infecciosas, uro]
   - Considerar Rx abdomen para descartar litiasis (si clínica similar a cólico renal).
   - **Si se decide manejo ambulatorio:** mantener en observación al menos **12h** tras la 1ª dosis (1/3 evolucionan a sepsis).
   - *Pauta:* **1ª dosis de [[Ceftriaxona]] 2g IV** en urgencias → alta con **[[Cefixima]] 400mg/24h** hasta completar **7 días** totales, revisando antibiograma en MAP a las 48h.
-  - *Si alérgico a betalactámicos (confirmada):* amikacina 15-20mg/kg IV urgencias + [[Ciprofloxacino]] 500mg/12h al alta, pero revisar urocultivo en MAP a las 48h.
+  - *Si alérgico a betalactámicos (confirmada):* [[Amikacina|amikacina]] 15-20mg/kg IV urgencias + [[Ciprofloxacino]] 500mg/12h al alta, pero revisar urocultivo en MAP a las 48h.
   - *Fosfomicina y Nitrofurantoína:* NO adecuadas para pielonefritis (no alcanzan niveles parénquima renal).
   - *Ingreso si:* riesgo de mala evolución, anomalías urinarias/dispositivos, riesgo multiR o ausencia de respuesta a las 48-72h.
 
@@ -68,7 +68,7 @@ tags: [urgencias, infecciosas, uro]
 
 ## 3. Consideraciones Especiales
 
-- **Infección urinaria en portador de dispositivo** (sonda vesical, catéter ureteral, nefrostomía, urostomía, CDJ):
+- **[[ITU - Situaciones Especiales#3. ITU asociada a catéter|Infección urinaria en portador de dispositivo]]** (sonda vesical, catéter ureteral, nefrostomía, urostomía, CDJ):
   - Preguntar siempre por **clínica miccional**: urocultivo positivo sin clínica no precisa ATB.
   - Nunca recoger muestra de bolsa colectora ni urocultivo directo de sedimento si hay bolsa.
   - **Recambiar sonda vesical** antes de recoger muestra (si posible). Registrar el recambio en HC.
@@ -78,11 +78,11 @@ tags: [urgencias, infecciosas, uro]
   - Revisar urocultivos previos (alto riesgo de multiR). Al alta: derivar a MAP en 48h para revisar antibiograma.
   - *Si alergia a betalactámicos (confirmada):* dosis única de amikacina IV 15-20mg/kg/24h.
 
-- **Bacteriuria Asintomática**:
+- **[[ITU - Situaciones Especiales#1. Bacteriuria asintomática|Bacteriuria Asintomática]]**:
   - **No tratar** salvo: gestante, procedimiento urológico, trasplante renal (<1 mes), neutropenia de alto riesgo (<100 neutrófilos).
   - La presencia de piuria, nitritos o cambio de color/olor NO indica ATB si el paciente está asintomático.
 
-- **Microorganismos BLEE**:
+- **[[ITU - Situaciones Especiales#4. Enterobacterias BLEE|Microorganismos BLEE]]**:
   - *Factores de riesgo:* exposición previa a quinolonas/cefalosporinas 2-3ª gen, hospitalización previa, infecciones urinarias recurrentes, portador de dispositivos, contacto con portador.
   - Revisar antibiograma: fosfomicina, nitrofurantoína, cotrimoxazol, ciprofloxacino o amoxicilina/clavulánico pueden ser válidas si la cepa es sensible.
   - **No indicado el uso sistemático de carbapenems** si hay alternativas disponibles.

@@ -26,7 +26,7 @@ tags: [urgencias, infecciosas, digestivo]
 
 - **[[Enfermedades del Viajero - Aproximación Práctica#2. Diarrea del viajero|Diarrea del viajero]]**:  
   - *Definición:* ≥3 deposiciones blandas/líquidas en 24h + 1 síntoma acompañante (dolor abdominal, tenesmo, náuseas, vómitos, urgencia o fiebre) en paciente que viaja (60% en la 1ª semana).
-  - *Leve:* Sintomático (Loperamida/Racecadotrilo + Rehidratación).
+  - *Leve:* Sintomático ([[Loperamida]]/Racecadotrilo + Rehidratación).
   - *Moderada/Grave:* [[Ciprofloxacino]] 500mg/12h. Si viaje a India o Sudeste Asiático: [[Azitromicina]] 500mg/8h (3 días).
 
 ## 2. Infección por Clostridioides Difficile (CDI)
@@ -36,7 +36,7 @@ tags: [urgencias, infecciosas, digestivo]
   - *Diagnóstico:* Clínico + detección de toxina/PCR (inmunocromatografía).
   - *Concepto Clave:* La curación se define por la resolución clínica, **NO** por la negativización de la toxina en heces (no repetir cultivo para "test de cura"). La principal complicación es la recurrencia.
   - *Tratamiento Primera Línea:* Suspensión del antibiótico causal, parar IBPs, anti-H2 y anti-peristálticos. **No recomendado uso de probióticos.** **[[Vancomicina]]** oral (125mg/6h cápsulas) durante 10 días. Dispensación en Farmacia Hospitalaria previa prescripción en Programas Farmacológicos Externos (Casiopea).
-  - *Tratamiento de Recurrencia:* **Fidaxomicina** (200mg/12h comprimidos) durante 10 días (dispensación hospitalaria). De elección en CDI recurrente o alto riesgo de recurrencia (≥65 años, inmunodeprimidos, cepa hipervirulenta).
+  - *Tratamiento de Recurrencia:* **[[Fidaxomicina]]** (200mg/12h comprimidos) durante 10 días (dispensación hospitalaria). De elección en CDI recurrente o alto riesgo de recurrencia (≥65 años, inmunodeprimidos, cepa hipervirulenta).
 
 > [!important] Estudio de Parásitos en Heces
 > Solicitar muestras en **3 días consecutivos**. Indicaciones: diarrea persistente (incluido viajero), HSH y pacientes con VIH (mal control), diarrea con sangre, fiebre y sin leucocitos (sospechar *Entamoeba*).
