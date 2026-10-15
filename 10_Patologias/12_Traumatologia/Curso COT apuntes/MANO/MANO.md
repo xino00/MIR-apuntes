@@ -21,7 +21,7 @@ fuente: "Curso COT 2026 HUFJD - 4- MUÑECA Y MANO.pdf (Mariam Al Ismail Calderó
 
 *Curso COT 2026 · Mariam Al Ismail Calderón, residente de 4.º año de COT · HU Fundación Jiménez Díaz*
 
-> **Relacionado:** [[Traumatismo de Dedo de Mano]] · [[Patología de Muñeca]] · [[Heridas y Suturas]] · [[MOC - TRAUMATOLOGIA|Traumatología]]
+> **Relacionado:** [[Traumatismo de Dedo de Mano]] · [[Patología de Muñeca]] · [[Heridas y Suturas]] · [[50_Guardias/00 - Exploración|Plantilla de exploración (bloques MANO y DEDO)]] · [[MOC - TRAUMATOLOGIA|Traumatología]]
 
 > [!abstract] Índice
 > [[#1. Exploración básica: siempre en el mismo orden|Exploración]] · [[#2. Lectura de la Rx de muñeca y mano|Rx]] · [[#3. Lesiones óseas|Falanges, metacarpianos y escafoides]] · [[#4. Lesiones tendinosas|Mallet y jersey finger, flexores]] · [[#5. Tenosinovitis flexora piógena|Tenosinovitis flexora]] · [[#6. Take home messages|Take home]] · [[#7. Perlas de guardia|Perlas]] · [[#Anotaciones de clase|Anotaciones de clase]] · [[#Procedencia|Procedencia]]

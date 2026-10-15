@@ -114,6 +114,8 @@ La diapositiva incluye **marcha de talones y puntillas**, exploración radicular
 >
 > Esta es la maniobra complementaria habitual; no debe confundirse con la variante investigada en pacientes con Lasègue negativo. [Homayouni et al., 2018: descripción de Bragard y estudio de su variante modificada](https://pmc.ncbi.nlm.nih.gov/articles/PMC5883635/).
 
+Texto para la historia: [[50_Guardias/00 - Exploración|Plantilla de exploración de Urgencias]] (bloque COLUMNA LUMBAR).
+
 ## 3. Localización radicular: L4, L5 y S1
 
 **Tabla de la diapositiva reorganizada.** Las expresiones de dolor, sensibilidad y función motora se conservan; los matices para interpretarlas aparecen debajo. La diapositiva siguiente añade el **mapa de dermatomas de L1 a S5** (vistas anterior, interna, externa y posterior del miembro inferior) y un esquema de la salida de las raíces de C1 a S5 a lo largo de la columna.

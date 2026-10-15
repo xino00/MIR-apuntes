@@ -31,7 +31,7 @@ fuente: "Curso COT 2026 HUFJD - 8- TOBILLO Y PIE.pdf (Juan Iglesias Martín, R2 
 > - [[#Para llevar a casa|Para llevar a casa]]
 > - [[#8. Procedencia, referencias y análisis de huecos|Fuentes, originales y análisis de huecos]]
 
-**Notas relacionadas:** [[30_Urgencias/Exploracion_Fisica/Exploración de Tobillo y Antepié|Exploración de tobillo y antepié]] · [[10_Patologias/12_Traumatologia/Esguince de Tobillo|Esguince de tobillo]] · [[10_Patologias/12_Traumatologia/Ejercicios_SERMEF/Ejercicios SERMEF - Dolor tras esguince de tobillo|Ejercicios SERMEF tras esguince]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/Patologías más frecuentes#2. Esguince de tobillo|Esguince de tobillo en la charla de patologías frecuentes]].
+**Notas relacionadas:** [[30_Urgencias/Exploracion_Fisica/Exploración de Tobillo y Antepié|Exploración de tobillo y antepié]] · [[10_Patologias/12_Traumatologia/Esguince de Tobillo|Esguince de tobillo]] · [[10_Patologias/12_Traumatologia/Ejercicios_SERMEF/Ejercicios SERMEF - Dolor tras esguince de tobillo|Ejercicios SERMEF tras esguince]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/Patologías más frecuentes#2. Esguince de tobillo|Esguince de tobillo en la charla de patologías frecuentes]] · [[50_Guardias/00 - Exploración|Plantilla de exploración de Urgencias (bloque TOBILLO)]].
 
 ## Objetivos y preguntas clave
 
@@ -61,6 +61,8 @@ fuente: "Curso COT 2026 HUFJD - 8- TOBILLO Y PIE.pdf (Juan Iglesias Martín, R2 
 
 Completar la inspección con heridas, edema importante y **flictenas** —ampollas—, destacadas en la diapositiva 3. En el mediopié, mirar también la **planta** para buscar equimosis, como recuerda la diapositiva de Lisfranc.
 
+Palpación sistemática completa (óseo → ligamentoso → tendinoso): [[30_Urgencias/Exploracion_Fisica/Exploración de Tobillo y Antepié#2. Palpación Sistemática|Exploración de tobillo y antepié]].
+
 ### Exploración neurovascular y función
 
 Las diapositivas indican valorar y documentar:
@@ -68,6 +70,8 @@ Las diapositivas indican valorar y documentar:
 - **Pulsos distales**, sensibilidad y relleno capilar.
 - **Función motora** y limitación funcional.
 - Capacidad de apoyo, que también orienta la valoración del esguince y del mediopié.
+
+Pulsos y territorios nerviosos del pie: [[30_Urgencias/Exploracion_Fisica/Exploración de Tobillo y Antepié#7. Exploración Neurovascular|Exploración de tobillo y antepié]].
 
 > [!important] Antes y después
 > Documentar el estado neurovascular **antes y después de la reducción y de la inmovilización**. Reexplorar, no copiar automáticamente la exploración previa.
@@ -77,7 +81,7 @@ Las diapositivas indican valorar y documentar:
 > [!note] Aclaración — completar la exploración fuera del tobillo
 > Palpar el peroné proximal ante sospecha de lesión de sindesmosis: una **lesión de Maisonneuve** puede quedar fuera de la Rx de tobillo. Si la exploración la sugiere, solicitar radiografías de toda la pierna. [BOAST: fracturas de tobillo](https://www.boa.ac.uk/resource/boast-12-pdf.html).
 
-El dolor alto en la sindesmosis no basta para clasificar la lesión como estable: integrar exploración e imagen antes de aplicar el plan de un esguince lateral simple.
+El dolor alto en la sindesmosis no basta para clasificar la lesión como estable: integrar exploración e imagen antes de aplicar el plan de un esguince lateral simple. Maniobras de sindesmosis (*squeeze test*, rotación externa): [[30_Urgencias/Exploracion_Fisica/Exploración de Tobillo y Antepié#4. Maniobras de Estabilidad Ligamentosa|Exploración de tobillo y antepié]].
 
 ## 2. Pruebas de imagen
 
@@ -224,6 +228,8 @@ La elección de manejo conservador o cirugía depende del patrón y del paciente
 | **Función** | Valorar pérdida del impulso y de la capacidad para elevar el talón. Un pequeño movimiento residual no basta para descartar la lesión. |
 
 Fuente de estas aclaraciones: [BOA: lesiones que se pasan por alto en pie y tobillo](https://www.boa.ac.uk/resource/commonly-missed-injuries-in-the-foot-and-ankle.html).
+
+Técnica de Thompson y signo de Matthews: [[30_Urgencias/Exploracion_Fisica/Exploración de Tobillo y Antepié#5. Maniobras del Tendón de Aquiles|Exploración de tobillo y antepié]].
 
 **Aclaración — ecografía:** la historia y la exploración pueden establecer el diagnóstico. La ecografía ayuda cuando hay duda o para caracterizar la rotura; no debe convertirse en un motivo para retrasar la protección inicial y la derivación. [CUH: manejo de la rotura de Aquiles](https://www.cuh.nhs.uk/patient-information/achilles-tendon-rupture-management-and-rehabilitation/).
 

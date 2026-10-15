@@ -73,6 +73,8 @@ Los esquemas anatómicos resaltan:
 
 Desarrollo completo (grados, «buscar algo más», lesiones del pie que no deben pasar inadvertidas): [[10_Patologias/12_Traumatologia/Curso COT apuntes/TOBILLO#3. Esguince lateral|Tobillo y pie en Urgencias]].
 
+Maniobras (cajón anterior, *talar tilt*, sindesmosis) y Ottawa en detalle: [[30_Urgencias/Exploracion_Fisica/Exploración de Tobillo y Antepié|Exploración de tobillo y antepié]].
+
 ---
 
 ## 3. Patología traumática de rodilla
@@ -89,6 +91,8 @@ Desarrollo completo (grados, «buscar algo más», lesiones del pie que no deben
 | Sin signos de alarma | **Rodillera + reposo relativo + control en consulta con RM** |
 
 Exploración sistemática, maniobras y resto de motivos para avisar: [[10_Patologias/12_Traumatologia/Curso COT apuntes/RODILLA/RODILLA#6. Cuándo avisar a COT|Rodilla en Urgencias]].
+
+Técnica de cada maniobra y valoración del derrame: [[30_Urgencias/Exploracion_Fisica/Exploración de Rodilla|Exploración de rodilla]].
 
 ---
 

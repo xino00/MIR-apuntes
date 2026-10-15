@@ -11,7 +11,7 @@ aliases:
 
 > **Autor:** Nota clínica · Traumatología y Cirugía Ortopédica
 > **Tags:** #traumatología #exploración-física #tobillo #antepié #ortopedia
-> **Relacionado:** [[Exploración de Rodilla]] · [[Lesiones Ligamentosas]] · [[Fracturas de Tobillo]]
+> **Relacionado:** [[Exploración de Rodilla]] · [[Lesiones Ligamentosas]] · [[Fracturas de Tobillo]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/TOBILLO|Tobillo y pie en Urgencias (Curso COT)]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/Patologías más frecuentes#2. Esguince de tobillo|Esguince de tobillo (Curso COT)]]
 
 ---
 
@@ -30,7 +30,7 @@ Identifica estos puntos antes de empezar:
 | **LCP** (Calcaneoperoneo) | Lesionado en esguinces de mayor energía |
 | **LPAP** (Peroneoastragalino posterior) | Raramente afectado de forma aislada |
 | **Sindesmosis** (tibioperonea distal) | Esguince "alto" — no confundir con esguince lateral |
-| **Base del 5º metatarsiano** | Avulsión por peroneos en inversión forzada → pedir Rx |
+| **Base del 5º metatarsiano** | Avulsión por peroneos en inversión forzada → pedir Rx; no confundir con la fractura de Jones ([[10_Patologias/12_Traumatologia/Curso COT apuntes/TOBILLO#Quinto metatarsiano: avulsión frente a Jones\|curso COT]]) |
 | **Cúpula astragalina** | Lesión osteocondral frecuente tras esguince → pensar en ella si hay derrame sin Rx clara |
 | **Tendón de Aquiles** | Desde unión miotendinosa hasta inserción calcánea |
 | **Fascia plantar** | Origen en tubérculo medial del calcáneo |
@@ -61,7 +61,7 @@ Identifica estos puntos antes de empezar:
 ### Puntos óseos
 - Maléolo lateral y medial (línea articular)
 - Base del **5º metatarsiano** ← no olvidar nunca
-- Tubérculo del navicular (accesorio en pie plano)
+- Tubérculo del navicular (accesorio en pie plano); dolor focal con Rx normal → [[10_Patologias/12_Traumatologia/Curso COT apuntes/TOBILLO#Navicular: sospechar aunque la radiografía sea normal|sospechar fractura]]
 - Calcáneo (dolor plantar → fascitis; lateral → fractura)
 - Cabezas metatarsales 2-3 (fractura de estrés)
 
@@ -120,6 +120,7 @@ Identifica estos puntos antes de empezar:
 
 > [!tip] 💡 Esguince de sindesmosis vs. lateral
 > El esguince alto tiene **peor pronóstico**, más tiempo de recuperación y frecuentemente se infradiagnostica. Pedir Rx con carga si hay sospecha — busca diastasis tibioperonea.
+> Palpa también el **peroné proximal**: la lesión de Maisonneuve queda fuera de la Rx de tobillo ([[10_Patologias/12_Traumatologia/Curso COT apuntes/TOBILLO#Sindesmosis y peroné proximal|curso COT]]).
 
 ---
 
@@ -138,6 +139,8 @@ Identifica estos puntos antes de empezar:
 
 > [!warning] ⚠️ Trampa clínica frecuente
 > Un paciente con rotura de Aquiles puede hacer flexión plantar activa (mediante los flexores largos). **No descartes la rotura solo porque mueva el pie.** La clave es el Thompson.
+
+Manejo inicial (férula en equino, ecografía si hay duda) en el curso: [[10_Patologias/12_Traumatologia/Curso COT apuntes/TOBILLO#Rotura del tendón de Aquiles|Rotura del tendón de Aquiles]].
 
 ---
 
@@ -178,6 +181,8 @@ Identifica estos puntos antes de empezar:
 
 > [!warning] ⚠️ En fracturas-luxaciones de tobillo (bimaleonar, trimaleonar) → valoración vascular urgente antes de movilizar.
 
+Secuencia del curso (analgesia, aviso, reducción si procede, inmovilizar y reexplorar): [[10_Patologias/12_Traumatologia/Curso COT apuntes/TOBILLO#4. Fractura y luxación|Fractura y luxación]].
+
 ---
 
 ## 8. Reglas de Ottawa (cuándo pedir Rx)
@@ -193,6 +198,8 @@ Solicitar Rx de pie si:
 - Incapacidad para cargar 4 pasos
 
 > **Sensibilidad ~99%** para descartar fracturas significativas. Especificidad baja (~40%) → muchas Rx negativas, pero ninguna fractura importante se escapa.
+
+Límites de Ottawa y qué estudio ampliar (Lisfranc, fractura oculta): [[10_Patologias/12_Traumatologia/Curso COT apuntes/TOBILLO#2. Pruebas de imagen|curso COT]].
 
 ---
 
@@ -218,6 +225,8 @@ Solicitar Rx de pie si:
 | Fascitis plantar | Windlass, dolor tubérculo calcáneo |
 | Insuficiencia tibial posterior | Single heel raise, too many toes |
 | Fractura de estrés metatarso | Palpación diáfisis + carga |
+
+Lesiones del pie que no deben pasar inadvertidas (5º MT/Jones, navicular, Lisfranc, Aquiles): [[10_Patologias/12_Traumatologia/Curso COT apuntes/TOBILLO#5. Lesiones que no deben pasar inadvertidas|curso COT]].
 
 ---
 

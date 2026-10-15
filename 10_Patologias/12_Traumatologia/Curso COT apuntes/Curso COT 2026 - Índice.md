@@ -53,4 +53,9 @@ Apuntes elaborados a partir de las **diapositivas originales** (10 PDF, en `RESI
 | Celulitis que avanza o dolor desproporcionado | [[10_Patologias/12_Traumatologia/Curso COT apuntes/Infecciones COT/Infecciones del aparato locomotor#3.3. Banderas rojas y trampas diagnósticas\|Banderas rojas de partes blandas]] |
 | Politraumatizado o sospecha de fractura de pelvis | [[10_Patologias/12_Traumatologia/Curso COT apuntes/Politrauma básico#4. Fractura de pelvis: fijación externa no invasiva\|Faja pélvica]] |
 
+## Exploración física
+
+- Maniobras paso a paso: [[30_Urgencias/Exploracion_Fisica/Exploración de Rodilla|Exploración de rodilla]] · [[30_Urgencias/Exploracion_Fisica/Exploración de Tobillo y Antepié|Exploración de tobillo y antepié]].
+- Texto para la historia clínica por regiones (hombro, codo, mano, dedo, columna lumbar, cadera, rodilla y tobillo): [[50_Guardias/00 - Exploración|Plantilla de exploración de Urgencias]].
+
 Volver a [[MOC - TRAUMATOLOGIA|Traumatología]].

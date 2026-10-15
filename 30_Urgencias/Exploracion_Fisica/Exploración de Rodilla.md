@@ -11,7 +11,7 @@ aliases:
 
 > **Autor:** Nota clínica · Traumatología y Cirugía Ortopédica  
 > **Tags:** #traumatología #exploración-física #rodilla #ortopedia  
-> **Relacionado:** [[Exploración de Cadera]] · [[Exploración de Tobillo y Antepié|Exploración de Tobillo]] · [[Lesiones Ligamentosas]] · [[Patología Meniscal]]
+> **Relacionado:** [[Exploración de Cadera]] · [[Exploración de Tobillo y Antepié|Exploración de Tobillo]] · [[Lesiones Ligamentosas]] · [[Patología Meniscal]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/RODILLA/RODILLA|Rodilla en Urgencias (Curso COT)]]
 
 ---
 
@@ -20,7 +20,7 @@ aliases:
 - Explorar siempre de forma **comparativa bilateral**
 - Orden: inspección → palpación → movilidad → maniobras especiales → neurovascular
 - Contextualizar con **mecanismo lesional**, tiempo de evolución y funcionalidad
-- El dolor referido de **cadera** puede manifestarse en rodilla → explorar siempre
+- El dolor referido de **cadera** puede manifestarse en rodilla → explorar siempre (en el adolescente, descartar [[10_Patologias/12_Traumatologia/Curso COT apuntes/Trauma infantil#Epifisiólisis femoral proximal|epifisiólisis femoral proximal]])
 
 ---
 
@@ -48,9 +48,9 @@ aliases:
 | Rótula | Posición, movilidad, crepitación, dolor |
 | Tendón rotuliano | Tendinopatía, rotura |
 | Tendón cuadricipital | Rotura (gap palpable) |
-| Tuberosidad tibial anterior | Osgood-Schlatter en adolescentes |
+| Tuberosidad tibial anterior | Osgood-Schlatter en adolescentes; avulsión de la TTA en saltos ([[10_Patologias/12_Traumatologia/Curso COT apuntes/Trauma infantil#Fractura de la tuberosidad tibial anterior, TTA\|Trauma infantil]]) |
 | Hueco poplíteo | Quiste de Baker, pulso poplíteo |
-| Temperatura | Comparativa → inflamación, infección |
+| Temperatura | Comparativa → inflamación, infección ([[10_Patologias/12_Traumatologia/Curso COT apuntes/RODILLA/RODILLA#Sospecha de artritis séptica\|artritis séptica]]) |
 
 ---
 
@@ -80,6 +80,8 @@ aliases:
 ### Signo del barrido *(Stroke test)*
 - **Técnica:** Barrer cara medial → luego cara lateral observando abombamiento
 - **Positivo:** Onda de líquido → derrames pequeños
+
+> ⚠️ Derrame a tensión o hemartros tras un traumatismo = criterio de derivación urgente a COT: [[10_Patologias/12_Traumatologia/Curso COT apuntes/Patologías más frecuentes#3. Patología traumática de rodilla|signos de alarma]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/RODILLA/RODILLA#6. Cuándo avisar a COT|cuándo avisar a COT]]
 
 ---
 
@@ -173,7 +175,7 @@ aliases:
 
 ## 10. Exploración Neurovascular
 
-- **Pulso poplíteo**, tibial posterior y pedio (luxación de rodilla → lesión vascular urgente)
+- **Pulso poplíteo**, tibial posterior y pedio (luxación de rodilla → lesión vascular urgente; pulsos + ITB y aviso a COT aunque se haya reducido: [[10_Patologias/12_Traumatologia/Curso COT apuntes/RODILLA/RODILLA#Luxación de rodilla, aunque se haya reducido espontáneamente|curso COT]])
 - **Nervio peroneo común:** sensibilidad dorso del pie, fuerza dorsiflexión
 - **Nervio tibial:** sensibilidad planta del pie, fuerza flexión plantar
 
@@ -200,6 +202,8 @@ aliases:
 | Síndrome femoropatelar | Clarke, compresión rotuliana |
 | Lesión LCM/LCL | Estrés valgo/varo a 0° y 30° |
 | Derrame articular | Témpano, Barrido |
+
+En el curso COT: [[10_Patologias/12_Traumatologia/Curso COT apuntes/RODILLA/RODILLA#4 bis. Maniobras específicas|maniobras con los rangos de S/E de AAPM&R]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/RODILLA/RODILLA#5. Reglas de Ottawa para solicitar radiografía|Ottawa de rodilla]] · [[10_Patologias/12_Traumatologia/Curso COT apuntes/RODILLA/RODILLA#8. Síntesis del diagnóstico diferencial en Urgencias|diagnóstico diferencial en Urgencias]]
 
 ---
 

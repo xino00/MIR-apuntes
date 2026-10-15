@@ -30,6 +30,8 @@ fuente: "Curso COT 2026 HUFJD - 7- RODILLA.pdf (Ilana Barak Díaz, R2 COT)"
 > - [[#Anotaciones de clase|Anotaciones de clase]]
 > - [[#Procedencia de los apuntes|Procedencia y fotografía]]
 
+**Notas relacionadas:** [[30_Urgencias/Exploracion_Fisica/Exploración de Rodilla|Exploración de rodilla]] · [[50_Guardias/00 - Exploración|Plantilla de exploración de Urgencias (bloque RODILLA)]].
+
 > [!tip] Lema de la sesión
 > **Antes de las pruebas complementarias, hay que explorar al paciente:** inspección → palpación → balance articular y derrame → maniobras específicas.
 
@@ -121,6 +123,8 @@ La extensión activa contra gravedad permite valorar la función del aparato ext
 2. Presionar suavemente la rótula hacia el fémur.
 3. La sensación de contacto y rebote de la rótula apoya la presencia de derrame. La diapositiva dice: «si rebota, hay derrame **moderado-grave**».
 
+Para derrames pequeños, el **signo del barrido**: [[30_Urgencias/Exploracion_Fisica/Exploración de Rodilla#4. Valoración del Derrame Articular|Exploración de rodilla]].
+
 ## 4 bis. Maniobras específicas
 
 Las páginas 9–12 del PDF solo nombran las maniobras y las ilustran con fotogramas de vídeo, sin describir la técnica. La técnica procede de tus apuntes de clase y, cuando está disponible, de la tabla de maniobras de AAPM&R (S = sensibilidad, E = especificidad).
@@ -135,7 +139,7 @@ Las páginas 9–12 del PDF solo nombran las maniobras y las ilustran con fotogr
 | 6 | **Aprehensión rotuliana** | **Luxación rotuliana** | No detallada en la sesión | «Aprehensión positiva» en la luxación rotuliana (tabla de síntesis) |
 | 7 | **Extensor lag** | **Aparato extensor** | Comparar la extensión activa con la pasiva (ver [[#Movilidad activa frente a pasiva\|sección 4]]) | Déficit de extensión activa → rotura del aparato extensor |
 
-La tabla de síntesis cita también el **test de Thessaly** para la rotura meniscal; la sesión no lo desarrolla.
+La tabla de síntesis cita también el **test de Thessaly** para la rotura meniscal; la sesión no lo desarrolla. Técnica de Thessaly, aprehensión rotuliana, *pivot shift* y *sag sign*: [[30_Urgencias/Exploracion_Fisica/Exploración de Rodilla|Exploración de rodilla]].
 
 > [!note] Aclaración · Fuente de técnica y cifras
 > La técnica de Lachman, los cajones y McMurray, y sus rangos de sensibilidad y especificidad, proceden de la tabla de maniobras musculoesqueléticas de AAPM&R. Los rangos tan amplios reflejan la variabilidad entre estudios: ninguna maniobra aislada confirma ni descarta la lesión, y siempre se compara con el lado sano. [AAPM&R — Specialized Musculoskeletal Examination: Table of Patient Tests](https://now.aapmr.org/wp-content/uploads/2021/09/Specialized-Musculoskeletal-Examination-Table-of-Patient-Tests.pdf). La sesión cita además a Malanga et al. (2003) y Solomon et al. (2001), ver la Procedencia.

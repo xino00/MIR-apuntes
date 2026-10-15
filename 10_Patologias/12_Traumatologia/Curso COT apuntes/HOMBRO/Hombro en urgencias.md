@@ -39,6 +39,8 @@ fuente: "Curso COT 2026 HUFJD - 2- HOMBRO.pdf (Celia García Rubio, R4 COT)"
 > - **Nunca intentar reducir las luxaciones de hombro, y menos sin radiografía.**
 > - Ante la duda, **llamar a COT**.
 
+Texto para la historia: [[50_Guardias/00 - Exploración|Plantilla de exploración de Urgencias]] (bloque HOMBRO).
+
 ---
 
 ## 2. Fractura de húmero proximal

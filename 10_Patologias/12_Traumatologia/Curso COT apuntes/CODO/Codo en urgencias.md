@@ -41,6 +41,8 @@ fuente: "Curso COT 2026 HUFJD - 3- CODO.pdf (Jaime Muñoz Castellanos, R3 COT)"
 
 > [!important] La exploración neurovascular se documenta antes y después de reducir.
 
+Texto para la historia, con línea de Malgaigne, triángulo de Nélaton, *hook test* y maniobras de epicondilitis y epitrocleítis: [[50_Guardias/00 - Exploración|Plantilla de exploración de Urgencias]] (bloque CODO).
+
 ## 1. Estabilidad del codo
 
 El codo es una **articulación compleja** cuya estabilidad depende de las **estructuras óseas y ligamentarias**.
