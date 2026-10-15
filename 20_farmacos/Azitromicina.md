@@ -13,7 +13,7 @@ Bacteriostático. Inhibe la síntesis proteica bacteriana uniéndose a la subuni
 ## 2. Indicaciones Clínicas Principales
 Su altísima biodisponibilidad tisular permite tratamientos cortos o de dosis única:
 - [[Neumonía Adquirida en la Comunidad (NAC)]]: Tratamiento empírico de elección para atípicos (solo o en combo con Ceftriaxona/Amoxicilina). Ver [[PROA - Infecciones Respiratorias]].
-- [[Uretritis]] y Cervicitis por *Chlamydia trachomatis* (Tratamiento empírico en dosis única de 1g VO, generalmente asociado a Ceftriaxona para cubrir *Gonococo*). Ver [[PROA - Infecciones de Transmisión Sexual (ITS)]].
+- [[Dermatología 16 - ITS e infecciones víricas cutáneas#Tratamientos adultos no complicados|Uretritis]] y Cervicitis por *Chlamydia trachomatis* (Tratamiento empírico en dosis única de 1g VO, generalmente asociado a Ceftriaxona para cubrir *Gonococo*). Ver [[PROA - Infecciones de Transmisión Sexual (ITS)]].
 - Alternativa en Alérgicos a Penicilina en faringoamigdalitis estreptocócica.
 - Diarrea del viajero (frente a *Campylobacter* o *E. coli* resistente a quinolonas).
 

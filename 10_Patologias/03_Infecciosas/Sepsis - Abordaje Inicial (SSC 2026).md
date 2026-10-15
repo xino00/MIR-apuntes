@@ -8,7 +8,7 @@ aliases:
   - Shock Séptico
 description: "Sepsis y shock séptico: criterios SOFA/qSOFA, bundles de la primera hora, fluidoterapia y vasopresores"
 ---
-# Sepsis y [[Shock]] Séptico
+# Sepsis - Abordaje Inicial (SSC 2026)
 
 > [!danger] ⚡ Guardia
 > **Sepsis = infección + ∆SOFA ≥ 2. Shock séptico = vasopresores para TAM ≥ 65 + lactato > 2 mmol/L.**
@@ -184,7 +184,7 @@ Parámetros evaluados (puntúan de 0 a 3 según desviación de la normalidad):
 | **Urinario (Urosepsis)**    | Ceftriaxona o [[Gentamicina]]      | **Ceftriaxona:** 2 g IV cada 24h. **Gentamicina:** 5-7 mg/kg IV cada 24h. |
 | **Intra-abdominal**         | Ceftriaxona + [[Metronidazol]]     | **Ceftriaxona:** 2 g IV cada 24h. **Metronidazol:** 500 mg IV cada 8h.    |
 | **Multirresistentes (MDR)** | Piperacilina/Tazobactam            | **Pip/Tazo:** 4.5 g IV cada 6-8h (Perfusión extendida 4h).                |
-| **BLEE / Shock grave**      | Meroperem                          | **[[Meropenem]]:** 1 - 2 g IV cada 8h (Perfusión extendida).              |
+| **BLEE / Shock grave**      | [[Meropenem]]                      | **Meropenem:** 1 - 2 g IV cada 8h (Perfusión extendida).                  |
 | **SARM (Staph)**            | [[Vancomicina]]                    | **Vancomicina:** Carga 25-30 mg/kg, luego 15-20 mg/kg cada 12h.           |
 |                             |                                    |                                                                           |
 

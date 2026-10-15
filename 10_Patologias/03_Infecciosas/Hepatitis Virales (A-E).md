@@ -75,7 +75,7 @@ last_fact_checked: 2026-06-24
 ### Enlaces relacionados
 - [[Profilaxis Postexposición Biológica]]
 - [[VIH - Diagnóstico y Manejo Inicial]]
-- [[Cirrosis Hepática y sus Complicaciones]]
+- [[Complicaciones de la Cirrosis Hepática]]
 - [[MOC - INFECCIOSAS]]
 - [[MOC - DIGESTIVO]]
 - [[000_INICIO]]

@@ -11,7 +11,7 @@ tags: [farmaco, antibiotica, macrociclico, clostridioides]
 Macrolacton macrocíclico bactericida. Inhibe selectivamente la RNA-polimerasa bacteriana de *Clostridioides difficile*, bloqueando la síntesis de ARN mensajero. Presenta mínima absorción intestinal sistémica, alcanzando concentraciones fecales muy elevadas con escasa exposición sistémica. Respeta mejor la flora comensal que la vancomicina oral, lo que se asocia a menor tasa de recidivas.
 
 ## 2. Indicaciones Clínicas Principales
-- Tratamiento de la **[[Infección por Clostridioides difficile (CDI)]]** moderada-grave en adultos.
+- Tratamiento de la **[[PROA - Infecciones Gastrointestinales#2. Infección por Clostridioides Difficile (CDI)|Infección por Clostridioides difficile (CDI)]]** moderada-grave en adultos.
 - Primera opción en episodios **recurrentes** de CDI (superior a vancomicina en prevención de recidivas — estudio MODIFY).
 
 ## 3. Contraindicaciones y Precauciones
@@ -31,6 +31,6 @@ Macrolacton macrocíclico bactericida. Inhibe selectivamente la RNA-polimerasa b
 **Ajuste Hepático:** Sin ajuste habitual.
 
 ## 🔗 Relacionados
-- [[Infección por Clostridioides difficile (CDI)]]
+- [[PROA - Infecciones Gastrointestinales#2. Infección por Clostridioides Difficile (CDI)|Infección por Clostridioides difficile (CDI)]]
 - [[Vancomicina]]
 - [[Metronidazol]]

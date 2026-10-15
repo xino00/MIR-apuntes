@@ -12,13 +12,13 @@ tags: [urgencias, infecciosas, ginecologia, uro]
 ---
 ## 1. Síndromes Clínicos de ITS
 
-- **[[Uretritis]] / [[Cervicitis]]**:
+- **[[Dermatología 16 - ITS e infecciones víricas cutáneas#Tratamientos adultos no complicados|Uretritis / Cervicitis]]**:
   - *Diagnóstico:* Clínico en Urgencias al objetivar exudado mucoide o purulento. El gold standard es el Gram (>5 leucos/campo + diplococos).
   - *Agentes Comunes:* Neisseria gonorrhoeae, Chlamydia trachomatis.
   - *Tratamiento Empírico:* **[[Ceftriaxona]] 500mg IM** + **[[Doxiciclina]] 100mg/12h oral, 7 días**.
   - *Alternativa (alergia o falta adherencia):* Ceftriaxona + [[Azitromicina]] 1g oral dosis única. Alergia a Betalactámicos: [[Gentamicina]] 240mg IM.
 
-- **[[Proctitis]]**:
+- **Proctitis**:
   - *Diagnóstico:* Dolor anorrectal, tenesmo, exudado rectal. En HSH con úlceras perianales o proctitis grave, sospechar **LGV** (Chlamydia trachomatis L1-L3).
   - *Agentes Comunes:* N. gonorrhoeae, C. trachomatis (incluyendo LGV), HSV, Treponema pallidum.
   - *Tratamiento Estándar:* **[[Ceftriaxona]] 500mg IM** + **[[Doxiciclina]] 100mg/12h oral, 7 días**.
@@ -30,22 +30,22 @@ tags: [urgencias, infecciosas, ginecologia, uro]
   - *Tratamiento si origen no-ITS (varones >35 años o sin factores de riesgo ITS):* **[[Cefixima]] 400mg/24h oral, 14 días**.
   - *Derivar a Urología* en todos los casos al alta.
 
-- **[[Balanitis]] / Postitis**:
+- **Balanitis / Postitis**:
   - *Candidiásica* (más frecuente; eritema, exudado blanquecino, prurito): Clotrimazol 1% crema tópica 7-14 días ± Fluconazol 150mg oral dosis única.
   - *Bacteriana* (eritema sin exudado, fisuras, olor): Higiene local. Si complicada o celulitis: [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 875/125mg/8h, 5-7 días.
   - *Nota:* Si fimosis asociada, derivar a Urología.
 
-- **[[Enfermedad Inflamatoria Pélvica]] (EIP)**:  
+- **Enfermedad Inflamatoria Pélvica (EIP)**:  
   - *Tratamiento Ambulatorio/Ingreso:* [[Ceftriaxona]] 2g/24h IV + [[Metronidazol]] 500mg/8h IV + [[Doxiciclina]] 100mg/12h oral (14 días).
 
-- **[[Herpes Genital]]**:  
+- **[[Dermatología 16 - ITS e infecciones víricas cutáneas#Tratamientos adultos no complicados|Herpes Genital]]**:  
   - *Agente:* Virus Herpes Simple (VHS) tipo 1 y 2. Vesículas de 2-4mm que progresan a úlceras. Tratamiento si <5 días desde inicio o nuevas lesiones vesiculares.
   - *Tratamiento Primer Episodio:* Valaciclovir 500mg/12h oral, 7-10 días.
   - *Tratamiento Recurrencias:* Valaciclovir 500mg/12h oral, 3 días.
   - *Alternativas:* Aciclovir oral o Famciclovir oral (dosis según ficha técnica por tipo de episodio).
   - *Infección grave/diseminada:* Aciclovir 5-10mg/kg/8h IV.
 
-- **[[Sífilis]]**:  
+- **[[Úlcera genital y sífilis#Sífilis|Sífilis]]**:  
   - *Agente:* Treponema pallidum. Puede cursar como Chancro primario, Exantema secundario, Latente, Terciaria (goma/cardio/neuro sífilis).
   - *Tratamiento Primaria/Secundaria/Latente Precoz (<1 año):* Penicilina G Benzatina 2.4 MU IM (dosis única).
   - *Tratamiento Latente Tardía (>1 año) o Indeterminada:* Penicilina G Benzatina 2.4 MU IM (1 vez a la semana durante 3 semanas).
@@ -55,12 +55,12 @@ tags: [urgencias, infecciosas, ginecologia, uro]
 
 ## 2. Úlceras y Vulvovaginitis
 
-- **[[Vulvovaginitis]]**:  
+- **Vulvovaginitis**:  
   - *Vaginosis bacteriana* (Gardnerella - Criterios de Amsel, olor a pescado): [[Metronidazol]] 500mg/12h oral (7 días). Alternativa: Tinidazol 1g/24h oral 7 días.
   - *Tricomoniasis* (T. vaginalis - Cérvix en "fresa"): [[Metronidazol]] 2g oral (dosis única). Alternativa: Tinidazol 2g oral dosis única.
   - *Candidiasis* (C. albicans - Flujo blanquecino/grumos): Clotrimazol 500mg óvulo (dosis única) o Fluconazol 150mg oral (dosis única).
 
-- **[[Pediculosis púbica]]** (Ladillas):  
+- **Pediculosis púbica** (Ladillas):  
   - Permetrina 1% loción o gel. Repetir en 15 días.
 
 > [!info] Enlaces

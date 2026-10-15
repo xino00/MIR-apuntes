@@ -34,14 +34,14 @@ tags: [urgencias, infecciosas, uro]
 ---
 ## 1. Cistitis
 
-- **[[Cistitis no complicada]]**:
+- **[[ITU - Abordaje Inicial y Cistitis#3. Cistitis en mujer no gestante|Cistitis no complicada]]**:
   - *Perfil clínico:* Mujer joven, no embarazada, sin anomalías de vía urinaria ni dispositivo. No requiere urocultivo.
   - *1ª elección:* [[Fosfomicina]] trometamol **3g dosis única**.
   - *2ª elección:* Nitrofurantoína 100mg/12h (o 50mg/8h), **5 días**.
   - *Nota postmenopáusica:* Fosfomicina se puede usar como opción en mujeres postmenopáusicas sin otros factores de riesgo de cistitis complicada.
   - *Contraindicado empírico:* [[Ciprofloxacino]], [[Cotrimoxazol]], [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] (resistencias elevadas en FJD).
 
-- **[[Cistitis complicada]]**:
+- **[[ITU - Abordaje Inicial y Cistitis#4. Varón y cistitis con factores de riesgo|Cistitis complicada]]**:
   - *Perfil clínico:* Alteraciones anatómicas, litiasis, varones*, inmunodeprimidos, DM mal controlada, sondas, persistencia de síntomas tras 5-7d. **Requiere urocultivo previo al antibiótico.**
   - *1ª elección:* [[Fosfomicina]] trometamol **3g + 2ª dosis a las 48h**.
   - *2ª elección:* [[Cefixima]] 400mg/24h, **7 días**.

@@ -12,7 +12,7 @@ Bactericida. Inhibe la síntesis y reparación de la pared bacteriana. Resistent
 
 ## 2. Indicaciones Clínicas Principales
 Tratamiento sistémico de infecciones graves producidas por estafilococos productores de penicilinasa (sensibles a cloxacilina):
-- Infecciones de la piel y tejidos blandos ([[Celulitis]], impétigo severo, furunculosis).
+- Infecciones de la piel y tejidos blandos ([[Celulitis, erisipela y fascitis necrosante|Celulitis]], impétigo severo, furunculosis).
 - Endocarditis estafilocócica derecha (ADVP).
 - Osteomielitis y artritis séptica, neumonía estafilocócica.
 - Infecciones relacionadas con catéter (Bacteriemia por SAMS).

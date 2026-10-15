@@ -48,6 +48,6 @@ Glucocorticoide sintético de muy alta potencia antiinflamatoria e inmunosupreso
   - **8-20 mg IV** antes de la infusión de QT, según el potencial emetogénico del protocolo.
 
 ## 🔗 Relacionados
-- [[Edema Cerebral]]
-- [[Meningitis]]
+- [[Hipertensión Intracraneal|Edema Cerebral]]
+- [[Meningitis y Encefalitis]]
 - [[Sepsis y Shock Séptico]]

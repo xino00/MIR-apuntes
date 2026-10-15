@@ -15,16 +15,16 @@ Bactericida (Bacteriostático frente a Enterococos). Inhibe la síntesis de la p
 
 Tratamiento sistémico (intravenoso) o local (enteral) frente a multirresistentes Gram-positivos:
 
-- [[Neumonía Nosocomial]] o [[Sepsis]] y bacteriemia por catéter (Cobertura empírica para SARM intrahospitalario grave crónico o UCI). 
-- Infección grave de Piel y partes blandas (**[[Celulitis]]** o fascitis necrosante con prevalencia SARM comunitaria u hospitalaria). Ver [[PROA - Infecciones de Piel y Partes Blandas]].
-- [[Endocarditis]] estafilocócica/estreptocócica en pacientes con válvulas protésicas tardías o franca anafilaxia severa (Tipo I) a las penicilinas.
-- **Vía Oral Estricta (No se absorbe nada a nivel sistémico):** Único uso oficial de la formulación oral/enteral es la **[[Infección por Clostridioides difficile (CDI)]]** moderada/grave o refractaria.
+- [[Infecciones Nosocomiales#3. Neumonía nosocomial (NN / NIH / NAV)|Neumonía Nosocomial]] o [[Sepsis y Shock Séptico|Sepsis]] y bacteriemia por catéter (Cobertura empírica para SARM intrahospitalario grave crónico o UCI). 
+- Infección grave de Piel y partes blandas (**[[Celulitis, erisipela y fascitis necrosante|Celulitis]]** o fascitis necrosante con prevalencia SARM comunitaria u hospitalaria). Ver [[PROA - Infecciones de Piel y Partes Blandas]].
+- [[Endocarditis Infecciosa|Endocarditis]] estafilocócica/estreptocócica en pacientes con válvulas protésicas tardías o franca anafilaxia severa (Tipo I) a las penicilinas.
+- **Vía Oral Estricta (No se absorbe nada a nivel sistémico):** Único uso oficial de la formulación oral/enteral es la **[[PROA - Infecciones Gastrointestinales#2. Infección por Clostridioides Difficile (CDI)|Infección por Clostridioides difficile (CDI)]]** moderada/grave o refractaria.
 
 ## 3. Contraindicaciones y Precauciones
 
 - **Margen Terapéutico (Niveles Valle):** Monitorización farmacocinética **estricta obligatoria** (*C-trough* pre-dosis en la 4ª administración -> Idealmente entre 15 - 20 mg/L dependiendo foco). Ver dosis en la guía general PROA: [[PROA - Otros Antimicrobianos]].
 - **Insuficiencia Renal (Ajuste Crucial):** Excreción general íntegra por filtrado activo. Ajuste obligatorio espaciando los intervalos posológicos a 24h, 48h o más si FG < 50 ml/min. Necesita monitoreo cuidadoso pre/post sesión de diálisis.
-- **Sinergia Nefrotóxica:** Aumenta exponencialmente el [[Fracaso Renal Agudo]] si se combina con Aminoglucósidos (como **[[Amikacina]]**), Piperacilina-Tazobactam o se utiliza en un contexto hipovolémico o de **[[Shock]]**.
+- **Sinergia Nefrotóxica:** Aumenta exponencialmente el [[Fracaso Renal Agudo (FRA)|Fracaso Renal Agudo]] si se combina con Aminoglucósidos (como **[[Amikacina]]**), Piperacilina-Tazobactam o se utiliza en un contexto hipovolémico o de **[[Shock]]**.
 
 ## 4. Reacciones Adversas (RAM) Frecuentes
 
@@ -51,5 +51,5 @@ Tratamiento sistémico (intravenoso) o local (enteral) frente a multirresistente
 
 ## 🔗 Relacionados
 - [[PROA - Otros Antimicrobianos]]
-- [[Infección por Clostridioides difficile (CDI)]]
+- [[PROA - Infecciones Gastrointestinales#2. Infección por Clostridioides Difficile (CDI)|Infección por Clostridioides difficile (CDI)]]
 - [[Amikacina]]

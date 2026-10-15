@@ -13,25 +13,25 @@ tags: [urgencias, infecciosas, digestivo]
 ---
 ## 1. Patrones de Diarrea
 
-- **[[Gastroenteritis aguda no inflamatoria]]**:  
+- **[[Gastroenteritis Aguda (GEA)|Gastroenteritis aguda no inflamatoria]]**:  
   - *Agentes:* Rotavirus, Norovirus, Adenovirus; Toxinas (S. aureus, B. cereus, V. cholerae); Parásitos (Giardia).
   - *Manejo:* Autolimitados (75% virus). **El tratamiento antibiótico no está indicado** ni siquiera en las toxigénicas, ya que no acorta el cuadro. 
   - *Tratamiento:* Rehidratación y sintomático.
 
-- **[[Diarrea inflamatoria]]**:  
+- **[[Gastroenteritis Aguda (GEA)#Indicaciones de antibioterapia empírica|Diarrea inflamatoria]]**:  
   - *Agentes:* Salmonella, Shigella, Campylobacter, E. coli enterohemorrágico, Yersinia.
   - *Indicación Empírica:* SÍ está indicado el tratamiento antibiótico empírico si hay sospecha bacteriana con signos de alarma (inmunodepresión, cuadro sistémico grave, malnutrición o fiebre alta con grave afectación del estado general).
   - *Tratamiento Empírico:* [[Ciprofloxacino]] 500mg/12h (3 días).
   - *Si sospecha de Campylobacter (o embarazo):* [[Azitromicina]] 500mg/24h (3 días).
 
-- **[[Diarrea del viajero]]**:  
+- **[[Enfermedades del Viajero - Aproximación Práctica#2. Diarrea del viajero|Diarrea del viajero]]**:  
   - *Definición:* ≥3 deposiciones blandas/líquidas en 24h + 1 síntoma acompañante (dolor abdominal, tenesmo, náuseas, vómitos, urgencia o fiebre) en paciente que viaja (60% en la 1ª semana).
   - *Leve:* Sintomático (Loperamida/Racecadotrilo + Rehidratación).
   - *Moderada/Grave:* [[Ciprofloxacino]] 500mg/12h. Si viaje a India o Sudeste Asiático: [[Azitromicina]] 500mg/8h (3 días).
 
 ## 2. Infección por Clostridioides Difficile (CDI)
 
-- **[[Infección por Clostridiodes difficile (CDI)]]**:  
+- **Infección por *Clostridioides difficile* (CDI)**:  
   - *Factor de Riesgo Principal:* Uso reciente de antibioterapia de amplio espectro.
   - *Diagnóstico:* Clínico + detección de toxina/PCR (inmunocromatografía).
   - *Concepto Clave:* La curación se define por la resolución clínica, **NO** por la negativización de la toxina en heces (no repetir cultivo para "test de cura"). La principal complicación es la recurrencia.

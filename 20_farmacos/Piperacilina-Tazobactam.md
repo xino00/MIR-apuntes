@@ -12,11 +12,11 @@ Bactericida. La piperacilina inhibe la síntesis de la pared celular bacteriana;
 
 ## 2. Indicaciones Clínicas Principales
 Tratamiento intravenoso empírico de primera línea para infecciones graves intra o extrahospitalarias:
-- [[Neumonía Nosocomial]] y Neumonía Asociada a Ventilación Mecánica (NAVM).
+- [[Infecciones Nosocomiales#3. Neumonía nosocomial (NN / NIH / NAV)|Neumonía Nosocomial]] y Neumonía Asociada a Ventilación Mecánica (NAVM).
 - Infección intraabdominal complicada (peritonitis, abscesos, colecistitis).
 - Infección complicada del tracto urinario ([[Pielonefritis Aguda]]).
 - Infecciones graves de piel y partes blandas (pie diabético).
-- [[Neutropenia Febril]] de alto riesgo o [[Sepsis]] de origen biliar/abdominal.
+- [[Neutropenia Febril]] de alto riesgo o [[Sepsis y Shock Séptico|Sepsis]] de origen biliar/abdominal.
 
 ## 3. Contraindicaciones y Precauciones
 - **Hipersensibilidad:** Alergia cruzada grave a penicilinas y betalactámicos.
@@ -24,7 +24,7 @@ Tratamiento intravenoso empírico de primera línea para infecciones graves intr
 - **Perfusiones Extendidas:** Para garantizar un óptimo T>CMI frente a *P. aeruginosa*, se recomienda administrar en **perfusión extendida de 3 a 4 horas** (Ver [[PROA - Betalactámicos y Cefalosporinas]]).
 
 ## 4. Reacciones Adversas (RAM) Frecuentes
-- **Toxicidad Renal:** Aumenta exponencialmente el riesgo de [[Fracaso Renal Agudo]] cuando se coadministra en sinergia con **[[Vancomicina]]**.
+- **Toxicidad Renal:** Aumenta exponencialmente el riesgo de [[Fracaso Renal Agudo (FRA)|Fracaso Renal Agudo]] cuando se coadministra en sinergia con **[[Vancomicina]]**.
 - **Gastrointestinales:** Diarrea frecuente y riesgo de infección por *Clostridioides difficile*.
 - **Hematológicas:** Trombocitopenia y neutropenia dosis y tiempo-dependientes (>14 días).
 - **Neurológicas:** Riesgo de convulsiones a dosis muy altas o por falta de ajuste renal.

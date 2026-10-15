@@ -17,9 +17,9 @@ Disfunción orgánica potencialmente mortal causada por una respuesta del huésp
 
 ## Orientación rápida por situación clínica
 
-- **Sospecha de sepsis en urgencias → diagnóstico, screening, bundle de 1h:** [[Sepsis - Abordaje Inicial (SSC 2026)]]
+- **Sospecha de sepsis en urgencias → diagnóstico, screening, bundle de 1h, antibiótico empírico por foco:** [[Sepsis - Abordaje Inicial (SSC 2026)]]
 - **Fluidoterapia, vasopresores (Noradrenalina primera línea), monitorización:** [[Sepsis - Hemodinámica y Reanimación]]
-- **Antibiótico empírico por foco, bacteriemia por catéter, candidemia, ventilación:** [[Sepsis - Antiinfecciosos y Soporte Vital]]
+- **Antibiótico empírico con foco desconocido, bacteriemia por microorganismo, candidemia, ventilación, corticoides:** [[Sepsis - Antiinfecciosos y Soporte Vital]] · ver también [[Bacteriemia y Candidemia]] e [[Infecciones Nosocomiales]] (infección por catéter)
 - **Objetivos de cuidados, rehabilitación post-UCI, síndrome post-sepsis:** [[Sepsis - Cuidados Post-UCI y Objetivos]]
 
 ---

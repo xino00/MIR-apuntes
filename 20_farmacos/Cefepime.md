@@ -15,8 +15,8 @@ Bactericida. Destaca por aunar un excelente espectro de cobertura gram-negativa 
 
 Tratamiento intravenoso hospitalario empírico ante sospecha de infecciones nosocomiales de alto grado:
 
-- [[Neumonía Nosocomial]] o Neumonía Asociada a la Ventilación Mecánica (NAV).
-- [[Sepsis]] grave de etiología desconocida en el entorno crítico.
+- [[Infecciones Nosocomiales#3. Neumonía nosocomial (NN / NIH / NAV)|Neumonía Nosocomial]] o Neumonía Asociada a la Ventilación Mecánica (NAV).
+- [[Sepsis y Shock Séptico|Sepsis]] grave de etiología desconocida en el entorno crítico.
 - [[Neutropenia Febril]] severa de alto riesgo (como monoterapia antipseudomónica).
 - Infección intraabdominal u operatoria compleja (se debe coadministrar con un fármaco antianaeróbico, típicamente **[[Metronidazol]]**).
 - Infección complicada o [[Pielonefritis Aguda]] en el paciente urológico nosocomial.
@@ -29,7 +29,7 @@ Tratamiento intravenoso hospitalario empírico ante sospecha de infecciones noso
 
 ## 4. Reacciones Adversas (RAM) Frecuentes
 
-- **Neurotoxicidad Grave (Encefalopatía por Cefepime):** Una RAM característica y potencialmente fatal mediada por alta permeancia de BHE. Ocurre casi en exclusiva por omision de ajuste renal de dosis. Se presenta como [[Encefalopatía]] estuporosa difusa, disminución del nivel de consciencia, hiperreflexia, mioclonías tórpidas repetidas y status epiléptico no convulsivo (SENC). El cese absoluto de la infusión revierte el cuadro.
+- **Neurotoxicidad Grave (Encefalopatía por Cefepime):** Una RAM característica y potencialmente fatal mediada por alta permeancia de BHE. Ocurre casi en exclusiva por omision de ajuste renal de dosis. Se presenta como [[Encefalopatías Metabólicas y Tóxicas|Encefalopatía]] estuporosa difusa, disminución del nivel de consciencia, hiperreflexia, mioclonías tórpidas repetidas y status epiléptico no convulsivo (SENC). El cese absoluto de la infusión revierte el cuadro.
 - **Microbiológicas:** *Colitis pseudomembranosa* y exacerbaciones fúngicas (candidiasis vaginal, estomatitis) por amplio espectro.
 - Flebitis o fuerte dolor vascular asociado en perfusiones por vía periférica.
 

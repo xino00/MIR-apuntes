@@ -26,7 +26,7 @@ Inflamación del peritoneo por contaminación de la cavidad (microorganismos, ir
 
 | Tipo | Frecuencia | Contexto y microbiología | Manejo |
 |---|---|---|---|
-| **Primaria (PBE)** | 1-2% | Sin perforación; ascitis (cirrosis, s. nefrótico) o diálisis peritoneal. **Monobacteriana**. Cirrosis: BGN (*E. coli*, *K. pneumoniae*) + *S. pneumoniae*/enterococos. Diálisis: flora cutánea (*S. aureus*, ECN, *viridans*) | **Conservador con ATB** (ver [[Cirrosis Hepática y sus Complicaciones]] para PBE) |
+| **Primaria (PBE)** | 1-2% | Sin perforación; ascitis (cirrosis, s. nefrótico) o diálisis peritoneal. **Monobacteriana**. Cirrosis: BGN (*E. coli*, *K. pneumoniae*) + *S. pneumoniae*/enterococos. Diálisis: flora cutánea (*S. aureus*, ECN, *viridans*) | **Conservador con ATB** (ver [[Complicaciones de la Cirrosis Hepática#PBE — Peritonitis Bacteriana Espontánea\|Complicaciones de la Cirrosis Hepática]] para PBE) |
 | **Secundaria** | **90%** | Perforación, necrosis, cirugía o trauma. **Polimicrobiana**: enterobacterias (*E. coli*, *Klebsiella*), enterococos, **anaerobios** (*B. fragilis*; ↑ proporción al avanzar distalmente) | **Cirugía** (control del foco) + ATB |
 | **Terciaria** | — | Infección recurrente/persistente tras una 2.ª/1.ª no resuelta. **Mortalidad 30-60%**. Cultivos a menudo negativos: ECN, enterococos, ***Candida***, BGN-MR (*P. aeruginosa*, *Acinetobacter*) | Quirúrgico + ATB de amplio espectro (ver tabla §3) |
 

@@ -13,28 +13,28 @@ tags: [urgencias, infecciosas, dermato]
 ---
 ## 1. Infecciones Superficiales
 
-- **[[Impétigo]]**:  
+- **[[Dermatología 15 - Infecciones bacterianas y micosis superficiales#Bacterianas superficiales|Impétigo]]**:  
   - *Agentes:* S. aureus, S. pyogenes.
   - *Tratamiento:* Tópico con Mupirocina o Ácido Fusídico (2-3 aplicaciones/día por 5 días).
 
-- **[[Foliculitis]]**:  
+- **[[Dermatología 15 - Infecciones bacterianas y micosis superficiales#Bacterianas superficiales|Foliculitis]]**:  
   - *Agentes:* S. aureus, S. pyogenes.
   - *Tratamiento:* Medidas de higiene, lavados. Igual actitud que impétigo si severo.
 
-- **[[Erisipela]]**:  
+- **[[Celulitis, erisipela y fascitis necrosante#Celulitis/erisipela no purulenta|Erisipela]]**:  
   - *Agentes:* S. pyogenes (Afectación dermo-epidérmica superficial, bordes muy delimitados y sobre-elevados). 
-  - *Tratamiento Mantenimiento:* [[Cefadroxilo]] 500mg/8h o Cefalexina 500mg/8h (5 días, hasta 10-14 días si complicaciones).
+  - *Tratamiento Mantenimiento:* Cefadroxilo 500mg/8h o Cefalexina 500mg/8h (5 días, hasta 10-14 días si complicaciones).
   - *Alternativas:* [[Amoxicilina]] 500mg/8h. No suele pedir hemocultivo.
 
 ## 2. Infecciones Profundas y Celulitis
 
-- **[[Celulitis]]**:  
+- **[[Celulitis, erisipela y fascitis necrosante|Celulitis]]**:  
   - *Agentes:* S. aureus, S. pyogenes, Gram Negativos (en hepatopatía crónica/inmunodeprimidos). Afecta a dermis profunda y tejido subcutáneo (bordes mal definidos).
-  - *Tratamiento Empírico Ambulatorio:* [[Cefadroxilo]] 500mg/8h o Cefalexina 500mg/8h (Dura 5-10 días).
+  - *Tratamiento Empírico Ambulatorio:* Cefadroxilo 500mg/8h o Cefalexina 500mg/8h (Dura 5-10 días).
   - *Si sospecha SARM (Staph Aureus Metilin Resistente):* Factores riesgo (hospitalización, antibioterapia en 3m, toxicómanos, deportes de contacto) -> *Elección:* [[Clindamicina]] 300mg/8h, o [[Cotrimoxazol]] 800/160mg/12h o Linezolid 600mg/12h.
   - *Si Celulitis Complicada / Inmunodeprimidos:* [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 875/125mg/8h. Extraer hemocultivos si hay signos de gravedad.
 
-- **[[Absceso cutáneo]]**:  
+- **[[Celulitis, erisipela y fascitis necrosante#Absceso/forúnculo|Absceso cutáneo]]**:  
   - *Tratamiento principal:* Incisión y Drenaje. Muchos NO precisan antibioterapia.
   - *Indicación de antibiótico:* Fiebre sistémica, tamaño >5cm, celulitis extensa asociada, localización compleja (cara, manos, genitales), inmunosupresión o válvulas cardíacas.
   - *Tratamiento Antibiótico (si indicado):* Cefalexina 500mg/8h o [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 875/125mg/8h si es perianal.

@@ -26,9 +26,9 @@ Para consultar las indicaciones empíricas de primera línea, alternativas por a
 
 Para consultar las pautas estándar, los ajustes avanzados según el FG (< 30 ml/min), consideraciones en Terapias de Reemplazo Renal, insuficiencia hepática y particularidades sobre perfusiones extendidas o medición de niveles séricos, accede a las guías detalladas por familias:
 
-- 🛡️ **[[PROA - Betalactámicos y Cefalosporinas]]**: Penicilina G/V, [[Ampicilina]], [[Amoxicilina]], Amox/Clavulánico, [[Cloxacilina]], Pip/Tazo, [[Cefazolina]], [[Cefuroxima]], [[Cefotaxima]], [[Ceftriaxona]], [[Cefixima]], [[Cefditoreno]], [[Ceftazidima]], Ceftazidima/Avibactam, Ceftolozano/Tazobactam, [[Ceftarolina]], Cefiderocol, [[Cefepime]], [[Aztreonam]], [[Ertapenem]], Imipenem/Cilastatina, [[Meropenem]], Meropenem/Vaborbactam, [[Rifampicina]].
-- 🎯 **[[PROA - Quinolonas y Macrólidos]]**: [[Ciprofloxacino]], [[Levofloxacino]], [[Moxifloxacino]], [[Azitromicina]], [[Claritromicina]], [[Clindamicina]], [[Doxiciclina]], [[Linezolid]].
-- ⚖️ **[[PROA - Otros Antimicrobianos]]**: [[Tobramicina]], [[Amikacina]], [[Gentamicina]], [[Vancomicina]], [[Teicoplanina]], [[Daptomicina]], [[Dalbavancina]], [[Tigeciclina]], Fidaxomicina, Colistina, [[Fosfomicina]], [[Cotrimoxazol]], [[Metronidazol]].
+- 🛡️ **[[PROA - Betalactámicos y Cefalosporinas]]**: Penicilina G/V, [[PROA - Betalactámicos y Cefalosporinas#Ampicilina|Ampicilina]], [[Amoxicilina]], [[Amoxicilina-Clavulanico|Amox/Clavulánico]], [[Cloxacilina]], [[Piperacilina-Tazobactam|Pip/Tazo]], [[PROA - Betalactámicos y Cefalosporinas#Cefazolina (1ª Generación)|Cefazolina]], [[Cefuroxima]], [[PROA - Betalactámicos y Cefalosporinas#Cefotaxima (3ª Generación)|Cefotaxima]], [[Ceftriaxona]], [[Cefixima]], [[PROA - Betalactámicos y Cefalosporinas#Cefditoreno (3ª Generación Oral)|Cefditoreno]], [[Ceftazidima]], Ceftazidima/Avibactam, Ceftolozano/Tazobactam, [[PROA - Betalactámicos y Cefalosporinas#Ceftarolina (5ª Generación, Anti-SARM)|Ceftarolina]], Cefiderocol, [[Cefepime]], [[PROA - Betalactámicos y Cefalosporinas#Aztreonam|Aztreonam]], [[Ertapenem]], Imipenem/Cilastatina, [[Meropenem]], Meropenem/Vaborbactam, [[PROA - Betalactámicos y Cefalosporinas#Rifampicina|Rifampicina]].
+- 🎯 **[[PROA - Quinolonas y Macrólidos]]**: [[Ciprofloxacino]], [[Levofloxacino]], [[PROA - Quinolonas y Macrólidos#Moxifloxacino|Moxifloxacino]], [[Azitromicina]], [[Claritromicina]], [[Clindamicina]], [[Doxiciclina]], [[Linezolid]].
+- ⚖️ **[[PROA - Otros Antimicrobianos]]**: [[PROA - Otros Antimicrobianos#Tobramicina|Tobramicina]], [[Amikacina]], [[Gentamicina]], [[Vancomicina]], [[PROA - Otros Antimicrobianos#Teicoplanina|Teicoplanina]], [[PROA - Otros Antimicrobianos#Daptomicina|Daptomicina]], [[PROA - Otros Antimicrobianos#Dalbavancina|Dalbavancina]], [[PROA - Otros Antimicrobianos#Tigeciclina|Tigeciclina]], [[Fidaxomicina]], Colistina, [[Fosfomicina]], [[Cotrimoxazol]], [[Metronidazol]].
 
 > [!important] Ajuste Renal General
 > El Filtrado Glomerular (FG) marca el ritmo de administración. Las **dosis de carga** (ej. Vancomicina o Aminoglucósidos en situaciones críticas) generalmente **NO** se modifican en insuficiencia renal per se, solo se ajustan las posteriores de mantenimiento.
@@ -65,11 +65,11 @@ El paso de antibiótico intravenoso a oral puede realizarse de forma segura cuan
 | [[Linezolid]] | ~100% | ✅ Siempre (IV = VO) |
 | [[Metronidazol]] | 90-100% | ✅ Siempre |
 | [[Levofloxacino]] | ~99% | ✅ Siempre |
-| [[Rifampicina]] | ~90-95% | ✅ Siempre |
+| [[PROA - Betalactámicos y Cefalosporinas#Rifampicina\|Rifampicina]] | ~90-95% | ✅ Siempre |
 | [[Doxiciclina]] | ~93% | ✅ Siempre |
 | [[Cotrimoxazol]] | ~90-95% | ✅ Siempre |
 | [[Clindamicina]] | ~90% | ✅ Siempre |
-| [[Moxifloxacino]] | ~91% | ✅ Siempre |
+| [[PROA - Quinolonas y Macrólidos#Moxifloxacino\|Moxifloxacino]] | ~91% | ✅ Siempre |
 | [[Ciprofloxacino]] | 70-80% | ✅ Generalmente |
 | [[Amoxicilina]] | ~70% | ✅ Generalmente |
 | [[Claritromicina]] | ~50% | ⚠️ Con cautela en infecciones graves |
@@ -79,7 +79,7 @@ El paso de antibiótico intravenoso a oral puede realizarse de forma segura cuan
 | [[Cefuroxima]] | ~52% (administrar con alimentos) | ⚠️ Adecuado para infecciones leves-moderadas |
 | [[Cloxacilina]] | ~43% (administrar en ayunas) | ⚠️ Solo para infecciones ambulatorias |
 | Penicilina V | ~60% (administrar en ayunas) | ⚠️ Adecuado para faringitis estreptocócica |
-| [[Cefditoreno]] | ~15-20% (aumenta con comida) | ❌ Solo para infecciones ambulatorias leves |
+| [[PROA - Betalactámicos y Cefalosporinas#Cefditoreno (3ª Generación Oral)\|Cefditoreno]] | ~15-20% (aumenta con comida) | ❌ Solo para infecciones ambulatorias leves |
 | Eritromicina | ~35-75% | ⚠️ Variable, usar con cautela |
 | [[Fosfomicina]] trometamol | ~33-53% (administrar en ayunas) | ⚠️ Adecuado para cistitis (acción local) |
 | Betalactámicos IV (Ceftriaxona, Meropenem…) | 0% | ❌ No disponibles vía oral |

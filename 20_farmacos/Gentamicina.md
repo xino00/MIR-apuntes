@@ -14,7 +14,7 @@ Bactericida. Inhibidor ribosomal subunidad 30S (interferencia irreversible de le
 Debido a la emergencia de resistencias (hoy por hoy Amikacina la supera en BGN multiresistentes en UCI), **Gentamicina** queda habitualmente reservada a roles sinérgicos, infecciones severas puntuales o perfiles de endocarditis:
 - Sinergia indispensable clásica en el tratamiento de la **Endocarditis Infecciosa** por Enterococos (y otras si precisa doble cobertura). (Dosis bajas sinérgicas IV: 3mg/kg/d limitadas en tiempo por daño biológico acumulativo).
 - Peritonitis Pélvicas o posquirúrgicas intrahospitalarias de origen mixto severo. Terapia Empírica Grave Genérica Intrahospitalaria. 
-- Alternativa sistémica en **[[Enfermedad Inflamatoria Pélvica]]** grave (si alérgico y no se da [[Ceftriaxona]] o Cefoxitina inicial). Alergia estricta general. 
+- Alternativa sistémica en **[[PROA - Infecciones de Transmisión Sexual (ITS)|Enfermedad Inflamatoria Pélvica]]** grave (si alérgico y no se da [[Ceftriaxona]] o Cefoxitina inicial). Alergia estricta general. 
 
 ## 3. Contraindicaciones y Precauciones
 - **Monitorización de NIVELES (Estrecho Margen):** Su índice terapéutico / tóxico es escasísimo. Reajuste de dosis riguroso general, limitando la posología en insuficiencia renal y controlando frecuentemente los picos (Eficacia bactericida masiva 1 vez día) y valles (Prevención nefrotoxicidad extrema intrarrenal), ver [[PROA - Otros Antimicrobianos]].

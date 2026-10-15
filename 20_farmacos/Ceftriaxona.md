@@ -15,7 +15,7 @@ Bactericida. Vida media muy prolongada por su alta unión a proteínas, permitie
 
 Tratamiento intravenoso (IV) o intramuscular (IM) empírico o dirigido:
 
-- [[Meningitis bacteriana]] y [[Sepsis]] grave de origen respiratorio o desconocido.
+- [[Meningitis y Encefalitis|Meningitis bacteriana]] y [[Sepsis y Shock Séptico|Sepsis]] grave de origen respiratorio o desconocido.
 - Infección intraabdominal grave, Peritonitis Bacteriana Espontánea (PBE).
 - [[Pielonefritis Aguda]] e infecciones urinarias severas (ver [[PROA - Infecciones del Tracto Urinario (ITU)]]).
 - Urgencias de ITS (Gonococia, EPI, Sífilis precoz o tardía) (ver [[PROA - Infecciones de Transmisión Sexual (ITS)]]).
@@ -48,7 +48,7 @@ Tratamiento intravenoso (IV) o intramuscular (IM) empírico o dirigido:
 - [[PROA - Betalactámicos y Cefalosporinas]]
 - [[PROA - Infecciones Respiratorias]]
 
-- **Digestivas y Biliares:** Diarrea severa y alto riesgo de [[Infección por Clostridioides difficile (CDI)]]. 
+- **Digestivas y Biliares:** Diarrea severa y alto riesgo de [[PROA - Infecciones Gastrointestinales#2. Infección por Clostridioides Difficile (CDI)|Infección por Clostridioides difficile (CDI)]]. 
 - **Barro Biliar / Pseudolitiasis:** Precipitación asintomática (o cólica) de sales de calcio en la vesícula biliar. Es un proceso reversible al suspender el tratamiento y raramente requiere cirugía.
 - **Hematológicas:** Citopenias reversibles, prolongación del tiempo de protrombina.
 - **Cutáneas:** Exantema maculopapular alérgico.

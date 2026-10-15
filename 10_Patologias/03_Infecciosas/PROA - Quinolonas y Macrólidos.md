@@ -29,7 +29,7 @@ Esta guía detalla la dosificación extensa, ajustes renales, dosis hepáticas e
 - **Ajuste Diálisis/TRRC:** HD/DP: Dosis inicial 500mg → 125mg/24h (post-sesión en HD). TRRC: 250-500mg / 24h.
 - **Ajuste Hepático:** No requiere.
 
-### [[Moxifloxacino]]
+### Moxifloxacino
 - **Dosis Estándar (S):** VO/IV 400mg / 24h.
 - **Ajuste Renal (S):** No requiere ajuste (excreción biliar/fecal predominante).
 - **Ajuste Diálisis/TRRC:** No requiere ajuste.

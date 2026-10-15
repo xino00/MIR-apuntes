@@ -15,10 +15,10 @@ Bactericida ultrarresistente. Inhibe potentemente la síntesis de pared celular 
 
 Tratamiento intravenoso dirigido a infecciones nosocomiales catastróficas o como empirismo máximo en pacientes críticos (evitar su abuso para prevenir Enterobacterias Resistentes a Carbapenémicos [ERC]):
 
-- [[Neumonía Nosocomial]] de alto grado y Neumonía Asociada a la Ventilación Mecánica (NAVM).
-- [[Meningitis bacteriana]] grave purulenta de etiología incierta o en pacientes postquirúrgicos. 
+- [[Infecciones Nosocomiales#3. Neumonía nosocomial (NN / NIH / NAV)|Neumonía Nosocomial]] de alto grado y Neumonía Asociada a la Ventilación Mecánica (NAVM).
+- [[Meningitis y Encefalitis|Meningitis bacteriana]] grave purulenta de etiología incierta o en pacientes postquirúrgicos. 
 - Infección intraabdominal complicada grave en peritonitis fecaloidea cruzada.
-- [[Sepsis]] grave, [[Neutropenia Febril]] de muy alto riesgo o [[Shock]] de foco y aislamiento desconocido.
+- [[Sepsis y Shock Séptico|Sepsis]] grave, [[Neutropenia Febril]] de muy alto riesgo o [[Shock]] de foco y aislamiento desconocido.
 - Bronquiectasias de Fibrosis Quística con aislamiento respiratorio de *P. aeruginosa*.
 
 ## 3. Contraindicaciones y Precauciones

@@ -16,8 +16,8 @@ Bactericida de concentración-dependiente y potente efecto post-antibiótico. In
 Uso sistémico intrahospitalario reservado para pacientes graves, frecuentemente en terapia combinada empírica:
 
 - Infección grave del Tracto Urinario multirresistente (Pielonefritis o Prostatitis). Ver [[PROA - Infecciones del Tracto Urinario (ITU)]].
-- [[Sepsis]] biliar o intraabdominal posquirúrgica (combinado con un antianaerobio).
-- [[Neumonía Nosocomial]] o Asociada a Ventilación Mecánica (NAV) como cobertura empírica doble antipseudomónica inicial.
+- [[Sepsis y Shock Séptico|Sepsis]] biliar o intraabdominal posquirúrgica (combinado con un antianaerobio).
+- [[Infecciones Nosocomiales#3. Neumonía nosocomial (NN / NIH / NAV)|Neumonía Nosocomial]] o Asociada a Ventilación Mecánica (NAV) como cobertura empírica doble antipseudomónica inicial.
 - [[Neutropenia Febril]] grave en el paciente oncohematológico.
 
 ## 3. Contraindicaciones y Precauciones

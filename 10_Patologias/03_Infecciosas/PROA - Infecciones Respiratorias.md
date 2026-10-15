@@ -9,7 +9,7 @@ tags: [urgencias, infecciosas, respiratorio, asma_epoc]
 ---
 ## 1. Vías Altas
 
-- **[[Faringitis aguda]]**:
+- **[[Faringoamigdalitis Aguda|Faringitis aguda]]**:
   - *Diagnóstico:* Evaluar siempre con los **Criterios de Centor** (Fiebre >38ºC, Exudado amigdalar, Adenopatías anteriores dolorosas, Ausencia de tos, Edad 3-14 años [+1] / >45 años [-1]). ≤2 puntos: no test ni antibiótico. ≥3 puntos: test rápido de estreptococo y valorar tratamiento.
   - *1ª elección:* **Fenoximetilpenicilina (Penilevel) 500mg/12h, 10 días**.
   - *Alternativa:* [[Amoxicilina]] 500mg/8h, 5-7 días.
@@ -42,8 +42,8 @@ tags: [urgencias, infecciosas, respiratorio, asma_epoc]
 
 | Gravedad | Criterio | 1ª elección | Alternativa |
 | :--- | :--- | :--- | :--- |
-| **Leve** (FEV1 >80%) sin comorbilidad, o **Moderada** sin comorbilidad | — | [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 500/125mg/8h, **5 días** | [[Azitromicina]] 500mg/24h 3d · Cefuroxima 500mg/12h 5d |
-| **Moderada** (FEV1 50-79%) con comorbilidad y **Grave** (30-49%) | — | [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 500/125mg/8h, **5-7 días** | Cefditoreno 200mg/12h 5-7d · [[Levofloxacino]] 500mg/24h 5-7d |
+| **Leve** (FEV1 >80%) sin comorbilidad, o **Moderada** sin comorbilidad | — | [[Amoxicilina-Clavulanico\|Amoxicilina/Clavulánico]] 500/125mg/8h, **5 días** | [[Azitromicina]] 500mg/24h 3d · Cefuroxima 500mg/12h 5d |
+| **Moderada** (FEV1 50-79%) con comorbilidad y **Grave** (30-49%) | — | [[Amoxicilina-Clavulanico\|Amoxicilina/Clavulánico]] 500/125mg/8h, **5-7 días** | Cefditoreno 200mg/12h 5-7d · [[Levofloxacino]] 500mg/24h 5-7d |
 | **Muy grave** (FEV1 <30%) o sospecha *P. aeruginosa* | — | [[Ciprofloxacino]] 750mg/12h, **7-10 días** | Cefditoreno 200mg/12h, 7-10d |
 
 - **[[Neumonía Adquirida en la Comunidad (NAC)]]**:
@@ -53,7 +53,7 @@ tags: [urgencias, infecciosas, respiratorio, asma_epoc]
 | :--- | :--- | :--- |
 | **<65 años**, sin comorbilidad, **neumonía típica** | [[Amoxicilina]] 1000mg/8h, **5 días** | Alergia: [[Levofloxacino]] 500mg/24h 5d · Cefditoreno 400mg/12h 5d |
 | Elevada sospecha de **patógeno atípico** (cualquier edad) | [[Azitromicina]] 500mg/24h, **3 días** (hasta 7d según patógeno) | — |
-| **>65 años**, comorbilidades, EPOC, fumador, institucionalizado o ≥3 ciclos ATB/año previo | [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 875/125mg/8h, **7 días** | [[Levofloxacino]] 500mg/24h 7d |
+| **>65 años**, comorbilidades, EPOC, fumador, institucionalizado o ≥3 ciclos ATB/año previo | [[Amoxicilina-Clavulanico\|Amoxicilina/Clavulánico]] 875/125mg/8h, **7 días** | [[Levofloxacino]] 500mg/24h 7d |
 
 > [!info] Enlaces
 > Volver al Índice Principal: [[PROA - Guía de Antimicrobianos y Síndromes Infecciosos]]

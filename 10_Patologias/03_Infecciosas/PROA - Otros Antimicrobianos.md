@@ -22,7 +22,7 @@ Esta guía detalla fármacos de uso frecuente con estrecho margen terapéutico (
 - **Ajuste Diálisis/TRRC:** HD/DP: 5-12.5 mg/kg (Dar 3 veces por semana post-diálisis el día que toque sesión). TRRC: Inicial 15-25 mg/kg / 48h.
 - **Niveles (Pico y Valle):** Medir 30 min tras la perfusión. Valle recomendado: `<1 mg/L`. Pico recomendado: `30-40 mg/L` (o `45-60` en críticos pulmonares).
 
-### [[Tobramicina]]
+### Tobramicina
 - **Dosis Estándar (S):** IV 6-7 mg/kg / 24h (dosis única diaria).
 - **Ajuste Renal (S):** FG 40-60: 5 mg/kg / 24h. FG 20-40: 5-7 mg/kg / 48h. FG 10-20: 5 mg/kg / 48h. FG < 10: 3 mg/kg / 48h.
 - **Ajuste Diálisis/TRRC:** HD/DP: 1-3 mg/kg (post-diálisis). TRRC: 2-3 mg/kg inicial → 1-1.5 mg/kg/24-36h.
@@ -45,7 +45,7 @@ Esta guía detalla fármacos de uso frecuente con estrecho margen terapéutico (
 - **Ajuste Diálisis/TRRC:** HD/DP/TRRC: Requiere Dosis de Carga (20-25mg/kg) primero. Mantenimiento según el tipo de filtro o dosis intradialítica estricta (7.5-10 mg/kg post-sesión).
 - **Niveles:** Medir niveles **VALLE antes de la 4ª dosis**. Recomendado: `10-15 mg/L` para infecciones no complicadas. En infecciones complicadas (SARM con bacteriemia, E. faecium, endocarditis, osteomielitis): **`15-20 mg/L`**. En meningitis, neumonía por S. aureus: puede necesitarse valles de **`20-30 mg/L`**.
 
-### [[Teicoplanina]]
+### Teicoplanina
 - **Dosis Estándar (S):** IV/IM 6 mg/kg / 24h (tras carga de 6 mg/kg / 12h × 3 dosis el primer día).
 - **Dosis Incrementada (I) Infección Grave/SARM:** IV 12 mg/kg / 24h (carga 12 mg/kg / 12h × 3 dosis).
 - **Ajuste Renal (S):** FG 40-60: 6 mg/kg / 48h. FG < 40: 6 mg/kg / 72h.
@@ -53,13 +53,13 @@ Esta guía detalla fármacos de uso frecuente con estrecho margen terapéutico (
 - **Niveles:** Valle recomendado: `15-30 mg/L` (endocarditis/osteomielitis: `30-40 mg/L`). Medir antes de la 4ª dosis.
 - **Observaciones:** Alternativa a Vancomicina con mejor tolerancia (menos nefrotóxica). Administrable IM en pacientes ambulatorios. Semivida larga (150h).
 
-### [[Daptomicina]]
+### Daptomicina
 - **Dosis Estándar (S):** IV 4-6 mg/kg / 24h. En infecciones graves: 8-12 mg/kg / 24h.
 - **Ajuste Renal (S):** FG < 30: dosis habitual / 48h. Dosis superiores a 8 mg/kg no han sido estudiadas en IR — vigilar estrechamente.
 - **Ajuste Diálisis/TRRC:** HD/DP: 6 mg/kg / 48h (tras cada sesión). TRRC: 6-8 mg/kg / 24h según niveles.
 - **Observaciones:** **No usar en neumonía** (inactivado por surfactante pulmonar). Medir CK semanalmente (riesgo de miopatía, especialmente si CK > 5× LSN suspender). Actividad frente a SARM, enterococos resistentes (ERV), SASM. Bactericida y concentración-dependiente.
 
-### [[Dalbavancina]]
+### Dalbavancina
 - **Dosis Estándar (S):** IV 1500mg dosis única (o 1000mg día 1 + 500mg día 8).
 - **Ajuste Renal (S):** FG < 30 (sin diálisis): 1125mg dosis única, o 750mg día 1 + 375mg una semana después.
 - **Ajuste Diálisis/TRRC:** HD: misma dosis sin ajuste adicional (no dializable significativamente).
@@ -82,7 +82,7 @@ Esta guía detalla fármacos de uso frecuente con estrecho margen terapéutico (
 - **Ajuste Hepático:** Child-Pugh C evitar su empleo o reducir al máximo.
 - **Toxicidad:** Vigilar potasio, riñón y discrasias sanguíneas graves. Elevado volumen de distribución.
 
-### [[Tigeciclina]]
+### Tigeciclina
 - **Dosis Estándar (S):** IV Dosis de carga 100mg → Mantenimiento 50mg / 12h.
 - **Dosis Incrementada (I) Infecciones Multirresistentes (KPC, A. baumannii MDR):** IV Dosis de carga 200mg → Mantenimiento 100mg / 12h.
 - **Ajuste Renal (S):** No requiere ajuste (excreción principalmente biliar/fecal).

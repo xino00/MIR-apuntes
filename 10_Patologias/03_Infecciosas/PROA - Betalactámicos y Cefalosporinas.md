@@ -24,7 +24,7 @@ Esta guía detalla la dosificación general, ajustes en enfermedad renal (FG en 
 - **Ajuste Renal (S):** No requiere ajuste hasta FG < 10: reducción moderada de intervalo si infección grave.
 - **Observaciones:** Solo disponible VO. Primera elección en faringitis por S. pyogenes (mayor cumplimiento y menor impacto en microbioma que amoxicilina).
 
-### [[Ampicilina]]
+### Ampicilina
 - **Dosis Estándar (S):** IV 1-2g / 4-6h.
 - **Dosis Incrementada (I) Meningitis/Listeria/Bacteriemia grave:** IV 2g / 4h.
 - **Ajuste Renal (S):** FG 10-30: 1g / 6-12h. FG < 10: 1g / 12-24h.
@@ -61,7 +61,7 @@ Esta guía detalla la dosificación general, ajustes en enfermedad renal (FG en 
 ---
 ## 2. Cefalosporinas
 
-### [[Cefazolina]] (1ª Generación)
+### Cefazolina (1ª Generación)
 - **Dosis Estándar (S):** IV 1-2g / 8h.
 - **Dosis Incrementada (I) Infección Grave:** IV 2g / 6-8h.
 - **Ajuste Renal (S):** FG 35-54: 1-2g / 12h. FG 11-34: 500mg-1g / 12h. FG < 10: 500mg / 24h.
@@ -81,7 +81,7 @@ Esta guía detalla la dosificación general, ajustes en enfermedad renal (FG en 
 - **Ajuste Diálisis/TRRC:** HD/DP: Máximo 2g/24h (ajustar tras la sesión si CMI < 1). No precisa ajuste en TRRC (solo el límite de 2g/d).
 - **Ajuste Hepático:** Si coexiste IH + IR graves, máximo 2g/24h.
 
-### [[Cefotaxima]] (3ª Generación)
+### Cefotaxima (3ª Generación)
 - **Dosis Estándar (S):** IV 1-2g / 6-8h.
 - **Dosis Incrementada (I) Meningitis/Sepsis:** IV 2g / 4-6h.
 - **Ajuste Renal (S):** FG 10-50: 1g / 8-12h. FG < 10: 1g / 12-24h.
@@ -94,7 +94,7 @@ Esta guía detalla la dosificación general, ajustes en enfermedad renal (FG en 
 - **Ajuste Diálisis/TRRC:** HD: 300mg / 24h (después de la sesión). DP: 200mg / 24h.
 - **Observaciones:** Buena biodisponibilidad oral. Uso en ITU complicada ambulatoria, pielonefritis (tras dosis IV inicial) y prostatitis (paso puente antes de cambio a quinolona/cotrimoxazol según antibiograma).
 
-### [[Cefditoreno]] (3ª Generación Oral)
+### Cefditoreno (3ª Generación Oral)
 - **Dosis Estándar (S):** VO 200-400mg / 12h (administrar con comida).
 - **Ajuste Renal (S):** FG 30-50: 200mg / 12h. FG < 30: 200mg / 12h.
 - **Observaciones:** Actividad frente a neumococo resistente, H. influenzae y M. catarrhalis. Útil en EPOC reagudizado y NAC moderada. Absorción disminuye un 50% en ayunas.
@@ -115,7 +115,7 @@ Esta guía detalla la dosificación general, ajustes en enfermedad renal (FG en 
 - **Ajuste Renal (S):** FG 30-50: 500mg/250mg / 8h. FG 15-29: 250mg/125mg / 8h. FG < 15 o HD: consultar Farmacia.
 - **Observaciones:** Potente actividad anti-Pseudomonas incluyendo cepas MDR sin carbapenemasas. No activo frente a BLEE o KPC. Reservar para P. aeruginosa MDR confirmada. Consultar Infecciosas.
 
-### [[Ceftarolina]] (5ª Generación, Anti-SARM)
+### Ceftarolina (5ª Generación, Anti-SARM)
 - **Dosis Estándar (S):** IV 600mg / 12h (en perfusión de 1h).
 - **Ajuste Renal (S):** FG 31-50: 400mg / 12h. FG 16-30: 300mg / 12h. FG ≤ 15 o HD: 200mg / 12h (post-sesión en HD).
 - **Observaciones:** Única cefalosporina activa frente a SARM. También activa frente a neumococo resistente. Sin actividad frente a Pseudomonas ni enterobacterias productoras de BLEE. Usar en SARM cuando hay contraindicación o fracaso a Daptomicina/Vancomicina.
@@ -134,7 +134,7 @@ Esta guía detalla la dosificación general, ajustes en enfermedad renal (FG en 
 ---
 ## 3. Monobactámicos
 
-### [[Aztreonam]]
+### Aztreonam
 - **Dosis Estándar (S):** IV 1-2g / 8h.
 - **Dosis Incrementada (I) P. aeruginosa/Sepsis Grave:** IV 2g / 6-8h.
 - **Ajuste Renal (S):** FG 10-30: 1g / 8h. FG < 10: 500mg / 8-12h.
@@ -173,7 +173,7 @@ Esta guía detalla la dosificación general, ajustes en enfermedad renal (FG en 
 ---
 ## 5. Miscelánea (Otros para Combinación)
 
-### [[Rifampicina]]
+### Rifampicina
 - **Dosis Estándar (S):** VO/IV 600mg / 24h (o 300mg / 12h).
 - **Dosis en TB:** 10 mg/kg/día (máx 600mg).
 - **Ajuste Renal (S):** No requiere ajuste (excreción fundamentalmente biliar).
