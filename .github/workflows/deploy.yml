@@ -56,6 +56,10 @@ jobs:
             --exclude="95_Apoyo" \
             --exclude="assets/adjuntos/Vacuna tetanos - referencia 2026-09-12.jpg" \
             --exclude=".agents" \
+            --exclude=".codex" \
+            --exclude=".env" \
+            --exclude=".env.*" \
+            --exclude="secrets" \
             --exclude="gemini-scribe" \
             --exclude="tmp" \
             --exclude="sync.sh" \

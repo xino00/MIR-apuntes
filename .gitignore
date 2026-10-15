@@ -37,14 +37,14 @@ yarn-error.log*
 
 # Secrets (never commit credentials)
 .env
-.env.local
-.env.*.local
+.env.*
 secrets/
 *.pem
 *.key
 
 # AI agent configs
 .agents/
+/.codex/config.toml
 CLAUDE.md
 
 # Binarios grandes en raíz (fotos, PDFs sueltos)
