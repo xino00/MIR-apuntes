@@ -5,7 +5,7 @@ fuente_original: "Extraído de 50_Guardias/03 - Protocolos Rápidos Boxes Urgenc
 fuente: "Manual 12 Octubre 2022, cap. 39 Pancreatitis (p. 555-565)"
 last_fact_checked: 2026-04-21
 ---
-# Pancreatitis Aguda
+ # Pancreatitis Aguda
 
 > [!warning] 🚨 Signos de Alarma
 > - Signos de Ranson/BISAP elevados → mal pronóstico
@@ -44,8 +44,7 @@ last_fact_checked: 2026-04-21
   - Hipertrigliceridemia: el ayuno baja los TG. Si no, fibratos o gemfibrozilo
 
 ## Plantilla de Guardia
-
-## 3.8. PANCREATITIS AGUDA
+### 3.8. PANCREATITIS AGUDA
 **DIAGNÓSTICO**
 2 de 3 criterios:
 Dolor característico: dolor abdominal en hemiabdomen superior, rápidamente progresivo, postprandial, intenso y continuo. Puede irradiarse en cinturón a la espalda, tórax o los flancos. Puede asociar náuseas, vómitos y síntomas sistémicos.

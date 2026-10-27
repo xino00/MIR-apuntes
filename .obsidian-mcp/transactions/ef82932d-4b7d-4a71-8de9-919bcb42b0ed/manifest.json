@@ -1,0 +1,39 @@
+{
+  "id": "ef82932d-4b7d-4a71-8de9-919bcb42b0ed",
+  "state": "committed",
+  "createdAt": "2026-10-27T18:48:37.577Z",
+  "snapshots": [
+    {
+      "path": ".obsidian-mcp/trash/dee69f56-b3b2-4026-bfe2-5abd3c3a527f.md",
+      "operation": "write",
+      "entryType": "file",
+      "phase": "applied",
+      "plannedEtag": "6fc01102e1465cc769a136a02ffab3532fdcf927eff3504cdb1d5560f7279c9e",
+      "recoverable": true,
+      "existed": false,
+      "committedEtag": "6fc01102e1465cc769a136a02ffab3532fdcf927eff3504cdb1d5560f7279c9e"
+    },
+    {
+      "path": ".obsidian-mcp/trash/dee69f56-b3b2-4026-bfe2-5abd3c3a527f.json",
+      "operation": "write",
+      "entryType": "file",
+      "phase": "applied",
+      "plannedEtag": "93ed5579b6d58991cff0c44b4edf29126bb292af784fbca0207d2171c0162fe5",
+      "recoverable": true,
+      "existed": false,
+      "committedEtag": "93ed5579b6d58991cff0c44b4edf29126bb292af784fbca0207d2171c0162fe5"
+    },
+    {
+      "path": "30_Urgencias/Syncope-EUSEM-2024/Syncope-EUSEM-2024-pathway.canvas.md",
+      "operation": "delete",
+      "entryType": "file",
+      "phase": "applied",
+      "recoverable": true,
+      "existed": true,
+      "mode": 33152,
+      "etag": "6fc01102e1465cc769a136a02ffab3532fdcf927eff3504cdb1d5560f7279c9e",
+      "snapshot": "2.bin"
+    }
+  ],
+  "completedAt": "2026-10-27T18:48:37.603Z"
+}

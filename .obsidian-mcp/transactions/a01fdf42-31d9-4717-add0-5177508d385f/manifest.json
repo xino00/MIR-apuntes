@@ -1,0 +1,21 @@
+{
+  "id": "a01fdf42-31d9-4717-add0-5177508d385f",
+  "state": "committed",
+  "createdAt": "2026-10-27T19:33:02.399Z",
+  "snapshots": [
+    {
+      "path": "30_Urgencias/Syncope-EUSEM-2024/Syncope-EUSEM-2024-explained.md",
+      "operation": "write",
+      "entryType": "file",
+      "phase": "applied",
+      "plannedEtag": "771c32c83f3d6b71d7a626e943177b52e0872aaf13a279e663021fbeef010aa3",
+      "recoverable": true,
+      "existed": true,
+      "mode": 33152,
+      "etag": "4a2d00c6ff457facaa3be2911a1601446f65d40456d3b4f5cf279c7433c4a58e",
+      "snapshot": "0.bin",
+      "committedEtag": "771c32c83f3d6b71d7a626e943177b52e0872aaf13a279e663021fbeef010aa3"
+    }
+  ],
+  "completedAt": "2026-10-27T19:33:02.413Z"
+}

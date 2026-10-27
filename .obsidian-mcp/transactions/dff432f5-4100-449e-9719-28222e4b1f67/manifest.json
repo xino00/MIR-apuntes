@@ -1,0 +1,18 @@
+{
+  "id": "dff432f5-4100-449e-9719-28222e4b1f67",
+  "state": "committed",
+  "createdAt": "2026-10-27T18:44:03.884Z",
+  "snapshots": [
+    {
+      "path": "30_Urgencias/Syncope-EUSEM-2024/Syncope-EUSEM-2024-pathway.canvas.md",
+      "operation": "write",
+      "entryType": "file",
+      "phase": "applied",
+      "plannedEtag": "6fc01102e1465cc769a136a02ffab3532fdcf927eff3504cdb1d5560f7279c9e",
+      "recoverable": true,
+      "existed": false,
+      "committedEtag": "6fc01102e1465cc769a136a02ffab3532fdcf927eff3504cdb1d5560f7279c9e"
+    }
+  ],
+  "completedAt": "2026-10-27T18:44:03.899Z"
+}
