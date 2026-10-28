@@ -44,6 +44,7 @@ description: "Hub de urgencias generales: presentaciones sindrómicas transversa
 - [[Anafilaxia en Adultos]] — reconocimiento, adrenalina IM, observación
 - [[Mareo y Vértigo - Abordaje Diagnóstico]] — anamnesis estructurada TiTrATE/ATTEST, clasificación Bárány
 - [[Vértigo en Urgencias]] — manejo agudo del síndrome vestibular: HINTS, Dix-Hallpike, maniobras Epley
+- [[Síncope en Urgencias - Síntesis de Guías y Evidencia]] — marco EUSEM / RED-SOS, CSRS, monitorización y destino; contrasta 2024-2026 con la ESC 2018 (detalle ESC en [[Síncope]])
 
 > [!note] Sepsis
 > [[MOC - INFECCIOSAS]]
@@ -68,7 +69,6 @@ Adicionalmente: [[MOC - FARMACOS]] (fármacos por clase terapéutica).
 
 Presentaciones transversales que el vault aún no cubre como nota sindrómica única (existen notas relacionadas pero falta consolidación):
 
-- **Síncope transversal** — actualmente: [[Síncope]] (cardio) + [[Síncope Neurológico]]
 - **Cefalea aguda en urgencias** — actualmente: [[Cefaleas - Abordaje Inicial]] + [[CEFALEA con signos de alarma]]
 - **Abdomen agudo** — actualmente: 4 notas Dolor Abdominal en [[MOC - DIGESTIVO]]
 - **Fiebre sin foco en urgencias** — no cubierto

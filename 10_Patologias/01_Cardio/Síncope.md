@@ -424,6 +424,7 @@ Tratamiento de la enfermedad subyacente:
 - [[Cardiopatía Isquémica - Concepto y Clasificación]]
 - [[Atropina]]
 - [[Síncope Neurológico]] (abordaje desde neurología)
+- [[Síncope en Urgencias - Síntesis de Guías y Evidencia]] (evidencia 2024-2026 en urgencias: EUSEM, CSRS, monitorización)
 - [[MOC - CARDIOLOGIA]]
 - [[MOC - Urgencias]]
 
