@@ -73,7 +73,7 @@ Tres pruebas interpretadas **en conjunto, por un explorador formado**, en un sí
   - *Canal horizontal* → **Lempert/barbacoa** (giros de 90° hacia el lado sano, 270–360°) o **Gufoni**.
   - Recurrencia ~36% a 4 años. Sin restricciones posturales posteriores.
 
-**Hipotensión ortostática / presíncope** → ver [[Síncope]].
+**Hipotensión ortostática / presíncope** → ver [[Síncope]] y [[Síncope en Urgencias - Síntesis de Guías y Evidencia]].
 - **Dx:** caída ≥20 mmHg sistólica o ≥10 diastólica al pasar a bipedestación (1 y 3 min).
 - **Tto:** medidas no farmacológicas primero (sal/agua, medias compresivas, incorporación lenta); fármacos: **midodrina 5–10 mg**, **fludrocortisona 0,1 mg**.
 

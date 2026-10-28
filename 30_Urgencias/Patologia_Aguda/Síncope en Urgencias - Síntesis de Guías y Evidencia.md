@@ -24,9 +24,10 @@ ambito: Adultos en urgencias; síntesis de guías y evidencia
 > - Guía de guardia en texto plano → [[MUST - Síncope]]
 > - Enfoque neurológico → [[Síncope Neurológico]]
 > - Explicación del consenso EUSEM con canvas → [[Syncope-EUSEM-2024-explained]]
+> - **Flujograma integrado de esta nota** (Canvas; solo se ve en Obsidian) → [[Síncope en Urgencias - Flujograma.canvas|Abrir el flujograma]]
 
 > [!note] Vigencia de las guías (comprobado 28/10/2026)
-> La guía ESC de síncope vigente sigue siendo la de **2018**: la web de la ESC no lista ninguna posterior. La NEJM (agosto 2026) cita la ESC 2018 y la **ACC/AHA/HRS 2017** como las dos guías más recientes.
+> La guía ESC de síncope vigente sigue siendo la de **2018**. La NEJM (agosto 2026) cita la ESC 2018 y la **ACC/AHA/HRS 2017** como las dos guías más recientes.
 
 **Por qué importa:** el síncope supone ~1 % de las visitas a urgencias en Europa (SEED, 952 pacientes en 41 SU de 14 países). Alrededor del **10 %** sufre un evento adverso en 7-30 días y casi la mitad de esos eventos ocurre **después** de la estancia en urgencias (ESC 2018). En la primera evaluación solo se llega a la causa en ~50 % de los casos (UpToDate; Furlan: 50-60 %). Por eso el objetivo en urgencias es **decidir con seguridad el siguiente paso**, no necesariamente cerrar el diagnóstico.
 
@@ -49,7 +50,7 @@ Tras el paso 2, EUSEM distingue tres salidas, y cada una cambia lo que hay que h
 Síncope = PTC por **hipoperfusión cerebral global**, de inicio rápido, corta duración y recuperación espontánea, completa y precoz (ESC 2018). EUSEM insiste en que solo puede llamarse síncope **tras descartar otras PTC**, y en reevaluarlo durante todo el proceso.
 
 - **El testigo vale más que el paciente**: qué pasó antes, durante y después.
-- **Crisis epiléptica:**
+- **Crisis epiléptica** (si no cede → [[Status Epiléptico]]):
   - La **mordedura lateral de la lengua** es el signo aislado más específico (especificidad 96 %, sensibilidad 33 %; LR+ 8,17). También orientan la confusión postcrítica prolongada y la elevación de CK o lactato (Furlan).
   - La **incontinencia urinaria NO discrimina**: aparece en el 10-20 % de los síncopes (NEJM). Las mioclonías breves también son frecuentes en el síncope (UpToDate).
   - Una pérdida de conciencia de **> 4-5 min** debe hacer pensar en crisis u otra alteración de la conciencia (UpToDate).
@@ -58,12 +59,12 @@ Síncope = PTC por **hipoperfusión cerebral global**, de inicio rápido, corta 
 - **Coma transitorio e intoxicación:** la ESC solo los diferencia del síncope por la duración. El solapamiento es frecuente en la intoxicación etílica (EUSEM), y el coma transitorio tiene alta mortalidad (Möckel).
 - **Seudosíncope psicógeno:** PTC > 5 min, ojos cerrados o resistencia a abrirlos, conciencia fluctuante (Furlan).
 - **Anciano con caída sin testigos:** **manejarlo como síncope mientras no se demuestre lo contrario** (Furlan). El 20-30 % de las caídas de mayores atendidas en urgencias pueden no tener explicación y reflejar un síncope; el síndrome del seno carotídeo explica hasta el 30 % de las caídas inexplicadas (NEJM).
-- **Presíncope:** las fuentes no coinciden (ver §9).
+- **Presíncope:** las fuentes no coinciden (ver §9). Hay que distinguirlo del mareo inespecífico y del vértigo, orientándose por la cronología y los desencadenantes → [[Mareo y Vértigo - Abordaje Diagnóstico]].
 
 ## 🚨 3. Excluir lo que mata ya
 
 - **Inestable** (shock, hipoxemia, arritmia en curso) → ABCDE / SVA antes que cualquier algoritmo de síncope. El shock en este contexto es con frecuencia **séptico** (EUSEM) → [[Shock]], [[Sepsis - Abordaje Inicial (SSC 2026)]].
-- **Causas graves que hay que buscar** (UpToDate, Furlan): arritmia, SCA, estenosis aórtica u otra obstrucción, **TEP**, **síndrome aórtico agudo**, **hemorragia** (digestiva, AAA roto, ectópico) y **HSA**.
+- **Causas graves que hay que buscar** (UpToDate, Furlan): arritmia, SCA ([[SCA - Evaluación Inicial y Clasificación]]), estenosis aórtica u otra obstrucción, **TEP**, **síndrome aórtico agudo**, **hemorragia** (digestiva, AAA roto, ectópico) y **HSA** ([[Hemorragia Subaracnoidea]]).
 - **Signos de alarma de RED-SOS:** disnea, dolor (cefalea o toracoabdominal), focalidad, taquicardia persistente, hipotensión. Cualquiera de ellos obliga a ampliar estudio: troponina, dímero D, ecografía o TC según la sospecha (Furlan). El resto de criterios de alto riesgo de la ESC están en la Tabla 6 de [[Síncope]].
 - **ECG de actuación inmediata** (Furlan): IAM, BAV de 3.er grado, taquicardia de QRS ancho, taquicardia de QRS estrecho > 160 lpm y disfunción de marcapasos o DAI.
 - **Disección aórtica:** solo el **13 %** debuta con síncope y > 80-90 % tiene dolor torácico. ADD-RS ≤ 1 con dímero D < 500 ng/mL tiene buenos resultados para descartarla (Furlan) → [[Síndrome Aórtico Agudo y Enfermedad Aórtica]].
@@ -80,12 +81,12 @@ Síncope = PTC por **hipoperfusión cerebral global**, de inicio rápido, corta 
 - **Interrogar marcapasos o DAI** en todo portador (ESC, Furlan). Considerar también los datos de relojes y pulseras de actividad (UpToDate).
 
 ### Analítica — dirigida por la sospecha
-| Fuente | Qué propone |
-|---|---|
-| **ESC 2018** | **No sistemática** (hemograma, bioquímica, dímero D, marcadores cardiacos tienen bajo rendimiento). Solo si la clínica lo indica: Hb si hay sospecha de hemorragia, troponina si hay isquemia, dímero D si hay TEP. |
-| **EUSEM 2024** | Mínimo **glucemia + Hb** «si se recomienda en el entorno». A criterio del médico: hemograma, iones, CK, lipasa, AST, LDH, lactato, PCR y coagulación (si está anticoagulado). Según sospecha: troponina seriada con copeptina (descarte rápido de IAM) y dímero D (TEP, disección). La copeptina **como biomarcador de síncope** (p. ej., en el anciano con caída) queda fuera por no estar implantada en la práctica clínica. |
-| **Möckel 2026** | Añade la PCR, que muchos SU piden porque la infección es frecuente (57,9 % de los ingresados por síncope en un estudio). Considera la copeptina experimental. |
-| **UpToDate 2026** | No rutinaria. **Glucemia** si hay alteración del estado mental; **test de embarazo** en edad fértil; Hto < 30 % como marcador de riesgo; **BNP y troponina ultrasensible** útiles sobre todo en mayores y cardiópatas (las incluyen las escalas FAINT y CSRS). |
+| Fuente            | Qué propone                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **ESC 2018**      | **No sistemática** (hemograma, bioquímica, dímero D, marcadores cardiacos tienen bajo rendimiento). Solo si la clínica lo indica: **Hb si hay sospecha de hemorragia, troponina si hay isquemia, dímero D si hay TEP.**                                                                                                                                                                                                          |
+| **EUSEM 2024**    | Mínimo **glucemia + Hb** «si se recomienda en el entorno». A criterio del médico: hemograma, iones, CK, lipasa, AST, LDH, lactato, PCR y coagulación (si está anticoagulado). Según sospecha: troponina seriada con copeptina (descarte rápido de IAM) y dímero D (TEP, disección). La *copeptina **como biomarcador de síncope** (p. ej., en el anciano con caída) queda fuera por no estar implantada en la práctica clínica.* |
+| **Möckel 2026**   | Añade la PCR, que muchos SU piden porque la infección es frecuente (57,9 % de los ingresados por síncope en un estudio). Considera la copeptina experimental.                                                                                                                                                                                                                                                                    |
+| **UpToDate 2026** | No rutinaria. **Glucemia** si hay alteración del estado mental; **test de embarazo** en edad fértil; Hto < 30 % como marcador de riesgo; **BNP y troponina ultrasensible** útiles sobre todo en mayores y cardiópatas (las incluyen las escalas FAINT y CSRS).                                                                                                                                                                   |
 
 ### TEP — pensar en él siempre, no buscarlo en todos
 - **PESIT** (NEJM 2016): búsqueda sistemática en 560 hospitalizados por un **primer** síncope (edad media 76 años) → TEP en el **17,3 %** (IC 95 % 14,2-20,5).
@@ -94,8 +95,8 @@ Síncope = PTC por **hipoperfusión cerebral global**, de inicio rápido, corta 
 - **Conclusión común** (Möckel, Furlan, UpToDate): no cribar sistemáticamente. Estudiarlo según la probabilidad pretest si hay disnea, dolor torácico, hipoxemia, taquicardia o sobrecarga de VD en el ECG → [[TEP - Tromboembolismo Pulmonar]].
 
 ### Ecocardiografía / POCUS
-- Indicada si se sospecha cardiopatía estructural: **soplo**, cardiopatía conocida, ECG anormal, síncope de esfuerzo o en supino (ESC, Clase I; UpToDate) → [[Valvulopatías]].
-- **POCUS** como cribado (Furlan): velocidad pico aórtica > 2 m/s, derrame pericárdico, dilatación de VD, disfunción global de VI.
+- Indicada si se sospecha cardiopatía estructural: **soplo**, cardiopatía conocida, ECG anormal, síncope de esfuerzo o en supino (ESC, Clase I; UpToDate) → [[Valvulopatías]], [[Miocardiopatías]].
+- **POCUS** como cribado (Furlan): velocidad pico aórtica > 2 m/s, derrame pericárdico ([[Taponamiento Cardiaco]]), dilatación de VD, disfunción global de VI.
 - De rutina, sin factores de riesgo, **no ha demostrado beneficio** (UpToDate).
 
 ### Ortostatismo — con criterios ESC

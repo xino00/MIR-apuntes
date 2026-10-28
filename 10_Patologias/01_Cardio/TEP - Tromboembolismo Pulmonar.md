@@ -119,5 +119,6 @@ La nueva clasificación categoriza a los pacientes de A a E para guiar el manejo
 ### 🔗 Enlaces / Bibliografía
 - [[MOC - CARDIOLOGIA]]
 - [[MOC - NEUMOLOGIA]]
-- [[Guia TEP 2026 AHA.pdf]] (Referencia principal)
-- [[Manual de diagnóstico y terapeutica médicas H 12 OCTUBRE 2022.pdf]] (Complementario)
+- [[Síncope en Urgencias - Síntesis de Guías y Evidencia]] (cuándo buscar TEP ante un síncope: PESIT frente a BASEL IX)
+- [[AHA 2026 - TEP.pdf]] (Referencia principal)
+- [[Manual 12 Octubre 2022.pdf]] (Complementario)
