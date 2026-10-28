@@ -191,4 +191,5 @@ The study did **not** prospectively compare this pathway with usual care or demo
 - [[30_Urgencias/MUST/MUST - Síncope|MUST — Síncope]]
 - [[10_Patologias/02_Neuro/Síncope Neurológico|Síncope Neurológico]]
 - [[30_Urgencias/Patologia_Aguda/Síncope en Urgencias - Síntesis de Guías y Evidencia|Síncope en Urgencias — synthesis of guidelines and evidence (Spanish)]]
+- [[30_Urgencias/Patologia_Aguda/Síncope en Urgencias - Flujograma.canvas|Síncope en Urgencias — integrated flowchart, all sources (Spanish Canvas)]]
 - [[30_Urgencias/Syncope-EUSEM-2024/Syncope-EUSEM-2024-pathway.canvas|Return to the Canvas]]

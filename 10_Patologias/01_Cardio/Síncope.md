@@ -425,6 +425,7 @@ Tratamiento de la enfermedad subyacente:
 - [[Atropina]]
 - [[Síncope Neurológico]] (abordaje desde neurología)
 - [[Síncope en Urgencias - Síntesis de Guías y Evidencia]] (evidencia 2024-2026 en urgencias: EUSEM, CSRS, monitorización)
+- [[Síncope en Urgencias - Flujograma.canvas|Flujograma de síncope en urgencias (Canvas)]]
 - [[MOC - CARDIOLOGIA]]
 - [[MOC - Urgencias]]
 

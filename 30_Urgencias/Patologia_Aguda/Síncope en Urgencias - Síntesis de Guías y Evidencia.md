@@ -30,7 +30,7 @@ ambito: Adultos en urgencias; síntesis de guías y evidencia
 > La guía ESC de síncope vigente sigue siendo la de **2018**. La NEJM (agosto 2026) cita la ESC 2018 y la **ACC/AHA/HRS 2017** como las dos guías más recientes.
 
 **Por qué importa:** el síncope supone ~1 % de las visitas a urgencias en Europa (SEED, 952 pacientes en 41 SU de 14 países). Alrededor del **10 %** sufre un evento adverso en 7-30 días y casi la mitad de esos eventos ocurre **después** de la estancia en urgencias (ESC 2018). En la primera evaluación solo se llega a la causa en ~50 % de los casos (UpToDate; Furlan: 50-60 %). Por eso el objetivo en urgencias es **decidir con seguridad el siguiente paso**, no necesariamente cerrar el diagnóstico.
-
+***PTC= pérdida transitoria de consciencia*** 
 ## 🧭 1. Marco común: cuatro fuentes, el mismo esqueleto
 
 | Paso | EUSEM 2024 / Möckel 2026 | RED-SOS (Furlan 2024) | ESC 2018 (4 preguntas) |
@@ -49,12 +49,12 @@ Tras el paso 2, EUSEM distingue tres salidas, y cada una cambia lo que hay que h
 
 Síncope = PTC por **hipoperfusión cerebral global**, de inicio rápido, corta duración y recuperación espontánea, completa y precoz (ESC 2018). EUSEM insiste en que solo puede llamarse síncope **tras descartar otras PTC**, y en reevaluarlo durante todo el proceso.
 
-- **El testigo vale más que el paciente**: qué pasó antes, durante y después.
+- **Preguntar a testigos**: qué pasó antes, durante y después.
 - **Crisis epiléptica** (si no cede → [[Status Epiléptico]]):
-  - La **mordedura lateral de la lengua** es el signo aislado más específico (especificidad 96 %, sensibilidad 33 %; LR+ 8,17). También orientan la confusión postcrítica prolongada y la elevación de CK o lactato (Furlan).
+  - La **mordedura lateral de la lengua** es el signo aislado más específico (especificidad 96 %, sensibilidad 33 %; LR+ 8,17). También orientan a esto la confusión postcrítica prolongada y la elevación de CK o lactato (Furlan).
   - La **incontinencia urinaria NO discrimina**: aparece en el 10-20 % de los síncopes (NEJM). Las mioclonías breves también son frecuentes en el síncope (UpToDate).
   - Una pérdida de conciencia de **> 4-5 min** debe hacer pensar en crisis u otra alteración de la conciencia (UpToDate).
-  - El EEG y la neuroimagen no aportan más que una buena anamnesis (Furlan). TC craneal **solo** si hay sospecha de HSA (cefalea intensa) o un TCE significativo.
+  - El EEG y la neuroimagen no aportan más que una buena anamnesis (Furlan). TC craneal **solo** si hay sospecha de HSA (cefalea intensa) o ha habido un TCE significativo.
 - **Traumatismo: ¿causa o consecuencia?** Si el TCE causó la PTC, se sigue el protocolo de PTC traumática; si el síncope causó la caída, hay que estudiar ambas cosas (EUSEM) → [[TCE Leve-Moderado]].
 - **Coma transitorio e intoxicación:** la ESC solo los diferencia del síncope por la duración. El solapamiento es frecuente en la intoxicación etílica (EUSEM), y el coma transitorio tiene alta mortalidad (Möckel).
 - **Seudosíncope psicógeno:** PTC > 5 min, ojos cerrados o resistencia a abrirlos, conciencia fluctuante (Furlan).
