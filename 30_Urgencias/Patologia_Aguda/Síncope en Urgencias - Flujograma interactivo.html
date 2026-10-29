@@ -1,0 +1,734 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Flujograma interactivo del síncope en urgencias: mapa del canvas y recorrido guiado paso a paso.">
+<style>:root{color-scheme:light;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}*,*::before,*::after{box-sizing:border-box}body{margin:0;font:14px/1.4 system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
+<title>Flujograma de Síncope</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Barlow+Condensed:wght@500;600;700&display=swap">
+<style>
+/* Lienzo de guardia: mapa punteado como el canvas de Obsidian + una columna de pasos para el móvil.
+   Los colores 1-6 son los del canvas y tienen significado clínico (ver leyenda); el resto es neutro. */
+:root{
+  --bg:#edf0f2; --surface:#ffffff; --surface-2:#f4f6f8; --ink:#1b2330; --muted:#556070;
+  --line:#d2d8de; --dot:#c3cbd3; --neutral:#8d97a4; --accent:#1d5687; --accent-ink:#ffffff;
+  --c1:#e93147; --c2:#ec7500; --c3:#e0ac00; --c4:#08b94e; --c5:#00bfbc; --c6:#7852ee;
+  --c1-ink:#b11f33; --c2-ink:#a14f00; --c3-ink:#7f6000; --c4-ink:#06773a; --c5-ink:#006f6d; --c6-ink:#5a34c8;
+  --tint:8%;
+  --shadow:0 1px 2px rgb(20 30 45 / .06), 0 6px 18px rgb(20 30 45 / .08);
+  --f-body:"Atkinson Hyperlegible", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --f-label:"Barlow Condensed", "Arial Narrow", "Roboto Condensed", system-ui, sans-serif;
+  --bar-h:56px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#10151b; --surface:#19202a; --surface-2:#202833; --ink:#e3e8ee; --muted:#9aa5b3;
+    --line:#313a46; --dot:#29313b; --neutral:#6d7886; --accent:#82b7e8; --accent-ink:#0d1520;
+    --c1:#fb464c; --c2:#e9973f; --c3:#e0de71; --c4:#44cf6e; --c5:#53dfdd; --c6:#a882ff;
+    --c1-ink:#ff8085; --c2-ink:#f1b06c; --c3-ink:#e8e696; --c4-ink:#72dd92; --c5-ink:#86e9e7; --c6-ink:#c2a7ff;
+    --tint:13%; --shadow:0 1px 2px rgb(0 0 0 / .45), 0 8px 22px rgb(0 0 0 / .35);
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#10151b; --surface:#19202a; --surface-2:#202833; --ink:#e3e8ee; --muted:#9aa5b3;
+  --line:#313a46; --dot:#29313b; --neutral:#6d7886; --accent:#82b7e8; --accent-ink:#0d1520;
+  --c1:#fb464c; --c2:#e9973f; --c3:#e0de71; --c4:#44cf6e; --c5:#53dfdd; --c6:#a882ff;
+  --c1-ink:#ff8085; --c2-ink:#f1b06c; --c3-ink:#e8e696; --c4-ink:#72dd92; --c5-ink:#86e9e7; --c6-ink:#c2a7ff;
+  --tint:13%; --shadow:0 1px 2px rgb(0 0 0 / .45), 0 8px 22px rgb(0 0 0 / .35);
+  color-scheme:dark;
+}
+*,*::before,*::after{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:16px;line-height:1.45;-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:40;background:var(--surface)}
+a{color:var(--accent);text-underline-offset:.15em}
+button{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.k0{--k:var(--neutral);--k-ink:var(--muted)}
+.k1{--k:var(--c1);--k-ink:var(--c1-ink)} .k2{--k:var(--c2);--k-ink:var(--c2-ink)} .k3{--k:var(--c3);--k-ink:var(--c3-ink)}
+.k4{--k:var(--c4);--k-ink:var(--c4-ink)} .k5{--k:var(--c5);--k-ink:var(--c5-ink)} .k6{--k:var(--c6);--k-ink:var(--c6-ink)}
+.tinted{background:var(--surface);background:color-mix(in srgb, var(--k) var(--tint), var(--surface))}
+
+/* barra superior */
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:30;height:var(--bar-h);display:flex;align-items:center;gap:12px;
+  padding-left:max(16px, env(safe-area-inset-left,0px));padding-right:max(16px, env(safe-area-inset-right,0px));
+  background:var(--surface);border-bottom:1px solid var(--line)}
+.brand{min-width:0;display:flex;flex-direction:column;gap:2px}
+.brand b{font:700 1.3rem/1 var(--f-label);letter-spacing:.03em;text-transform:uppercase;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.brand span{font-size:.78rem;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.seg{margin-left:auto;display:flex;flex:none;gap:2px;padding:3px;border:1px solid var(--line);border-radius:10px;background:var(--surface-2)}
+.seg button{font:600 1rem/1 var(--f-label);letter-spacing:.05em;text-transform:uppercase;border:0;background:transparent;color:var(--muted);padding:9px 13px;border-radius:7px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+.icon-btn{flex:none;display:grid;place-items:center;width:38px;height:38px;border-radius:10px;border:1px solid var(--line);background:var(--surface-2);cursor:pointer;color:var(--ink)}
+.icon-btn svg{width:18px;height:18px}
+@media (max-width:560px){.brand span{display:none}.brand b{font-size:1.1rem}.seg button{padding:9px 10px}}
+
+/* ---------- mapa ---------- */
+#vista-mapa{position:fixed;left:0;right:0;bottom:0;top:calc(env(safe-area-inset-top,0px) + var(--bar-h))}
+#lienzo{position:absolute;inset:0;overflow:hidden;overflow:clip;touch-action:none;cursor:grab;background-color:var(--bg);
+  background-image:radial-gradient(circle, var(--dot) 1.3px, transparent 1.6px)}
+#lienzo.arrastrando{cursor:grabbing}
+#mundo{position:absolute;left:0;top:0;transform-origin:0 0}
+#mundo.anim{transition:transform .32s cubic-bezier(.2,.7,.2,1)}
+#aristas{position:absolute;left:0;top:0;overflow:visible;pointer-events:none}
+.grp{position:absolute;border:2px solid var(--line);border-radius:22px;background:color-mix(in srgb, var(--ink) 2.5%, transparent)}
+.grp-label{position:absolute;left:0;bottom:100%;margin-bottom:8px;padding:4px 12px 4px 4px;border-radius:8px;white-space:nowrap;font:500 40px/1 var(--f-label);letter-spacing:.02em;color:var(--muted);background:var(--bg)}
+.grp-label b{font-weight:700;color:var(--ink);letter-spacing:.04em}
+.node{position:absolute;border:3px solid var(--k);border-radius:14px;padding:16px 20px;overflow:hidden;cursor:pointer;box-shadow:var(--shadow);color:var(--ink);font-size:18px}
+.node:hover{border-color:color-mix(in srgb, var(--k) 70%, var(--ink))}
+.node .md{height:100%;overflow:hidden;overflow:clip}
+.node.clip .md{-webkit-mask-image:linear-gradient(to bottom,#000 calc(100% - 64px),transparent);mask-image:linear-gradient(to bottom,#000 calc(100% - 64px),transparent)}
+.node.clip::after{content:"Leer completo ›";position:absolute;right:14px;bottom:10px;font:700 17px/1 var(--f-label);letter-spacing:.03em;color:var(--k-ink);background:var(--surface);border:1.5px solid var(--k);padding:5px 10px;border-radius:8px}
+.node.sel{outline:5px solid var(--accent);outline-offset:5px}
+.node.file{background:var(--surface);display:flex;flex-direction:column;gap:10px}
+.file-kicker{font:700 15px/1 var(--f-label);letter-spacing:.08em;text-transform:uppercase;color:var(--k-ink)}
+.node.file h3{margin:0;font:700 28px/1.1 var(--f-label);text-wrap:balance}
+.toc{margin:0;padding:0 0 0 1.1em;font-size:16px;color:var(--muted);flex:1;min-height:0;overflow:hidden;
+  -webkit-mask-image:linear-gradient(to bottom,#000 calc(100% - 22px),transparent);mask-image:linear-gradient(to bottom,#000 calc(100% - 22px),transparent)}
+.toc li{margin:.12em 0}
+.file-open{align-self:flex-start;font:700 17px/1 var(--f-label);letter-spacing:.04em;text-transform:uppercase;text-decoration:none;padding:8px 12px;border-radius:8px;border:1.5px solid var(--line);color:var(--accent)}
+.edge path{fill:none;stroke:var(--k);stroke-width:3.2;stroke-linecap:round}
+.edge.asoc path{stroke-width:3;stroke-dasharray:1 9;opacity:.9}
+.edge polygon{fill:var(--k)}
+.elab{position:absolute;transform:translate(-50%,-50%);white-space:nowrap;font:700 21px/1 var(--f-label);letter-spacing:.02em;padding:6px 12px;border-radius:999px;background:var(--surface);border:2px solid var(--k);color:var(--k-ink);pointer-events:none}
+#lienzo.foco .node:not(.sel):not(.cerca),#lienzo.foco .grp-label{opacity:.3}
+#lienzo.foco .edge:not(.hl),#lienzo.foco .elab:not(.hl){opacity:.12}
+#lienzo.ruta:not(.foco) .edge:not(.enruta),#lienzo.ruta:not(.foco) .elab:not(.enruta){opacity:.18}
+#lienzo.ruta:not(.foco) .node:not(.enruta){opacity:.45}
+.edge.enruta path{stroke-width:6}
+.node,.edge,.elab,.grp-label{transition:opacity .2s}
+.map-tools{position:absolute;z-index:5;left:calc(12px + env(safe-area-inset-left,0px));bottom:calc(12px + env(safe-area-inset-bottom,0px));display:flex;flex-wrap:wrap;gap:6px;align-items:center;max-width:calc(100% - 24px)}
+.map-tools button{min-width:42px;height:42px;padding:0 12px;border-radius:10px;border:1px solid var(--line);background:var(--surface);box-shadow:var(--shadow);cursor:pointer;font:700 1rem/1 var(--f-label);letter-spacing:.04em;text-transform:uppercase}
+.map-hint{position:absolute;z-index:5;left:calc(12px + env(safe-area-inset-left,0px));top:12px;margin:0;max-width:calc(100% - 24px);font-size:.82rem;color:var(--muted);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:6px 10px;box-shadow:var(--shadow)}
+#zoom-val{display:grid;place-items:center;height:42px;min-width:56px;padding:0 8px;border-radius:10px;border:1px solid var(--line);background:var(--surface);box-shadow:var(--shadow);font:600 .95rem/1 var(--f-label);color:var(--muted);font-variant-numeric:tabular-nums}
+
+/* panel de detalle */
+.panel{position:absolute;z-index:8;top:12px;right:calc(12px + env(safe-area-inset-right,0px));bottom:calc(12px + env(safe-area-inset-bottom,0px));width:min(30rem, calc(100% - 24px));
+  display:flex;flex-direction:column;background:var(--surface);border:2px solid var(--k);border-radius:16px;box-shadow:var(--shadow);overflow:hidden}
+.panel-head{display:flex;align-items:flex-start;gap:10px;padding:14px 16px 12px;border-bottom:1px solid var(--line)}
+.panel-head div{min-width:0;flex:1}
+.kicker{font:700 .82rem/1 var(--f-label);letter-spacing:.09em;text-transform:uppercase;color:var(--k-ink)}
+.panel-head h2{margin:6px 0 0;font:700 1.45rem/1.12 var(--f-label);text-wrap:balance}
+.panel-body{overflow:auto;padding:4px 18px 18px;min-height:0;flex:1;overscroll-behavior:contain}
+.panel-sec{margin-top:16px;padding-top:12px;border-top:1px solid var(--line)}
+.panel-sec h3{margin:0 0 8px;font:700 .9rem/1 var(--f-label);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.conn{display:flex;flex-direction:column;gap:6px}
+.conn button{display:flex;gap:8px;align-items:baseline;text-align:left;padding:8px 10px;border-radius:8px;border:1px solid var(--line);background:var(--surface-2);cursor:pointer}
+.conn .dir{flex:none;font:700 .95rem/1 var(--f-label);color:var(--k-ink)}
+.conn .lab{font:700 .95rem/1.1 var(--f-label);color:var(--k-ink);letter-spacing:.02em}
+@media (max-width:759px){
+  .panel{top:auto;left:0;right:0;bottom:0;width:auto;max-height:74%;border-radius:18px 18px 0 0;border-width:2px 0 0;
+    padding-bottom:env(safe-area-inset-bottom,0px);padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inset-right,0px)}
+  .map-hint{font-size:.76rem}
+}
+
+/* contenido markdown */
+.md>:first-child{margin-top:0}
+.md h1{font:700 2.1em/1.05 var(--f-label);letter-spacing:.02em;margin:0 0 .4em;text-wrap:balance}
+.md h2{font:700 1.6em/1.08 var(--f-label);letter-spacing:.01em;margin:0 0 .45em;text-wrap:balance}
+.md h3{font:700 1.2em/1.1 var(--f-label);margin:.8em 0 .3em}
+.md p{margin:.5em 0}
+.md ul{margin:.45em 0;padding-left:1.15em}
+.md li{margin:.2em 0}
+.md li::marker{color:var(--k-ink)}
+.md strong{font-weight:700}
+.tbl{overflow-x:auto;margin:.6em 0}
+.md table{border-collapse:collapse;font-size:.93em;font-variant-numeric:tabular-nums;width:100%}
+.md th,.md td{text-align:left;padding:.28em .55em;border-bottom:1px solid var(--line);vertical-align:top}
+.md th{font:700 1em/1.2 var(--f-label);letter-spacing:.03em;color:var(--muted);border-bottom-width:2px}
+.md td:nth-child(2){white-space:nowrap}
+
+/* ---------- recorrido guiado ---------- */
+#vista-guiado{padding-left:max(16px, env(safe-area-inset-left,0px));padding-right:max(16px, env(safe-area-inset-right,0px));padding-block:20px 56px}
+.g-wrap{max-width:46rem;margin:0 auto;display:flex;flex-direction:column;gap:18px}
+.g-intro{display:flex;flex-direction:column;gap:12px}
+.aviso{margin:0;font-size:.9rem;color:var(--muted)}
+.crumbs{display:flex;align-items:center;gap:6px;overflow-x:auto;padding:2px 2px 6px;scrollbar-width:thin}
+.crumbs button{flex:none;font:700 .98rem/1 var(--f-label);letter-spacing:.03em;padding:7px 10px;border-radius:8px;border:1.5px solid var(--k);color:var(--k-ink);cursor:pointer}
+.crumbs button[aria-current="step"]{background:var(--k);color:var(--surface)}
+.crumbs .sep{flex:none;color:var(--muted)}
+.step{border:2px solid var(--k);border-radius:16px;padding:18px 20px 20px;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:12px}
+.step-meta{display:flex;flex-wrap:wrap;gap:6px 12px;align-items:center;font:700 .9rem/1 var(--f-label);letter-spacing:.08em;text-transform:uppercase;color:var(--k-ink)}
+.step-meta .n{color:var(--muted)}
+.step h2{margin:0;font:700 clamp(1.6rem, 1.2rem + 1.6vw, 2.1rem)/1.05 var(--f-label);letter-spacing:.01em;text-wrap:balance}
+.step h2:focus{outline:none}
+.step .md{font-size:1.04rem}
+.choices{display:grid;gap:10px;margin-top:4px}
+@media (min-width:640px){.choices.multi{grid-template-columns:repeat(auto-fit, minmax(13rem, 1fr))}}
+.choice{display:flex;flex-direction:column;align-items:flex-start;gap:4px;width:100%;text-align:left;padding:14px 16px;border-radius:12px;border:2px solid var(--k);background:var(--surface);cursor:pointer;min-height:58px}
+.choice:hover{background:color-mix(in srgb, var(--k) calc(var(--tint) + 6%), var(--surface))}
+.choice .lab{font:700 1.25rem/1.1 var(--f-label);letter-spacing:.02em;color:var(--k-ink)}
+.choice .tgt{font-size:.95rem;color:var(--muted)}
+.choices-h{margin:6px 0 0;font:700 .9rem/1 var(--f-label);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.fin{margin:4px 0 0;padding:10px 12px;border-radius:10px;background:var(--surface);border:1px dashed var(--k);font-size:.95rem}
+.sec{display:flex;flex-direction:column;gap:10px}
+.sec h3{margin:0;font:700 1rem/1 var(--f-label);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.sec-head{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px}
+.acc{border:1.5px solid var(--k);border-radius:12px;background:var(--surface)}
+.acc>summary{list-style:none;cursor:pointer;display:flex;gap:10px;align-items:center;justify-content:space-between;padding:12px 16px;font:700 1.12rem/1.15 var(--f-label);letter-spacing:.01em;color:var(--k-ink)}
+.acc>summary::-webkit-details-marker{display:none}
+.acc>summary::after{content:"+";flex:none;font:700 1.4rem/1 var(--f-body);color:var(--k-ink)}
+.acc[open]>summary::after{content:"−"}
+.acc-body{padding:0 16px 14px;display:flex;flex-direction:column;gap:10px}
+.notes{display:flex;flex-wrap:wrap;gap:8px}
+.note-chip{display:flex;flex-direction:column;gap:3px;padding:9px 13px;border-radius:12px;border:1px solid var(--line);background:var(--surface);text-decoration:none;color:var(--ink);max-width:100%;min-width:0}
+.note-chip small{font:700 .72rem/1 var(--f-label);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.note-chip span{font-weight:700;color:var(--accent)}
+.g-actions{display:flex;flex-wrap:wrap;gap:8px}
+.btn{display:inline-flex;align-items:center;gap:6px;padding:10px 14px;border-radius:10px;border:1px solid var(--line);background:var(--surface);cursor:pointer;font:700 1rem/1 var(--f-label);letter-spacing:.05em;text-transform:uppercase;text-decoration:none;color:var(--ink)}
+.btn.prim{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.btn:disabled{opacity:.45;cursor:default}
+.g-foot{margin-top:8px;display:flex;flex-direction:column;gap:10px}
+.g-foot .md{font-size:.95rem}
+@media (prefers-reduced-motion: reduce){*{transition:none!important;scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<header class="bar">
+  <div class="brand"><b>Síncope en urgencias</b><span>Flujograma · ESC 2018, EUSEM 2024 y revisiones 2024-2026</span></div>
+  <div class="seg" role="group" aria-label="Vista">
+    <button type="button" data-vista="mapa" aria-pressed="false">Mapa</button>
+    <button type="button" data-vista="guiado" aria-pressed="false">Guiado</button>
+  </div>
+  <button type="button" class="icon-btn" id="tema" aria-label="Cambiar tema"></button>
+</header>
+
+<section id="vista-mapa" hidden aria-label="Mapa del flujograma">
+  <div id="lienzo" tabindex="0" role="region" aria-roledescription="lienzo" aria-label="Mapa del flujograma. Flechas para mover, más y menos para ampliar, cero para ver todo. Tabulador recorre las tarjetas.">
+    <div id="mundo"><svg id="aristas" aria-hidden="true"></svg></div>
+  </div>
+  <p class="map-hint">Arrastra para moverte · Ctrl + rueda o pellizca para ampliar · Toca una tarjeta para leerla</p>
+  <div class="map-tools" role="toolbar" aria-label="Zoom">
+    <button type="button" id="z-menos" aria-label="Alejar">−</button>
+    <button type="button" id="z-mas" aria-label="Acercar">+</button>
+    <span id="zoom-val" aria-live="polite"></span>
+    <button type="button" id="z-ancho">Ancho</button>
+    <button type="button" id="z-todo">Todo</button>
+  </div>
+  <aside class="panel" id="panel" hidden role="dialog" aria-labelledby="panel-titulo">
+    <div class="panel-head">
+      <div><div class="kicker" id="panel-kicker"></div><h2 id="panel-titulo"></h2></div>
+      <button type="button" class="icon-btn" id="panel-cerrar" aria-label="Cerrar"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M5 5l10 10M15 5L5 15"/></svg></button>
+    </div>
+    <div class="panel-body" id="panel-cuerpo"></div>
+  </aside>
+</section>
+
+<main id="vista-guiado" hidden>
+  <div class="g-wrap">
+    <div class="g-intro" id="g-intro"></div>
+    <nav class="crumbs" id="crumbs" aria-label="Camino recorrido"></nav>
+    <article class="step tinted" id="step" aria-live="polite"></article>
+    <div class="g-wrap" id="g-extra"></div>
+    <div class="g-actions">
+      <button type="button" class="btn" id="g-atras">← Atrás</button>
+      <button type="button" class="btn" id="g-reinicio">Volver al inicio</button>
+      <button type="button" class="btn" id="g-mapa">Ver en el mapa</button>
+    </div>
+    <footer class="g-foot" id="g-pie"></footer>
+  </div>
+</main>
+<noscript><p style="padding:16px">Este flujograma necesita JavaScript.</p></noscript>
+
+<script type="application/json" id="flujo-datos">{"nodos":{"c2c7a7d72ef2c0ec":{"id":"c2c7a7d72ef2c0ec","tipo":"text","x":0,"y":0,"w":2320,"h":310,"color":"6","tituloHtml":"SÍNCOPE EN URGENCIAS — FLUJOGRAMA","titulo":"SÍNCOPE EN URGENCIAS — FLUJOGRAMA","nivel":1,"cuerpo":"<p><strong>Léelo de arriba abajo; las ramas laterales con etiqueta son salidas reales del circuito.<\/strong> Integra ESC 2018, consenso EUSEM 2024, Möckel 2026, Furlan 2024 (RED-SOS), UpToDate 2026 y NEJM 2026, con los estudios primarios verificados en PubMed.<\/p><p><strong>Colores:<\/strong> cian = valoración · amarillo = decisión · rojo = urgente o vía específica · verde = bajo riesgo · naranja = riesgo intermedio · morado = detalle, evidencia o advertencia. Cada tarjeta enlaza a su sección de la nota. <strong>Las tarjetas de nota<\/strong> (fila 00 y columnas laterales, unidas por líneas) muestran la nota del vault correspondiente.<\/p><p><a href=\"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/S%C3%ADncope-en-Urgencias---S%C3%ADntesis-de-Gu%C3%ADas-y-Evidencia\" target=\"_blank\" rel=\"noopener\">Abrir la nota completa con todas las fuentes →<\/a> · Tablas 6 y 7 de la ESC en <a href=\"https://mirapuntes.pages.dev/10_Patologias/01_Cardio/S%C3%ADncope\" target=\"_blank\" rel=\"noopener\">Síncope<\/a> · Guía de guardia: <a href=\"https://mirapuntes.pages.dev/30_Urgencias/MUST/MUST---S%C3%ADncope\" target=\"_blank\" rel=\"noopener\">MUST - Síncope<\/a> · Solo EUSEM: <a href=\"https://mirapuntes.pages.dev/30_Urgencias/Syncope-EUSEM-2024/Syncope-EUSEM-2024-explained\" target=\"_blank\" rel=\"noopener\">Syncope-EUSEM-2024-explained<\/a><\/p><p><em>Elaborado el 28/10/2026 · Material educativo: no sustituye al protocolo local ni al juicio clínico.<\/em><\/p>","corto":"Síncope en urgencias — f…"},"72523198769c23ca":{"id":"72523198769c23ca","tipo":"file","x":0,"y":440,"w":440,"h":340,"color":"6","titulo":"Síncope en Urgencias - Síntesis de Guías y Evidencia","corto":"Síncope en Urgencias - S…","carpeta":"Patologia Aguda","toc":["1. Marco común: cuatro fuentes, el mismo esqueleto","2. ¿Es realmente un síncope?","3. Excluir lo que mata ya","4. Pruebas en urgencias","5. Estratificación del riesgo","6. Observación y monitorización","7. Destino y alta segura","8. Situaciones especiales"],"url":"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/S%C3%ADncope-en-Urgencias---S%C3%ADntesis-de-Gu%C3%ADas-y-Evidencia","archivo":"30_Urgencias/Patologia_Aguda/Síncope en Urgencias - Síntesis de Guías y Evidencia.md"},"282ba125bf8d932e":{"id":"282ba125bf8d932e","tipo":"file","x":470,"y":440,"w":440,"h":340,"color":"6","titulo":"Síncope","corto":"Síncope","carpeta":"Cardio","toc":["Signos de Alarma (Red Flags) — Tabla 6 ESC 2018","Clasificación y Etiología","Valoración en Urgencias","Tratamiento","Algoritmo de Manejo en Urgencias","Unidad de Síncope (Sección 9 ESC 2018)","Mensajes clave para la guardia","Enlaces / Bibliografía"],"url":"https://mirapuntes.pages.dev/10_Patologias/01_Cardio/S%C3%ADncope","archivo":"10_Patologias/01_Cardio/Síncope.md"},"329c21c1a62b5c34":{"id":"329c21c1a62b5c34","tipo":"file","x":940,"y":440,"w":440,"h":340,"color":"6","titulo":"MUST - Síncope","corto":"MUST - Síncope","carpeta":"MUST","toc":["1- CUÁNDO AVISAR YA AL ADJUNTO O RESIDENTE MAYOR","2- QUÉ PREGUNTAR (anamnesis dirigida, <3 minutos)","3- QUÉ EXPLORAR (exploración dirigida, <2 minutos)","4- QUÉ PRUEBAS PEDIR","5- MEDIDAS Y TRATAMIENTO SEGÚN SOSPECHA","6- PERLAS PARA NO OLVIDAR"],"url":"https://mirapuntes.pages.dev/30_Urgencias/MUST/MUST---S%C3%ADncope","archivo":"30_Urgencias/MUST/MUST - Síncope.md"},"18f89affba0129e2":{"id":"18f89affba0129e2","tipo":"file","x":1410,"y":440,"w":440,"h":340,"color":"6","titulo":"Síncope Neurológico","corto":"Síncope Neurológico","carpeta":"Neuro","toc":["Definición","Etiología","Clínica y Diagnóstico Diferencial","Diagnóstico","Estratificación del riesgo","Tratamiento","Seguimiento / Pronóstico"],"url":"https://mirapuntes.pages.dev/10_Patologias/02_Neuro/S%C3%ADncope-Neurol%C3%B3gico","archivo":"10_Patologias/02_Neuro/Síncope Neurológico.md"},"7c8b707974c4cf6c":{"id":"7c8b707974c4cf6c","tipo":"file","x":1880,"y":440,"w":440,"h":340,"color":"6","titulo":"Syncope-EUSEM-2024-explained","corto":"Syncope-EUSEM-2024-expla…","carpeta":"Syncope-EUSEM-2024","toc":["How to read the Canvas","1 — Start with the event","2 — Separate trauma and shock early","3 — Establish the initial clinical picture","4 — Reconstruct the episode and consider orthostasis","5 — Decide which problem you are treating","6 — Stratify risk without confusing it with certainty","7 — Make the disposition understandable"],"url":"https://mirapuntes.pages.dev/30_Urgencias/Syncope-EUSEM-2024/Syncope-EUSEM-2024-explained","archivo":"30_Urgencias/Syncope-EUSEM-2024/Syncope-EUSEM-2024-explained.md"},"716fef20b1fb510b":{"id":"716fef20b1fb510b","tipo":"text","x":600,"y":1000,"w":520,"h":500,"color":"5","tituloHtml":"1 · PTC aparente o presíncope","titulo":"1 · PTC aparente o presíncope","nivel":2,"cuerpo":"<p>Llega «un desmayo», pero eso ya es una interpretación. Parte de lo que se puede establecer: una <strong>pérdida transitoria de conciencia (PTC)<\/strong>, sus circunstancias y cómo se recuperó.<\/p><ul><li><strong>Testigo<\/strong> (en persona o por teléfono): qué pasó <strong>antes<\/strong> (postura, desencadenante, pródromos), <strong>durante<\/strong> (duración, movimientos, color, lesión) y <strong>después<\/strong> (rapidez de la recuperación, confusión).<\/li><li>Triaje con constantes completas y <strong>ECG precoz<\/strong>.<\/li><li><strong>No etiquetarlo todavía como síncope<\/strong>: si la alteración de conciencia persiste, hace falta un enfoque más amplio.<\/li><\/ul><p><a href=\"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/S%C3%ADncope-en-Urgencias---S%C3%ADntesis-de-Gu%C3%ADas-y-Evidencia#-2-es-realmente-un-s%C3%ADncope\" target=\"_blank\" rel=\"noopener\">Ver en la nota →<\/a><\/p>","corto":"1"},"4218063f3063bf30":{"id":"4218063f3063bf30","tipo":"text","x":1200,"y":1000,"w":520,"h":500,"color":"6","tituloHtml":"¿Y el presíncope?","titulo":"¿Y el presíncope?","nivel":2,"cuerpo":"<ul><li><strong>ESC 2018, EUSEM y UpToDate:<\/strong> misma evaluación que el síncope (mismo pronóstico; EUSEM incluye la PTC parcial).<\/li><li><strong>Furlan:<\/strong> no manejarlo como síncope (definición vaga, pronóstico poco estudiado).<\/li><\/ul><p><strong>Lectura práctica:<\/strong> si es un <strong>presíncope verdadero<\/strong>, y no un mareo inespecífico ni un vértigo (orientarse por la cronología y los desencadenantes), se evalúa como un síncope.<\/p><p>→ <a href=\"https://mirapuntes.pages.dev/10_Patologias/02_Neuro/Mareo-y-V%C3%A9rtigo---Abordaje-Diagn%C3%B3stico\" target=\"_blank\" rel=\"noopener\">Mareo y Vértigo - Abordaje Diagnóstico<\/a><\/p>","corto":"¿Y el presíncope?"},"deb6f3e63bd79133":{"id":"deb6f3e63bd79133","tipo":"text","x":600,"y":1590,"w":520,"h":390,"color":"3","tituloHtml":"2a · ¿Inestable ahora?","titulo":"2a · ¿Inestable ahora?","nivel":2,"cuerpo":"<p>Shock, hipoxemia, PAS &lt; 90 mmHg que no remonta, arritmia en curso o una alteración de conciencia que no se recupera.<\/p><p>En la práctica, este paso y el siguiente se hacen a la vez que el triaje: <strong>no se espera a la casilla siguiente para reanimar<\/strong>.<\/p>","corto":"2a"},"8f9604a370b84bf4":{"id":"8f9604a370b84bf4","tipo":"text","x":1200,"y":1590,"w":520,"h":390,"color":"1","tituloHtml":"ABCDE · SVA · circuito de shock","titulo":"ABCDE · SVA · circuito de shock","nivel":2,"cuerpo":"<p>Se trata la amenaza fisiológica y su causa <strong>antes que cualquier algoritmo de síncope<\/strong> (Furlan, Möckel).<\/p><ul><li>En urgencias, el shock con PTC es con frecuencia <strong>séptico<\/strong> (EUSEM): cribado según el protocolo local (NEWS2, qSOFA).<\/li><li>Pero no todo shock es séptico: pensar también en hemorragia y en causas obstructivas (TEP, taponamiento) o cardiogénicas.<\/li><\/ul><p>→ <a href=\"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/Shock\" target=\"_blank\" rel=\"noopener\">Shock<\/a> · <a href=\"https://mirapuntes.pages.dev/10_Patologias/03_Infecciosas/Sepsis/Sepsis---Abordaje-Inicial-(SSC-2026)\" target=\"_blank\" rel=\"noopener\">Sepsis - Abordaje Inicial (SSC 2026)<\/a><\/p>","corto":"ABCDE"},"5f3f5669eb30342c":{"id":"5f3f5669eb30342c","tipo":"text","x":0,"y":2070,"w":520,"h":310,"color":"1","tituloHtml":"Vía de PTC traumática","titulo":"Vía de PTC traumática","nivel":2,"cuerpo":"<p>Primero se valora y trata la lesión: TCE, fracturas, sangrado (cuidado con los anticoagulados).<\/p><p><strong>Si fue el síncope el que provocó la caída, hay que estudiar ambas cosas<\/strong>: la lesión no explica el episodio previo.<\/p><p>→ <a href=\"https://mirapuntes.pages.dev/10_Patologias/02_Neuro/TCE-Leve-Moderado\" target=\"_blank\" rel=\"noopener\">TCE Leve-Moderado<\/a><\/p>","corto":"Vía de PTC traumática"},"e420501c281568b9":{"id":"e420501c281568b9","tipo":"text","x":600,"y":2070,"w":520,"h":310,"color":"3","tituloHtml":"2b · ¿Un traumatismo causó la PTC?","titulo":"2b · ¿Un traumatismo causó la PTC?","nivel":2,"cuerpo":"<p>Son dos preguntas distintas: ¿el TCE causó la pérdida de conciencia, o el síncope causó la caída y el traumatismo?<\/p><p>Cuesta especialmente en <strong>ancianos, en la demencia y en las caídas sin testigos<\/strong> (EUSEM).<\/p>","corto":"2b"},"60375fd3421455c1":{"id":"60375fd3421455c1","tipo":"text","x":600,"y":2470,"w":520,"h":220,"color":"5","tituloHtml":"PTC no traumática sin shock","titulo":"PTC no traumática sin shock","nivel":2,"cuerpo":"<p>Es una <strong>descripción de trabajo<\/strong>, no un diagnóstico: aún no se sabe si fue un síncope u otra PTC (EUSEM).<\/p><p>A partir de aquí, cuatro tareas <strong>en paralelo<\/strong>.<\/p>","corto":"PTC no traumática sin sh…"},"1ddca408155c4564":{"id":"1ddca408155c4564","tipo":"text","x":0,"y":2910,"w":520,"h":560,"color":"5","tituloHtml":"3a · Constantes","titulo":"3a · Constantes","nivel":2,"cuerpo":"<p>PA, FC, SatO₂, FR y temperatura: revisar las del triaje y repetirlas.<\/p><ul><li><strong>Glucemia capilar<\/strong> si hay alteración del estado mental (UpToDate).<\/li><li>Hipoxemia o taquipnea: pensar en IC o TEP.<\/li><li>Asimetría de pulsos o de PA entre brazos: disección o robo de la subclavia.<\/li><li>Unas constantes normales <strong>ahora<\/strong> no reconstruyen lo que pasó <strong>antes<\/strong>.<\/li><\/ul><p><a href=\"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/S%C3%ADncope-en-Urgencias---S%C3%ADntesis-de-Gu%C3%ADas-y-Evidencia#-4-pruebas-en-urgencias\" target=\"_blank\" rel=\"noopener\">Ver en la nota →<\/a><\/p>","corto":"3a"},"0247ae4cf0a6ab8b":{"id":"0247ae4cf0a6ab8b","tipo":"text","x":600,"y":2910,"w":520,"h":560,"color":"5","tituloHtml":"3b · ECG de 12 derivaciones — a todos","titulo":"3b · ECG de 12 derivaciones — a todos","nivel":2,"cuerpo":"<ul><li><strong>Lectura experta en ≤ 10 min desde el registro<\/strong>, documentada y firmada (EUSEM).<\/li><li><strong>Actuación inmediata<\/strong> (Furlan): IAM, BAV de 3.er grado, taquicardia de QRS ancho, taquicardia de QRS estrecho &gt; 160 lpm, disfunción de marcapasos o DAI.<\/li><li><strong>Solo un ECG normal permite hablar de bajo riesgo<\/strong>. Compararlo con previos: ritmo sinusal sin cambios nuevos se asocia a menor riesgo.<\/li><li><strong>Monitor<\/strong> mientras esté en urgencias; <strong>interrogar el dispositivo<\/strong> (marcapasos, DAI, reloj).<\/li><\/ul><p><a href=\"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/S%C3%ADncope-en-Urgencias---S%C3%ADntesis-de-Gu%C3%ADas-y-Evidencia#ecg--a-todos-y-bien-le%C3%ADdo\" target=\"_blank\" rel=\"noopener\">Ver en la nota →<\/a><\/p>","corto":"3b"},"2b336619adf6b814":{"id":"2b336619adf6b814","tipo":"text","x":1200,"y":2910,"w":520,"h":560,"color":"5","tituloHtml":"3c · Analítica dirigida","titulo":"3c · Analítica dirigida","nivel":2,"cuerpo":"<ul><li><strong>ESC:<\/strong> no sistemática. Hb si se sospecha hemorragia, troponina si hay isquemia, dímero D si hay TEP.<\/li><li><strong>EUSEM:<\/strong> como mínimo <strong>glucemia + Hb<\/strong> «si se recomienda en el entorno»; el resto, según la sospecha.<\/li><li><strong>Test de embarazo<\/strong> en toda mujer en edad fértil.<\/li><li><strong>BNP y troponina ultrasensible:<\/strong> útiles sobre todo en mayores y cardiópatas (forman parte de FAINT y de la CSRS).<\/li><li>Un Hto &lt; 30 % es marcador de riesgo.<\/li><\/ul><p><a href=\"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/S%C3%ADncope-en-Urgencias---S%C3%ADntesis-de-Gu%C3%ADas-y-Evidencia#anal%C3%ADtica--dirigida-por-la-sospecha\" target=\"_blank\" rel=\"noopener\">Ver en la nota →<\/a><\/p>","corto":"3c"},"7180a432b886a23a":{"id":"7180a432b886a23a","tipo":"text","x":1800,"y":2910,"w":520,"h":560,"color":"5","tituloHtml":"3d · Anamnesis, exploración y ortostatismo","titulo":"3d · Anamnesis, exploración y ortostatismo","nivel":2,"cuerpo":"<ul><li><strong>Posición:<\/strong> bipedestación prolongada o calor → reflejo; al levantarse → HO; <strong>sentado, tumbado o en esfuerzo → cardiaco<\/strong>.<\/li><li><strong>Pródromos:<\/strong> típicos (calor, sudor, náuseas) frente a <strong>ninguno o palpitaciones<\/strong>.<\/li><li>Fármacos, cardiopatía y antecedente familiar de muerte súbita.<\/li><li>Exploración: <strong>soplo<\/strong>, focalidad, lesiones; <strong>tacto rectal<\/strong> si se sospecha HDA.<\/li><li><strong>Ortostatismo (ESC):<\/strong> 5 min en supino → 3 min de pie. Es diagnóstico si la PAS cae ≥ 20 mmHg o la PAD ≥ 10 mmHg, o la PAS queda &lt; 90 mmHg, <strong>reproduciendo los síntomas<\/strong>. Una HO no excluye otra causa.<\/li><\/ul><p><a href=\"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/S%C3%ADncope-en-Urgencias---S%C3%ADntesis-de-Gu%C3%ADas-y-Evidencia#ortostatismo--con-criterios-esc\" target=\"_blank\" rel=\"noopener\">Ver en la nota →<\/a><\/p>","corto":"3d"},"0c312599f2cf3fe6":{"id":"0c312599f2cf3fe6","tipo":"text","x":0,"y":3560,"w":520,"h":540,"color":"6","tituloHtml":"Claves del diferencial","titulo":"Claves del diferencial","nivel":2,"cuerpo":"<ul><li><strong>Crisis epiléptica:<\/strong> mordedura <strong>lateral<\/strong> de la lengua (especificidad 96 %, sensibilidad 33 %), confusión postcrítica prolongada, CK o lactato elevados (Furlan).<\/li><li>La <strong>incontinencia urinaria no discrimina<\/strong> (aparece en el 10-20 % de los síncopes) y las <strong>mioclonías breves<\/strong> son frecuentes en el síncope.<\/li><li>PTC <strong>&gt; 4-5 min<\/strong> → pensar en crisis u otra alteración de conciencia.<\/li><li><strong>Seudosíncope psicógeno:<\/strong> &gt; 5 min, ojos cerrados o resistencia a abrirlos, conciencia fluctuante.<\/li><li><strong>Coma transitorio / intoxicación etílica:<\/strong> se solapan con frecuencia; el coma tiene alta mortalidad.<\/li><li><strong>Anciano con caída sin testigos:<\/strong> manejarlo como síncope mientras no se demuestre lo contrario.<\/li><\/ul><p><a href=\"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/S%C3%ADncope-en-Urgencias---S%C3%ADntesis-de-Gu%C3%ADas-y-Evidencia#-2-es-realmente-un-s%C3%ADncope\" target=\"_blank\" rel=\"noopener\">Ver en la nota →<\/a><\/p>","corto":"Claves del diferencial"},"68e5e60052f1da7c":{"id":"68e5e60052f1da7c","tipo":"text","x":600,"y":3560,"w":520,"h":540,"color":"3","tituloHtml":"4 · ¿Es realmente un síncope?","titulo":"4 · ¿Es realmente un síncope?","nivel":2,"cuerpo":"<p>Síncope = PTC por <strong>hipoperfusión cerebral global<\/strong>: inicio rápido, duración corta y recuperación <strong>espontánea, completa y precoz<\/strong> (ESC 2018).<\/p><p>Solo se llama síncope <strong>tras descartar otras PTC<\/strong>, y el diagnóstico se reevalúa durante todo el proceso (EUSEM).<\/p>","corto":"4"},"2cdace942643a0e3":{"id":"2cdace942643a0e3","tipo":"text","x":1200,"y":3560,"w":520,"h":540,"color":"6","tituloHtml":"PTC no sincopal o dudosa","titulo":"PTC no sincopal o dudosa","nivel":2,"cuerpo":"<p>Reevaluar: crisis epiléptica, PTC psicógena, TCE, coma transitorio, intoxicación o causa metabólica (hipoglucemia, hipoxia).<\/p><ul><li><strong>No se fuerza un episodio dudoso a entrar en una categoría de riesgo de síncope.<\/strong><\/li><li>El EEG y la neuroimagen no superan a una buena anamnesis. TC craneal solo si se sospecha HSA o hay un TCE significativo.<\/li><\/ul><p>→ <a href=\"https://mirapuntes.pages.dev/10_Patologias/02_Neuro/Status-Epil%C3%A9ptico\" target=\"_blank\" rel=\"noopener\">Status Epiléptico<\/a> · <a href=\"https://mirapuntes.pages.dev/10_Patologias/02_Neuro/S%C3%ADncope-Neurol%C3%B3gico\" target=\"_blank\" rel=\"noopener\">Síncope Neurológico<\/a> · <a href=\"https://mirapuntes.pages.dev/10_Patologias/02_Neuro/Hemorragia-Subaracnoidea\" target=\"_blank\" rel=\"noopener\">Hemorragia Subaracnoidea<\/a><\/p>","corto":"PTC no sincopal o dudosa"},"216a8b925775d40c":{"id":"216a8b925775d40c","tipo":"text","x":600,"y":4320,"w":520,"h":500,"color":"3","tituloHtml":"5 · ¿Hay una causa grave o una causa clara?","titulo":"5 · ¿Hay una causa grave o una causa clara?","nivel":2,"cuerpo":"<p>Se integran historia, exploración, ECG y pruebas.<\/p><p><strong>Signos de alarma de RED-SOS<\/strong> que obligan a ampliar el estudio (troponina, dímero D, ecografía o TC según la sospecha):<\/p><ul><li>disnea;<\/li><li>dolor: cefalea, torácico o abdominal;<\/li><li>focalidad neurológica;<\/li><li>taquicardia persistente;<\/li><li>hipotensión.<\/li><\/ul><p><a href=\"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/S%C3%ADncope-en-Urgencias---S%C3%ADntesis-de-Gu%C3%ADas-y-Evidencia#-3-excluir-lo-que-mata-ya\" target=\"_blank\" rel=\"noopener\">Ver en la nota →<\/a><\/p>","corto":"5"},"4f877028b3a6beab":{"id":"4f877028b3a6beab","tipo":"text","x":1200,"y":4320,"w":520,"h":500,"color":"6","tituloHtml":"TEP: pensar en él siempre, no buscarlo en todos","titulo":"TEP: pensar en él siempre, no buscarlo en todos","nivel":2,"cuerpo":"<ul><li><strong>PESIT<\/strong> (NEJM 2016): búsqueda <strong>sistemática<\/strong> en 560 hospitalizados por un primer síncope (edad media 76 años) → <strong>17,3 %<\/strong>.<\/li><li><strong>BASEL IX<\/strong> (JACC 2019): 1397 síncopes en urgencias → <strong>1,4 %<\/strong>; 2,3 % en los hospitalizados.<\/li><li>Bases de datos de &gt; 1,6 millones de síncopes: 0,06-0,55 % del total.<\/li><\/ul><p><strong>Se estudia según la probabilidad pretest<\/strong> si hay disnea, dolor torácico, hipoxemia, taquicardia o sobrecarga de VD en el ECG.<\/p><p>→ <a href=\"https://mirapuntes.pages.dev/10_Patologias/01_Cardio/TEP---Tromboembolismo-Pulmonar\" target=\"_blank\" rel=\"noopener\">TEP - Tromboembolismo Pulmonar<\/a> · <a href=\"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/S%C3%ADncope-en-Urgencias---S%C3%ADntesis-de-Gu%C3%ADas-y-Evidencia#tep--pensar-en-%C3%A9l-siempre-no-buscarlo-en-todos\" target=\"_blank\" rel=\"noopener\">Ver en la nota →<\/a><\/p>","corto":"TEP: pensar en él siempr…"},"4aeb3732cc22b847":{"id":"4aeb3732cc22b847","tipo":"text","x":0,"y":4910,"w":520,"h":630,"color":"1","tituloHtml":"A · Síncope como síntoma de otra enfermedad","titulo":"A · Síncope como síntoma de otra enfermedad","nivel":2,"cuerpo":"<p>El síncope pasa a segundo plano: <strong>manda el protocolo de esa enfermedad<\/strong>, y la etiqueta de «síncope» no debe retrasarlo (EUSEM).<\/p><ul><li><strong>TEP<\/strong> (ver la tarjeta de evidencia).<\/li><li><strong>Síndrome aórtico agudo:<\/strong> solo el 13 % debuta con síncope y &gt; 80-90 % tiene dolor torácico; ADD-RS ≤ 1 con dímero D &lt; 500 ng/mL ayuda a descartarlo.<\/li><li><strong>SCA<\/strong> y <strong>HSA<\/strong> (cefalea brusca).<\/li><li><strong>Hemorragia:<\/strong> HDA (tacto rectal), AAA roto, ectópico (test de embarazo; ecografía a pie de cama).<\/li><li><strong>Sepsis sin shock<\/strong>; <strong>anafilaxia<\/strong> cuando los síntomas cutáneos ya se han resuelto.<\/li><\/ul><p>→ <a href=\"https://mirapuntes.pages.dev/10_Patologias/01_Cardio/S%C3%ADndrome-A%C3%B3rtico-Agudo-y-Enfermedad-A%C3%B3rtica\" target=\"_blank\" rel=\"noopener\">Síndrome Aórtico Agudo y Enfermedad Aórtica<\/a> · <a href=\"https://mirapuntes.pages.dev/10_Patologias/01_Cardio/SCA---Evaluaci%C3%B3n-Inicial-y-Clasificaci%C3%B3n\" target=\"_blank\" rel=\"noopener\">SCA - Evaluación Inicial y Clasificación<\/a> · <a href=\"https://mirapuntes.pages.dev/10_Patologias/02_Neuro/Hemorragia-Subaracnoidea\" target=\"_blank\" rel=\"noopener\">Hemorragia Subaracnoidea<\/a> · <a href=\"https://mirapuntes.pages.dev/10_Patologias/04_Digestivo/Hemorragia-Digestiva-Alta-(HDA)\" target=\"_blank\" rel=\"noopener\">Hemorragia Digestiva Alta (HDA)<\/a> · <a href=\"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/Anafilaxia-en-Adultos\" target=\"_blank\" rel=\"noopener\">Anafilaxia en Adultos<\/a><\/p>","corto":"A"},"94a12ea3a172f752":{"id":"94a12ea3a172f752","tipo":"text","x":600,"y":4910,"w":520,"h":630,"color":"3","tituloHtml":"C · Síncope probable, causa incierta","titulo":"C · Síncope probable, causa incierta","nivel":2,"cuerpo":"<p>Es el grupo más numeroso: en la primera evaluación solo se llega a la causa en ~50 % de los casos.<\/p><p>Si el mecanismo parece reflejo u ortostático, lo confirmará la estratificación (bajo riesgo).<\/p><p><strong>También sin diagnóstico final se puede decidir con seguridad<\/strong> → estratificación del riesgo.<\/p>","corto":"C"},"c7f6cb110e09d853":{"id":"c7f6cb110e09d853","tipo":"text","x":1200,"y":4910,"w":520,"h":630,"color":"1","tituloHtml":"B · Causa cardiaca cierta o muy probable","titulo":"B · Causa cardiaca cierta o muy probable","nivel":2,"cuerpo":"<p>Ejemplos: <strong>BAV completo<\/strong>, <strong>estenosis aórtica grave<\/strong> (soplo → POCUS con velocidad pico aórtica &gt; 2 m/s), TV documentada, disfunción de marcapasos o DAI, derrame pericárdico.<\/p><ul><li>Pasa a la vía específica de esa causa: monitorización y cardiología.<\/li><li><strong>Una causa conocida puede ser peligrosa<\/strong>: tener el diagnóstico no significa que el alta sea segura.<\/li><\/ul><p>→ <a href=\"https://mirapuntes.pages.dev/10_Patologias/01_Cardio/Arritmias\" target=\"_blank\" rel=\"noopener\">Arritmias<\/a> · <a href=\"https://mirapuntes.pages.dev/10_Patologias/01_Cardio/Valvulopat%C3%ADas\" target=\"_blank\" rel=\"noopener\">Valvulopatías<\/a> · <a href=\"https://mirapuntes.pages.dev/10_Patologias/01_Cardio/Miocardiopat%C3%ADas\" target=\"_blank\" rel=\"noopener\">Miocardiopatías<\/a> · <a href=\"https://mirapuntes.pages.dev/10_Patologias/01_Cardio/Taponamiento-Cardiaco\" target=\"_blank\" rel=\"noopener\">Taponamiento Cardiaco<\/a><\/p>","corto":"B"},"77d67fb394108b02":{"id":"77d67fb394108b02","tipo":"text","x":0,"y":5760,"w":520,"h":870,"color":"6","tituloHtml":"Otras listas de alto riesgo","titulo":"Otras listas de alto riesgo","nivel":2,"cuerpo":"<p><strong>Consenso internacional 2016<\/strong> (lo reproducen Furlan y UpToDate). Basta un criterio:<\/p><ul><li>Hb &lt; 9 g/dL; PAS mínima en urgencias &lt; 90 mmHg; bradicardia sinusal &lt; 40 lpm;<\/li><li>BRI nuevo, bloqueo bifascicular, Brugada, isquemia aguda, ritmo no sinusal nuevo;<\/li><li><strong>QTc &gt; 450 ms<\/strong> (en la ESC, &gt; 460 ms);<\/li><li>además de los rasgos del episodio y de los antecedentes.<\/li><\/ul><p><strong>Intermedio<\/strong> también: rasgos de bajo riesgo + comorbilidad (IRC, insuficiencia respiratoria o hepática, neoplasia, ECV, cardiopatía previa).<\/p>","corto":"Otras listas de alto rie…"},"4f83575fa4f284cd":{"id":"4f83575fa4f284cd","tipo":"text","x":600,"y":5760,"w":520,"h":870,"color":"3","tituloHtml":"6 · ¿Qué riesgo queda?","titulo":"6 · ¿Qué riesgo queda?","nivel":2,"cuerpo":"<p>Se valora con el <strong>episodio + los antecedentes + la exploración + el ECG<\/strong> (± troponina y BNP en mayores y cardiópatas).<\/p><ul><li><strong>ESC 2018:<\/strong> solo bajo riesgo / ni bajo ni alto / cualquier alto riesgo. Los criterios mayores y menores están en la Tabla 6 de <a href=\"https://mirapuntes.pages.dev/10_Patologias/01_Cardio/S%C3%ADncope\" target=\"_blank\" rel=\"noopener\">Síncope<\/a>.<\/li><li>Lo que más pesa en todos los estudios: un <strong>ECG anormal<\/strong> y la <strong>cardiopatía estructural o IC<\/strong>.<\/li><li><strong>Inexplicado no significa bajo riesgo.<\/strong><\/li><\/ul><p><a href=\"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/S%C3%ADncope-en-Urgencias---S%C3%ADntesis-de-Gu%C3%ADas-y-Evidencia#-5-estratificaci%C3%B3n-del-riesgo\" target=\"_blank\" rel=\"noopener\">Ver en la nota →<\/a><\/p>","corto":"6"},"b8374c7f52d5a570":{"id":"b8374c7f52d5a570","tipo":"text","x":1200,"y":5760,"w":520,"h":870,"color":"6","tituloHtml":"Canadian Syncope Risk Score (CSRS)","titulo":"Canadian Syncope Risk Score (CSRS)","nivel":2,"cuerpo":"<p><strong>Solo<\/strong> tras la evaluación inicial, si no hay causa grave evidente. Población: ≥ 16 años, &lt; 24 h desde el síncope. Excluye PTC &gt; 5 min, alteración mental persistente, crisis presenciada, trauma mayor, intoxicación y TCE causante.<\/p><div class=\"tbl\"><table><thead><tr><th>Variable<\/th><th>Puntos<\/th><\/tr><\/thead><tbody><tr><td>Predisposición vasovagal<\/td><td>−1<\/td><\/tr><tr><td>Antecedente de cardiopatía<\/td><td>+1<\/td><\/tr><tr><td>Cualquier PAS &lt; 90 o &gt; 180 mmHg<\/td><td>+2<\/td><\/tr><tr><td>Troponina &gt; p99<\/td><td>+2<\/td><\/tr><tr><td>Eje QRS &lt; −30° o &gt; 100° (†)<\/td><td>+1<\/td><\/tr><tr><td>QRS &gt; 130 ms<\/td><td>+1<\/td><\/tr><tr><td>QTc &gt; 480 ms<\/td><td>+2<\/td><\/tr><tr><td>Diagnóstico en urgencias: vasovagal<\/td><td>−2<\/td><\/tr><tr><td>Diagnóstico en urgencias: cardiaco<\/td><td>+2<\/td><\/tr><\/tbody><\/table><\/div><div class=\"tbl\"><table><thead><tr><th>Total<\/th><th>Categoría<\/th><th>Evento grave a 30 días<\/th><\/tr><\/thead><tbody><tr><td>≤ −2<\/td><td>Muy bajo<\/td><td>&lt; 1 %<\/td><\/tr><tr><td>−1 a 3<\/td><td>Bajo / medio<\/td><td>1-8 %<\/td><\/tr><tr><td>≥ 4<\/td><td>Alto / muy alto<\/td><td>&gt; 12 %<\/td><\/tr><\/tbody><\/table><\/div><p>(†) El resumen del original y AAFP dan &gt; 100°; las tablas del original, &gt; 110°.<\/p>","corto":"Canadian Syncope Risk Sc…"},"d8b0bd89cc7f33b3":{"id":"d8b0bd89cc7f33b3","tipo":"text","x":1800,"y":5760,"w":520,"h":870,"color":"6","tituloHtml":"Escalas: apoyo, no sustituto","titulo":"Escalas: apoyo, no sustituto","nivel":2,"cuerpo":"<ul><li><strong>ESC 2018:<\/strong> «pueden considerarse» (<strong>Clase IIb-B<\/strong>), pero no superan al juicio clínico y <strong>nunca deben usarse solas<\/strong>.<\/li><li>Solo dentro de su población: un SCA sin criterios de la escala sigue necesitando ingreso, y la PTC por TCE o por tóxicos queda fuera.<\/li><li><strong>SEED<\/strong> (Europa, 952 pacientes): <strong>75,3 %<\/strong> de alto riesgo según la ESC, pero <strong>69,3 %<\/strong> de bajo riesgo según la CSRS. Los criterios ESC son muy inclusivos en urgencias; de ahí el peso del juicio clínico y de la observación estructurada.<\/li><li>Otras escalas: FAINT (≥ 60 años, con NT-proBNP y troponina T-us), San Francisco (validaciones inconsistentes) y OESIL.<\/li><\/ul>","corto":"Escalas: apoyo, no susti…"},"2784cc42ed26accd":{"id":"2784cc42ed26accd","tipo":"text","x":0,"y":6720,"w":520,"h":440,"color":"4","tituloHtml":"BAJO RIESGO","titulo":"BAJO RIESGO","nivel":2,"cuerpo":"<p>Solo rasgos de bajo riesgo (ESC):<\/p><ul><li>pródromos típicos (calor, sudor, náuseas) o un desencadenante claro (dolor, emoción, visión de sangre, micción, tos);<\/li><li>tras bipedestación prolongada, en sitios calurosos o concurridos, o al levantarse;<\/li><li>historia larga (años) de episodios iguales;<\/li><li><strong>sin cardiopatía estructural, con exploración normal y ECG normal<\/strong>.<\/li><\/ul><p>CSRS ≤ 0 (muy bajo o bajo).<\/p>","corto":"Bajo riesgo"},"81025396ccf01285":{"id":"81025396ccf01285","tipo":"text","x":600,"y":6720,"w":520,"h":440,"color":"2","tituloHtml":"RIESGO INTERMEDIO","titulo":"RIESGO INTERMEDIO","nivel":2,"cuerpo":"<p><strong>Ni bajo ni alto<\/strong>: no hay rasgos de alto riesgo, pero tampoco solo de bajo riesgo.<\/p><p>También (consenso 2016): rasgos de bajo riesgo <strong>+ comorbilidad relevante<\/strong>.<\/p><p>CSRS 1 a 3 (medio).<\/p><p><strong>No se da el alta directa<\/strong> desde urgencias.<\/p>","corto":"Riesgo intermedio"},"e9d07b4c9306993d":{"id":"e9d07b4c9306993d","tipo":"text","x":1200,"y":6720,"w":520,"h":440,"color":"1","tituloHtml":"ALTO RIESGO","titulo":"ALTO RIESGO","nivel":2,"cuerpo":"<p>Cualquier rasgo mayor de la Tabla 6 de la ESC, por ejemplo:<\/p><ul><li>síncope <strong>en esfuerzo o tumbado<\/strong>, palpitaciones de inicio brusco justo antes, dolor torácico o disnea;<\/li><li><strong>cardiopatía estructural<\/strong>, IC o FEVI baja;<\/li><li><strong>PAS &lt; 90 mmHg<\/strong> sin causa, bradicardia &lt; 40 lpm en vigilia, <strong>soplo sistólico no estudiado<\/strong>, sospecha de HDA;<\/li><li><strong>ECG mayor<\/strong>: isquemia, Mobitz II o BAV de 3.er grado, pausas &gt; 3 s, TV, Brugada tipo 1, QTc &gt; 460 ms, disfunción de dispositivo.<\/li><\/ul><p>CSRS ≥ 4 (alto o muy alto).<\/p>","corto":"Alto riesgo"},"5e314992c4a25d15":{"id":"5e314992c4a25d15","tipo":"text","x":0,"y":7380,"w":520,"h":680,"color":"4","tituloHtml":"7a · Alta desde urgencias (ESC I-B)","titulo":"7a · Alta desde urgencias (ESC I-B)","nivel":2,"cuerpo":"<p>Ingresar a un paciente de bajo riesgo aporta poco y conlleva hasta un <strong>13 %<\/strong> de riesgo absoluto de eventos adversos intrahospitalarios (Furlan).<\/p><p><strong>Al alta:<\/strong><\/p><ul><li>explicar el mecanismo probable o la incertidumbre que queda;<\/li><li>enseñar a reconocer los pródromos y a tumbarse o sentarse;<\/li><li><strong>maniobras de contrapresión<\/strong> (las recurrencias bajaron del 51 % al 32 % en un ensayo aleatorizado);<\/li><li>hidratación; revisar los hipotensores de forma individualizada;<\/li><li>conducción: según la normativa vigente. UpToDate desaconseja conducir hasta aclarar la causa si hay riesgo de recurrencia o el síncope fue sentado o tumbado;<\/li><li>signos de alarma para volver.<\/li><\/ul><p><strong>Seguimiento:<\/strong> AP, o consulta de síncope si hay recurrencias.<\/p><p><a href=\"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/S%C3%ADncope-en-Urgencias---S%C3%ADntesis-de-Gu%C3%ADas-y-Evidencia#-7-destino-y-alta-segura\" target=\"_blank\" rel=\"noopener\">Ver en la nota →<\/a><\/p>","corto":"7a"},"98989cea781832f9":{"id":"98989cea781832f9","tipo":"text","x":600,"y":7380,"w":520,"h":680,"color":"2","tituloHtml":"7b · Observación monitorizada","titulo":"7b · Observación monitorizada","nivel":2,"cuerpo":"<p><strong>ESC (I-B):<\/strong> observar en urgencias o en una unidad de síncope <strong>en lugar de ingresar<\/strong>.<\/p><p><strong>¿Cuánto tiempo?<\/strong> No hay una duración establecida:<\/p><ul><li><strong>Circulation 2019<\/strong> (5581 pacientes): la <strong>mitad<\/strong> de los eventos arrítmicos aparece en las primeras <strong>2 h<\/strong> (bajo riesgo CSRS) o <strong>6 h<\/strong> (medio y alto).<\/li><li><strong>Furlan:<\/strong> 12 h en la mayoría (en SyMoNE, &gt; 12 h de monitorización tuvo una sensibilidad de 0,89 para eventos a 7 días).<\/li><li><strong>Möckel / NEJM:<\/strong> 6-12 h; no retirar la monitorización a las 6 h si siguen pruebas pendientes.<\/li><\/ul><p>Durante la observación: ECG continuo, ecocardiograma si no se hizo y <strong>reevaluación<\/strong>.<\/p><p><a href=\"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/S%C3%ADncope-en-Urgencias---S%C3%ADntesis-de-Gu%C3%ADas-y-Evidencia#%EF%B8%8F-6-observaci%C3%B3n-y-monitorizaci%C3%B3n\" target=\"_blank\" rel=\"noopener\">Ver en la nota →<\/a><\/p>","corto":"7b"},"ffe7e2b3292183f9":{"id":"ffe7e2b3292183f9","tipo":"text","x":1200,"y":7380,"w":520,"h":680,"color":"1","tituloHtml":"7c · Evaluación precoz e intensiva (ESC I-B)","titulo":"7c · Evaluación precoz e intensiva (ESC I-B)","nivel":2,"cuerpo":"<p>Monitorizar en un área con <strong>capacidad de reanimación<\/strong>: unidad de síncope, observación de urgencias o ingreso. La duración no está establecida; algunos estudios proponen hasta 6 h en urgencias y 24 h en el hospital.<\/p><p><strong>No todo alto riesgo necesita ingreso.<\/strong> Lo favorecen (Tabla 7 de la ESC): una enfermedad coexistente grave, una <strong>lesión por el síncope<\/strong> o pruebas o tratamientos urgentes que no se pueden hacer de otro modo.<\/p><ul><li>Buscar sobre todo <strong>bradiarritmias<\/strong>: la TV sostenida rara vez cede sola (excepción: <em>torsade de pointes<\/em> con QT largo).<\/li><li>Al alta: <strong>holter ambulatorio de 15 días<\/strong>. En el riesgo medio y alto, el 91,7 % de los eventos arrítmicos se detectó en 15 días, incluidas todas las arritmias ventriculares.<\/li><\/ul><p>→ <a href=\"https://mirapuntes.pages.dev/10_Patologias/01_Cardio/Arritmias\" target=\"_blank\" rel=\"noopener\">Arritmias<\/a> · <a href=\"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/S%C3%ADncope-en-Urgencias---S%C3%ADntesis-de-Gu%C3%ADas-y-Evidencia#%EF%B8%8F-6-observaci%C3%B3n-y-monitorizaci%C3%B3n\" target=\"_blank\" rel=\"noopener\">Ver en la nota →<\/a><\/p>","corto":"7c"},"84a8e2962b64fbad":{"id":"84a8e2962b64fbad","tipo":"text","x":1800,"y":7380,"w":520,"h":680,"color":"6","tituloHtml":"Ingresar por otros motivos","titulo":"Ingresar por otros motivos","nivel":2,"cuerpo":"<p>Aunque el síncope sea benigno (Furlan; nota de la ESC):<\/p><ul><li><strong>lesiones<\/strong> que requieren tratamiento u observación;<\/li><li>una <strong>enfermedad causal<\/strong> que lo justifica (p. ej., HO en una sepsis);<\/li><li><strong>fragilidad<\/strong> o falta de apoyo social.<\/li><\/ul><p>Al ingresar, tener claro <strong>para qué<\/strong>: qué pregunta debe responder el ingreso.<\/p>","corto":"Ingresar por otros motivos"},"ce29db57701c3689":{"id":"ce29db57701c3689","tipo":"text","x":0,"y":8150,"w":520,"h":440,"color":"6","tituloHtml":"Dejar documentado","titulo":"Dejar documentado","nivel":2,"cuerpo":"<p><em>(Lectura práctica.)<\/em><\/p><ul><li>El ECG, su interpretación y la comparación con previos.<\/li><li>El resultado del ortostatismo.<\/li><li>Qué rasgos de riesgo había y cuáles no.<\/li><li>El mecanismo probable o la incertidumbre que queda.<\/li><li>Quién completa el estudio: AP, consulta de síncope, cardiología, holter.<\/li><\/ul>","corto":"Dejar documentado"},"3441e19b20d78f09":{"id":"3441e19b20d78f09","tipo":"text","x":600,"y":8150,"w":1120,"h":440,"color":"6","tituloHtml":"Situaciones especiales","titulo":"Situaciones especiales","nivel":2,"cuerpo":"<ul><li><strong>Anciano:<\/strong> varias causas coexisten («síncope complejo» en más de una cuarta parte) y la causa cardiaca llega al ~30 %. Revisar diuréticos, antianginosos, psicótropos, anticolinérgicos, opioides, anticoagulantes y antiagregantes. El ortostatismo, el masaje del seno carotídeo y la mesa basculante son factibles incluso con fragilidad o deterioro cognitivo.<\/li><li><strong>Lesión grave sin criterios de alto riesgo:<\/strong> ingreso o unidad de síncope. Tener pródromos no protege de lesionarse.<\/li><li><strong>Infección:<\/strong> buscar el foco, sobre todo en mayores, frágiles e inmunodeprimidos (el 57,9 % de los ingresados por síncope tenía una infección en un estudio).<\/li><li><strong>Tras COVID-19 o vacunación:<\/strong> síndrome de taquicardia postural ortostática (FC &gt; 30 lpm o &gt; 120 lpm a los 10 min de pie, sin HO, reproduciendo los síntomas).<\/li><li><strong>Alcohol:<\/strong> potencia la HO y se solapa con el coma.<\/li><li><strong>Portadores de marcapasos o DAI:<\/strong> interrogar el dispositivo evita ingresos innecesarios.<\/li><\/ul><p><a href=\"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/S%C3%ADncope-en-Urgencias---S%C3%ADntesis-de-Gu%C3%ADas-y-Evidencia#-8-situaciones-especiales\" target=\"_blank\" rel=\"noopener\">Ver en la nota →<\/a><\/p>","corto":"Situaciones especiales"},"2c5271d8bb87dd88":{"id":"2c5271d8bb87dd88","tipo":"text","x":1800,"y":8150,"w":520,"h":440,"color":"6","tituloHtml":"Trampas","titulo":"Trampas","nivel":2,"cuerpo":"<ul><li>Atribuir el síncope a una <strong>HO casual<\/strong> en un anciano cardiópata.<\/li><li>Diagnosticar una crisis epiléptica por la <strong>incontinencia urinaria<\/strong>.<\/li><li><strong>Pedir angio-TC a todos<\/strong> por el dato de PESIT (población hospitalizada, mayor y con búsqueda sistemática).<\/li><li><strong>Dar el alta<\/strong> a un riesgo intermedio sin observación ni plan.<\/li><li>Olvidar el <strong>test de embarazo<\/strong> o el <strong>tacto rectal<\/strong>.<\/li><li>Aplicar la CSRS fuera de su población.<\/li><\/ul><p><a href=\"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/S%C3%ADncope-en-Urgencias---S%C3%ADntesis-de-Gu%C3%ADas-y-Evidencia#-10-perlas-y-trampas\" target=\"_blank\" rel=\"noopener\">Ver en la nota →<\/a><\/p>","corto":"Trampas"},"b39316776cfff2ab":{"id":"b39316776cfff2ab","tipo":"text","x":0,"y":8740,"w":2320,"h":370,"color":"6","tituloHtml":"Dónde discrepan las fuentes y de dónde sale cada dato","titulo":"Dónde discrepan las fuentes y de dónde sale cada dato","nivel":2,"cuerpo":"<p>Las fuentes no coinciden en: presíncope, analítica, riesgo intermedio, duración de la monitorización, escalas, umbral de QTc, criterios de HO y masaje del seno carotídeo → <a href=\"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/S%C3%ADncope-en-Urgencias---S%C3%ADntesis-de-Gu%C3%ADas-y-Evidencia#%EF%B8%8F-9-d%C3%B3nde-discrepan-las-fuentes\" target=\"_blank\" rel=\"noopener\">tabla de discrepancias en la nota<\/a>.<\/p><p><strong>Guías y consensos:<\/strong> Brignole et al., <strong>ESC 2018<\/strong>, Eur Heart J 2018;39:1883-1948 (<a href=\"https://doi.org/10.1093/eurheartj/ehy037\" target=\"_blank\" rel=\"noopener\">10.1093/eurheartj/ehy037<\/a>) · Möckel et al., <strong>EUSEM 2024<\/strong>, Eur J Emerg Med 2024;31:250-259 (<a href=\"https://doi.org/10.1097/MEJ.0000000000001146\" target=\"_blank\" rel=\"noopener\">10.1097/MEJ.0000000000001146<\/a>) · Costantino et al., consenso internacional, Eur Heart J 2016;37:1493-1498.<\/p><p><strong>Revisiones:<\/strong> Möckel, Curr Opin Crit Care 2026;32:248-253 (<a href=\"https://doi.org/10.1097/MCC.0000000000001379\" target=\"_blank\" rel=\"noopener\">10.1097/MCC.0000000000001379<\/a>) · Furlan et al., J Clin Med 2024;13:3231 (<a href=\"https://doi.org/10.3390/jcm13113231\" target=\"_blank\" rel=\"noopener\">10.3390/jcm13113231<\/a>) · McDermott y Quinn, UpToDate (actualizado el 30/09/2026) · Kenny, N Engl J Med 2026;395:582-591 (<a href=\"https://doi.org/10.1056/NEJMcp2517255\" target=\"_blank\" rel=\"noopener\">10.1056/NEJMcp2517255<\/a>).<\/p><p><strong>Estudios primarios (PubMed):<\/strong> SEED (<a href=\"https://doi.org/10.1097/MEJ.0000000000001101\" target=\"_blank\" rel=\"noopener\">10.1097/MEJ.0000000000001101<\/a>) · PESIT (<a href=\"https://doi.org/10.1056/NEJMoa1602172\" target=\"_blank\" rel=\"noopener\">10.1056/NEJMoa1602172<\/a>) · BASEL IX (<a href=\"https://doi.org/10.1016/j.jacc.2019.06.020\" target=\"_blank\" rel=\"noopener\">10.1016/j.jacc.2019.06.020<\/a>) · CSRS, CMAJ 2016 (<a href=\"https://doi.org/10.1503/cmaj.151469\" target=\"_blank\" rel=\"noopener\">10.1503/cmaj.151469<\/a>) · Duración de la monitorización, Circulation 2019 (<a href=\"https://doi.org/10.1161/CIRCULATIONAHA.118.036088\" target=\"_blank\" rel=\"noopener\">10.1161/CIRCULATIONAHA.118.036088<\/a>) · Bellicini et al., PACE 2026 (<a href=\"https://doi.org/10.1111/pace.70110\" target=\"_blank\" rel=\"noopener\">10.1111/pace.70110<\/a>).<\/p><p><a href=\"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/S%C3%ADncope-en-Urgencias---S%C3%ADntesis-de-Gu%C3%ADas-y-Evidencia#-fuentes\" target=\"_blank\" rel=\"noopener\">Referencias completas en la nota →<\/a><\/p>","corto":"Dónde discrepan las fuen…"},"d7480f1c9d011066":{"id":"d7480f1c9d011066","tipo":"file","x":2460,"y":1000,"w":460,"h":500,"color":"","titulo":"Mareo y Vértigo - Abordaje Diagnóstico","corto":"Mareo y Vértigo - Aborda…","carpeta":"Neuro","toc":["Definición","Por qué este abordaje (y no preguntar \"¿cómo lo describe?\")","Anamnesis estructurada","Comorbilidad: ~1 de cada 6 pacientes tiene 2 causas simultáneas","Exploración orientada","Diferencial sintetizado por síndrome y trastorno","Errores diagnósticos frecuentes (Tabla 1-4 de Fife)","Pruebas complementarias — cuándo sí, cuándo no"],"url":"https://mirapuntes.pages.dev/10_Patologias/02_Neuro/Mareo-y-V%C3%A9rtigo---Abordaje-Diagn%C3%B3stico","archivo":"10_Patologias/02_Neuro/Mareo y Vértigo - Abordaje Diagnóstico.md"},"87911c89e142f11a":{"id":"87911c89e142f11a","tipo":"file","x":2460,"y":1590,"w":460,"h":180,"color":"","titulo":"Shock","corto":"Shock","carpeta":"Patologia Aguda","toc":["Clínica","Diagnóstico","Tratamiento y Posología","Disposición y Manejo"],"url":"https://mirapuntes.pages.dev/30_Urgencias/Patologia_Aguda/Shock","archivo":"30_Urgencias/Patologia_Aguda/Shock.md"},"07ff7c179c1b78dd":{"id":"07ff7c179c1b78dd","tipo":"file","x":2460,"y":1800,"w":460,"h":180,"color":"","titulo":"Sepsis - Abordaje Inicial (SSC 2026)","corto":"Sepsis - Abordaje Inicia…","carpeta":"Infecciosas / Sepsis","toc":["Cribado y Diagnóstico (Actualización 2026)","Manifestaciones Clínicas por Sistema","Tratamiento: El \"Bundle\" de Manejo Rápido (SSC 2026)","Manejo del Foco (Source Control)","Antibioterapia Empírica según Foco (SSC 2026)","Criterios de Ingreso en UCI y Adecuación Terapéutica","Guía Completa de Sepsis (SSC 2026)"],"url":"https://mirapuntes.pages.dev/10_Patologias/03_Infecciosas/Sepsis/Sepsis---Abordaje-Inicial-(SSC-2026)","archivo":"10_Patologias/03_Infecciosas/Sepsis/Sepsis - Abordaje Inicial (SSC 2026).md"},"33634fa2dc5fc62f":{"id":"33634fa2dc5fc62f","tipo":"file","x":-600,"y":2070,"w":460,"h":310,"color":"","titulo":"TCE Leve-Moderado","corto":"TCE Leve-Moderado","carpeta":"Neuro","toc":["Diagnóstico","Plantilla de Guardia"],"url":"https://mirapuntes.pages.dev/10_Patologias/02_Neuro/TCE-Leve-Moderado","archivo":"10_Patologias/02_Neuro/TCE Leve-Moderado.md"},"2eb9523124f22ea3":{"id":"2eb9523124f22ea3","tipo":"file","x":2460,"y":2910,"w":460,"h":560,"color":"","titulo":"Medición de la Presión Arterial","corto":"Medición de la Presión A…","carpeta":"Cardio","toc":["Definiciones","Medición de PA en la Consulta","Automedida de la Presión Arterial (AMPA) en Domicilio","Monitorización Ambulatoria de la PA (MAPA)","Comparación de Métodos: Consulta vs. AMPA vs. MAPA","Situaciones Especiales","Recomendación Clínica"],"url":"https://mirapuntes.pages.dev/10_Patologias/01_Cardio/Medici%C3%B3n-de-la-Presi%C3%B3n-Arterial","archivo":"10_Patologias/01_Cardio/Medición de la Presión Arterial.md"},"28c8287e8a90d067":{"id":"28c8287e8a90d067","tipo":"file","x":-600,"y":3560,"w":460,"h":540,"color":"","titulo":"Status Epiléptico","corto":"Status Epiléptico","carpeta":"Neuro","toc":["Definición","Etiología","Clínica","Diagnóstico","Tratamiento","Seguimiento / Pronóstico"],"url":"https://mirapuntes.pages.dev/10_Patologias/02_Neuro/Status-Epil%C3%A9ptico","archivo":"10_Patologias/02_Neuro/Status Epiléptico.md"},"bd446b3992ec16e4":{"id":"bd446b3992ec16e4","tipo":"file","x":2460,"y":3560,"w":460,"h":540,"color":"","titulo":"Hemorragia Subaracnoidea","corto":"Hemorragia Subaracnoidea","carpeta":"Neuro","toc":["Definición","Etiología / Factores de riesgo","Clínica","Diagnóstico","Tratamiento","Seguimiento / Pronóstico"],"url":"https://mirapuntes.pages.dev/10_Patologias/02_Neuro/Hemorragia-Subaracnoidea","archivo":"10_Patologias/02_Neuro/Hemorragia Subaracnoidea.md"},"a71228891c3e857b":{"id":"a71228891c3e857b","tipo":"file","x":2460,"y":4320,"w":460,"h":500,"color":"","titulo":"TEP - Tromboembolismo Pulmonar","corto":"TEP - Tromboembolismo Pu…","carpeta":"Cardio","toc":["Clasificación Clínica (AHA/ACC 2026)","Clínica y Exploración","Evaluación y Criterios","Tratamiento"],"url":"https://mirapuntes.pages.dev/10_Patologias/01_Cardio/TEP---Tromboembolismo-Pulmonar","archivo":"10_Patologias/01_Cardio/TEP - Tromboembolismo Pulmonar.md"},"d6f726ce7cf8c22d":{"id":"d6f726ce7cf8c22d","tipo":"file","x":-600,"y":4910,"w":460,"h":190,"color":"","titulo":"Síndrome Aórtico Agudo y Enfermedad Aórtica","corto":"Síndrome Aórtico Agudo y…","carpeta":"Cardio","toc":["1. Síndrome Aórtico Agudo (SAA)","2. Aneurisma Aórtico, Visceral y Periférico","3. Enfermedad Arterial Periférica (EAP)"],"url":"https://mirapuntes.pages.dev/10_Patologias/01_Cardio/S%C3%ADndrome-A%C3%B3rtico-Agudo-y-Enfermedad-A%C3%B3rtica","archivo":"10_Patologias/01_Cardio/Síndrome Aórtico Agudo y Enfermedad Aórtica.md"},"6c4e91384dc28575":{"id":"6c4e91384dc28575","tipo":"file","x":-600,"y":5130,"w":460,"h":190,"color":"","titulo":"SCA - Evaluación Inicial y Clasificación","corto":"SCA - Evaluación Inicial…","carpeta":"Cardio","toc":["Concepto y fisiopatología","Espectro clínico (Figura 2 ACC/AHA 2025)","Diagnóstico — Anamnesis y exploración","ECG en < 10 min del primer contacto","Troponina cardiaca de alta sensibilidad (hs-cTn)","Estratificación de riesgo en NSTE-ACS","Killip-Kimball (clasificación funcional STEMI)","Parada cardiorrespiratoria recuperada (post-ROSC)"],"url":"https://mirapuntes.pages.dev/10_Patologias/01_Cardio/SCA---Evaluaci%C3%B3n-Inicial-y-Clasificaci%C3%B3n","archivo":"10_Patologias/01_Cardio/SCA - Evaluación Inicial y Clasificación.md"},"195db9bcd998dc96":{"id":"195db9bcd998dc96","tipo":"file","x":-600,"y":5350,"w":460,"h":190,"color":"","titulo":"Hemorragia Digestiva Alta (HDA)","corto":"Hemorragia Digestiva Alt…","carpeta":"Digestivo","toc":["Diagnóstico","Tratamiento","Plantilla de Guardia","HEMORRAGIA DIGESTIVA ALTA"],"url":"https://mirapuntes.pages.dev/10_Patologias/04_Digestivo/Hemorragia-Digestiva-Alta-(HDA)","archivo":"10_Patologias/04_Digestivo/Hemorragia Digestiva Alta (HDA).md"},"40d5f593543dc507":{"id":"40d5f593543dc507","tipo":"file","x":2460,"y":4910,"w":460,"h":190,"color":"","titulo":"Arritmias","corto":"Arritmias","carpeta":"Cardio","toc":["Signos de Alarma y Banderas Rojas","Taquiarritmias (>100 lpm)","Bradiarritmias (<60 lpm)"],"url":"https://mirapuntes.pages.dev/10_Patologias/01_Cardio/Arritmias","archivo":"10_Patologias/01_Cardio/Arritmias.md"},"c2b503310a1d31cf":{"id":"c2b503310a1d31cf","tipo":"file","x":2460,"y":5130,"w":460,"h":190,"color":"","titulo":"Valvulopatías","corto":"Valvulopatías","carpeta":"Cardio","toc":["1. Valvulopatía Mitral","2. Valvulopatía Aórtica"],"url":"https://mirapuntes.pages.dev/10_Patologias/01_Cardio/Valvulopat%C3%ADas","archivo":"10_Patologias/01_Cardio/Valvulopatías.md"},"01600abbee59904d":{"id":"01600abbee59904d","tipo":"file","x":2460,"y":5350,"w":460,"h":190,"color":"","titulo":"Miocardiopatías","corto":"Miocardiopatías","carpeta":"Cardio","toc":["1. Miocardiopatía Dilatada (MCD)","2. Miocardiopatía Hipertrófica (MCH)","4. NDLVC — Non-Dilated Left Ventricular Cardiomyopathy (ESC 2023)","5. ARVC — Miocardiopatía Arritmogénica","3. Miocardiopatía Restrictiva (MCR)"],"url":"https://mirapuntes.pages.dev/10_Patologias/01_Cardio/Miocardiopat%C3%ADas","archivo":"10_Patologias/01_Cardio/Miocardiopatías.md"}},"grupos":[{"id":"fe2ce0290977793d","tipo":"group","x":-40,"y":7330,"w":2400,"h":1300,"color":"","etiqueta":"05 · OBSERVACIÓN Y DESTINO — el siguiente paso según el riesgo que queda"},{"id":"503703314615ef1a","tipo":"group","x":-40,"y":5710,"w":2400,"h":1490,"color":"","etiqueta":"04 · ESTRATIFICACIÓN — ¿qué riesgo queda?"},{"id":"9d58b22f9d19102b","tipo":"group","x":-40,"y":4270,"w":2400,"h":1310,"color":"","etiqueta":"03 · ¿QUÉ LO EXPLICA? — tres salidas distintas (EUSEM)"},{"id":"b4529bd5d90f4ffa","tipo":"group","x":-40,"y":2860,"w":2400,"h":1280,"color":"","etiqueta":"02 · PRUEBAS EN PARALELO — y la pregunta: ¿es realmente un síncope?"},{"id":"5449a23349fdacc3","tipo":"group","x":-40,"y":950,"w":2400,"h":1780,"color":"","etiqueta":"01 · VALORACIÓN PRIMARIA — primero lo que mata en minutos"},{"id":"74056514b37db099","tipo":"group","x":-40,"y":390,"w":2400,"h":430,"color":"","etiqueta":"00 · NOTAS DEL GRUPO SÍNCOPE — ábrelas desde aquí (vista previa desplazable)"}],"aristas":[{"id":"2bb016aeb2131a04","de":"716fef20b1fb510b","a":"deb6f3e63bd79133","ladoDe":"bottom","ladoA":"top","etiqueta":"","color":"","flecha":true},{"id":"eaa611edd3aa95fe","de":"716fef20b1fb510b","a":"4218063f3063bf30","ladoDe":"right","ladoA":"left","etiqueta":"","color":"6","flecha":false},{"id":"97d41f85a3677710","de":"deb6f3e63bd79133","a":"8f9604a370b84bf4","ladoDe":"right","ladoA":"left","etiqueta":"Sí","color":"1","flecha":true},{"id":"b72c80b2412b7022","de":"deb6f3e63bd79133","a":"e420501c281568b9","ladoDe":"bottom","ladoA":"top","etiqueta":"No / estabilizado","color":"","flecha":true},{"id":"cef67618d36b2d33","de":"e420501c281568b9","a":"5f3f5669eb30342c","ladoDe":"left","ladoA":"right","etiqueta":"Sí, TCE primario","color":"1","flecha":true},{"id":"2431bcb21c3399c7","de":"e420501c281568b9","a":"60375fd3421455c1","ladoDe":"bottom","ladoA":"top","etiqueta":"No","color":"","flecha":true},{"id":"554ebc981a01a08f","de":"60375fd3421455c1","a":"1ddca408155c4564","ladoDe":"bottom","ladoA":"top","etiqueta":"","color":"","flecha":true},{"id":"45c917411970539c","de":"1ddca408155c4564","a":"68e5e60052f1da7c","ladoDe":"bottom","ladoA":"top","etiqueta":"","color":"","flecha":true},{"id":"c8a5952f7ed4a1df","de":"60375fd3421455c1","a":"0247ae4cf0a6ab8b","ladoDe":"bottom","ladoA":"top","etiqueta":"En paralelo","color":"","flecha":true},{"id":"d4e45cd7d625201e","de":"0247ae4cf0a6ab8b","a":"68e5e60052f1da7c","ladoDe":"bottom","ladoA":"top","etiqueta":"","color":"","flecha":true},{"id":"9ddba22664fa8443","de":"60375fd3421455c1","a":"2b336619adf6b814","ladoDe":"bottom","ladoA":"top","etiqueta":"","color":"","flecha":true},{"id":"7ab3655651ae0a6f","de":"2b336619adf6b814","a":"68e5e60052f1da7c","ladoDe":"bottom","ladoA":"top","etiqueta":"","color":"","flecha":true},{"id":"6c9a84a4f72a8c50","de":"60375fd3421455c1","a":"7180a432b886a23a","ladoDe":"bottom","ladoA":"top","etiqueta":"","color":"","flecha":true},{"id":"3f758048a8a1468a","de":"7180a432b886a23a","a":"68e5e60052f1da7c","ladoDe":"bottom","ladoA":"top","etiqueta":"","color":"","flecha":true},{"id":"849b1ca494dd7801","de":"0c312599f2cf3fe6","a":"68e5e60052f1da7c","ladoDe":"right","ladoA":"left","etiqueta":"","color":"6","flecha":false},{"id":"e7dfacd480c83316","de":"68e5e60052f1da7c","a":"2cdace942643a0e3","ladoDe":"right","ladoA":"left","etiqueta":"No / dudoso","color":"6","flecha":true},{"id":"5941d9ae922bc30a","de":"68e5e60052f1da7c","a":"216a8b925775d40c","ladoDe":"bottom","ladoA":"top","etiqueta":"Síncope probable","color":"","flecha":true},{"id":"0edb667379ffb292","de":"216a8b925775d40c","a":"4f877028b3a6beab","ladoDe":"right","ladoA":"left","etiqueta":"","color":"6","flecha":false},{"id":"73013dd1e62880ef","de":"216a8b925775d40c","a":"4aeb3732cc22b847","ladoDe":"bottom","ladoA":"top","etiqueta":"Otra enfermedad domina","color":"1","flecha":true},{"id":"47fe5ac18aa70bc9","de":"216a8b925775d40c","a":"94a12ea3a172f752","ladoDe":"bottom","ladoA":"top","etiqueta":"Causa incierta","color":"","flecha":true},{"id":"495ce07d9e244491","de":"216a8b925775d40c","a":"c7f6cb110e09d853","ladoDe":"bottom","ladoA":"top","etiqueta":"Causa cardiaca clara","color":"1","flecha":true},{"id":"619a6f93cc9dba5f","de":"94a12ea3a172f752","a":"4f83575fa4f284cd","ladoDe":"bottom","ladoA":"top","etiqueta":"","color":"","flecha":true},{"id":"7e7a4716b615cfd4","de":"77d67fb394108b02","a":"4f83575fa4f284cd","ladoDe":"right","ladoA":"left","etiqueta":"","color":"6","flecha":false},{"id":"56bb0478f30aa98b","de":"4f83575fa4f284cd","a":"b8374c7f52d5a570","ladoDe":"right","ladoA":"left","etiqueta":"","color":"6","flecha":false},{"id":"2a5ce2e75152707d","de":"2784cc42ed26accd","a":"5e314992c4a25d15","ladoDe":"bottom","ladoA":"top","etiqueta":"","color":"","flecha":true},{"id":"974300ac96d3c2b5","de":"4f83575fa4f284cd","a":"2784cc42ed26accd","ladoDe":"bottom","ladoA":"top","etiqueta":"Solo rasgos de bajo riesgo","color":"4","flecha":true},{"id":"036d411d3bc4c288","de":"4f83575fa4f284cd","a":"81025396ccf01285","ladoDe":"bottom","ladoA":"top","etiqueta":"Ni bajo ni alto","color":"2","flecha":true},{"id":"bda26e95dca5bf9e","de":"4f83575fa4f284cd","a":"e9d07b4c9306993d","ladoDe":"bottom","ladoA":"top","etiqueta":"Cualquier rasgo de alto riesgo","color":"1","flecha":true},{"id":"681b40c2f053904c","de":"81025396ccf01285","a":"98989cea781832f9","ladoDe":"bottom","ladoA":"top","etiqueta":"","color":"","flecha":true},{"id":"4b681febeddb875a","de":"e9d07b4c9306993d","a":"ffe7e2b3292183f9","ladoDe":"bottom","ladoA":"top","etiqueta":"","color":"","flecha":true},{"id":"7bd8ac637a6299ed","de":"98989cea781832f9","a":"5e314992c4a25d15","ladoDe":"left","ladoA":"right","etiqueta":"Sin eventos → reclasificado bajo","color":"4","flecha":true},{"id":"bf1c52a166cb204c","de":"98989cea781832f9","a":"ffe7e2b3292183f9","ladoDe":"right","ladoA":"left","etiqueta":"Arritmia o hallazgo nuevo","color":"1","flecha":true},{"id":"db447b5f084b0876","de":"84a8e2962b64fbad","a":"ffe7e2b3292183f9","ladoDe":"left","ladoA":"right","etiqueta":"","color":"6","flecha":false},{"id":"5f2c9f4778f61f71","de":"b8374c7f52d5a570","a":"d8b0bd89cc7f33b3","ladoDe":"right","ladoA":"left","etiqueta":"","color":"6","flecha":false},{"id":"eac289c106a92763","de":"c2c7a7d72ef2c0ec","a":"72523198769c23ca","ladoDe":"bottom","ladoA":"top","etiqueta":"","color":"6","flecha":false},{"id":"1ea3df1fa78d9145","de":"c2c7a7d72ef2c0ec","a":"282ba125bf8d932e","ladoDe":"bottom","ladoA":"top","etiqueta":"","color":"6","flecha":false},{"id":"3b56459345a0c22f","de":"c2c7a7d72ef2c0ec","a":"329c21c1a62b5c34","ladoDe":"bottom","ladoA":"top","etiqueta":"","color":"6","flecha":false},{"id":"9cd6a1c98c88861c","de":"c2c7a7d72ef2c0ec","a":"18f89affba0129e2","ladoDe":"bottom","ladoA":"top","etiqueta":"","color":"6","flecha":false},{"id":"6d210ca3a59e8837","de":"c2c7a7d72ef2c0ec","a":"7c8b707974c4cf6c","ladoDe":"bottom","ladoA":"top","etiqueta":"","color":"6","flecha":false},{"id":"44fe124b93922433","de":"4218063f3063bf30","a":"d7480f1c9d011066","ladoDe":"right","ladoA":"left","etiqueta":"","color":"6","flecha":false},{"id":"b3abc23fb0fb7849","de":"8f9604a370b84bf4","a":"87911c89e142f11a","ladoDe":"right","ladoA":"left","etiqueta":"","color":"6","flecha":false},{"id":"c3b0b33f86abcf75","de":"8f9604a370b84bf4","a":"07ff7c179c1b78dd","ladoDe":"right","ladoA":"left","etiqueta":"","color":"6","flecha":false},{"id":"5730f6057ad687cc","de":"5f3f5669eb30342c","a":"33634fa2dc5fc62f","ladoDe":"left","ladoA":"right","etiqueta":"","color":"6","flecha":false},{"id":"f3ad11eb30289d9a","de":"7180a432b886a23a","a":"2eb9523124f22ea3","ladoDe":"right","ladoA":"left","etiqueta":"","color":"6","flecha":false},{"id":"03461569ee34eb24","de":"0c312599f2cf3fe6","a":"28c8287e8a90d067","ladoDe":"left","ladoA":"right","etiqueta":"","color":"6","flecha":false},{"id":"9cea49586bb73dc5","de":"2cdace942643a0e3","a":"bd446b3992ec16e4","ladoDe":"right","ladoA":"left","etiqueta":"","color":"6","flecha":false},{"id":"b0a765709eb45d50","de":"4f877028b3a6beab","a":"a71228891c3e857b","ladoDe":"right","ladoA":"left","etiqueta":"","color":"6","flecha":false},{"id":"b2952606e3485e9d","de":"4aeb3732cc22b847","a":"d6f726ce7cf8c22d","ladoDe":"left","ladoA":"right","etiqueta":"","color":"6","flecha":false},{"id":"de9f7f8d8246479f","de":"4aeb3732cc22b847","a":"6c4e91384dc28575","ladoDe":"left","ladoA":"right","etiqueta":"","color":"6","flecha":false},{"id":"af31d8e3002b6c4d","de":"4aeb3732cc22b847","a":"195db9bcd998dc96","ladoDe":"left","ladoA":"right","etiqueta":"","color":"6","flecha":false},{"id":"4cf437eb96005e8a","de":"c7f6cb110e09d853","a":"40d5f593543dc507","ladoDe":"right","ladoA":"left","etiqueta":"","color":"6","flecha":false},{"id":"57ef4a1484dc369d","de":"c7f6cb110e09d853","a":"c2b503310a1d31cf","ladoDe":"right","ladoA":"left","etiqueta":"","color":"6","flecha":false},{"id":"b4a1dca73ce326b8","de":"c7f6cb110e09d853","a":"01600abbee59904d","ladoDe":"right","ladoA":"left","etiqueta":"","color":"6","flecha":false}],"guia":{"inicio":"716fef20b1fb510b","pasos":{"716fef20b1fb510b":{"siguiente":"deb6f3e63bd79133","ramas":[],"paralelo":null,"detalles":["4218063f3063bf30"],"notas":["d7480f1c9d011066"],"final":false},"deb6f3e63bd79133":{"siguiente":null,"ramas":[{"etiqueta":"No / estabilizado","a":"e420501c281568b9","arista":"b72c80b2412b7022"},{"etiqueta":"Sí","a":"8f9604a370b84bf4","arista":"97d41f85a3677710"}],"paralelo":null,"detalles":[],"notas":[],"final":false},"8f9604a370b84bf4":{"siguiente":null,"ramas":[],"paralelo":null,"detalles":[],"notas":["87911c89e142f11a","07ff7c179c1b78dd"],"final":true},"5f3f5669eb30342c":{"siguiente":null,"ramas":[],"paralelo":null,"detalles":[],"notas":["33634fa2dc5fc62f"],"final":true},"e420501c281568b9":{"siguiente":null,"ramas":[{"etiqueta":"Sí, TCE primario","a":"5f3f5669eb30342c","arista":"cef67618d36b2d33"},{"etiqueta":"No","a":"60375fd3421455c1","arista":"2431bcb21c3399c7"}],"paralelo":null,"detalles":[],"notas":[],"final":false},"60375fd3421455c1":{"siguiente":null,"ramas":[],"paralelo":{"tareas":["1ddca408155c4564","0247ae4cf0a6ab8b","2b336619adf6b814","7180a432b886a23a"],"siguiente":"68e5e60052f1da7c","etiqueta":"En paralelo"},"detalles":[],"notas":[],"final":false},"1ddca408155c4564":{"siguiente":"68e5e60052f1da7c","ramas":[],"paralelo":null,"detalles":[],"notas":[],"final":false},"0247ae4cf0a6ab8b":{"siguiente":"68e5e60052f1da7c","ramas":[],"paralelo":null,"detalles":[],"notas":[],"final":false},"2b336619adf6b814":{"siguiente":"68e5e60052f1da7c","ramas":[],"paralelo":null,"detalles":[],"notas":[],"final":false},"7180a432b886a23a":{"siguiente":"68e5e60052f1da7c","ramas":[],"paralelo":null,"detalles":[],"notas":["2eb9523124f22ea3"],"final":false},"68e5e60052f1da7c":{"siguiente":null,"ramas":[{"etiqueta":"Síncope probable","a":"216a8b925775d40c","arista":"5941d9ae922bc30a"},{"etiqueta":"No / dudoso","a":"2cdace942643a0e3","arista":"e7dfacd480c83316"}],"paralelo":null,"detalles":["0c312599f2cf3fe6"],"notas":["28c8287e8a90d067"],"final":false},"2cdace942643a0e3":{"siguiente":null,"ramas":[],"paralelo":null,"detalles":[],"notas":["bd446b3992ec16e4"],"final":true},"216a8b925775d40c":{"siguiente":null,"ramas":[{"etiqueta":"Otra enfermedad domina","a":"4aeb3732cc22b847","arista":"73013dd1e62880ef"},{"etiqueta":"Causa incierta","a":"94a12ea3a172f752","arista":"47fe5ac18aa70bc9"},{"etiqueta":"Causa cardiaca clara","a":"c7f6cb110e09d853","arista":"495ce07d9e244491"}],"paralelo":null,"detalles":["4f877028b3a6beab"],"notas":["a71228891c3e857b"],"final":false},"4aeb3732cc22b847":{"siguiente":null,"ramas":[],"paralelo":null,"detalles":[],"notas":["d6f726ce7cf8c22d","6c4e91384dc28575","195db9bcd998dc96"],"final":true},"94a12ea3a172f752":{"siguiente":"4f83575fa4f284cd","ramas":[],"paralelo":null,"detalles":[],"notas":[],"final":false},"c7f6cb110e09d853":{"siguiente":null,"ramas":[],"paralelo":null,"detalles":[],"notas":["40d5f593543dc507","c2b503310a1d31cf","01600abbee59904d"],"final":true},"4f83575fa4f284cd":{"siguiente":null,"ramas":[{"etiqueta":"Solo rasgos de bajo riesgo","a":"2784cc42ed26accd","arista":"974300ac96d3c2b5"},{"etiqueta":"Ni bajo ni alto","a":"81025396ccf01285","arista":"036d411d3bc4c288"},{"etiqueta":"Cualquier rasgo de alto riesgo","a":"e9d07b4c9306993d","arista":"bda26e95dca5bf9e"}],"paralelo":null,"detalles":["b8374c7f52d5a570","77d67fb394108b02","d8b0bd89cc7f33b3"],"notas":[],"final":false},"2784cc42ed26accd":{"siguiente":"5e314992c4a25d15","ramas":[],"paralelo":null,"detalles":[],"notas":[],"final":false},"81025396ccf01285":{"siguiente":"98989cea781832f9","ramas":[],"paralelo":null,"detalles":[],"notas":[],"final":false},"e9d07b4c9306993d":{"siguiente":"ffe7e2b3292183f9","ramas":[],"paralelo":null,"detalles":[],"notas":[],"final":false},"5e314992c4a25d15":{"siguiente":null,"ramas":[],"paralelo":null,"detalles":[],"notas":[],"final":true},"98989cea781832f9":{"siguiente":null,"ramas":[{"etiqueta":"Sin eventos → reclasificado bajo","a":"5e314992c4a25d15","arista":"7bd8ac637a6299ed"},{"etiqueta":"Arritmia o hallazgo nuevo","a":"ffe7e2b3292183f9","arista":"bf1c52a166cb204c"}],"paralelo":null,"detalles":[],"notas":[],"final":false},"ffe7e2b3292183f9":{"siguiente":null,"ramas":[],"paralelo":null,"detalles":["84a8e2962b64fbad"],"notas":[],"final":true}},"dueno":{"4218063f3063bf30":"716fef20b1fb510b","d7480f1c9d011066":"716fef20b1fb510b","87911c89e142f11a":"8f9604a370b84bf4","07ff7c179c1b78dd":"8f9604a370b84bf4","33634fa2dc5fc62f":"5f3f5669eb30342c","1ddca408155c4564":"60375fd3421455c1","0247ae4cf0a6ab8b":"60375fd3421455c1","2b336619adf6b814":"60375fd3421455c1","7180a432b886a23a":"60375fd3421455c1","2eb9523124f22ea3":"7180a432b886a23a","0c312599f2cf3fe6":"68e5e60052f1da7c","28c8287e8a90d067":"68e5e60052f1da7c","bd446b3992ec16e4":"2cdace942643a0e3","4f877028b3a6beab":"216a8b925775d40c","a71228891c3e857b":"216a8b925775d40c","d6f726ce7cf8c22d":"4aeb3732cc22b847","6c4e91384dc28575":"4aeb3732cc22b847","195db9bcd998dc96":"4aeb3732cc22b847","40d5f593543dc507":"c7f6cb110e09d853","c2b503310a1d31cf":"c7f6cb110e09d853","01600abbee59904d":"c7f6cb110e09d853","b8374c7f52d5a570":"4f83575fa4f284cd","77d67fb394108b02":"4f83575fa4f284cd","d8b0bd89cc7f33b3":"4f83575fa4f284cd","84a8e2962b64fbad":"ffe7e2b3292183f9"},"camino":{"716fef20b1fb510b":["716fef20b1fb510b"],"deb6f3e63bd79133":["716fef20b1fb510b","deb6f3e63bd79133"],"e420501c281568b9":["716fef20b1fb510b","deb6f3e63bd79133","e420501c281568b9"],"8f9604a370b84bf4":["716fef20b1fb510b","deb6f3e63bd79133","8f9604a370b84bf4"],"5f3f5669eb30342c":["716fef20b1fb510b","deb6f3e63bd79133","e420501c281568b9","5f3f5669eb30342c"],"60375fd3421455c1":["716fef20b1fb510b","deb6f3e63bd79133","e420501c281568b9","60375fd3421455c1"],"68e5e60052f1da7c":["716fef20b1fb510b","deb6f3e63bd79133","e420501c281568b9","60375fd3421455c1","68e5e60052f1da7c"],"216a8b925775d40c":["716fef20b1fb510b","deb6f3e63bd79133","e420501c281568b9","60375fd3421455c1","68e5e60052f1da7c","216a8b925775d40c"],"2cdace942643a0e3":["716fef20b1fb510b","deb6f3e63bd79133","e420501c281568b9","60375fd3421455c1","68e5e60052f1da7c","2cdace942643a0e3"],"4aeb3732cc22b847":["716fef20b1fb510b","deb6f3e63bd79133","e420501c281568b9","60375fd3421455c1","68e5e60052f1da7c","216a8b925775d40c","4aeb3732cc22b847"],"94a12ea3a172f752":["716fef20b1fb510b","deb6f3e63bd79133","e420501c281568b9","60375fd3421455c1","68e5e60052f1da7c","216a8b925775d40c","94a12ea3a172f752"],"c7f6cb110e09d853":["716fef20b1fb510b","deb6f3e63bd79133","e420501c281568b9","60375fd3421455c1","68e5e60052f1da7c","216a8b925775d40c","c7f6cb110e09d853"],"4f83575fa4f284cd":["716fef20b1fb510b","deb6f3e63bd79133","e420501c281568b9","60375fd3421455c1","68e5e60052f1da7c","216a8b925775d40c","94a12ea3a172f752","4f83575fa4f284cd"],"2784cc42ed26accd":["716fef20b1fb510b","deb6f3e63bd79133","e420501c281568b9","60375fd3421455c1","68e5e60052f1da7c","216a8b925775d40c","94a12ea3a172f752","4f83575fa4f284cd","2784cc42ed26accd"],"81025396ccf01285":["716fef20b1fb510b","deb6f3e63bd79133","e420501c281568b9","60375fd3421455c1","68e5e60052f1da7c","216a8b925775d40c","94a12ea3a172f752","4f83575fa4f284cd","81025396ccf01285"],"e9d07b4c9306993d":["716fef20b1fb510b","deb6f3e63bd79133","e420501c281568b9","60375fd3421455c1","68e5e60052f1da7c","216a8b925775d40c","94a12ea3a172f752","4f83575fa4f284cd","e9d07b4c9306993d"],"5e314992c4a25d15":["716fef20b1fb510b","deb6f3e63bd79133","e420501c281568b9","60375fd3421455c1","68e5e60052f1da7c","216a8b925775d40c","94a12ea3a172f752","4f83575fa4f284cd","2784cc42ed26accd","5e314992c4a25d15"],"98989cea781832f9":["716fef20b1fb510b","deb6f3e63bd79133","e420501c281568b9","60375fd3421455c1","68e5e60052f1da7c","216a8b925775d40c","94a12ea3a172f752","4f83575fa4f284cd","81025396ccf01285","98989cea781832f9"],"ffe7e2b3292183f9":["716fef20b1fb510b","deb6f3e63bd79133","e420501c281568b9","60375fd3421455c1","68e5e60052f1da7c","216a8b925775d40c","94a12ea3a172f752","4f83575fa4f284cd","e9d07b4c9306993d","ffe7e2b3292183f9"]},"cierre":["ce29db57701c3689","3441e19b20d78f09","2c5271d8bb87dd88"],"cabecera":"c2c7a7d72ef2c0ec","pie":"b39316776cfff2ab","notasCabecera":["72523198769c23ca","282ba125bf8d932e","329c21c1a62b5c34","18f89affba0129e2","7c8b707974c4cf6c"]},"meta":{"titulo":"Flujograma de Síncope","marca":"Síncope en urgencias","sub":"Flujograma · ESC 2018, EUSEM 2024 y revisiones 2024-2026","canvas":"30_Urgencias/Patologia_Aguda/Síncope en Urgencias - Flujograma.canvas"}}</script>
+<script>
+(() => {
+  'use strict';
+  const D = JSON.parse(document.getElementById('flujo-datos').textContent);
+  const N = D.nodos, G = D.guia, P = G.pasos;
+  const root = document.documentElement;
+  root.lang = 'es';
+  const $ = s => document.querySelector(s);
+  const mk = (tag, cls, html) => { const e = document.createElement(tag); if (cls) e.className = cls; if (html != null) e.innerHTML = html; return e; };
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const store = {
+    get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } },
+    set(k, v) { try { localStorage.setItem(k, v); } catch (e) { /* sin almacenamiento */ } }
+  };
+  const CAT = { 1: 'Urgente o vía específica', 2: 'Riesgo intermedio', 3: 'Decisión', 4: 'Bajo riesgo', 5: 'Valoración', 6: 'Detalle o evidencia' };
+  const cat = n => n.tipo === 'file' ? 'Nota del vault' : (CAT[n.color] || 'Tarjeta');
+  const kc = n => 'k' + (n.color || '0');
+  const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  let enMarco = false;
+  try { enMarco = window.top !== window.self; } catch (e) { enMarco = true; }
+
+  /* ---------------- tema ---------------- */
+  const temaBtn = $('#tema');
+  const sysDark = matchMedia('(prefers-color-scheme: dark)');
+  const temaActual = () => root.dataset.theme || (sysDark.matches ? 'dark' : 'light');
+  const SOL = '<svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10" cy="10" r="3.6"/><path d="M10 1.8v2.4M10 15.8v2.4M1.8 10h2.4M15.8 10h2.4M4.2 4.2l1.7 1.7M14.1 14.1l1.7 1.7M4.2 15.8l1.7-1.7M14.1 5.9l1.7-1.7"/></svg>';
+  const LUNA = '<svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M16.5 12.6A7 7 0 0 1 7.4 3.5a7 7 0 1 0 9.1 9.1z"/></svg>';
+  const pintarTema = () => {
+    const osc = temaActual() === 'dark';
+    temaBtn.innerHTML = osc ? SOL : LUNA;
+    temaBtn.setAttribute('aria-label', osc ? 'Cambiar a tema claro' : 'Cambiar a tema oscuro');
+    temaBtn.title = temaBtn.getAttribute('aria-label');
+  };
+  const temaGuardado = store.get('flujo-sincope-tema');
+  if (temaGuardado === 'dark' || temaGuardado === 'light') root.dataset.theme = temaGuardado;
+  temaBtn.addEventListener('click', () => {
+    const t = temaActual() === 'dark' ? 'light' : 'dark';
+    root.dataset.theme = t; store.set('flujo-sincope-tema', t); pintarTema();
+  });
+  if (sysDark.addEventListener) sysDark.addEventListener('change', pintarTema);
+  pintarTema();
+
+  /* ---------------- vistas ---------------- */
+  const secMapa = $('#vista-mapa'), secGuia = $('#vista-guiado');
+  const segBtns = [...document.querySelectorAll('[data-vista]')];
+  let vista = null;
+  function ponerVista(v) {
+    if (v !== 'mapa' && v !== 'guiado') v = 'guiado';
+    if (v === vista) return;
+    vista = v;
+    document.body.dataset.vista = v;
+    secMapa.hidden = v !== 'mapa';
+    secGuia.hidden = v !== 'guiado';
+    segBtns.forEach(b => b.setAttribute('aria-pressed', String(b.dataset.vista === v)));
+    store.set('flujo-sincope-vista', v);
+    if (location.hash.slice(1) !== v) location.hash = v;
+    if (v === 'mapa') mapa.asegurar();
+  }
+  segBtns.forEach(b => b.addEventListener('click', () => ponerVista(b.dataset.vista)));
+  addEventListener('hashchange', () => { const h = location.hash.slice(1); if (h === 'mapa' || h === 'guiado') ponerVista(h); });
+
+  /* ---------------- mapa ---------------- */
+  const mapa = (() => {
+    const lienzo = $('#lienzo'), mundo = $('#mundo'), svg = $('#aristas');
+    const panel = $('#panel'), zoomVal = $('#zoom-val');
+    const SIDE = { top: [0, -1], bottom: [0, 1], left: [-1, 0], right: [1, 0] };
+    const PAD = 160;
+    let OX = 0, OY = 0, W = 0, H = 0, listo = false;
+    let s = 1, tx = 0, ty = 0;
+    const elNodo = {}, elArista = {}, elEtiq = {};
+    let sel = null, volverFoco = null;
+
+    function construir() {
+      let x0 = Infinity, y0 = Infinity, x1 = -Infinity, y1 = -Infinity;
+      for (const n of [...Object.values(N), ...D.grupos]) {
+        x0 = Math.min(x0, n.x); y0 = Math.min(y0, n.y - (n.etiqueta ? 70 : 0));
+        x1 = Math.max(x1, n.x + n.w); y1 = Math.max(y1, n.y + n.h);
+      }
+      OX = PAD - x0; OY = PAD - y0; W = x1 - x0 + 2 * PAD; H = y1 - y0 + 2 * PAD;
+      mundo.style.width = W + 'px'; mundo.style.height = H + 'px';
+      svg.setAttribute('width', W); svg.setAttribute('height', H); svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+      for (const g of D.grupos) {
+        const d = mk('div', 'grp');
+        Object.assign(d.style, { left: g.x + OX + 'px', top: g.y + OY + 'px', width: g.w + 'px', height: g.h + 'px' });
+        const [cab, ...resto] = g.etiqueta.split(' — ');
+        d.append(mk('div', 'grp-label', `<b>${esc(cab)}</b>${resto.length ? ' — ' + esc(resto.join(' — ')) : ''}`));
+        mundo.append(d);
+      }
+      const ordenados = Object.values(N).sort((a, b) => a.y - b.y || a.x - b.x);
+      for (const n of ordenados) {
+        const d = mk('article', `node ${kc(n)} ${n.tipo === 'file' ? 'file' : 'tinted'}`);
+        d.dataset.id = n.id; d.tabIndex = 0; d.setAttribute('role', 'button');
+        d.setAttribute('aria-label', `${cat(n)}: ${n.titulo}`);
+        Object.assign(d.style, { left: n.x + OX + 'px', top: n.y + OY + 'px', width: n.w + 'px', height: n.h + 'px' });
+        if (n.tipo === 'file') {
+          d.innerHTML = `<div class="file-kicker">Nota · ${esc(n.carpeta)}</div><h3>${esc(n.titulo)}</h3>` +
+            (n.toc.length ? `<ul class="toc">${n.toc.map(t => `<li>${esc(t)}</li>`).join('')}</ul>` : '<div class="toc"></div>') +
+            `<a class="file-open" href="${esc(n.url)}" target="_blank" rel="noopener">Abrir nota ↗</a>`;
+        } else {
+          d.innerHTML = `<div class="md"><h${n.nivel}>${n.tituloHtml}</h${n.nivel}>${n.cuerpo}</div>`;
+        }
+        elNodo[n.id] = d; mundo.append(d);
+      }
+      const ns = 'http://www.w3.org/2000/svg';
+      for (const e of D.aristas) {
+        const geo = geometria(e);
+        const g = document.createElementNS(ns, 'g');
+        g.setAttribute('class', `edge k${e.color || '0'}${e.flecha ? '' : ' asoc'}`);
+        const p = document.createElementNS(ns, 'path'); p.setAttribute('d', geo.d); g.append(p);
+        if (geo.punta) { const t = document.createElementNS(ns, 'polygon'); t.setAttribute('points', geo.punta); g.append(t); }
+        svg.append(g); elArista[e.id] = g;
+        if (e.etiqueta) {
+          const l = mk('div', `elab k${e.color || '0'}`); l.textContent = e.etiqueta; l.setAttribute('aria-hidden', 'true');
+          l.style.left = geo.mid[0] + 'px'; l.style.top = geo.mid[1] + 'px';
+          mundo.append(l); elEtiq[e.id] = l;
+        }
+      }
+    }
+
+    function lado(a, b) {
+      const dx = (b.x + b.w / 2) - (a.x + a.w / 2), dy = (b.y + b.h / 2) - (a.y + a.h / 2);
+      return Math.abs(dx) > Math.abs(dy) ? (dx > 0 ? 'right' : 'left') : (dy > 0 ? 'bottom' : 'top');
+    }
+    function ancla(n, l) {
+      const x = n.x + OX, y = n.y + OY;
+      return l === 'top' ? [x + n.w / 2, y] : l === 'bottom' ? [x + n.w / 2, y + n.h] : l === 'left' ? [x, y + n.h / 2] : [x + n.w, y + n.h / 2];
+    }
+    function geometria(e) {
+      const a = N[e.de], b = N[e.a];
+      const la = e.ladoDe || lado(a, b), lb = e.ladoA || lado(b, a);
+      const n1 = SIDE[la], n2 = SIDE[lb];
+      const p1 = ancla(a, la), q = ancla(b, lb);
+      const AL = e.flecha ? 18 : 0;
+      const p2 = [q[0] + n2[0] * AL, q[1] + n2[1] * AL];
+      const dist = Math.hypot(p2[0] - p1[0], p2[1] - p1[1]);
+      const k = Math.max(40, Math.min(dist * 0.5, 220));
+      const c1 = [p1[0] + n1[0] * k, p1[1] + n1[1] * k], c2 = [p2[0] + n2[0] * k, p2[1] + n2[1] * k];
+      const bz = t => [0, 1].map(i => (1 - t) ** 3 * p1[i] + 3 * (1 - t) ** 2 * t * c1[i] + 3 * (1 - t) * t * t * c2[i] + t ** 3 * p2[i]);
+      let punta = null;
+      if (e.flecha) {
+        const px = -n2[1], py = n2[0];
+        punta = `${q[0]},${q[1]} ${p2[0] + px * 9},${p2[1] + py * 9} ${p2[0] - px * 9},${p2[1] - py * 9}`;
+      }
+      return { d: `M${p1[0]},${p1[1]} C${c1[0]},${c1[1]} ${c2[0]},${c2[1]} ${p2[0]},${p2[1]}`, punta, mid: bz(0.5) };
+    }
+
+    function aplicar() {
+      mundo.style.transform = `translate(${tx}px,${ty}px) scale(${s})`;
+      let g = 24 * s; while (g < 12) g *= 4;
+      lienzo.style.backgroundSize = `${g}px ${g}px`;
+      lienzo.style.backgroundPosition = `${tx}px ${ty}px`;
+      zoomVal.textContent = Math.round(s * 100) + ' %';
+    }
+    function ajusteTodo() {
+      const r = lienzo.getBoundingClientRect();
+      const ns = Math.min(r.width / W, r.height / H) * 0.96;
+      return { s: ns, tx: (r.width - W * ns) / 2, ty: (r.height - H * ns) / 2 };
+    }
+    const limites = () => [Math.min(0.05, ajusteTodo().s * 0.8), 2.2];
+    function zoomEn(px, py, f) {
+      const [lo, hi] = limites();
+      const ns = Math.min(hi, Math.max(lo, s * f));
+      tx = px - (px - tx) * (ns / s); ty = py - (py - ty) * (ns / s); s = ns; aplicar();
+    }
+    let tAnim = 0;
+    function animar(fn) {
+      if (!reduced) { mundo.classList.add('anim'); clearTimeout(tAnim); tAnim = setTimeout(() => mundo.classList.remove('anim'), 340); }
+      fn(); aplicar();
+    }
+    function verTodo() { const a = ajusteTodo(); animar(() => { s = a.s; tx = a.tx; ty = a.ty; }); }
+    function verAncho() {
+      const r = lienzo.getBoundingClientRect();
+      animar(() => { s = Math.min(1, r.width / W); tx = (r.width - W * s) / 2; ty = 8; });
+    }
+    function centrar(id, minS = 0.62) {
+      const n = N[id], r = lienzo.getBoundingClientRect();
+      const movil = r.width < 760;
+      const libre = panel.hidden || movil ? r.width : r.width - Math.min(500, r.width * 0.45);
+      const alto = !panel.hidden && movil ? r.height * 0.26 : r.height;
+      const ns = Math.min(Math.max(s, minS), (libre * 0.92) / n.w, (Math.max(alto, 180) * 0.92) / n.h, 1.4);
+      const cx = n.x + OX + n.w / 2, cy = n.y + OY + n.h / 2;
+      animar(() => {
+        s = ns; tx = libre / 2 - cx * s; ty = alto / 2 - cy * s;
+        if (alto < r.height) ty = Math.max(ty, 12 - (n.y + OY) * s);
+      });
+    }
+
+    function marcarDesborde() {
+      for (const n of Object.values(N)) {
+        if (n.tipo === 'file') continue;
+        const d = elNodo[n.id], md = d.firstElementChild;
+        d.classList.toggle('clip', md.scrollHeight > md.clientHeight + 2);
+      }
+    }
+
+    function limpiarSel() {
+      lienzo.classList.remove('foco');
+      for (const el of lienzo.querySelectorAll('.sel,.cerca,.hl')) el.classList.remove('sel', 'cerca', 'hl');
+      sel = null;
+    }
+    function seleccionar(id, { abrir = true, centro = false } = {}) {
+      limpiarSel();
+      sel = id;
+      lienzo.classList.add('foco');
+      elNodo[id].classList.add('sel');
+      for (const e of D.aristas) {
+        if (e.de !== id && e.a !== id) continue;
+        elArista[e.id].classList.add('hl'); if (elEtiq[e.id]) elEtiq[e.id].classList.add('hl');
+        elNodo[e.de === id ? e.a : e.de].classList.add('cerca');
+      }
+      if (abrir) abrirPanel(id);
+      if (centro) centrar(id);
+    }
+    function marcarRuta(camino) {
+      for (const el of lienzo.querySelectorAll('.enruta')) el.classList.remove('enruta');
+      if (!camino || !camino.length) { lienzo.classList.remove('ruta'); return; }
+      const ids = new Set();
+      camino.forEach(i => {
+        ids.add(i);
+        const p = P[i];
+        if (p && p.paralelo && camino.includes(p.paralelo.siguiente)) p.paralelo.tareas.forEach(t => ids.add(t));
+      });
+      ids.forEach(i => elNodo[i] && elNodo[i].classList.add('enruta'));
+      for (const e of D.aristas) {
+        if (ids.has(e.de) && ids.has(e.a)) {
+          elArista[e.id].classList.add('enruta'); if (elEtiq[e.id]) elEtiq[e.id].classList.add('enruta');
+        }
+      }
+      lienzo.classList.add('ruta');
+    }
+
+    function abrirPanel(id) {
+      const n = N[id];
+      panel.className = `panel ${kc(n)}`;
+      $('#panel-kicker').textContent = cat(n);
+      $('#panel-titulo').innerHTML = n.tipo === 'file' ? esc(n.titulo) : n.tituloHtml;
+      const cuerpo = $('#panel-cuerpo');
+      cuerpo.innerHTML = '';
+      if (n.tipo === 'file') {
+        cuerpo.append(mk('div', 'md', `<p class="aviso">${esc(n.carpeta)}</p>` +
+          (n.toc.length ? `<p><strong>Secciones</strong></p><ul>${n.toc.map(t => `<li>${esc(t)}</li>`).join('')}</ul>` : '') +
+          `<p><a class="btn prim" href="${esc(n.url)}" target="_blank" rel="noopener">Abrir nota ↗</a></p>`));
+      } else {
+        cuerpo.append(mk('div', 'md', n.cuerpo));
+      }
+      const conex = D.aristas.filter(e => e.de === id || e.a === id).sort((a, b) => (a.de === id) - (b.de === id));
+      if (conex.length) {
+        const sec = mk('div', 'panel-sec', '<h3>Conexiones</h3>');
+        const lista = mk('div', 'conn');
+        for (const e of conex) {
+          const otro = N[e.de === id ? e.a : e.de];
+          const b = mk('button', kc(otro));
+          b.type = 'button';
+          b.innerHTML = `<span class="dir">${e.de === id ? '→' : '←'}</span><span>${e.etiqueta ? `<span class="lab">${esc(e.etiqueta)}</span> · ` : ''}${esc(otro.titulo)}</span>`;
+          b.addEventListener('click', () => { volverFoco = elNodo[otro.id]; seleccionar(otro.id, { centro: true }); });
+          lista.append(b);
+        }
+        sec.append(lista); cuerpo.append(sec);
+      }
+      const dueno = P[id] ? id : G.dueno[id];
+      if (dueno && G.camino[dueno]) {
+        const sec = mk('div', 'panel-sec');
+        const b = mk('button', 'btn prim', 'Seguir desde aquí en el recorrido guiado →');
+        b.type = 'button';
+        b.addEventListener('click', () => { guia.irA(G.camino[dueno].slice()); ponerVista('guiado'); });
+        sec.append(b); cuerpo.append(sec);
+      }
+      cuerpo.scrollTop = 0;
+      panel.hidden = false;
+    }
+    function cerrarPanel() {
+      limpiarSel();
+      if (panel.hidden) return;
+      panel.hidden = true;
+      if (volverFoco && document.contains(volverFoco)) volverFoco.focus({ preventScroll: true });
+    }
+    $('#panel-cerrar').addEventListener('click', cerrarPanel);
+
+    /* gestos: arrastrar, pellizcar, rueda */
+    const ptrs = new Map();
+    let arr = null, pin = null, sinClick = false;
+    const rect = () => lienzo.getBoundingClientRect();
+    lienzo.addEventListener('pointerdown', e => {
+      if (e.pointerType === 'mouse' && e.button !== 0) return;
+      ptrs.set(e.pointerId, { x: e.clientX, y: e.clientY });
+      if (ptrs.size === 1) arr = { id: e.pointerId, x: e.clientX, y: e.clientY, tx, ty, movido: false };
+      else if (ptrs.size === 2) {
+        const [a, b] = [...ptrs.values()], r = rect();
+        pin = { d: Math.hypot(a.x - b.x, a.y - b.y) || 1, s, tx, ty, mx: (a.x + b.x) / 2 - r.left, my: (a.y + b.y) / 2 - r.top };
+        arr = null; sinClick = true;
+        for (const id of ptrs.keys()) { try { lienzo.setPointerCapture(id); } catch (err) { /* puntero ya liberado */ } }
+      }
+    });
+    lienzo.addEventListener('pointermove', e => {
+      if (!ptrs.has(e.pointerId)) return;
+      ptrs.set(e.pointerId, { x: e.clientX, y: e.clientY });
+      if (pin && ptrs.size >= 2) {
+        const [a, b] = [...ptrs.values()], r = rect();
+        const [lo, hi] = limites();
+        const ns = Math.min(hi, Math.max(lo, pin.s * Math.hypot(a.x - b.x, a.y - b.y) / pin.d));
+        const mx = (a.x + b.x) / 2 - r.left, my = (a.y + b.y) / 2 - r.top;
+        s = ns; tx = mx - (pin.mx - pin.tx) * (ns / pin.s); ty = my - (pin.my - pin.ty) * (ns / pin.s);
+        aplicar(); return;
+      }
+      if (arr && arr.id === e.pointerId) {
+        const dx = e.clientX - arr.x, dy = e.clientY - arr.y;
+        if (!arr.movido && Math.hypot(dx, dy) > 6) {
+          arr.movido = true; lienzo.classList.add('arrastrando');
+          try { lienzo.setPointerCapture(e.pointerId); } catch (err) { /* nada */ }
+        }
+        if (arr.movido) { tx = arr.tx + dx; ty = arr.ty + dy; aplicar(); }
+      }
+    });
+    const soltar = e => {
+      if (!ptrs.has(e.pointerId)) return;
+      ptrs.delete(e.pointerId);
+      if (ptrs.size < 2) pin = null;
+      if (arr && arr.id === e.pointerId) { if (arr.movido) sinClick = true; arr = null; lienzo.classList.remove('arrastrando'); }
+      if (ptrs.size === 1 && !arr) { const [[id, p]] = [...ptrs.entries()]; arr = { id, x: p.x, y: p.y, tx, ty, movido: true }; }
+      if (sinClick && ptrs.size === 0) setTimeout(() => { sinClick = false; }, 0);
+    };
+    lienzo.addEventListener('pointerup', soltar);
+    lienzo.addEventListener('pointercancel', soltar);
+    const pista = $('.map-hint');
+    const ocultarPista = () => { pista.hidden = true; };
+    lienzo.addEventListener('pointerdown', ocultarPista, { once: true });
+    lienzo.addEventListener('wheel', ocultarPista, { once: true, passive: true });
+    // el foco de teclado desplazaría el lienzo (o una tarjeta) y descuadraría la transformación
+    lienzo.addEventListener('scroll', e => { const t = e.target; if (t.scrollTop || t.scrollLeft) { t.scrollTop = 0; t.scrollLeft = 0; } }, true);
+    lienzo.addEventListener('click', e => {
+      if (sinClick) { e.preventDefault(); e.stopPropagation(); sinClick = false; return; }
+      if (e.target.closest('a')) return;
+      const nd = e.target.closest('.node');
+      if (nd) { volverFoco = nd; seleccionar(nd.dataset.id); } else cerrarPanel();
+    }, true);
+    lienzo.addEventListener('wheel', e => {
+      e.preventDefault();
+      let dx = e.deltaX, dy = e.deltaY;
+      if (e.deltaMode === 1) { dx *= 16; dy *= 16; }
+      const r = rect();
+      if (e.ctrlKey || e.metaKey) zoomEn(e.clientX - r.left, e.clientY - r.top, Math.exp(-dy * (Math.abs(dy) < 40 ? 0.012 : 0.0022)));
+      else { if (e.shiftKey && !dx) { dx = dy; dy = 0; } tx -= dx; ty -= dy; aplicar(); }
+    }, { passive: false });
+    lienzo.addEventListener('keydown', e => {
+      const nd = e.target.closest && e.target.closest('.node');
+      if (nd && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); volverFoco = nd; seleccionar(nd.dataset.id, { centro: true }); return; }
+      const r = rect(), paso = 80;
+      const acc = { ArrowLeft: () => { tx += paso; }, ArrowRight: () => { tx -= paso; }, ArrowUp: () => { ty += paso; }, ArrowDown: () => { ty -= paso; } }[e.key];
+      if (acc) { e.preventDefault(); acc(); aplicar(); return; }
+      if (e.key === '+' || e.key === '=') { e.preventDefault(); zoomEn(r.width / 2, r.height / 2, 1.25); }
+      else if (e.key === '-') { e.preventDefault(); zoomEn(r.width / 2, r.height / 2, 0.8); }
+      else if (e.key === '0') { e.preventDefault(); verTodo(); }
+    });
+    lienzo.addEventListener('focusin', e => {
+      const nd = e.target.closest('.node');
+      if (nd && nd.matches(':focus-visible')) {
+        const n = N[nd.dataset.id], r = rect();
+        const x = (n.x + OX) * s + tx, y = (n.y + OY) * s + ty;
+        if (x < 0 || y < 0 || x + n.w * s > r.width || y + n.h * s > r.height || s < 0.45) centrar(n.id, 0.6);
+      }
+    });
+    addEventListener('keydown', e => { if (e.key === 'Escape' && vista === 'mapa') cerrarPanel(); });
+    const centroZoom = f => { const r = rect(); zoomEn(r.width / 2, r.height / 2, f); };
+    $('#z-mas').addEventListener('click', () => centroZoom(1.3));
+    $('#z-menos').addEventListener('click', () => centroZoom(1 / 1.3));
+    $('#z-todo').addEventListener('click', verTodo);
+    $('#z-ancho').addEventListener('click', verAncho);
+
+    return {
+      asegurar() {
+        if (listo) return;
+        construir(); listo = true;
+        const r = rect(); s = Math.min(1, r.width / W); tx = (r.width - W * s) / 2; ty = 8; aplicar();
+        marcarDesborde();
+        if (document.fonts && document.fonts.ready) document.fonts.ready.then(marcarDesborde);
+      },
+      mostrar(camino, id) {
+        this.asegurar();
+        cerrarPanel();
+        marcarRuta(camino);
+        if (id) requestAnimationFrame(() => centrar(id, 0.55));
+      }
+    };
+  })();
+
+  /* ---------------- recorrido guiado ---------------- */
+  const guia = (() => {
+    const stepEl = $('#step'), crumbs = $('#crumbs'), extra = $('#g-extra');
+    let camino = [G.inicio];
+
+    const chip = id => {
+      const n = N[id];
+      return `<a class="note-chip" href="${esc(n.url)}" target="_blank" rel="noopener"><small>${esc(n.carpeta)}</small><span>${esc(n.titulo)} ↗</span></a>`;
+    };
+    const notasHtml = ids => ids.length ? `<div class="notes">${ids.map(chip).join('')}</div>` : '';
+    const acordeon = (id, extraHtml = '') => {
+      const n = N[id];
+      return `<details class="acc ${kc(n)}"><summary>${n.tituloHtml}</summary><div class="acc-body"><div class="md">${n.cuerpo}</div>${extraHtml}</div></details>`;
+    };
+    const eleccion = (etiqueta, destino) => {
+      const n = N[destino];
+      return `<button type="button" class="choice ${kc(n)}" data-ir="${destino}"><span class="lab">${esc(etiqueta)} →</span><span class="tgt">${esc(n.titulo)}</span></button>`;
+    };
+
+    function intro() {
+      const cab = N[G.cabecera];
+      if (cab) {
+        $('#g-intro').innerHTML = '<p class="aviso">Material educativo: no sustituye al protocolo local ni al juicio clínico. En cada paso, pulsa la opción que corresponda; las tarjetas moradas amplían el detalle.</p>' +
+          `<details class="acc k6"><summary>Fuentes, leyenda y notas del grupo síncope</summary><div class="acc-body"><div class="md">${cab.cuerpo}</div>` +
+          (G.notasCabecera.length ? `<div class="sec"><h3>Notas del grupo síncope</h3>${notasHtml(G.notasCabecera)}</div>` : '') +
+          '</div></details>';
+      }
+      if (N[G.pie]) $('#g-pie').innerHTML = acordeon(G.pie);
+    }
+
+    function pintar(enfocar) {
+      const id = camino[camino.length - 1], n = N[id], p = P[id];
+      crumbs.innerHTML = camino.map((c, i) => `${i ? '<span class="sep" aria-hidden="true">›</span>' : ''}<button type="button" class="${kc(N[c])} tinted" data-paso="${i}" title="${esc(N[c].titulo)}"${i === camino.length - 1 ? ' aria-current="step"' : ''}>${esc(N[c].corto)}</button>`).join('');
+      crumbs.scrollLeft = crumbs.scrollWidth;
+      stepEl.className = `step tinted ${kc(n)}`;
+      let h = `<div class="step-meta"><span>${esc(cat(n))}</span><span class="n">Paso ${camino.length}</span></div>` +
+        `<h2 tabindex="-1">${n.tituloHtml}</h2><div class="md">${n.cuerpo}</div>`;
+      if (p.paralelo) {
+        h += `<div class="sec"><div class="sec-head"><h3>${esc(p.paralelo.etiqueta)}: ${p.paralelo.tareas.length} tareas</h3><button type="button" class="btn" data-abrir-todo>Desplegar todas</button></div>` +
+          p.paralelo.tareas.map(t => acordeon(t, notasHtml(P[t] ? P[t].notas : []) + (P[t] ? P[t].detalles.map(x => acordeon(x)).join('') : ''))).join('') + '</div>' +
+          `<div class="choices">${eleccion('Siguiente', p.paralelo.siguiente)}</div>`;
+      } else if (p.siguiente) {
+        h += `<div class="choices">${eleccion('Siguiente', p.siguiente)}</div>`;
+      } else if (p.ramas.length) {
+        h += `<p class="choices-h">Elige la opción que corresponda</p><div class="choices${p.ramas.length > 1 ? ' multi' : ''}">${p.ramas.map(r => eleccion(r.etiqueta, r.a)).join('')}</div>`;
+      } else {
+        h += '<p class="fin">Fin de esta rama del flujograma. Revisa las notas enlazadas y el apartado «Antes de cerrar».</p>';
+      }
+      stepEl.innerHTML = h;
+      let x = '';
+      if (p.detalles.length) x += `<section class="sec"><h3>Para saber más</h3>${p.detalles.map(d => acordeon(d)).join('')}</section>`;
+      if (p.notas.length) x += `<section class="sec"><h3>Notas relacionadas</h3>${notasHtml(p.notas)}</section>`;
+      if (p.final && G.cierre.length) x += `<section class="sec"><h3>Antes de cerrar</h3>${G.cierre.map(c => acordeon(c)).join('')}</section>`;
+      extra.innerHTML = x;
+      extra.hidden = !x;
+      $('#g-atras').disabled = camino.length < 2;
+      if (enfocar) {
+        const top = crumbs.getBoundingClientRect().top + scrollY - 70;
+        if (scrollY > top) scrollTo({ top: Math.max(0, top), behavior: reduced ? 'auto' : 'smooth' });
+        stepEl.querySelector('h2').focus({ preventScroll: true });
+      }
+    }
+
+    function guardarHist(reemplazar) {
+      if (enMarco) return;
+      try {
+        if (reemplazar) history.replaceState({ camino: camino.slice() }, '', location.href);
+        else history.pushState({ camino: camino.slice() }, '', '#guiado');
+      } catch (e) { /* sin historial */ }
+    }
+    function ir(destino) { camino.push(destino); guardarHist(false); pintar(true); }
+
+    stepEl.addEventListener('click', e => {
+      const b = e.target.closest('[data-ir]');
+      if (b) { ir(b.dataset.ir); return; }
+      const t = e.target.closest('[data-abrir-todo]');
+      if (t) {
+        const acc = [...stepEl.querySelectorAll('.sec > .acc')];
+        const abrir = acc.some(a => !a.open);
+        acc.forEach(a => { a.open = abrir; });
+        t.textContent = abrir ? 'Plegar todas' : 'Desplegar todas';
+      }
+    });
+    crumbs.addEventListener('click', e => {
+      const b = e.target.closest('[data-paso]');
+      if (!b) return;
+      const i = +b.dataset.paso;
+      if (i === camino.length - 1) return;
+      camino = camino.slice(0, i + 1); guardarHist(false); pintar(true);
+    });
+    $('#g-atras').addEventListener('click', () => { if (camino.length > 1) { camino.pop(); guardarHist(false); pintar(true); } });
+    $('#g-reinicio').addEventListener('click', () => { camino = [G.inicio]; guardarHist(false); pintar(true); });
+    $('#g-mapa').addEventListener('click', () => { ponerVista('mapa'); mapa.mostrar(camino, camino[camino.length - 1]); });
+    addEventListener('popstate', e => {
+      if (e.state && Array.isArray(e.state.camino) && e.state.camino.every(c => P[c])) {
+        camino = e.state.camino.slice(); pintar(false);
+      }
+    });
+
+    intro(); pintar(false);
+    if (!(history.state && history.state.camino)) guardarHist(true);
+    else if (history.state.camino.every(c => P[c])) { camino = history.state.camino.slice(); pintar(false); }
+    return { irA(c) { camino = c; guardarHist(false); pintar(false); scrollTo(0, 0); } };
+  })();
+
+  /* ---------------- arranque ---------------- */
+  const h0 = location.hash.slice(1);
+  const v0 = (h0 === 'mapa' || h0 === 'guiado') ? h0 : (store.get('flujo-sincope-vista') || (innerWidth < 760 ? 'guiado' : 'mapa'));
+  ponerVista(v0);
+})();
+</script>
+</body>
+</html>
