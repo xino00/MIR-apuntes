@@ -25,6 +25,7 @@ ambito: Adultos en urgencias; síntesis de guías y evidencia
 > - Enfoque neurológico → [[Síncope Neurológico]]
 > - Explicación del consenso EUSEM con canvas → [[Syncope-EUSEM-2024-explained]]
 > - **Flujograma integrado de esta nota** (Canvas; solo se ve en Obsidian) → [[Síncope en Urgencias - Flujograma.canvas|Abrir el flujograma]]
+> - **El mismo flujograma, interactivo** (web y móvil: mapa del canvas y recorrido guiado paso a paso) → [[Síncope en Urgencias - Flujograma interactivo.html|Abrir el flujograma interactivo]]
 
 > [!note] Vigencia de las guías (comprobado 28/10/2026)
 > La guía ESC de síncope vigente sigue siendo la de **2018**. La NEJM (agosto 2026) cita la ESC 2018 y la **ACC/AHA/HRS 2017** como las dos guías más recientes.

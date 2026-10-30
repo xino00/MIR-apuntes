@@ -134,6 +134,7 @@ Síncope vasovagal o situacional típico en paciente joven sin cardiopatía → 
 - [[Síncope]] (abordaje desde cardiología)
 - [[Síncope en Urgencias - Síntesis de Guías y Evidencia]] (manejo en urgencias: EUSEM, CSRS, monitorización y destino)
 - [[Síncope en Urgencias - Flujograma.canvas|Flujograma de síncope en urgencias (Canvas)]]
+- [[Síncope en Urgencias - Flujograma interactivo.html|Flujograma de síncope en urgencias (interactivo, web y móvil)]]
 - [[Ictus Isquémico]] (diagnóstico diferencial: AIT vertebrobasilar)
 - [[Hemorragia Subaracnoidea]] (diagnóstico diferencial: síncope en HSA)
 - [[Status Epiléptico]] (diagnóstico diferencial: crisis convulsiva vs síncope convulsivo)
