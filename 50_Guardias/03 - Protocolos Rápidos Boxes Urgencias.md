@@ -307,16 +307,18 @@ Anticoagulación: HNF /HBPM
 ## FIBRILACIÓN AURICULAR
 ### CONTROL DE FRECUENCIA
 Objetivo FC <110 lpm (<80 si síntomas). (ESC AF 2024, [[Fibrilación Auricular (FA)]])
-- 1ª línea (BB): Metoprolol 2,5-5mg IV lento (máx 15mg) / Bisoprolol 2,5-10mg/24h VO.
-- 2ª línea (Ca-antag no DHP, CONTRAINDICADOS si FEVI ≤40%): Verapamilo 2,5-10mg IV lento / Diltiazem 60-360mg/24h VO.
-- 3ª línea o de elección en ICA descompensada: Digoxina 0,5mg IV en bolo, luego 0,25mg/6-8h (carga total 1-1,5mg).
+- 1ª línea (BB): Metoprolol 2,5-5mg IV en 2 min (máx 15mg) (ESC) / Bisoprolol 2,5-10mg/24h VO.
+- Ca-antag no DHP (primera elección si FEVI >40%; CONTRAINDICADOS si FEVI ≤40% o IC con FEVI <50%, ESC HF 2026): Verapamilo 2,5-10mg IV en 5 min / Diltiazem 60-360mg/24h VO.
+- Digoxina (de elección en ICA descompensada, Manual): 0,5mg IV; 0,75-1,5mg/24h en dosis divididas (ESC AF 2024). Reducir y monitorizar en ERC, sobre todo FG <30.
+- En IC-FEr estable, BB de 1ª línea y digoxina si no basta. En IC aguda, BB no de entrada: iniciar con cautela una vez estabilizado (ESC HF 2026).
 
 ### CONTROL DE RITMO
-De elección en 1er episodio, jóvenes (≤70a), FEVI reducida o FA sintomática mal controlada. (ESC AF 2024, [[Fibrilación Auricular (FA)]])
-- Inestabilidad HD → Cardioversión eléctrica urgente 150-200J sincronizada (sedación: Propofol/Midazolam).
-- CV farmacológica SIN cardiopatía estructural: Flecainida 2mg/kg IV en 10-20min (o "pill in the pocket" 300mg VO).
-- CV farmacológica CON cardiopatía (FEVI baja, isquemia, HVI): Amiodarona 300mg IV en 30-60min + 900mg/24h. ¡Flecainida CONTRAINDICADA!
+De elección en 1er episodio, jóvenes (≤70a), FEVI reducida o FA sintomática mal controlada. (Manual, tabla 6, [[Fibrilación Auricular (FA)]])
+- Inestabilidad atribuible a la FA → Cardioversión eléctrica urgente (si es secundaria, tratar la causa) 150-200J sincronizada (sedación: SIN propofol si inestable o TAS <100; midazolam + etomidato, Manual).
+- CV farmacológica SIN cardiopatía (HVI grave, IC-FEr, coronaria): Flecainida IV 1-2mg/kg en 10min (ESC) / 2mg/kg en ≥10min, máx 150mg (FT Apocard); VO 200-300mg (esa dosis solo oral; IV por mg/kg, máx 150mg). ClCr <35: no usar (ESC) o reducir (FT).
+- CV farmacológica CON cardiopatía (HVI grave, IC-FEr, coronaria): Amiodarona 300mg IV en 30-60min + 900-1200mg/24h (ESC; Manual 900mg). ¡Flecainida CONTRAINDICADA! FT: IV contraindicada en hipotensión o IC, aunque las guías la contemplan.
 - Umbral de anticoagulación previa: cardioversión sin ACO/ETE solo si FA <24h (ESC AF 2024 redujo de 48h a 24h).
+- FA preexcitada (QRS ancho e irregular): SIN BB, verapamilo, diltiazem, digoxina ni amiodarona IV. CVE si hay compromiso. ([[Fibrilación Auricular (FA)#🚫 FA preexcitada|Ver en la nota]])
 
 ### ANTICOAGULACIÓN
 **Calcular CHA₂DS₂-VA y HAS-BLED** (ESC AF 2024 sustituyó CHA₂DS₂-VASc por CHA₂DS₂-VA, sin componente sexo; anticoagular si ≥2 [Clase I], considerar si =1. [[Escala CHA2DS2-VASc y HAS-BLED]])
@@ -326,8 +328,8 @@ De elección en 1er episodio, jóvenes (≤70a), FEVI reducida o FA sintomática
 
 |  | ACOd | Antivitamina K |
 | --- | --- | --- |
-| Indicación | De elección.  < R sangrado mayor > R sangrado GI | FA valvular (prótesis/EM moderada - severa) FG <15 Child Pugh C |
-| Contraindicación | FA valvular (prótesis/EM moderada - severa) FG <15 Child Pugh C |  |
+| Indicación | De elección.  < R sangrado mayor > R sangrado GI | FA valvular (prótesis/EM moderada - severa) FG <15 sin diálisis (individualizar, ESC ERC 2026) Child Pugh C |
+| Contraindicación | FA valvular (prótesis/EM moderada - severa) Child Pugh C. FG <15: no es absoluta en ESC ERC 2026 (apixabán 2,5mg/12h o AVK si no dializa; anti-Xa a dosis baja si dializa); Manual y FT discrepan |  |
 
 
 
@@ -1715,15 +1717,15 @@ Anticoagulación: HNF /HBPM
 
 
 ### ANTICOAGULACIÓN
-**Calcular CHADSVASc y HASBLED**
+**Calcular CHA₂DS₂-VA y HAS-BLED** (ESC AF 2024. [[Escala CHA2DS2-VASc y HAS-BLED]])
 
 
 **Elección entre ACOd y antivitamina K:**
 
 |  | ACOd | Antivitamina K |
 | --- | --- | --- |
-| Indicación | De elección.  < R sangrado mayor > R sangrado GI | FA valvular (prótesis/EM moderada - severa) FG <15 Child Pugh C |
-| Contraindicación | FA valvular (prótesis/EM moderada - severa) FG <15 Child Pugh C |  |
+| Indicación | De elección.  < R sangrado mayor > R sangrado GI | FA valvular (prótesis/EM moderada - severa) FG <15 sin diálisis (individualizar, ESC ERC 2026) Child Pugh C |
+| Contraindicación | FA valvular (prótesis/EM moderada - severa) Child Pugh C. FG <15: no es absoluta en ESC ERC 2026 (apixabán 2,5mg/12h o AVK si no dializa; anti-Xa a dosis baja si dializa); Manual y FT discrepan |  |
 
 
 

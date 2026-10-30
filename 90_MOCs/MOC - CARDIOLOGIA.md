@@ -41,7 +41,7 @@ description: "Índice de cardiología: hipertensión, insuficiencia cardiaca, SC
 - [[MOC - CRM 2026|CRM: revisión ESC/KDIGO 2026]] — corpus independiente; publicaciones y borrador de diabetes diferenciados.
 - [[Arritmias]]
 - [[Síncope]]
-- [[Fibrilación Auricular (FA)]]
+- [[Fibrilación Auricular (FA)]] · [[FA en Urgencias - Flujograma.canvas|flujograma en urgencias (Canvas)]]
 - [[Miocardiopatías]]
 - [[Valvulopatías]]
 - [[Endocarditis Infecciosa]]

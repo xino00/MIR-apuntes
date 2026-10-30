@@ -1,0 +1,1127 @@
+{
+  "nodes": [
+    {
+      "id": "ee14533c45a1b1a5",
+      "type": "text",
+      "text": "# FA EN URGENCIAS — FLUJOGRAMA\n**Para qué sirve:** decidir en urgencias qué hacer ante una FA en un adulto: estabilizar, frenar, cardiovertir o esperar, anticoagular y dar destino.\n**Cómo leerlo:** de arriba abajo por el eje central; las ramas salen a los lados. Las tarjetas moradas son detalle, no pasos. Las ramas que acaban en «Siguiente: paso 10» continúan en el grupo 06.\n**Fuentes:** ESC 2024 FA · ESC 2026 IC (manda en FA con IC) · ESC 2026 ERC (manda en FA con ERC) · Manual 12 de Octubre 2022, cap. 16 · fichas técnicas (FT) de CIMA. Si discrepan, se dice en la tarjeta y en el pie.\n**Colores:** 🔴 1 urgente o vía específica · 🟠 2 observación o riesgo intermedio · 🟡 3 decisión · 🟢 4 resolución · 🔵 5 valoración o acción · 🟣 6 detalle, evidencia o advertencia.\n**Nota principal:** [[Fibrilación Auricular (FA)]]. **Material educativo: no sustituye al protocolo local ni al juicio clínico.** Actualizado: 2026-10-30.",
+      "x": 0,
+      "y": 0,
+      "width": 2320,
+      "height": 310,
+      "color": "6"
+    },
+    {
+      "id": "a1ad0c60685c17e1",
+      "type": "file",
+      "file": "10_Patologias/01_Cardio/Fibrilación Auricular (FA).md",
+      "x": 0,
+      "y": 440,
+      "width": 440,
+      "height": 340
+    },
+    {
+      "id": "4992d675794c72a0",
+      "type": "file",
+      "file": "10_Patologias/01_Cardio/Arritmias.md",
+      "x": 470,
+      "y": 440,
+      "width": 440,
+      "height": 340
+    },
+    {
+      "id": "fb262a93b00f59c9",
+      "type": "file",
+      "file": "10_Patologias/01_Cardio/Escala CHA2DS2-VASc y HAS-BLED.md",
+      "x": 940,
+      "y": 440,
+      "width": 440,
+      "height": 340
+    },
+    {
+      "id": "bb6dc9897708e81e",
+      "type": "file",
+      "file": "10_Patologias/01_Cardio/Insuficiencia cardiaca aguda.md",
+      "x": 1410,
+      "y": 440,
+      "width": 440,
+      "height": 340
+    },
+    {
+      "id": "a48b1e9ca944d2f0",
+      "type": "file",
+      "file": "50_Guardias/03 - Protocolos Rápidos Boxes Urgencias.md",
+      "x": 1880,
+      "y": 440,
+      "width": 440,
+      "height": 340
+    },
+    {
+      "id": "f4cccfa54a0afa11",
+      "type": "group",
+      "label": "00 · NOTAS DE FA — ábrelas desde aquí (vista previa desplazable)",
+      "x": -40,
+      "y": 390,
+      "width": 2400,
+      "height": 440
+    },
+    {
+      "id": "9c8d84ff41b51f32",
+      "type": "text",
+      "text": "## 1 · Sospecha de FA\n- **Monitor, constantes y ECG de 12 derivaciones.** El ECG confirma la FA y abre la estratificación (ESC 2024, I-A).\n- FA: sin ondas P, ondas f y R-R irregular (Manual).",
+      "x": 600,
+      "y": 1000,
+      "width": 520,
+      "height": 278,
+      "color": "5"
+    },
+    {
+      "id": "f6ca83fab6dcce6f",
+      "type": "text",
+      "text": "## 2a · ¿Inestable ahora?\nInestabilidad = **datos de hipoperfusión** (Manual).\n*Lectura práctica (nota [[Arritmias]]; el Manual no da lista):*\n- TAS < 90 mmHg, frialdad, oliguria, acidosis.\n- Alteración aguda de la consciencia.\n- Edema agudo de pulmón.\n- Dolor torácico isquémico activo.\n[[Arritmias#🚨 Signos de Alarma y Banderas Rojas|Ver en la nota →]]",
+      "x": 600,
+      "y": 1368,
+      "width": 520,
+      "height": 810,
+      "color": "3"
+    },
+    {
+      "id": "d5ca15b21ac2b686",
+      "type": "text",
+      "text": "## 2b · ¿La FA causa la inestabilidad?\nEs la pregunta que separa cardiovertir de tratar la causa.\n- **La causa la FA:** inestabilidad aguda o progresiva atribuible a la arritmia (ESC 2024).\n- **Secundaria:** paciente grave que hace FA: sepsis, trauma, cirugía, sobrecarga de volumen, shock cardiogénico, iones (ESC 2024 §7.1.2 y §9.1).\n- La causa se trata siempre, antes o a la vez que la frecuencia o el ritmo.",
+      "x": 1200,
+      "y": 1368,
+      "width": 520,
+      "height": 810,
+      "color": "3"
+    },
+    {
+      "id": "05b387c6d41a63c6",
+      "type": "text",
+      "text": "## FA secundaria: tratar la causa\n- Hasta el **83 %** vuelve a sinusal en 48 h tras tratar la causa (ESC 2024 §9.1).\n- CVE: sigue siendo 1.ª opción si se cree que el sinusal ayudará, con recaída inmediata frecuente (ESC 2024).\n- **Si hay que frenar:** amiodarona, digoxina o landiolol i.v. (ESC 2024, IIb B). ESC 2026 IC: amiodarona o digoxina (IIb C); no cita landiolol.\n- ⚠ **FT amiodarona:** i.v. contraindicada en hipotensión, insuficiencia respiratoria grave, miocardiopatía o IC, colapso circulatorio y disfunción tiroidea. Las guías la contemplan: discrepancia, decidir con Cardiología o UCI.\n- ⚠ **FT landiolol:** contraindicado en shock cardiogénico, hipotensión grave, IC descompensada no relacionada con la arritmia y acidosis metabólica grave.\n- **ACO a largo plazo:** tras corregir el desencadenante si riesgo alto (IIa C); en sepsis aguda el balance es incierto (ESC 2024 §9.5). Si se hace CV, rigen las normas de ACO de la CV.\n**Siguiente: paso 10 · Anticoagular** (grupo 06).",
+      "x": 1800,
+      "y": 1368,
+      "width": 520,
+      "height": 810,
+      "color": "1"
+    },
+    {
+      "id": "afa750745b1ab26f",
+      "type": "file",
+      "file": "30_Urgencias/Patologia_Aguda/Shock.md",
+      "x": 2460,
+      "y": 1368,
+      "width": 460,
+      "height": 390
+    },
+    {
+      "id": "02607788d267e765",
+      "type": "file",
+      "file": "10_Patologias/03_Infecciosas/Sepsis/Sepsis - Abordaje Inicial (SSC 2026).md",
+      "x": 2460,
+      "y": 1788,
+      "width": 460,
+      "height": 390
+    },
+    {
+      "id": "6c53628959e46145",
+      "type": "text",
+      "text": "## Estable: cuatro tareas a la vez\nNinguna espera a la otra; si reaparece la inestabilidad, volver a 2a.",
+      "x": 600,
+      "y": 2268,
+      "width": 520,
+      "height": 586,
+      "color": "5"
+    },
+    {
+      "id": "018db6cc997a4cb2",
+      "type": "text",
+      "text": "## CVE urgente\n- **ESC 2024, I-C:** FA con inestabilidad aguda o progresiva.\n- **ESC 2026 IC, I-C:** cardioversión urgente en IC descompensada, FA rápida e inestabilidad; en IC-FEr inestable, la eléctrica es la 1.ª opción (§9.1.1.4).\n- No se retrasa por la ACO: iniciarla lo antes posible (ESC 2024, IIa B).\n- **Sin propofol** si está inestable (Manual).\n**Siguiente: paso 10 · Anticoagular** (grupo 06).",
+      "x": 1200,
+      "y": 2268,
+      "width": 520,
+      "height": 586,
+      "color": "1"
+    },
+    {
+      "id": "de0313f3300435e0",
+      "type": "text",
+      "text": "## Cómo hacer la CVE\n- **Preparar:** monitor, 2 vías, carro de paradas, cama a 180°, retirar prótesis dental, O₂ a bajo flujo, palas o parches (Manual).\n- **Sedación:** no hace falta si hay pérdida de conocimiento. **Propofol 0,5-1 mg/kg: contraindicado si inestable, TAS < 100, disfunción VI grave o alergia al huevo.** Alternativa: midazolam 2-3 mg + etomidato 0,3 mg/kg (Manual, fig. 1). Otro capítulo da etomidato 0,15 mg/kg + opiáceo (§2.7.1).\n- **Energía FA:** 150-200 J sincronizada; si falla, máxima o anteroposterior (Manual). ESC 2024: sin cifra; energía máxima fija mejor que escalada baja.\n- **Tener a mano:** atropina o isoproterenol i.v., o MCP transcutáneo (ESC 2024).",
+      "x": 1800,
+      "y": 2268,
+      "width": 520,
+      "height": 586,
+      "color": "6"
+    },
+    {
+      "id": "a1a4db195883e61e",
+      "type": "file",
+      "file": "20_farmacos/Propofol.md",
+      "x": 2460,
+      "y": 2268,
+      "width": 460,
+      "height": 278
+    },
+    {
+      "id": "afe6a7a6210c0c0b",
+      "type": "file",
+      "file": "20_farmacos/Etomidato.md",
+      "x": 2460,
+      "y": 2576,
+      "width": 460,
+      "height": 278
+    },
+    {
+      "id": "1fe3814f48fd0105",
+      "type": "group",
+      "label": "01 · RECONOCER Y ESTABILIZAR — primero, ¿aguanta?",
+      "x": -40,
+      "y": 950,
+      "width": 2400,
+      "height": 1954
+    },
+    {
+      "id": "13a7e900d8b03bfb",
+      "type": "text",
+      "text": "## 3a · Leer el ECG\n- Ritmo y frecuencia ventricular.\n- Signos de cardiopatía, trastornos de conducción, isquemia (ESC 2024 §3.4).\n- **QRS ancho e irregular:** pensar en preexcitación (Manual, fig. 2).",
+      "x": 0,
+      "y": 3074,
+      "width": 520,
+      "height": 306,
+      "color": "5"
+    },
+    {
+      "id": "d8bfa9e8d6a7deb4",
+      "type": "text",
+      "text": "## 3b · Analítica\n- Función renal, iones, función hepática, hemograma, glucosa/HbA1c y **TSH** (ESC 2024, tabla 8).\n- Troponina y NT-proBNP si procede.\n- ETT si guía la decisión (I C); no debe retrasar la ACO.",
+      "x": 600,
+      "y": 3074,
+      "width": 520,
+      "height": 306,
+      "color": "5"
+    },
+    {
+      "id": "36ce4fdf3571e334",
+      "type": "text",
+      "text": "## 3c · Historia que decide\n- **Hora de inicio** del episodio y si es segura.\n- **ACO:** cuál, adherencia, INR (Manual).\n- FEVI, cardiopatía, valvulopatía.\n- Síntomas (mEHRA) (ESC 2024).\n- Alergias y fármacos que frenan.",
+      "x": 1200,
+      "y": 3074,
+      "width": 520,
+      "height": 306,
+      "color": "5"
+    },
+    {
+      "id": "0ca3b32eb6660217",
+      "type": "text",
+      "text": "## 3d · Buscar el desencadenante\n- **Sepsis:** el más frecuente (ESC 2024 §9.5).\n- Alcohol y tóxicos, hipertiroidismo, sobrecarga de volumen, infección, HTA no controlada (ESC 2026 IC).\n- Flutter: EPOC agudizado, TEP (Manual).",
+      "x": 1800,
+      "y": 3074,
+      "width": 520,
+      "height": 306,
+      "color": "5"
+    },
+    {
+      "id": "ee09ef7ef4b7267d",
+      "type": "group",
+      "label": "02 · EN PARALELO — ECG, analítica, historia y causa",
+      "x": -40,
+      "y": 3024,
+      "width": 2400,
+      "height": 406
+    },
+    {
+      "id": "c6c6a03057291df0",
+      "type": "text",
+      "text": "## ¿Y el flutter?\n- Ondas F en sierra a 250-300 lpm; respuesta ~150 lpm si 2:1 (Manual).\n- **CVE 50-100 J**, muy eficaz; CV farmacológica poco eficaz (Manual).\n- **Flecainida y propafenona: no para convertir flutter** (ESC 2024, tabla 13).\n- Frenar es difícil; el ritmo suele ser 1.ª línea (ESC 2024 §9.14).\n- Misma pauta de ACO (ESC 2024; Manual).",
+      "x": 0,
+      "y": 3600,
+      "width": 520,
+      "height": 558,
+      "color": "6"
+    },
+    {
+      "id": "f3ed680e9b491964",
+      "type": "text",
+      "text": "## 4 · ¿QRS ancho e irregular?\nSugiere **FA preexcitada** (diferencial: FA con aberrancia o bloqueo de rama, TV polimorfa; Manual, fig. 2).\n- Mirar ECG previos: PR corto, onda delta (Manual).\n- **QRS ancho regular:** no es este flujo; en la duda, tratar como TV → [[Arritmias]].\n- **TV polimorfa:** desfibrilación a 360 J, sin sincronizar (Manual).\n- *Lectura práctica:* QRS ancho igual en un ECG previo (bloqueo de rama conocido) → seguir por 5.",
+      "x": 600,
+      "y": 3600,
+      "width": 520,
+      "height": 558,
+      "color": "3"
+    },
+    {
+      "id": "de67e6464f11df30",
+      "type": "text",
+      "text": "## Vía FA preexcitada\n- **Prohibido:** BB, verapamilo, diltiazem, digoxina y **amiodarona i.v.** (ESC 2024, tabla 12). Adenosina tampoco (Manual). Riesgo de FV y muerte súbita.\n- **Compromiso hemodinámico:** CVE inmediata (ESC 2024).\n- **Estable:** ritmo de elección (Manual, tabla 6).\n- **Discrepan:** ESC 2024 permite intentar flecainida (ibutilida no consta en CIMA; propafenona con cautela); **el Manual contraindica flecainida.** *Lectura práctica:* CVE y avisar a Cardiología.\n[[Fibrilación Auricular (FA)#🚫 FA preexcitada|Ver en la nota →]]\n**Siguiente: paso 10 · Anticoagular** (grupo 06).",
+      "x": 1200,
+      "y": 3600,
+      "width": 520,
+      "height": 558,
+      "color": "1"
+    },
+    {
+      "id": "41c616e1e058d147",
+      "type": "group",
+      "label": "03 · VÍA ESPECÍFICA — lo que no se puede frenar",
+      "x": -40,
+      "y": 3550,
+      "width": 2400,
+      "height": 658
+    },
+    {
+      "id": "d37a94c441fcbde2",
+      "type": "text",
+      "text": "## Objetivo y combinaciones\n- **FC < 110 lpm en reposo** al inicio, con o sin IC (ESC 2024, IIa B; ESC 2026 IC).\n- Más estricto (< 80) si persisten síntomas o se sospecha taquimiocardiopatía (ESC 2024; Manual).\n- Combinar si un fármaco no basta, evitando bradicardia (IIa C); en agudo, sobre todo con digoxina.\n- **BB + verapamilo/diltiazem: evitar** salvo monitorización estrecha (ESC 2024); el Manual no los asocia. FT: no verapamilo i.v. en paciente tratado con BB, ni con BB i.v. con pocas horas de diferencia; esmolol, no hasta 48 h tras verapamilo.",
+      "x": 0,
+      "y": 4378,
+      "width": 520,
+      "height": 560,
+      "color": "6"
+    },
+    {
+      "id": "00be55051b608340",
+      "type": "text",
+      "text": "## 5 · ¿FEVI ≤ 40 % o IC?\nFrenar es la terapia inicial en agudo (ESC 2024, I B), sola o junto al ritmo.\n- Tratar antes o a la vez la causa.\n- Si no se conoce la FEVI y cambia la decisión: ETT (ESC 2024). *Lectura práctica:* mientras tanto, si se sospecha IC, sin verapamilo ni diltiazem.\n- Si está inestable, no estás aquí: vuelve a 2a.\n[[Fibrilación Auricular (FA)#🩺 Estrategia 1: Control de Frecuencia (FA con RVR)|Ver en la nota →]]",
+      "x": 600,
+      "y": 4378,
+      "width": 520,
+      "height": 560,
+      "color": "3"
+    },
+    {
+      "id": "125c284ceb685bb3",
+      "type": "text",
+      "text": "## Dosis i.v. para frenar\n| Fármaco | ESC 2024 (tabla 12) | FT CIMA | Manual |\n|---|---|---|---|\n| **Metoprolol** | 2,5-5 mg en 2 min; máx. 15 mg | Hasta 5 mg a 1-2 mg/min; repetir cada 5 min; total 10-15 mg | «2,5 mg/5 min» |\n| **Esmolol** | 500 µg/kg en 1 min → 50-300 µg/kg/min | 500 µg/kg/min 1 min → 50-200 µg/kg/min | — |\n| **Landiolol** | Carga opcional 100 µg/kg en 1 min → 10-40 µg/kg/min; críticos 1-10 | Igual, bolo solo si estable; inicio 1-10 si disfunción cardiaca o shock séptico | — |\n| **Verapamilo** | 2,5-10 mg en 5 min | 5-10 mg en ≥ 2 min; 10 mg más a los 30 min | 2,5-10 mg en 5 min |\n| **Diltiazem** | 0,25 mg/kg en 5 min → 5-15 mg/h | Sin presentación i.v. en CIMA | — |\n| **Digoxina** | 0,5 mg (0,75-1,5 mg/24 h divididos) | 0,5-1 mg: la mitad primero; resto cada 4-8 h, cada dosis en 10-20 min | 0,5 mg; máx. 1,5 mg |\n| **Amiodarona** | 300 mg en 30-60 min → 900-1200 mg/24 h; mejor vía central | 5 mg/kg en 20 min-2 h → 10-20 mg/kg/24 h; límite 1200 mg/24 h | 3.ª línea |\n\n**Digoxina:** reducir y monitorizar en ERC, sobre todo FG < 30, ancianos o con verapamilo (ESC 2024; ESC 2026 ERC; Manual). La carga de la FT es para quien no tomó digitálicos en 2 semanas.\n\nOral: bisoprolol 1,25-20 mg/24 h (ESC 2024); 2,5-10 mg/24 h (Manual).",
+      "x": 1200,
+      "y": 4378,
+      "width": 1120,
+      "height": 560,
+      "color": "6"
+    },
+    {
+      "id": "ad427d1c9b7332c1",
+      "type": "file",
+      "file": "20_farmacos/Metoprolol.md",
+      "x": 2460,
+      "y": 4378,
+      "width": 460,
+      "height": 265
+    },
+    {
+      "id": "3276a09dcd3324ee",
+      "type": "file",
+      "file": "20_farmacos/Digoxina.md",
+      "x": 2460,
+      "y": 4673,
+      "width": 460,
+      "height": 265
+    },
+    {
+      "id": "9d3ddd8235c4c51f",
+      "type": "text",
+      "text": "## 5a · FEVI > 40 %, sin IC-FEr\n- **Con IC y FEVI < 50 % es IC-FEr según ESC 2026 → 5b:** sin verapamilo, diltiazem, flecainida ni propafenona.\n- BB, verapamilo, diltiazem o digoxina (ESC 2024, I B).\n- En agudo, BB o verapamilo antes que digoxina: actúan antes (ESC 2024).\n- Asma o EPOC grave: verapamilo; BB contraindicados si broncoespasmo grave (ESC 2024; Manual).\n- **IC-FEp:** sin evidencia específica para frenar (ESC 2026 IC).",
+      "x": 0,
+      "y": 5028,
+      "width": 520,
+      "height": 502,
+      "color": "5"
+    },
+    {
+      "id": "1ac658f34058faa0",
+      "type": "text",
+      "text": "## 5b · IC-FEr estable (FEVI < 50 % con IC)\n- **BB: 1.ª línea** a corto y largo plazo (ESC 2026 IC, I C).\n- **Digoxina** si no basta o hay contraindicación (ESC 2026 IC, IIa C). ESC 2024 los ponía al mismo nivel (I B).\n- **Verapamilo y diltiazem: contraindicados** si FEVI ≤ 40 % (ESC 2024) o IC con FEVI < 50 % (ESC 2026 IC).",
+      "x": 600,
+      "y": 5028,
+      "width": 520,
+      "height": 502,
+      "color": "5"
+    },
+    {
+      "id": "a127aec7344acfb8",
+      "type": "text",
+      "text": "## 5c · Descompensada, sin inestabilidad\n- **Diurético si hay congestión:** alivia y puede bajar la frecuencia y favorecer el sinusal (ESC 2026 IC).\n- **BB: no de entrada** (contraindicados en IC aguda: ESC 2024, tabla 12; Manual). Iniciar con cautela una vez estabilizado (ESC 2026 IC §6.1.4, tratamiento de fondo).\n- **Excepción posible:** landiolol a dosis baja si la descompensación se atribuye a la arritmia (ESC 2024 §9.1; FT).\n- **Digoxina:** de elección según el Manual; ajustar a la función renal.\n→ [[Insuficiencia cardiaca aguda]]",
+      "x": 1200,
+      "y": 5028,
+      "width": 520,
+      "height": 502,
+      "color": "5"
+    },
+    {
+      "id": "00e1c8c56e6f9bc1",
+      "type": "text",
+      "text": "## 5d · FEVI muy deprimida\n- Amiodarona, digoxina o landiolol i.v. (ESC 2024, IIb B).\n- Landiolol: controla la FA rápida con FEVI baja con poco impacto en PA (ESC 2024 §9.1); la ESC 2026 IC no lo cita.\n- Amiodarona: último recurso para frenar por su toxicidad (ESC 2024). ⚠ FT: i.v. contraindicada en miocardiopatía o IC; la guía la contempla.\n- ⚠ Landiolol, FT: no en shock cardiogénico, hipotensión grave ni IC descompensada ajena a la arritmia.",
+      "x": 1800,
+      "y": 5028,
+      "width": 520,
+      "height": 502,
+      "color": "5"
+    },
+    {
+      "id": "904b80565fafa0d1",
+      "type": "file",
+      "file": "20_farmacos/Amiodarona.md",
+      "x": 2460,
+      "y": 5028,
+      "width": 460,
+      "height": 502
+    },
+    {
+      "id": "592888516b72ce6c",
+      "type": "group",
+      "label": "04 · FRECUENCIA — frenar según el ventrículo",
+      "x": -40,
+      "y": 4328,
+      "width": 2400,
+      "height": 1252
+    },
+    {
+      "id": "39c026d975d066d7",
+      "type": "text",
+      "text": "## Qué favorece el ritmo\n- 1.er episodio, desencadenante corregible, < 1 año de evolución, ≤ 70 años, aurículas poco dilatadas, mal control de frecuencia, IC-FEr, taquimiocardiopatía (Manual, tabla 6).\n- FA breve o preferencia del paciente (ESC 2024).\n- **Contra:** FA de larga evolución, poca repercusión, aurícula muy dilatada, edad avanzada, comorbilidad grave (Manual).",
+      "x": 0,
+      "y": 5750,
+      "width": 520,
+      "height": 390,
+      "color": "6"
+    },
+    {
+      "id": "4714536c76a3ebbd",
+      "type": "text",
+      "text": "## 6 · ¿Cardiovertir en esta visita?\n- **Esperar hasta 48 h** es alternativa válida si no hay compromiso (ESC 2024, IIa B; RACE 7: no inferior a CV inmediata, a las 4 semanas).\n- Sinusal espontáneo frecuente en FA reciente: 55-66 % en 24 h, 69 % en 48 h (ESC 2024 §7.2.3).\n- ESC 2026 IC: en IC, sin evidencia de que el ritmo supere a frenar; individualizar.\n[[Fibrilación Auricular (FA)#⚡ Estrategia 2: Control del Ritmo (Cardioversión)|Ver en la nota →]]",
+      "x": 600,
+      "y": 5750,
+      "width": 520,
+      "height": 390,
+      "color": "3"
+    },
+    {
+      "id": "fe3dfbc37bd6621b",
+      "type": "text",
+      "text": "## 6a · Esperar\n- Frenar y controlar síntomas.\n- Sin CV hoy: sinusal espontáneo frecuente en 48 h.\n- **Si sigue en FA a las 24 h sin ACO ≥ 3 semanas:** CV solo con ETE o tras 3 semanas de ACO (ESC 2024, III C).\n**Siguiente: paso 10 · Anticoagular** (grupo 06).",
+      "x": 1200,
+      "y": 5750,
+      "width": 520,
+      "height": 390,
+      "color": "5"
+    },
+    {
+      "id": "4f0891d75568b84b",
+      "type": "text",
+      "text": "## 7b · ACO y CV diferida\n- **ACO terapéutica ≥ 3 semanas** antes (ACOD con adherencia o INR ≥ 2) (ESC 2024, I B).\n- CVE electiva si sigue haciendo falta.\n**Siguiente: paso 10 · Anticoagular** (grupo 06).",
+      "x": 0,
+      "y": 6230,
+      "width": 520,
+      "height": 446,
+      "color": "2"
+    },
+    {
+      "id": "d65ba9aaac18469a",
+      "type": "text",
+      "text": "## 7 · ¿Es seguro cardiovertir ahora?\n- **Seguro:** ACO terapéutica ≥ 3 semanas, o inicio seguro < 24 h.\n- **Sin ACO previa y CV no programada: iniciar ACO lo antes posible, también si < 24 h** (ESC 2024, fig. 12, IIa B).\n- **FA ≥ 24 h o inicio desconocido sin ACO: no cardiovertir** sin ACO o ETE, ni si se puede esperar a la conversión espontánea (ESC 2024, III C). El Manual aún dice < 48 h.\n- Amiloidosis: ETE siempre, sea cual sea la ACO previa (ESC 2026 IC).",
+      "x": 600,
+      "y": 6230,
+      "width": 520,
+      "height": 446,
+      "color": "3"
+    },
+    {
+      "id": "3a42af0503c3c433",
+      "type": "text",
+      "text": "## 7a · ETE\n- Excluye trombo si no hay 3 semanas de ACO (ESC 2024, I B).\n- Iniciar ACO terapéutica lo antes posible (ACOD, AVK, HBPM o HNF) (ESC 2024, IIa B).",
+      "x": 1200,
+      "y": 6230,
+      "width": 520,
+      "height": 446,
+      "color": "5"
+    },
+    {
+      "id": "b8922fcedb25d491",
+      "type": "text",
+      "text": "## 7c · Trombo en ETE\n- ACO terapéutica **≥ 4 semanas**.\n- **Repetir ETE** antes de cardiovertir (ESC 2024, IIa C).\n- No cardiovertir hoy.\n**Siguiente: paso 10 · Anticoagular** (grupo 06).",
+      "x": 1800,
+      "y": 6230,
+      "width": 520,
+      "height": 446,
+      "color": "2"
+    },
+    {
+      "id": "ee96cc883924a1be",
+      "type": "text",
+      "text": "## No cardioversión farmacológica si…\n- Disfunción sinusal, trastorno de conducción AV o QTc > 500 ms, salvo valorar proarritmia y bradicardia (ESC 2024, III C).\n- Vernakalant: QT > 440 ms sin corregir (FT).",
+      "x": 0,
+      "y": 6766,
+      "width": 520,
+      "height": 334,
+      "color": "6"
+    },
+    {
+      "id": "8403932088644308",
+      "type": "text",
+      "text": "## 8 · ¿Eléctrica o farmacológica?\n- **CVE:** más eficaz; requiere sedación (ESC 2024).\n- **Farmacológica:** sin ayuno ni sedación; mejor cuanto antes (ESC 2024).\n- Tras un intento fallido de CVE, se puede repetir tras impregnar con antiarrítmico (Manual).",
+      "x": 600,
+      "y": 6766,
+      "width": 520,
+      "height": 334,
+      "color": "3"
+    },
+    {
+      "id": "46a192f938729899",
+      "type": "text",
+      "text": "## 8a · CVE en estable\n- Misma técnica que en urgente: ver **Cómo hacer la CVE** (grupo 01).\n- Con estabilidad hay margen para propofol si no hay otra contraindicación (Manual).\n- Vigilar PA y SatO₂ (ESC 2024).\n**Siguiente: paso 10 · Anticoagular** (grupo 06).",
+      "x": 1200,
+      "y": 6766,
+      "width": 520,
+      "height": 334,
+      "color": "5"
+    },
+    {
+      "id": "ea3aeadae324ea28",
+      "type": "text",
+      "text": "## 9a · Sin cardiopatía\ni.v. de flecainida, propafenona y vernakalant: I A (ESC 2024).\n- **Flecainida i.v.:** 1-2 mg/kg en 10 min (ESC 2024); **2 mg/kg en ≥ 10 min, máx. 150 mg** (FT). **Oral: 200-300 mg** (ESC 2024; Manual). ClCr < 35: no usar (ESC 2024); reducir dosis (FT; ESC 2026 ERC). FT: no en IC, valvulopatía significativa ni FA de larga duración.\n- **Propafenona i.v.:** 1,5-2 mg/kg en 10 min (ESC 2024); 1 mg/kg (0,5-2) en 3-5 min (FT). Oral: 450-600 mg (ESC 2024). FT: no en EPOC grave, IAM < 3 meses ni alteración iónica manifiesta.\n- **Vernakalant:** 3 mg/kg en 10 min (máx. 339 mg); 2.ª dosis 2 mg/kg en 10 min (máx. 226 mg), a los 15 min del final de la 1.ª (FT; ESC 2024: 10-15 min); máx. 5 mg/kg/24 h. FA ≤ 7 días (FT). No si TAS < 100, SCA < 1 mes, NYHA III-IV, EAo grave, QT largo, bradicardia grave, disfunción sinusal o BAV 2.º-3.er grado. **No en las 4 h antes o después de antiarrítmico i.v. de clase I o III** (FT).\n- **Flecainida/propafenona:** parar si QRS se ensancha > 25 % (ESC 2024), QRS/QTc +20 % en propafenona (FT), o bloqueo de rama; añadir frenador por si pasa a flutter 1:1; no en Brugada (ESC 2024).",
+      "x": 0,
+      "y": 7190,
+      "width": 520,
+      "height": 894,
+      "color": "4"
+    },
+    {
+      "id": "b510266da53f0b35",
+      "type": "text",
+      "text": "## 9 · ¿Cardiopatía?\nHVI grave, IC-FEr o enfermedad coronaria (ESC 2024, rec. tabla 17).\n- **IC-FEr:** FEVI < 50 % con IC (ESC 2026 IC); la ESC 2024 usaba ≤ 40 %.\n- Decide el fármaco, no la indicación.\n- Sin cardiopatía → 9a; con cardiopatía → 9b.\n- FA de reciente comienzo; el Manual prefiere ≤ 7 días.\n- IC-FEp: sin datos de CV farmacológica (ESC 2026 IC).",
+      "x": 600,
+      "y": 7190,
+      "width": 520,
+      "height": 894,
+      "color": "3"
+    },
+    {
+      "id": "3cb03f23d779523a",
+      "type": "text",
+      "text": "## 9b · Con cardiopatía (I A)\n- **Amiodarona i.v.:** 300 mg en 30-60 min → 900-1200 mg/24 h (ESC 2024); 900 mg/24 h (Manual). FT: 5 mg/kg en 250 ml de SG 5 % en 20 min-2 h → 10-20 mg/kg/24 h, límite 1200 mg.\n- **IC-FEr: solo amiodarona.** Evitar flecainida, propafenona y dronedarona (ESC 2026 IC).\n- **Vernakalant** sigue siendo opción en coronariopatía sin SCA < 1 mes o HVI, si no hay IC-FEr, EAo grave ni otra exclusión (ESC 2024, I A).\n- ⚠ FT amiodarona: i.v. contraindicada en hipotensión, insuficiencia respiratoria grave, miocardiopatía o IC; la guía sí la recomienda en IC-FEr. Decidir con Cardiología.\n- Vena gruesa; flebitis, hipotensión, bradicardia, QT largo. Hipertiroidismo: solo si no hay otra opción (ESC 2024).",
+      "x": 1200,
+      "y": 7190,
+      "width": 520,
+      "height": 894,
+      "color": "4"
+    },
+    {
+      "id": "e7138fba200c4afc",
+      "type": "text",
+      "text": "## Qué esperar del fármaco (9a y 9b)\n- Vernakalant y flecainida i.v.: mayor conversión en 4 h; podrían permitir el alta desde urgencias (ESC 2024).\n- Vernakalant: 50 % en 10 min (ESC 2024, tabla 13).\n- Amiodarona: **efecto diferido**, 44 % de 8-12 h a varios días; aceptar el retraso (ESC 2024).\n- **Si no convierte:** seguir frenando; CVE posible. Vernakalant o pretratar con antiarrítmico mejora la CVE (ESC 2024 §7.2.2), respetando la ventana de 4 h de vernakalant (FT).",
+      "x": 1800,
+      "y": 7190,
+      "width": 520,
+      "height": 894,
+      "color": "6"
+    },
+    {
+      "id": "5574223f8b7c11bd",
+      "type": "file",
+      "file": "20_farmacos/Flecainida.md",
+      "x": 2460,
+      "y": 7190,
+      "width": 460,
+      "height": 894
+    },
+    {
+      "id": "556fb742aaf4650e",
+      "type": "group",
+      "label": "05 · RITMO — ¿ahora, y es seguro?",
+      "x": -40,
+      "y": 5700,
+      "width": 2400,
+      "height": 2434
+    },
+    {
+      "id": "e69e7fff6b44645f",
+      "type": "text",
+      "text": "## Cómo decidir la ACO a largo plazo\n- **CHA₂DS₂-VA** ≥ 2: ACO (I); = 1: considerar (IIa) (ESC 2024).\n- ESC 2026 IC puntúa la «C» en IC crónica estadios B, C y D.\n- **HAS-BLED ≥ 3 no veta:** no usar scores de sangrado para decidir la ACO (ESC 2024, III B; Manual); corregir lo modificable.\n- **FG < 30: no usar CHA₂DS₂-VA ni HAS-BLED;** considerar alto riesgo e individualizar (ESC 2026 ERC, III).\n- **MCH y amiloidosis:** ACO sin mirar el score (ESC 2024 y 2026).\n→ [[Escala CHA2DS2-VASc y HAS-BLED]]",
+      "x": 0,
+      "y": 8304,
+      "width": 520,
+      "height": 530,
+      "color": "6"
+    },
+    {
+      "id": "1196a7605917c217",
+      "type": "text",
+      "text": "## 10 · Anticoagular\n- **Tras CV: ≥ 4 semanas a todos**, incluso CHA₂DS₂-VA 0. Opcional solo si inicio seguro < 24 h y bajo riesgo (ESC 2024).\n- **Después, y sin CV:** según riesgo, aunque siga en sinusal.\n- **ACOD de elección** (ESC 2024, I A; ESC 2026 IC, I). AVK: válvula mecánica o estenosis mitral moderada-grave.\n- **FA por desencadenante:** ACO tras corregirlo si riesgo alto (ESC 2024, IIa C).\n- **No:** sangrado activo, plaquetopenia o anemia graves, sangrado reciente de alto riesgo (Manual).\n[[Fibrilación Auricular (FA)#🩸 Prevención Tromboembólica (Anticoagulación)|Ver en la nota →]]",
+      "x": 600,
+      "y": 8304,
+      "width": 520,
+      "height": 530,
+      "color": "5"
+    },
+    {
+      "id": "8f635846efb963eb",
+      "type": "text",
+      "text": "## Dosis de ACOD (ESC 2024, tabla 11) y FG (ESC 2026 ERC)\n- **Apixabán** 5 mg/12 h; **2,5 mg/12 h** si 2 de 3: ≥ 80 años, ≤ 60 kg, Cr ≥ 133 µmol/L, **o ClCr 15-29 (FT)**.\n- **Dabigatrán** 150 mg/12 h; **110 mg/12 h** si ≥ 80 años o verapamilo; valorar si 75-80 años, ClCr 30-50, gastritis/ERGE o riesgo de sangrado.\n- **Edoxabán** 60 mg/24 h; **30 mg/24 h** si ClCr 15-50, ≤ 60 kg, o ciclosporina, dronedarona, eritromicina o ketoconazol.\n- **Rivaroxabán** 20 mg/24 h; **15 mg/24 h** si ClCr 15-49.\n- **FG ≥ 30:** ACOD mejor que AVK (I A). **FG 15-29:** anti-Xa mejor que AVK (IIa).\n- **FG < 15:** individualizar (IIa C). Sin diálisis: AVK o apixabán 2,5 mg/12 h (IIb C). En diálisis: anti-Xa a dosis baja, p. ej. apixabán 5 mg/12 h; 2,5 mg/12 h si ≤ 60 kg o ≥ 80 años (IIb C). FT Eliquis: no recomendado si ClCr < 15 o diálisis. Dabigatrán: sin ensayos con FG < 30.",
+      "x": 1200,
+      "y": 8304,
+      "width": 1120,
+      "height": 530,
+      "color": "6"
+    },
+    {
+      "id": "86d39e9bef6284dd",
+      "type": "text",
+      "text": "## Alta con plan\n- FC controlada y síntomas aceptables; ritmo o frecuencia según lo decidido.\n- ACO iniciada o decisión documentada.\n- Conversión rápida con vernakalant o flecainida podría permitir el alta (ESC 2024).\n- Si espera: reevaluar a las 48 h; desde las 24 h, CV solo con ACO ≥ 3 semanas o ETE.\n- Seguimiento dentro de AF-CARE (ESC 2024).\n*Lectura práctica; sin criterios formales en las fuentes.*",
+      "x": 0,
+      "y": 8924,
+      "width": 520,
+      "height": 418,
+      "color": "4"
+    },
+    {
+      "id": "8cc5b28c98c1a61f",
+      "type": "text",
+      "text": "## 11 · ¿Alta o ingreso?\n⚠ **ESC 2024, ESC 2026 y Manual no dan criterios de alta o ingreso: según protocolo local.**\n- Atención estructurada de la FA aguda en urgencias: mejores resultados sin perder seguridad (ESC 2024 §7.2.2).\n- Cuenta la causa, no solo la FC.",
+      "x": 600,
+      "y": 8924,
+      "width": 520,
+      "height": 418,
+      "color": "3"
+    },
+    {
+      "id": "74e7c5e3af438f2f",
+      "type": "text",
+      "text": "## Observación o ingreso\n- Manda la causa: [[Insuficiencia cardiaca aguda]], [[SCA - Evaluación Inicial y Clasificación]], [[Sepsis - Abordaje Inicial (SSC 2026)]].\n- Amiodarona de efecto diferido, ETE o CVE pendientes.\n- FA con trombo: ACO y CV diferida.\n*Lectura práctica; sin criterios formales en las fuentes.*",
+      "x": 1200,
+      "y": 8924,
+      "width": 520,
+      "height": 418,
+      "color": "2"
+    },
+    {
+      "id": "8f0515784baa9f02",
+      "type": "group",
+      "label": "06 · ANTICOAGULACIÓN Y DESTINO — el paso común tras cada rama",
+      "x": -40,
+      "y": 8254,
+      "width": 2400,
+      "height": 1138
+    },
+    {
+      "id": "6fb3f117515ccaf4",
+      "type": "text",
+      "text": "## Dejar documentado\n*(Lectura práctica.)*\n- Hora de inicio y cómo se estableció.\n- ACO previa, adherencia e INR.\n- ECG antes y después; FEVI si se conoce.\n- CHA₂DS₂-VA y HAS-BLED.\n- Estrategia elegida y por qué.\n- Fármaco, dosis y respuesta; sedación y energía.\n- Plan de ACO y seguimiento.",
+      "x": 0,
+      "y": 9562,
+      "width": 520,
+      "height": 502,
+      "color": "6"
+    },
+    {
+      "id": "ec0ffe32ccc9900b",
+      "type": "text",
+      "text": "## Situaciones especiales\n- **Embarazo:** CVE inmediata si inestable o preexcitada (I C). BB β1 de elección, **no atenolol**; si fallan, digoxina o verapamilo (no en el 1.er trimestre). ACO con HBPM o AVK (AVK no en el 1.er trimestre ni desde la semana 36). **ACOD no recomendados.** Vigilar FC fetal en la CVE. Flecainida i.v. solo si no hay cardiopatía y con poca experiencia (ESC 2024 §9.8).\n- **SCA con ICP:** ACO + P2Y12 + aspirina hasta 1 semana (I); hasta 1 mes si alto riesgo isquémico (IIa). Luego ACO + P2Y12. Clopidogrel de elección; ACOD mejor que AVK (ESC 2024, fig. 14). → [[SCA - Evaluación Inicial y Clasificación]]\n- **Amiloidosis:** ETE antes de cualquier CV; evitar digoxina; ACO sin mirar el score (ESC 2026 IC).\n- **MCH:** ACO sin mirar el score (ESC 2024; ESC 2026 IC). → [[Miocardiopatías]]\n- **Hemorragia con ACO:** interrumpir y buscar la causa (I C). Grave o crítica: complejo protrombínico con AVK (IIa C); antídoto con ACOD (IIa B) (ESC 2024, rec. tabla 13).\n- **Ictus isquémico reciente:** ACOD precoz sin peores resultados que el diferido (ELAN, TIMING); ictus hemorrágico: decisión con Neurología (ESC 2024 §9.4).",
+      "x": 600,
+      "y": 9562,
+      "width": 1120,
+      "height": 502,
+      "color": "6"
+    },
+    {
+      "id": "2798ae0e23a84d91",
+      "type": "text",
+      "text": "## Trampas\n- **200-300 mg de flecainida es dosis oral.** i.v.: mg/kg y máx. 150 mg.\n- Propofol en el inestable.\n- Flecainida o propafenona para convertir flutter.\n- Frenadores o amiodarona en FA preexcitada.\n- Frenar una FA secundaria sin tratar la causa.\n- Fiarse de un inicio «seguro» dudoso: ≥ 24 h o desconocido exige ACO o ETE.\n- Suspender la ACO porque ha vuelto a sinusal.",
+      "x": 1800,
+      "y": 9562,
+      "width": 520,
+      "height": 502,
+      "color": "6"
+    },
+    {
+      "id": "a01a3f9113f112cc",
+      "type": "group",
+      "label": "07 · CIERRE — documentar, excepciones y trampas",
+      "x": -40,
+      "y": 9512,
+      "width": 2400,
+      "height": 602
+    },
+    {
+      "id": "ba740620eb3f5eec",
+      "type": "text",
+      "text": "## Dónde discrepan las fuentes y de dónde sale cada dato\nPor tema manda la ESC más reciente. **No hay guía ESC de FA posterior a 2024** (comprobado en escardio.org, 2026-10-30).\n- **CV sin ACO ni ETE:** ESC 2024 < 24 h; Manual < 48 h.\n- **Score:** ESC 2024 CHA₂DS₂-VA (≥ 2 I; = 1 IIa); Manual CHA₂DS₂-VASc (≥ 1 varón; ≥ 2 mujer). **ACO opcional tras CV:** ESC < 24 h y bajo riesgo; Manual ≤ 24 h y VASc 0 varón o 1 mujer.\n- **FG < 15:** ESC 2026 ERC individualiza; Manual contraindica ACOD.\n- **Flecainida en FA preexcitada:** ESC 2024 permite intentarla; Manual la contraindica.\n- **BB en IC aguda:** ESC 2024, tabla 12 los contraindica y su texto los prefiere «para toda FEVI». ESC 2026 IC los limita al paciente estable. **Digoxina en IC-FEr:** ESC 2024 al nivel de BB (I); ESC 2026 tras BB (IIa). **Landiolol:** ESC 2024 IIb; ESC 2026 IC no lo cita.\n- **Energía de CVE:** Manual 150-200 J; ESC sin cifra. **Sedación:** el Manual da dos pautas de etomidato (0,3 y 0,15 mg/kg).\n- **Dosis i.v.:** ESC, FT y Manual difieren en metoprolol, verapamilo, propafenona, flecainida, digoxina y amiodarona; ver tarjetas.\n- **IC-FEr:** ESC 2026 IC, FEVI < 50 %; ESC 2024, ≤ 40 %. **Verapamilo:** FT FE < 35 %; ESC 2024 ≤ 40 %.\n- **Amiodarona i.v. en IC o hipotensión:** la FT la contraindica; ESC 2024 y 2026 la contemplan. **Apixabán con ClCr < 15 o diálisis:** FT no recomendado; ESC 2026 ERC IIb C.\n- **Trombo en ETE:** ESC ≥ 4 semanas y nueva ETE; Manual 3 semanas. **Flutter:** ESC no usa Ic para convertir; el Manual los admite con frenador. **Esmolol:** ESC hasta 300 µg/kg/min; FT 200.\n- **Disponibilidad (CIMA, 2026-10-30):** ibutilida y diltiazem i.v. no constan. No se ha revisado medicamento extranjero. Comercializado no implica disponible en tu hospital.\n- **Alta e ingreso:** sin criterios en estas fuentes.\n\n**Referencias:** Van Gelder IC et al. 2024 ESC Guidelines for the management of atrial fibrillation. Eur Heart J 2024;45:3314-414. DOI 10.1093/eurheartj/ehae176 · 2026 ESC Guidelines for the management of heart failure. Eur Heart J 2026;47:5346-457. DOI 10.1093/eurheartj/ehag100 · Damman K et al. 2026 ESC Guidelines for the management of cardiovascular disease and chronic kidney disease. Eur Heart J 2026. DOI 10.1093/eurheartj/ehag098 · Manual de Diagnóstico y Terapéutica Médica, Hospital 12 de Octubre, 9.ª ed. 2022, cap. 16 · FT CIMA/AEMPS: Apocard, Rytmonorm, Brinavess, Trangorex, Beloken, Manidon, Digoxina Kern, Brevibloc, Rapibloc, Eliquis.",
+      "x": 0,
+      "y": 10284,
+      "width": 2320,
+      "height": 710,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "cfac38c2bac09e59",
+      "fromNode": "9c8d84ff41b51f32",
+      "fromSide": "bottom",
+      "toNode": "f6ca83fab6dcce6f",
+      "toSide": "top"
+    },
+    {
+      "id": "a59786ffc9104ce2",
+      "fromNode": "f6ca83fab6dcce6f",
+      "fromSide": "right",
+      "toNode": "d5ca15b21ac2b686",
+      "toSide": "left",
+      "label": "Sí",
+      "color": "3"
+    },
+    {
+      "id": "fca28b64a4a3675c",
+      "fromNode": "f6ca83fab6dcce6f",
+      "fromSide": "bottom",
+      "toNode": "6c53628959e46145",
+      "toSide": "top",
+      "label": "No",
+      "color": "5"
+    },
+    {
+      "id": "8091de1819ce352f",
+      "fromNode": "d5ca15b21ac2b686",
+      "fromSide": "right",
+      "toNode": "05b387c6d41a63c6",
+      "toSide": "left",
+      "label": "Secundaria",
+      "color": "1"
+    },
+    {
+      "id": "7760d8723cd89802",
+      "fromNode": "d5ca15b21ac2b686",
+      "fromSide": "bottom",
+      "toNode": "018db6cc997a4cb2",
+      "toSide": "top",
+      "label": "La causa la FA",
+      "color": "1"
+    },
+    {
+      "id": "2bb252d70fd1966d",
+      "fromNode": "018db6cc997a4cb2",
+      "fromSide": "right",
+      "toNode": "de0313f3300435e0",
+      "toSide": "left",
+      "color": "6",
+      "toEnd": "none"
+    },
+    {
+      "id": "48bfeb8e5483b242",
+      "fromNode": "05b387c6d41a63c6",
+      "fromSide": "right",
+      "toNode": "afa750745b1ab26f",
+      "toSide": "left",
+      "color": "6",
+      "toEnd": "none"
+    },
+    {
+      "id": "39a2c8c544615178",
+      "fromNode": "05b387c6d41a63c6",
+      "fromSide": "right",
+      "toNode": "02607788d267e765",
+      "toSide": "left",
+      "color": "6",
+      "toEnd": "none"
+    },
+    {
+      "id": "1ca18bf5b0d18d54",
+      "fromNode": "de0313f3300435e0",
+      "fromSide": "right",
+      "toNode": "a1a4db195883e61e",
+      "toSide": "left",
+      "color": "6",
+      "toEnd": "none"
+    },
+    {
+      "id": "0a110e607c4a3fdc",
+      "fromNode": "de0313f3300435e0",
+      "fromSide": "right",
+      "toNode": "afe6a7a6210c0c0b",
+      "toSide": "left",
+      "color": "6",
+      "toEnd": "none"
+    },
+    {
+      "id": "9c6b71e8b36e8afe",
+      "fromNode": "6c53628959e46145",
+      "fromSide": "bottom",
+      "toNode": "13a7e900d8b03bfb",
+      "toSide": "top"
+    },
+    {
+      "id": "eae67040f5f741c7",
+      "fromNode": "6c53628959e46145",
+      "fromSide": "bottom",
+      "toNode": "d8bfa9e8d6a7deb4",
+      "toSide": "top"
+    },
+    {
+      "id": "6bb475d10d67517e",
+      "fromNode": "6c53628959e46145",
+      "fromSide": "bottom",
+      "toNode": "36ce4fdf3571e334",
+      "toSide": "top"
+    },
+    {
+      "id": "8c76fd9debe4b16b",
+      "fromNode": "6c53628959e46145",
+      "fromSide": "bottom",
+      "toNode": "0ca3b32eb6660217",
+      "toSide": "top"
+    },
+    {
+      "id": "c84210787d0a6d56",
+      "fromNode": "13a7e900d8b03bfb",
+      "fromSide": "bottom",
+      "toNode": "f3ed680e9b491964",
+      "toSide": "top"
+    },
+    {
+      "id": "890627e8b99f4669",
+      "fromNode": "d8bfa9e8d6a7deb4",
+      "fromSide": "bottom",
+      "toNode": "f3ed680e9b491964",
+      "toSide": "top"
+    },
+    {
+      "id": "2bc2aae467b3ba6d",
+      "fromNode": "36ce4fdf3571e334",
+      "fromSide": "bottom",
+      "toNode": "f3ed680e9b491964",
+      "toSide": "top"
+    },
+    {
+      "id": "a521742c4b238b7f",
+      "fromNode": "0ca3b32eb6660217",
+      "fromSide": "bottom",
+      "toNode": "f3ed680e9b491964",
+      "toSide": "top"
+    },
+    {
+      "id": "945802731353bd0f",
+      "fromNode": "f3ed680e9b491964",
+      "fromSide": "left",
+      "toNode": "c6c6a03057291df0",
+      "toSide": "right",
+      "color": "6",
+      "toEnd": "none"
+    },
+    {
+      "id": "9fe29c8dead65214",
+      "fromNode": "f3ed680e9b491964",
+      "fromSide": "right",
+      "toNode": "de67e6464f11df30",
+      "toSide": "left",
+      "label": "Sí",
+      "color": "1"
+    },
+    {
+      "id": "12baaf9fd42f513e",
+      "fromNode": "f3ed680e9b491964",
+      "fromSide": "bottom",
+      "toNode": "00be55051b608340",
+      "toSide": "top",
+      "label": "No",
+      "color": "3"
+    },
+    {
+      "id": "b76575862956f566",
+      "fromNode": "00be55051b608340",
+      "fromSide": "left",
+      "toNode": "d37a94c441fcbde2",
+      "toSide": "right",
+      "color": "6",
+      "toEnd": "none"
+    },
+    {
+      "id": "be9e50de18847201",
+      "fromNode": "00be55051b608340",
+      "fromSide": "right",
+      "toNode": "125c284ceb685bb3",
+      "toSide": "left",
+      "color": "6",
+      "toEnd": "none"
+    },
+    {
+      "id": "c37ee532324f86e1",
+      "fromNode": "125c284ceb685bb3",
+      "fromSide": "right",
+      "toNode": "ad427d1c9b7332c1",
+      "toSide": "left",
+      "color": "6",
+      "toEnd": "none"
+    },
+    {
+      "id": "872f4f75a34685ac",
+      "fromNode": "125c284ceb685bb3",
+      "fromSide": "right",
+      "toNode": "3276a09dcd3324ee",
+      "toSide": "left",
+      "color": "6",
+      "toEnd": "none"
+    },
+    {
+      "id": "5fb06ec47f5c29f6",
+      "fromNode": "00e1c8c56e6f9bc1",
+      "fromSide": "right",
+      "toNode": "904b80565fafa0d1",
+      "toSide": "left",
+      "color": "6",
+      "toEnd": "none"
+    },
+    {
+      "id": "e272f6a72995948b",
+      "fromNode": "00be55051b608340",
+      "fromSide": "bottom",
+      "toNode": "9d3ddd8235c4c51f",
+      "toSide": "top",
+      "label": "Sin IC-FEr",
+      "color": "5"
+    },
+    {
+      "id": "190a0f5147612643",
+      "fromNode": "00be55051b608340",
+      "fromSide": "bottom",
+      "toNode": "1ac658f34058faa0",
+      "toSide": "top",
+      "label": "IC-FEr estable",
+      "color": "5"
+    },
+    {
+      "id": "35c0f8532dbe85b6",
+      "fromNode": "00be55051b608340",
+      "fromSide": "bottom",
+      "toNode": "a127aec7344acfb8",
+      "toSide": "top",
+      "label": "Descompensada",
+      "color": "5"
+    },
+    {
+      "id": "99b8ac770eebf212",
+      "fromNode": "00be55051b608340",
+      "fromSide": "bottom",
+      "toNode": "00e1c8c56e6f9bc1",
+      "toSide": "top",
+      "label": "FEVI muy baja",
+      "color": "5"
+    },
+    {
+      "id": "dd7aaff988e242ee",
+      "fromNode": "9d3ddd8235c4c51f",
+      "fromSide": "bottom",
+      "toNode": "4714536c76a3ebbd",
+      "toSide": "top"
+    },
+    {
+      "id": "26e11c1ddf7f2d65",
+      "fromNode": "1ac658f34058faa0",
+      "fromSide": "bottom",
+      "toNode": "4714536c76a3ebbd",
+      "toSide": "top"
+    },
+    {
+      "id": "513395ecc6c86ab3",
+      "fromNode": "a127aec7344acfb8",
+      "fromSide": "bottom",
+      "toNode": "4714536c76a3ebbd",
+      "toSide": "top"
+    },
+    {
+      "id": "2256db0b575062b0",
+      "fromNode": "00e1c8c56e6f9bc1",
+      "fromSide": "bottom",
+      "toNode": "4714536c76a3ebbd",
+      "toSide": "top"
+    },
+    {
+      "id": "e4e48c95f4f02800",
+      "fromNode": "4714536c76a3ebbd",
+      "fromSide": "left",
+      "toNode": "39c026d975d066d7",
+      "toSide": "right",
+      "color": "6",
+      "toEnd": "none"
+    },
+    {
+      "id": "b6de0bf4a63e5196",
+      "fromNode": "4714536c76a3ebbd",
+      "fromSide": "bottom",
+      "toNode": "d65ba9aaac18469a",
+      "toSide": "top",
+      "label": "Sí",
+      "color": "3"
+    },
+    {
+      "id": "eff967dcc3f3c7cb",
+      "fromNode": "4714536c76a3ebbd",
+      "fromSide": "right",
+      "toNode": "fe3dfbc37bd6621b",
+      "toSide": "left",
+      "label": "Esperar",
+      "color": "5"
+    },
+    {
+      "id": "a382e1368a80c44f",
+      "fromNode": "d65ba9aaac18469a",
+      "fromSide": "left",
+      "toNode": "4f0891d75568b84b",
+      "toSide": "right",
+      "label": "Puede esperar",
+      "color": "2"
+    },
+    {
+      "id": "d6bb2d4077076b64",
+      "fromNode": "d65ba9aaac18469a",
+      "fromSide": "right",
+      "toNode": "3a42af0503c3c433",
+      "toSide": "left",
+      "label": "No espera",
+      "color": "5"
+    },
+    {
+      "id": "2f56a97adbfaae99",
+      "fromNode": "d65ba9aaac18469a",
+      "fromSide": "bottom",
+      "toNode": "8403932088644308",
+      "toSide": "top",
+      "label": "Seguro",
+      "color": "3"
+    },
+    {
+      "id": "c53a84d7b354523e",
+      "fromNode": "3a42af0503c3c433",
+      "fromSide": "right",
+      "toNode": "b8922fcedb25d491",
+      "toSide": "left",
+      "label": "Trombo",
+      "color": "2"
+    },
+    {
+      "id": "f55782b6c9cd0e6d",
+      "fromNode": "3a42af0503c3c433",
+      "fromSide": "bottom",
+      "toNode": "8403932088644308",
+      "toSide": "top",
+      "label": "Sin trombo",
+      "color": "3"
+    },
+    {
+      "id": "8000bd15e410f7c6",
+      "fromNode": "8403932088644308",
+      "fromSide": "left",
+      "toNode": "ee96cc883924a1be",
+      "toSide": "right",
+      "color": "6",
+      "toEnd": "none"
+    },
+    {
+      "id": "f203ea2f67a32afd",
+      "fromNode": "8403932088644308",
+      "fromSide": "right",
+      "toNode": "46a192f938729899",
+      "toSide": "left",
+      "label": "Eléctrica",
+      "color": "5"
+    },
+    {
+      "id": "cdd877227270152e",
+      "fromNode": "8403932088644308",
+      "fromSide": "bottom",
+      "toNode": "b510266da53f0b35",
+      "toSide": "top",
+      "label": "Farmacológica",
+      "color": "3"
+    },
+    {
+      "id": "a75d7a5bb9ba5671",
+      "fromNode": "b510266da53f0b35",
+      "fromSide": "left",
+      "toNode": "ea3aeadae324ea28",
+      "toSide": "right",
+      "label": "No",
+      "color": "4"
+    },
+    {
+      "id": "b6e5231d8c12e15d",
+      "fromNode": "b510266da53f0b35",
+      "fromSide": "right",
+      "toNode": "3cb03f23d779523a",
+      "toSide": "left",
+      "label": "Sí",
+      "color": "4"
+    },
+    {
+      "id": "dfeb64092fbfd1fd",
+      "fromNode": "3cb03f23d779523a",
+      "fromSide": "right",
+      "toNode": "e7138fba200c4afc",
+      "toSide": "left",
+      "color": "6",
+      "toEnd": "none"
+    },
+    {
+      "id": "86d61f24bb4abcbb",
+      "fromNode": "e7138fba200c4afc",
+      "fromSide": "right",
+      "toNode": "5574223f8b7c11bd",
+      "toSide": "left",
+      "color": "6",
+      "toEnd": "none"
+    },
+    {
+      "id": "911d67efe6500c29",
+      "fromNode": "ea3aeadae324ea28",
+      "fromSide": "bottom",
+      "toNode": "1196a7605917c217",
+      "toSide": "top"
+    },
+    {
+      "id": "9ea7ca0384862b5a",
+      "fromNode": "3cb03f23d779523a",
+      "fromSide": "bottom",
+      "toNode": "1196a7605917c217",
+      "toSide": "top"
+    },
+    {
+      "id": "1acc305e9f4755f5",
+      "fromNode": "1196a7605917c217",
+      "fromSide": "left",
+      "toNode": "e69e7fff6b44645f",
+      "toSide": "right",
+      "color": "6",
+      "toEnd": "none"
+    },
+    {
+      "id": "ed4ac6839eaad381",
+      "fromNode": "1196a7605917c217",
+      "fromSide": "right",
+      "toNode": "8f635846efb963eb",
+      "toSide": "left",
+      "color": "6",
+      "toEnd": "none"
+    },
+    {
+      "id": "4d705f72ccfacb8b",
+      "fromNode": "1196a7605917c217",
+      "fromSide": "bottom",
+      "toNode": "8cc5b28c98c1a61f",
+      "toSide": "top"
+    },
+    {
+      "id": "21bfa85467a8d729",
+      "fromNode": "8cc5b28c98c1a61f",
+      "fromSide": "left",
+      "toNode": "86d39e9bef6284dd",
+      "toSide": "right",
+      "label": "Alta",
+      "color": "4"
+    },
+    {
+      "id": "994ec071fb2968f3",
+      "fromNode": "8cc5b28c98c1a61f",
+      "fromSide": "right",
+      "toNode": "74e7c5e3af438f2f",
+      "toSide": "left",
+      "label": "Ingreso",
+      "color": "2"
+    }
+  ]
+}
