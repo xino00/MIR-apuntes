@@ -59,6 +59,7 @@ Inventario y mapeo del corpus de guías clínicas en `Libros y referencias/`. Ca
 | ESC 2024 - PAD y Aorta.pdf | 2024 | ESC | [[Síndrome Aórtico Agudo y Enfermedad Aórtica]] |
 | ESC 2025 - Miocarditis y Pericarditis (ES).pdf | 2025 | ESC / SEC | [[Miocarditis]], [[Pericarditis Aguda]], [[Taponamiento Cardiaco]], [[Síndrome Inflamatorio Miopericárdico (SIMP)]], [[Pericarditis Constrictiva]], [[Derrame Pericárdico]] (traducción SEC, **fuente primaria**) |
 | ESC 2025 - Miocarditis y Pericarditis (EN).pdf | 2025 | ESC | Mismas notas que la versión ES (original inglés) |
+| [[Libros y referencias/02_Cardiologia/ESC 2026 - Insuficiencia Cardiaca.pdf]] | 2026 | ESC | [[Insuficiencia cardiaca]] (incorporada al inventario; validación clínica pendiente) |
 | ESC-EACTS 2025 - Valvulopatias.pdf | 2025 | ESC/EACTS | [[Valvulopatías]] |
 | HFA 2019 - HFpEF (PEFF).pdf | 2019 | HFA-ESC (Pieske et al) | [[Insuficiencia cardiaca]] (diagnóstico IC-FEp, algoritmo HFA-PEFF) |
 | Reddy 2018 - Score H2FPEF.pdf | 2018 | Mayo Clinic (Reddy et al) | [[Insuficiencia cardiaca]] (score H2FPEF) |
