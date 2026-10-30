@@ -13,7 +13,7 @@ aliases:
 categoria: Urgencias
 fuente: "ESC 2018 Síncope (Brignole, Eur Heart J); EUSEM 2024 (Möckel, Eur J Emerg Med); Möckel 2026 (Curr Opin Crit Care); Furlan 2024 (J Clin Med); UpToDate 2026 (McDermott y Quinn); Kenny 2026 (NEJM); estudios primarios verificados en PubMed"
 fecha: 2026-10-28
-last_fact_checked: 2026-10-28
+last_fact_checked: 2026-10-30
 ambito: Adultos en urgencias; síntesis de guías y evidencia
 ---
 # Síncope en Urgencias — Síntesis de Guías y Evidencia
@@ -92,7 +92,7 @@ Síncope = PTC por **hipoperfusión cerebral global**, de inicio rápido, corta 
 ### TEP — pensar en él siempre, no buscarlo en todos
 - **PESIT** (NEJM 2016): búsqueda sistemática en 560 hospitalizados por un **primer** síncope (edad media 76 años) → TEP en el **17,3 %** (IC 95 % 14,2-20,5).
 - **BASEL IX** (JACC 2019): 1397 síncopes en urgencias → TEP en el **1,4 %** (IC 95 % 0,87-2,11); 2,3 % en los hospitalizados.
-- Bases de datos de > 1,6 millones de síncopes en cuatro países: 0,06-0,55 % del total y 0,5-2,1 % de los hospitalizados (citado por UpToDate).
+- Bases de datos de > 1,6 millones de síncopes en cuatro países: 0,06-0,55 % del total y 0,15-2,10 % de los hospitalizados (citado por UpToDate).
 - **Conclusión común** (Möckel, Furlan, UpToDate): no cribar sistemáticamente. Estudiarlo según la probabilidad pretest si hay disnea, dolor torácico, hipoxemia, taquicardia o sobrecarga de VD en el ECG → [[TEP - Tromboembolismo Pulmonar]].
 
 ### Ecocardiografía / POCUS
@@ -116,7 +116,7 @@ Síncope = PTC por **hipoperfusión cerebral global**, de inicio rápido, corta 
 
 - **ESC 2018:** tres categorías (solo bajo riesgo / ni bajo ni alto / cualquier alto riesgo). Los criterios mayores y menores están en la Tabla 6 de [[Síncope]].
 - **Consenso internacional 2016** (Costantino et al., Eur Heart J; lo reproducen Furlan y UpToDate):
-  - **Alto riesgo** con un solo criterio. Además de los del episodio (esfuerzo, supino, dolor torácico, palpitaciones, disnea) y de los antecedentes (IC, cardiopatía estructural, FEVI < 35 %, antecedente familiar de muerte súbita), incluye: Hb < 9 g/dL, PAS mínima en urgencias < 90 mmHg, bradicardia sinusal < 40 lpm, BRI nuevo, bloqueo bifascicular, patrón de Brugada, isquemia aguda, ritmo no sinusal nuevo y **QTc > 450 ms**.
+  - **Alto riesgo** con un solo criterio. Además de los del episodio (esfuerzo, supino, dolor torácico, palpitaciones, disnea) y de los antecedentes (IC, cardiopatía estructural, FEVI < 35 %, antecedente familiar de muerte súbita), incluye: Hb < 9 g/dL, PAS en urgencias ≤ 90 mmHg, bradicardia ≤ 40 lpm, BRI nuevo, bloqueo bifascicular, patrón de Brugada, isquemia aguda, ritmo no sinusal nuevo y **QTc > 450 ms**.
   - **Riesgo intermedio** también si solo hay rasgos de bajo riesgo pero coexiste comorbilidad (IRC, insuficiencia respiratoria o hepática, neoplasia, ECV, cardiopatía previa).
 - **UpToDate:** los rasgos que más pesan en todos los estudios son el **ECG anormal** y la **cardiopatía estructural o insuficiencia cardiaca**.
 
