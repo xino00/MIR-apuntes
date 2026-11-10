@@ -1,8 +1,17 @@
 ---
-aliases: [CAD, Cetoacidosis, Cetoacidosis diabética, Acidosis diabética, DKA, Cetoacidosis euglucémica]
-tags: [urgencias, endocrino, patologia]
-description: Cetoacidosis diabética — criterios diagnósticos y manejo en guardia
 last_fact_checked: 2026-06-09
+aliases:
+  - CAD
+  - Cetoacidosis
+  - Cetoacidosis diabética
+  - Acidosis diabética
+  - DKA
+  - Cetoacidosis euglucémica
+tags:
+  - urgencias
+  - endocrino
+  - patologia
+description: Cetoacidosis diabética — criterios diagnósticos y manejo en guardia
 ---
 # Cetoacidosis Diabética (CAD)
 

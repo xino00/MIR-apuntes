@@ -31,7 +31,7 @@ tags: [urgencias, infecciosas, ginecologia, uro]
   - *Derivar a Urología* en todos los casos al alta.
 
 - **Balanitis / Postitis**:
-  - *Candidiásica* (más frecuente; eritema, exudado blanquecino, prurito): Clotrimazol 1% crema tópica 7-14 días ± [[Fluconazol]] 150mg oral dosis única.
+  - *Candidiásica* (más frecuente; eri1tema, exudado blanquecino, prurito): Clotrimazol 1% crema tópica 7-14 días ± [[Fluconazol]] 150mg oral dosis única.
   - *Bacteriana* (eritema sin exudado, fisuras, olor): Higiene local. Si complicada o celulitis: [[Amoxicilina-Clavulanico|Amoxicilina/Clavulánico]] 875/125mg/8h, 5-7 días.
   - *Nota:* Si fimosis asociada, derivar a Urología.
 
