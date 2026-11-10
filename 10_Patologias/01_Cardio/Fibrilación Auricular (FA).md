@@ -2,12 +2,12 @@
 aliases: [Fibrilación Auricular, FA, FA con RVR]
 tags: [urgencias, cardio, patologia]
 fuente: "ESC AF 2024 (ehae176) + ESC HF 2026 (ehag100) + ESC ERC 2026 (ehag098) + Manual 12 Octubre 2022 cap. 16 + FT CIMA"
-last_fact_checked: 2026-10-30
+last_fact_checked: 2026-11-10
 ---
 # Fibrilación Auricular (FA)
 
 **Fuente:** ESC AF 2024 + ESC HF 2026 + ESC ERC 2026 + Manual 12 de Octubre, cap. 16 + fichas técnicas (FT) de CIMA.
-**Concepto clave:** La FA es una taquiarritmia supraventricular en la que las aurículas se despolarizan de forma desorganizada y dejan de contraerse con eficacia. Es la arritmia más frecuente (prevalencia del 2-4 %) y multiplica por 5 el riesgo de ictus y por 3 el de insuficiencia cardiaca (IC).
+**Concepto clave:** La FA es una taquiarritmia supraventricular en la que las aurículas se despolarizan de forma desorganizada y dejan de contraerse con eficacia. Es la arritmia más frecuente (prevalencia del 2-4 %, Manual) y multiplica por 5 el riesgo de ictus (Manual; ESC AF 2024, §6.1). El riesgo de insuficiencia cardiaca (IC) se multiplica por 3 según el Manual y por 4-5 según la ESC AF 2024 (§3.5), que la señala como la complicación no mortal más frecuente.
 
 > [!abstract] Orden de decisiones en urgencias
 > 1. **¿Está inestable por la FA?** Cardioversión eléctrica (CVE) urgente.
@@ -20,13 +20,14 @@ last_fact_checked: 2026-10-30
 Cuando las fuentes dan pautas distintas para un mismo fármaco, la nota las recoge todas, cada una con su origen.
 
 ## 📋 Nomenclatura y Criterios
-- **Electrocardiograma:** no hay ondas P, aparecen ondas *f* fibrilatorias y los intervalos R-R son irregulares.
-- **Valvular o no valvular:** solo se llama **FA valvular** a la que se asocia a una *prótesis valvular mecánica* o a una *estenosis mitral moderada o grave*.
+- **Electrocardiograma:** no hay ondas P, aparecen ondas *f* fibrilatorias y los intervalos R-R son irregulares. El diagnóstico exige confirmarla en un ECG, sea de 12 derivaciones, de varias o de una sola (ESC AF 2024, tabla de recomendaciones 1, I A).
+- **Valvular o no valvular:** el Manual llama **FA valvular** solo a la que se asocia a una *prótesis valvular mecánica* o a una *estenosis mitral moderada o grave*. La ESC AF 2024 considera el término obsoleto y pide evitarlo (§6.2.1), pero el criterio sigue sirviendo para elegir el anticoagulante.
 - **Según la duración:**
-  - **Paroxística:** dura < 7 días (a menudo cede sola en < 48 h).
-  - **Persistente:** dura ≥ 7 días y < 12 meses.
-  - **Persistente de larga evolución:** dura > 12 meses y todavía se intenta recuperar el ritmo sinusal.
-  - **Permanente:** se ha renunciado a recuperar el ritmo sinusal, porque se asume el fracaso o porque no se intenta. Solo se controla la frecuencia.
+  - **De novo o primer diagnóstico:** no se había diagnosticado antes, con independencia de los síntomas, del patrón temporal o de la duración (Manual; ESC AF 2024).
+  - **Paroxística:** dura < 7 días (Manual); cede sola o con una intervención en ese plazo, y la mayoría de las que ceden solas duran < 48 h (ESC AF 2024).
+  - **Persistente:** dura ≥ 7 días y < 12 meses (Manual); no cede sola (ESC AF 2024).
+  - **Persistente de larga evolución:** dura > 12 meses (Manual) o al menos 12 meses (ESC AF 2024) y todavía se intenta recuperar el ritmo sinusal.
+  - **Permanente:** paciente y médico deciden no intentar ya recuperar el ritmo sinusal (ESC AF 2024). Solo se controla la frecuencia.
 
 ## 🩺 Estrategia 1: Control de Frecuencia (FA con RVR)
 Controlar la frecuencia es frenar la respuesta ventricular rápida (RVR) sin intentar recuperar el ritmo sinusal. Tiene tres usos:
@@ -65,7 +66,7 @@ Si el paciente está inestable y la causa es la FA, no se frena: se hace una CVE
 - **IC aguda:** los BB están contraindicados (ESC AF 2024, tabla 12; Manual). Se inician con cautela cuando el paciente ya está estabilizado (ESC HF 2026). Hay una posible excepción: landiolol a dosis baja si la descompensación se atribuye a la arritmia (ESC AF 2024, §9.1; FT Rapibloc).
 
 ## ⚡ Estrategia 2: Control del Ritmo (Cardioversión)
-Controlar el ritmo es recuperar y mantener el ritmo sinusal. Es la estrategia de elección en el 1.er episodio, en jóvenes (≤ 70 años), con FEVI reducida y en la FA sintomática mal controlada.
+Controlar el ritmo es recuperar y mantener el ritmo sinusal. Es la estrategia de elección en el 1.er episodio, en jóvenes (≤ 70 años), con FEVI reducida y en la FA sintomática mal controlada (criterios del Manual, tabla 6).
 
 1. **Paciente inestable: CVE urgente** (ESC AF 2024, I C; ESC HF 2026, I C en la IC descompensada con FA rápida).
    - Choque sincronizado de **150-200 J** (Manual); la ESC no fija una cifra.
@@ -83,6 +84,7 @@ Controlar el ritmo es recuperar y mantener el ritmo sinusal. Es la estrategia de
      - [[Flecainida]] i.v.: **1-2 mg/kg en 10 min** (ESC AF 2024, tabla 13) o **2 mg/kg en ≥ 10 min, máximo 150 mg** (FT Apocard). V.o.: **200-300 mg** (ESC AF 2024, Manual).
      - Flecainida con aclaramiento de creatinina (ClCr) < 35: la ESC AF 2024 dice no usarla; la FT Apocard y la ESC ERC 2026, reducir la dosis.
      - Vernakalant: **3 mg/kg en 10 min** (máx. 339 mg) y, a los 15 min, **2 mg/kg en 10 min** (máx. 226 mg) (ESC AF 2024, Manual, FT Brinavess). No debe darse en las 4 h anteriores ni posteriores a un antiarrítmico i.v. de clase I o III (FT).
+     - Vernakalant, no usar si: TAS < 100 mmHg, síndrome coronario agudo en el último mes, IC en clase NYHA III o IV, QT prolongado o estenosis aórtica grave (ESC AF 2024, tabla 13).
    - **Con cardiopatía estructural (hipertrofia ventricular izquierda grave, IC-FEr, enfermedad coronaria):**
      - [[Amiodarona]]: **300 mg i.v. en 30-60 min**, seguidos de una perfusión de **900-1200 mg/24 h** (ESC AF 2024, tabla 13) o de 900 mg/24 h (Manual).
      - FT Trangorex: 5 mg/kg en 20 min-2 h y después 10-20 mg/kg/24 h (límite 1200 mg).
@@ -90,7 +92,13 @@ Controlar el ritmo es recuperar y mantener el ritmo sinusal. Es la estrategia de
      - ⚠ La FT contraindica la amiodarona i.v. en hipotensión, insuficiencia respiratoria grave, miocardiopatía o IC, aunque las guías la recomiendan. Decidir con Cardiología.
 4. **Mantenimiento del ritmo a largo plazo:**
    - **Ablación con catéter (aislamiento de las venas pulmonares, PVI):** es **primera línea (I A)** en la FA paroxística sintomática cuando se opta por controlar el ritmo (ESC AF 2024, §7.2, tabla 4, recomendaciones revisadas; en 2020 era IIa).
-   - **Antiarrítmicos (flecainida, amiodarona):** son la alternativa o el complemento si la ablación no está disponible, se rechaza o está contraindicada.
+   - **Ablación tras los fármacos:** también es I A en la FA paroxística o persistente resistente o intolerante a los antiarrítmicos (ESC AF 2024, tabla de recomendaciones 19).
+   - **Antiarrítmicos:** son una opción de pleno derecho, no solo el recurso cuando no hay ablación; se elige con el paciente. El fármaco depende de la cardiopatía (ESC AF 2024, tabla de recomendaciones 18):
+     - Flecainida o propafenona (I A): no con disfunción sistólica del ventrículo izquierdo, hipertrofia ventricular izquierda grave ni enfermedad coronaria.
+     - Dronedarona (I A): válida también con cardiopatía isquémica o valvular y con FEVI levemente reducida o conservada. La ESC HF 2026 pide evitarla en la IC-FEr, que ahora incluye la FEVI < 50 %.
+     - Amiodarona (I A): en la FA con IC-FEr; vigilar la toxicidad extracardiaca.
+     - Sotalol (IIb A): con FEVI normal o enfermedad coronaria; exige vigilar el QT, el potasio y la función renal.
+     - No se dan antiarrítmicos con trastornos avanzados de la conducción si no hay marcapasos (III C).
 
 ## 🚫 FA preexcitada
 Se reconoce por un QRS ancho e irregular, debido a una vía accesoria. Hay riesgo de fibrilación ventricular y muerte súbita.
@@ -119,8 +127,9 @@ Se reconoce por un QRS ancho e irregular, debido a una vía accesoria. Hay riesg
   - **Con FG < 30 no se usan CHA₂DS₂-VA ni HAS-BLED**: se considera al paciente de alto riesgo (ESC ERC 2026, III).
 
 **Riesgo de sangrado:**
-- **HAS-BLED ≥ 3:** obliga a controlar mejor los factores modificables (HTA, fármacos), pero rara vez contraindica por sí solo la anticoagulación.
-- **Cierre percutáneo de la orejuela:** si hay contraindicación absoluta para la anticoagulación por sangrado activo o recurrente grave.
+- **Factores modificables:** hay que buscarlos y corregirlos (HTA, fármacos) en todo paciente candidato a anticoagulación (ESC AF 2024, tabla de recomendaciones 12, I B).
+- **Escalas de sangrado (HAS-BLED y otras):** no se usan para decidir si se inicia o se retira la anticoagulación (III B). La ESC AF 2024 no recomienda ninguna escala concreta y recuerda que hay muy pocas contraindicaciones absolutas.
+- **Cierre percutáneo de la orejuela:** puede considerarse cuando la anticoagulación a largo plazo está contraindicada (ESC AF 2024, tabla de recomendaciones 10, IIb C).
 
 ## 🧩 Manejo integral de comorbilidades — AF-CARE (ESC AF 2024)
 La guía de 2024 ordena el manejo en cuatro pilares, que forman el acrónimo **AF-CARE**:
@@ -140,7 +149,7 @@ La guía de 2024 ordena el manejo en cuatro pilares, que forman el acrónimo **A
 - [[Insuficiencia cardiaca]]
 - [[MOC - CARDIOLOGIA]]
 - *ESC Guidelines for the management of atrial fibrillation 2024 (ehae176).*
-- *ESC Guidelines de insuficiencia cardiaca 2026 (ehag100).*
-- *ESC Guidelines de enfermedad renal crónica 2026 (ehag098).*
+- *ESC Guidelines for the management of heart failure 2026 (ehag100).*
+- *ESC Guidelines for the management of cardiovascular disease and chronic kidney disease 2026 (ehag098).*
 - *Manual de diagnóstico y terapéutica médica Hospital 12 de Octubre, 9.ª ed. 2022. Cap. 16.*
 - *Fichas técnicas de CIMA (AEMPS): Beloken, Manidon, Kern, Rapibloc, Apocard, Brinavess, Trangorex, Eliquis.*

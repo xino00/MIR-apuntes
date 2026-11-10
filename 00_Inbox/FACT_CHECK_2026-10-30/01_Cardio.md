@@ -4,7 +4,7 @@ aliases:
 tags: [cardio]
 description: Errores de la nota original de FA y del bloque de FA de Protocolos Rápidos, con fuente y corrección aplicada.
 fecha: 2026-10-30
-estado: aplicado en la rama worktree-fa-flujograma, sin commit
+estado: aplicado e integrado en main (commit ce2d3ec)
 ---
 
 # Cardio — FA en urgencias
