@@ -321,15 +321,16 @@ De elección en 1er episodio, jóvenes (≤70a), FEVI reducida o FA sintomática
 - FA preexcitada (QRS ancho e irregular): SIN BB, verapamilo, diltiazem, digoxina ni amiodarona IV. CVE si hay compromiso. ([[Fibrilación Auricular (FA)#🚫 FA preexcitada|Ver en la nota]])
 
 ### ANTICOAGULACIÓN
-**Calcular CHA₂DS₂-VA y HAS-BLED** (ESC AF 2024 sustituyó CHA₂DS₂-VASc por CHA₂DS₂-VA, sin componente sexo; anticoagular si ≥2 [Clase I], considerar si =1. [[Escala CHA2DS2-VASc y HAS-BLED]])
+**Calcular CHA₂DS₂-VA** (ESC AF 2024 sustituyó CHA₂DS₂-VASc por CHA₂DS₂-VA, sin componente sexo; anticoagular si ≥2 [Clase I], considerar si =1. [[Escala CHA2DS2-VASc y HAS-BLED]])
+Riesgo de sangrado: corregir los factores modificables (I B). Las escalas como HAS-BLED no deciden si se inicia o se retira la anticoagulación (ESC AF 2024, III B).
 
 
 **Elección entre ACOd y antivitamina K:**
 
 |  | ACOd | Antivitamina K |
 | --- | --- | --- |
-| Indicación | De elección.  < R sangrado mayor > R sangrado GI | FA valvular (prótesis/EM moderada - severa) FG <15 sin diálisis (individualizar, ESC ERC 2026) Child Pugh C |
-| Contraindicación | FA valvular (prótesis/EM moderada - severa) Child Pugh C. FG <15: no es absoluta en ESC ERC 2026 (apixabán 2,5mg/12h o AVK si no dializa; anti-Xa a dosis baja si dializa); Manual y FT discrepan |  |
+| Indicación | De elección.  < R sangrado mayor > R sangrado GI | Prótesis valvular mecánica o EM moderada - severa FG <15 sin diálisis (individualizar, ESC ERC 2026) Child Pugh C |
+| Contraindicación | Prótesis valvular mecánica o EM moderada - severa Child Pugh C. FG <15: no es absoluta en ESC ERC 2026 (apixabán 2,5mg/12h o AVK si no dializa; anti-Xa a dosis baja si dializa); Manual y FT discrepan |  |
 
 
 
@@ -1717,15 +1718,16 @@ Anticoagulación: HNF /HBPM
 
 
 ### ANTICOAGULACIÓN
-**Calcular CHA₂DS₂-VA y HAS-BLED** (ESC AF 2024. [[Escala CHA2DS2-VASc y HAS-BLED]])
+**Calcular CHA₂DS₂-VA** (ESC AF 2024. [[Escala CHA2DS2-VASc y HAS-BLED]])
+Riesgo de sangrado: corregir los factores modificables (I B). Las escalas como HAS-BLED no deciden si se inicia o se retira la anticoagulación (ESC AF 2024, III B).
 
 
 **Elección entre ACOd y antivitamina K:**
 
 |  | ACOd | Antivitamina K |
 | --- | --- | --- |
-| Indicación | De elección.  < R sangrado mayor > R sangrado GI | FA valvular (prótesis/EM moderada - severa) FG <15 sin diálisis (individualizar, ESC ERC 2026) Child Pugh C |
-| Contraindicación | FA valvular (prótesis/EM moderada - severa) Child Pugh C. FG <15: no es absoluta en ESC ERC 2026 (apixabán 2,5mg/12h o AVK si no dializa; anti-Xa a dosis baja si dializa); Manual y FT discrepan |  |
+| Indicación | De elección.  < R sangrado mayor > R sangrado GI | Prótesis valvular mecánica o EM moderada - severa FG <15 sin diálisis (individualizar, ESC ERC 2026) Child Pugh C |
+| Contraindicación | Prótesis valvular mecánica o EM moderada - severa Child Pugh C. FG <15: no es absoluta en ESC ERC 2026 (apixabán 2,5mg/12h o AVK si no dializa; anti-Xa a dosis baja si dializa); Manual y FT discrepan |  |
 
 
 

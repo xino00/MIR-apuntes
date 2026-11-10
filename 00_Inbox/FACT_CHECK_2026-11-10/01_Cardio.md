@@ -80,7 +80,8 @@ estado: aplicado en la rama worktree-fa-revision, sin merge a main
 - Los encabezados no cambian.
 
 ## Sin resolver
-- **[[03 - Protocolos Rápidos Boxes Urgencias]]** sigue diciendo «Calcular CHA₂DS₂-VA y HAS-BLED» y «FA valvular»: afectado por los hallazgos 1 y 6, sin tocar.
-- **Canvas [[FA en Urgencias - Flujograma.canvas|de FA]]:** no se ha comparado con la nota tras estos cambios.
+- **[[03 - Protocolos Rápidos Boxes Urgencias]]:** aplicados los hallazgos 1 y 6 en sus dos copias del bloque de FA (ya no dice «y HAS-BLED» ni «FA valvular»).
+- **Canvas [[FA en Urgencias - Flujograma.canvas|de FA]]:** comparado con la nota corregida; ya era coherente (HAS-BLED no veta, exclusiones de vernakalant, criterios del Manual tabla 6) y no se ha tocado.
+- **[[Escala CHA2DS2-VASc y HAS-BLED]]:** no revisada; puede seguir usando HAS-BLED como umbral.
 - **ESC 2026 IC y ESC 2026 ERC:** solo comprobación puntual de que las secciones existen y son coherentes; la verificación dato a dato es la del 2026-10-30.
 - Pendientes del informe anterior: copia duplicada en Protocolos Rápidos, `Flecainida.md`, notas [[Arritmias]] e [[Insuficiencia cardiaca aguda]].
